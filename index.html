@@ -1,0 +1,98 @@
+<!doctype html>
+<html>
+<head>
+    <title>Climate Viewer &trade; Beta</title>
+  <meta charset="utf-8">
+  <!-- Tell IE to use the latest, best version (or Chrome Frame if pre-IE11). -->
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+  <!-- Make the application on mobile take up the full browser screen and disable user scaling. -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+  <link href='//fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
+  <link href='//fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+  <link href="lib/cesium/1.9/Widgets/widgets.css" rel='stylesheet' type='text/css'/>
+  <link href="lib/cesium/1.9/Widgets/Viewer/Viewer.css" rel='stylesheet' type='text/css'/>
+  <link href="lib/bootstrap-3.3.4-dist/css/bootstrap.min.css" rel='stylesheet' type='text/css' />
+  <link href="lib/font-awesome-4.3.0/css/font-awesome.min.css" rel='stylesheet' type='text/css' />
+  <link href="lib/climate-viewer.css" rel='stylesheet' type='text/css' />
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+  <link rel="icon" href="favicon.ico" type="image/x-icon" />
+</head>
+ 
+<body>
+  <div id="cesiumContainer"></div>
+  <div id="loadingIndicator" class="loadingIndicator"></div>
+  <div id="baseLayerPickerContainer"></div>
+  <div id="picker" style="display:none">
+    <div role="tabpanel">
+      <!-- Nav tabs -->
+      <ul class="nav nav-tabs" role="tablist">
+        <li role="presentation" class="active"><a href="#layers" aria-controls="layers" role="tab" data-toggle="tab">Layers</a></li>
+        <li role="presentation"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Views</a></li>
+        <li role="presentation"><a href="#settings" aria-controls="settings" role="tab" data-toggle="tab">Settings</a></li>
+      </ul>
+      <!-- Tab panes -->
+      <div class="tab-content">
+        <div role="tabpanel" class="tab-pane fade in active" id="layers">
+      <!--  <div class="container-fluid">
+              <div class="row">
+                <div class="col-xs-12">
+                  <h2>Input</h2>
+                    <div class="form-group">
+                      <label for="input-search" class="sr-only">Search Tree:</label>
+                      <input type="input" class="form-control" id="input-search" placeholder="Type to search..." value="">
+                    </div>
+                    <div class="checkbox">
+                      <label>
+                        <input type="checkbox" class="checkbox" id="chk-ignore-case" value="false">
+                        Ignore Case
+                      </label>
+                    </div>
+                    <div class="checkbox">
+                      <label>
+                        <input type="checkbox" class="checkbox" id="chk-exact-match" value="false">
+                        Exact Match
+                      </label>
+                    </div>
+                    <button type="button" class="btn btn-success" id="btn-search">Search</button>
+                    <button type="button" class="btn btn-default" id="btn-clear-search">Clear</button>
+                    <h2>Results</h2>
+                    <div id="search-output"></div>
+                </div>
+              </div>
+            </div> -->
+            <p><span></span>Click &ldquo; <i class="fa fa-chevron-right"></i> &rdquo; to expand categories</p>
+            <!-- Build Layer Tree -->
+            <div id="accordion"></div>
+            <div id="treeview" class=""></div>
+        </div> <!-- tabpanel -->
+        <div role="tabpanel" class="tab-pane fade" id="home">
+          <ul class="form">
+            <li class="selected"><a id="view-feed" class="load-view feed" href="#"><i class="fa fa-bullhorn"></i>Feed</a></li>
+            <li class=""><a id="view-cesium" class="load-view globe" href="#"><i class="fa fa-globe"></i>Globe</a></li>
+            <li class=""><a id="view-leaflet" class="load-view map" href="#"><i class="fa fa-location-arrow"></i>Map</a></li>
+            <li class=""><a id="view-dock" class="load-view dock" href="#"><i class="fa fa-line-chart"></i>Dock</a></li>
+            <li class=""><a id="view-graph" class="load-view graph" href="#"><i class="fa fa-line-chart"></i>Graph</a></li>
+          </ul>
+        </div> <!-- tabpanel -->
+        <div role="tabpanel" class="tab-pane fade" id="settings">
+          <ul class="form">
+            <li class=""><a id="view-profile" class="load-view profile" href="#"><i class="fa fa-user"></i>Edit Profile</a></li>
+            <li class=""><a class="messages" href="#"><i class="fa fa-envelope"></i>Messages <em>5</em></a></li>
+            <li class=""><a class="settings" href="#"><i class="fa fa-cog"></i>App Settings</a></li>
+            <li class="selected"><a class="logout" href="#"><i class="fa fa-sign-out"></i>Logout</a></li>
+          </ul>
+        </div> <!-- tabpanel -->
+      </div> <!-- tab-content -->
+    </div> <!-- tabpanel -->
+  </div> <!-- #picker -->
+
+    <div class="avatar"><img src="img/cv3d.png" title="Click here to show/hide the layer menu" alt="Menu Toggle" /> </div>
+
+  <script type="text/javascript" src="lib/jquery-2.1.3/jquery-2.1.3.min.js"></script> 
+  <script type="text/javascript" src="lib/bootstrap-3.3.4-dist/js/bootstrap.min.js"></script> 
+  <script type="text/javascript" src="lib/lodash-2.4.1/lodash.min.js"></script>
+  <script type="text/javascript" src="lib/cesium/1.9/Cesium.js"></script>
+  <script type="text/javascript" src="lib/climate-viewer.js"></script>
+
+</body>
+</html>
