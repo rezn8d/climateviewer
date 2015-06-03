@@ -7,11 +7,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
   <!-- Make the application on mobile take up the full browser screen and disable user scaling. -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
-  <link href='//fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
-  <link href='//fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
   <link href="lib/cesium/1.9/Widgets/widgets.css" rel='stylesheet' type='text/css'/>
   <link href="lib/cesium/1.9/Widgets/Viewer/Viewer.css" rel='stylesheet' type='text/css'/>
   <link href="lib/bootstrap-3.3.4-dist/css/bootstrap.min.css" rel='stylesheet' type='text/css' />
+  <link href="lib/jquery-ui-1.11.4.custom/jquery-ui.min.css" rel='stylesheet' type='text/css' />
+  <link href="lib/jquery-ui-1.11.4.custom/jquery-ui.theme.min.css" rel='stylesheet' type='text/css' />
   <link href="lib/font-awesome-4.3.0/css/font-awesome.min.css" rel='stylesheet' type='text/css' />
   <link href="lib/climate-viewer.css" rel='stylesheet' type='text/css' />
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
@@ -66,13 +66,10 @@
             <div id="treeview" class=""></div>
         </div> <!-- tabpanel -->
         <div role="tabpanel" class="tab-pane fade" id="home">
-          <ul class="form">
-            <li class="selected"><a id="view-feed" class="load-view feed" href="#"><i class="fa fa-bullhorn"></i>Feed</a></li>
-            <li class=""><a id="view-cesium" class="load-view globe" href="#"><i class="fa fa-globe"></i>Globe</a></li>
-            <li class=""><a id="view-leaflet" class="load-view map" href="#"><i class="fa fa-location-arrow"></i>Map</a></li>
-            <li class=""><a id="view-dock" class="load-view dock" href="#"><i class="fa fa-line-chart"></i>Dock</a></li>
-            <li class=""><a id="view-graph" class="load-view graph" href="#"><i class="fa fa-line-chart"></i>Graph</a></li>
-          </ul>
+            <div class="onerow map-features">
+              <div id="sun" class="col3 map-feature-off"><i class="fa fa-sun-o fa-fw"></i><span>Sun</span></div>
+              <div id="terrain" class="col3 map-feature-off"><i class="fa fa-area-chart fa-fw"></i><span>Terrain</span></div>
+            </div>
         </div> <!-- tabpanel -->
         <div role="tabpanel" class="tab-pane fade" id="settings">
           <ul class="form">
@@ -88,11 +85,14 @@
 
     <div class="avatar"><img src="img/cv3d.png" title="Click here to show/hide the layer menu" alt="Menu Toggle" /> </div>
 
-  <script type="text/javascript" src="lib/jquery-2.1.3/jquery-2.1.3.min.js"></script> 
-  <script type="text/javascript" src="lib/bootstrap-3.3.4-dist/js/bootstrap.min.js"></script> 
-  <script type="text/javascript" src="lib/lodash-2.4.1/lodash.min.js"></script>
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.2.1/jquery-migrate.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/js/bootstrap.min.js"></script> 
+  <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script> 
   <script type="text/javascript" src="lib/cesium/1.9/Cesium.js"></script>
   <script type="text/javascript" src="lib/climate-viewer.js"></script>
+  <script type="text/javascript" src="lib/climate-viewer-layers.js"></script>
+  <script type="text/javascript" src="lib/climate-viewer-menu.js"></script>
 
 </body>
 </html>
