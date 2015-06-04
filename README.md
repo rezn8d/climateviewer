@@ -1,5 +1,7 @@
 # Climate Viewer &trade;
-Geographic Information System (GIS) meets Activism: Maptivism [Launch App](http://climateviewer.net/)
+Geographic Information System (GIS) meets Activism: Maptivism 
+
+[LAUNCH DEMO](http://climateviewer.net/)
 
 ![Climate Viewer](http://climateviewer.com/images/climate-viewer-cesium-beta.jpg)
 
