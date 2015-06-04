@@ -1,4 +1,4 @@
-# climateviewer
+# Climate Viewer &trade;
 Climate Viewer - Cesium-powered GIS meets activism, Maptivism
 
 Live demo [http://climateviewer.net/](http://climateviewer.com/)
