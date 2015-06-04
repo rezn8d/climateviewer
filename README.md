@@ -1,5 +1,5 @@
 # Climate Viewer &trade;
-Climate Viewer - Cesium-powered GIS meets activism, Maptivism
+Geographic Information System (GIS) meets Activism: Maptivism
 
 Live demo [http://climateviewer.net/](http://climateviewer.com/)
 
