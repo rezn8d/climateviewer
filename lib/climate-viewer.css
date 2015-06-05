@@ -34,13 +34,14 @@ img { width: 100%; max-width: 100%;  height: auto; }
 .layer-source .fa-stack:hover .fa-stack-1x { color:#1982d1; }
 
 div.panel-default { border-color: #555; }
+div.panel-default i.fa.fa-map-marker { min-width: 12px; padding-right: 3px; }
 div.panel-heading:hover, div.panel-heading:focus { cursor:pointer; }
 div.panel-heading a:hover, div.panel-heading a:focus { text-decoration: none; }
 
 div.panel-body { padding:0 0 20px 0;}
 div.panel-body a {   display: block; text-align: left; border-top: 1px solid #eee; border-right: 0; border-left: 0; border-bottom: 0; border-radius: 0;  }
 div.panel-body a:hover, div.panel-body a:focus  { border-top: 1px solid #1982d1; }
-div.panel-body a i { text-align:right; }
+div.panel-body a i { text-align:right; margin-right:5px; color:#1982d1; }
 div.section-title { display:block; clear:both; color: #1982d1; padding: 10px 5px; font-weight: bold;  background-color: #fafafa; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd; }
 .panel-default>.panel-heading {   border-bottom: 1px solid #555; background-color: #3d3d3d; color: #DDD; border-radius:0; }
 .panel-default:last-child { border-bottom: 0; }
