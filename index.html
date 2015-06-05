@@ -10,8 +10,6 @@
   <link href="lib/cesium/1.9/Widgets/widgets.css" rel='stylesheet' type='text/css'/>
   <link href="lib/cesium/1.9/Widgets/Viewer/Viewer.css" rel='stylesheet' type='text/css'/>
   <link href="lib/bootstrap-3.3.4-dist/css/bootstrap.min.css" rel='stylesheet' type='text/css' />
-  <link href="lib/jquery-ui-1.11.4.custom/jquery-ui.min.css" rel='stylesheet' type='text/css' />
-  <link href="lib/jquery-ui-1.11.4.custom/jquery-ui.theme.min.css" rel='stylesheet' type='text/css' />
   <link href="lib/font-awesome-4.3.0/css/font-awesome.min.css" rel='stylesheet' type='text/css' />
   <link href="lib/climate-viewer.css" rel='stylesheet' type='text/css' />
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
@@ -32,37 +30,11 @@
       <!-- Tab panes -->
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane fade in active" id="layers">
-      <!--  <div class="container-fluid">
-              <div class="row">
-                <div class="col-xs-12">
-                  <h2>Input</h2>
-                    <div class="form-group">
-                      <label for="input-search" class="sr-only">Search Tree:</label>
-                      <input type="input" class="form-control" id="input-search" placeholder="Type to search..." value="">
-                    </div>
-                    <div class="checkbox">
-                      <label>
-                        <input type="checkbox" class="checkbox" id="chk-ignore-case" value="false">
-                        Ignore Case
-                      </label>
-                    </div>
-                    <div class="checkbox">
-                      <label>
-                        <input type="checkbox" class="checkbox" id="chk-exact-match" value="false">
-                        Exact Match
-                      </label>
-                    </div>
-                    <button type="button" class="btn btn-success" id="btn-search">Search</button>
-                    <button type="button" class="btn btn-default" id="btn-clear-search">Clear</button>
-                    <h2>Results</h2>
-                    <div id="search-output"></div>
-                </div>
-              </div>
-            </div> -->
             <p><span></span>Click &ldquo; <i class="fa fa-chevron-right"></i> &rdquo; to expand categories</p>
             <!-- Build Layer Tree -->
-            <div id="accordion"></div>
-            <div id="treeview" class=""></div>
+            <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+              <div class="panel panel-default"></div>
+            </div>
         </div> <!-- tabpanel -->
         <div role="tabpanel" class="tab-pane fade" id="settings">
           <div class="onerow map-features">
@@ -79,7 +51,6 @@
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.2.1/jquery-migrate.min.js"></script>
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/js/bootstrap.min.js"></script> 
-  <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script> 
   <script type="text/javascript" src="lib/cesium/1.9/Cesium.js"></script>
   <script type="text/javascript" src="lib/climate-viewer.js"></script>
   <script type="text/javascript" src="lib/climate-viewer-layers.js"></script>

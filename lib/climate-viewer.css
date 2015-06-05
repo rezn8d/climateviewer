@@ -1,6 +1,6 @@
 body, html { font-family: 'Open-Sans', sans-serif; font-weight:400; background:#3d3d3d }
 span, p, blockquote, h1, h2, h3, h4, h5, h6, small, strong, button, input, label { font-family: 'Open-Sans', sans-serif !important; }
-h1 { font-family: 'Poiret One', cursive; text-align:center; font-size:3em; color:#000 !important; text-decoration:none }
+h1 { text-align:center; font-size:3em; color:#000 !important; text-decoration:none }
 strong { font-weight:700 }
 small { font-size:.8em }
 sup { font-size:.4em }
@@ -33,12 +33,20 @@ img { width: 100%; max-width: 100%;  height: auto; }
 .layer-source .fa-stack:hover .fa-stack-2x { color:#FFFFFF; }
 .layer-source .fa-stack:hover .fa-stack-1x { color:#1982d1; }
 
+div.panel-default { border-color: #555; }
+div.panel-heading:hover, div.panel-heading:focus { cursor:pointer; }
+div.panel-heading a:hover, div.panel-heading a:focus { text-decoration: none; }
+
+div.panel-body { padding:0 0 20px 0;}
+div.panel-body a {   display: block; text-align: left; border-top: 1px solid #eee; border-right: 0; border-left: 0; border-bottom: 0; border-radius: 0;  }
+div.panel-body a:hover, div.panel-body a:focus  { border-top: 1px solid #1982d1; }
+div.panel-body a i { text-align:right; }
+div.section-title { display:block; clear:both; color: #1982d1; padding: 10px 5px; font-weight: bold;  background-color: #fafafa; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd; }
+.panel-default>.panel-heading {   border-bottom: 1px solid #555; background-color: #3d3d3d; color: #DDD; border-radius:0; }
+.panel-default:last-child { border-bottom: 0; }
 .tab-pane h3 { border-radius: 0 !important; }
 #accordion label.layer-button { display:block; border-radius: 0 !important; background:transparent; }
 .layer-button span {	text-align: left; font-size:14px; }
- div.section { display:block; clear:both; color: #1982d1; margin:5px 0; font-size:16px; padding:6px; }
- .section-icon, .section-title { display:inline-block; float:left;  }
- .section-icon { margin-left:2px; margin-right:10px;  }
 
  .layer-source { background:#3d3d3d; display:block; clear:both; overflow:visible; vertical-align:middle; font-size:.7em; line-height:1.2em; min-height: 55px; }
  .layer-source h3 { margin-left:10px; }
