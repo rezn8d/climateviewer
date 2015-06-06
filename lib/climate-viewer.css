@@ -5,24 +5,16 @@ strong { font-weight:700 }
 small { font-size:.8em }
 sup { font-size:.4em }
 input, label { cursor: pointer; }
-
-.center { text-align:center }
 img { width: 100%; max-width: 100%;  height: auto; }
 
-#view { height:100%; padding:0; z-index:2; position: relative; }
-#feed { height:100%; padding:0; position: relative; }
+.center { text-align:center }
 
-#picker { position:fixed; top:0; left:0; height:100%; width:330px; overflow-x:hidden; overflow-y:auto; padding-bottom:30px; z-index:99999; background:#222; }
-
-#profile { position:absolute; top:30px; left:20px; z-index:7; background:transparent; }
-#profile .well { background:none; border:0; }
-#profile .panel-body { background:#FFF; border: 2px solid #ccc; border: 2px solid rgba(0,0,0,0.3); -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,1); -moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,1);  box-shadow: 0px 0px 20px 0px rgba(0,0,0,1); }
 
 .avatar { position:fixed; top: 10px; left:50%; margin-left:-32px; z-index:100000; width:64px; height:64px; background:#000; overflow:hidden; border: 5px solid #ccc; border: 5px solid rgba(0,0,0,0.3);  border-radius: 50%; -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,1); -moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,1);  box-shadow: 0px 0px 20px 0px rgba(0,0,0,1); }
 .avatar img { width:100% }
 .avatar:hover { background:#FFF; border: 5px solid #EEE; border: 5px solid rgba(255,255,255,0.3);  border-radius: 50%; -webkit-box-shadow: 0px 0px 20px 0px rgba(255,255,255,1); -moz-box-shadow: 0px 0px 20px 0px rgba(255,255,255,1);  box-shadow: 0px 0px 20px 0px rgba(255,255,255,1); }
 
-/* SIDEBAR */
+/* 
 .fa-stack-2x { color:#FFFFFF; }
 .fa-stack-1x { color:#1982d1; }
 .fa-stack:hover .fa-stack-2x { color:#000000; }
@@ -32,40 +24,40 @@ img { width: 100%; max-width: 100%;  height: auto; }
 .layer-source .fa-stack-1x { color:#FFFFFF; }
 .layer-source .fa-stack:hover .fa-stack-2x { color:#FFFFFF; }
 .layer-source .fa-stack:hover .fa-stack-1x { color:#1982d1; }
+*/
 
-.tab-pane h3 { border-radius: 0 !important; }
+/* Sidebar */
+#picker { position:fixed; top:0; left:0; height:100%; width:330px; overflow-x:hidden; overflow-y:auto; padding-bottom:30px; z-index:99999; background:#222; }
 
-.panel-default>.panel-heading {   border-bottom: 1px solid #555; background-color: #3d3d3d; color: #DDD; border-radius:0; }
-.panel-default:last-child { border-bottom: 0; }
-
+/* Layer Accordion */
+div.tab-pane h3 { border-radius: 0 !important; }
+div.panel-default>.panel-heading {   border-bottom: 1px solid #555; background-color: #3d3d3d; color: #DDD; border-radius:0; }
+div.panel-default:last-child { border-bottom: 0; }
 div.panel-default { border-color: #555; }
 div.panel-default i.fa.fa-map-marker { min-width: 12px; padding-right: 3px; }
 div.panel-heading:hover, div.panel-heading:focus { cursor:pointer; }
 div.panel-heading a:hover, div.panel-heading a:focus { text-decoration: none; }
-
 div.panel-body { padding:0 0 20px 0;}
-div.panel-body a { display: block; text-align: left; border-top: 1px solid #eee; border-right: 0; border-left: 0; border-bottom: 0; border-radius: 0;  }
-div.panel-body a:hover, div.panel-body a:focus  { border-top: 1px solid #1982d1; }
-div.panel-body a i { text-align:right; margin-right:5px; }
+
+/* Layer Buttons */
+div.panel-body a.layer-button { display: block; text-align: left; border: 0; border-radius: 0;  }
+div.panel-body a.layer-button:hover, div.panel-body a.layer-button:focus  {  }
+div.panel-body a.layer-button i { text-align:right; margin-right:5px; }
 div.panel-body a.btn-default i { color:#1982d1; }
 div.panel-body a.btn-primary i, div.panel-body a.btn-warning i { color:#ffffff; }
+.btn-primary { color: #fff; background-color: #1982d1;  border-color: #337ab7; }
+.text-warning { color: #ec971f; }
 
 div.section-title { display:block; clear:both; color: #1982d1; padding: 10px 5px; font-weight: bold;  background-color: #fafafa; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd; }
 /* Layer details */
-div.panel-body ul.list-group.layer-details { margin: 5px; }
-div.panel-body ul.list-group.layer-details a.more-info { color: #fff; border: none; border-top: none; font-weight: 400; }
-div.panel-body ul.list-group.layer-details .badge:hover, div.panel-body ul.list-group.layer-details .badge:focus, { text-decoration:none; background:#1982d1; }
+div.panel-body ul.list-group.layer-details { padding: 5px 5px 10px 5px; margin: 0; background-color: #286090; }
+div.panel-body ul.list-group.layer-details a.more-info { color: #fff; border: none; border-top: none; font-weight: 400;text-decoration: none;  }
+ul.list-group.layer-details:before { content: 'Layer Details'; text-align: center; display: block; color: #fff; padding-bottom: 2px; font-size: 10px; }
 
- .layer-source { background:#3d3d3d; display:block; clear:both; overflow:visible; vertical-align:middle; font-size:.7em; line-height:1.2em; min-height: 55px; }
- .layer-source h3 { margin-left:10px; }
- .loading-tree { display:block; clear:both; text-align:center; }
- .loading-tree p { display:inline-block; margin:10px 25px; line-height: 14px; font-size:14px; text-align:center; }
- .layer-kml-download { width:32px; height:32px; margin-right: 10px; margin-top: 2px; display:inline-block; float:left; padding: 10px 2px 5px 10px; }
- .layer-source p { padding: 0; margin:10px; color:#999999; word-wrap: break-word; }
- .layer-source a { color:#1982d1; text-decoration:none; }
- .layer-source a:hover { text-decoration:underline; }
- .layer-sub-head { display:block; clear:both; }
- .layer-sub-category { display:inline-block; float:left; color:#CCC; font-size:10px; padding:7px 5px 5px 10px; font-weight:normal; }
+div.panel-body ul.list-group.layer-details .list-group-item { position: relative; font-size:12px; display: block; padding: 10px 15px; margin-bottom: -1px; background-color: #fff; }
+.badge { background-color: #5cb85c; }
+div.panel-body ul.list-group.layer-fail { padding: 5px; margin: 0; background-color: #ec971f; }
+div.panel-body ul.list-group.layer-fail .list-group-item { position: relative; font-size:12px; display: block; padding: 10px 15px; margin-bottom: -1px; background-color: #fff; }
 
  .map-features div, .map-features a { text-align: center; padding-top: 10px; padding-bottom: 10px; text-decoration: none; }
  .map-features .map-feature-on, .map-features .map-feature-off { margin-bottom: 10px; color:#fefefe; }
