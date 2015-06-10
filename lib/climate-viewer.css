@@ -59,6 +59,8 @@ div.panel-body ul.list-group.layer-details .list-group-item { position: relative
 div.panel-body ul.list-group.layer-fail { padding: 5px; margin: 0; background-color: #ec971f; }
 div.panel-body ul.list-group.layer-fail .list-group-item { position: relative; font-size:12px; display: block; padding: 10px 15px; margin-bottom: -1px; background-color: #fff; }
 
+div.panel-body ul.list-group.layer-details .slider.slider-horizontal { float: right; width: 200px !important; }
+
 /* Settings */
  .map-features div, .map-features a { text-align: center; padding-top: 10px; padding-bottom: 10px; text-decoration: none; }
  .map-features .map-feature-on, .map-features .map-feature-off {   width: 46%; margin: 1%; display:inline-block; white-space: normal; color:#fefefe; }
