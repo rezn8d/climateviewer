@@ -64,11 +64,11 @@ div.panel-body ul.list-group.layer-details .slider.slider-horizontal { float: ri
 /* Settings */
  .map-features div, .map-features a { text-align: center; padding-top: 10px; padding-bottom: 10px; text-decoration: none; }
  .map-features .map-feature-on, .map-features .map-feature-off {   width: 46%; margin: 1%; display:inline-block; white-space: normal; color:#fefefe; }
- img.nasa-icon { width: 64px; height: 64px; border-radius: 5px; }
+ img.baselayer-icon { width: 64px; height: 64px; border-radius: 5px; }
  .nasa-layer strong { font-size:1.2em; }
  .map-features div:hover { opacity: 1; }
  .map-features .fa { font-size:3em; }
- .map-features span { padding-top: 5px; display: block; font-size:0.7em; }
+ .map-features span { padding-top: 5px; display: block; }
  .map-feature-on { background:#1982d1; }
  .map-feature-off { background: #3d3d3d; }
 
