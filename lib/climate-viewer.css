@@ -8,8 +8,7 @@ input, label { cursor: pointer; }
 img { width: 100%; max-width: 100%;  height: auto; }
 
 .center { text-align:center }
-
-
+.modal-dialog { top: 77px; }
 .toggle-menu { position:fixed; top: 10px; left:50%; margin-left:-32px; z-index:100000; width:64px; height:64px; background:#000; overflow:hidden; border: 5px solid #ccc; border: 5px solid rgba(0,0,0,0.3);  border-radius: 50%; -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,1); -moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,1);  box-shadow: 0px 0px 20px 0px rgba(0,0,0,1); box-sizing:border-box;
   -moz-box-sizing:border-box;
   -webkit-box-sizing:border-box; }

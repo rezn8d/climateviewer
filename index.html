@@ -51,7 +51,7 @@
                   <div style="padding:20px 0"></div>
                   <h4>Open-Source Technologies</h4>
                   <ul>
-                    <li><a href="http://cesiumjs.org/" target="_blank" rel="nofollow">Cesium (WebGL Globe)</li>
+                    <li><a href="http://cesiumjs.org/" target="_blank" rel="nofollow">Cesium (WebGL Globe)</a> </li>
                     <li><a href="http://jquery.com/" target="_blank" rel="nofollow">jQuery 2.1.1</a></li>
                     <li><a href="http://getbootstrap.com/" target="_blank" rel="nofollow">Bootstrap 3.3.4</a></li>
                     <li><a href="http://www.eyecon.ro/bootstrap-slider/" target="_blank" rel="nofollow">Bootstrap Slider</a></li>
@@ -69,7 +69,7 @@
 
                   <div style="padding:10px 0"></div>
 
-                  <h5><strong>Copyright &copy; <a style='text-decoration:none' title='Climate Viewer 3D' href="http://climateviewer.com/terms/">Climate Viewer News</a>&nbsp;2011-<script type="text/javascript">today=new Date(); year=today.getYear(); if (year<1999) {year=year+1900;} document.write(year);</script></strong><h5>
+                  <h5><strong>Copyright &copy; <a style='text-decoration:none' title='Climate Viewer 3D' href="http://climateviewer.com/terms/">Climate Viewer News</a>&nbsp;2011-<script type="text/javascript">today=new Date(); year=today.getYear(); if (year<1999) {year=year+1900;} document.write(year);</script></strong></h5>
               </div>
             </div>
           </div> <!-- #about -->
@@ -98,19 +98,24 @@
 
 <div class="toggle-menu"><img src="img/cv3d.png" title="Click here to show/hide the layer menu" alt="Menu Toggle" /> </div>
 
-    <!-- Large modal -->
-<button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-lg">Large modal</button>
+<div id="shareModal" class="modal fade">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title">Share Active Layers</h4>
+      </div>
+      <div id="shareLink" class="modal-body">
+        
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
 
-<!--  MODAL
 
-<div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-lg">
-    <div id="infoBox" class="modal-content">
-      <iframe id="infobox-frame" class="modal-iframe" style="width:100%;min-height:400px;" ></iframe>
-    </div>
-  </div>
-</div>
--->
   <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.2.1/jquery-migrate.min.js"></script>
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/js/bootstrap.min.js"></script> 
