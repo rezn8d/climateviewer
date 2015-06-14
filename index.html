@@ -35,11 +35,11 @@
       <!-- Tab panes -->
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane fade in active" id="layers">
-            <p class="instruct"><i class="fa fa-map-marker" style="margin-right:5px"></i> Choose Category</p>
-            <!-- Build Layer Tree -->
-            <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-              <div class="panel panel-default"></div>
-            </div>
+          <p class="instruct"><i class="fa fa-map-marker" style="margin-right:5px"></i> Choose Category</p>
+          <!-- Build Layer Tree -->
+          <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+            <div id="map-layers" class="panel panel-default"></div>
+          </div>
         </div> <!-- tabpanel -->
         <div role="tabpanel" class="tab-pane fade" id="social">
             <div id="about" class="container-fluid panel-info">
@@ -114,6 +114,21 @@
     </div><!-- /.modal-content -->
   </div><!-- /.modal-dialog -->
 </div><!-- /.modal -->
+
+  <div id="locDetails" class="modal">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          <h4 id="locTitle" class="modal-title"></h4>
+        </div>
+        <div id="locContent" class="modal-body"></div>
+        <div class="modal-footer">
+          <button id="locCamera" type="button" class="btn btn-default">Zoom To</button><button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+  </div><!-- /.modal -->
 
 
   <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>

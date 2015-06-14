@@ -15,6 +15,45 @@ img { width: 100%; max-width: 100%;  height: auto; }
 .toggle-menu img { width:70px; }
 .toggle-menu:hover { background:#FFF; border: 5px solid #EEE; border: 5px solid rgba(255,255,255,0.3);  border-radius: 50%; -webkit-box-shadow: 0px 0px 20px 0px rgba(255,255,255,1); -moz-box-shadow: 0px 0px 20px 0px rgba(255,255,255,1);  box-shadow: 0px 0px 20px 0px rgba(255,255,255,1); }
 
+
+#locDetails { pointer-events: none; user-focus-pointer: none; }
+#locDetails div.modal-dialog { pointer-events: all;  user-focus-pointer: all; }
+.cesium-infoBox {
+  width:520px;
+  max-width:520px;
+  overflow:hidden;
+  padding:0px;
+  margin:0px;
+  z-index:10001;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.cesium-infoBox .cesium-infoBox-camera, .cesium-infoBox .cesium-infoBox-close, { background:#3d3d3d; }
+
+.cesium-infoBox-visible {
+  width:520px;
+  overflow:hidden;
+  background: transparent;
+  padding:0px;
+  margin:0px;
+  z-index:10001;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.cesium-infoBox-title {
+  padding:5px 24px;
+  overflow:hidden;
+  color:#FFFFFF;
+}
+/* MAP INFO WINDOW */
+iframe.cesium-infoBox-iframe { background:#fff;width: 520px; }
+iframe.cesium-infoBox-iframe * { max-width:500px !important;  }
+iframe.cesium-infoBox-iframe .cesium-infoBox-description, iframe.cesium-infoBox-iframe .cesium-infoBox-description-lighter {
+  width: 500px;
+}
+
+
 /* 
 .fa-stack-2x { color:#FFFFFF; }
 .fa-stack-1x { color:#1982d1; }
@@ -155,9 +194,6 @@ span.cesium-credit-image img { max-width: 100px; }
 .cesium-viewer-toolbar { display: block; position: absolute; top: 5px; right: 79px; }
 .cesium-viewer .cesium-widget-credits {  }
 
-/* MAP INFO WINDOW */
-.cesium-infoBox-iframe { height:auto !important; }
-.cesium-infoBox-iframe img { max-width:100%;  }
 
 #baseLayerPickerContainer, .cesium-viewer-toolbar {
 display:none;
