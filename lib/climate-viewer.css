@@ -183,6 +183,11 @@ iframe.cesium-infoBox-iframe .cesium-infoBox-description, iframe.cesium-infoBox-
     border: none !important;
 }
 
+#map-layers ul {
+    padding-left: 1em !important;
+}
+
+
 div#sun {
     position: absolute;
     top: 7px;
