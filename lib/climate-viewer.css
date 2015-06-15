@@ -488,11 +488,13 @@ span.cesium-credit-image img {
     margin-right: 0.1em !important;
     margin-bottom: 0.5em !important;
     display: block;
-    border: 1px solid transparent;
+    /*border: 1px solid transparent;*/
 }
+/*
 .layer-slider-wrap:hover {
     border: 1px solid gray;
 }
+*/
 .layer-slider-wrap:hover .layer-slider .layer-label {
     color: white;
 }
