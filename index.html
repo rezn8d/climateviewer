@@ -11,8 +11,6 @@
   <link href="lib/cesium/1.10/Widgets/widgets.css" rel='stylesheet' type='text/css'/>
   <link href="lib/cesium/1.10/Widgets/Viewer/Viewer.css" rel='stylesheet' type='text/css'/>
   <link href="lib/bootstrap/3.3.4/css/bootstrap.min.css" rel='stylesheet' type='text/css' />
-  <link href="lib/bootstrap/slider/css/slider.css" rel='stylesheet' type='text/css' />
-  <link href="lib/bootstrap/datepicker/css/bootstrap-datepicker3.min.css" rel='stylesheet' type='text/css' />
   <link href="lib/font-awesome-4.3.0/css/font-awesome.min.css" rel='stylesheet' type='text/css' />
   <link href="lib/climate-viewer.css" rel='stylesheet' type='text/css' />
 
@@ -23,7 +21,7 @@
 <body>
   <div id="cesiumContainer"></div>
   <div id="loadingIndicator" class="loadingIndicator"></div>
-  <div id="sun" title="Toggle Sun Display (shadows)" class="sun-control sun-off" style="display:none"><i class="fa fa-sun-o fa-fw"></i></div>
+  <div title="Toggle Sun Display (shadows)" class="sun-control sun-off" style="display:none"><i class="fa fa-sun-o fa-fw"></i></div>
   <div id="baseLayerPickerContainer"></div>
   <div class="sidebar" style="display:none">
     <div class="controls" role="tabpanel">
@@ -98,49 +96,32 @@
 
 <div class="toggle-menu"><img src="img/cv3d.png" title="Click here to show/hide the layer menu" alt="Menu Toggle" /> </div>
 
-<div id="shareModal" class="modal fade">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title">Share Active Layers</h4>
-      </div>
-      <div id="shareLink" class="modal-body">
-        
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-      </div>
-    </div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-
-  <div id="locDetails" class="modal">
+  <div id="shareModal" class="modal fade">
     <div class="modal-dialog">
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-          <h4 id="locTitle" class="modal-title"></h4>
+          <h4 class="modal-title">Share Active Layers</h4>
         </div>
-        <div id="locContent" class="modal-body"></div>
+        <div class="modal-body">
+          <p>Use this URL to save your currently displayed layers:</p><p class="well"><a id="shareLink" class="share-all-layers" href="#" title="My custom CV3D map"></a></p>
+        </div>
         <div class="modal-footer">
-          <button id="locCamera" type="button" class="btn btn-default">Zoom To</button><button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
         </div>
       </div><!-- /.modal-content -->
     </div><!-- /.modal-dialog -->
   </div><!-- /.modal -->
 
-
   <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.2.1/jquery-migrate.min.js"></script>
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/js/bootstrap.min.js"></script> 
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.9.3/lodash.min.js"></script> 
-  <script type="text/javascript" src="lib/bootstrap/slider/js/bootstrap-slider.js"></script> 
-
+  <script type="text/javascript" src="lib/nslider/nslider.js"></script>
   <script type="text/javascript" src="lib/cesium/1.10/Cesium.js"></script>
   <script type="text/javascript" src="lib/climate-viewer.js"></script>
   <script type="text/javascript" src="lib/climate-viewer-layers.js"></script>
-  <script type="text/javascript" src="lib/climate-viewer-menu.js"></script>
+  <script type="text/javascript" src="lib/climate-viewer-menu.js?v2001"></script>
 
 <!-- Start of StatCounter Code for Dreamweaver -->
 <script type="text/javascript">

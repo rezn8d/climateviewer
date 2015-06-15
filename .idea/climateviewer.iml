@@ -8,5 +8,6 @@
     <orderEntry type="library" name="bootstrap" level="application" />
     <orderEntry type="library" name="jquery-migrate" level="application" />
     <orderEntry type="library" name="jquery" level="application" />
+    <orderEntry type="library" name="buttons" level="application" />
   </component>
 </module>
