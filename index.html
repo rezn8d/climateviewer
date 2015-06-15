@@ -2,143 +2,195 @@
 <html>
 <head>
     <title>Climate Viewer 3D Beta</title>
-  <meta charset="utf-8">
-  <!-- Tell IE to use the latest, best version (or Chrome Frame if pre-IE11). -->
-  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
-  <!-- Make the application on mobile take up the full browser screen and disable user scaling. -->
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-  <link href="lib/cesium/1.10/Widgets/widgets.css" rel='stylesheet' type='text/css'/>
-  <link href="lib/cesium/1.10/Widgets/Viewer/Viewer.css" rel='stylesheet' type='text/css'/>
-  <link href="lib/bootstrap/3.3.4/css/bootstrap.min.css" rel='stylesheet' type='text/css' />
-  <link href="lib/font-awesome-4.3.0/css/font-awesome.min.css" rel='stylesheet' type='text/css' />
-  <link href="lib/climate-viewer.css" rel='stylesheet' type='text/css' />
+    <meta charset="utf-8">
+    <!-- Tell IE to use the latest, best version (or Chrome Frame if pre-IE11). -->
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+    <!-- Make the application on mobile take up the full browser screen and disable user scaling. -->
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+    <!--<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>-->
+    <link href="lib/cesium/1.10/Widgets/widgets.css" rel='stylesheet' type='text/css'/>
+    <link href="lib/cesium/1.10/Widgets/Viewer/Viewer.css" rel='stylesheet' type='text/css'/>
+    <link href="lib/bootstrap/3.3.4/css/bootstrap.min.css" rel='stylesheet' type='text/css' />
+    <link href="lib/font-awesome-4.3.0/css/font-awesome.min.css" rel='stylesheet' type='text/css'/>
+    <link href="lib/climate-viewer.css" rel='stylesheet' type='text/css'/>
+    <link href="lib/nslider/nslider.css" rel='stylesheet' type='text/css'/>
 
-  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
-  <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+    <link rel="icon" href="favicon.ico" type="image/x-icon"/>
 </head>
- 
+
 <body>
-  <div id="cesiumContainer"></div>
-  <div id="loadingIndicator" class="loadingIndicator"></div>
-  <div title="Toggle Sun Display (shadows)" class="sun-control sun-off" style="display:none"><i class="fa fa-sun-o fa-fw"></i></div>
-  <div id="baseLayerPickerContainer"></div>
-  <div class="sidebar" style="display:none">
+<div id="cesiumContainer"></div>
+<div id="loadingIndicator" class="loadingIndicator"></div>
+<div title="Toggle Sun Display (shadows)" class="sun-control sun-off" style="display:none"><i
+        class="fa fa-sun-o fa-fw"></i></div>
+<div id="baseLayerPickerContainer"></div>
+<div class="sidebar" style="display:none">
     <div class="controls" role="tabpanel">
-      <!-- Nav tabs -->
-      <ul class="nav nav-tabs" role="tablist">
-        <li role="presentation" class="active"><a href="#layers" aria-controls="layers" role="tab" data-toggle="tab">Layers</a></li>
-        <li role="presentation"><a href="#social" aria-controls="social" role="tab" data-toggle="tab">Social</a></li>
-      </ul>
-      <!-- Tab panes -->
-      <div class="tab-content">
-        <div role="tabpanel" class="tab-pane fade in active" id="layers">
-          <p class="instruct"><i class="fa fa-map-marker" style="margin-right:5px"></i> Choose Category</p>
-          <!-- Build Layer Tree -->
-          <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-            <div id="map-layers" class="panel panel-default"></div>
-          </div>
-        </div> <!-- tabpanel -->
-        <div role="tabpanel" class="tab-pane fade" id="social">
-            <div id="about" class="container-fluid panel-info">
-              <div class="row">
-                <div class="col-xs-12">
-                  <h3 style="margin-top:0">About Climate Viewer 3D</h3>
-                  <p>Created by <strong><a href="http://climateviewer.com/rezn8d/" title="climateviewer.com/rezn8d">Jim &quot;rezn8d&quot; Lee</a></strong> and provided by <a href="http://climateviewer.com/"><strong>Climate Viewer News</strong></a> as a free public service.</p><p>Know how to code and want to help make Climate Viewer 3D better?  Join us on Github.</p>
-                  <a class="btn btn-sm btn-primary" href="https://github.com/rezn8d/climateviewer" target="_blank" rel="nofollow"><i class="fa fa-github fa-3x pull-left"></i> Climate Viewer 3D<br>on Github</a>
-                  <div style="padding:20px 0"></div>
-                  <h4>Open-Source Technologies</h4>
-                  <ul>
-                    <li><a href="http://cesiumjs.org/" target="_blank" rel="nofollow">Cesium (WebGL Globe)</a> </li>
-                    <li><a href="http://jquery.com/" target="_blank" rel="nofollow">jQuery 2.1.1</a></li>
-                    <li><a href="http://getbootstrap.com/" target="_blank" rel="nofollow">Bootstrap 3.3.4</a></li>
-                    <li><a href="http://www.eyecon.ro/bootstrap-slider/" target="_blank" rel="nofollow">Bootstrap Slider</a></li>
-                    <li><a href="http://fortawesome.github.io/Font-Awesome/" target="_blank" rel="nofollow">Font Awesome 4.3.0</a></li>
-                  </ul>
-                  <div style="padding:10px 0"></div>
-                  <h4>Support Us</h4>
-                  <p>This website was made possible by <strong><a target="_blank" rel="nofollow" href="http://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=A6YC74NZDAYM2&amp;lc=US&amp;item_name=Jim%20Lee%20of%20Climate%20Viewer%20News&amp;item_number=CV3D&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted">donations from caring individuals like you!</a></strong> Thank you for your support.</p>
-
-                  <div style="padding:10px 0"></div>
-
-                    <div id="launch-sharethis" title="Powered by ShareThis" class="share btn btn-sm btn-default"><i class="fa fa-share-alt"></i> <strong>Sharing is Caring</strong></div>
-                    <div id="launch-comments" title="Powered by Disqus" class="comment btn btn-sm btn-default"><i class="fa fa-comment"></i> <strong>Comment</strong></div>
-                    <div id="launch-chat" title="Powered by Tlk.io" class="chat btn btn-sm btn-default"><i class="fa fa-comments-o"></i> <strong>Chat Room</strong></div>
-
-                  <div style="padding:10px 0"></div>
-
-                  <h5><strong>Copyright &copy; <a style='text-decoration:none' title='Climate Viewer 3D' href="http://climateviewer.com/terms/">Climate Viewer News</a>&nbsp;2011-<script type="text/javascript">today=new Date(); year=today.getYear(); if (year<1999) {year=year+1900;} document.write(year);</script></strong></h5>
-              </div>
+        <!-- Nav tabs -->
+        <ul class="nav nav-tabs" role="tablist">
+            <li role="presentation" class="active"><a href="#layers" aria-controls="layers" role="tab"
+                                                      data-toggle="tab">Layers</a></li>
+            <li role="presentation"><a href="#social" aria-controls="social" role="tab" data-toggle="tab">Social</a>
+            </li>
+        </ul>
+        <!-- Tab panes -->
+        <div class="tab-content">
+            <div role="tabpanel" class="tab-pane fade in active" id="layers">
+                <!-- Build Layer Tree -->
+                <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                    <div id="map-layers" class="panel panel-default"></div>
+                </div>
             </div>
-          </div> <!-- #about -->
-          <div id="share" class="container-fluid text-center">
-            <div class="row">
-              <div class="col-xs-12">
-              </div>
-            </div>
-          </div> <!-- #share -->
-          <div id="comments" class="container-fluid text-center">
-            <div class="row">
-              <div class="col-xs-12">
-              </div>
-            </div>
-          </div> <!-- #comments -->
-          <div id="chat" class="text-center">
-            <div class="row">
-              <div class="col-xs-12">
-              </div>
-            </div>
-          </div> <!-- #chat -->
-        </div> <!-- tabpanel -->
-      </div> <!-- tab-content -->
-    </div> <!-- tabpanel -->
-  </div> <!-- #picker -->
+            <!-- tabpanel -->
+            <div role="tabpanel" class="tab-pane fade" id="social">
+                <div id="about" class="container-fluid panel-info">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <h3 style="margin-top:0">About Climate Viewer 3D</h3>
 
-<div class="toggle-menu"><img src="img/cv3d.png" title="Click here to show/hide the layer menu" alt="Menu Toggle" /> </div>
+                            <p>Created by <strong><a href="http://climateviewer.com/rezn8d/"
+                                                     title="climateviewer.com/rezn8d">Jim &quot;rezn8d&quot;
+                                Lee</a></strong> and provided by <a href="http://climateviewer.com/"><strong>Climate
+                                Viewer News</strong></a> as a free public service.</p>
 
-  <div id="shareModal" class="modal fade">
+                            <p>Know how to code and want to help make Climate Viewer 3D better? Join us on Github.</p>
+                            <a class="btn btn-sm btn-primary" href="https://github.com/rezn8d/climateviewer"
+                               target="_blank" rel="nofollow"><i class="fa fa-github fa-3x pull-left"></i> Climate
+                                Viewer 3D<br>on Github</a>
+
+                            <div style="padding:20px 0"></div>
+                            <h4>Open-Source Technologies</h4>
+                            <ul>
+                                <li><a href="http://cesiumjs.org/" target="_blank" rel="nofollow">Cesium (WebGL
+                                    Globe)</a></li>
+                                <li><a href="http://jquery.com/" target="_blank" rel="nofollow">jQuery 2.1.1</a></li>
+                                <li><a href="http://getbootstrap.com/" target="_blank" rel="nofollow">Bootstrap
+                                    3.3.4</a></li>
+                                <li><a href="http://www.eyecon.ro/bootstrap-slider/" target="_blank" rel="nofollow">Bootstrap
+                                    Slider</a></li>
+                                <li><a href="http://fortawesome.github.io/Font-Awesome/" target="_blank" rel="nofollow">Font
+                                    Awesome 4.3.0</a></li>
+                            </ul>
+                            <div style="padding:10px 0"></div>
+                            <h4>Support Us</h4>
+
+                            <p>This website was made possible by <strong><a target="_blank" rel="nofollow"
+                                                                            href="http://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=A6YC74NZDAYM2&amp;lc=US&amp;item_name=Jim%20Lee%20of%20Climate%20Viewer%20News&amp;item_number=CV3D&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted">donations
+                                from caring individuals like you!</a></strong> Thank you for your support.</p>
+
+                            <div style="padding:10px 0"></div>
+
+                            <div id="launch-sharethis" title="Powered by ShareThis"
+                                 class="share btn btn-sm btn-default"><i class="fa fa-share-alt"></i> <strong>Sharing is
+                                Caring</strong></div>
+                            <div id="launch-comments" title="Powered by Disqus" class="comment btn btn-sm btn-default">
+                                <i class="fa fa-comment"></i> <strong>Comment</strong></div>
+                            <div id="launch-chat" title="Powered by Tlk.io" class="chat btn btn-sm btn-default"><i
+                                    class="fa fa-comments-o"></i> <strong>Chat Room</strong></div>
+
+                            <div style="padding:10px 0"></div>
+
+                            <h5><strong>Copyright &copy; <a style='text-decoration:none' title='Climate Viewer 3D'
+                                                            href="http://climateviewer.com/terms/">Climate Viewer
+                                News</a>&nbsp;2011-
+                                <script type="text/javascript">today = new Date();
+                                year = today.getYear();
+                                if (year < 1999) {
+                                    year = year + 1900;
+                                }
+                                document.write(year);</script>
+                            </strong></h5>
+                        </div>
+                    </div>
+                </div>
+                <!-- #about -->
+                <div id="share" class="container-fluid text-center">
+                    <div class="row">
+                        <div class="col-xs-12">
+                        </div>
+                    </div>
+                </div>
+                <!-- #share -->
+                <div id="comments" class="container-fluid text-center">
+                    <div class="row">
+                        <div class="col-xs-12">
+                        </div>
+                    </div>
+                </div>
+                <!-- #comments -->
+                <div id="chat" class="text-center">
+                    <div class="row">
+                        <div class="col-xs-12">
+                        </div>
+                    </div>
+                </div>
+                <!-- #chat -->
+            </div>
+            <!-- tabpanel -->
+        </div>
+        <!-- tab-content -->
+    </div>
+    <!-- tabpanel -->
+</div>
+<!-- #picker -->
+
+<div class="toggle-menu"><img src="img/cv3d.png" title="Click here to show/hide the layer menu" alt="Menu Toggle"/>
+</div>
+
+<div id="shareModal" class="modal fade">
     <div class="modal-dialog">
-      <div class="modal-content">
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-          <h4 class="modal-title">Share Active Layers</h4>
-        </div>
-        <div class="modal-body">
-          <p>Use this URL to save your currently displayed layers:</p><p class="well"><a id="shareLink" class="share-all-layers" href="#" title="My custom CV3D map"></a></p>
-        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-        </div>
-      </div><!-- /.modal-content -->
-    </div><!-- /.modal-dialog -->
-  </div><!-- /.modal -->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                        aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title">Share Active Layers</h4>
+            </div>
+            <div class="modal-body">
+                <p>Use this URL to save your currently displayed layers:</p>
 
-  <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-  <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.2.1/jquery-migrate.min.js"></script>
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/js/bootstrap.min.js"></script> 
-  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.9.3/lodash.min.js"></script> 
-  <script type="text/javascript" src="lib/nslider/nslider.js"></script>
-  <script type="text/javascript" src="lib/cesium/1.10/Cesium.js"></script>
-  <script type="text/javascript" src="lib/climate-viewer.js"></script>
-  <script type="text/javascript" src="lib/climate-viewer-layers.js"></script>
-  <script type="text/javascript" src="lib/climate-viewer-menu.js?v2001"></script>
+                <p class="well"><a id="shareLink" class="share-all-layers" href="#" title="My custom CV3D map"></a></p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+        <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dialog -->
+</div>
+<!-- /.modal -->
+
+<script type="text/javascript" src="lib/jquery/jquery.min.js"></script>
+<script type="text/javascript"
+        src="http://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.2.1/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="lib/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="lib/lodash/lodash.min.js"></script>
+<script type="text/javascript" src="lib/nslider/nslider.js"></script>
+<script type="text/javascript" src="lib/cesium/1.10/Cesium.js"></script>
+<script type="text/javascript" src="lib/climate-viewer.js"></script>
+<script type="text/javascript" src="lib/climate-viewer-layers.js"></script>
+<script type="text/javascript" src="lib/climate-viewer-menu.js?v2001"></script>
 
 <!-- Start of StatCounter Code for Dreamweaver -->
 <script type="text/javascript">
-var sc_project=10475176; 
-var sc_invisible=1; 
-var sc_security="80c05e5e"; 
-var scJsHost = (("https:" == document.location.protocol) ?
-"https://secure." : "http://www.");
-document.write("<sc"+"ript type='text/javascript' src='" +
-scJsHost+
-"statcounter.com/counter/counter.js'></"+"script>");
+    var sc_project = 10475176;
+    var sc_invisible = 1;
+    var sc_security = "80c05e5e";
+    var scJsHost = (("https:" == document.location.protocol) ?
+            "https://secure." : "http://www.");
+    document.write("<sc" + "ript type='text/javascript' src='" +
+            scJsHost +
+            "statcounter.com/counter/counter.js'></" + "script>");
 </script>
-<noscript><div class="statcounter"><a title="click tracking"
-href="http://statcounter.com/" target="_blank"><img
-class="statcounter"
-src="http://c.statcounter.com/10475176/0/80c05e5e/1/"
-alt="click tracking"></a></div></noscript>
+<noscript>
+    <div class="statcounter"><a title="click tracking"
+                                href="http://statcounter.com/" target="_blank"><img
+            class="statcounter"
+            src="http://c.statcounter.com/10475176/0/80c05e5e/1/"
+            alt="click tracking"></a></div>
+</noscript>
 <!-- End of StatCounter Code for Dreamweaver -->
 </body>
 </html>

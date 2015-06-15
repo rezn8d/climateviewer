@@ -1,10 +1,17 @@
-div.zoomSlider {
+.nslider {
     line-height: 100%;
-    float: left;
     cursor: crosshair;
-    background-color: gray;
-    margin: 0;
-    border: 0;
-    padding: 0;
+    margin: 0 !important;
+    border-top: 0 !important;
+    border-right: 0 !important;
+    border-bottom: 0 !important;
+    padding: 0 !important;
     border-left-style: solid;
+}
+
+.nslider .nslider-overlay {
+    position: absolute;
+    width: 95%;
+    left: 2.5%;
+    pointer-events: none;
 }
