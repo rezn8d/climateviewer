@@ -1,6 +1,27 @@
 body, html { font-family: 'Open-Sans', sans-serif; font-weight:400; background:#3d3d3d }
 span, p, blockquote, h1, h2, h3, h4, h5, h6, small, strong, button, input, label { font-family: 'Open-Sans', sans-serif !important; }
-h1 { text-align:center; font-size:3em; color:#000 !important; text-decoration:none }
+.sidebar h1 { text-align:center; font-size:2em; color:#EEE; text-decoration:none;font-weight: 700; }
+.sidebar h1 span { color:#1982d1; font-weight: 700; }
+.sidebar h2 {   text-align: center;
+  font-size: 1.3em;
+  margin: 0 auto 20px auto;
+  color: #999;
+  text-transform: uppercase;
+  text-decoration: none;
+  width: 320px;
+  border-top: 1px solid #555;
+  padding-top: 6px;
+}
+.sidebar h5 {
+  text-align: center;
+  font-size: 1em;
+  margin: 20px auto;
+  color: #999;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding-top: 6px;
+}
+
 strong { font-weight:700 }
 small { font-size:.8em }
 sup { font-size:.4em }
@@ -27,25 +48,79 @@ input.zoomSlider {
 
 .center { text-align:center }
 .modal-dialog { top: 77px; }
-.toggle-menu { position:fixed; top: 10px; left:50%; margin-left:-32px; z-index:100000; width:64px; height:64px; background:#000; overflow:hidden; border: 5px solid #ccc; border: 5px solid rgba(0,0,0,0.3);  border-radius: 50%; -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,1); -moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,1);  box-shadow: 0px 0px 20px 0px rgba(0,0,0,1); box-sizing:border-box;
+.modal-content {
+  background-color: #333;
+  color: #EEE;
+}
+.modal-content .well {
+  background-color: #CCC;
+  font-weight:700;
+}
+.modal-content button.btn.btn-default {
+  background-color: #555;
+  color: #eee;
+}
+.modal-header, .modal-footer {
+  border-color:#555;
+}
+.modal-body p {
+  color: #CCC;
+}
+button.close span {
+  color: #FFF;
+}
+/* CESIUM */
+#cesiumContainer { background-color: #000000; position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+span.cesium-credit-image img { max-width: 100px; }
+.cesium-viewer-toolbar {
+  display: block;
+  position: absolute;
+  top: 41px;
+  left: 18px;
+  right: auto;
+  background-color: #222;
+  width: 39px;
+  padding-top: 40px;
+  padding-bottom: 5px;
+  z-index: 100;
+  text-align:center;
+  border-radius:5px;
+}
+
+div#baseLayerPickerContainer {
+  margin: 0;
+  position: relative;
+  top: -6px;
+}
+div.cesium-baseLayerPicker-dropDown {
+  top: -78px;
+  left: 63px;
+  right: auto;
+}
+div.sun-control {
+  background-color: #3d3d3d;
+  color: #fff;
+  padding: 0 1px;
+  font-size: 18px;
+  display: block;
+  margin: 0;
+  position: relative;
+  float: right;
+  top: -33px;
+  right: 9px;
+}
+.cesium-sceneModePicker-wrapper .cesium-sceneModePicker-dropDown-icon {
+  display: inline-block;
+}
+.cesium-viewer .cesium-widget-credits {  }
+.toggle-menu { position:fixed;   top: 5px; left: 5px; z-index:100000; width:64px; height:64px; background:#000; overflow:hidden; border: 5px solid rgba(0,0,0,0.3);  border-radius: 50%; -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,1); -moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,1);  box-shadow: 0px 0px 20px 0px rgba(0,0,0,1); box-sizing:border-box;
   -moz-box-sizing:border-box;
   -webkit-box-sizing:border-box; }
 .toggle-menu img { width:70px; }
-.toggle-menu:hover { background:#FFF; border: 5px solid #EEE; border: 5px solid rgba(255,255,255,0.3);  border-radius: 50%; -webkit-box-shadow: 0px 0px 20px 0px rgba(255,255,255,1); -moz-box-shadow: 0px 0px 20px 0px rgba(255,255,255,1);  box-shadow: 0px 0px 20px 0px rgba(255,255,255,1); }
+.toggle-menu:hover { background:#FFF; border: 5px solid rgba(255,255,255,0.3);  border-radius: 50%; -webkit-box-shadow: 0px 0px 20px 0px rgba(255,255,255,1); -moz-box-shadow: 0px 0px 20px 0px rgba(255,255,255,1);  box-shadow: 0px 0px 20px 0px rgba(255,255,255,1); }
 
 
-#locDetails { pointer-events: none; user-focus-pointer: none; }
-#locDetails div.modal-dialog { pointer-events: all;  user-focus-pointer: all; }
-.cesium-infoBox {
-  width:520px;
-  max-width:520px;
-  overflow:hidden;
-  padding:0px;
-  margin:0px;
-  z-index:10001;
-  overflow-y: auto;
-  -webkit-overflow-scrolling: touch;
-}
+.cesium-infoBox { width:520px; max-width:520px; overflow:hidden; padding:0px; margin:0px; z-index:10001; overflow-y: auto; -webkit-overflow-scrolling: touch;}
 .cesium-infoBox .cesium-infoBox-camera, .cesium-infoBox .cesium-infoBox-close, { background:#3d3d3d; }
 
 .cesium-infoBox-visible {
@@ -56,6 +131,8 @@ input.zoomSlider {
   margin:0px;
   z-index:10001;
   overflow-y: auto;
+  -o-overflow-scrolling:touch;
+  -moz-overflow-scrolling:touch;
   -webkit-overflow-scrolling: touch;
 }
 
@@ -65,35 +142,15 @@ input.zoomSlider {
   color:#FFFFFF;
 }
 /* MAP INFO WINDOW */
-iframe.cesium-infoBox-iframe { background:#fff;width: 520px; }
+iframe.cesium-infoBox-iframe { background:#fff; width: 520px; min-height:500px; }
 iframe.cesium-infoBox-iframe * { max-width:500px !important;  }
-iframe.cesium-infoBox-iframe .cesium-infoBox-description, iframe.cesium-infoBox-iframe .cesium-infoBox-description-lighter {
-  width: 500px;
-}
+iframe.cesium-infoBox-iframe .cesium-infoBox-description, iframe.cesium-infoBox-iframe .cesium-infoBox-description-lighter { width: 500px; }
 
-
-/* 
-.fa-stack-2x { color:#FFFFFF; }
-.fa-stack-1x { color:#1982d1; }
-.fa-stack:hover .fa-stack-2x { color:#000000; }
-.fa-stack:hover .fa-stack-1x { color:#FFFFFF; }
-
-.layer-source .fa-stack-2x { color:#3d3d3d; }
-.layer-source .fa-stack-1x { color:#FFFFFF; }
-.layer-source .fa-stack:hover .fa-stack-2x { color:#FFFFFF; }
-.layer-source .fa-stack:hover .fa-stack-1x { color:#1982d1; }
-*/
 
 /* Sidebar */
-.sidebar { position:fixed; top:0; left:0; height:100%; width:420px; overflow-x:hidden; overflow-y:auto; padding-bottom:20px; background:#222; border-right:4px solid #ddd; border-bottom:2px solid #ccc;  }
-div#sun {
-  position: absolute;
-  top: 7px;
-  right: 45px;
-  background-color: #3d3d3d;
-  color: #fff;
-  padding: 0 1px;
-  font-size: 23px;
+.sidebar { position:fixed; top: 0; left: auto; right: 0; height:100%; height:calc(100% - 32px); width:420px; overflow-x:hidden; overflow-y:auto; padding-bottom:20px; background:#222;   background-color: rgba(22,22,22,0.95); border-left: 2px solid #555; border-bottom:2px solid #555;  }
+.nav-tabs {
+  border-bottom: 1px solid #555;
 }
 
 /* Layer Accordion */
@@ -107,15 +164,25 @@ div.panel-heading a:hover, div.panel-heading a:focus { text-decoration: none; }
 div.panel-body { padding:0 0 20px 0;}
 
 /* Layer Buttons */
-div.panel-body a.layer-button { display: block; text-align: left; border: 0; border-radius: 0; white-space: nowrap; }
-div.panel-body a.layer-button:hover, div.panel-body a.layer-button:focus  {  }
+div.panel-body a.layer-button { background: #3d3d3d; color: #EEE; display: block; text-align: left; border: 0; border-radius: 0; white-space: nowrap; }
+div.panel-body a.layer-button.btn-primary {
+  background-color: #337ab7;
+}
+div.panel-body a.layer-button.btn-warning {
+  background-color: #F0AD4F;
+}
+div.panel-body a.layer-button:hover, div.panel-body a.layer-button:focus  { background-color: #1982d1; }
+div.panel-body a.layer-button.btn-primary:hover, div.panel-body a.layer-button.btn-primary:focus  { background-color: #286090; }
+div.panel-body a.layer-button.btn-warning:hover, div.panel-body a.layer-button.btn-warning:focus  { background-color: #ec971f; }
 div.panel-body a.layer-button i { text-align:right; margin-right:5px; }
 div.panel-body a.btn-default i { color:#1982d1; }
 div.panel-body a.btn-primary i, div.panel-body a.btn-warning i { color:#ffffff; }
 .btn-primary { color: #fff; background-color: #1982d1;  border-color: #337ab7; }
 .text-warning { color: #ec971f; }
-
-div.section-title { display:block; clear:both; color: #1982d1; padding: 10px 5px; font-weight: bold;  background-color: #fafafa; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd; }
+.panel-default>.panel-heading+.panel-collapse>.panel-body {
+  border-top-color: #555;
+}
+div.section-title { display:block; clear:both; color: #1982d1; padding: 10px 5px; font-weight: bold;  background-color: #2d2d2d;   border-top: 1px solid #555; border-bottom: 1px solid #555; }
 /* Layer details */
 div.panel-body ul.list-group.layer-details { padding: 5px 5px 10px 5px; margin: 0; background-color: #286090; }
 div.panel-body ul.list-group.layer-details .btn { float:right; margin-left:7px; }
@@ -134,7 +201,6 @@ div.panel-info {
   background-color: #fff;
   margin: 7px;
   padding-top: 20px;
-  padding-bottom: 20px;
   border-radius: 7px;
 }
 div.panel-info h3, div.panel-info h4 {
@@ -202,21 +268,13 @@ div.panel-chat {
 
 /* TABS */
 .nav-tabs>li>a, .nav-tabs>li>a:focus, .nav-tabs>li>a:hover { color: #CCC; cursor: default; background-color: transparent; border: 0; border-color: rgba(255,255,255,0.1); border-bottom-color: transparent; }
-.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover { color: #FFF; cursor: default; background-color: #222; border: 1px solid #ddd; border-bottom-color: transparent; }
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover { color: #FFF; cursor: default; background-color: #222; border: 1px solid #555; border-bottom-color: transparent; }
 .tab-content>.tab-pane { padding-top: 10px; }
 .tab-content>.tab-pane .instruct { padding-left: 10px; color:#ccc; }
 
-/* CESIUM */
-#cesiumContainer { background-color: #000000; position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-span.cesium-credit-image img { max-width: 100px; }
-#baseLayerPickerContainer { position:absolute; top:5px; right:5px; width:38px; height:38px; border:0; }
-.cesium-viewer-toolbar { display: block; position: absolute; top: 5px; right: 79px; }
-.cesium-viewer .cesium-widget-credits {  }
 
 
-#baseLayerPickerContainer, .cesium-viewer-toolbar {
-display:none;
-}
+
 /* MOBILE */
 
 @media screen and (max-width: 799px) {

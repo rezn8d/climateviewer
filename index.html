@@ -1,18 +1,43 @@
 <!doctype html>
 <html>
 <head>
-    <title>Climate Viewer 3D Beta</title>
+  <title>Climate Viewer 3D | Open-Source Maptivism</title>
   <meta charset="utf-8">
   <!-- Tell IE to use the latest, best version (or Chrome Frame if pre-IE11). -->
   <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
   <!-- Make the application on mobile take up the full browser screen and disable user scaling. -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+
+  <meta name="application-name" content="Climate Viewer 3D v4.0 beta"/>
+
+  <link rel="canonical" href="http://climateviewer.net/index.html" />
+  <link rel="publisher" href="http://www.google.com/+Climateviewers"/>
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="application" />
+  <meta property="og:title" content="Climate Viewer 3D | Mapping Climate Change, Pollution, and Privacy. Powered by Cesium" />
+  <meta property="og:description" content="Climate Viewer 3D empowers the user with cutting-edge technology, real-time situational awareness, and a visual tour of our planetary problems.  With a plethora of controls, data sources, and fresh content daily, what are you waiting for?" />
+  <meta property="og:url" content="http://climateviewer.net/" />
+  <meta property="og:site_name" content="Climate Viewer News" />
+  <meta property="article:publisher" content="http://www.facebook.com/climateviewers" />
+  <meta property="article:published_time" content="2015-06-16T01:30:00+00:00" />
+  <meta property="og:image" content="http://climateviewer.net/img/climate-viewer-3d-1080.jpg" />
+  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:site" content="@climateviewer"/>
+  <meta name="twitter:domain" content="Climate Viewer News"/>
+  <meta name="twitter:creator" content="@climateviewer"/>
+  <meta name="author" content="Jim 'rezn8d' Lee" />
+  <meta name="description" content="Climate Viewer 3D empowers the user with cutting-edge technology, real-time situational awareness, and a visual tour of our planetary problems.  With a plethora of controls, data sources, Google Earth 3D interface, and fresh content daily, what are you waiting for?" />
+  <meta name="keywords" content="maptivism, climate change, climate change tracker, climate change viewer, cv3d, climateviewer, pollution map, pollution viewer, 3D, globe, cesiumjs" />
+
+
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
   <link href="lib/cesium/1.10/Widgets/widgets.css" rel='stylesheet' type='text/css'/>
   <link href="lib/cesium/1.10/Widgets/Viewer/Viewer.css" rel='stylesheet' type='text/css'/>
   <link href="lib/bootstrap/3.3.4/css/bootstrap.min.css" rel='stylesheet' type='text/css' />
   <link href="lib/font-awesome-4.3.0/css/font-awesome.min.css" rel='stylesheet' type='text/css' />
   <link href="lib/climate-viewer.css" rel='stylesheet' type='text/css' />
+
+
 
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
   <link rel="icon" href="favicon.ico" type="image/x-icon" />
@@ -21,23 +46,26 @@
 <body>
   <div id="cesiumContainer"></div>
   <div id="loadingIndicator" class="loadingIndicator"></div>
-  <div title="Toggle Sun Display (shadows)" class="sun-control sun-off" style="display:none"><i class="fa fa-sun-o fa-fw"></i></div>
   <div id="baseLayerPickerContainer"></div>
   <div class="sidebar" style="display:none">
+    <h1>Climate Viewer <span>3D</span></h1>
+    <h2>Open-Source Maptivism</h2>
     <div class="controls" role="tabpanel">
       <!-- Nav tabs -->
       <ul class="nav nav-tabs" role="tablist">
         <li role="presentation" class="active"><a href="#layers" aria-controls="layers" role="tab" data-toggle="tab">Layers</a></li>
-        <li role="presentation"><a href="#social" aria-controls="social" role="tab" data-toggle="tab">Social</a></li>
+        <li role="presentation"><a href="#social" aria-controls="social" role="tab" data-toggle="tab">About</a></li>
       </ul>
       <!-- Tab panes -->
       <div class="tab-content">
         <div role="tabpanel" class="tab-pane fade in active" id="layers">
-          <p class="instruct"><i class="fa fa-map-marker" style="margin-right:5px"></i> Choose Category</p>
+          <p class="instruct"><i class="fa fa-map-marker" style="margin-right:5px"></i> Choose Category</p><div title="Toggle Sun Display (shadows)" class="cesium-button sun-control"><i class="fa fa-sun-o fa-fw"></i></div>
           <!-- Build Layer Tree -->
           <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
             <div id="map-layers" class="panel panel-default"></div>
           </div>
+          <h5>Under Construction<br>Please <a href="mailto:jim@climateviewer.com">report any issues</a>.</h5>
+
         </div> <!-- tabpanel -->
         <div role="tabpanel" class="tab-pane fade" id="social">
             <div id="about" class="container-fluid panel-info">
