@@ -97,7 +97,7 @@ div.cesium-baseLayerPicker-dropDown {
   left: 63px;
   right: auto;
 }
-div.sun-control {
+div.globe-control-button {
   background-color: #3d3d3d;
   color: #fff;
   padding: 0 1px;
@@ -106,9 +106,18 @@ div.sun-control {
   margin: 0;
   position: relative;
   float: right;
+}
+div.sun-control {
   top: -33px;
   right: 9px;
 }
+div.go-flying {
+  top: -33px;
+  right: 23px;
+}
+
+
+
 .cesium-sceneModePicker-wrapper .cesium-sceneModePicker-dropDown-icon {
   display: inline-block;
 }
