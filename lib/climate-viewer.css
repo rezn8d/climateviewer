@@ -1,26 +1,5 @@
 body, html { font-family: 'Open-Sans', sans-serif; font-weight:400; background:#3d3d3d }
 span, p, blockquote, h1, h2, h3, h4, h5, h6, small, strong, button, input, label { font-family: 'Open-Sans', sans-serif !important; }
-.sidebar h1 { text-align:center; font-size:2em; color:#EEE; text-decoration:none;font-weight: 700; }
-.sidebar h1 span { color:#1982d1; font-weight: 700; }
-.sidebar h2 {   text-align: center;
-  font-size: 1.3em;
-  margin: 0 auto 20px auto;
-  color: #999;
-  text-transform: uppercase;
-  text-decoration: none;
-  width: 320px;
-  border-top: 1px solid #555;
-  padding-top: 6px;
-}
-.sidebar h5 {
-  text-align: center;
-  font-size: 1em;
-  margin: 20px auto;
-  color: #999;
-  text-transform: uppercase;
-  text-decoration: none;
-  padding-top: 6px;
-}
 
 strong { font-weight:700 }
 small { font-size:.8em }
@@ -63,15 +42,27 @@ input.zoomSlider {
 .modal-header, .modal-footer {
   border-color:#555;
 }
+.modal-body {
+  position: relative;
+  padding: 15px;
+  max-height: 300px;
+  overflow: auto;
+}
 .modal-body p {
   color: #CCC;
+}
+.modal-body a {
+  font-weight:700;
+  color:#1982d1;
 }
 button.close span {
   color: #FFF;
 }
-/* CESIUM */
+/* CESIUM View Window*/
 #cesiumContainer { background-color: #000000; position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 span.cesium-credit-image img { max-width: 100px; }
+
+/* CESIUM Tool Window*/
 .cesium-viewer-toolbar {
   display: block;
   position: absolute;
@@ -86,7 +77,6 @@ span.cesium-credit-image img { max-width: 100px; }
   text-align:center;
   border-radius:5px;
 }
-
 div#baseLayerPickerContainer {
   margin: 0;
   position: relative;
@@ -122,42 +112,78 @@ div.go-flying {
   display: inline-block;
 }
 .cesium-viewer .cesium-widget-credits {  }
-.toggle-menu { position:fixed;   top: 5px; left: 5px; z-index:100000; width:64px; height:64px; background:#000; overflow:hidden; border: 5px solid rgba(0,0,0,0.3);  border-radius: 50%; -webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,1); -moz-box-shadow: 0px 0px 20px 0px rgba(0,0,0,1);  box-shadow: 0px 0px 20px 0px rgba(0,0,0,1); box-sizing:border-box;
+.toggle-menu { position:fixed;   top: 5px; left: 5px; z-index:100000; width:64px; height:64px; background:#000; overflow:hidden; border: 5px solid rgba(0,0,0,0.3);  border-radius: 50%; -webkit-box-shadow: 0 0 20px 0 rgba(0,0,0,1); -moz-box-shadow: 0 0 20px 0 rgba(0,0,0,1);  box-shadow: 0 0 20px 0 rgba(0,0,0,1); box-sizing:border-box;
   -moz-box-sizing:border-box;
   -webkit-box-sizing:border-box; }
 .toggle-menu img { width:70px; }
-.toggle-menu:hover { background:#FFF; border: 5px solid rgba(255,255,255,0.3);  border-radius: 50%; -webkit-box-shadow: 0px 0px 20px 0px rgba(255,255,255,1); -moz-box-shadow: 0px 0px 20px 0px rgba(255,255,255,1);  box-shadow: 0px 0px 20px 0px rgba(255,255,255,1); }
+.toggle-menu:hover { background:#FFF; border: 5px solid rgba(255,255,255,0.3);  border-radius: 50%; -webkit-box-shadow: 0 0 20px 0 rgba(255,255,255,1); -moz-box-shadow: 0 0 20px 0 rgba(255,255,255,1);  box-shadow: 0 0 20px 0 rgba(255,255,255,1); }
 
-
-.cesium-infoBox { width:520px; max-width:520px; overflow:hidden; padding:0px; margin:0px; z-index:10001; overflow-y: auto; -webkit-overflow-scrolling: touch;}
-.cesium-infoBox .cesium-infoBox-camera, .cesium-infoBox .cesium-infoBox-close, { background:#3d3d3d; }
-
-.cesium-infoBox-visible {
-  width:520px;
+/* MAP INFO WINDOW */
+.cesium-infoBox {
+  width:480px;
+  max-width:480px;
   overflow:hidden;
-  background: transparent;
-  padding:0px;
-  margin:0px;
+  padding:0;
+  margin:0;
   z-index:10001;
   overflow-y: auto;
-  -o-overflow-scrolling:touch;
-  -moz-overflow-scrolling:touch;
   -webkit-overflow-scrolling: touch;
+  -moz-overflow-scrolling: touch;
+  -ms-overflow-scrolling: touch;
+  -o-overflow-scrolling: touch;
+  overflow-scrolling: touch;
 }
-
-.cesium-infoBox-title {
-  padding:5px 24px;
+.cesium-infoBox .cesium-infoBox-camera,
+.cesium-infoBox .cesium-infoBox-close, {
+  background:#3d3d3d;
+}
+.cesium-infoBox-visible {
+  width:480px;
   overflow:hidden;
-  color:#FFFFFF;
+  background: transparent;
+  padding:0;
+  margin:0;
+  z-index:10001;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  -moz-overflow-scrolling: touch;
+  -ms-overflow-scrolling: touch;
+  -o-overflow-scrolling: touch;
+  overflow-scrolling: touch;
 }
-/* MAP INFO WINDOW */
-iframe.cesium-infoBox-iframe { background:#fff; width: 520px; min-height:500px; }
-iframe.cesium-infoBox-iframe * { max-width:500px !important;  }
-iframe.cesium-infoBox-iframe .cesium-infoBox-description, iframe.cesium-infoBox-iframe .cesium-infoBox-description-lighter { width: 500px; }
-
+iframe.cesium-infoBox-iframe { background:#fff; width: 480px; min-height:480px; }
+iframe.cesium-infoBox-iframe * { max-width:460px !important;  }
+iframe.cesium-infoBox-iframe .cesium-infoBox-description,
+iframe.cesium-infoBox-iframe .cesium-infoBox-description-lighter {
+  width: 480px;
+}
+.cesium-infoBox-title { padding:5px 24px; overflow:hidden; color:#FFFFFF; }
 
 /* Sidebar */
-.sidebar { position:fixed; top: 0; left: auto; right: 0; height:100%; height:calc(100% - 32px); width:420px; overflow-x:hidden; overflow-y:auto; padding-bottom:20px; background:#222;   background-color: rgba(22,22,22,0.95); border-left: 2px solid #555; border-bottom:2px solid #555;  }
+.sidebar { position:fixed; top: 0; left: auto; right: 0; height:100%; height:calc(100% - 32px); width:420px; overflow-x:hidden; overflow-y:auto; padding-bottom:20px; background:#222;   background-color: rgba(22,22,22,0.95); border-left: 2px solid #555; border-bottom:2px solid #555;   z-index: 200;  }
+
+.sidebar h1 { text-align:center; font-size:2em; color:#EEE; text-decoration:none;font-weight: 700; }
+.sidebar h1 span { color:#1982d1; font-weight: 700; }
+.sidebar h2 {   text-align: center;
+  font-size: 1.3em;
+  margin: 0 auto 20px auto;
+  color: #999;
+  text-transform: uppercase;
+  text-decoration: none;
+  width: 320px;
+  border-top: 1px solid #555;
+  padding-top: 6px;
+}
+.sidebar h5 {
+  text-align: center;
+  font-size: 1em;
+  margin: 20px auto;
+  color: #999;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding-top: 6px;
+}
+
 .nav-tabs {
   border-bottom: 1px solid #555;
 }
@@ -195,7 +221,7 @@ div.section-title { display:block; clear:both; color: #1982d1; padding: 10px 5px
 /* Layer details */
 div.panel-body ul.list-group.layer-details { padding: 5px 5px 10px 5px; margin: 0; background-color: #286090; }
 div.panel-body ul.list-group.layer-details .btn { float:right; margin-left:7px; }
-div.panel-body ul.list-group.layer-details a.more-info { color: #fff; border: none; border-top: none; font-weight: 400;text-decoration: none;  }
+div.panel-body ul.list-group.layer-details a.more-info { color: #fff; border: 0; border-top: none; font-weight: 400;text-decoration: none;  }
 ul.list-group.layer-details:before { content: 'Layer Details'; text-align: center; display: block; color: #fff; padding-bottom: 2px; font-size: 10px; }
 
 div.panel-body ul.list-group.layer-details .list-group-item { position: relative; font-size:12px; display: block; padding: 10px 15px; margin-bottom: -1px; background-color: #fff; }
@@ -228,12 +254,25 @@ div.panel-button {
 div#sun.sun-on { background: #1982d1; }
 div#sun.sun-off { background: #3d3d3d; }
 
+.modal-body h4.panel-title a {
+  color: #EEE;
+  font-weight: 400;
+}
+.dark.well {
+  background-color: transparent;
+  border-color: #555;
+}
+
 div.panel-share {
   background-color: #fff;
   margin: 7px;
   padding-top: 10px;
   padding-bottom: 20px;
   border-radius: 7px;
+}
+div.panel-share h3 {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 9px;
 }
 div#comments.panel-chat {
   min-height: 120px;
@@ -292,12 +331,84 @@ div.panel-chat {
 }
 
 @media screen and (max-width: 480px) {
-.toggle-menu { top: auto; left:auto; bottom:40px; right:10px; margin-left:0; z-index:100000;  }
+  .modal-dialog {
+    top: 7px;
+  }
+  .toggle-menu { top: auto; left:auto; bottom:40px; right:10px; margin-left:0; z-index:100000;  }
+  .cesium-viewer-toolbar {
+    display: block;
+    padding-top: 10px;
+    top: 5px;
+    left: 5px;
+  }
+  div.cesium-baseLayerPicker-dropDown {
+    top: -11px;
+    left: 42px;
+    right: auto;
+    width: 250px;
+    height: 300px;
+    z-index: 100;
+  }
+  .cesium-infoBox-visible {
+    width: 100%;
+    height: 100%;
+    height: calc(100% - 34px);
+    top: 0;
+  }
+  .cesium-viewer .cesium-widget-credits {display:none;}
+  .sidebar { width:100%; }
+  div.panel-body a.layer-button { white-space: normal; }
 
-#baseLayerPickerContainer, .cesium-viewer-toolbar { display:block; }
-.cesium-viewer .cesium-widget-credits {display:none;}
-.sidebar { width:100%; }
-div.panel-body a.layer-button { white-space: normal; }
+
+  /* MAP INFO WINDOW */
+  .cesium-infoBox {
+    width:480px;
+    max-width:480px;
+    overflow:hidden;
+    padding:0;
+    margin:0;
+    z-index:10001;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    -moz-overflow-scrolling: touch;
+    -ms-overflow-scrolling: touch;
+    -o-overflow-scrolling: touch;
+    overflow-scrolling: touch;
+  }
+  .cesium-infoBox .cesium-infoBox-camera,
+  .cesium-infoBox .cesium-infoBox-close, {
+    background:#3d3d3d;
+  }
+  .cesium-infoBox-visible {
+    width:100%;
+  }
+
+  iframe.cesium-infoBox-iframe { width: 100%; min-height: 100%; height:100%; }
+  iframe.cesium-infoBox-iframe * { max-width:460px !important;  }
+  iframe.cesium-infoBox-iframe .cesium-infoBox-description,
+  iframe.cesium-infoBox-iframe .cesium-infoBox-description-lighter {
+    width: 480px;
+  }
+  .cesium-infoBox-title {
+    padding: 10px 46px;
+  }
+  button.cesium-infoBox-camera {
+    left: 11px;
+    width: 32px;
+    height: 32px;
+  }
+  button.cesium-infoBox-close {
+    display: block;
+    position: absolute;
+    top: 4px;
+    right: 5px;
+    height: 32px;
+    width: 32px;
+    font-size: 32px;
+    line-height: 32px;
+    padding: 0;
+    margin: 0;
+  }
 }
 
 @media screen and (max-width: 320px) {

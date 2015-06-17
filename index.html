@@ -38,6 +38,10 @@
   <link href="lib/climate-viewer.css" rel='stylesheet' type='text/css' />
 
 
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://climateviewer.net/apple-touch-icon-144-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://climateviewer.net/apple-touch-icon-114-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://climateviewer.net/apple-touch-icon-72-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" href="http://climateviewer.net/apple-touch-icon-57-precomposed.png" />
 
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
   <link rel="icon" href="favicon.ico" type="image/x-icon" />
@@ -51,26 +55,49 @@
     <h1>Climate Viewer <span>3D</span></h1>
     <h2>Open-Source Maptivism</h2>
     <div class="controls" role="tabpanel">
+
       <!-- Nav tabs -->
       <ul class="nav nav-tabs" role="tablist">
         <li role="presentation" class="active"><a href="#layers" aria-controls="layers" role="tab" data-toggle="tab">Layers</a></li>
-        <li role="presentation"><a href="#social" aria-controls="social" role="tab" data-toggle="tab">About</a></li>
+          <li role="presentation"><a href="#social" class="share-panel" aria-controls="social" role="tab" data-toggle="tab">Share</a></li>
+          <li role="presentation"><a href="#about" aria-controls="about" role="tab" data-toggle="tab">About</a></li>
       </ul>
+
       <!-- Tab panes -->
       <div class="tab-content">
-        <div role="tabpanel" class="tab-pane fade in active" id="layers">
-          <p class="instruct"><i class="fa fa-map-marker" style="margin-right:5px"></i> Choose Category</p>
-          <div title="Toggle Sun Display (shadows)" class="cesium-button globe-control-button sun-control"><i class="fa fa-sun-o fa-fw"></i></div>
-          <div title="Go Flying" class="cesium-button globe-control-button go-flying mouse" style="display:none"><i class="fa fa-plane fa-fw"></i></div>
-          <!-- Build Layer Tree -->
-          <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-            <div id="map-layers" class="panel panel-default"></div>
-          </div>
-          <h5>Under Construction<br>Please <a href="mailto:jim@climateviewer.com">report any issues</a>.</h5>
 
-        </div> <!-- tabpanel -->
-        <div role="tabpanel" class="tab-pane fade" id="social">
-            <div id="about" class="container-fluid panel-info">
+          <div role="tabpanel" class="tab-pane fade in active" id="layers">
+              <p class="instruct"><i class="fa fa-map-marker" style="margin-right:5px"></i> Choose Category</p>
+              <div title="Toggle Sun Display (shadows)" class="cesium-button globe-control-button sun-control"><i class="fa fa-sun-o fa-fw"></i></div>
+              <div title="Go Flying" class="cesium-button globe-control-button go-flying mouse" style="display:none"><i class="fa fa-plane fa-fw"></i></div>
+              <!-- Build Layer Tree -->
+              <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                  <div id="map-layers" class="panel panel-default"></div>
+              </div>
+          </div> <!-- tabpanel -->
+
+          <div role="tabpanel" class="tab-pane fade in active" id="social">
+              <div id="share" class="container-fluid text-center">
+                  <div class="row">
+                      <div class="col-xs-12">
+                      </div>
+                  </div>
+              </div> <!-- #share -->
+              <div id="comments" class="container-fluid text-center">
+                  <div class="row">
+                      <div class="col-xs-12">
+                      </div>
+                  </div>
+              </div> <!-- #comments -->
+              <div id="chat" class="text-center">
+                  <div class="row">
+                      <div class="col-xs-12">
+                      </div>
+                  </div>
+              </div> <!-- #chat -->          </div> <!-- tabpanel -->
+
+          <div role="tabpanel" class="tab-pane fade" id="about">
+            <div class="container-fluid panel-info">
               <div class="row">
                 <div class="col-xs-12">
                   <h3 style="margin-top:0">About Climate Viewer 3D</h3>
@@ -88,37 +115,13 @@
                   <div style="padding:10px 0"></div>
                   <h4>Support Us</h4>
                   <p>This website was made possible by <strong><a target="_blank" rel="nofollow" href="http://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=A6YC74NZDAYM2&amp;lc=US&amp;item_name=Jim%20Lee%20of%20Climate%20Viewer%20News&amp;item_number=CV3D&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" title="Paypal link">donations from caring individuals like you!</a></strong> Thank you for your support.</p>
-
-                  <div style="padding:10px 0"></div>
-
-                    <div id="launch-sharethis" title="Powered by ShareThis" class="share btn btn-sm btn-default"><i class="fa fa-share-alt"></i> <strong>Sharing is Caring</strong></div>
-                    <div id="launch-comments" title="Powered by Disqus" class="comment btn btn-sm btn-default"><i class="fa fa-comment"></i> <strong>Comment</strong></div>
-                    <div id="launch-chat" title="Powered by Tlk.io" class="chat btn btn-sm btn-default"><i class="fa fa-comments-o"></i> <strong>Chat Room</strong></div>
-
+                    <a class="btn btn-sm btn-primary" href="http://bit.ly/1N4r8DA" target="_blank" rel="nofollow"><i class="fa fa-paypal fa-3x pull-left"></i> <strong>Please Donate</strong><br>Today</a>
                   <div style="padding:10px 0"></div>
 
                   <h5><strong>Copyright &copy; <a style='text-decoration:none' title='Climate Viewer 3D' href="http://climateviewer.com/terms/">Climate Viewer News</a>&nbsp;2011-<script type="text/javascript">today=new Date(); year=today.getYear(); if (year<1999) {year=year+1900;} document.write(year);</script></strong></h5>
               </div>
             </div>
           </div> <!-- #about -->
-          <div id="share" class="container-fluid text-center">
-            <div class="row">
-              <div class="col-xs-12">
-              </div>
-            </div>
-          </div> <!-- #share -->
-          <div id="comments" class="container-fluid text-center">
-            <div class="row">
-              <div class="col-xs-12">
-              </div>
-            </div>
-          </div> <!-- #comments -->
-          <div id="chat" class="text-center">
-            <div class="row">
-              <div class="col-xs-12">
-              </div>
-            </div>
-          </div> <!-- #chat -->
         </div> <!-- tabpanel -->
       </div> <!-- tab-content -->
     </div> <!-- tabpanel -->
@@ -135,6 +138,51 @@
         </div>
         <div class="modal-body">
           <p>Use this URL to save your currently displayed layers:</p><p class="well"><a id="shareLink" class="share-all-layers" href="#" title="My custom CV3D map"></a></p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+  </div><!-- /.modal -->
+
+  <div id="Greetz" class="modal fade">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          <h4 class="modal-title">Welcome to the Future!</h4>
+        </div>
+        <div class="modal-body">
+          <p>After three years in the making, the new <strong><a href="http://cesiumjs.org/">Cesium-powered</a> Climate Viewer 3D</strong> is finally here!  This website is under construction and may contain a few bugs, so please <a href="mailto:jim@climateviewer.com">report any issues</a> and have fun!</p>
+
+            <div class="panel-heading" role="tab" id="heading-ge"><h4 class="panel-title"><a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#ge" aria-expanded="false" aria-controls="ge">&bull;&nbsp;&nbsp;&nbsp;Goodbye Google Earth</a></h4></div>
+            <div id="ge" class="panel-collapse collapse dark well" role="tabpanel" aria-labelledby="heading-ge" aria-expanded="false" style="height: 0">
+                <p>With the blocking of NPAPI, our Google Earth powered CV3D is now dead.  You can still check out the <a href="http://climateviewer.net/3D/">old version of Climate Viewer 3D</a> here or read all about our coversion from the GE plugin to Cesium!</p>
+                <p><strong><a href="http://climateviewer.com/2014/12/28/death-google-earth-climate-viewer-3d/">The Death of Google Earth and Climate Viewer 3D</a></strong></p>
+            </div>
+
+            <div class="panel-heading" role="tab" id="heading-FAQ"><h4 class="panel-title"><a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#FAQ" aria-expanded="false" aria-controls="FAQ">&bull;&nbsp;&nbsp;&nbsp;Is My Device Supported?</a></h4></div>
+              <div id="FAQ" class="panel-collapse collapse dark well" role="tabpanel" aria-labelledby="heading-FAQ" aria-expanded="false" style="height: 0">
+                  <div class="panel-body panel-main">
+                      <h3 id="plugin">Does Cesium require an install or a plugin?</h3>
+                      <p>No.  Cesium runs without an install.  It uses HTML5 standards, namely <a href="http://www.khronos.org/webgl/" target="_blank">WebGL</a>, that are natively supported by browsers.</p>
+                      <h3 id="browsers">What browsers are supported?</h3>
+                      <p>Recent versions of Chrome, Firefox, and Internet Explorer 11 are supported and tested with every release. Safari and Opera both work as well, but are not as actively tested.</p>
+                      <h3 id="OS">What operating systems are supported?</h3>
+                      <p>Cesium runs on any platform with a WebGL capable browser, including Windows, Linux, OS X, Android, iOS, and Windows Phone.</p>
+                      <h3 id="videoCards">What video cards are supported?</h3>
+                      <p>Cesium works on any video card that supports WebGL. This includes almost all NVIDIA and AMD cards made since 2004 as well as recent Intel video cards.</p>
+                      <p>To see if your video card supports WebGL, visit our <a href="http://www.webglreport.com" target="_blank">WebGL Report</a>.</p>
+                </div>
+            </div>
+
+            <div class="panel-heading" role="tab" id="heading-donate"><h4 class="panel-title"><a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#donate" aria-expanded="false" aria-controls="donate">&bull;&nbsp;&nbsp;&nbsp;How Can I Help?</a></h4></div>
+            <div id="donate" class="panel-collapse collapse dark well" role="tabpanel" aria-labelledby="heading-donate" aria-expanded="false" style="height: 0">
+                <p>This website was made possible by <strong><a target="_blank" rel="nofollow" href="http://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=A6YC74NZDAYM2&amp;lc=US&amp;item_name=Jim%20Lee%20of%20Climate%20Viewer%20News&amp;item_number=CV3D&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" title="Paypal link">donations from caring individuals like you!</a></strong> Thank you for your support.</p>
+                <p><a class="btn btn-default" href="http://bit.ly/1N4r8DA" target="_blank" rel="nofollow"><i class="fa fa-paypal fa-3x pull-left"></i> <strong>Support Climate Viewer 3D</strong><br>Donate Today</a></p>
+            </div>
+
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
