@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b24f01fc-2b92-4e90-9d7e-c5974d478bbf" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/climate-viewer-layers.js" afterPath="$PROJECT_DIR$/lib/climate-viewer-layers.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/climate-viewer-menu.js" afterPath="$PROJECT_DIR$/lib/climate-viewer-menu.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/climate-viewer.css" afterPath="$PROJECT_DIR$/lib/climate-viewer.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/climate-viewer.js" afterPath="$PROJECT_DIR$/lib/climate-viewer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="climateviewer.iws" />
@@ -30,11 +28,11 @@
       <file leaf-file-name="climate-viewer-menu.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/climate-viewer-menu.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="15.447369">
-              <caret line="485" column="141" selection-start-line="485" selection-start-column="141" selection-end-line="485" selection-end-column="141" />
+            <state vertical-scroll-proportion="-8.733334">
+              <caret line="548" column="0" selection-start-line="548" selection-start-column="0" selection-end-line="548" selection-end-column="0" />
               <folding>
-                <marker date="1434522402926" expanded="true" signature="21439:21451" placeholder="..." />
-                <marker date="1434522402926" expanded="true" signature="21545:21557" placeholder="..." />
+                <marker date="1434700844979" expanded="true" signature="23214:23226" placeholder="..." />
+                <marker date="1434700844979" expanded="true" signature="23320:23332" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -43,8 +41,8 @@
       <file leaf-file-name="climate-viewer.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/climate-viewer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.4473686">
-              <caret line="99" column="47" selection-start-line="99" selection-start-column="44" selection-end-line="99" selection-end-column="47" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="119" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -53,8 +51,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48371533">
-              <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.75838923">
+              <caret line="75" column="20" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
               <folding>
                 <element signature="n#style#0;n#i#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -67,31 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="climate-viewer-layers.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/climate-viewer-layers.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="231" column="89" selection-start-line="231" selection-start-column="89" selection-end-line="231" selection-end-column="89" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.htaccess">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="44" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="climate-viewer.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/climate-viewer.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="3.8513513">
-              <caret line="259" column="1" selection-start-line="259" selection-start-column="1" selection-end-line="259" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="49" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -106,11 +84,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/lib/nslider/nslider.js" />
-        <option value="$PROJECT_DIR$/lib/climate-viewer-layers.js" />
         <option value="$PROJECT_DIR$/lib/climate-viewer.js" />
-        <option value="$PROJECT_DIR$/lib/climate-viewer-menu.js" />
         <option value="$PROJECT_DIR$/lib/climate-viewer.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/lib/climate-viewer-layers.js" />
+        <option value="$PROJECT_DIR$/lib/climate-viewer-menu.js" />
       </list>
     </option>
   </component>
@@ -195,7 +174,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="FullScreen" value="false" />
   </component>
@@ -256,14 +235,14 @@
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25208333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14583333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -288,7 +267,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -296,10 +275,68 @@
     <entry file="file://$PROJECT_DIR$/lib/climate-viewer-menu.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="485" column="141" selection-start-line="485" selection-start-column="141" selection-end-line="485" selection-end-column="141" />
+          <folding>
+            <marker date="1434700844979" expanded="true" signature="23214:23226" placeholder="..." />
+            <marker date="1434700844979" expanded="true" signature="23320:23332" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/climate-viewer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="99" column="47" selection-start-line="99" selection-start-column="44" selection-end-line="99" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#i#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#1;n#div#0;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#div#1;n#div#0;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/climate-viewer-layers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="231" column="89" selection-start-line="231" selection-start-column="89" selection-end-line="231" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/climate-viewer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="259" column="1" selection-start-line="259" selection-start-column="1" selection-end-line="259" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/climate-viewer-menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="547" column="19" selection-start-line="547" selection-start-column="19" selection-end-line="547" selection-end-column="19" />
           <folding>
-            <marker date="1434522402926" expanded="true" signature="21439:21451" placeholder="..." />
-            <marker date="1434522402926" expanded="true" signature="21545:21557" placeholder="..." />
+            <marker date="1434700844979" expanded="true" signature="23214:23226" placeholder="..." />
+            <marker date="1434700844979" expanded="true" signature="23320:23332" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -356,8 +393,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1434522402926" expanded="true" signature="21439:21451" placeholder="..." />
-            <marker date="1434522402926" expanded="true" signature="21545:21557" placeholder="..." />
+            <marker date="1434700844979" expanded="true" signature="23214:23226" placeholder="..." />
+            <marker date="1434700844979" expanded="true" signature="23320:23332" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -413,8 +450,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1434522402926" expanded="true" signature="21439:21451" placeholder="..." />
-            <marker date="1434522402926" expanded="true" signature="21545:21557" placeholder="..." />
+            <marker date="1434700844979" expanded="true" signature="23214:23226" placeholder="..." />
+            <marker date="1434700844979" expanded="true" signature="23320:23332" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -455,17 +492,9 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1434522402926" expanded="true" signature="21439:21451" placeholder="..." />
-            <marker date="1434522402926" expanded="true" signature="21545:21557" placeholder="..." />
+            <marker date="1434700844979" expanded="true" signature="23214:23226" placeholder="..." />
+            <marker date="1434700844979" expanded="true" signature="23320:23332" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -500,45 +529,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/climate-viewer-layers.js">
+    <entry file="file://$PROJECT_DIR$/lib/climate-viewer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="231" column="89" selection-start-line="231" selection-start-column="89" selection-end-line="231" selection-end-column="89" />
+          <caret line="119" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/climate-viewer.js">
+    <entry file="file://$PROJECT_DIR$/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.4473686">
-          <caret line="99" column="47" selection-start-line="99" selection-start-column="44" selection-end-line="99" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.07606264">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/climate-viewer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="49" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/climate-viewer-layers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5011211">
+          <caret line="293" column="0" selection-start-line="292" selection-start-column="280" selection-end-line="293" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/climate-viewer-menu.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="15.447369">
-          <caret line="485" column="141" selection-start-line="485" selection-start-column="141" selection-end-line="485" selection-end-column="141" />
+        <state vertical-scroll-proportion="-8.733334">
+          <caret line="548" column="0" selection-start-line="548" selection-start-column="0" selection-end-line="548" selection-end-column="0" />
           <folding>
-            <marker date="1434522402926" expanded="true" signature="21439:21451" placeholder="..." />
-            <marker date="1434522402926" expanded="true" signature="21545:21557" placeholder="..." />
+            <marker date="1434700844979" expanded="true" signature="23214:23226" placeholder="..." />
+            <marker date="1434700844979" expanded="true" signature="23320:23332" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/climate-viewer.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.8513513">
-          <caret line="259" column="1" selection-start-line="259" selection-start-column="1" selection-end-line="259" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48371533">
-          <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.75838923">
+          <caret line="75" column="20" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
           <folding>
             <element signature="n#style#0;n#i#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
