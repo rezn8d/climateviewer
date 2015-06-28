@@ -33,7 +33,7 @@
   <link href="lib/cesium/1.10/Widgets/Viewer/Viewer.css" rel='stylesheet' type='text/css'/>
   <link href="lib/semantic-ui/1.12.3/semantic.min.css" rel='stylesheet' type='text/css' />
   <link href="lib/font-awesome-4.3.0/css/font-awesome.min.css" rel='stylesheet' type='text/css' />
-  <link href="lib/climate-viewer.css?v9001" rel='stylesheet' type='text/css' />
+  <link href="lib/climate-viewer.css?v9002" rel='stylesheet' type='text/css' />
 
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://climateviewer.net/apple-touch-icon-144-precomposed.png" />
   <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://climateviewer.net/apple-touch-icon-114-precomposed.png" />
@@ -48,8 +48,10 @@
   <div id="cesiumContainer"></div>
   <div id="loadingIndicator" class="loadingIndicator"></div>
   <div id="baseLayerPickerContainer"></div>
-  <div title="Clear Globe (remove all layers)" class="cesium-button layer-control-button"><i class="icon close"></i></div>
-
+  <div class="cv-toolbar">
+    <div title="Clear Globe (remove all layers)" class="cesium-button layer-control-button"><i class="icon close"></i><span class="cesium-button-title">Clear Globe</span></div>
+    <div title="Share All Active Layers" class="cesium-button globe-control-button share-active-layers"><i class="icon share alternate"></i><span class="cesium-button-title">Share Active Layers</span></div>
+  </div>
   <div class="sidebar" style="display:none">
     <h1>Climate Viewer <span>3D</span></h1>
     <h2>Open-Source Maptivism</h2>
@@ -70,10 +72,9 @@
               <!-- Build Layer Tree -->
               <div id="map-layers" class="ui vertical accordion menu"></div>
               <div class="instruct">
-                <div title="Toggle Timeline" class="cesium-button time-control-button"><i class="icon clock"></i></div>
-                <div title="Toggle Sun Display (shadows)" class="cesium-button globe-control-button sun-control"><i class="icon sun"></i></div>
-                <div title="Go Flying" class="cesium-button globe-control-button go-flying"><i class="icon plane"></i></div>
-                <div style="display:none" title="Share All Active Layers" class="cesium-button globe-control-button share-active-layers"><i class="icon share alternate"></i></div>
+                <div style="display:none" title="Toggle Timeline" class="cesium-button time-control-button"><i class="icon clock"></i></div>
+                <div title="Toggle Sun Display (shadows)" class="cesium-button globe-control-button sun-control"><i class="icon sun"></i><span class="cesium-button-title">Toggle Sun Display</span></div>
+                <div title="Go Flying" class="cesium-button globe-control-button go-flying"><i class="icon plane"></i><span class="cesium-button-title">Go Flying (Experimental)</span></div>
               </div>
               <p class="instruct footer share-holder" style="display:none">Use this URL to save your currently displayed layers:</p>
               <a id="shareLink" class="instruct footer share-holder share-all-layers" style="display:none" href="http://climateviewer.net/" title="My custom CV3D map">http://climateviewer.net/</a>
@@ -119,27 +120,21 @@
 <div class="toggle-menu"><img src="img/cv3d.png" title="Click here to show/hide the layer menu" alt="Menu Toggle" /> </div>
 <div id="datepicker-container"></div>
 
-<div id="shareModal" class="ui basic modal">
+<div id="shareModal" class="shareModal ui basic modal">
   <i class="close icon"></i>
   <div class="header">
      Share Active Layers
   </div>
   <div class="content">
-    <div class="description ui card">
-          <p>Use this URL to save your currently displayed layers:</p><p class="well"><a id="shareLink" class="share-all-layers" href="http://climateviewer.net/" title="My custom CV3D map"></a></p>
-    </div>
-  <div class="actions">
-    <div class="two fluid ui inverted buttons">
-      <div class="ui green basic inverted button" style="display:none">
-        <i class="share icon"></i>
-        Share
-      </div>
-      <div class="ui blue basic inverted button">
-        <i class="checkmark icon"></i>
-        Close
+    <div class="description">
+      <div class="ui header">
+        <i class="circular inverted blue share alternate icon" style="color:#FFF;font-size:32px;"></i>
+        <div class="content" style="padding-left:20px">
+          <a id="shareLink" class="share-all-layers" href="http://climateviewer.net/" title="My custom CV3D map"></a>
+          <div class="sub header" style="color:#DDD">Use this URL to share all currently displayed layers.</div>
+        </div>
       </div>
     </div>
-  </div>
 </div>
 
 
@@ -150,8 +145,8 @@
   </div>
   <div class="content">
     <div class="description">
-          <p>After three years in the making, the new <strong><a href="http://cesiumjs.org/">Cesium-powered</a> Climate Viewer 3D</strong> is finally here!  This website is under construction and may contain a few bugs, so please <a href="mailto:jim@climateviewer.com">report any issues</a> and have fun!</p>
-          <p><iframe width="420" height="236" src="https://www.youtube-nocookie.com/embed/Gxqqsy4Gvqs" frameborder="0" allowfullscreen></iframe></p>
+          <p style="font-size:1.5em">After three years in the making, the new <strong><a href="http://cesiumjs.org/">Cesium-powered</a> Climate Viewer 3D</strong> is finally here!  This website is under construction and may contain a few bugs, so please <a href="mailto:jim@climateviewer.com">report any issues</a> and have fun!</p>
+          <!-- <div class="videoWrapper"><iframe width="420" height="236" src="https://www.youtube-nocookie.com/embed/Gxqqsy4Gvqs" frameborder="0" allowfullscreen></iframe></div> -->
           <br>
           <h3>Frequently Asked Questions</h3>
           <div class="ui accordion">
@@ -176,12 +171,15 @@
 
             <div class="ui header title"><h4>&bull;&nbsp;&nbsp;&nbsp;Goodbye Google Earth?</h4></div>
             <div class="ui card content">
-                <p>With the blocking of NPAPI, our Google Earth powered CV3D is now dead.  You can still check out the <a href="http://climateviewer.net/3D/">old version of Climate Viewer 3D</a> here or read all about our coversion from the GE plugin to Cesium!</p>
+                <p>With the blocking of NPAPI, our Google Earth powered CV3D is now dead.  You can still check out the <a href="http://climateviewer.net/3D/">old version of Climate Viewer 3D</a> here or read all about our conversion from the GE plugin to Cesium!</p>
                 <p><strong><a href="http://climateviewer.com/2014/12/28/death-google-earth-climate-viewer-3d/">The Death of Google Earth and Climate Viewer 3D</a></strong></p>
             </div>
 
             <div class="ui header title"><h4>&bull;&nbsp;&nbsp;&nbsp;How Can I Help?</h4></div>
             <div class="ui card content">
+                <p>Know how to code and want to help make Climate Viewer 3D better?  Join us on Github.</p>
+                <a class="btn btn-sm btn-primary" href="https://github.com/rezn8d/climateviewer" target="_blank" rel="nofollow"><i class="fa fa-github fa-3x pull-left"></i> Climate Viewer 3D<br>on Github</a>
+                <div style="padding:20px 0"></div>
                 <p>This website was made possible by <strong><a target="_blank" rel="nofollow" href="http://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=A6YC74NZDAYM2&amp;lc=US&amp;item_name=Jim%20Lee%20of%20Climate%20Viewer%20News&amp;item_number=CV3D&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" title="Paypal link">donations from caring individuals like you!</a></strong> Thank you for your support.</p>
                 <p><a class="btn btn-default" href="http://bit.ly/1N4r8DA" target="_blank" rel="nofollow"><i class="fa fa-paypal fa-3x pull-left"></i> <strong>Support Climate Viewer 3D</strong><br>Donate Today</a></p>
             </div>
@@ -212,6 +210,23 @@
   <script type="text/javascript" src="lib/climate-viewer-layers.js?v9001"></script>
   <script type="text/javascript" src="lib/climate-viewer-menu.js?v9001"></script>
 
+<!-- Start of StatCounter Code for Dreamweaver -->
+<script type="text/javascript">
+var sc_project=9375917; 
+var sc_invisible=1; 
+var sc_security="7063658a"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="shopify visitor
+statistics" href="http://statcounter.com/shopify/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/9375917/0/7063658a/1/"
+alt="shopify visitor statistics"></a></div></noscript>
+<!-- End of StatCounter Code for Dreamweaver -->
 
 </body>
 </html>

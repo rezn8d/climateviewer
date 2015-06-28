@@ -24,12 +24,17 @@ input.zoomSlider {
   display: block;
 }
 
+/* Responsive Video Wrapper */
+.videoWrapper { position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; clear:both; text-align: center; margin-bottom: 20px; margin-top:20px; }
+.videoWrapper iframe, .videoWrapper object, .videoWrapper embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:none !important; }
+
 .ui.vertical.menu {
   width: 100%;
 }
 
 .center { text-align:center }
 
+/* Modals */
 .ui.modal>.content>.icon+.description, .ui.modal>.content>.image+.description {
   min-width: 100%;
   width: 100%;
@@ -51,6 +56,11 @@ input.zoomSlider {
   border-bottom:1px solid #333;
   padding-bottom: 7px;
 }
+.shareModal.ui.header>.icon+.content {
+  padding-left: 0;
+  width: 100%;
+}
+
 .ui.accordion .accordion .active.content, .ui.accordion .active.content.ui.card {
   width: 98%;
   background-color: #555;
@@ -97,6 +107,7 @@ div.time-control-button, div.layer-control-button {
   display: inline-block;
   margin: 0;
   position: relative;
+  display:none;
 }
  div.globe-control-button {
   background-color: #3d3d3d;
@@ -108,16 +119,14 @@ div.time-control-button, div.layer-control-button {
   position: relative;
 }
 
+
 div.sun-control.active, div.time-control-button.active{ background: #1982d1; }
 
 
-.cesium-sceneModePicker-wrapper .cesium-sceneModePicker-dropDown-icon {
-  display: inline-block;
-}
 .cesium-viewer .cesium-widget-bottom {  }
 .cesium-viewer .cesium-viewer-animationContainer { z-index: 6; }
 .cesium-viewer .cesium-viewer-timelineContainer { z-index: 5; }
-
+span.cesium-button-title { font-size: .6em; position: relative; top: -3px; padding-right: 7px; display: none; }
 
 .toggle-menu { position:fixed; top: 5px; left: 5px; z-index:100000; width:64px; height:64px; background:#000; overflow:hidden; border: 5px solid rgba(0,0,0,0.3);  border-radius: 50%; -webkit-box-shadow: 0 0 20px 0 rgba(0,0,0,1); -moz-box-shadow: 0 0 20px 0 rgba(0,0,0,1);  box-shadow: 0 0 20px 0 rgba(0,0,0,1); box-sizing:border-box;
   -moz-box-sizing:border-box;
@@ -159,15 +168,18 @@ div.sun-control.active, div.time-control-button.active{ background: #1982d1; }
   overflow-scrolling: touch;
 }
 iframe.cesium-infoBox-iframe { background:#fff; width: 480px; min-height:480px; }
-iframe.cesium-infoBox-iframe * { max-width:460px !important;  }
+iframe.cesium-infoBox-iframe * { max-width:460px !important; }
 iframe.cesium-infoBox-iframe .cesium-infoBox-description,
 iframe.cesium-infoBox-iframe .cesium-infoBox-description-lighter {
   width: 480px;
+  color:#000;
 }
+
+
 .cesium-infoBox-title { padding:5px 24px; overflow:hidden; color:#FFFFFF; }
 
 /* Sidebar */
-.sidebar { position:fixed; top: 0; left: auto; right: 0; height:100%; height:calc(100% - 32px); width:420px; overflow-x:hidden; overflow-y:auto; padding-bottom:20px; background:#222;   background-color: rgba(22,22,22,0.95); border-left: 2px solid #555; border-bottom:2px solid #555;   z-index: 200;  }
+.sidebar { position:fixed; top: 0; left: auto; right: 0; height:100%; height:calc(100% - 32px); width:420px; overflow-x:hidden; overflow-y:auto; padding-bottom:20px; background:#222;   background-color: rgba(22,22,22,0.95); z-index: 200;  }
 
 .sidebar h1 { text-align:center; font-size:2em; color:#EEE; text-decoration:none;font-weight: 700; }
 .sidebar h1 span { color:#1982d1; font-weight: 700; }
@@ -229,12 +241,14 @@ i.icon.keyboard {
 .ui.menu .item .item {
   color: #222;
 }
+div.cv-toolbar { position:fixed; top: 21px; left: 77px; display:none; }
+div.cv-toolbar div { position:relative; display:inline-block; float:left;margin-right:2px; }
 div.instruct { position:relative; left:10px; }
 p.instruct { color:#EEE; padding-left:10px; }
-p.instruct.footer { color:#EEE; padding-left:10px; padding-top:15px; padding-bottom:15px; }
+p.instruct.footer { color:#EEE; padding-left:10px; padding-top:15px; padding-bottom:15px; width: 80%; }
 p.instruct.footer.share-holder { color:#EEE; padding-left:10px; padding-top:15px; padding-bottom:0; }
 a.instruct.footer.share-holder { color:#1982d1; padding-left:10px; padding-top:0; padding-bottom:15px; font-weight:bold; }
-.ui.vertical.menu div.section-title {  margin:10px 0; color: #000; display: block; text-align: left; border: 0; border-radius: 0; white-space: nowrap; text-transform: uppercase;}
+.ui.vertical.menu div.section-title {  padding:10px 0; color: #000; display: block; text-align: left; border: 0; border-radius: 0; white-space: nowrap; text-transform: uppercase; border-top:1px solid #CCC;border-bottom:1px solid #CCC; font-weight:bold;}
 .ui.vertical.menu .item.layer-button { padding: .78571em 0; cursor: pointer; }
 div.accordion.ui.vertical.menu .item>i.icon { position: relative; left: -8px; float:left; }
 div.accordion.ui.vertical.menu .item .layer-details i.icon { left: auto; top: auto; float: none; }
@@ -286,16 +300,6 @@ div.panel-button {
   padding-top: 10px;
   padding-bottom: 10px;
   border-radius: 7px;
-}
-
-
-.modal-body h4.panel-title a {
-  color: #EEE;
-  font-weight: 400;
-}
-.dark.well {
-  background-color: transparent;
-  border-color: #555;
 }
 
 div.panel-share {
@@ -373,16 +377,17 @@ div.panel-chat {
 }
 
 @media screen and (max-width: 480px) {
+  #Greetz .header {
+    font-size: 1.2em;
+  }
+  .ui.modal>.content>.description  {
+    max-height: 200px;
+  }
+
   .modal-dialog {
     top: 7px;
   }
-  .toggle-menu { top: auto; left:auto; bottom:40px; right:10px; margin-left:0; z-index:100000;  }
-  .cesium-viewer-toolbar {
-    display: block;
-    padding-top: 10px;
-    top: 5px;
-    left: 5px;
-  }
+
   div.cesium-baseLayerPicker-dropDown {
     top: -11px;
     left: 42px;
