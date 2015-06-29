@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+<name>
+part_51.kml
+</name>
+<GroundOverlay id="groundoverlay">
+<name>
+ge_groundoverlay
+</name>
+<description>
+<![CDATA[]]>
+</description>
+<color>
+ffffffff
+</color>
+<visibility>
+1
+</visibility>
+<extrude>0</extrude>
+<Icon>
+<href>
+part_51.png
+</href>
+<viewBoundScale>
+0
+</viewBoundScale>
+</Icon>
+<LatLonBox>
+<north>45.000000</north><south>15.000000</south><east>210.000000</east><west>130.000000</west><rotation>0.0000000000000000</rotation>
+</LatLonBox>
+</GroundOverlay>
+
+</Document>
+</kml>

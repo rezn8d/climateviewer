@@ -156,7 +156,7 @@ span.cesium-button-title { font-size: .6em; position: relative; top: -3px; paddi
 .cesium-infoBox-visible {
   width:480px;
   overflow:hidden;
-  background: transparent;
+  background: rgba(0,0,0,0.3) !important;
   padding:0;
   margin:0;
   z-index:10001;
@@ -167,7 +167,7 @@ span.cesium-button-title { font-size: .6em; position: relative; top: -3px; paddi
   -o-overflow-scrolling: touch;
   overflow-scrolling: touch;
 }
-iframe.cesium-infoBox-iframe { background:#fff; width: 480px; min-height:480px; }
+iframe.cesium-infoBox-iframe { background: rgba(0,0,0,0.5) !important; width: 480px; min-height:480px; }
 iframe.cesium-infoBox-iframe * { max-width:460px !important; }
 iframe.cesium-infoBox-iframe .cesium-infoBox-description,
 iframe.cesium-infoBox-iframe .cesium-infoBox-description-lighter {
