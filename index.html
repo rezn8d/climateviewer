@@ -29,8 +29,8 @@
   <meta name="description" content="Climate Viewer 3D empowers the user with cutting-edge technology, real-time situational awareness, and a visual tour of our planetary problems.  With a plethora of controls, data sources, Google Earth 3D interface, and fresh content daily, what are you waiting for?" />
   <meta name="keywords" content="maptivism, climate change, climate change tracker, climate change viewer, cv3d, climateviewer, pollution map, pollution viewer, 3D, globe, cesiumjs" />
 
-  <link href="lib/cesium/1.10/Widgets/widgets.css" rel='stylesheet' type='text/css'/>
-  <link href="lib/cesium/1.10/Widgets/Viewer/Viewer.css" rel='stylesheet' type='text/css'/>
+  <link href="lib/cesium/1.11/Widgets/widgets.css" rel='stylesheet' type='text/css'/>
+  <link href="lib/cesium/1.11/Widgets/Viewer/Viewer.css" rel='stylesheet' type='text/css'/>
   <link href="lib/semantic-ui/1.12.3/semantic.min.css" rel='stylesheet' type='text/css' />
   <link href="lib/font-awesome-4.3.0/css/font-awesome.min.css" rel='stylesheet' type='text/css' />
   <link href="lib/climate-viewer.css?v9002" rel='stylesheet' type='text/css' />
@@ -49,12 +49,14 @@
   <div id="loadingIndicator" class="loadingIndicator"></div>
   <div id="baseLayerPickerContainer"></div>
   <div class="cv-toolbar">
+    <div style="display:none" title="Toggle Timeline" class="cesium-button time-control-button"><i class="icon clock"></i></div>
+    <div title="Toggle Sun Display (shadows)" class="cesium-button globe-control-button sun-control"><i class="icon sun"></i><span class="cesium-button-title">Toggle Sun Display</span></div>
+    <!-- <div title="Go Flying" class="cesium-button globe-control-button go-flying"><i class="icon plane"></i><span class="cesium-button-title">Go Flying</span></div> -->
+
     <div title="Clear Globe (remove all layers)" class="cesium-button layer-control-button"><i class="icon close"></i><span class="cesium-button-title">Clear Globe</span></div>
-    <!-- <div title="Share All Active Layers" class="cesium-button globe-control-button share-active-layers"><i class="icon share alternate"></i><span class="cesium-button-title">Share Active Layers</span></div> -->
+    <div title="Share Active Layers" class="cesium-button globe-control-button share-active-layers"><i class="icon share alternate"></i><span class="cesium-button-title">Share Active Layers</span></div> 
   </div>
   <div class="sidebar" style="display:none">
-    <h1>Climate Viewer <span>3D</span></h1>
-    <h2>Open-Source Maptivism</h2>
     <div class="tab layer-menu">
     <div class="ui tab segment active" data-tab="first">
 
@@ -71,11 +73,9 @@
               <p class="instruct"><i class="fa fa-map-marker" style="margin-right:5px"></i> Choose Category</p>
               <!-- Build Layer Tree -->
               <div id="map-layers" class="ui vertical accordion menu"></div>
-              <div class="instruct">
-                <div style="display:none" title="Toggle Timeline" class="cesium-button time-control-button"><i class="icon clock"></i></div>
-                <div title="Toggle Sun Display (shadows)" class="cesium-button globe-control-button sun-control"><i class="icon sun"></i><span class="cesium-button-title">Toggle Sun Display</span></div>
-                <div title="Go Flying" class="cesium-button globe-control-button go-flying"><i class="icon plane"></i><span class="cesium-button-title">Go Flying (Experimental)</span></div>
-              </div>
+              <h1>Climate Viewer <span>3D</span></h1>
+              <h2>Your Daily Planet</h2>
+
               <p class="instruct footer share-holder" style="display:none">Use this URL to save your currently displayed layers:</p>
               <a id="shareLink" class="instruct footer share-holder share-all-layers" style="display:none" href="http://climateviewer.net/" title="My custom CV3D map">http://climateviewer.net/</a>
           </div> <!-- tabpanel -->
@@ -205,7 +205,7 @@
   <script type="text/javascript" src="lib/semantic-ui/1.12.3/semantic.min.js"></script> 
   <script type="text/javascript" src="lib/nslider/nslider.js"></script>
   <script type="text/javascript" src="lib/pickadate-3.5.6/combined.js"></script>
-  <script type="text/javascript" src="lib/cesium/1.10/Cesium.js"></script>
+  <script type="text/javascript" src="lib/cesium/1.11/Cesium.js"></script>
   <script type="text/javascript" src="lib/climate-viewer.js?v9001"></script>
   <script type="text/javascript" src="lib/climate-viewer-layers.js?v9001"></script>
   <script type="text/javascript" src="lib/climate-viewer-menu.js?v9001"></script>

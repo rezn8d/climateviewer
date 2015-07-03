@@ -13,7 +13,7 @@ input.zoomSlider {
   cursor: crosshair;
   background-color: transparent;
   outline: 1px solid #ddd;
-  color:#1982d1;
+  color:#ff4d00;
   margin: 0;
   border: 0;
   padding: 0;
@@ -179,10 +179,10 @@ iframe.cesium-infoBox-iframe .cesium-infoBox-description-lighter {
 .cesium-infoBox-title { padding:5px 24px; overflow:hidden; color:#FFFFFF; }
 
 /* Sidebar */
-.sidebar { position:fixed; top: 0; left: auto; right: 0; height:100%; height:calc(100% - 32px); width:420px; overflow-x:hidden; overflow-y:auto; padding-bottom:20px; background:#222;   background-color: rgba(22,22,22,0.95); z-index: 200;  }
+.sidebar { position:fixed; top: 0; left: auto; right: 0; max-height:100%; max-height:calc(100% - 32px); width:420px; overflow-x:hidden; overflow-y:auto; padding-bottom:20px; background:none;   background-color: transparent; z-index: 200;  }
 
 .sidebar h1 { text-align:center; font-size:2em; color:#EEE; text-decoration:none;font-weight: 700; }
-.sidebar h1 span { color:#1982d1; font-weight: 700; }
+.sidebar h1 span { color:#ff4d00; font-weight: 700; }
 .sidebar h2 {   text-align: center;
   font-size: 1.3em;
   margin: 0 auto 20px auto;
@@ -235,12 +235,41 @@ i.icon.keyboard {
   margin: 0;
   box-shadow:none;
   margin-bottom:20px;
-  background-color: #EEE;
+  background-color: #3d3d3d;
   border-radius:0;
 }
-.ui.menu .item .item {
-  color: #222;
+.ui.accordion.menu .item .title.active {
+  color: #FFF;
+  font-weight: 700;
 }
+
+.ui.vertical.menu .item:before {
+  position: absolute;
+  content: '';
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: -webkit-linear-gradient(left,rgba(255,255,255,.1) 0,rgba(255,255,255,.2) 1.5em,rgba(255,255,255,.1) 100%);
+  background: linear-gradient(to right,rgba(255,255,255,.1) 0,rgba(255,255,255,.2) 1.5em,rgba(255,255,255,.1) 100%);
+  height: 1px;
+}
+.ui.menu .item .item {
+  color: #444;
+}
+.ui.menu .item .layer-button {
+  color: #EEE;
+}
+
+.ui.menu .item>a:not(.ui), .ui.menu .item>p:only-child, .ui.menu .text.item>* {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  line-height: 1.3;
+  color: #FFF;
+  text-transform: uppercase;
+}
+
 div.cv-toolbar { position:fixed; top: 21px; left: 77px; display:none; }
 div.cv-toolbar div { position:relative; display:inline-block; float:left;margin-right:2px; }
 div.instruct { position:relative; left:10px; }
@@ -248,16 +277,15 @@ p.instruct { color:#EEE; padding-left:10px; }
 p.instruct.footer { color:#EEE; padding-left:10px; padding-top:15px; padding-bottom:15px; width: 80%; }
 p.instruct.footer.share-holder { color:#EEE; padding-left:10px; padding-top:15px; padding-bottom:0; }
 a.instruct.footer.share-holder { color:#1982d1; padding-left:10px; padding-top:0; padding-bottom:15px; font-weight:bold; }
-.ui.vertical.menu div.section-title {  padding:10px 0; color: #000; display: block; text-align: left; border: 0; border-radius: 0; white-space: nowrap; text-transform: uppercase; border-top:1px solid #CCC;border-bottom:1px solid #CCC; font-weight:bold;}
+.ui.vertical.menu div.section-title {  padding:10px 0; color: #ff4d00; display: block; text-align: left; border: 0; border-radius: 0; white-space: nowrap; text-transform: uppercase; font-weight:bold;}
 .ui.vertical.menu .item.layer-button { padding: .78571em 0; cursor: pointer; }
 div.accordion.ui.vertical.menu .item>i.icon { position: relative; left: -8px; float:left; }
 div.accordion.ui.vertical.menu .item .layer-details i.icon { left: auto; top: auto; float: none; }
-div.accordion.ui.vertical.menu .item.positive>i.icon, 
-div.accordion.ui.vertical.menu .item.positive>div.content { color: #1982d1; }
+div.accordion.ui.vertical.menu .item.positive>i.icon { color: #2ecc40; }
 div.accordion.ui.vertical.menu .item.error>i.icon { color: #d95c5c; }
 div.accordion.ui.vertical.menu .ui.card.layer-details .content .meta { margin-top: 18px; }
 div.accordion.ui.vertical.menu .ui.card.layer-details .content .header.main, 
-div.accordion.ui.vertical.menu .ui.card.layer-details .content .header.main i { color: #1982d1; }
+div.accordion.ui.vertical.menu .ui.card.layer-details .content .header.main i { color: #222; }
 
 div.accordion.ui.vertical.menu .ui.card.layer-details .content .ui.divided.list>.item {
   border-top: 1px solid rgba(39,41,43,.15); padding-top: .5rem;
@@ -290,8 +318,8 @@ div.panel-info {
   border-radius: 7px;
 }
 div.panel-info h3, div.panel-info h4 {
-	border-bottom:2px solid #ddd;
-	padding-bottom:3px;
+  border-bottom:2px solid #ddd;
+  padding-bottom:3px;
 }
 
 div.panel-button {
@@ -317,10 +345,10 @@ div#comments.panel-chat {
   padding: 10px 10px 20px 10px;
 }
 a.chat, a.comment, a.share {
-	clear:both;
-	margin-bottom:3px;
-	color:#1982d1;
-	border-color: #1982d1;
+  clear:both;
+  margin-bottom:3px;
+  color:#1982d1;
+  border-color: #1982d1;
 }
 .stButton .stFb, .stButton .stTwbutton, .stButton .stMainServices {
   padding-bottom: 23px !important;
@@ -431,11 +459,7 @@ div.panel-chat {
   }
 
   iframe.cesium-infoBox-iframe { width: 100%; min-height: 100%; height:100%; }
-  iframe.cesium-infoBox-iframe * { max-width:460px !important;  }
-  iframe.cesium-infoBox-iframe .cesium-infoBox-description,
-  iframe.cesium-infoBox-iframe .cesium-infoBox-description-lighter {
-    width: 480px;
-  }
+
   .cesium-infoBox-title {
     padding: 10px 46px;
   }
