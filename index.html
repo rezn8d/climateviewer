@@ -1,25 +1,25 @@
 <!doctype html>
 <html>
 <head>
-  <title>Climate Viewer 3D | Open-Source Maptivism</title>
+  <title>Climate Viewer 3D | Tracking Geoengineering</title>
   <meta charset="utf-8">
   <!-- Tell IE to use the latest, best version (or Chrome Frame if pre-IE11). -->
   <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
   <!-- Make the application on mobile take up the full browser screen and disable user scaling. -->
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
-
-  <meta name="application-name" content="Climate Viewer 3D v4.20 beta"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+  <meta name="HandheldFriendly" content="true" />
+  <meta name="application-name" content="Climate Viewer 3D v4.21 beta"/>
 
   <link rel="canonical" href="http://climateviewer.net/index.html" />
   <link rel="publisher" href="http://www.google.com/+Climateviewers"/>
   <meta property="og:locale" content="en_US" />
   <meta property="og:type" content="application" />
   <meta property="og:title" content="Climate Viewer 3D | Open-Source Maptivism powered by Cesium" />
-  <meta property="og:description" content="Climate Viewer 3D empowers the user with cutting-edge technology, real-time situational awareness, and a visual tour of our planetary problems.  With a plethora of controls, data sources, and fresh content daily, what are you waiting for?" />
+  <meta property="og:description" content="Tracking Geoengineering, in 3D! This is cutting-edge technology, real-time situational awareness, and a visual tour of our planetary problems.  With a plethora of controls, data sources, and fresh content daily, what are you waiting for?" />
   <meta property="og:url" content="http://climateviewer.net/" />
   <meta property="og:site_name" content="Climate Viewer 3D | Open-Source Maptivism" />
   <meta property="article:publisher" content="http://www.facebook.com/climateviewers" />
-  <meta property="article:published_time" content="2015-06-26T01:30:00+00:00" />
+  <meta property="article:published_time" content="2015-07-08T01:30:00+00:00" />
   <meta property="og:image" content="http://climateviewer.net/img/climate-viewer-3d-1080.jpg" />
   <meta name="twitter:card" content="summary"/>
   <meta name="twitter:site" content="@climateviewer"/>
@@ -32,7 +32,6 @@
   <link href="lib/cesium/1.11/Widgets/widgets.css" rel='stylesheet' type='text/css'/>
   <link href="lib/cesium/1.11/Widgets/Viewer/Viewer.css" rel='stylesheet' type='text/css'/>
   <link href="lib/semantic-ui/2.0/semantic.min.css" rel='stylesheet' type='text/css' />
-  <link href="lib/font-awesome-4.3.0/css/font-awesome.min.css" rel='stylesheet' type='text/css' />
   <link href="lib/climate-viewer.css?v9002" rel='stylesheet' type='text/css' />
 
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://climateviewer.net/apple-touch-icon-144-precomposed.png" />
@@ -45,113 +44,104 @@
 </head>
  
 <body>
-<div class="pushable">
-  <div class="ui top sidebar">
-      <a class="active item" data-tab="layers">Layers</a>
-      <a class="item share-tab" data-tab="share">Share</a>
-      <a class="item" data-tab="about">About</a>
-  </div>
-
-  <div class="ui right sidebar">
-
-    <div class="tabmenu-body ui top attached">
-    <h1>Climate Viewer <span>3D</span></h1>
-    <h2>Tracking Geoengineering</h2>
-      <div id="top" class="tab layer-menu">
-        <div class="ui tab segment active" data-tab="first">
-          <!-- Nav tabs -->
-          <div class="ui top attached tabular menu">
-            <a class="active item" data-tab="layers">Layers</a>
-            <a class="item" data-tab="base">Globe</a>
-            <a class="item share-tab" data-tab="share">Share</a>
-            <a class="item" data-tab="about">About</a>
+  <div id="cesiumContainer"></div>
+  <div id="baseLayerPickerContainer"></div>
+  <div class="ui large feed cv3d noselect">
+      <div class="event">
+          <div class="label">
+              <img src="/img/cv3d-red.png">
           </div>
-          <!-- Tab panes -->
-          <div id="layers" class="ui bottom attached active tab segment" data-tab="layers">
+          <div class="content">
+              <div class="summary"><a href="http://climateviewer.net/">CLIMATE VIEWER <span>3D</span></a><br>TRACKING GEOENGINEERING</div>
+          </div>
+      </div>
+  </div>
+  <div class="ui vertical basic icon buttons cv-toolbar">
+      <button class="ui button cv-button top-menu" style="display:none">
+        <i class="options icon"></i>
+        <span>News</span>
+      </button>
+      <button class="ui button cv-button show-menu">
+        <i class="sidebar icon"></i>
+        <span>LAYERS</span>
+      </button>
+      <button class="ui button cv-button clear-layers">
+          <i class="globe icon"></i>
+          <span>CLEAR</span>
+      </button>
+      <button class="ui button cv-button toggle-timeline">
+          <i class="clock icon"></i>
+          <span>TIME</span>
+      </button>
+      <button class="ui button cv-button reset-view">
+          <i class="zoom out icon"></i>
+          <span>ZOOM</span>
+      </button>
+  </div>
+  <div class="toolbar">
+    <div class="toolbar-contents">
+      <div class="tabmenu-body ui top attached">
+        <div id="top" class="tab layer-menu">
+          <div class="ui tab segment active" data-tab="first">
+            <!-- Nav tabs -->
+            <div class="ui top attached tabular menu">
+              <a class="active item" data-tab="layers">Layers</a>
+              <a class="item" data-tab="base">Globe</a>
+              <a class="item share-tab" data-tab="share">Share</a>
+              <a class="item" data-tab="about">About</a>
+            </div>
+            <!-- Tab panes -->
+            <div id="layers" class="ui bottom attached active tab segment" data-tab="layers">
               <p class="instruct">Choose Category</p>
               <!-- Build Layer Tree -->
               <div id="map-layers" class="ui vertical accordion menu attached"></div>
-          </div> <!-- segment -->
-          <div id="base" class="ui bottom attached tab segment" data-tab="base">
+            </div> <!-- segment -->
+            <div id="base" class="ui bottom attached tab segment" data-tab="base">
               <p class="instruct">Map Mode</p>
               <div class="ui three cv-button-group buttons">
                 <div class="ui button cv-button mode-3d">3D</div>
                 <div class="ui button cv-button mode-2d">2D</div>
                 <div class="ui button cv-button mode-flat-earth">Flat Earth</div>
               </div>
-          </div> <!-- segment -->
-          <div class="ui bottom attached tab segment share-container" data-tab="share">
+              <p class="instruct">Base Layers</p>
+            </div> <!-- segment -->
+            <div class="ui bottom attached tab segment share-container" data-tab="share">
               <div id="share"></div> <!-- #share -->
               <div id="comments"></div> <!-- #comments -->
-              <div id="chat"></div> <!-- #chat -->          
+              <div id="chat"><h3 class="chat-title"><i class="comments outline icon"></i>LOAD CHAT</h3></div> <!-- #chat -->          
             </div> <!-- segment -->
-          <div class="ui bottom attached tab segment" data-tab="about">
-                <div class="panel-info">
-                    <h3 style="margin-top:0">About Climate Viewer 3D</h3>
-                    <p>Created by <strong><a href="http://climateviewer.com/rezn8d/" title="climateviewer.com/rezn8d">Jim &quot;rezn8d&quot; Lee</a></strong> and provided by <a href="http://climateviewer.com/"><strong>Climate Viewer News</strong></a> as a free public service.</p><p>Know how to code and want to help make Climate Viewer 3D better?  Join us on Github.</p>
-                    <a class="btn btn-sm btn-primary" href="https://github.com/rezn8d/climateviewer" target="_blank" rel="nofollow"><i class="fa fa-github fa-3x pull-left"></i> Climate Viewer 3D<br>on Github</a>
-                    <div style="padding:20px 0"></div>
-                    <h4>Open-Source Technologies</h4>
-                    <ul>
-                      <li><a href="http://cesiumjs.org/" target="_blank" rel="nofollow">Cesium (WebGL Globe)</a> </li>
-                      <li><a href="http://jquery.com/" target="_blank" rel="nofollow">jQuery 2.1.1</a></li>
-                      <li><a href="http://semantic-ui.com/" target="_blank" rel="nofollow">Semantic UI</a></li>
-                      <li><a href="http://amsul.github.io/pickadate.js" target="_blank" rel="nofollow">pickadate.js v3.5.6</a></li>
-                      <li><a href="http://fortawesome.github.io/Font-Awesome/" target="_blank" rel="nofollow">Font Awesome 4.3.0</a></li>
-                    </ul>
-                    <div style="padding:10px 0"></div>
-                    <h4>Support Us</h4>
-                    <p>This website was made possible by <strong><a target="_blank" rel="nofollow" href="http://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=A6YC74NZDAYM2&amp;lc=US&amp;item_name=Jim%20Lee%20of%20Climate%20Viewer%20News&amp;item_number=CV3D&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" title="Paypal link">donations from caring individuals like you!</a></strong> Thank you for your support.</p>
-                      <a class="btn btn-sm btn-primary" href="http://bit.ly/1N4r8DA" target="_blank" rel="nofollow"><i class="fa fa-paypal fa-3x pull-left"></i> <strong>Please Donate</strong><br>Today</a>
-                    <div style="padding:10px 0"></div>
+            <div class="ui bottom attached tab segment about-container" data-tab="about">
+              <h3 style="margin-top:0"><span style="color:#FFF">About Climate Viewer</span> 3D</h3>
+              <p>Created by <strong><a href="http://climateviewer.com/rezn8d/" title="climateviewer.com/rezn8d">Jim &quot;rezn8d&quot; Lee</a></strong> and provided by <a href="http://climateviewer.com/"><strong>Climate Viewer News</strong></a> as a free public service.</p><p>Know how to code and want to help make Climate Viewer 3D better? <a href="https://github.com/rezn8d/climateviewer" target="_blank">Join us on Github.</a></p>
+              <div style="padding:20px 0"></div>
+              <h4>Open-Source Technologies</h4>
+              <ul>
+                <li><a href="http://cesiumjs.org/" target="_blank" rel="nofollow">Cesium</a> </li>
+                <li><a href="http://jquery.com/" target="_blank" rel="nofollow">jQuery 2.1.1</a></li>
+                <li><a href="http://semantic-ui.com/" target="_blank" rel="nofollow">Semantic UI 2.0</a></li>
+                <li><a href="http://amsul.github.io/pickadate.js" target="_blank" rel="nofollow">pickadate.js v3.5.6</a></li>
+                <li><a href="http://fortawesome.github.io/Font-Awesome/" target="_blank" rel="nofollow">Font Awesome 4.3.0</a></li>
+              </ul>
+              <div style="padding:10px 0"></div>
+              <h4>Support Us</h4>
+              <p>This website was made possible by <strong><a target="_blank" rel="nofollow" href="http://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=A6YC74NZDAYM2&amp;lc=US&amp;item_name=Jim%20Lee%20of%20Climate%20Viewer%20News&amp;item_number=CV3D&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" title="Paypal link">donations from caring individuals like you!</a></strong> Thank you for your support.</p>
+              <div style="padding:10px 0"></div>
 
-                    <h5><strong>Copyright &copy; <a style='text-decoration:none' title='Climate Viewer 3D' href="http://climateviewer.com/terms/">Climate Viewer News</a>&nbsp;2011-<script type="text/javascript">today=new Date(); year=today.getYear(); if (year<1999) {year=year+1900;} document.write(year);</script></strong></h5>
-                </div> <!-- panel-info -->
-          </div> <!-- about -->
-        </div> <!-- segment -->
-      </div> <!-- tab -->
-    </div> <!-- tabmenu-body -->
-    <div class="tabmenu-footer ui four cv-button-group bottom attached buttons">
-        <div class="ui button cv-button clear-layers"><i class="minus circle icon"></i> Clear</div>
-        <div class="ui button cv-button share-active-layers"><i class="share alternate icon"></i> Share</div>
-        <div class="ui button cv-button top-layers"><i class="chevron up icon"></i> Top</div>
-        <div class="ui button cv-button toggle-menu"><i class="close icon"></i>Close</div>
+              <h5><strong>&copy; <a href="http://climateviewer.com/rezn8d/" title="climateviewer.com/rezn8d">Jim Lee</a> of <a style='text-decoration:none' title='Climate Viewer 3D' href="http://climateviewer.com/terms/">Climate Viewer News</a>&nbsp;2011-<script type="text/javascript">today=new Date(); year=today.getYear(); if (year<1999) {year=year+1900;} document.write(year);</script></strong></h5>
+            </div> <!-- about -->
+          </div> <!-- segment -->
+        </div> <!-- tab -->
+      </div> <!-- tabmenu-body -->
+      <div class="tabmenu-footer ui four cv-button-group bottom attached buttons">
+          <div class="ui button cv-button clear-layers"><i class="minus circle icon"></i></div>
+          <div class="ui button cv-button share-active-layers"><i class="share alternate icon"></i></div>
+          <div class="ui button cv-button top-layers"><i class="chevron up icon"></i></div>
+          <div class="ui button cv-button close-menu"><i class="close icon"></i></div>
+      </div>
     </div>
   </div> <!-- sidebar -->
 
-  <div class="fixed ui large feed cv3d">
-    <div class="event">
-      <div class="label">
-        <img src="/img/cv3d.png">
-      </div>
-      <div class="content">
-        <div class="summary">
-          <a class="http://climateviewer.net/">
-            CLIMATE VIEWER <span>3D</span>
-          </a><br>climateviewer.net
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="pusher">  
-    <div id="cesiumContainer"></div>
-    <div id="baseLayerPickerContainer"></div>
-    <div class="ui vertical basic icon buttons cv-controlbar">
-      <button class="ui button cv-button top-menu" style="display:none">
-        <i class="options icon"></i>
-        <span>News</span>
-      </button>
-      <button class="ui button cv-button toggle-menu">
-        <i class="sidebar icon"></i>
-        <span>Layers</span>
-      </button>
-      <button class="ui button cv-button reset-view">
-        <i class="zoom out icon"></i>
-        <span>Zoom Out</span>
-      </button>
-    </div>
-   <!--  <div class="">
+  <!--  <div class="">
       <div style="display:none" title="Toggle Timeline" class="cesium-button time-control-button"><i class="icon clock"></i></div>
       <div title="Toggle Sun Display (shadows)" class="cesium-button globe-control-button sun-control"><i class="icon sun"></i></div>
       <div title="Go Flying" class="cesium-button globe-control-button go-flying"><i class="icon plane"></i><span class="cesium-button-title">Go Flying</span></div>
@@ -159,8 +149,6 @@
       <div title="Clear Globe (remove all layers)" class="cesium-button layer-control-button"><i class="icon close"></i><span class="cesium-button-title">Clear Globe</span></div>
       <div title="Share Active Layers" class="cesium-button globe-control-button share-active-layers"><i class="icon share alternate"></i><span class="cesium-button-title">Share Active Layers</span></div> 
     </div> -->
-  </div>
-</div>
 <div id="datepicker-container"></div>
 
 <div id="shareModal" class="shareModal ui basic modal">
@@ -178,6 +166,7 @@
         </div>
       </div>
     </div>
+  </div>
 </div>
 
 
