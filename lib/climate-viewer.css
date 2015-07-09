@@ -14,7 +14,7 @@ img { width: 100%; max-width: 100%;  height: auto; }
 .videoWrapper iframe, .videoWrapper object, .videoWrapper embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:none !important; }
 
 /* LOGO */
-.ui.feed.cv3d { position:absolute; top: 10px; left: 50%; width:250px; margin:0 0 0 -125px; background: transparent; overflow:hidden; color:#ddd; }
+.ui.feed.cv3d { position:absolute; top: 10px; left: 50%; width:250px; margin:0 0 0 -125px; background: transparent; overflow:hidden; color:#ddd; z-index:2; }
 .ui.feed>.event>.label { position: absolute; top: 0; left: 50%; margin: 0 0 0 -24px; z-index: 7; opacity:0.2; }
 .ui.feed.cv3d>.event>.content .summary { margin: 0;font-size: 0.7em; font-weight: 700; color: rgba(255,255,255,.5); text-align: center; text-shadow: 1px 1px rgba(0,0,0,1); letter-spacing: 2px; }
 .ui.feed.cv3d>.event>.content .summary a { margin: 0; font-size: 1.2em; font-weight: 700; color: rgba(255,255,255,.8); letter-spacing: 4px; }
@@ -27,10 +27,11 @@ input.zoomSlider { line-height: 100%; cursor: crosshair; background-color: trans
 .ui.vertical.menu { width: 100%; }
 
 /* MODAL */
+.ui.modal a { color:#ff4d00; font-weight:700; }
 .ui.modal>.content>.icon+.description, .ui.modal>.content>.image+.description { min-width: 100%; width: 100%; }
 .ui.modal>.content>.description  { position: relative; padding: 15px; max-height: 300px; overflow: auto; display: inline-block; float:left; width: 100%; }
 .ui.modal>.content>.description h4  { color:#FFF; }
-.ui.modal>.content>.description h3  { color:#1982d1; border-bottom:1px solid #333; padding-bottom: 7px; }
+.ui.modal>.content>.description h3  { color:#ff4d00; border-bottom:1px solid #333; padding-bottom: 7px; }
 .shareModal.ui.header>.icon+.content { padding-left: 0; width: 100%; }
 .ui.modal .ui.accordion .accordion .active.content, .ui.modal .ui.accordion .active.content.ui.card { width: 98%; background-color: #555;  padding: 15px; }
 button.close span { color: #FFF; }
@@ -76,7 +77,7 @@ iframe.cesium-infoBox-iframe { background: rgba(0,0,0,0.5) !important; width: 48
 .cesium-infoBox-title { padding:5px 24px; overflow:hidden; color:#FFFFFF; }
 
 /* SIDEBAR */
-.toolbar { width: 420px; position:absolute; top:0; right:0; left:auto; z-index:2; background:rgba(0,0,0,0.7); display:none; }
+.toolbar { width: 420px; position:absolute; top:0; right:0; left:auto; z-index:3; background:rgba(0,0,0,0.7); display:none; }
 .toolbar-contents { width: 100%; position:relative; padding-top:5px; }
 
 .toolbar h1 { text-align:center; font-size:2em; color:#EEE; text-decoration:none;font-weight: 700; margin-top:32px; }
@@ -185,8 +186,13 @@ div#share {
 
 
 /* MOBILE */
-
+@media screen and (max-width: 1024px) {
+  .ui.feed.cv3d { top: auto; bottom: 51px; }
+}
 @media screen and (max-width: 480px) {
+  .ui.feed.cv3d { top: auto; bottom: 5px; }
+  .ui.feed>.event>.label { display:none; }
+  .ui.feed.cv3d>.event>.content .summary span.slogan { display:none; }
   .toolbar { width: 100%; }
   .tabmenu-body { width: 100% !important;}
   .tabmenu-footer.ui.bottom.attached.buttons { width: 100% !important;}
