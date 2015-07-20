@@ -32,7 +32,7 @@
   <link href="lib/cesium/1.11/Widgets/widgets.css" rel='stylesheet' type='text/css'/>
   <link href="lib/cesium/1.11/Widgets/Viewer/Viewer.css" rel='stylesheet' type='text/css'/>
   <link href="lib/semantic-ui/2.0/semantic.min.css" rel='stylesheet' type='text/css' />
-  <link href="lib/climate-viewer.css?v9003" rel='stylesheet' type='text/css' />
+  <link href="lib/climate-viewer-v2.css?v9004" rel='stylesheet' type='text/css' />
 
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://climateviewer.net/apple-touch-icon-144-precomposed.png" />
   <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://climateviewer.net/apple-touch-icon-114-precomposed.png" />
@@ -69,10 +69,6 @@
           <i class="globe icon"></i>
           <span>CLEAR</span>
       </button>
-      <button class="ui button cv-button toggle-timeline">
-          <i class="clock icon"></i>
-          <span>TIME</span>
-      </button>
       <button class="ui button cv-button reset-view">
           <i class="zoom out icon"></i>
           <span>ZOOM</span>
@@ -94,7 +90,7 @@
             <div id="layers" class="ui bottom attached active tab segment" data-tab="layers">
               <p class="instruct">Choose Category</p>
               <!-- Build Layer Tree -->
-              <div id="map-layers" class="ui vertical accordion menu attached"></div>
+              <div id="map-layers" class="map-layers"></div>
             </div> <!-- segment -->
             <div id="base" class="ui bottom attached tab segment" data-tab="base">
               <p class="instruct">Map Mode</p>
@@ -106,9 +102,9 @@
               <p class="instruct">Base Layers</p>
             </div> <!-- segment -->
             <div class="ui bottom attached tab segment share-container" data-tab="share">
-              <div id="share"></div> <!-- #share -->
-              <div id="comments"></div> <!-- #comments -->
-              <div id="chat"><h3 class="chat-title"><i class="comments outline icon"></i>LOAD CHAT</h3></div> <!-- #chat -->          
+                <div id="share"></div> <!-- #share -->
+                <div id="chat"><h3 class="chat-title"><i class="comments outline icon"></i>LOAD CHAT</h3></div> <!-- #chat -->
+                <div id="comments"></div> <!-- #comments -->
             </div> <!-- segment -->
             <div class="ui bottom attached tab segment about-container" data-tab="about">
               <h3 style="margin-top:0"><span style="color:#FFF">About Climate Viewer</span> 3D</h3>
@@ -132,11 +128,14 @@
           </div> <!-- segment -->
         </div> <!-- tab -->
       </div> <!-- tabmenu-body -->
-      <div class="tabmenu-footer ui four cv-button-group bottom attached buttons">
-          <div class="ui button cv-button clear-layers"><i class="minus circle icon"></i></div>
-          <div class="ui button cv-button share-active-layers"><i class="share alternate icon"></i></div>
-          <div class="ui button cv-button top-layers"><i class="chevron up icon"></i></div>
-          <div class="ui button cv-button close-menu"><i class="close icon"></i></div>
+      <div class="tabmenu-footer ui seven cv-button-group bottom attached buttons">
+          <div title="Remove all layers from globe" class="ui button cv-button clear-layers"><i class="minus circle icon"></i></div>
+          <div title="Toggle the timeline" class="ui button cv-button toggle-timeline"><i class="clock icon"></i></div>
+          <div title="Toggle lighting (Sunlight, Day, Night)" class="ui button cv-button sun-control"><i class="sun icon"></i></div>
+          <div title="Share active layers" class="ui button cv-button share-active-layers"><i class="share alternate icon"></i></div>
+          <div title="Collapse all folders" class="ui button cv-button collapse"><i class="compress icon"></i></div>
+          <div title="Scroll to the top" class="ui button cv-button top-layers"><i class="chevron up icon"></i></div>
+          <div title="Close this menu" class="ui button cv-button close-menu"><i class="close icon"></i></div>
       </div>
     </div>
   </div> <!-- sidebar -->
@@ -177,14 +176,14 @@
   </div>
   <div class="content">
     <div class="description">
-          <p style="font-size:1.5em">After three years in the making, the new <strong><a href="http://cesiumjs.org/">Cesium-powered</a> Climate Viewer 3D</strong> is finally here!  This website is under construction and may contain a few bugs, so please <a href="mailto:jim@climateviewer.com">report any issues</a> and have fun!</p>
+          <p style="font-size:1.5em">After three years in the making, the new <strong><a href="http://cesiumjs.org/">Cesium-powered</a> Climate Viewer 3D</strong> is finally here!  This website is still under construction and may contain a few bugs, so please <a href="mailto:jim@climateviewer.com">report any issues</a> and have fun!</p>
           <!-- <div class="videoWrapper"><iframe width="420" height="236" src="https://www.youtube-nocookie.com/embed/Gxqqsy4Gvqs" frameborder="0" allowfullscreen></iframe></div> -->
           <br>
           <h3>Frequently Asked Questions</h3>
           <div class="ui accordion">
             <div class="ui header title"><h4>&bull;&nbsp;&nbsp;&nbsp;How do I use this thing?</h4></div>
             <div class="ui card content">
-              Click the blue Earth in the top right to show or hide the layer menu, then click on a map layer in the list to make it appear on the globe.  Click the layer again to remove it from the globe.  For more information, <a href="https://www.youtube.com/watch?v=Gxqqsy4Gvqs" target="_blank" rel="nofollow">Watch the Video on YouTube</a>.
+              Click the LAYERS Menu in the top right to show or hide the layer menu, then click on a map layer in the list to make it appear on the globe.  Click the layer again to remove it from the globe.  For more information, <a href="https://www.youtube.com/watch?v=Gxqqsy4Gvqs" target="_blank" rel="nofollow">Watch the Video on YouTube</a>.
             </div>
 
 
@@ -229,16 +228,18 @@
   </div>
 </div>
 
+  <script type="text/javascript" src="lib/graphlib/graphlib.min.js"></script>
+  <script type="text/javascript" src="lib/nobject.js"></script>
 
   <script type="text/javascript" src="lib/jquery-2.1.3/jquery-2.1.3.min.js"></script>
   <script type="text/javascript" src="lib/jquery-migrate-1.2.1/jquery-migrate.min.js"></script>
   <script type="text/javascript" src="lib/semantic-ui/2.0/semantic.min.js"></script> 
-  <script type="text/javascript" src="lib/nslider/nslider.js"></script>
+  <script type="text/javascript" src="lib/lodash/lodash.min.js"></script>
   <script type="text/javascript" src="lib/pickadate-3.5.6/combined.js"></script>
   <script type="text/javascript" src="lib/cesium/1.11/Cesium.js"></script>
-  <script type="text/javascript" src="lib/climate-viewer.js?v9002"></script>
-  <script type="text/javascript" src="lib/climate-viewer-layers.js?v9002"></script>
-  <script type="text/javascript" src="lib/climate-viewer-menu.js?v9002"></script>
+  <script type="text/javascript" src="lib/climate-viewer-v2.js?v9002"></script>
+  <script type="text/javascript" src="lib/climate-viewer-layers-v2.js?v9002"></script>
+  <script type="text/javascript" src="lib/climate-viewer-menu-v2.js?v9002"></script>
 
 <!-- Start of StatCounter Code for Dreamweaver -->
 <script type="text/javascript">
