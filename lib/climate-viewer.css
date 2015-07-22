@@ -243,10 +243,12 @@ div.lbw { display: inline-block; width: 100%; background: transparent; position:
 div.lb {display: inline-block; width: 100%; background: transparent; position: relative; margin: 0 0 5px 0; padding: 0; box-sizing: border-box; font-size: 1.1em; }
 div.lb span, div.lb i { color: #CCC; cursor: pointer; }
 div.lb i.close { position:relative; left:-1px; }
-div.lb i.active { color: #ff4d00; }
+div.lb i.active, div.lb i.fail { color: #ff4d00; }
 div.lb span.active { color: #FFF; }
+div.lb span.label.fail { text-decoration: line-through; }
 
-i.circular.inverted.info.icon, i.circular.inverted.download.icon, i.circular.inverted.file.icon, i.circular.inverted.clock.icon { vertical-align: middle; background-color: #222 !important; }
+i.circular.inverted.info.icon, i.circular.inverted.download.icon, i.circular.inverted.file.icon, i.circular.inverted.clock.icon, i.circular.inverted.warning.icon { vertical-align: middle; background-color: #222 !important; }
+i.circular.inverted.warning.icon { background-color: #ff4d00 !important; font-size: 2em; }
 
 
 
