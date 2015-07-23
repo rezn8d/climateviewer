@@ -242,6 +242,8 @@ div.lbw { display: inline-block; width: 100%; background: transparent; position:
 
 div.lb {display: inline-block; width: 100%; background: transparent; position: relative; margin: 0 0 5px 0; padding: 0; box-sizing: border-box; font-size: 1.1em; }
 div.lb span, div.lb i { color: #CCC; cursor: pointer; }
+div.lb span.label.large-layer { color: #ff4335; }
+div.lb span.label.new-layer { color: #2ecc40; }
 div.lb i.close { position:relative; left:-1px; }
 div.lb i.active, div.lb i.fail { color: #ff4d00; }
 div.lb span.active { color: #FFF; }
@@ -280,9 +282,9 @@ div.content.active { top: 7px; position: relative; }
 /* SHARING */
 div#share {
   text-align: center;
-  margin: 0 0 60px 0;
+  margin: 0 0 10px 0;
 }
-.ui.tab.segment.active div.share-container h3 { display: block; font-family: sans-serif; color: #FFF; margin: -7px 11px 11px 11px; padding: 9px; font-size: 1.2rem; text-transform: uppercase; font-weight: 700; border: 1px solid rgba(255,255,255,0.2); text-align: center; }
+.ui.tab.segment.active div.share-container h3 { display: block; font-family: sans-serif; color: #FFF; margin: 11px; padding: 9px; font-size: 1.2rem; text-transform: uppercase; font-weight: 700; border: 1px solid rgba(255,255,255,0.2); text-align: center; cursor: pointer; }
 .ui.tab.segment.active div.share-container h3 i { color: #ff4d00; margin-right:5px; }
 
 .stButton .stFb, .stButton .stTwbutton, .stButton .stMainServices { padding-bottom: 23px !important; }
@@ -290,11 +292,12 @@ div#share {
 .stButton .stBubble { width: auto !important; height: 35px !important; }
 
 /* CHAT WINDOW */
-.ui.tab.segment.active div.panel-chat { background-color: #FFF; color:#000; min-height: 120px; margin: 7px 0 20px 0; padding: 0; }
-.chat-iframe { height: 600px; width: 100%; border: 0; background-color: #fff; padding: 0 0 10px 0; border-radius:7px; }
-/* COMMENTS */
-.ui.tab.segment.active div.panel-comments { background-color: #222; color:#fff; min-height: 120px; margin: 7px 0 20px 0; padding: 10px 10px 20px 10px; }
+.ui.tab.segment.active div.panel-chat, .ui.tab.segment.active div.panel-comments { min-height: 120px; margin: 7px 0 20px 0; padding: 10px; }
 
+
+/* COMMENTS */
+div#disqus_thread { background-color: #fff; padding: 10px; border-radius: 5px; }
+.chat-iframe { height: 600px; width: calc(100% - 20px); border: 0; background-color: #fff; margin: 10px; border-radius:7px; }
 /* Date Picker */
 .picker{font-size:16px;text-align:left;line-height:1.2;color:#000;position:absolute;z-index:10000;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.picker__input{cursor:default}.picker__input.picker__input--active{border-color:#0089ec}.picker__holder{width:100%;overflow-y:auto;-webkit-overflow-scrolling:touch;position:fixed;transition:background .15s ease-out,-webkit-transform 0s .15s;transition:background .15s ease-out,transform 0s .15s;-webkit-backface-visibility:hidden}/*!
  * Default mobile-first, responsive styling for pickadate.js

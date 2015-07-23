@@ -33,7 +33,6 @@
   <link href="lib/cesium/1.11/Widgets/Viewer/Viewer.css" rel='stylesheet' type='text/css'/>
   <link href="lib/semantic-ui/2.0/semantic.min.css" rel='stylesheet' type='text/css' />
   <link href="lib/climate-viewer.css?v9005" rel='stylesheet' type='text/css' />
-
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://climateviewer.net/apple-touch-icon-144-precomposed.png" />
   <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://climateviewer.net/apple-touch-icon-114-precomposed.png" />
   <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://climateviewer.net/apple-touch-icon-72-precomposed.png" />
@@ -102,8 +101,22 @@
               <p class="instruct">Base Layers</p>
             </div> <!-- segment -->
             <div class="ui bottom attached tab segment share-container" data-tab="share">
-                <div id="share"></div> <!-- #share -->
-                <div id="chat"><h3 class="chat-title"><i class="comments outline icon"></i>LOAD CHAT</h3></div> <!-- #chat -->
+                <h3 style='margin-top:0'>
+                  <i class='heart icon'></i>Sharing is Caring
+                </h3>
+                <div id="share">
+                  <span class='st_facebook_vcount'></span>
+                  <span class='st_twitter_vcount'></span>
+                  <span class='st_sharethis_vcount'></span>
+                  <span class='st_email_vcount'></span>
+                </div> <!-- #share -->
+                <h3 class="chat-title">
+                  <i class="comments outline icon"></i>LOAD CHAT
+                </h3>
+                <div id="chat"></div> <!-- #chat -->
+                <h3>
+                  <i class='comments icon'></i> Comment
+                </h3>
                 <div id="comments"></div> <!-- #comments -->
             </div> <!-- segment -->
             <div class="ui bottom attached tab segment about-container" data-tab="about">
