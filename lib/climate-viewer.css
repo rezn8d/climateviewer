@@ -177,9 +177,9 @@ button.ui.button.cv-button:focus span, button.ui.button.cv-button:hover span { c
 .cesium-viewer-toolbar { display:none;}
 .cesium-infoBox { width:480px; max-width:480px; overflow:hidden; padding:0; margin:0; z-index:10001; overflow-y: auto; -webkit-overflow-scrolling: touch; -moz-overflow-scrolling: touch; -ms-overflow-scrolling: touch; -o-overflow-scrolling: touch; overflow-scrolling: touch; }
 .cesium-infoBox .cesium-infoBox-camera, .cesium-infoBox .cesium-infoBox-close, { background:#3d3d3d; }
-.cesium-infoBox-visible { width:480px; overflow:hidden; background: rgba(0,0,0,0.3) !important; padding:0;
+.cesium-infoBox-visible { width:480px; overflow:hidden; background: #FFF !important; padding:0;
   margin:0; z-index:10001; overflow-y: auto; -webkit-overflow-scrolling: touch; -moz-overflow-scrolling: touch; -ms-overflow-scrolling: touch; -o-overflow-scrolling: touch; overflow-scrolling: touch; }
-iframe.cesium-infoBox-iframe { background: rgba(0,0,0,0.5) !important; width: 480px; min-height:480px; }
+iframe.cesium-infoBox-iframe { background: #FFF !important; width: 480px; min-height:480px; }
 
 .cesium-infoBox-title { padding:5px 24px; overflow:hidden; color:#FFFFFF; }
 
