@@ -580,7 +580,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/cesium/1.10/Widgets/widgets.css">
+    <entry file="file://$PROJECT_DIR$/lib/cesium/1.12/Widgets/widgets.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33295965">
           <caret line="0" column="13838" selection-start-line="0" selection-start-column="13832" selection-end-line="0" selection-end-column="13838" />
