@@ -1,0 +1,1246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Contaminated Coal Waste NRDC.kmz</name>
+	<open>1</open>
+	<LookAt>
+		<longitude>-93.26431580441175</longitude>
+		<latitude>38.3900534905353</latitude>
+		<altitude>0</altitude>
+		<range>4187737.669582482</range>
+		<tilt>7.39550071521958</tilt>
+		<heading>-2.020760825945241</heading>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Style id="Style_2n">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>files/power-plant-icon.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+			<color>ffdcf5f5</color>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff801e00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_proposed-power-plant-icon">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>files/proposed-power-plant-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+			<color>ffdcf5f5</color>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff9e8e00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="Style_2n0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>files/proposed-power-plant-icon.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+			<color>ffdcf5f5</color>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff9e8e00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="Style_10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style_1n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style_1h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Style_2h0">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>files/proposed-power-plant-icon.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+			<color>ffdcf5f5</color>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff9e8e00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="Style_2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style_2n00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style_2h0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Style_1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style_1n0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style_1h0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Style_2h">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>files/power-plant-icon.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+			<color>ffdcf5f5</color>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff801e00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="Style_2h00">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>files/proposed-power-plant-icon.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+			<color>ffdcf5f5</color>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff9e8e00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_proposed-power-plant-icon0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>files/proposed-power-plant-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+			<color>ffdcf5f5</color>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff9e8e00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="Style_21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style_2n000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style_2h00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Style_2n00">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>files/proposed-power-plant-icon.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+			<color>ffdcf5f5</color>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff9e8e00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="Style_1n0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>files/power-plant-icon.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+			<color>ffdcf5f5</color>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff801300</color>
+		</PolyStyle>
+	</Style>
+	<Style id="Style_2h1">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>files/proposed-power-plant-icon.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+			<color>ffdcf5f5</color>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff9e8e00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="Style_1n">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>files/power-plant-icon.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+			<color>ffdcf5f5</color>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff801e00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_proposed-power-plant-icon">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>files/proposed-power-plant-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+			<color>ffdcf5f5</color>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff9e8e00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_proposed-power-plant-icon0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_proposed-power-plant-icon</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_proposed-power-plant-icon</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="Style_20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style_2n0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style_2h1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_proposed-power-plant-icon0">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>files/proposed-power-plant-icon.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+			<color>ffdcf5f5</color>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff9e8e00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="Style_2n000">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>files/proposed-power-plant-icon.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+			<color>ffdcf5f5</color>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff9e8e00</color>
+		</PolyStyle>
+	</Style>
+	<Style id="Style_1h">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>files/power-plant-icon.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+			<color>ffdcf5f5</color>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff801e00</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="Style_22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style_2n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style_2h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_proposed-power-plant-icon">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_proposed-power-plant-icon0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_proposed-power-plant-icon0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Style_1h0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>files/power-plant-icon.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+			<color>ffdcf5f5</color>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff801300</color>
+		</PolyStyle>
+	</Style>
+			<Placemark id="pm728">
+				<name>Oak Grove</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Oak Grove</td></tr><tr><td>Location:</td><td>Robertson County, Texas</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>1,314,629</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>1,371.7</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g728">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-96.48494,31.185,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm729">
+				<name>Otter Creek</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Otter Creek</td></tr><tr><td>Location:</td><td>Custer County, Montana</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>678,623</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>626.4</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g729">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-105.666,46.50000000000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm730">
+				<name>Spruce 2</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Spruce 2</td></tr><tr><td>Location:</td><td>Bexar County, Texas</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>586,234</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>611.7</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g730">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-98.32030000000002,29.3064,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm731">
+				<name>Limestone 3</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Limestone 3</td></tr><tr><td>Location:</td><td>Limestone County, Texas</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>545,197</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>568.9</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g731">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-96.2525,31.4222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm732">
+				<name>Glades</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Glades</td></tr><tr><td>Location:</td><td>Glades County, Florida</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>542,794</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>575.1</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g732">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-81,26.83,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm733">
+				<name>NextGen</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>NextGen</td></tr><tr><td>Location:</td><td>Hughes County, South Dakota</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>512,954</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>535.2</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g733">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.3333,44.4,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm734">
+				<name>Big Stone</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Big Stone</td></tr><tr><td>Location:</td><td>Grant County, South Dakota</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>439,675</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>458.8</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g734">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-96.50830000000001,45.3047,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm735">
+				<name>Summit Power IGCC</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Summit Power IGCC</td></tr><tr><td>Location:</td><td>West Texas (undetermined) County, Texas</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>439,675</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>458.8</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g735">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-101.914288,31.023797,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm736">
+				<name>Sandow 5</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Sandow 5</td></tr><tr><td>Location:</td><td>Milam County, Texas</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>439,675</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>458.8</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g736">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-97.06389999999999,30.5642,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm737">
+				<name>Tenaska</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Tenaska</td></tr><tr><td>Location:</td><td>Nolan County, Texas</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>439,675</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>458.8</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g737">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-100.5,32.5,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm738">
+				<name>Prairie State</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Prairie State</td></tr><tr><td>Location:</td><td>Washington County, Illinois</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>412,634</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>437.2</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g738">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-89.77,38.25,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm739">
+				<name>Ely</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Ely</td></tr><tr><td>Location:</td><td>White Pine County, Nevada</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>394,054</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>363.7</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g739">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-114.867,39.25,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm740">
+				<name>Desert Rock</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Desert Rock</td></tr><tr><td>Location:</td><td>San Juan County, New Mexico</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>366,937</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>338.7</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g740">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-108.4,36.5,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm741">
+				<name>Cross/Santee Cooper</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Cross/Santee Cooper</td></tr><tr><td>Location:</td><td>Berkeley County, South Carolina</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>365,555</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>387.3</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g741">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-80.11190000000001,33.3694,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm742">
+				<name>Pee Dee/SC</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Pee Dee/SC</td></tr><tr><td>Location:</td><td>Florence County, South Carolina</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>365,555</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>387.3</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g742">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-79.375,33.875,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm743">
+				<name>White Pine</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>White Pine</td></tr><tr><td>Location:</td><td>White Pine County, Nevada</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>357,408</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>329.9</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g743">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-114.867,39.25,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm744">
+				<name>Elm Road</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Elm Road</td></tr><tr><td>Location:</td><td>Milwaukee County, Wisconsin</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>327,685</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>394.7</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g744">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-87.8314,42.8014,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm745">
+				<name>AMP</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>AMP</td></tr><tr><td>Location:</td><td>Meigs County, Ohio</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>325,864</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>392.5</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g745">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-81.92,38.9,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm746">
+				<name>Longleaf</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Longleaf</td></tr><tr><td>Location:</td><td>Early County, Georgia</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>271,449</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>250.6</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g746">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-85.06699999999999,31.3,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm747">
+				<name>Wallula IGCC</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Wallula IGCC</td></tr><tr><td>Location:</td><td>Walla Walla County, Washington</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>253,396</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>268.5</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g747">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-118.25,46,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm748">
+				<name>Cliffside</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Cliffside</td></tr><tr><td>Location:</td><td>Rutherford County, North Carolina</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>251,099</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>302.4</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g748">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-81.7594,35.22,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm749">
+				<name>Buffalo Energy IGCC</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Buffalo Energy IGCC</td></tr><tr><td>Location:</td><td>Converse County, Wyoming</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>248,828</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>229.7</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g749">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-106,42.866,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm750">
+				<name>Washington County</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Washington County</td></tr><tr><td>Location:</td><td>Washington County, Georgia</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>236,503</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>250.6</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g750">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-82.75,33,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm751">
+				<name>Trimble</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Trimble</td></tr><tr><td>Location:</td><td>Trimble County, Kentucky</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>235,406</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>283.5</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g751">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-85.4139,38.5678,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm752">
+				<name>Iatan 2</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Iatan 2</td></tr><tr><td>Location:</td><td>Platte County, Missouri</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>235,395</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>249.4</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g752">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-94.9808,39.4483,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm753">
+				<name>Big Cajun II - 4</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Big Cajun II - 4</td></tr><tr><td>Location:</td><td>Pointe Coupee County, Louisiana</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>221,281</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>266.5</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g753">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-91.36859999999999,30.7283,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm754">
+				<name>Longview</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Longview</td></tr><tr><td>Location:</td><td>Monongalia County, West Virginia</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>218,143</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>262.7</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g754">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-79.97,39.68,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm755">
+				<name>Consumers Energy</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Consumers Energy</td></tr><tr><td>Location:</td><td>Bay County, Michigan</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>210,373</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>194.2</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g755">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-83.875,43.625,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm756">
+				<name>Intermountain 3</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Intermountain 3</td></tr><tr><td>Location:</td><td>Millard County, Utah</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>204,718</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>189.0</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g756">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-112.5792,39.5108,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm757">
+				<name>Great Bend IGCC</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Great Bend IGCC</td></tr><tr><td>Location:</td><td>Meigs County, Ohio</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>197,427</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>237.8</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g757">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-81.86660000000001,39,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm758">
+				<name>Mountaineer IGCC</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Mountaineer IGCC</td></tr><tr><td>Location:</td><td>Mason County, West Virginia</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>197,427</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>237.8</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g758">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-81.9344,38.9794,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm759">
+				<name>Seminole</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Seminole</td></tr><tr><td>Location:</td><td>Putnam County, Florida</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>193,855</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>205.4</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g759">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-81.6339,29.7336,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm760">
+				<name>Norborne</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Norborne</td></tr><tr><td>Location:</td><td>Carroll County, Missouri</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>193,080</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>204.6</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g760">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-93.75,39.2333,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm761">
+				<name>Lima Energy IGCC</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Lima Energy IGCC</td></tr><tr><td>Location:</td><td>Allen County, Ohio</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>188,325</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>226.8</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g761">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-84.13,40.75,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm762">
+				<name>Cash Creek</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Cash Creek</td></tr><tr><td>Location:</td><td>Henderson County, Kentucky</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>183,114</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>220.5</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g762">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-87.59999999999999,37.8,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm763">
+				<name>Plum Point</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Plum Point</td></tr><tr><td>Location:</td><td>Mississippi County, Arkansas</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>180,966</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>167.0</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g763">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-89.97,35.75,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm764">
+				<name>Sandy Creek</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Sandy Creek</td></tr><tr><td>Location:</td><td>McClennan County, Texas</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>180,966</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>167.0</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g764">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-97.05,31.5,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm765">
+				<name>Polk</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Polk</td></tr><tr><td>Location:</td><td>Polk County, Florida</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>174,469</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>184.9</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g765">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-81.62439999999999,28.0023,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm766">
+				<name>Edwardsport</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Edwardsport</td></tr><tr><td>Location:</td><td>Knox County, Indiana</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>174,469</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>184.9</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g766">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-87.25,38.8,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm767">
+				<name>Dominion</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Dominion</td></tr><tr><td>Location:</td><td>Wise County, Virginia</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>173,472</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>183.8</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g767">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-82.3,36.9,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm768">
+				<name>Comanche 3</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Comanche 3</td></tr><tr><td>Location:</td><td>Pueblo County, Colorado</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>169,656</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>156.6</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g768">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-104.5747,38.2081,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm769">
+				<name>Elk Run/LS Power</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Elk Run/LS Power</td></tr><tr><td>Location:</td><td>Black Hawk County, Iowa</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>169,656</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>156.6</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g769">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-92.37499999999999,42.5,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm770">
+				<name>Great Lakes</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Great Lakes</td></tr><tr><td>Location:</td><td>Gratiot County, Michigan</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>169,656</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>156.6</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g770">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-84.68000000000001,43.38,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm771">
+				<name>Hugo 2</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Hugo 2</td></tr><tr><td>Location:</td><td>Choctaw County, Oklahoma</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>169,656</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>156.6</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g771">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-95.3167,34.0292,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm772">
+				<name>Two Elk 1</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Two Elk 1</td></tr><tr><td>Location:</td><td>Campbell County, Wyoming</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>169,656</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>156.6</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g772">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-105.5,43.5,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm773">
+				<name>Two Elk 2</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Two Elk 2</td></tr><tr><td>Location:</td><td>Campbell County, Wyoming</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>169,656</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>156.6</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g773">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-105.5,43.5,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm774">
+				<name>Miss Power IGCC</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Miss Power IGCC</td></tr><tr><td>Location:</td><td>Kemper County, Mississippi</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>166,161</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>176.0</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g774">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-88.711429,32.66877,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm775">
+				<name>Taylorville</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Taylorville</td></tr><tr><td>Location:</td><td>Christian County, Illinois</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>164,929</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>174.7</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g775">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-89.27,39.53,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm776">
+				<name>Greene County</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Greene County</td></tr><tr><td>Location:</td><td>Greene County, Pennsylvania</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>160,623</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>170.2</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g776">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-80,39.9,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm777">
+				<name>Mid-Michigan</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Mid-Michigan</td></tr><tr><td>Location:</td><td>Midland County, Michigan</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>153,482</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>141.7</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g777">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-84.25,43.62,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm778">
+				<name>Enviropower</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Enviropower</td></tr><tr><td>Location:</td><td>Franklin County, Illinois</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>152,315</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>161.4</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g778">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-88.93000000000001,38.03,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm779">
+				<name>Nebraska City 2</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Nebraska City 2</td></tr><tr><td>Location:</td><td>Otoe County, Nebraska</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>149,297</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>137.8</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g779">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-95.79170000000002,40.625,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm780">
+				<name>Coleto Creek</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Coleto Creek</td></tr><tr><td>Location:</td><td>Goliad County, Texas</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>147,035</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>135.7</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g780">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-97.21420000000001,28.71280000000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm781">
+				<name>Marshalltown</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Marshalltown</td></tr><tr><td>Location:</td><td>Marshall County, Iowa</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>143,099</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>132.1</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g781">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-92.916,42.066,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm782">
+				<name>Toquop</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Toquop</td></tr><tr><td>Location:</td><td>Lincoln County, Nevada</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>136,810</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>126.3</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g782">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-114,36.8,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm783">
+				<name>Mesaba IGCC</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Mesaba IGCC</td></tr><tr><td>Location:</td><td>Itasca County, Minnesota</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>136,403</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>125.9</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g783">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-93.37500000000001,47.375,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm784">
+				<name>Turk/Hempstead</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Turk/Hempstead</td></tr><tr><td>Location:</td><td>Hempstead County, Arkansas</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>135,725</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>125.3</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g784">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-93.75,33.666,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm785">
+				<name>Wolverine</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Wolverine</td></tr><tr><td>Location:</td><td>Presque Isle County, Michigan</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>135,725</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>125.3</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g785">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-83.83,45.43,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm786">
+				<name>Weston IV</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Weston IV</td></tr><tr><td>Location:</td><td>Marathon County, Wisconsin</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>117,085</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>108.1</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g786">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-89.655,44.8617,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm787">
+				<name>SE Idaho Energy</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>SE Idaho Energy</td></tr><tr><td>Location:</td><td>Power County, Idaho</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>113,104</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>104.4</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g787">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-112.833,42.8,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm788">
+				<name>Nelson Creek</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Nelson Creek</td></tr><tr><td>Location:</td><td>McCone County, Montana</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>113,104</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>104.4</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g788">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-105.5,47.5,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm789">
+				<name>Spirit Wood</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Spirit Wood</td></tr><tr><td>Location:</td><td>Stutsman County, North Dakota</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>93,797</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>97.9</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g789">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-98.50000000000001,46.93300000000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm790">
+				<name>Springerville 4</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Springerville 4</td></tr><tr><td>Location:</td><td>Maricopa County, Arizona</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>90,483</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>83.5</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g790">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-109.1636,34.3186,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm791">
+				<name>Spurlock 4</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Spurlock 4</td></tr><tr><td>Location:</td><td>Mason County, Kentucky</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>87,885</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>105.8</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g791">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-83.8175,38.7,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm792">
+				<name>J. K. Smith</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>J. K. Smith</td></tr><tr><td>Location:</td><td>Clark County, Kentucky</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>87,257</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>105.1</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g792">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-84.15649999999999,37.9741,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm793">
+				<name>Basin/Dry Fork</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Basin/Dry Fork</td></tr><tr><td>Location:</td><td>Campbell County, Wyoming</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>87,090</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>80.4</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g793">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-105.5,44.3,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm794">
+				<name>Sithe Global</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Sithe Global</td></tr><tr><td>Location:</td><td> County, Pennsylvania</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>83,081</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>88.0</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g794">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-77.99691,41.11365,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm795">
+				<name>River Hill</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>River Hill</td></tr><tr><td>Location:</td><td>Clearfield County, Pennsylvania</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>79,508</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>84.2</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g795">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-78.12000000000001,41.12,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm796">
+				<name>Springfield</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Springfield</td></tr><tr><td>Location:</td><td>Greene County, Missouri</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>76,157</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>80.7</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g796">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-93.25000000000001,37.2,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm797">
+				<name>Beech Hollow</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Beech Hollow</td></tr><tr><td>Location:</td><td>Washington County, Pennsylvania</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>75,326</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>79.8</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g797">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-80.333,40.45,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm798">
+				<name>Big Cajun 1</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Big Cajun 1</td></tr><tr><td>Location:</td><td>Pointe Coupee County, Louisiana</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>73,133</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>88.1</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g798">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-91.31359999999999,32.6758,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm799">
+				<name>Alliant CFB</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Alliant CFB</td></tr><tr><td>Location:</td><td>Grant County, Wisconsin</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>67,862</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>62.6</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g799">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-90.98330000000001,42.7119,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm800">
+				<name>Dallman 4</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Dallman 4</td></tr><tr><td>Location:</td><td>Sangamon County, Illinois</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>67,572</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>71.6</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g800">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-89.60080000000001,39.7547,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm801">
+				<name>Sevier</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Sevier</td></tr><tr><td>Location:</td><td>Sevier County, Utah</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>61,076</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>56.4</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g801">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-112,38.75,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm802">
+				<name>Highwood</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Highwood</td></tr><tr><td>Location:</td><td>Cascade County, Montana</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>56,552</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>52.2</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g802">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-111.3,47.5,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm803">
+				<name>Whelan EC II</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Whelan EC II</td></tr><tr><td>Location:</td><td>Adams County, Nebraska</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>49,766</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>45.9</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g803">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-98.40000000000002,40.58,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm804">
+				<name>Northampton</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Northampton</td></tr><tr><td>Location:</td><td>Northampton County, Pennsylvania</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>31,737</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>33.6</td></tr></table>]]></description>
+				<styleUrl>#msn_proposed-power-plant-icon0</styleUrl>
+				<Point id="g804">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-75.48193545428052,40.69435151754475,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm805">
+				<name>Bonanza</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Bonanza</td></tr><tr><td>Location:</td><td>Uintah County, Utah</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>30,463</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>32.3</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g805">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-109.2833,40.0833,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm806">
+				<name>Greenbrier</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Greenbrier</td></tr><tr><td>Location:</td><td>Greenbrier County, West Virginia</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>29,632</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>31.4</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g806">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-80.75,38,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm807">
+				<name>Wygen 3</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Wygen 3</td></tr><tr><td>Location:</td><td>Campbell County, Wyoming</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>22,621</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>20.9</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g807">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-105.5,44.3,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm808">
+				<name>Holland</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>Holland</td></tr><tr><td>Location:</td><td>Ottawa County, Michigan</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>17,644</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>16.3</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g808">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-86.2,42.766,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="pm809">
+				<name>UM-Columbia</name>
+				<Snippet maxLines="0">empty</Snippet>
+				<description><![CDATA[<h2>Contaminated Coal Waste</h2><h3>Proposed New Coal Power Plants</h3><table cellpadding="1" cellspacing="1"><tr><td>Plant:</td><td>UM-Columbia</td></tr><tr><td>Location:</td><td>Boone County, Missouri</td></tr><tr><td>Estimated Tons of Coal Ash:</td><td>11,077</td></tr><tr><td>Estimated Tons of Toxic Metals:</td><td>11.7</td></tr></table>]]></description>
+				<styleUrl>#Style_2</styleUrl>
+				<Point id="g809">
+					<altitudeMode>relativeToGround</altitudeMode>
+					<coordinates>-92.3,39,0</coordinates>
+				</Point>
+			</Placemark>
+</Document>
+</kml>
