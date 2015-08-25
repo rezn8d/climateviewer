@@ -2,7 +2,9 @@
 
 // Set web root url
 var baseURL = window.location.protocol + "//" + window.location.host + "/";  // production
-var proxyURL = 'http://climateviewer.net/netj1/proxy';  // production NOT FOR REUSE, YOU MUST CHANGE THIS
+var proxyURL = 'http://climateviewer.net/netj1/proxy';  // production
+//var proxyURL = 'http://localhost:8080/proxy';  // local
+//var proxyURL = 'kmz.php';  // dev
 
 var activeLayers = {};
 var infoBox = $('.cesium-infoBox');

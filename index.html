@@ -1,39 +1,43 @@
 <!doctype html>
 <html>
 <head>
-  <base target="_blank" />
-  <title>Climate Viewer 3D | Tracking Geoengineering</title>
+  <title>Climate Viewer 3D | Global Alert System</title>
   <meta charset="utf-8">
+  <base target="_blank">
   <!-- Tell IE to use the latest, best version (or Chrome Frame if pre-IE11). -->
   <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
   <!-- Make the application on mobile take up the full browser screen and disable user scaling. -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
   <meta name="HandheldFriendly" content="true" />
-  <meta name="application-name" content="Climate Viewer 3D v4.21 beta"/>
+  <meta name="application-name" content="Climate Viewer 3D v4.5 beta"/>
 
   <link rel="canonical" href="http://climateviewer.net/index.html" />
   <link rel="publisher" href="http://www.google.com/+Climateviewers"/>
   <meta property="og:locale" content="en_US" />
   <meta property="og:type" content="application" />
-  <meta property="og:title" content="Climate Viewer 3D | Open-Source Maptivism powered by Cesium" />
-  <meta property="og:description" content="Tracking Geoengineering, in 3D! This is cutting-edge technology, real-time situational awareness, and a visual tour of our planetary problems.  With a plethora of controls, data sources, and fresh content daily, what are you waiting for?" />
+  <meta property="og:title" content="Climate Viewer 3D | Global Alert System" />
+  <meta property="og:description" content="Real-time worldwide alert system! CV3D is cutting-edge technology, real-time situational awareness, and a visual tour of our planetary problems.  With a plethora of controls, data sources, and fresh content daily, what are you waiting for?" />
   <meta property="og:url" content="http://climateviewer.net/" />
-  <meta property="og:site_name" content="Climate Viewer 3D | Open-Source Maptivism" />
+  <meta property="og:site_name" content="Climate Viewer 3D | Global Alert System" />
   <meta property="article:publisher" content="http://www.facebook.com/climateviewers" />
   <meta property="article:published_time" content="2015-07-08T01:30:00+00:00" />
+  <meta property="og:image" content="http://climateviewer.net/img/CV3D-black.jpg" />
+  <meta property="og:image" content="http://climateviewer.net/img/CV3D-satellites.jpg" />
+  <meta property="og:image" content="http://climateviewer.net/img/CV3D-meltdown.jpg" />
   <meta property="og:image" content="http://climateviewer.net/img/climate-viewer-3d-1080.jpg" />
   <meta name="twitter:card" content="summary"/>
   <meta name="twitter:site" content="@climateviewer"/>
   <meta name="twitter:domain" content="Climate Viewer News"/>
   <meta name="twitter:creator" content="@rezn8d"/>
   <meta name="author" content="Jim 'rezn8d' Lee" />
-  <meta name="description" content="Climate Viewer 3D empowers the user with cutting-edge technology, real-time situational awareness, and a visual tour of our planetary problems.  With a plethora of controls, data sources, Google Earth 3D interface, and fresh content daily, what are you waiting for?" />
-  <meta name="keywords" content="maptivism, climate change, climate change tracker, climate change viewer, cv3d, climateviewer, pollution map, pollution viewer, 3D, globe, cesiumjs" />
+  <meta name="description" content="Real-time worldwide alert system! CV3D is cutting-edge technology, real-time situational awareness, and a visual tour of our planetary problems.  With a plethora of controls, data sources, and fresh content daily, what are you waiting for?" />
+  <meta name="keywords" content="disaster map, alert map, maptivism, climate change, climate change tracker, climate change viewer, cv3d, climateviewer, pollution map, pollution viewer, 3D, globe, cesiumjs" />
 
-  <link href="lib/cesium/1.11/Widgets/widgets.css" rel='stylesheet' type='text/css'/>
-  <link href="lib/cesium/1.11/Widgets/Viewer/Viewer.css" rel='stylesheet' type='text/css'/>
-  <link href="lib/semantic-ui/2.0/semantic.min.css" rel='stylesheet' type='text/css' />
-  <link href="lib/climate-viewer.css?v9005" rel='stylesheet' type='text/css' />
+  <link href="lib/cesium/1.12/Widgets/widgets.css" rel='stylesheet' type='text/css'/>
+  <link href="lib/cesium/1.12/Widgets/Viewer/Viewer.css" rel='stylesheet' type='text/css'/>
+  <link href="lib/semantic-ui/2.0.8/semantic.min.css" rel='stylesheet' type='text/css' />
+  <link href="ui/climate-viewer.css?v9006" rel='stylesheet' type='text/css' />
+
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://climateviewer.net/apple-touch-icon-144-precomposed.png" />
   <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://climateviewer.net/apple-touch-icon-114-precomposed.png" />
   <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://climateviewer.net/apple-touch-icon-72-precomposed.png" />
@@ -52,21 +56,17 @@
               <img src="/img/cv3d-red.png">
           </div>
           <div class="content">
-              <div class="summary"><a href="http://climateviewer.net/">CLIMATE VIEWER <span>3D</span></a><br><span class="slogan">TRACKING GEOENGINEERING</span></div>
+              <div class="summary"><a href="http://climateviewer.net/">CLIMATE VIEWER <span>3D</span></a><br><span class="slogan">GLOBAL ALERT SYSTEM</span></div>
           </div>
       </div>
   </div>
   <div class="ui vertical basic icon buttons cv-toolbar">
-      <button class="ui button cv-button top-menu" style="display:none">
-        <i class="options icon"></i>
-        <span>News</span>
-      </button>
       <button class="ui button cv-button show-menu">
         <i class="sidebar icon"></i>
         <span>LAYERS</span>
       </button>
       <button class="ui button cv-button clear-layers">
-          <i class="globe icon"></i>
+          <i class="trash icon"></i>
           <span>CLEAR</span>
       </button>
       <button class="ui button cv-button reset-view">
@@ -91,6 +91,23 @@
               <p class="instruct">Choose Category</p>
               <!-- Build Layer Tree -->
               <div id="map-layers" class="map-layers"></div>
+              <p class="instruct">Search</p>
+              <div class="search"></div>
+              <p class="do-legend instruct">Legend <span>(Click to expand)</span></p>
+              <div class="legend">
+                <i class="play icon"></i> =&nbsp;&nbsp;&nbsp;Load Layer<br>
+                <i class="folder icon"></i> =&nbsp;&nbsp;&nbsp;Toggle Layer Details<br>
+                <i class="play icon new-layer"></i> =&nbsp;&nbsp;&nbsp;New Layer!<br>
+                <i class="play icon large-layer"></i> =&nbsp;&nbsp;&nbsp;Warning, Large Layer - High-performance processor required, may crash weaker systems<br>
+                <p class="instruct">Bottom Menu</p>
+                <i class="trash icon"></i> =&nbsp;&nbsp;&nbsp;Clear Globe. Remove all layers<br>
+                <i class="clock icon"></i> =&nbsp;&nbsp;&nbsp;Toggle timeline<br>
+                <i class="sun icon"></i> =&nbsp;&nbsp;&nbsp;Toggle Sun<br>
+                <i class="share alternate icon"></i> =&nbsp;&nbsp;&nbsp;Generate URL to share all currently active layers<br>
+                <i class="compress icon"></i> =&nbsp;&nbsp;&nbsp;Collapse layer category list<br>
+                <i class="chevron up icon"></i> =&nbsp;&nbsp;&nbsp;Scroll to menu top<br>
+                <i class="close icon"></i> =&nbsp;&nbsp;&nbsp;Close this menu<br>
+              </div>
             </div> <!-- segment -->
             <div id="base" class="ui bottom attached tab segment" data-tab="base">
               <p class="instruct">Map Mode</p>
@@ -99,10 +116,9 @@
                 <div class="ui button cv-button mode-2d">2D</div>
                 <div class="ui button cv-button mode-flat-earth">Flat Earth</div>
               </div>
-              <p class="instruct">Base Layers</p>
             </div> <!-- segment -->
             <div class="ui bottom attached tab segment share-container" data-tab="share">
-                <h3 style='margin-top:0'>
+                <h3>
                   <i class='heart icon'></i>Sharing is Caring
                 </h3>
                 <div id="share">
@@ -121,20 +137,21 @@
                 <div id="comments"></div> <!-- #comments -->
             </div> <!-- segment -->
             <div class="ui bottom attached tab segment about-container" data-tab="about">
-              <h3 style="margin-top:0"><span style="color:#FFF">About Climate Viewer</span> 3D</h3>
+              <h3><span style="color:#FFF">About Climate Viewer</span> 3D</h3>
               <p>Created by <strong><a href="http://climateviewer.com/rezn8d/" title="climateviewer.com/rezn8d">Jim &quot;rezn8d&quot; Lee</a></strong> and provided by <a href="http://climateviewer.com/"><strong>Climate Viewer News</strong></a> as a free public service.</p><p>Know how to code and want to help make Climate Viewer 3D better? <a href="https://github.com/rezn8d/climateviewer" target="_blank">Join us on Github.</a></p>
               <div style="padding:20px 0"></div>
               <h4>Open-Source Technologies</h4>
               <ul>
-                <li><a href="http://cesiumjs.org/" target="_blank" rel="nofollow">Cesium</a> </li>
+                <li><a href="https://github.com/rezn8d/climateviewer" target="_blank" rel="nofollow">Climate Viewer</a></li>
+                <li><a href="http://cesiumjs.org/" target="_blank" rel="nofollow">Cesium 1.12</a></li>
                 <li><a href="http://jquery.com/" target="_blank" rel="nofollow">jQuery 2.1.1</a></li>
-                <li><a href="http://semantic-ui.com/" target="_blank" rel="nofollow">Semantic UI 2.0</a></li>
+                <li><a href="http://semantic-ui.com/" target="_blank" rel="nofollow">Semantic UI 2.0.8</a></li>
+                <li><a href="https://lodash.com/" target="_blank" rel="nofollow">lodash 3.9.3</a></li>
                 <li><a href="http://amsul.github.io/pickadate.js" target="_blank" rel="nofollow">pickadate.js v3.5.6</a></li>
-                <li><a href="http://fortawesome.github.io/Font-Awesome/" target="_blank" rel="nofollow">Font Awesome 4.3.0</a></li>
               </ul>
               <div style="padding:10px 0"></div>
               <h4>Support Us</h4>
-              <p>This website was made possible by <strong><a target="_blank" rel="nofollow" href="http://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=A6YC74NZDAYM2&amp;lc=US&amp;item_name=Jim%20Lee%20of%20Climate%20Viewer%20News&amp;item_number=CV3D&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" title="Paypal link">donations from caring individuals like you!</a></strong> Thank you for your support.</p>
+              <p>This website was made possible by <strong><a target="_blank" rel="nofollow" href="http://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=A6YC74NZDAYM2&amp;item_number=CV3D" title="Paypal link">donations from caring individuals like you!</a></strong> Thank you for your support.</p>
               <div style="padding:10px 0"></div>
 
               <h5><strong>&copy; <a href="http://climateviewer.com/rezn8d/" title="climateviewer.com/rezn8d">Jim Lee</a> of <a style='text-decoration:none' title='Climate Viewer 3D' href="http://climateviewer.com/terms/">Climate Viewer News</a>&nbsp;2011-<script type="text/javascript">today=new Date(); year=today.getYear(); if (year<1999) {year=year+1900;} document.write(year);</script></strong></h5>
@@ -143,7 +160,7 @@
         </div> <!-- tab -->
       </div> <!-- tabmenu-body -->
       <div class="tabmenu-footer ui seven cv-button-group bottom attached buttons">
-          <div title="Remove all layers from globe" class="ui button cv-button clear-layers"><i class="minus circle icon"></i></div>
+          <div title="Remove all layers from globe" class="ui button cv-button clear-layers"><i class="trash icon"></i></div>
           <div title="Toggle the timeline" class="ui button cv-button toggle-timeline"><i class="clock icon"></i></div>
           <div title="Toggle lighting (Sunlight, Day, Night)" class="ui button cv-button sun-control"><i class="sun icon"></i></div>
           <div title="Share active layers" class="ui button cv-button share-active-layers"><i class="share alternate icon"></i></div>
@@ -175,77 +192,74 @@
 </div>
 
 
-<div id="Greetz" class="ui basic modal">
+<div id="Greetz" class="ui modal">
   <i class="close icon"></i>
   <div class="header">
      Welcome to the new Climate Viewer 3D!
   </div>
   <div class="content">
-    <div class="description">
-          <p style="font-size:1.5em">After three years in the making, the new <strong><a href="http://cesiumjs.org/">Cesium-powered</a> Climate Viewer 3D</strong> is finally here!  This website is still under construction and may contain a few bugs, so please <a href="mailto:jim@climateviewer.com">report any issues</a> and have fun!</p>
-          <!-- <div class="videoWrapper"><iframe width="420" height="236" src="https://www.youtube-nocookie.com/embed/Gxqqsy4Gvqs" frameborder="0" allowfullscreen></iframe></div> -->
-          <br>
-          <h3>Frequently Asked Questions</h3>
-          <div class="ui accordion">
-            <div class="ui header title"><h4>&bull;&nbsp;&nbsp;&nbsp;How do I use this thing?</h4></div>
-            <div class="ui card content">
-              Click the LAYERS Menu in the top right to show or hide the layer menu, then click on a map layer in the list to make it appear on the globe.  Click the layer again to remove it from the globe.  For more information, <a href="https://www.youtube.com/watch?v=Gxqqsy4Gvqs" target="_blank" rel="nofollow">Watch the Video on YouTube</a>.
-            </div>
-
-
-            <div class="ui header title"><h4>&bull;&nbsp;&nbsp;&nbsp;Is My Device Supported?</h4></div>
-            <div class="ui card content">
-                <h3 id="plugin">Does Cesium require an install or a plugin?</h3>
-                <p>No.  Cesium runs without an install.  It uses HTML5 standards, namely <a href="http://www.khronos.org/webgl/" target="_blank">WebGL</a>, that are natively supported by browsers.</p>
-                <h3 id="browsers">What browsers are supported?</h3>
-                <p>Recent versions of Chrome, Firefox, and Internet Explorer 11 are supported and tested with every release. Safari and Opera both work as well, but are not as actively tested.</p>
-                <h3 id="OS">What operating systems are supported?</h3>
-                <p>Cesium runs on any platform with a WebGL capable browser, including Windows, Linux, OS X, Android, iOS, and Windows Phone.</p>
-                <h3 id="videoCards">What video cards are supported?</h3>
-                <p>Cesium works on any video card that supports WebGL. This includes almost all NVIDIA and AMD cards made since 2004 as well as recent Intel video cards.</p>
-                <p>To see if your video card supports WebGL, visit our <a href="http://www.webglreport.com" target="_blank">WebGL Report</a>.</p>
-            </div>
-
-            <div class="ui header title"><h4>&bull;&nbsp;&nbsp;&nbsp;Goodbye Google Earth?</h4></div>
-            <div class="ui card content">
-                <p>With the blocking of NPAPI, our Google Earth powered CV3D is now dead.  You can still check out the <a href="http://climateviewer.net/3D/">old version of Climate Viewer 3D</a> here or read all about our conversion from the GE plugin to Cesium!</p>
-                <p><strong><a href="http://climateviewer.com/2014/12/28/death-google-earth-climate-viewer-3d/">The Death of Google Earth and Climate Viewer 3D</a></strong></p>
-            </div>
-
-            <div class="ui header title"><h4>&bull;&nbsp;&nbsp;&nbsp;How Can I Help?</h4></div>
-            <div class="ui card content">
-                <p>Know how to code and want to help make Climate Viewer 3D better? <a href="https://github.com/rezn8d/climateviewer" target="_blank">Join us on Github.</a>
-                <p>This website was made possible by <strong><a target="_blank" rel="nofollow" href="http://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=A6YC74NZDAYM2&amp;lc=US&amp;item_name=Jim%20Lee%20of%20Climate%20Viewer%20News&amp;item_number=CV3D&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" title="Paypal link">donations</a> from caring individuals like you!</strong> Thank you for your support!</p>
-            </div>
+      <p style="font-size:1.1rem">Climate Viewer 3D's live updates on severe weather, earthquakes, fires, and other life-threatening events will give you peace of mind in one all-inclusive app. With cutting-edge technology, real-time situational awareness, and a visual tour of our planetary health risks, look no further.  We have you covered, <span style="color:#FF7214" class="share-modal">spread the word!</span>  This website is under construction, please <a href="mailto:jim@climateviewer.com">report any issues</a> and have fun! Knowing is half the battle.</p>
+      <br>
+      <h3 style="margin-top:0;">Frequently Asked Questions</h3>
+      <div class="ui accordion">
+        <div class="ui header title do-video"><h4>&bull;&nbsp;&nbsp;&nbsp;How do I use this thing?</h4></div>
+        <div class="ui card content do-video-div">
+          Click the LAYERS Menu in the top right to show or hide the layer menu, then click on a map layer in the list to make it appear on the globe.  Click the layer again to remove it from the globe.  For more information, <a href="https://www.youtube.com/watch?v=Gxqqsy4Gvqs" target="_blank" rel="nofollow">Watch the Video on YouTube</a>.<br><br>
         </div>
-     </div>
+
+
+        <div class="ui header title"><h4>&bull;&nbsp;&nbsp;&nbsp;Is My Device Supported?</h4></div>
+        <div class="ui card content">
+            <h3 id="plugin">Does Cesium require an install or a plugin?</h3>
+            <p>No.  Cesium runs without an install.  It uses HTML5 standards, namely <a href="http://www.khronos.org/webgl/" target="_blank">WebGL</a>, that are natively supported by browsers.</p>
+            <h3 id="browsers">What browsers are supported?</h3>
+            <p>Recent versions of Chrome, Firefox, and Internet Explorer 11 are supported and tested with every release. Safari and Opera both work as well, but are not as actively tested.</p>
+            <h3 id="OS">What operating systems are supported?</h3>
+            <p>Cesium runs on any platform with a WebGL capable browser, including Windows, Linux, OS X, Android, iOS, and Windows Phone.</p>
+            <h3 id="videoCards">What video cards are supported?</h3>
+            <p>Cesium works on any video card that supports WebGL. This includes almost all NVIDIA and AMD cards made since 2004 as well as recent Intel video cards.</p>
+            <p>To see if your video card supports WebGL, visit our <a href="http://www.webglreport.com" target="_blank">WebGL Report</a>.</p>
+        </div>
+
+        <div class="ui header title"><h4>&bull;&nbsp;&nbsp;&nbsp;Goodbye Google Earth?</h4></div>
+        <div class="ui card content">
+            <p>With the blocking of NPAPI, our Google Earth powered CV3D is now dead.  You can still check out the <a href="https://www.youtube.com/watch?v=_nnuN4ZqfxI">old version of Climate Viewer 3D</a> here or read all about our conversion from the GE plugin to Cesium!</p>
+            <p><strong><a href="http://climateviewer.com/2014/12/28/death-google-earth-climate-viewer-3d/">The Death of Google Earth and Climate Viewer 3D</a></strong></p>
+        </div>
+
+        <div class="ui header title"><h4>&bull;&nbsp;&nbsp;&nbsp;How Can I Help?</h4></div>
+        <div class="ui card content">
+            <p>Know how to code and want to help make Climate Viewer 3D better? <a href="https://github.com/rezn8d/climateviewer" target="_blank">Join us on Github.</a></p>
+            <p>This website was made possible by <strong><a target="_blank" rel="nofollow" href="http://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=A6YC74NZDAYM2&amp;item_number=CV3D" title="Paypal link">donations</a> from caring individuals like you!</strong> Thank you for your support!</p>
+        </div>
+      </div>
   </div>
   <div class="actions">
     <div class="two fluid ui inverted buttons">
-      <div class="ui green basic inverted button share-modal">
-        <i class="options icon"></i>
-        Open Menu
+      <div class="ui basic green button share-modal">
+        <i class="heart icon"></i>
+        Sharing is Caring
       </div>
-      <div class="ui blue basic inverted button close-greetz">
-        <i class="checkmark icon"></i>
-        Get Started
+      <div class="ui basic orange button menu-modal">
+        <i class="options icon"></i>
+        Open Layer Menu
       </div>
     </div>
   </div>
 </div>
 
   <script type="text/javascript" src="lib/graphlib/graphlib.min.js"></script>
-  <script type="text/javascript" src="lib/nobject.js?v9005"></script>
+  <script type="text/javascript" src="ui/nobject.js?v9005"></script>
 
   <script type="text/javascript" src="lib/jquery-2.1.3/jquery-2.1.3.min.js"></script>
   <script type="text/javascript" src="lib/jquery-migrate-1.2.1/jquery-migrate.min.js"></script>
-  <script type="text/javascript" src="lib/semantic-ui/2.0/semantic.min.js"></script> 
+  <script type="text/javascript" src="lib/semantic-ui/2.0.8/semantic.min.js"></script> 
   <script type="text/javascript" src="lib/lodash/lodash.min.js"></script>
   <script type="text/javascript" src="lib/pickadate-3.5.6/combined.js"></script>
-  <script type="text/javascript" src="lib/cesium/1.11/Cesium.js"></script>
-  <script type="text/javascript" src="lib/climate-viewer.js?v9005"></script>
-  <script type="text/javascript" src="lib/climate-viewer-layers.js?v9005"></script>
-  <script type="text/javascript" src="lib/climate-viewer-menu.js?v9005"></script>
+  <script type="text/javascript" src="lib/cesium/1.12/Cesium.js"></script>
+  <script type="text/javascript" src="ui/climate-viewer.js?v9006"></script>
+  <script type="text/javascript" src="ui/climate-viewer-layers.js?v9006"></script>
+  <script type="text/javascript" src="ui/climate-viewer-menu.js?v9006"></script>
 
 <!-- Start of StatCounter Code for Dreamweaver -->
 <script type="text/javascript">
