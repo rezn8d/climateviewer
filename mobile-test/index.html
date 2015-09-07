@@ -1,0 +1,271 @@
+<!doctype html>
+<html>
+<head>
+  <title>Climate Viewer Mobile | Global Alert System</title>
+  <meta charset="utf-8">
+  <base target="_blank">
+  <!-- Tell IE to use the latest, best version (or Chrome Frame if pre-IE11). -->
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+  <!-- Make the application on mobile take up the full browser screen and disable user scaling. -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+  <meta name="HandheldFriendly" content="true" />
+  <meta name="application-name" content="Climate Viewer Mobile v4.5 beta"/>
+
+  <link rel="canonical" href="http://climateviewer.net/index.html" />
+  <link rel="publisher" href="http://www.google.com/+Climateviewers"/>
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="application" />
+  <meta property="og:title" content="Climate Viewer Mobile | Global Alert System" />
+  <meta property="og:description" content="Real-time worldwide alert system! CV3D is cutting-edge technology, real-time situational awareness, and a visual tour of our planetary problems.  With a plethora of controls, data sources, and fresh content daily, what are you waiting for?" />
+  <meta property="og:url" content="http://climateviewer.net/" />
+  <meta property="og:site_name" content="Climate Viewer Mobile | Global Alert System" />
+  <meta property="article:publisher" content="http://www.facebook.com/climateviewers" />
+  <meta property="article:published_time" content="2015-07-08T01:30:00+00:00" />
+  <meta property="og:image" content="http://climateviewer.net/img/CV3D-black.jpg" />
+  <meta property="og:image" content="http://climateviewer.net/img/CV3D-satellites.jpg" />
+  <meta property="og:image" content="http://climateviewer.net/img/CV3D-meltdown.jpg" />
+  <meta property="og:image" content="http://climateviewer.net/img/climate-viewer-3d-1080.jpg" />
+  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:site" content="@climateviewer"/>
+  <meta name="twitter:domain" content="Climate Viewer News"/>
+  <meta name="twitter:creator" content="@rezn8d"/>
+  <meta name="author" content="Jim 'rezn8d' Lee" />
+  <meta name="description" content="Real-time worldwide alert system! CV3D is cutting-edge technology, real-time situational awareness, and a visual tour of our planetary problems.  With a plethora of controls, data sources, and fresh content daily, what are you waiting for?" />
+  <meta name="keywords" content="disaster map, alert map, maptivism, climate change, climate change tracker, climate change viewer, cv3d, climateviewer, pollution map, pollution viewer, 3D, globe, cesiumjs" />
+
+  <link href="../lib/leaflet/v1.0b1/leaflet.css" rel='stylesheet' type='text/css'/>
+  <link href="../lib/leaflet/Leaflet-IconLayers-master/src/iconLayers.css" rel="stylesheet" type='text/css'/>
+  <link href="../lib/semantic-ui/2.0.8/semantic.min.css" rel='stylesheet' type='text/css' />
+  <link href="cv-mobile.css?v9001" rel='stylesheet' type='text/css' />
+
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://climateviewer.net/apple-touch-icon-144-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://climateviewer.net/apple-touch-icon-114-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://climateviewer.net/apple-touch-icon-72-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" href="http://climateviewer.net/apple-touch-icon-57-precomposed.png" />
+
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+  <link rel="icon" href="favicon.ico" type="image/x-icon" />
+</head>
+ 
+<body>
+  <div id="map"></div>
+  <div class="ui large feed cv3d noselect">
+      <div class="event">
+          <div class="label">
+              <img src="http://climateviewer.net/img/cv3d-red.png">
+          </div>
+          <div class="content">
+              <div class="summary"><a href="http://climateviewer.net/">CLIMATE VIEWER</a><br><span class="slogan">GLOBAL ALERT SYSTEM</span></div>
+          </div>
+      </div>
+  </div>
+  <div class="ui vertical basic icon buttons cv-toolbar">
+      <button class="ui button cv-button show-menu">
+        <i class="sidebar icon"></i>
+        <span>LAYERS</span>
+      </button>
+      <button class="ui button cv-button clear-layers">
+          <i class="trash icon"></i>
+          <span>CLEAR</span>
+      </button>
+      <button class="ui button cv-button reset-view">
+          <i class="zoom out icon"></i>
+          <span>ZOOM</span>
+      </button>
+  </div>
+  <div class="toolbar">
+    <div class="toolbar-contents">
+      <div class="tabmenu-body ui top attached">
+        <div id="top" class="tab layer-menu">
+          <div class="ui tab segment active" data-tab="first">
+            <!-- Nav tabs -->
+            <div class="ui top attached tabular menu">
+              <a class="active item" data-tab="layers">Layers</a>
+              <a class="item" data-tab="base">Globe</a>
+              <a class="item share-tab" data-tab="share">Share</a>
+              <a class="item" data-tab="about">About</a>
+            </div>
+            <!-- Tab panes -->
+            <div id="layers" class="ui bottom attached active tab segment" data-tab="layers">
+              <p class="instruct">Choose Category</p>
+              <!-- Build Layer Tree -->
+              <div id="map-layers" class="map-layers"></div>
+              <p class="instruct">Search</p>
+              <div class="search"></div>
+              <p class="do-legend instruct">Legend <span>(Click to expand)</span></p>
+              <div class="legend">
+                <i class="play icon"></i> =&nbsp;&nbsp;&nbsp;Load Layer<br>
+                <i class="folder icon"></i> =&nbsp;&nbsp;&nbsp;Toggle Layer Details<br>
+                <i class="play icon new-layer"></i> =&nbsp;&nbsp;&nbsp;New Layer!<br>
+                <i class="play icon large-layer"></i> =&nbsp;&nbsp;&nbsp;Warning, Large Layer - High-performance processor required, may crash weaker systems<br>
+                <p class="instruct">Bottom Menu</p>
+                <i class="trash icon"></i> =&nbsp;&nbsp;&nbsp;Clear Globe. Remove all layers<br>
+                <i class="clock icon"></i> =&nbsp;&nbsp;&nbsp;Toggle timeline<br>
+                <i class="sun icon"></i> =&nbsp;&nbsp;&nbsp;Toggle Sun<br>
+                <i class="share alternate icon"></i> =&nbsp;&nbsp;&nbsp;Generate URL to share all currently active layers<br>
+                <i class="compress icon"></i> =&nbsp;&nbsp;&nbsp;Collapse layer category list<br>
+                <i class="chevron up icon"></i> =&nbsp;&nbsp;&nbsp;Scroll to menu top<br>
+                <i class="close icon"></i> =&nbsp;&nbsp;&nbsp;Close this menu<br>
+              </div>
+            </div> <!-- segment -->
+            <div id="base" class="ui bottom attached tab segment" data-tab="base">
+              <p class="instruct">Map Mode</p>
+              <div class="ui three cv-button-group buttons">
+                <div class="ui button cv-button mode-3d">3D</div>
+                <div class="ui button cv-button mode-2d">2D</div>
+                <div class="ui button cv-button mode-flat-earth">Flat Earth</div>
+              </div>
+            </div> <!-- segment -->
+            <div class="ui bottom attached tab segment share-container" data-tab="share">
+                <h3>
+                  <i class='heart icon'></i>Sharing is Caring
+                </h3>
+                <div id="share">
+                  <span class='st_facebook_vcount'></span>
+                  <span class='st_twitter_vcount'></span>
+                  <span class='st_sharethis_vcount'></span>
+                  <span class='st_email_vcount'></span>
+                </div> <!-- #share -->
+                <h3 class="chat-title">
+                  <i class="comments outline icon"></i>LOAD CHAT
+                </h3>
+                <div id="chat"></div> <!-- #chat -->
+                <h3>
+                  <i class='comments icon'></i> Comment
+                </h3>
+                <div id="comments"></div> <!-- #comments -->
+            </div> <!-- segment -->
+            <div class="ui bottom attached tab segment about-container" data-tab="about">
+              <h3><span style="color:#FFF">About Climate Viewer</span> 3D</h3>
+              <p>Created by <strong><a href="http://climateviewer.com/rezn8d/" title="climateviewer.com/rezn8d">Jim &quot;rezn8d&quot; Lee</a></strong> and provided by <a href="http://climateviewer.com/"><strong>Climate Viewer News</strong></a> as a free public service.</p><p>Know how to code and want to help make Climate Viewer Mobile better? <a href="https://github.com/rezn8d/climateviewer" target="_blank">Join us on Github.</a></p>
+              <div style="padding:20px 0"></div>
+              <h4>Open-Source Technologies</h4>
+              <ul>
+                <li><a href="https://github.com/rezn8d/climateviewer" target="_blank" rel="nofollow">Climate Viewer</a></li>
+                <li><a href="http://leafletjs.com/" target="_blank" rel="nofollow">Leaflet 1.0 beta 1</a></li>
+                <li><a href="https://github.com/mapbox/leaflet-omnivore" target="_blank" rel="nofollow">Omnivore v0.2.0</a></li>
+                <li><a href="https://github.com/ScanEx/Leaflet-IconLayers" target="_blank" rel="nofollow">Leaflet IconLayers</a></li>
+                <li><a href="https://github.com/lvoogdt/Leaflet.awesome-markers" target="_blank" rel="nofollow">Leaflet Awesome Markers</a></li>
+                <li><a href="http://jquery.com/" target="_blank" rel="nofollow">jQuery 2.1.1</a></li>
+                <li><a href="http://semantic-ui.com/" target="_blank" rel="nofollow">Semantic UI 2.0.8</a></li>
+                <li><a href="https://lodash.com/" target="_blank" rel="nofollow">lodash 3.9.3</a></li>
+                <li><a href="http://amsul.github.io/pickadate.js" target="_blank" rel="nofollow">pickadate.js v3.5.6</a></li>
+              </ul>
+              <div style="padding:10px 0"></div>
+              <h4>Support Us</h4>
+              <p>This website was made possible by <strong><a target="_blank" rel="nofollow" href="http://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=A6YC74NZDAYM2&amp;item_number=CV3D" title="Paypal link">donations from caring individuals like you!</a></strong> Thank you for your support.</p>
+              <div style="padding:10px 0"></div>
+
+              <h5><strong>&copy; <a href="http://climateviewer.com/rezn8d/" title="climateviewer.com/rezn8d">Jim Lee</a> of <a style='text-decoration:none' title='Climate Viewer Mobile' href="http://climateviewer.com/terms/">Climate Viewer News</a>&nbsp;2011-<script type="text/javascript">today=new Date(); year=today.getYear(); if (year<1999) {year=year+1900;} document.write(year);</script></strong></h5>
+            </div> <!-- about -->
+          </div> <!-- segment -->
+        </div> <!-- tab -->
+      </div> <!-- tabmenu-body -->
+      <div class="tabmenu-footer ui seven cv-button-group bottom attached buttons">
+          <div title="Remove all layers from globe" class="ui button cv-button clear-layers"><i class="trash icon"></i></div>
+          <div title="Toggle the timeline" class="ui button cv-button toggle-timeline"><i class="clock icon"></i></div>
+          <div title="Toggle lighting (Sunlight, Day, Night)" class="ui button cv-button sun-control"><i class="sun icon"></i></div>
+          <div title="Share active layers" class="ui button cv-button share-active-layers"><i class="share alternate icon"></i></div>
+          <div title="Collapse all folders" class="ui button cv-button collapse"><i class="compress icon"></i></div>
+          <div title="Scroll to the top" class="ui button cv-button top-layers"><i class="chevron up icon"></i></div>
+          <div title="Close this menu" class="ui button cv-button close-menu"><i class="close icon"></i></div>
+      </div>
+    </div>
+  </div> <!-- sidebar -->
+
+<div id="datepicker-container"></div>
+
+<div id="shareModal" class="shareModal ui basic modal">
+  <i class="close icon"></i>
+  <div class="header">
+     Share Active Layers
+  </div>
+  <div class="content">
+    <div class="description">
+      <div class="ui header">
+        <i class="circular inverted blue share alternate icon" style="color:#FFF;font-size:32px;"></i>
+        <div class="content" style="padding-left:20px">
+          <a id="shareLink" class="share-all-layers" href="http://climateviewer.net/" title="My custom CV3D map"></a>
+          <div class="sub header" style="color:#DDD">Use this URL to share all currently displayed layers.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div id="Greetz" class="ui modal">
+  <i class="close icon"></i>
+  <div class="header">
+     Welcome to the new Climate Viewer Mobile!
+  </div>
+  <div class="content">
+      <p style="font-size:1.1rem">Climate Viewer Mobile's live updates on severe weather, earthquakes, fires, and other life-threatening events will give you peace of mind in one all-inclusive app. With cutting-edge technology, real-time situational awareness, and a visual tour of our planetary health risks, look no further.  We have you covered, <span style="color:#FF7214" class="share-modal">spread the word!</span>  This website is under construction, please <a href="mailto:jim@climateviewer.com">report any issues</a> and have fun! Knowing is half the battle.</p>
+      <br>
+      <h3 style="margin-top:0;">Frequently Asked Questions</h3>
+      <div class="ui accordion">
+        <div class="ui header title do-video"><h4>&bull;&nbsp;&nbsp;&nbsp;How do I use this thing?</h4></div>
+        <div class="ui card content do-video-div">
+          Click the LAYERS Menu in the top right to show or hide the layer menu, then click on a map layer in the list to make it appear on the globe.  Click the layer again to remove it from the globe.  For more information, <a href="https://www.youtube.com/watch?v=Gxqqsy4Gvqs" target="_blank" rel="nofollow">Watch the Video on YouTube</a>.<br><br>
+        </div>
+
+
+        <div class="ui header title"><h4>&bull;&nbsp;&nbsp;&nbsp;Is My Device Supported?</h4></div>
+        <div class="ui card content">
+            <h3 id="plugin">Does Cesium require an install or a plugin?</h3>
+            <p>No.  Cesium runs without an install.  It uses HTML5 standards, namely <a href="http://www.khronos.org/webgl/" target="_blank">WebGL</a>, that are natively supported by browsers.</p>
+            <h3 id="browsers">What browsers are supported?</h3>
+            <p>Recent versions of Chrome, Firefox, and Internet Explorer 11 are supported and tested with every release. Safari and Opera both work as well, but are not as actively tested.</p>
+            <h3 id="OS">What operating systems are supported?</h3>
+            <p>Cesium runs on any platform with a WebGL capable browser, including Windows, Linux, OS X, Android, iOS, and Windows Phone.</p>
+            <h3 id="videoCards">What video cards are supported?</h3>
+            <p>Cesium works on any video card that supports WebGL. This includes almost all NVIDIA and AMD cards made since 2004 as well as recent Intel video cards.</p>
+            <p>To see if your video card supports WebGL, visit our <a href="http://www.webglreport.com" target="_blank">WebGL Report</a>.</p>
+        </div>
+
+        <div class="ui header title"><h4>&bull;&nbsp;&nbsp;&nbsp;Goodbye Google Earth?</h4></div>
+        <div class="ui card content">
+            <p>With the blocking of NPAPI, our Google Earth powered CV3D is now dead.  You can still check out the <a href="https://www.youtube.com/watch?v=_nnuN4ZqfxI">old version of Climate Viewer Mobile</a> here or read all about our conversion from the GE plugin to Cesium!</p>
+            <p><strong><a href="http://climateviewer.com/2014/12/28/death-google-earth-climate-viewer-3d/">The Death of Google Earth and Climate Viewer Mobile</a></strong></p>
+        </div>
+
+        <div class="ui header title"><h4>&bull;&nbsp;&nbsp;&nbsp;How Can I Help?</h4></div>
+        <div class="ui card content">
+            <p>Know how to code and want to help make Climate Viewer Mobile better? <a href="https://github.com/rezn8d/climateviewer" target="_blank">Join us on Github.</a></p>
+            <p>This website was made possible by <strong><a target="_blank" rel="nofollow" href="http://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=A6YC74NZDAYM2&amp;item_number=CV3D" title="Paypal link">donations</a> from caring individuals like you!</strong> Thank you for your support!</p>
+        </div>
+      </div>
+  </div>
+  <div class="actions">
+    <div class="two fluid ui inverted buttons">
+      <div class="ui basic green button share-modal">
+        <i class="heart icon"></i>
+        Sharing is Caring
+      </div>
+      <div class="ui basic orange button menu-modal">
+        <i class="options icon"></i>
+        Open Layer Menu
+      </div>
+    </div>
+  </div>
+</div>
+
+  <script type="text/javascript" src="../lib/graphlib/graphlib.min.js"></script>
+  <script type="text/javascript" src="../lib/nobject.js?v9001"></script>
+
+  <script type="text/javascript" src="../lib/jquery-2.1.3/jquery-2.1.3.min.js"></script>
+  <script type="text/javascript" src="../lib/jquery-migrate-1.2.1/jquery-migrate.min.js"></script>
+  <script type="text/javascript" src="../lib/semantic-ui/2.0.8/semantic.min.js"></script> 
+  <script type="text/javascript" src="../lib/lodash/lodash.min.js"></script>
+  <script type="text/javascript" src="../lib/pickadate-3.5.6/combined.js"></script>
+
+  <script type="text/javascript" src="../lib/leaflet/v1.0b1/leaflet.js"></script>
+  <script type="text/javascript" src="../lib/leaflet/Leaflet-IconLayers-master/src/iconLayers.js"></script>
+
+  <script type="text/javascript" src="../cv-layers.js?v9001"></script>
+  <script type="text/javascript" src="cv-mobile.js?v9001"></script>
+  <script src='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.2.0/leaflet-omnivore.min.js'></script>
+  <script type="text/javascript" src="cv-mobile-menu.js?v9001"></script>
+
+</body>
+</html>

@@ -33,10 +33,10 @@
   <meta name="description" content="Real-time worldwide alert system! CV3D is cutting-edge technology, real-time situational awareness, and a visual tour of our planetary problems.  With a plethora of controls, data sources, and fresh content daily, what are you waiting for?" />
   <meta name="keywords" content="disaster map, alert map, maptivism, climate change, climate change tracker, climate change viewer, cv3d, climateviewer, pollution map, pollution viewer, 3D, globe, cesiumjs" />
 
-  <link href="lib/cesium/1.12/Widgets/widgets.css" rel='stylesheet' type='text/css'/>
-  <link href="lib/cesium/1.12/Widgets/Viewer/Viewer.css" rel='stylesheet' type='text/css'/>
+  <link href="lib/cesium/1.13/Widgets/widgets.css" rel='stylesheet' type='text/css'/>
+  <link href="lib/cesium/1.13/Widgets/Viewer/Viewer.css" rel='stylesheet' type='text/css'/>
   <link href="lib/semantic-ui/2.0.8/semantic.min.css" rel='stylesheet' type='text/css' />
-  <link href="ui/climate-viewer.css?v9006" rel='stylesheet' type='text/css' />
+  <link href="cv3d.css?v9001" rel='stylesheet' type='text/css' />
 
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://climateviewer.net/apple-touch-icon-144-precomposed.png" />
   <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://climateviewer.net/apple-touch-icon-114-precomposed.png" />
@@ -53,7 +53,7 @@
   <div class="ui large feed cv3d noselect">
       <div class="event">
           <div class="label">
-              <img src="/img/cv3d-red.png">
+              <img src="img/cv3d-red.png">
           </div>
           <div class="content">
               <div class="summary"><a href="http://climateviewer.net/">CLIMATE VIEWER <span>3D</span></a><br><span class="slogan">GLOBAL ALERT SYSTEM</span></div>
@@ -143,7 +143,7 @@
               <h4>Open-Source Technologies</h4>
               <ul>
                 <li><a href="https://github.com/rezn8d/climateviewer" target="_blank" rel="nofollow">Climate Viewer</a></li>
-                <li><a href="http://cesiumjs.org/" target="_blank" rel="nofollow">Cesium 1.12</a></li>
+                <li><a href="http://cesiumjs.org/" target="_blank" rel="nofollow">Cesium 1.13</a></li>
                 <li><a href="http://jquery.com/" target="_blank" rel="nofollow">jQuery 2.1.1</a></li>
                 <li><a href="http://semantic-ui.com/" target="_blank" rel="nofollow">Semantic UI 2.0.8</a></li>
                 <li><a href="https://lodash.com/" target="_blank" rel="nofollow">lodash 3.9.3</a></li>
@@ -249,17 +249,18 @@
 </div>
 
   <script type="text/javascript" src="lib/graphlib/graphlib.min.js"></script>
-  <script type="text/javascript" src="ui/nobject.js?v9005"></script>
+  <script type="text/javascript" src="lib/nobject.js?v9001"></script>
 
   <script type="text/javascript" src="lib/jquery-2.1.3/jquery-2.1.3.min.js"></script>
   <script type="text/javascript" src="lib/jquery-migrate-1.2.1/jquery-migrate.min.js"></script>
   <script type="text/javascript" src="lib/semantic-ui/2.0.8/semantic.min.js"></script> 
   <script type="text/javascript" src="lib/lodash/lodash.min.js"></script>
   <script type="text/javascript" src="lib/pickadate-3.5.6/combined.js"></script>
-  <script type="text/javascript" src="lib/cesium/1.12/Cesium.js"></script>
-  <script type="text/javascript" src="ui/climate-viewer.js?v9006"></script>
-  <script type="text/javascript" src="ui/climate-viewer-layers.js?v9006"></script>
-  <script type="text/javascript" src="ui/climate-viewer-menu.js?v9006"></script>
+  <script type="text/javascript" src="lib/cesium/1.13/Cesium.js"></script>
+
+  <script type="text/javascript" src="cv-layers.js?v9001"></script>
+  <script type="text/javascript" src="cv3d.js?v9001"></script>
+  <script type="text/javascript" src="cv3d-menu.js?v9001"></script>
 
 <!-- Start of StatCounter Code for Dreamweaver -->
 <script type="text/javascript">
