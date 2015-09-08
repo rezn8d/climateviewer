@@ -142,7 +142,7 @@ function loadKml(layerId, geoDataSrc, proxy, zoom, markerImg, markerScale, marke
         assetLayerGroup.addTo(map);
         activeLayers[layerId] = assetLayerGroup;
         loaded(layerId);
-        if (zoom) map.fitBounds(assetLayerGroup.getBounds());
+        //if (zoom) map.fitBounds(assetLayerGroup.getBounds());
         src.eachLayer(function(layer) {
             // See the `.bindPopup` documentation for full details. This
             // dataset has a property called `name`: your dataset might not,
@@ -181,6 +181,7 @@ var assetLayerGroup = new L.LayerGroup();
             },
             onEachFeature: function (feature, layer) {
                 layer.bindPopup(feature.properties.title);
+                console.log(feature.properties)
             }
         });
         assetLayerGroup.addLayer(src);
@@ -620,4 +621,4 @@ $('.close-greetz').click(function () {
 });
 
 
-setTimeout(welcome, 500);
+//setTimeout(welcome, 500);
