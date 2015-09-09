@@ -1,4 +1,8 @@
 "use strict";
+zip.workerScriptsPath = '../lib/zip/';
+var oneBlob;
+var thisKMZ;
+
 
 // Check for mobile devices, set body class accordingly
 function resize() {
@@ -22,6 +26,27 @@ $(window).resize(function () {
     resize();
 });
 
+var _xml = {
+    _str2xml : function(strXML) {
+        if (window.ActiveXObject) {
+            var doc=new ActiveXObject('Microsoft.XMLDOM');
+            doc.async='false';
+            doc.loadXML(strXML);
+        } else {  // code for Mozilla, Firefox, Opera, etc.
+            var parser=new DOMParser();
+            var doc=parser.parseFromString(strXML,'text/xml');
+        }// documentElement always represents the root node
+        return doc;
+    },
+    _xml2string : function(xmlDom){
+        var strs = null;
+        var doc = xmlDom.documentElement;
+        if(doc.xml == undefined) {
+            strs = (new XMLSerializer()).serializeToString(xmlDom);
+        } else strs = doc.xml;
+        return strs;
+    }
+};
 
 
 var map = L.map('map', { worldCopyJump: true, inertia: true }).setView([38.14, 19.33], 3);            

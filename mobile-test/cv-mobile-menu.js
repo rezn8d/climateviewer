@@ -135,6 +135,7 @@ function loadKml(layerId, geoDataSrc, proxy, zoom, markerImg, markerScale, marke
         loadUrl = geoDataSrc;
         console.log('loading ' + geoDataSrc);
     }
+    /*
     var src = omnivore.kml(loadUrl)
     .on('ready', function() {
         //console.log('KML loaded!');
@@ -152,7 +153,29 @@ function loadKml(layerId, geoDataSrc, proxy, zoom, markerImg, markerScale, marke
     })
     .on('error', function(error) {
         loadError(layerId, geoDataSrc, error);
-    })
+    });
+    */
+
+    var src = new L.KMZ(loadUrl, {   
+        imageOverlayBoundingBoxCreatePopUp: true, 
+        imageOverlayBoundingBoxDrawOptions: {   
+            stroke: true,
+            weight: 2,
+            fillOpacity: 0.05,
+            clickable: true
+        } 
+    },'KMZ');
+    
+    src.on('loaded', function(e) { 
+        console.log('In the post L.KMZ call back at the end - loaded!');
+        assetLayerGroup.addLayer(src);
+        assetLayerGroup.addTo(map);
+        activeLayers[layerId] = assetLayerGroup;
+        loaded(layerId);
+        map.fitBounds(src.getBounds());
+    });
+
+
 }
 
 function loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, markerColor, zoom) {

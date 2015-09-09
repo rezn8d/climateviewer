@@ -40,6 +40,14 @@ div#map {
     height: 100%;
     z-index: 1;
 }
+.leaflet-popup-content img {
+    max-width: 100%;
+    max-height:auto;
+}
+.leaflet-pane.leaflet-marker-pane img {
+    max-width: 32px;
+    max-height: 32px;
+}
 
 .ui.header {
     color: #DDD;
