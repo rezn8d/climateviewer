@@ -40,7 +40,7 @@ imageryViewModels.push(new Cesium.ProviderViewModel({
 
 imageryViewModels.push(new Cesium.ProviderViewModel({
     name: 'Positron',
-    iconUrl: 'img/stamen-light.png',
+    iconUrl: '/img/stamen-light.png',
     tooltip: 'Map tiles by CartoDB, under CC BY 3.0. Data by OpenStreetMap, under ODbL.',
     creationFunction: function () {
         return new Cesium.UrlTemplateImageryProvider({
@@ -63,7 +63,7 @@ imageryViewModels.push(new Cesium.ProviderViewModel({
 }));
 imageryViewModels.push(new Cesium.ProviderViewModel({
     name: 'Toner Lite',
-    iconUrl: 'img/stamen-light.png',
+    iconUrl: '/img/stamen-light.png',
     tooltip: 'A high contrast black and white map.\nhttp://maps.stamen.com',
     creationFunction: function () {
         return new Cesium.OpenStreetMapImageryProvider({

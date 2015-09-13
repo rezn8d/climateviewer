@@ -72,10 +72,6 @@
           <span>ZOOM</span>
       </button>
   </div>
-  <div class="cv-mobile">
-    <a class="cv-mobile-controls show-now" href="#" title="Show Layer Menu"><i class="sidebar icon"></i></a>
-    <a class="cv-mobile-controls clear-layers" href="#" title="Clear Map"><i class="trash icon"></i></a>
-  </div>
 
   <div class="toolbar">
     <div class="toolbar-contents">
@@ -94,23 +90,6 @@
               <p class="instruct">Choose Category</p>
               <!-- Build Layer Tree -->
               <div id="map-layers" class="map-layers"></div>
-              <p class="instruct">Search</p>
-              <div class="search"></div>
-              <p class="do-legend instruct">Legend <span>(Click to expand)</span></p>
-              <div class="legend">
-                <i class="play icon"></i> =&nbsp;&nbsp;&nbsp;Load Layer<br>
-                <i class="folder icon"></i> =&nbsp;&nbsp;&nbsp;Toggle Layer Details<br>
-                <i class="play icon new-layer"></i> =&nbsp;&nbsp;&nbsp;New Layer!<br>
-                <i class="play icon large-layer"></i> =&nbsp;&nbsp;&nbsp;Warning, Large Layer - High-performance processor required, may crash weaker systems<br>
-                <p class="instruct">Bottom Menu</p>
-                <i class="trash icon"></i> =&nbsp;&nbsp;&nbsp;Clear Globe. Remove all layers<br>
-                <i class="clock icon"></i> =&nbsp;&nbsp;&nbsp;Toggle timeline<br>
-                <i class="sun icon"></i> =&nbsp;&nbsp;&nbsp;Toggle Sun<br>
-                <i class="share alternate icon"></i> =&nbsp;&nbsp;&nbsp;Generate URL to share all currently active layers<br>
-                <i class="compress icon"></i> =&nbsp;&nbsp;&nbsp;Collapse layer category list<br>
-                <i class="chevron up icon"></i> =&nbsp;&nbsp;&nbsp;Scroll to menu top<br>
-                <i class="close icon"></i> =&nbsp;&nbsp;&nbsp;Close this menu<br>
-              </div>
             </div> <!-- segment -->
             <div class="ui bottom attached tab segment share-container" data-tab="share">
                 <h3>
@@ -178,7 +157,7 @@
       <div class="ui header">
         <i class="circular inverted blue share alternate icon" style="color:#FFF;font-size:32px;"></i>
         <div class="content" style="padding-left:20px">
-          <a id="shareLink" class="share-all-layers" href="http://climateviewer.net/" title="My custom CV3D map"></a>
+          <a id="shareLink" class="share-all-layers" href="http://climateviewer.net/" title="My custom CV3D map" target="_self"></a>
           <div class="sub header" style="color:#DDD">Use this URL to share all currently displayed layers.</div>
         </div>
       </div>
@@ -190,41 +169,30 @@
 <div id="Greetz" class="ui modal">
   <i class="close icon"></i>
   <div class="header">
-     Welcome to the new Climate Viewer Mobile!
+     Welcome to the new Climate Viewer!
   </div>
   <div class="content">
       <p style="font-size:1.1rem">Climate Viewer Mobile's live updates on severe weather, earthquakes, fires, and other life-threatening events will give you peace of mind in one all-inclusive app. With cutting-edge technology, real-time situational awareness, and a visual tour of our planetary health risks, look no further.  We have you covered, <span style="color:#FF7214" class="share-modal">spread the word!</span>  This website is under construction, please <a href="mailto:jim@climateviewer.com">report any issues</a> and have fun! Knowing is half the battle.</p>
       <br>
-      <h3 style="margin-top:0;">Frequently Asked Questions</h3>
       <div class="ui accordion">
-        <div class="ui header title do-video"><h4>&bull;&nbsp;&nbsp;&nbsp;How do I use this thing?</h4></div>
+        <div class="ui header title do-video"><h3>&bull;&nbsp;&nbsp;&nbsp;Instructions (click here)</h3></div>
         <div class="ui card content do-video-div">
-          Click the LAYERS Menu in the top right to show or hide the layer menu, then click on a map layer in the list to make it appear on the globe.  Click the layer again to remove it from the globe.  For more information, <a href="https://www.youtube.com/watch?v=Gxqqsy4Gvqs" target="_blank" rel="nofollow">Watch the Video on YouTube</a>.<br><br>
+          <p>Layer Controls</p>
+          <i class="play icon"></i> =&nbsp;&nbsp;&nbsp;Load Layer<br>
+          <i class="folder icon"></i> =&nbsp;&nbsp;&nbsp;Show Layer Details<br>
+          <i class="play icon new-layer"></i> =&nbsp;&nbsp;&nbsp;New Layer!<br><br>
+          <p>Layer Toolbar Bottom Menu</p>
+          <i class="trash icon"></i> =&nbsp;&nbsp;&nbsp;Clear Map. Remove all layers<br>
+          <i class="share alternate icon"></i> =&nbsp;&nbsp;&nbsp;Generate URL to share all currently active layers<br>
+          <i class="compress icon"></i> =&nbsp;&nbsp;&nbsp;Collapse layer category list<br>
+          <i class="chevron up icon"></i> =&nbsp;&nbsp;&nbsp;Scroll to menu top<br>
+          <i class="close icon"></i> =&nbsp;&nbsp;&nbsp;Close Layer Toolbar<br><br>
+          <p>Click the LAYERS Menu in the top right to show or hide the layer menu, then click on a map layer in the list to make it appear on the globe.  Click the layer again to remove it from the map.  For more information, <a href="https://www.youtube.com/watch?v=Gxqqsy4Gvqs" target="_blank" rel="nofollow">watch this video on YouTube</a>.</p>
         </div>
 
-
-        <div class="ui header title"><h4>&bull;&nbsp;&nbsp;&nbsp;Is My Device Supported?</h4></div>
+        <div class="ui header title"><h3>&bull;&nbsp;&nbsp;&nbsp;How Can I Help?</h3></div>
         <div class="ui card content">
-            <h3 id="plugin">Does Cesium require an install or a plugin?</h3>
-            <p>No.  Cesium runs without an install.  It uses HTML5 standards, namely <a href="http://www.khronos.org/webgl/" target="_blank">WebGL</a>, that are natively supported by browsers.</p>
-            <h3 id="browsers">What browsers are supported?</h3>
-            <p>Recent versions of Chrome, Firefox, and Internet Explorer 11 are supported and tested with every release. Safari and Opera both work as well, but are not as actively tested.</p>
-            <h3 id="OS">What operating systems are supported?</h3>
-            <p>Cesium runs on any platform with a WebGL capable browser, including Windows, Linux, OS X, Android, iOS, and Windows Phone.</p>
-            <h3 id="videoCards">What video cards are supported?</h3>
-            <p>Cesium works on any video card that supports WebGL. This includes almost all NVIDIA and AMD cards made since 2004 as well as recent Intel video cards.</p>
-            <p>To see if your video card supports WebGL, visit our <a href="http://www.webglreport.com" target="_blank">WebGL Report</a>.</p>
-        </div>
-
-        <div class="ui header title"><h4>&bull;&nbsp;&nbsp;&nbsp;Goodbye Google Earth?</h4></div>
-        <div class="ui card content">
-            <p>With the blocking of NPAPI, our Google Earth powered CV3D is now dead.  You can still check out the <a href="https://www.youtube.com/watch?v=_nnuN4ZqfxI">old version of Climate Viewer Mobile</a> here or read all about our conversion from the GE plugin to Cesium!</p>
-            <p><strong><a href="http://climateviewer.com/2014/12/28/death-google-earth-climate-viewer-3d/">The Death of Google Earth and Climate Viewer Mobile</a></strong></p>
-        </div>
-
-        <div class="ui header title"><h4>&bull;&nbsp;&nbsp;&nbsp;How Can I Help?</h4></div>
-        <div class="ui card content">
-            <p>Know how to code and want to help make Climate Viewer Mobile better? <a href="https://github.com/rezn8d/climateviewer" target="_blank">Join us on Github.</a></p>
+            <p>Know how to code and want to help make Climate Viewer better? <a href="https://github.com/rezn8d/climateviewer" target="_blank">Join us on Github.</a></p>
             <p>This website was made possible by <strong><a target="_blank" rel="nofollow" href="http://www.gofundme.com/climateviewer" title="GoFundMe link">donations</a> from caring individuals like you!</strong> Thank you for your support!</p>
         </div>
       </div>

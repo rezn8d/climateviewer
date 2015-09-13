@@ -663,7 +663,7 @@ if (allLayers.length > 0) {
     $('div.folder').show();
     $('h2.toggle').hide();
 
-    $('<a class="button" href="' + homeURL + '" style="display:block;text-align:center;padding:20px 0;"><i class="home icon"></i> SHOW ALL LAYERS</a>').appendTo('#layers');
+    $('<a class="button" href="' + homeURL + '" style="display:block;text-align:center;padding:20px 0;" target="_self"><i class="home icon"></i> SHOW ALL LAYERS</a>').appendTo('#layers');
 } else {
     initLayers();
 }
@@ -759,8 +759,6 @@ $('.reset-view').click(function () {
 
 });
 
-$('.cv-mobile-controls').detach().appendTo($('.leaflet-control'));
-
 var rightSidebar = $('.toolbar');
 var controls = $('.cv-toolbar');
 
@@ -773,17 +771,6 @@ $('.show-menu').click(function () {
   });
 });
 
-$('.show-now').click(function (e) {
- //controls.hide();
- if ($('.toolbar').is(":visible")) {
-    $('.toolbar').hide();
- } else {
-    $('.toolbar').show();
- }
- e.preventDefault();
-});
-
-
 $('.close-menu').click(function () {
  rightSidebar.hide();
  controls.show();
@@ -794,11 +781,7 @@ function baleeted() {
   $('#Greetz').remove();
 }
 
-$('.do-legend').one("click", function() {
-	$('.do-legend span').remove();
-	$('.legend').show();
-});
-	$('.do-video').one("click", function() {
+$('.do-video').one("click", function() {
 	$('.do-video-div').append('<div class="videoWrapper"><iframe width="420" height="236" src="https://www.youtube-nocookie.com/embed/Gxqqsy4Gvqs" frameborder="0" allowfullscreen></iframe></div>');
 });
 
@@ -832,4 +815,4 @@ $('.close-greetz').click(function () {
 });
 
 
-//setTimeout(welcome, 500);
+setTimeout(welcome, 500);

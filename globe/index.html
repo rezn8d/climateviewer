@@ -53,7 +53,7 @@
   <div class="ui large feed cv3d noselect">
       <div class="event">
           <div class="label">
-              <img src="img/cv3d-red.png">
+              <img src="/img/cv3d-red.png">
           </div>
           <div class="content">
               <div class="summary"><a href="http://climateviewer.net/">CLIMATE VIEWER <span>3D</span></a><br><span class="slogan">GLOBAL ALERT SYSTEM</span></div>
@@ -94,21 +94,6 @@
               <div id="map-layers" class="map-layers"></div>
               <p class="instruct">Search</p>
               <div class="search"></div>
-              <p class="do-legend instruct">Legend <span>(Click to expand)</span></p>
-              <div class="legend">
-                <i class="play icon"></i> =&nbsp;&nbsp;&nbsp;Load Layer<br>
-                <i class="folder icon"></i> =&nbsp;&nbsp;&nbsp;Toggle Layer Details<br>
-                <i class="play icon new-layer"></i> =&nbsp;&nbsp;&nbsp;New Layer!<br>
-                <i class="play icon large-layer"></i> =&nbsp;&nbsp;&nbsp;Warning, Large Layer - High-performance processor required, may crash weaker systems<br>
-                <p class="instruct">Bottom Menu</p>
-                <i class="trash icon"></i> =&nbsp;&nbsp;&nbsp;Clear Globe. Remove all layers<br>
-                <i class="clock icon"></i> =&nbsp;&nbsp;&nbsp;Toggle timeline<br>
-                <i class="sun icon"></i> =&nbsp;&nbsp;&nbsp;Toggle Sun<br>
-                <i class="share alternate icon"></i> =&nbsp;&nbsp;&nbsp;Generate URL to share all currently active layers<br>
-                <i class="compress icon"></i> =&nbsp;&nbsp;&nbsp;Collapse layer category list<br>
-                <i class="chevron up icon"></i> =&nbsp;&nbsp;&nbsp;Scroll to menu top<br>
-                <i class="close icon"></i> =&nbsp;&nbsp;&nbsp;Close this menu<br>
-              </div>
             </div> <!-- segment -->
             <div id="base" class="ui bottom attached tab segment" data-tab="base">
               <p class="instruct">Map Mode</p>
@@ -152,7 +137,7 @@
               </ul>
               <div style="padding:10px 0"></div>
               <h4>Support Us</h4>
-              <p>This website was made possible by <strong><a target="_blank" rel="nofollow" href="http://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=A6YC74NZDAYM2&amp;item_number=CV3D" title="Paypal link">donations from caring individuals like you!</a></strong> Thank you for your support.</p>
+              <p>This website was made possible by <strong><a target="_blank" rel="nofollow" href="http://www.gofundme.com/climateviewer" title="Paypal link">donations from caring individuals like you!</a></strong> Thank you for your support.</p>
               <div style="padding:10px 0"></div>
 
               <h5><strong>&copy; <a href="http://climateviewer.com/rezn8d/" title="climateviewer.com/rezn8d">Jim Lee</a> of <a style='text-decoration:none' title='Climate Viewer 3D' href="http://climateviewer.com/terms/">Climate Viewer News</a>&nbsp;2011-<script type="text/javascript">today=new Date(); year=today.getYear(); if (year<1999) {year=year+1900;} document.write(year);</script></strong></h5>
@@ -184,7 +169,7 @@
       <div class="ui header">
         <i class="circular inverted blue share alternate icon" style="color:#FFF;font-size:32px;"></i>
         <div class="content" style="padding-left:20px">
-          <a id="shareLink" class="share-all-layers" href="http://climateviewer.net/" title="My custom CV3D map"></a>
+          <a id="shareLink" class="share-all-layers" href="http://climateviewer.net/" title="My custom CV3D map" target="_self"></a>
           <div class="sub header" style="color:#DDD">Use this URL to share all currently displayed layers.</div>
         </div>
       </div>
@@ -200,16 +185,26 @@
   </div>
   <div class="content">
       <p style="font-size:1.1rem">Climate Viewer 3D's live updates on severe weather, earthquakes, fires, and other life-threatening events will give you peace of mind in one all-inclusive app. With cutting-edge technology, real-time situational awareness, and a visual tour of our planetary health risks, look no further.  We have you covered, <span style="color:#FF7214" class="share-modal">spread the word!</span>  This website is under construction, please <a href="mailto:jim@climateviewer.com">report any issues</a> and have fun! Knowing is half the battle.</p>
-      <br>
-      <h3 style="margin-top:0;">Frequently Asked Questions</h3>
       <div class="ui accordion">
-        <div class="ui header title do-video"><h4>&bull;&nbsp;&nbsp;&nbsp;How do I use this thing?</h4></div>
+        <div class="ui header title do-video"><h3>&bull;&nbsp;&nbsp;&nbsp;Instructions (click here)</h3></div>
         <div class="ui card content do-video-div">
+          <p>Layer Controls</p>
+          <i class="play icon"></i> =&nbsp;&nbsp;&nbsp;Load Layer<br>
+          <i class="folder icon"></i> =&nbsp;&nbsp;&nbsp;Toggle Layer Details<br>
+          <i class="play icon new-layer"></i> =&nbsp;&nbsp;&nbsp;New Layer!<br>
+          <i class="play icon large-layer"></i> =&nbsp;&nbsp;&nbsp;Warning, Large Layer - High-performance processor required, may crash weaker systems<br><br>
+          <p>Layer Toolbar Bottom Menu</p>
+          <i class="trash icon"></i> =&nbsp;&nbsp;&nbsp;Clear Globe. Remove all layers<br>
+          <i class="clock icon"></i> =&nbsp;&nbsp;&nbsp;Toggle Timeline<br>
+          <i class="sun icon"></i> =&nbsp;&nbsp;&nbsp;Toggle Sun<br>
+          <i class="share alternate icon"></i> =&nbsp;&nbsp;&nbsp;Generate URL to share all currently active layers<br>
+          <i class="compress icon"></i> =&nbsp;&nbsp;&nbsp;Collapse layer category list<br>
+          <i class="chevron up icon"></i> =&nbsp;&nbsp;&nbsp;Scroll to menu top<br>
+          <i class="close icon"></i> =&nbsp;&nbsp;&nbsp;Close Layer Toolbar menu<br><br>
           Click the LAYERS Menu in the top right to show or hide the layer menu, then click on a map layer in the list to make it appear on the globe.  Click the layer again to remove it from the globe.  For more information, <a href="https://www.youtube.com/watch?v=Gxqqsy4Gvqs" target="_blank" rel="nofollow">Watch the Video on YouTube</a>.<br><br>
         </div>
 
-
-        <div class="ui header title"><h4>&bull;&nbsp;&nbsp;&nbsp;Is My Device Supported?</h4></div>
+        <div class="ui header title"><h3>&bull;&nbsp;&nbsp;&nbsp;Is My Device Supported?</h3></div>
         <div class="ui card content">
             <h3 id="plugin">Does Cesium require an install or a plugin?</h3>
             <p>No.  Cesium runs without an install.  It uses HTML5 standards, namely <a href="http://www.khronos.org/webgl/" target="_blank">WebGL</a>, that are natively supported by browsers.</p>
@@ -222,16 +217,16 @@
             <p>To see if your video card supports WebGL, visit our <a href="http://www.webglreport.com" target="_blank">WebGL Report</a>.</p>
         </div>
 
-        <div class="ui header title"><h4>&bull;&nbsp;&nbsp;&nbsp;Goodbye Google Earth?</h4></div>
+        <div class="ui header title"><h3>&bull;&nbsp;&nbsp;&nbsp;Goodbye Google Earth?</h3></div>
         <div class="ui card content">
             <p>With the blocking of NPAPI, our Google Earth powered CV3D is now dead.  You can still check out the <a href="https://www.youtube.com/watch?v=_nnuN4ZqfxI">old version of Climate Viewer 3D</a> here or read all about our conversion from the GE plugin to Cesium!</p>
             <p><strong><a href="http://climateviewer.com/2014/12/28/death-google-earth-climate-viewer-3d/">The Death of Google Earth and Climate Viewer 3D</a></strong></p>
         </div>
 
-        <div class="ui header title"><h4>&bull;&nbsp;&nbsp;&nbsp;How Can I Help?</h4></div>
+        <div class="ui header title"><h3>&bull;&nbsp;&nbsp;&nbsp;How Can I Help?</h3></div>
         <div class="ui card content">
             <p>Know how to code and want to help make Climate Viewer 3D better? <a href="https://github.com/rezn8d/climateviewer" target="_blank">Join us on Github.</a></p>
-            <p>This website was made possible by <strong><a target="_blank" rel="nofollow" href="http://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=A6YC74NZDAYM2&amp;item_number=CV3D" title="Paypal link">donations</a> from caring individuals like you!</strong> Thank you for your support!</p>
+            <p>This website was made possible by <strong><a target="_blank" rel="nofollow" href="http://www.gofundme.com/climateviewer" title="Paypal link">donations</a> from caring individuals like you!</strong> Thank you for your support!</p>
         </div>
       </div>
   </div>

@@ -1,7 +1,8 @@
 "use strict";
 
 // Set web root url
-var baseURL = window.location.protocol + "//" + window.location.host + "/";  // production
+var homeURL = window.location.protocol + "//" + window.location.host + "/";  // production
+var baseURL = window.location.protocol + "//" + window.location.host + "/globe/";  // production
 var proxyURL = 'http://climateviewer.net/netj1/proxy';  // production
 //var proxyURL = 'http://localhost:8080/proxy';  // local
 //var proxyURL = 'kmz.php';  // dev
@@ -224,7 +225,13 @@ function loadOsmLayer(layerId, geoDataSrc) {
     loadSliders(src, layerId);
 }
 
-
+function loadArcGisLayer(layerId, geoDataSrc) {
+    var src = viewer.imageryLayers.addImageryProvider(new Cesium.ArcGisMapServerImageryProvider({
+            url: '//services.arcgisonline.com/ArcGIS/rest/services/' + geoDataSrc + '/MapServer'
+        }));
+    activeLayers[layerId] = src;
+    loadSliders(src, layerId);
+}
 
 var defaultEyeOffset = new Cesium.Cartesian3(0.0, 50.0, 50.0);
 var defaultKMLEyeOffset = new Cesium.Cartesian3(0.0, 5000.0, 0.0);
@@ -260,11 +267,11 @@ function newMarkerLabel(entity, markerLabel) {
     return label;
 }
 
-function modMarkers(geoData, markerImg, markerScale, markerColor, markerLabel) {
+function modMarkers(geoData, markerImg, markerScale, markerLabel) {
   var entities = geoData.entities.values; // entities = all points
   for (var i = 0; i < entities.length; i++) {
       var entity = entities[i]; // entities = single point
-
+    console.log('mod geojson');
       // create marker image
       var billboard = new Cesium.BillboardGraphics();
 
@@ -277,6 +284,7 @@ function modMarkers(geoData, markerImg, markerScale, markerColor, markerLabel) {
           image = 'http://climateviewer.com/gallery/cv3d.png';
       }
       billboard.image = image;
+      console.log(billboard.image);
 
       var size;
       if (markerLabel == 'usgs-eq') {
@@ -287,27 +295,23 @@ function modMarkers(geoData, markerImg, markerScale, markerColor, markerLabel) {
           size = 2;
       }
       billboard.scale = size;
-
-      if (markerColor) {
-        billboard.color = markerColor;
-      } else if (entity.billboard.color) {
-        billboard.color = entity.billboard.color;
-      } 
+      console.log(billboard.scale);
 
       billboard.width = 32;
       billboard.height = 32;
       billboard.scaleByDistance = defaultScaleByDistance;
       entity.billboard = billboard;
+
       // marker label
       if (markerLabel) {
           entity.label = newMarkerLabel(entity, markerLabel);
       }
   } // end for loop
 }
-function loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, markerColor, zoom) {
+function loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, zoom) {
     console.log('load geojson');
     new Cesium.GeoJsonDataSource.load(geoDataSrc).then(function (geoData) {
-        modMarkers(geoData, markerImg, markerScale, markerColor, markerLabel);
+        modMarkers(geoData, markerImg, markerScale, markerLabel);
         viewer.dataSources.add(geoData);
         activeLayers[layerId] = geoData;
         // TODO loadMarkerSliders(geoData, layerId);
@@ -320,7 +324,7 @@ function loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, m
     });
 }
 
-function loadKml(layerId, geoDataSrc, proxy, zoom, markerImg, markerScale, markerLabel, markerColor, markerMod) {
+function loadKml(layerId, geoDataSrc, proxy, zoom, markerImg, markerScale, markerLabel, markerMod) {
     if (proxy) {
         new Cesium.KmlDataSource.load(geoDataSrc, {
             proxy: new Cesium.DefaultProxy(proxyURL),
@@ -402,7 +406,6 @@ function updateLayer(layerId) {
     markerImg = l.MI,
     markerScale = l.MS,
     markerLabel = l.ML,
-    markerColor = l.MC,
     timeline = l.C,
     proxy = l.P;
 
@@ -420,10 +423,12 @@ function updateLayer(layerId) {
             loadWmts(layerId, geoDataSrc, geoLayers);
         } else if (l.T === ("base-layer")) {
            loadOsmLayer(layerId, geoDataSrc);
+        } else if (l.T === ("arcgis")) {
+           loadArcGisLayer(layerId, geoDataSrc);
         } else if (l.T === ("geojson")) {
-            loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, markerColor, zoom);
+            loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, zoom);
         } else if (l.T === ('kml')) {
-            loadKml(layerId, geoDataSrc, proxy, zoom, markerImg, markerScale, markerLabel, markerColor, markerMod);
+            loadKml(layerId, geoDataSrc, proxy, zoom, markerImg, markerScale, markerLabel, markerMod);
         } else {
             console.log(layerId + ' failed to load map type: ' + l.T);
         }
@@ -622,7 +627,7 @@ if (allLayers.length > 0) {
     $('div.folder').show();
     $('h2.toggle').hide();
 
-    $('<a class="button" href="' + baseURL + '" style="display:block;text-align:center;padding:20px 0;"><i class="home icon"></i> SHOW ALL LAYERS</a>').appendTo('#layers');
+    $('<a class="button" href="' + baseURL + '" style="display:block;text-align:center;padding:20px 0;" target="_self"><i class="home icon"></i> SHOW ALL LAYERS</a>').appendTo('#layers');
 } else {
     initLayers();
 }
@@ -687,7 +692,7 @@ $('.chat-title').one("click", function () {
 });
 
 $('.2d-tab').one('click', function () {
-    window.location = baseURL;
+    window.location = homeURL;
 });
 
 // MAP MODE BUTTONS

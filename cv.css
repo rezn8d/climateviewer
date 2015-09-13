@@ -56,14 +56,7 @@ div#map {
     background: none;
     color: #FFF;
 }
-.leaflet-bar a {
-    background: rgba(40, 40, 40, 0.8);
-    color: rgb(200, 200, 200);
-}
-.leaflet-bar a i {
-    position:relative; 
-    left:2px;
-}
+
 .leaflet-container a {
     color: #FF7214;
     word-wrap: break-word;
@@ -72,6 +65,18 @@ div#map {
 .leaflet-container a:hover, .leaflet-container a:focus {
 	text-decoration: underline;
 }
+.leaflet-control-container .leaflet-bar {
+
+    border: 1px solid rgba(255,255,255,0.2) !important;
+    color: #DDD;
+    text-decoration: none !important;
+}
+.leaflet-control-container .leaflet-bar a {
+    background: rgba(0, 0, 0, 0.3);
+    color: #DDD;
+    text-decoration: none !important;
+}
+
 .leaflet-fade-anim .leaflet-popup {
     min-width: 300px;
 }
@@ -354,8 +359,8 @@ input[type="range"]::-ms-thumb {
     position: fixed;
     bottom: auto;
     right: auto;
-    left: 30px;
-    top: 30px;
+	left: 10px;
+    top: 10px;
     z-index: 5;
     padding: 0;
     width: 35px;
@@ -368,7 +373,7 @@ input[type="range"]::-ms-thumb {
     color: #111 !important;
 }
 .cesium-viewer-fullscreenContainer .cesium-button {
-    background-color: #000000;
+    background-color: rgba(0,0,0,0.5);
     border-radius: 200%;
     -webkit-border-radius: 200%;
     -moz-border-radius: 200%;
@@ -543,10 +548,10 @@ div.cesium-baseLayerPicker-choices {
 	border-radius:none;
 }
 .cv-toolbar {
-    padding: 10px 15px 10px 20px;
-	position:fixed;
-	top:30px;
-	right:20px;
+    padding: 0;
+    position: fixed;
+    top: 10px;
+    right: 10px;
 	left:auto;
 	display:none;
 	background: transparent;
@@ -555,6 +560,8 @@ div.cesium-baseLayerPicker-choices {
 
 .cv-toolbar:hover .ui.button.cv-button span {
     display: inline-block;
+    position: relative;
+    top: -8px;
 }
 
 .cv-toolbar:hover .ui.button.cv-button {
@@ -563,12 +570,13 @@ div.cesium-baseLayerPicker-choices {
 }
 
 .ui.basic.buttons.cv-toolbar .button {
-	background:#222!important;
+	background-color: rgba(0,0,0,0.5) !important;
+    border: 1px solid rgba(255,255,255,0.2) !important;;
 }
 
 button.ui.button.cv-button {
-    width: 45px !important;
-    height: 45px;
+    width: 32px !important;
+    height: 32px;
     padding: 0 !important;
     text-align: center !important;
     margin-bottom: 10px !important;
@@ -582,11 +590,11 @@ button.ui.button.cv-button {
 }
 
 button.ui.button.cv-button i {
-    font-size: 20px;
+    font-size: 16px;
 }
 
 button.ui.button.cv-button i,button.ui.button.cv-button span {
-	color:#FF7214;
+	color:#DDD;
     line-height: 0;
 	font-weight:normal !important;
 }
@@ -596,19 +604,15 @@ button.ui.button.cv-button span {
     display: none;
 }
 
-button.ui.button.cv-button:focus,button.ui.button.cv-button:hover {
+button.ui.button.cv-button:focus, button.ui.button.cv-button:hover {
 	background:#2F393F!important;
 }
 
-button.ui.button.cv-button:focus i,button.ui.button.cv-button:hover i {
+button.ui.button.cv-button:focus span, button.ui.button.cv-button:hover span {
 	color:#FF7214!important;
 }
-
-button.ui.button.cv-button:focus span,button.ui.button.cv-button:hover span {
-	color:#FF7214!important;
-}
-.cv-toolbar:hover button.ui.button.cv-button:focus span, .cv-toolbar:hover button.ui.button.cv-button:hover span {
-    color: #FFF!important;
+.cv-toolbar:focus button.ui.button.cv-button:focus span, .cv-toolbar:hover button.ui.button.cv-button:hover span {
+    color: #FF7214!important;
 }
 .ui.basic.buttons button.ui.button.cv-button:not(:first-child) {
 	border-top:1px solid rgba(255,255,255,0.2);
@@ -824,7 +828,7 @@ div.map-layers div.folder div.folder {
     margin: 0;
     vertical-align: baseline;
     position: relative;
-    top: 2px;
+    top: -8px;
 }
 .ui.cv-button-group .ui.button.cv-button:not(:first-child) {
 	border-left: 1px solid #2F393F;
@@ -1056,7 +1060,7 @@ div.lb span,div.lb i {
 
 
 i.icon.large-layer {
-	color:#ff4335;
+	color:#FF7214;
 }
 
 i.icon.new-layer {
