@@ -109,6 +109,115 @@ function loadSliders(src, layerId, datePicker) {
     loaded(layerId);
 }
 
+function updateGIBS(layerId, selectedDate, format) {
+    var template;
+    if (format == 'png') { 
+        template = "//map1{s}.vis.earthdata.nasa.gov/wmts-webmerc/" + "{layer}/default/{time}/{tileMatrixSet}/{z}/{y}/{x}.png";
+    } else {
+        template = "//map1{s}.vis.earthdata.nasa.gov/wmts-webmerc/" + "{layer}/default/{time}/{tileMatrixSet}/{z}/{y}/{x}.jpg";
+    }
+
+    if (activeLayers[layerId]) removeImagery(layerId);
+    var assetLayerGroup = new L.LayerGroup();
+
+    var src = L.tileLayer(template, {
+        layer: layerId,
+        tileMatrixSet: "GoogleMapsCompatible_Level9",
+        maxZoom: 9,
+        time: selectedDate,
+        tileSize: 256,
+        subdomains: "abc",
+        noWrap: true,
+        continuousWorld: true,
+        // Prevent Leaflet from retrieving non-existent tiles on the
+        // borders.
+        bounds: [
+            [-85.0511287776, -179.999999975],
+            [85.0511287776, 179.999999975]
+        ],
+        attribution:
+            "<a href='https://wiki.earthdata.nasa.gov/display/GIBS'>" +
+            "NASA EOSDIS GIBS</a>&nbsp;&nbsp;&nbsp;" +
+            "<a href='https://github.com/nasa-gibs/web-examples/blob/release/examples/leaflet/webmercator-epsg3857.js'>" +
+            "View Source" +
+            "</a>"
+    });
+
+    assetLayerGroup.addLayer(src);
+    assetLayerGroup.addTo(map);
+    activeLayers[layerId] = assetLayerGroup;
+    $('.' + layerId + '-sliders').remove();
+    loadSliders(src, layerId);
+}
+
+/*
+Date.prototype.getJulian = function() {
+    return Math.floor((this / 86400000) - (this.getTimezoneOffset()/1440) + 2440587.5);
+}
+
+var today = new Date(); //set any date
+console.log(today);
+var julian = today.getJulian(); //get Julian counterpart 
+console.log(julian);
+
+*/
+
+function loadGIBS(layerId, format) {
+    var target = $('#' + layerId);
+    $('<div class="ui card ' + layerId + '-picker layer-sliders"><div class="content"><div class="ui divided list"><div class="item '+ layerId + '-info"><i class="circular inverted clock icon"></i><div class="content"><div class="header">Imagery Date</div>Click this button below to change the loaded image:<br><input type="button" value="" class="datepicker ui orange basic button" id="'+ layerId + '-datepicker" name="date"></div></div></div></div>').appendTo(target);
+
+    var date = new Date();
+    var yesterday = date.setDate(date.getDate() - 1);
+
+    Date.prototype.getJulian = function() {
+        return Math.floor((this / 86400000) - (this.getTimezoneOffset()/1440) + 2440587.5);
+    }
+
+    //var yesterday = Cesium.JulianDate.fromDate(date);
+    //var time = Cesium.JulianDate.toDate(yesterday);
+    //var time = yesterday.getJulian();
+
+    var $input = $( '#'+ layerId + '-datepicker' ).pickadate({
+    formatSubmit: 'yyyy-mm-dd',
+    min: [2012, 4, 8],
+    max: date.getJulian(),
+    container: '#datepicker-container',
+    // editable: true,
+    closeOnSelect: true,
+    closeOnClear: false
+    });
+
+    var picker = $input.pickadate('picker');
+    picker.set('select', yesterday);
+    picker.on({
+    set: function() {
+      var selectedDate = picker.get('select', 'yyyy-mm-dd');
+      updateGIBS(layerId, selectedDate);
+    }
+    });
+    var start = picker.get('select', 'yyyy-mm-dd');
+    updateGIBS(layerId, start, format);
+}
+
+function loadWmts(layerId, geoDataSrc, geoLayers) {
+    var assetLayerGroup = new L.LayerGroup();
+    var src = viewer.imageryLayers.addImageryProvider(new Cesium.WebMapTileServiceImageryProvider({
+        url : geoDataSrc,
+        layers : geoLayers,
+        style: "",
+        format: "image/png",
+        tileMatrixSetID: "GoogleMapsCompatible_Level9",
+        maximumLevel: 9,
+        tileWidth: 256,
+        tileHeight: 256,
+        tilingScheme: new Cesium.WebMercatorTilingScheme()
+    }));
+    assetLayerGroup.addLayer(src);
+    assetLayerGroup.addTo(map);
+    activeLayers[layerId] = assetLayerGroup;
+    loadSliders(src, layerId);
+}
+
 
 function loadWms(layerId, geoDataSrc, geoLayers) {
     var assetLayerGroup = new L.LayerGroup();
@@ -121,6 +230,33 @@ function loadWms(layerId, geoDataSrc, geoLayers) {
     assetLayerGroup.addLayer(src);
     assetLayerGroup.addTo(map);
     activeLayers[layerId] = assetLayerGroup;
+    loadSliders(src, layerId);
+}
+
+function loadOsmLayer(layerId, geoDataSrc) {
+    var baseLayerGroup = new L.LayerGroup();
+    var src = L.tileLayer(geoDataSrc + '{z}/{x}/{y}.png', {
+        zIndex : 2,
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
+        subdomains: 'abcd',
+        maxZoom: 19
+    });
+    baseLayerGroup.addLayer(src);
+    baseLayerGroup.addTo(map);
+    activeLayers[layerId] = baseLayerGroup;
+    loadSliders(src, layerId);
+}
+function loadArcGisLayer(layerId, geoDataSrc) {
+    var baseLayerGroup = new L.LayerGroup();
+    var src = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/' + geoDataSrc + '/MapServer/tile/{z}/{y}/{x}', {
+        zIndex : 2,
+        attribution: 'Copyright:© 2013 ESRI, i-cubed, GeoEye',
+        subdomains: 'abcd',
+        maxZoom: 19
+    });
+    baseLayerGroup.addLayer(src);
+    baseLayerGroup.addTo(map);
+    activeLayers[layerId] = baseLayerGroup;
     loadSliders(src, layerId);
 }
 
@@ -167,22 +303,30 @@ function loadKml(layerId, geoDataSrc, proxy, zoom, markerImg, markerScale, marke
     },'KMZ');
     
     src.on('loaded', function(e) { 
-        console.log('In the post L.KMZ call back at the end - loaded!');
         assetLayerGroup.addLayer(src);
         assetLayerGroup.addTo(map);
         activeLayers[layerId] = assetLayerGroup;
         loaded(layerId);
-        map.fitBounds(src.getBounds());
+        if (zoom) map.fitBounds(src.getBounds());
     });
 
 
 }
 
-function loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, markerColor, zoom) {
-var assetLayerGroup = new L.LayerGroup();
-  var promise = $.getJSON(geoDataSrc); 
- // map.removeLayer(layerId);
-  promise.then(function(data) {     //do a bunch of stuff here     
+function loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, markerColor, zoom, proxy) {
+    var assetLayerGroup = new L.LayerGroup();
+    var proxyKml = (proxyURL + "?" + geoDataSrc);
+    var loadUrl;
+    if (proxy) { 
+        loadUrl = proxyKml;
+        console.log('loading ' + proxyKml);
+    } else {
+        loadUrl = geoDataSrc;
+        console.log('loading ' + geoDataSrc);
+    }
+    var promise = $.getJSON(loadUrl); 
+    // map.removeLayer(layerId);
+    promise.then(function(data) {     //do a bunch of stuff here     
 
     $(data.features).each(function(key, data) {
       //map.removeLayer(src);
@@ -194,23 +338,50 @@ var assetLayerGroup = new L.LayerGroup();
                     iconSize: [64,64],
                 });
                 //return new L.CircleMarker(latlng, {radius: 5, fillOpacity: 0.85});
-                var redMarker = L.AwesomeMarkers.icon({
-                    icon: 'home',
-                    markerColor: 'orange'
-                });
                 return L.marker(latlng, {
-                    icon: redMarker
+                    icon: mImg
                 });
             },
             onEachFeature: function (feature, layer) {
-                layer.bindPopup(feature.properties.title);
-                console.log(feature.properties)
+                var title, details;
+
+                if (feature.properties.title) {
+                    title = '<h3>' + feature.properties.title + '</h3>';
+                } else if (feature.properties.Name) {
+                    title = '<h3>' + feature.properties.Name + '</h3>';
+                } else if (feature.properties.name) {
+                    title = '<h3>' + feature.properties.name + '</h3>';
+                } else if (feature.properties.LICENSEE) {
+                    title = '<h3>' + feature.properties.LICENSEE + '</h3>';
+                } else {
+                    title = '';
+                }
+
+                if (feature.properties.mag) {
+                    details = '<div>Place: ' + feature.properties.place + '<br>Magnitude: ' + feature.properties.mag + '<br><a href="' + feature.properties.url + '">Click here for more info.</a></div>';
+                } else if (feature.properties.Description) {
+                    details = '<div>' + feature.properties.Description + '</div>';
+                } else if (feature.properties.description) {
+                    details = '<div>' + feature.properties.description + '</div>';
+                } else if (feature.properties.desc) {
+                    details = '<div>' + feature.properties.desc + '</div>';
+                } else if (feature.properties.FREQUENCY) {
+                    details = '<div>FREQUENCY: ' + feature.properties.FREQUENCY + '<br>CALLSIGN: ' + feature.properties.CALLSIGN + '<br>SERVICE: ' + feature.properties.SERVICE + '<br></div>';
+                } else {
+                    details = '';
+                }
+
+                layer.bindPopup(title + '<br>' + details);
+                //console.log(feature.properties)
             }
         });
+
+
         assetLayerGroup.addLayer(src);
         assetLayerGroup.addTo(map);
         activeLayers[layerId] = assetLayerGroup;
         loaded(layerId);
+        //if (zoom) map.fitBounds(src.getBounds());
     });
   }, function (error) {
         loadError(layerId, geoDataSrc, error);
@@ -219,8 +390,8 @@ var assetLayerGroup = new L.LayerGroup();
 
 function removeImagery(layerId) {
     var src = activeLayers[layerId];
+    map.removeLayer(src);
     delete activeLayers[layerId];
-    viewer.imageryLayers.remove(src, false);
 }
 
 // REMOVE LAYERS
@@ -261,6 +432,7 @@ function updateLayer(layerId) {
     geoLayers = l.L,
     //source = l.S,
     zoom = l.Z,
+    format = l.F,
     markerMod = l.M,
     markerImg = l.MI,
     markerScale = l.MS,
@@ -278,11 +450,13 @@ function updateLayer(layerId) {
         } else if (l.T === ("wtms")) {
             loadGIBS(layerId);
         } else if (l.T === ("nasa-gibs")) {
-            loadGIBS(layerId);
+            loadGIBS(layerId, format);
         } else if (l.T === ("wtms")) {
             loadWmts(layerId, geoDataSrc, geoLayers);
         } else if (l.T === ("base-layer")) {
            loadOsmLayer(layerId, geoDataSrc);
+        } else if (l.T === ("arcgis")) {
+           loadArcGisLayer(layerId, geoDataSrc);
         } else if (l.T === ("geojson")) {
             loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, markerColor, zoom);
         } else if (l.T === ('kml')) {
@@ -345,24 +519,28 @@ function addTree(parent/* nodes  */, lb /*target */, includeOnly) {
         var l = me.node(l),
         content,
         layerId = l.I,
-        layerType = l.T;
+        layerType = l.T,
+        largeLayer = l.H;
+;
 
         var child = $('<div class="folder" />').html(l);
-        if (!l.T) {
+        if (!layerType) {
+            if (!largeLayer) {
             var ic = l.icon;
             //Folder Label
             content = newFolderLabel(l, child, ic);
+            }
         } else { // not a folder
             var present = true;
             if (includeOnly) {
                 if (includeOnly.indexOf(l.I) === -1)
                     present = false;
             }
-            if (present) {
+
+            if (present & !largeLayer) {
                 var geoDataSrc = l.G,
                 source = l.S,
                 sourceUrl = l.U,
-                largeLayer = l.H,
                 newLayer = l.NL,
                 timeline = l.C,
                 layerButton, details, loadIcon, optIcon, label;
@@ -530,10 +708,6 @@ function shareLink() {
     shareToggle.attr('href', url).html(url);
 }
 
-
-
-
-
 // Init tabs
 $('.tab .menu .item').tab({
     context: $('.tab')
@@ -547,16 +721,19 @@ $('.share-tab').one('click', function () {
     $('#share').addClass('panel-share');
     $('head').append('<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "919e0e68-8cf4-433f-b1ac-049584a0a9f5", doNotHash: true, doNotCopy: true, hashAddressBar: false});</script>');
 });
-
 $('.chat-title').one("click", function () {
     $('#chat').html('<iframe src="http://tlk.io/cvnews" class="container-fluid chat-iframe" style="height:600px"></iframe>');
     $('.chat-title').html('<i class="comments outline icon"></i>Happy Chatting');
 });
 
+$('.3d-tab').one('click', function () {
+    window.location = homeURL + 'globe/';
+});
 
 
 // LAYER FOOTER BUTTONS
-$('.clear-layers').click(function () {
+$('.clear-layers').click(function (e) {
+    e.preventDefault();
  $('i.active').trigger('click');
 });
 
@@ -578,11 +755,11 @@ $('.top-layers').click(function () {
 
 // SIDEBAR CONTROL & MAIN SCREEN BUTTONS
 $('.reset-view').click(function () {
- map.setView([38.14, 19.33], 3);            
+ map.setView([40, -100], 3);            
 
 });
 
-
+$('.cv-mobile-controls').detach().appendTo($('.leaflet-control'));
 
 var rightSidebar = $('.toolbar');
 var controls = $('.cv-toolbar');
@@ -590,11 +767,22 @@ var controls = $('.cv-toolbar');
 $('.show-menu').click(function () {
  rightSidebar.show();
  controls.hide();
- $('#cesiumContainer').one('click', function () {
+ $('#map').one('click', function () {
    rightSidebar.hide();
    controls.show();
   });
 });
+
+$('.show-now').click(function (e) {
+ //controls.hide();
+ if ($('.toolbar').is(":visible")) {
+    $('.toolbar').hide();
+ } else {
+    $('.toolbar').show();
+ }
+ e.preventDefault();
+});
+
 
 $('.close-menu').click(function () {
  rightSidebar.hide();

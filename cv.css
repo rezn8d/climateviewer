@@ -32,17 +32,59 @@ input,label {
 
 a {
 	color:#FF7214;
+	word-wrap: break-word;
 }
-
+a:hover {
+    color: #FF7214;
+    text-decoration: underline;
+}
 /* MOBILE APP */
 div#map {
     width: 100%;
     height: 100%;
     z-index: 1;
 }
-.leaflet-popup-content img {
+.leaflet-container:-webkit-full-screen { width: 100% !important; height: 100% !important; z-index: 999; }
+/* on selector per rule as explained here : http://www.sitepoint.com/html5-full-screen-api/ */
+#map:-webkit-full-screen { width: 100% !important; height: 100% !important; z-index: 999; }
+#map:-moz-full-screen { width: 100% !important; height: 100% !important; z-index: 999; }
+#map:full-screen { width: 100% !important; height: 100% !important; z-index: 999; }
+
+.leaflet-pseudo-fullscreen { position: fixed !important; width: 100% !important; height: 100% !important; top: 0px !important; left: 0px !important; z-index: 999; }
+
+.leaflet-container .leaflet-control-attribution, .leaflet-container .leaflet-control-scale {
+    background: none;
+    color: #FFF;
+}
+.leaflet-bar a {
+    background: rgba(40, 40, 40, 0.8);
+    color: rgb(200, 200, 200);
+}
+.leaflet-bar a i {
+    position:relative; 
+    left:2px;
+}
+.leaflet-container a {
+    color: #FF7214;
+    word-wrap: break-word;
+    font-weight: bold;
+}
+.leaflet-container a:hover, .leaflet-container a:focus {
+	text-decoration: underline;
+}
+.leaflet-fade-anim .leaflet-popup {
+    min-width: 300px;
+}
+div.leaflet-popup-content {
+	max-height:400px;
+	overflow:auto;
+	margin: 23px 0 13px 19px;
+    padding-right: 19px;
+}
+
+.leaflet-popup-content img, .leaflet-popup-content * img {
     max-width: 100%;
-    max-height:auto;
+    height: auto;
 }
 .leaflet-pane.leaflet-marker-pane img {
     max-width: 32px;
@@ -508,7 +550,7 @@ div.cesium-baseLayerPicker-choices {
 	left:auto;
 	display:none;
 	background: transparent;
-	z-index:2;
+	z-index:200;
 }
 
 .cv-toolbar:hover .ui.button.cv-button span {
@@ -692,11 +734,11 @@ iframe.cesium-infoBox-iframe {
 /* SIDEBAR */
 .toolbar {
 	width:420px;
-	position:absolute;
+	position:fixed;
 	top:0;
 	right:0;
 	left:auto;
-	z-index:10;
+	z-index:500;
 	background:#1C2226;
 	display:none;
 }
@@ -1107,7 +1149,12 @@ i.circular.inverted.warning.icon {
 	margin-bottom:10px;
     color: #eee;
 }
-
+.ui.card .content img, .ui.cards>.card .content img {
+    display: inline-block;
+    vertical-align: middle;
+    width: auto;
+    max-width:100%;
+}
 .datepicker.ui.button {
 	margin-top:10px;
 }

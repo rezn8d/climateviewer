@@ -686,6 +686,10 @@ $('.chat-title').one("click", function () {
     $('.chat-title').html('<i class="comments outline icon"></i>Happy Chatting');
 });
 
+$('.2d-tab').one('click', function () {
+    window.location = baseURL;
+});
+
 // MAP MODE BUTTONS
 $('.mode-3d').click(function () {
  viewer.scene.morphTo3D();
