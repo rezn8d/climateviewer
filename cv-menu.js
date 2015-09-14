@@ -508,7 +508,7 @@ function initDetails(layerId, layerType, details, source, sourceUrl, geoDataSrc)
     if (layerType == ('base-layer')) {
       $('<div class="item '+ layerId + '-info"><i class="circular inverted file icon"></i><div class="content"><div class="header">Data Type</div>OpenStreetMap (OSM) Base Map</div>').appendTo(list);
     }
-    $('<div class="extra content"><a href="' + homeURL + 'index.html?layersOn=' + layerId + '" class="right floated created">Share Layer</a><a href="' + sourceUrl + '" target="_blank" rel="nofollow">More Info</a></div>').appendTo(details);
+    $('<div class="extra content"><a href="' + homeURL + 'index.html?layersOn=' + layerId + '" class="right floated created" target="_self">Share Layer</a><a href="' + sourceUrl + '" target="_blank" rel="nofollow">More Info</a></div>').appendTo(details);
 
       //shareLink();
   }
