@@ -9,7 +9,7 @@
   <!-- Make the application on mobile take up the full browser screen and disable user scaling. -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
   <meta name="HandheldFriendly" content="true" />
-  <meta name="application-name" content="Climate Viewer Mobile v4.5 beta"/>
+  <meta name="application-name" content="Climate Viewer Mobile v5.0"/>
 
   <link rel="canonical" href="http://climateviewer.net/index.html" />
   <link rel="publisher" href="http://www.google.com/+Climateviewers"/>
@@ -35,15 +35,14 @@
 
   <link href="/lib/leaflet/v1.0b1/leaflet.css" rel='stylesheet' type='text/css'/>
   <link href="/lib/semantic-ui/2.0.8/semantic.min.css" rel='stylesheet' type='text/css' />
-  <link href="cv.css?v9001" rel='stylesheet' type='text/css' />
+  <link href="/climate-viewer.css?v9002" rel='stylesheet' type='text/css' />
 
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://climateviewer.net/apple-touch-icon-144-precomposed.png" />
-  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://climateviewer.net/apple-touch-icon-114-precomposed.png" />
-  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://climateviewer.net/apple-touch-icon-72-precomposed.png" />
-  <link rel="apple-touch-icon-precomposed" href="http://climateviewer.net/apple-touch-icon-57-precomposed.png" />
-
-  <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon" />
-  <link rel="icon" href="../favicon.ico" type="image/x-icon" />
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72-precomposed.png" />
+  <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-57-precomposed.png" />
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+  <link rel="icon" href="/favicon.ico" type="image/x-icon" />
 </head>
  
 <body>
@@ -156,9 +155,20 @@
       <div class="ui header">
         <i class="circular inverted blue share alternate icon" style="color:#FFF;font-size:32px;"></i>
         <div class="content" style="padding-left:20px">
-          <a id="shareLink" class="share-all-layers" href="http://climateviewer.net/" title="My custom CV3D map" target="_self"></a>
+          <a class="share-all-layers" href="http://climateviewer.net/" title="My custom CV3D map" target="_self"></a>
           <div class="sub header" style="color:#DDD">Use this URL to share all currently displayed layers.</div>
         </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="featureModal" class="featureModal ui long modal">
+  <i class="close icon"></i>
+  <div id="feature-header" class="header"></div>
+  <div class="content">
+    <div class="description">
+      <div class="ui header">
+        <div id="feature-content" class="content"></div>
       </div>
     </div>
   </div>
@@ -224,9 +234,8 @@
   <script type="text/javascript" src="/lib/leaflet/leaflet-plugins-KMZ/layer/vector/KMZ.js"></script>
   <script type="text/javascript" src="/lib/zip/zip.js"></script>
 
-  <script type="text/javascript" src="cv.js?v9001"></script>
-  <script type="text/javascript" src="cv-layers.js?v9001"></script>
-  <script type="text/javascript" src="cv-menu.js?v9001"></script>
+  <script type="text/javascript" src="/cv-layers-local.js?v9001"></script>
+  <script type="text/javascript" src="/climate-viewer.js?v9001"></script>
 
 <!-- Start of StatCounter Code for Dreamweaver -->
 <script type="text/javascript">

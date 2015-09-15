@@ -77,20 +77,15 @@ div#map {
     text-decoration: none !important;
 }
 
-.leaflet-fade-anim .leaflet-popup {
-    min-width: 300px;
-}
-div.leaflet-popup-content {
-	max-height:400px;
-	overflow:auto;
-	margin: 23px 0 13px 19px;
-    padding-right: 19px;
-}
-
-.leaflet-popup-content img, .leaflet-popup-content * img {
-    max-width: 100%;
+.ui.modal>.content img, .ui.modal>.content * img {
+    max-width: 100% !important;
     height: auto;
 }
+div#feature-content {
+    max-width: 100%;
+    word-wrap: break-word;
+}
+
 .leaflet-pane.leaflet-marker-pane img {
     max-width: 32px;
     max-height: 32px;
@@ -98,6 +93,13 @@ div.leaflet-popup-content {
 
 .ui.header {
     color: #DDD;
+}
+.ui.modal.featureModal {
+	background-color: transparent;
+	pointer-events: none;
+}
+.ui.modal.featureModal *  {
+	pointer-events: all !important;
 }
 .ui.modal>.header {
     font-size:1.2em;
@@ -107,7 +109,6 @@ div.leaflet-popup-content {
 .ui.modal>.content {
     background: #39454C;
     color: #fff;
-    max-height: 300px;
     overflow: auto;
 }
 .ui.modal>.actions {
@@ -427,7 +428,6 @@ input[type="range"]::-ms-thumb {
 .ui.modal>.content>.description {
 	position:relative;
 	padding:15px;
-	max-height:300px;
 	overflow:auto;
 	display:inline-block;
 	float:left;
@@ -1811,12 +1811,6 @@ Version: 1.0
 }
 
 /* MOBILE */
-@media screen and (max-width: 1024px) {
-	.ui.feed.cv3d {
-		top:auto;
-		bottom:51px;
-	}
-}
 @media only screen and (max-width: 992px) {
 	.ui.modal>.close {
 	    color: rgba(255,255,255,.87);
@@ -1837,22 +1831,11 @@ Version: 1.0
 	.ui.modal>.actions {
 	    padding: 1rem 1rem 0 1rem !important;
 	}
-	.ui.modal>.content {
-	    max-height: 300px;
-	}
 
 }
 @media screen and (max-width: 570px) {
 
 	/* ----------------- Logo ------------ */
-	.ui.feed.cv3d {
-		top:auto;
-		bottom:5px;
-	}
-	.ui.modal>.content {
-	    max-height: 200px;
-	}
-
 
 	.ui.feed>.event>.label {
 		display:none;
@@ -1935,4 +1918,45 @@ Version: 1.0
 		padding:0;
 		margin:0;
 	}
+	div.leaflet-popup {
+    	width: 100%;
+    	max-width:100%;
+	}
+	div.leaflet-popup-content {
+		height:96%;
+		max-height:100%;
+		overflow:auto;
+		margin: 2% 1%;
+	    padding-right: 19px;
+	    width: 98% !important;
+	}
+	.ui.icon.button>.icon, .ui.icon.buttons .button>.icon {
+	    top: 0;
+	}
 }
+
+/* 
+	CV Overwrite 
+	add to /lib/cesium/RELEASE NUMBER/Widgets/InfoBox/InfoBoxDescription.css when upgrading Cesium versions
+*/
+/*
+.cesium-infoBox-description, body, html { color: #000000; background-color: #FFF; }
+.cesium-infoBox-description * { max-width:100% !important; word-wrap: break-word; word-break: break-word; color:#000; }
+.cesium-infoBox-defaultTable-lighter tr, .cesium-infoBox-defaultTable-lighter td { max-width:100%; } 
+.cesium-infoBox-defaultTable th, .cesium-infoBox-defaultTable td, .cesium-infoBox-defaultTable tr, .cesium-infoBox-defaultTable tbody, .cesium-infoBox-defaultTable {
+    font-weight: normal;
+    padding: 0;
+    vertical-align: middle;
+    text-align: left;
+    background:none;
+    color:#000;
+}
+
+.cesium-infoBox-defaultTable tr:nth-child(odd) {
+    background-color: transparent !important;
+}
+.cesium-infoBox-description a:link, .cesium-infoBox-description a:visited, .cesium-infoBox-description a:hover, .cesium-infoBox-description a:active {
+    color: #FF7214;
+    font-weight:bold;
+}
+*/

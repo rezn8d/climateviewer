@@ -1,4 +1,70 @@
 "use strict";
+zip.workerScriptsPath = '../lib/zip/';
+var oneBlob;
+var thisKMZ;
+
+$("#featureModal").modal({ duration: 0 });
+
+// Check for mobile devices, set body class accordingly
+function resize() {
+    var clientWidth = $(window).width(),
+        clientHeight = $(window).height(),
+        buttonOffset = (clientHeight - 52),
+        mobile = 1025;
+    if (clientWidth < mobile) {
+        // is mobile
+        $('body').addClass('mobile');
+    } else {
+        $('body').addClass('desktop');
+    }
+    $('#featureModal').height(clientHeight - 100);
+    $('.toolbar').height(clientHeight);
+    $('.tabmenu-body').height(buttonOffset);
+
+}
+resize();
+
+$(window).resize(function () {
+    resize();
+});
+
+var _xml = {
+    _str2xml : function(strXML) {
+        if (window.ActiveXObject) {
+            var doc=new ActiveXObject('Microsoft.XMLDOM');
+            doc.async='false';
+            doc.loadXML(strXML);
+        } else {  // code for Mozilla, Firefox, Opera, etc.
+            var parser=new DOMParser();
+            var doc=parser.parseFromString(strXML,'text/xml');
+        }// documentElement always represents the root node
+        return doc;
+    },
+    _xml2string : function(xmlDom){
+        var strs = null;
+        var doc = xmlDom.documentElement;
+        if(doc.xml == undefined) {
+            strs = (new XMLSerializer()).serializeToString(xmlDom);
+        } else strs = doc.xml;
+        return strs;
+    }
+};
+
+// create map
+var map = L.map('map', { 
+    center: [40, -100],
+    zoom: 3,
+    worldCopyJump: true,
+    inertia: true
+});    
+map.options.crs = L.CRS.EPSG3857;     
+
+layer: L.tileLayer('http://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png', {
+    zIndex: 1,
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
+    subdomains: 'abcd',
+    maxZoom: 19
+}).addTo(map);
 
 // Set web root url
 var homeURL = window.location.protocol + "//" + window.location.host + "/";  // production
@@ -271,7 +337,87 @@ function loadKml(layerId, geoDataSrc, proxy, zoom, markerImg, markerScale, marke
         loadUrl = geoDataSrc;
         console.log('loading ' + geoDataSrc);
     }
-    /*
+
+    if (loadUrl.indexOf(".kmz") >= 0) {
+        console.log('kmz');
+        var src = new L.KMZ(loadUrl, {   
+            imageOverlayBoundingBoxCreatePopUp: true, 
+            imageOverlayBoundingBoxDrawOptions: {   
+                stroke: true,
+                weight: 2,
+                fillOpacity: 0.05,
+                clickable: true
+            } 
+        },'KMZ');
+        
+        src.on('loaded', function(data) { 
+            $(data.features).each(function(key, data) {
+              //map.removeLayer(src);
+              var markers = L.KML(data, {
+                    onEachFeature: function (feature, layer) {
+                        if (feature.properties) {
+
+                        var title, details;
+
+                        if (feature.properties.title) {
+                            title = '<h3>' + feature.properties.title + '</h3>';
+                        } else if (feature.properties.Name) {
+                            title = '<h3>' + feature.properties.Name + '</h3>';
+                        } else if (feature.properties.name) {
+                            title = '<h3>' + feature.properties.name + '</h3>';
+                        } else if (feature.properties.LICENSEE) {
+                            title = '<h3>' + feature.properties.LICENSEE + '</h3>';
+                        } else {
+                            title = '';
+                        }
+
+                        if (feature.properties.mag) {
+                            details = '<div>Place: ' + feature.properties.place + '<br>Magnitude: ' + feature.properties.mag + '<br><a href="' + feature.properties.url + '">Click here for more info.</a></div>';
+                        } else if (feature.properties.Description) {
+                            details = '<div>' + feature.properties.Description + '</div>';
+                        } else if (feature.properties.description) {
+                            details = '<div>' + feature.properties.description + '</div>';
+                        } else if (feature.properties.desc) {
+                            details = '<div>' + feature.properties.desc + '</div>';
+                        } else if (feature.properties.FREQUENCY) {
+                            details = '<div>FREQUENCY: ' + feature.properties.FREQUENCY + '<br>CALLSIGN: ' + feature.properties.CALLSIGN + '<br>SERVICE: ' + feature.properties.SERVICE + '<br></div>';
+                        } else {
+                            details = '';
+                        }
+                          layer.on({
+                            click: function (e) {
+                                e.preventDefault;
+                                $("#feature-header").html(title);
+                                $("#feature-content").html(details);
+                                $("#featureModal").modal("show");
+                                resize();
+                            }
+                          });
+                        }
+
+                        //console.log(feature.properties)
+                    }
+                });
+                });
+            assetLayerGroup.addLayer(src);
+            assetLayerGroup.addTo(map);
+            activeLayers[layerId] = assetLayerGroup;
+            loaded(layerId);
+            if (zoom) map.fitBounds(src.getBounds());
+        });
+    } else {
+        console.log('kml');
+        var src = new L.KML(loadUrl, {async: true});
+        src.on('loaded', function(e) { 
+            assetLayerGroup.addLayer(src);
+            assetLayerGroup.addTo(map);
+            activeLayers[layerId] = assetLayerGroup;
+            loaded(layerId);
+            if (zoom) map.fitBounds(src.getBounds());
+        });
+    }
+
+   /*
     var src = omnivore.kml(loadUrl)
     .on('ready', function() {
         //console.log('KML loaded!');
@@ -292,23 +438,7 @@ function loadKml(layerId, geoDataSrc, proxy, zoom, markerImg, markerScale, marke
     });
     */
 
-    var src = new L.KMZ(loadUrl, {   
-        imageOverlayBoundingBoxCreatePopUp: true, 
-        imageOverlayBoundingBoxDrawOptions: {   
-            stroke: true,
-            weight: 2,
-            fillOpacity: 0.05,
-            clickable: true
-        } 
-    },'KMZ');
-    
-    src.on('loaded', function(e) { 
-        assetLayerGroup.addLayer(src);
-        assetLayerGroup.addTo(map);
-        activeLayers[layerId] = assetLayerGroup;
-        loaded(layerId);
-        if (zoom) map.fitBounds(src.getBounds());
-    });
+
 
 
 }
@@ -343,6 +473,8 @@ function loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, m
                 });
             },
             onEachFeature: function (feature, layer) {
+                if (feature.properties) {
+
                 var title, details;
 
                 if (feature.properties.title) {
@@ -370,8 +502,17 @@ function loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, m
                 } else {
                     details = '';
                 }
+                  layer.on({
+                    click: function (e) {
+                        e.preventDefault;
+                        $("#feature-header").html(title);
+                        $("#feature-content").html(details);
+                        $("#featureModal").modal("show");
+                        resize();
+                    }
+                  });
+                }
 
-                layer.bindPopup(title + '<br>' + details);
                 //console.log(feature.properties)
             }
         });
@@ -578,7 +719,7 @@ function addTree(parent/* nodes  */, lb /*target */, includeOnly) {
                           if (details.is(':visible')) $('.' + l.I + '-picker').show();
                           if (!label.hasClass('active')) label.addClass('active');
                           if (!content.hasClass('active')) content.addClass('active');
-                          if (timeline) toggleTimeline(true);
+                          //if (timeline) toggleTimeline(true);
                         }
                       });
                   },
@@ -727,7 +868,7 @@ $('.chat-title').one("click", function () {
 });
 
 $('.3d-tab').one('click', function () {
-    window.location = homeURL + 'globe/';
+    window.location = homeURL + '3D/';
 });
 
 

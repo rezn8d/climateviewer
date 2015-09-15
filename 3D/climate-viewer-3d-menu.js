@@ -2,7 +2,7 @@
 
 // Set web root url
 var homeURL = window.location.protocol + "//" + window.location.host + "/";  // production
-var baseURL = window.location.protocol + "//" + window.location.host + "/globe/";  // production
+var baseURL = window.location.protocol + "//" + window.location.host + "/3D/";  // production
 var proxyURL = 'http://climateviewer.net/netj1/proxy';  // production
 //var proxyURL = 'http://localhost:8080/proxy';  // local
 //var proxyURL = 'kmz.php';  // dev
@@ -271,7 +271,7 @@ function modMarkers(geoData, markerImg, markerScale, markerLabel) {
   var entities = geoData.entities.values; // entities = all points
   for (var i = 0; i < entities.length; i++) {
       var entity = entities[i]; // entities = single point
-    console.log('mod geojson');
+      console.log('mod geojson');
       // create marker image
       var billboard = new Cesium.BillboardGraphics();
 
@@ -284,7 +284,6 @@ function modMarkers(geoData, markerImg, markerScale, markerLabel) {
           image = 'http://climateviewer.com/gallery/cv3d.png';
       }
       billboard.image = image;
-      console.log(billboard.image);
 
       var size;
       if (markerLabel == 'usgs-eq') {
@@ -294,13 +293,46 @@ function modMarkers(geoData, markerImg, markerScale, markerLabel) {
       } else {
           size = 2;
       }
+
+      var title, details;
+
+      if (entity.properties.title) {
+          title = '<h3>' + entity.properties.title + '</h3>';
+      } else if (entity.properties.Name) {
+          title = '<h3>' + entity.properties.Name + '</h3>';
+      } else if (entity.properties.name) {
+          title = '<h3>' + entity.properties.name + '</h3>';
+      } else if (entity.properties.LICENSEE) {
+          title = '<h3>' + entity.properties.LICENSEE + '</h3>';
+      } else {
+          title = '';
+      }
+
+      if (entity.properties.mag) {
+          details = '<div>Place: ' + entity.properties.place + '<br>Magnitude: ' + entity.properties.mag + '<br><a href="' + entity.properties.url + '">Click here for more info.</a></div>';
+      } else if (entity.properties.Description) {
+          details = '<div>' + entity.properties.Description + '</div>';
+      } else if (entity.properties.description) {
+          details = '<div>' + entity.properties.description + '</div>';
+      } else if (entity.properties.desc) {
+          details = '<div>' + entity.properties.desc + '</div>';
+      } else if (entity.properties.FREQUENCY) {
+          details = '<div>FREQUENCY: ' + entity.properties.FREQUENCY + '<br>CALLSIGN: ' + entity.properties.CALLSIGN + '<br>SERVICE: ' + entity.properties.SERVICE + '<br></div>';
+      } else {
+          details = '';
+      }
+
+      entity.title = title;
+      entity.description = details;
+
+
       billboard.scale = size;
-      console.log(billboard.scale);
 
       billboard.width = 32;
       billboard.height = 32;
       billboard.scaleByDistance = defaultScaleByDistance;
       entity.billboard = billboard;
+
 
       // marker label
       if (markerLabel) {
