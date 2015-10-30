@@ -79,7 +79,7 @@ var src = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World
 */
 
 // Set web root url
-var homeURL = window.location.protocol + "//" + window.location.host + "/";
+var homeURL = window.location.protocol + "//" + window.location.host + "/mobile/";
 var proxyURL = 'http://climateviewer.net/netj1/proxy';  // production
 //var proxyURL = 'http://localhost:8080/proxy';  // local
 //var proxyURL = 'kmz.php';  // dev
@@ -355,6 +355,11 @@ function loadArcGisLayer(layerId, geoDataSrc, geoLayers) {
               return false;
 
             } else {
+                if (feature.properties.HAZARD_NAME) content.append(feature.properties.HAZARD_NAME + '<br>');
+                if (feature.properties.TYPE) content.append('Hazard Type: ' + feature.properties.TYPE + '<br>');
+                if (feature.properties['START_DATE']) content.append('Start Date:' + feature.properties["START_DATE"] + '<br>');
+                if (feature.properties['END_DATE']) content.append('End Date:' + feature.properties["END_DATE"] + '<br>');
+
                 if (feature.properties.MAGNITUDE) content.append('<h3>USGS Earthquake Alert</h3>Magnitude: ' + feature.properties.MAGNITUDE + '<br>');
                 if (feature.properties.DEPTH) content.append('Depth: ' + feature.properties.DEPTH + 'km<br>');
                 if (feature.properties.referencedate) content.append('Start Time: ' + feature.properties.referencedate + '<br>');
@@ -421,28 +426,36 @@ function loadArcGisLayer(layerId, geoDataSrc, geoLayers) {
                 if (feature.properties.maxwind) content.append('Max Wind Speed: ' + feature.properties.maxwind + ' Kts<br>');
                 if (feature.properties.url) content.append('Link: <a href="' + feature.properties.url + '" target="_blank">' + feature.properties.url + '</a><br>');
                 if (feature.properties.URL) content.append('Link: <a href="' + feature.properties.URL + '" target="_blank">' + feature.properties.URL + '</a><br>');
+                if (feature.properties["SNC_URL"]) content.append('Link: <a href="' + feature.properties["SNC_URL"] + '" target="_blank">' + feature.properties["SNC_URL"] + '</a><br>');
             }
-            /*  // Array -> HTML Table 
-                var newHTML = $.map(feature.properties, function(index, value) {
-                    if (value == 'URL' || value == 'url') {
-                        return('<strong>' + value + ':</strong> Link: <a href="' + index + '" target="_blank">' + index + '</a><br>');
-                    } else {
-                        return('<strong>' + value + ':</strong> <span>' + index + '</span>, ');
-                    }
-                });
-                $("#feature-content").html(newHTML.join(""));
-            */
-            // do Modal
+        var fContent = $("#feature-content");
             $("#feature-header").html(title);
-            $("#feature-content").html(content);
-            $("#featureModal").modal("show").modal( { 
-                onHidden: function() { 
-                  $('.null').remove();
-                } 
-              });
+            fContent.html(content);
+
+        var table = $('<table class="ui selectable inverted table"></table>').appendTo(fContent);
+        $('<thead><tr><th>Key</th><th>Value</th></tr></thead>').appendTo(table);
+        var tbody = $('<tbody></tbody>').appendTo(table);
+
+        var newHTML = $.map(feature.properties, function(index, value) {
+            $('<tr><td>' + value + '</td><td>' + index + '</td></tr>').appendTo(tbody);
+            /* if (value == 'URL' || value == 'url') {
+                return('<strong>' + value + ':</strong> Link: <a href="' + index + '" target="_blank">' + index + '</a><br>');
+            } else {
+                return('<strong>' + value + ':</strong> <span>' + index + '</span>, ');
+            } */
+        });
+
+        //fContent.append('<h4>Raw Marker Details</h4>');
+        //fContent.append(newHTML.join(""));
+
+        $("#featureModal").modal("show").modal({
+            onHidden: function() {
+              $('.null').remove();
+            }
+        });
 
       }); // end bind popup
-    
+
     baseLayerGroup.addLayer(src);
     baseLayerGroup.addTo(map);
     activeLayers[layerId] = baseLayerGroup;

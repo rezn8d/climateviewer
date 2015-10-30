@@ -23,6 +23,9 @@
 var layers = {
     I: 'Climate-Viewer',
     Live: { N: "Alerts",
+        Disasters: { N: "Disasters", icon: "warning", '>': [
+            { I: "pdc_integrated_active_hazards", T: 'arcgis-layer', G: "http://ags.pdc.org/arcgis/rest/services/global_public/pdc_integrated_active_hazards/MapServer", S: "PDC's global active hazards mapservice. Data are dynamically updated in real-time. The Pacific Disaster Center's (PDC) Integrated Active Hazards Map Service includes PDC integrated hazards. This Map Service is offered in KML, WMS and WFS formats.", U: "http://www.pdc.org/mde/services.jsp", N: "PDC Integrated Active Hazards "}
+        ]},
         Earthquake: { N: "Earthquake", icon: "rss", '>': [
             { I: "usgs-all-hour", T: 'geojson', ML: "usgs-eq", MI: "/img/icons/earthquakes.png", G: "http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson", S: "United States Geological Society (USGS) Earthquake Hazards Program", U: "http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php", N: "USGS - All Earthquakes (Last Hour)"},
             //{ I: "usgs-big-today", T: 'geojson', ML: "usgs-eq", MI: "/img/icons/earthquakes.png", G: "http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_day.geojson", S: "United States Geological Society (USGS) Earthquake Hazards Program", U: "http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php", N: "USGS - Significant Earthquakes (Today)"},

@@ -115,10 +115,12 @@ div#feature-content {
     color: #fff;
 }
 .ui.modal>.content {
-    background: #444444;
-    color: #fff;
-    overflow: auto;
-	max-height:300px;
+	background: #444444;
+	color: #fff;
+	overflow: auto;
+}
+.ui.modal.welcome>.content {
+	max-height:400px;
 }
 .ui.modal>.actions {
     background: #2c2c2c;
@@ -166,7 +168,7 @@ div.slider-group-label {
 	display:none;
 	width:100%;
 	margin:10px 0 20px;
-    background-color: #4C5C66;
+	background-color: #FFFFFF;
     box-shadow: none;
 }
 
@@ -654,8 +656,9 @@ button.ui.button.cv-button:focus span, button.ui.button.cv-button:hover span {
         right: 8px;
         left: auto;
     }
-    
-    button.ui.button.cv-button {
+
+
+	button.ui.button.cv-button {
         width: 40px !important;
         height: 40px;
         margin-bottom: 8px !important;
@@ -1762,6 +1765,10 @@ div#disqus_thread {
 
 }
 @media screen and (max-width: 570px) {
+
+	.ui.modal.welcome>.content {
+		max-height:300px;
+	}
 
 	/* ----------------- Logo ------------ */
 
