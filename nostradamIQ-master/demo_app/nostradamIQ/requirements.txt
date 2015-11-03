@@ -1,8 +1,0 @@
-gevent
-gevent-socketio
-redis
-numpy
-matplotlib
-request
-tweepy
-scikit-learn
