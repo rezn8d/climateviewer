@@ -1,0 +1,106 @@
+
+/* allow map to fill viewport */
+html, body, #map-canvas, .container-fluid
+{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+    left: 0;
+    position: absolute;
+    top: 0;
+}
+
+/* align form to right of pan control */
+#form
+{
+    /* distance from left edge of viewport */
+    left: 100px;
+
+    /* position form "absolutely" where we want it */
+    position: absolute;
+
+    /* distance from top edge of viewport */
+    top: 28px;
+}
+
+/* stylize text box */
+#q
+{
+    /* override typeahead.js's transparent background */
+    background-color: #ffffff !important;
+
+    /* text box's width */
+    width: 300px;
+}
+
+/* stylize max_events box */
+#event_markers_length
+{
+    /* override typeahead.js's transparent background */
+    background-color: #ffffff;
+
+    /* text box's width */
+    width: 80px;
+}
+
+/* stylize CSVINPPUT box */
+#CSVINPUT
+{
+    /* override typeahead.js's transparent background */
+    background-color: #ffffff;
+
+    /* text box's width */
+    width: 110px;
+}
+
+/* stylize places' labels */
+.label
+{
+    /* small, black text */
+    color: #A02000;
+    font-family: sans-serif;
+    font-size: small;
+    font-weight: bold;
+
+    /* don't let places' labels wrap onto multiple lines */
+    white-space: nowrap;
+
+}
+
+/* stylize info window */
+#info
+{
+    /* no margin around this element */
+    margin: 0;
+
+    /* should be at least this width */
+    min-width: 200px;
+    font-family: sans-serif;
+
+
+    /* allow scrollbars as needed */
+    overflow: auto;
+}
+
+/* stylize typeahead.js a la http://twitter.github.io/typeahead.js/css/examples.css */
+.tt-dropdown-menu
+{
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-top: 1px;
+    max-height: 150px;
+    overflow-y: auto;
+    padding: 6px 12px;
+    width: 300px;
+}
+.tt-suggestion.tt-cursor {
+    background-color: #0097cf;
+    color: #fff;
+    cursor: pointer;
+}
+.tt-suggestion p {
+    margin: 0;
+}

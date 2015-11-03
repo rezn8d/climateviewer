@@ -1,0 +1,9 @@
+RewriteEngine on
+
+RewriteOptions inherit
+### MAIN DEFAULTS
+Options +ExecCGI -Indexes
+DirectoryIndex index.html index.htm index.php
+DefaultLanguage en-US
+AddDefaultCharset UTF-8
+ServerSignature Off

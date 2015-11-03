@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    
+    <title>nostradamIQ - Disaster Preperation Guides and Resources</title>
+    
+    <link rel="shortcut icon" href="//nostradamiq.org/landing/img/favicon.ico?v=2" />
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="//nostradamiq.org/landing/img/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="//nostradamiq.org/landing/img/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//nostradamiq.org/landing/img/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="//nostradamiq.org/landing/img/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="//nostradamiq.org/landing/img/apple-touch-icon-60x60.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="//nostradamiq.org/landing/img/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="//nostradamiq.org/landing/img/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="//nostradamiq.org/landing/img/apple-touch-icon-152x152.png" />
+    <link rel="icon" type="image/png" href="//nostradamiq.org/landing/img/favicon-196x196.png" sizes="196x196" />
+    <link rel="icon" type="image/png" href="//nostradamiq.org/landing/img/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/png" href="//nostradamiq.org/landing/img/favicon-64x64.png" sizes="64x64" />
+    <link rel="icon" type="image/png" href="//nostradamiq.org/landing/img/favicon-48x48.png" sizes="48x48" />
+    <link rel="icon" type="image/png" href="//nostradamiq.org/landing/img/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="//nostradamiq.org/landing/img/favicon-24x24.png" sizes="24x24" />
+    <link rel="icon" type="image/png" href="//nostradamiq.org/landing/img/favicon-16x16.png" sizes="16x16" />
+    <link rel="icon" type="image/png" href="//nostradamiq.org/landing/img/favicon-128x128.png" sizes="128x128" />
+    <meta name="msapplication-square70x70logo" content="//nostradamiq.org/landing/img/mstile-70x70.png" />
+    <meta name="msapplication-square150x150logo" content="//nostradamiq.org/landing/img/mstile-150x150.png" />
+    <meta name="msapplication-wide310x150logo" content="//nostradamiq.org/landing/img/mstile-310x150.png" />
+    <meta name="msapplication-square310x310logo" content="//nostradamiq.org/landing/img/mstile-310x310.png" />
+    <meta name="application-name" content="nostradamIQ"/>
+    <meta name="msapplication-TileColor" content="#e3000b"/>
+    
+    <meta name="theme-color" content="#000000"> <!-- Chrome Adnroid -->
+    
+    <!-- Bootstrap Core CSS: --><link href="../css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS: --><link href="../css/grayscale.css" rel="stylesheet">
+    <!-- Custom Fonts: --><link href="../font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+    
+<body>
+    
+    <!-- Navigation -->
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    <i class="fa fa-bars"></i>
+                </button>
+
+                <div class="navbar-brand page-scroll">
+                <a href="//nostradamiq.org/landing/">
+                    <img src="//nostradamiq.org/landing/img/logo_nostradamiq.svg" width="180" height="50">
+                </a>
+                </div>
+            </div>
+            
+             <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                <ul class="nav navbar-nav">
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a href="//nostradamiq.org/landing/#learn">Learn about other disasters</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+    
+    <header class="intro resources-intro" id="supply-kit-intro">
+        <div class="intro-body">
+        </div>
+    </header>
+
+<section id="resources" class="container content-section text-center">
+
+<h1>Disaster Preperation Guides and Resources</h1>
+
+<p><a href="//www.ready.gov/" target="_blank">Ready.gov - Your Information Platform for US-America!</a></p>
+
+<p><a href="//www.coursera.org/learn/disaster-preparedness" target="_blank">Learn about Disaster Preperation on Coursera!</a></p>
+
+<p><a href="//www.redcross.org/prepare" target="_blank">Plan &amp; Prepare by the Red-Cross!</a></p>
+
+<p><a href="//digitahumanitarians" target="_blank">Become a Digital Humanitarian!</a></p>
+
+<p><a href="//www.cdc.gov/features/petsanddisasters/" target="_blank">Preparation Plan for Your Pet!</a></p>
+
+<p><a href="http://www.tsunamiready.noaa.gov/" target="_blank">Be Ready for a Tsunami with NOAA!</a></p>
+
+<p><a href="http://earthquake.usgs.gov/research/software/shakecast/" target="_blank">Get an Estimation of  Impact for Earthquakes in Real-Time!</a></p>
+
+<p><a href="//www.cdc.gov/disasters/" target="_blank">Center for Disease Control and Prevention has a lot of useful information as well!</a></p>
+
+<p>Preparedness, Planning, and Response for historic preservation - A Guide by <a href="//www.preservationnation.org/" target="_blank">PreservationNation.org</a></p>
+    
+<p>In dealing with the often sudden and disorienting impacts of natural disasters, effective preparation and planning are proven to pay off during response. In many cases, local communities don’t fully understand the resources they stand to lose until it is too late—structures are wiped away, details and artifacts are irreparably damaged, integrity is forever compromised. Historic preservationists have a valuable perspective to offer both in planning for disasters and in recovering from them. The information offered on the following pages is designed to help meaningfully integrate preservation practice into this work and ultimately increase the survival of historic resources.</p>
+<p>The resource guides below contain key advice for disaster preparation, and provide links to essential planning documents that can help you, your organization, or your city both prepare for and respond to natural disasters.</p>
+    
+<h3>Disaster Response Resource Guides</h3>
+<table>
+<tbody>
+<tr style="background: #ccc;">
+<td><strong>Audience</strong></td>
+<td><strong>Disaster Type</strong></td>
+<td><strong>Resource Guide</strong></td>
+</tr>
+<tr>
+<td>Homeowners, Local Governments, and Organizations</td>
+<td>All</td>
+<td><a href="//www.preservationnation.org/resources/disaster-recovery/case-for-planning.html" style="text-decoration: none;">The Case For Planning: Why Cities, Organizations &amp; Homeowners Need To Plan For Disasters</a></td>
+</tr>
+<tr>
+<td>Local Governments</td>
+<td>All</td>
+<td><a href="//www.preservationnation.org/resources/disaster-recovery/preparing-a-local-plan.html" style="text-decoration: none;">Preparation</a> | <a href="//www.preservationnation.org/resources/disaster-recovery/local-govt-response.html" style="text-decoration: none;">Response</a></td>
+</tr>
+<tr>
+<td>Homeowners</td>
+<td>All</td>
+<td><a href="//www.preservationnation.org/resources/disaster-recovery/homeowner-prep.html" style="text-decoration: none;">Preparation</a> | <a href="//www.preservationnation.org/resources/disaster-recovery/homeowner-response.html" style="text-decoration: none;">Response</a></td>
+</tr>
+<tr>
+<td>Local Preservation Organizations &amp; Main Streets</td>
+<td>All</td>
+<td><a href="//www.preservationnation.org/resources/disaster-recovery/local-orgs-prep.html" style="text-decoration: none;">Preparation</a> | <a href="//www.preservationnation.org/resources/disaster-recovery/local-orgs-response.html" style="text-decoration: none;">Response</a></td>
+</tr>
+<tr>
+<td>Businesses</td>
+<td>All</td>
+<td><a href="//www.preservationnation.org/resources/disaster-recovery/business.html" style="text-decoration: none;">Preparation &amp; Response</a></td>
+</tr>
+<tr>
+<td>Cultural Institutions</td>
+<td>All</td>
+<td><a href="//www.preservationnation.org/resources/disaster-recovery/cultural-institutions-prep.html" style="text-decoration: none;">Preparation &amp; Response</a></td>
+</tr>
+<tr>
+<td>Homeowners, Local Governments, and Organizations</td>
+<td>Fire</td>
+<td><a href="//www.preservationnation.org/resources/disaster-recovery/fire.html" style="text-decoration: none;">Preparation &amp; Response</a></td>
+</tr>
+<tr>
+<td>Homeowners, Local Governments, and Organizations</td>
+<td>Hurricanes, Tornadoes, Wind</td>
+<td><a href="//www.preservationnation.org/resources/disaster-recovery/hurricanes-prep.html" style="text-decoration: none;">Preparation &amp; Response</a></td>
+</tr>
+<tr>
+<td>Homeowners, Local Governments, and Organizations</td>
+<td>Earthquakes</td>
+<td><a href="//www.preservationnation.org/resources/disaster-recovery/earthquakes.html" style="text-decoration: none;">Preparation &amp; Response</a></td>
+</tr>
+<tr>
+<td>Homeowners, Local Governments, and Organizations</td>
+<td>Floods&nbsp;</td>
+<td><a href="//www.preservationnation.org/resources/disaster-recovery/preparing-for-floods.html" style="text-decoration: none;">Preparation</a> | <a href="//www.preservationnation.org/resources/disaster-recovery/flood-response.html" style="text-decoration: none;">Response</a></td>
+</tr>
+<tr>
+<td>Homeowners, Local Governments, and Organizations</td>
+<td>All</td>
+<td><a href="//www.preservationnation.org/resources/disaster-recovery/financial-resources.html" style="text-decoration: none;">Financial Resources For Preparation, Planning &amp; Response</a></td>
+</tr>
+<tr>
+<td>Fire Departments, Life Safety Personnel &amp; Emergency Managers</td>
+<td>All</td>
+<td><a href="//www.preservationnation.org/resources/disaster-recovery/fire-depts-life-safety-prep.html" style="text-decoration: none;">Engaging The Preservation Community In Preparation &amp; Response</a></td>
+</tr>
+</tbody>
+</table>
+
+</section>
+    <footer>
+        <div class="container text-center">
+            <!--<p>Copyright <i class="fa fa-copyright fa-fw"></i> nostradamIQ 2015</p>-->
+            <p><a href="//nostradamiq.org/terms_of_service.html">Terms of Service</a></p>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="../js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="../js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="../js/jquery.easing.min.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="../js/grayscale.js"></script>
+
+    <!-- Start of StatCounter Code for Default Guide -->
+    <script type="text/javascript">
+    var sc_project=10561949; 
+    var sc_invisible=1; 
+    var sc_security="c59c5fb3"; 
+    var scJsHost = (("https:" == document.location.protocol) ?
+    "https://secure." : "http://www.");
+    document.write("<sc"+"ript type='text/javascript' src='" +
+    scJsHost+
+    "statcounter.com/counter/counter.js'></"+"script>");
+    </script>
+    <noscript><div class="statcounter"><a title="shopify visitor
+    statistics" href="http://statcounter.com/shopify/"
+    target="_blank"><img class="statcounter"
+    src="http://c.statcounter.com/10561949/0/c59c5fb3/1/"
+    alt="shopify visitor statistics"></a></div></noscript>
+    <!-- End of StatCounter Code for Default Guide -->
+    
+</body>
+</html>

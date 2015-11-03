@@ -1,0 +1,4 @@
+redis==2.10.3
+requests==2.7.0
+tweepy==3.4.0
+datetime==4.0.1
