@@ -968,40 +968,24 @@ if (allLayers.length > 0) {
 
 function shareLink() {
     var layers = "";
-    var disabledLayers = "";
     var url = homeURL;
-    if (allLayers.length > 0) {
-        for (var i = 0; i < allLayers.length; i++) {
-            var a = allLayers[i];
-            if (!($('#' + a).hasClass('active'))) {
-                disabledLayers += a + ',';
-            }
-            else {
-                layers += a + ',';
-            }
+    var ll = $('.lbw');
+
+    ll.each(function() {
+        var X = $(this);
+        if (X.hasClass('active')) {
+            var L = X.attr('id');
+            layers += L + ',';
         }
-    }
-    else {
-        //only enable those that are enabled and ignore the disabled ones
-        var ll = $('.lbw');
-        ll.each(function () {
-            if ($(this).hasClass('active')) {
-                var L = $(this).attr('id');
-                layers += L + ',';
-            }
-        });
-    }
+    });
 
     url += 'index.html?';
 
     if (layers.length > 0)
-        layers = layers.substring(0, layers.length - 1);
+        layers = layers.substring(0, layers.length-1);
+
     url += 'layersOn=' + layers;
 
-    if (disabledLayers.length > 0) {
-        disabledLayers = disabledLayers.substring(0, disabledLayers.length - 1);
-        url += '&layersOff=' + disabledLayers;
-    }
     var shareToggle = $('.share-all-layers');
     shareToggle.attr('href', url).html(url);
 }

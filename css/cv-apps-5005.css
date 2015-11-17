@@ -713,6 +713,9 @@ div.map-layers div.folder div.folder {
 
 .tabmenu-footer.ui.cv-button-group .ui.button.cv-button i {
     font-weight: normal !important;
+	position: relative;
+	left: -6px;
+	top: 2px;
 }
 
 .ui.cv-button-group {

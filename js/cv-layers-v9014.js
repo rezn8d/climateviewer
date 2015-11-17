@@ -34,6 +34,15 @@ var layers = {
                     S: "PDC's global active hazards mapservice. Data are dynamically updated in real-time. The Pacific Disaster Center's (PDC) Integrated Active Hazards Map Service includes PDC integrated hazards. This Map Service is offered in KML, WMS and WFS formats.",
                     U: "http://www.pdc.org/mde/services.jsp",
                     N: "PDC Integrated Active Hazards "
+                },
+                {
+                    I: "ngdc_hazards",
+                    T: 'arcgis-layer',
+                    G: "http://maps.ngdc.noaa.gov/arcgis/rest/services/web_mercator/hazards/MapServer",
+                    L: '0,1,2,3,4,5,6,7,8,9,10,11',
+                    S: "Natural hazards such as earthquakes, tsunamis, and volcanoes affect both coastal and inland areas. Long-term data from these events can be used to establish the past record of natural hazard event occurrences, which is important for planning, response, and mitigation of future events. NOAA's National Centers for Environmental Information (NCEI) plays a major role in post-event data collection. The data in this archive is gathered from scientific and scholarly sources, regional and worldwide catalogs, tide gauge reports, individual event reports, and unpublished works.",
+                    U: "http://ngdc.noaa.gov/hazard/hazards.shtml",
+                    N: "Historic Disasters"
                 }
             ]
         },
@@ -2568,7 +2577,7 @@ var layers = {
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Gerhard Rohlfs' Adventures in Morocco"
                 },
-                {
+                /*{
                     P: true,
                     I: "mrm-75",
                     T: 'kml',
@@ -2576,7 +2585,7 @@ var layers = {
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Gustav Nachtigal's Sahara and Sudan Adventure (1861)"
-                },
+                }, */
                 {
                     P: true,
                     I: "mrm-76",

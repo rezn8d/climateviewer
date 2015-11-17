@@ -1,11 +1,8 @@
 "use strict";
 
 // Set web root url
-var homeURL = window.location.protocol + "//" + window.location.host + "/";  // production
-var baseURL = window.location.protocol + "//" + window.location.host + "/3D/";  // production
+var homeURL = window.location.protocol + "//" + window.location.host + "/3D/";  // production
 var proxyURL = 'http://climateviewer.net/netj1/proxy';  // production
-//var proxyURL = 'http://localhost:8080/proxy';  // local
-//var proxyURL = 'kmz.php';  // dev
 
 var activeLayers = {};
 var infoBox = $('.cesium-infoBox');
@@ -74,7 +71,7 @@ function NSlider(opt) {
             var color = entity.billboard.color;
             if (mod == 'alpha') {
               entity.billboard.color = new Cesium.Color.fromAlpha(color, sum);
-              console.log('markermod alpha ' + sum);
+              // console.log('markermod alpha ' + sum);
             }
           }
         } else {
@@ -262,14 +259,12 @@ function loadBingLayer(layerId, geoDataSrc) {
     loadSliders(src, layerId);
 }
 
-
-
 var defaultKMLEyeOffset = new Cesium.Cartesian3(0.0, 5000.0, 0.0);
 var defaultScaleByDistance = new Cesium.NearFarScalar(1, 0.5, 1, 0.3);
 var defaultTranslucency = new Cesium.NearFarScalar(1.5e2, 1, 3.0e6, 0);
 
 function loadError(layerId, geoDataSrc, error) {
-  console.log('loading ' + layerId + ' failed: ' + error);
+  // console.log('loading ' + layerId + ' failed: ' + error);
   var target = $('#' + layerId);
   $('<div class="ui card layer-sliders" style="display:block"><div class="content"><div class="ui divided list"><div class="item"><i class="circular inverted warning icon"></i><div class="content"><div class="header">Load Failed</div>Please use <a href="mailto:jim@climateviewer.com?subject=ClimateViewer 3D broken link - ' + layerId + '&amp;body=Unfortunately this ( ' + geoDataSrc + ' ) URL is not working properly due to ( ' + error + ' ), please look into it.  Sent from http://climateviewer.net/3D/">this link</a> to report this error.<br><br><strong>ERROR:</strong> ' + error + '</div></div></div></div>').appendTo(target);
     var icon = $('.' + layerId + '-load');
@@ -300,7 +295,7 @@ function modMarkers(geoData, markerImg, markerScale, markerLabel) {
   var entities = geoData.entities.values; // entities = all points
   for (var i = 0; i < entities.length; i++) {
       var entity = entities[i]; // entities = single point
-      console.log(entity);
+      // console.log(entity);
       // create marker image
       var billboard = new Cesium.BillboardGraphics();
 
@@ -394,7 +389,7 @@ function loadArcGisLayer(layerId, geoDataSrc, geoLayers, noFeatures) {
 
 
 function loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, zoom) {
-    console.log('load geojson');
+    // console.log('load geojson');
     new Cesium.GeoJsonDataSource.load(geoDataSrc).then(function (geoData) {
         modMarkers(geoData, markerImg, markerScale, markerLabel);
         viewer.dataSources.add(geoData);
@@ -730,40 +725,24 @@ if (allLayers.length > 0) {
 
 function shareLink() {
     var layers = "";
-    var disabledLayers = "";
-    var url = baseURL;
-    if (allLayers.length > 0) {
-        for (var i = 0; i < allLayers.length; i++) {
-            var a = allLayers[i];
-            if (!($('#' + a).hasClass('active'))) {
-                disabledLayers += a + ',';
-            }
-            else {
-                layers += a + ',';
-            }
+    var url = homeURL;
+    var ll = $('.lbw');
+
+    ll.each(function() {
+        var X = $(this);
+        if (X.hasClass('active')) {
+            var L = X.attr('id');
+            layers += L + ',';
         }
-    }
-    else {
-        //only enable those that are enabled and ignore the disabled ones
-        var ll = $('.lbw');
-        ll.each(function () {
-            if ($(this).hasClass('active')) {
-                var L = $(this).attr('id');
-                layers += L + ',';
-            }
-        });
-    }
+    });
 
     url += 'index.html?';
 
     if (layers.length > 0)
-        layers = layers.substring(0, layers.length - 1);
+        layers = layers.substring(0, layers.length-1);
+
     url += 'layersOn=' + layers;
 
-    if (disabledLayers.length > 0) {
-        disabledLayers = disabledLayers.substring(0, disabledLayers.length - 1);
-        url += '&layersOff=' + disabledLayers;
-    }
     var shareToggle = $('.share-all-layers');
     shareToggle.attr('href', url).html(url);
 }
