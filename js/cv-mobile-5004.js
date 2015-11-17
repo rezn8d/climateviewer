@@ -135,7 +135,7 @@ function loaded(layerId) {
 function loadError(layerId, geoDataSrc, error) {
   console.log('loading ' + layerId + ' failed: ' + error);
   var target = $('#' + layerId);
-  $('<div class="ui card layer-sliders" style="display:block"><div class="content"><div class="ui divided list"><div class="item"><i class="circular inverted warning icon"></i><div class="content"><div class="header">Load Failed</div>Please use <a href="mailto:jim@climateviewer.com?subject=Climate Viewer broken link - ' + layerId + '&amp;body=Unfortunately this ( ' + geoDataSrc + ' ) URL is not working properly due to ( ' + error + ' ), please look into it.  Sent from http://climateviewer.net/">this link</a> to report this error.<br><br><strong>ERROR:</strong> ' + error + '</div></div></div></div>').appendTo(target);
+  $('<div class="ui card layer-sliders" style="display:block"><div class="content"><div class="ui divided list"><div class="item"><i class="circular inverted warning icon"></i><div class="content"><div class="header">Load Failed</div>Please use <a href="mailto:jim@climateviewer.com?subject=ClimateViewer broken link - ' + layerId + '&amp;body=Unfortunately this ( ' + geoDataSrc + ' ) URL is not working properly due to ( ' + error + ' ), please look into it.  Sent from http://climateviewer.net/">this link</a> to report this error.<br><br><strong>ERROR:</strong> ' + error + '</div></div></div></div>').appendTo(target);
     var icon = $('.' + layerId + '-load');
     var span = $('#' + layerId + ' span');
     icon.removeClass('spinner loading').addClass('close fail');
@@ -786,8 +786,8 @@ function newFolderLabel(l, child, ic) {
 function initDetails(layerId, layerType, details, source, sourceUrl, geoDataSrc) {
     var contentWrap = $('<div class="content ' + layerId + '-content" />').appendTo(details);
     //$('<div class="header main"><i class="folder open outline info icon"></i>Details</div>').appendTo(content); 
-    var list = $('<div class="ui divided very relaxed list ' + layerId + '-list" />').appendTo(contentWrap); 
-    $('<div class="item"><i class="circular inverted info icon"></i><div class="content"><div class="header">Data Provider</div>' + source + '</div></div>').appendTo(list); 
+    var list = $('<div class="ui divided very relaxed list ' + layerId + '-list" />').appendTo(contentWrap);
+    $('<div class="item"><i class="circular inverted info icon"></i><div class="content"><div class="header">Layer Details</div>' + source + ' &bull; <a href="' + sourceUrl + '" target="_blank" rel="nofollow">More Info</a></div></div>').appendTo(list);
     if (layerType == ('kml')) {
       $('<div class="item"><i class="circular inverted download icon"></i><div class="content"><div class="header">Data Source</div>Keyhole Markup Language (KML) &bull; <a href="' + geoDataSrc + '">Download</a></div>').appendTo(list);
     }
@@ -806,7 +806,7 @@ function initDetails(layerId, layerType, details, source, sourceUrl, geoDataSrc)
     if (layerType == ('arcgis') || layerType == ('arcgis-layer')) {
       $('<div class="item '+ layerId + '-info"><i class="circular inverted file icon"></i><div class="content"><div class="header">Data Type</div>ArcGIS MapServer<br><a target="_blank" rel="nofollow" href="' + geoDataSrc + '">MapServer Information</a></div>').appendTo(list);
     }
-    $('<div class="extra content"><a href="' + homeURL + 'index.html?layersOn=' + layerId + '" class="right floated created" target="_self">Share Layer</a><a href="' + sourceUrl + '" target="_blank" rel="nofollow">More Info</a></div>').appendTo(details);
+    $('<div class="extra content"><a href="' + homeURL + 'index.html?layersOn=' + layerId + '" class="right floated created" target="_self">Share Link</a><a href="mailto:jim@climateviewer.com?subject=ClimateViewer broken link - ' + layerId + '&amp;body=Unfortunately this ( ' + geoDataSrc + ' ) URL is not working properly, please look into it. Sent from http://climateviewer.net/">Report Error</a></div>').appendTo(details);
 
       //shareLink();
   }

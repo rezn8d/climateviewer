@@ -25,7 +25,7 @@ var layers = {
     Live: {
         N: "Alerts",  icon: "warning sign",
         Disasters: {
-            N: "Disasters", icon: "warning", '>': [
+            N: "Disasters", icon: "warning circle", '>': [
                 {
                     I: "pdc_integrated_active_hazards",
                     T: 'kml',
@@ -313,10 +313,131 @@ var layers = {
                     N: "CV Reports - 2011 - 2015"
                 }
             ]
+        },
+        News: {
+            N: "Energy News", icon: "lightning", '>': [
+                {
+                    I: "CCR-Alternative-Energy",
+                    T: 'kml',
+                    P: true,
+                    G: "http://alternative.carboncapturereport.org/cgi-bin//dailyreport_kml?DATE=&r=346661585.98164&type=2",
+                    S: "This page summarizes all English-language monitored mainstream and social media coverage worldwide of Alternative Energy. For each 24 hour period (midnight-midnight CST), a complete analytical report called the Daily Report summarizes all content.",
+                    U: "http://alternative.carboncapturereport.org/cgi-bin/topic?",
+                    N: "Alternative Energy Global News"
+                },
+                {
+                    I: "CCR-Biofuels",
+                    T: 'kml',
+                    P: true,
+                    G: "http://biofuels.carboncapturereport.org/cgi-bin//dailyreport_kml?DATE=&r=111562052.54124&type=2",
+                    S: "This page summarizes all English-language monitored mainstream and social media coverage worldwide of Biofuels. For each 24 hour period (midnight-midnight CST), a complete analytical report called the Daily Report summarizes all content. ",
+                    U: "http://biofuels.carboncapturereport.org/cgi-bin/topic?",
+                    N: "Biofuels Global News"
+                },
+                {
+                    I: "CCR-Carbon-Capture-Sequestration",
+                    T: 'kml',
+                    P: true,
+                    G: "http://ccs.carboncapturereport.org/cgi-bin//dailyreport_kml?DATE=&r=1031827101.41376&type=2",
+                    S: "This page summarizes all English-language monitored mainstream and social media coverage worldwide of Carbon Capture/Carbon Sequestration. For each 24 hour period (midnight-midnight CST), a complete analytical report called the Daily Report summarizes all content.",
+                    U: "http://ccs.carboncapturereport.org/cgi-bin/topic?",
+                    N: "Carbon Capture/Carbon Sequestration Global News"
+                },
+                {
+                    I: "CCR-Carbon-Credits",
+                    T: 'kml',
+                    P: true,
+                    G: "http://carboncredits.carboncapturereport.org/cgi-bin//dailyreport_kml?DATE=&r=1188882282.95717&type=2",
+                    S: "This page summarizes all English-language monitored mainstream and social media coverage worldwide of Carbon Credits. For each 24 hour period (midnight-midnight CST), a complete analytical report called the Daily Report summarizes all content.",
+                    U: "http://carboncredits.carboncapturereport.org/cgi-bin/topic?",
+                    N: "Carbon Credits Global News"
+                },
+                {
+                    I: "CCR-Climate-Change",
+                    T: 'kml',
+                    P: true,
+                    G: "http://climatechange.carboncapturereport.org/cgi-bin//dailyreport_kml?DATE=&r=721335467.961668&type=2",
+                    S: "This page summarizes all English-language monitored mainstream and social media coverage worldwide of Climate Change. For each 24 hour period (midnight-midnight CST), a complete analytical report called the Daily Report summarizes all content.",
+                    U: "http://climatechange.carboncapturereport.org/cgi-bin/topic?",
+                    N: "Climate Change Global News"
+                },
+                {
+                    I: "CCR-Coal",
+                    T: 'kml',
+                    P: true,
+                    G: "http://coal.carboncapturereport.org/cgi-bin//dailyreport_kml?DATE=&r=784447108.648423&type=2",
+                    S: "This page summarizes all English-language monitored mainstream and social media coverage worldwide of Coal. For each 24 hour period (midnight-midnight CST), a complete analytical report called the Daily Report summarizes all content. ",
+                    U: "http://coal.carboncapturereport.org/cgi-bin/topic?",
+                    N: "Coal Global News"
+                },
+                {
+                    I: "CCR-Geothermal",
+                    T: 'kml',
+                    P: true,
+                    G: "http://geothermal.carboncapturereport.org/cgi-bin//dailyreport_kml?DATE=&r=794285841.080333&type=2",
+                    S: "This page summarizes all English-language monitored mainstream and social media coverage worldwide of Geothermal. For each 24 hour period (midnight-midnight CST), a complete analytical report called the Daily Report summarizes all content. ",
+                    U: "http://geothermal.carboncapturereport.org/cgi-bin/topic?",
+                    N: "Geothermal Global News"
+                },
+                {
+                    I: "CCR-Hydroelectric",
+                    T: 'kml',
+                    P: true,
+                    G: "http://hydro.carboncapturereport.org/cgi-bin//dailyreport_kml?DATE=&r=540767190.4721&type=2",
+                    S: "This page summarizes all English-language monitored mainstream and social media coverage worldwide of Hydroelectric. For each 24 hour period (midnight-midnight CST), a complete analytical report called the Daily Report summarizes all content. ",
+                    U: "http://hydro.carboncapturereport.org/cgi-bin/topic?",
+                    N: "Hydroelectric Global News"
+                },
+                {
+                    I: "CCR-Natural-Gas",
+                    T: 'kml',
+                    P: true,
+                    G: "http://gas.carboncapturereport.org/cgi-bin//dailyreport_kml?DATE=&r=928883228.782518&type=2",
+                    S: "This page summarizes all English-language monitored mainstream and social media coverage worldwide of Natural Gas. For each 24 hour period (midnight-midnight CST), a complete analytical report called the Daily Report summarizes all content. ",
+                    U: "http://gas.carboncapturereport.org/cgi-bin/topic?",
+                    N: "Natural Gas Global News"
+                },
+                {
+                    I: "CCR-Nuclear",
+                    T: 'kml',
+                    P: true,
+                    G: "http://nuclear.carboncapturereport.org/cgi-bin//dailyreport_kml?DATE=&r=342434193.281327&type=2",
+                    S: "This page summarizes all English-language monitored mainstream and social media coverage worldwide of Nuclear. For each 24 hour period (midnight-midnight CST), a complete analytical report called the Daily Report summarizes all content. ",
+                    U: "http://nuclear.carboncapturereport.org/cgi-bin/topic?",
+                    N: "Nuclear Global News"
+                },
+                {
+                    I: "CCR-Oil",
+                    T: 'kml',
+                    P: true,
+                    G: "http://oil.carboncapturereport.org/cgi-bin//dailyreport_kml?DATE=&r=1402798267.38011&type=2",
+                    S: "This page summarizes all English-language monitored mainstream and social media coverage worldwide of Oil. For each 24 hour period (midnight-midnight CST), a complete analytical report called the Daily Report summarizes all content. ",
+                    U: "http://oil.carboncapturereport.org/cgi-bin/topic?",
+                    N: "Oil Global News"
+                },
+                {
+                    I: "CCR-Solar",
+                    T: 'kml',
+                    P: true,
+                    G: "http://solar.carboncapturereport.org/cgi-bin//dailyreport_kml?DATE=&r=427206841.047327&type=2",
+                    S: "This page summarizes all English-language monitored mainstream and social media coverage worldwide of Solar. For each 24 hour period (midnight-midnight CST), a complete analytical report called the Daily Report summarizes all content. ",
+                    U: "http://solar.carboncapturereport.org/cgi-bin/topic?",
+                    N: "Solar Global News"
+                },
+                {
+                    I: "CCR-Wind",
+                    T: 'kml',
+                    P: true,
+                    G: "http://wind.carboncapturereport.org/cgi-bin//dailyreport_kml?DATE=&r=604425479.159762&type=2",
+                    S: "This page summarizes all English-language monitored mainstream and social media coverage worldwide of Wind. For each 24 hour period (midnight-midnight CST), a complete analytical report called the Daily Report summarizes all content. ",
+                    U: "http://wind.carboncapturereport.org/cgi-bin/topic?",
+                    N: "Wind Global News"
+                }
+            ]
         }
     },
     weather: {
-        N: "Weather", icon: "sun",
+        N: "Weather", icon: "cloud",
         alerts: {
             N: "Weather Alerts", icon: "lightning", '>': [
                 {
@@ -412,7 +533,7 @@ var layers = {
             ]
         },
         radar: {
-            N: "Weather Radar", icon: "feed", '>': [
+            N: "Weather Radar", icon: "signal", '>': [
                 {
                     X: true,
                     I: "mesonet-nexrad",
@@ -1173,9 +1294,9 @@ var layers = {
         }
     },
     pollution: {
-        N: "Pollution", icon: "life ring",
+        N: "Pollution", icon: "fire",
         fossilfuel: {
-            N: "Fossil Fuel", icon: "recycle sign", '>': [
+            N: "Fossil Fuel", icon: "plug", '>': [
                 {
                     H: true,
                     T: 'geojson',
@@ -1559,461 +1680,189 @@ var layers = {
                     N: "Region 10 - WA OR I AK"
                 }
             ]
-        },
-        geoengineering: {
-            N: "Weather Control", icon: "plane", '>': [
-                //{ I: "p04", T: 'kml', G: "/layers/kml/pollution/ETC-Group-Geoengineering-CV3D.kmz", S: "ETC Group Excel to Google Fusion Table by Jim Lee", U: "https://www.google.com/fusiontables/data?docI=1NecyRN7xjFg6TA1YnRjPrEiYtoUKV2sWJ259GjY#rows:I=1", N: "Geoengineering Projects (ETC Group)"},
-                {
-                    I: "p01",
-                    T: 'geojson',
-                    G: "/layers/geojson/weather-modification-association-projects-cv3d.geojson",
-                    MI: '/img/icons/rainy.png',
-                    S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.",
-                    U: "http://climateviewer.com/geoengineering/",
-                    N: "Weather Modification Association Projects"
-                },
-                {
-                    I: "p02",
-                    T: 'geojson',
-                    G: "/layers/geojson/noaa-weather-modification-projects-2012-cv3d.geojson",
-                    MI: '/img/icons/rainy.png',
-                    S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.",
-                    U: "http://climateviewer.com/geoengineering/",
-                    N: "NOAA 2012 Reported Activities (partial)"
-                },
-                {
-                    I: "p03",
-                    T: 'geojson',
-                    G: "/layers/geojson/ucar-eol-field-projects-cv3d.geojson",
-                    MI: '/img/icons/eol.gif',
-                    S: "National Center for Atmospheric Research (NCAR)/Earth Observing Laboratory (EOL)",
-                    U: "https://www.eol.ucar.edu/all-field-projects-and-deployments",
-                    N: "UCAR Earth Observing Lab Field Projects"
-                }
-            ]
         }
     },
-    other: {
-        N: "Other", icon: "student",
-        electromagnetic: {
-            N: "Atmospheric Sensors", icon: "rocket", '>': [
-                {
-                    I: "star-wars",
-                    T: 'geojson',
-                    G: "/layers/geojson/star-wars-radar-cv3d.geojson",
-                    MI: '/img/icons/radar-black.png',
-                    S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.",
-                    U: "http://climateviewer.com/haarp/",
-                    N: "Missile Defense Radars (Star Wars)"
-                },
-                {
-                    I: "sky-heaters",
-                    T: 'geojson',
-                    G: "/layers/geojson/ionospheric-heaters-cv3d.geojson",
-                    MI: '/img/icons/radar-red.png',
-                    S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.",
-                    U: "http://climateviewer.com/haarp/",
-                    N: "Ionospheric Heaters"
-                },
-                {
-                    I: "haarp",
-                    Z: true,
-                    T: 'geojson',
-                    G: "/layers/geojson/haarp-cv3d.geojson",
-                    MI: '/img/icons/radar-ltblue.png',
-                    S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.",
-                    U: "http://climateviewer.com/haarp/",
-                    N: "High-Frequency Active Auroral Research Project"
-                },
-                {
-                    I: "superdarn",
-                    T: 'geojson',
-                    G: "/layers/geojson/superdarn-cv3d.geojson",
-                    MI: '/img/icons/radar-yellow.png',
-                    S: '<p>Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a>.<br>The Super Dual Auroral Radar Network (SuperDARN) is an international radar network for studying the upper atmosphere and ionosphere, comprising eleven radars in the northern hemisphere and seven in the southern hemisphere that operate in the High Frequency (HF) bands between 8 and 22 MHz. The radars measure the Doppler velocity of plasma density irregularities in the ionosphere.<br><br>In their standard operating mode each radar scans through 16 beams of azimuthal separation 3.24°, with a total scan time of 1 min. Each beam is divided into 75 range gates of length 45 km, and so in each full scan the radars each cover 52° in azimuth and over 3000 km in range, an area of over 4×106 km².<br><br>SuperDARN began in 1983, when the first radar installation was constructed in Labrador, Canada. Source: <a href="http://en.wikipedia.org/wiki/Super_Dual_Auroral_Radar_Network" target="_blank">Wikipedia</a><br><a href="http://superdarn.jhuapl.edu/" target="_blank">John&#39;s Hopkins Applied Physics Lab</a><br><a href="http://sd-software.ece.vt.edu/tiki/tiki-print.php?page=VT%20SuperDARN%20Home" target="_blank">Virginia Tech SuperDARN</a><br><a href="http://cedarweb.hao.ucar.edu/wiki/index.php/Documents:Ground_Based_Instruments#B_-_Coherent_Ionospheric_Radars_.28.7E29.29" target="_blank">CEDAR: Ground Based Instruments</a><br><a href="http://articles.adsabs.harvard.edu//full/1995SSRv...71..761G/0000761.000.html" target="_blank">SuperDARN - A Global View of the Dynamics of High-Latitude Convection</a></p>',
-                    U: "http://superdarn.ece.vt.edu/tiki-index.php",
-                    N: "Super Dual Auroral Radar Network (SuperDARN)"
-                },
-                {
-                    I: "digisonde",
-                    T: 'geojson',
-                    G: "/layers/geojson/digisonde-cv3d.geojson",
-                    MI: '/img/icons/digisonde.png',
-                    S: "<p>Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.<br><a href='http://umlcar.uml.edu/stationlist.html'>Station List</a><br><br>Lowell Digisonde International manufactures and markets the Digisonde-Portable-Sounder-4D (DPS4D), the latest model in the DIGISONDE® series of advanced ionosondes built in Lowell since 1969. The Digisonde is an ionospheric radar that uses high-frequency radio waves for the remote sensing of the ionosphere, the ionosonde technology pioneered by Sir Edward Appleton in the late 1920s. DIGISONDE stands for “Digitally Integrating Goniometric IonoSONDE”. The DPS4D is the only commercially available ionosonde system that measures all parameters of the ionospherically reflected HF radio signals, and automatically calculates the local ionospheric electron density profile in real time.</p><img alt='Digisonde Network Map' src='http://www.digisonde.com/images/homepage-map.jpg' /><br><br>",
-                    U: "http://www.digisonde.com/",
-                    N: "DIGISONDE® Ionosonde Network"
-                },
-                {
-                    I: "elf-vlf",
-                    T: 'geojson',
-                    G: "/layers/geojson/elf-vlf-cv3d.geojson",
-                    MI: "/img/icons/rf-warning.png",
-                    S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.<br>Alpha RSDN-20, Beta Time Signal, LORAN-C, AWESOME VLF Network, Ground Wave Emergency Network (GWEN), and ELF transmission facilities.",
-                    U: "http://climateviewer.com/haarp/",
-                    N: "ELF and VLF Transmitters"
-                },
-                {
-                    I: "elf-vlf-ref",
-                    T: 'geojson',
-                    G: "/layers/geojson/elf-vlf-antennas-cv3d.geojson",
-                    MI: "/img/icons/antenna.png",
-                    S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.<br>Visual reference (Antennas) for the Alpha RSDN-20, Beta Time Signal, LORAN-C, AWESOME VLF Network, Ground Wave Emergency Network (GWEN), and ELF transmission facilities.",
-                    U: "http://climateviewer.com/haarp/",
-                    N: "ELF and VLF Visual Reference"
-                },
-                {
-                    I: "directed-energy",
-                    T: 'geojson',
-                    G: "/layers/geojson/xfiles-cv3d.geojson",
-                    MI: "/img/icons/laser.png",
-                    S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.",
-                    U: "http://climateviewer.com/rezn8d/",
-                    N: "Lasers and Directed-Energy"
-                },
-                {
-                    I: "nexrad",
-                    T: 'geojson',
-                    G: "/layers/geojson/radar-nexrad-cv3d.geojson",
-                    MI: "/img/icons/doppler-green.png",
-                    S: '<p>Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a>.<br><a href="http://radar.weather.gov/">radar.weather.gov</a><br><a href="http://www.roc.noaa.gov/WSR88D/About.aspx">WSR-88D Specifications</a><br><br>In 1988, the NEXRAD Agencies established the WSR-88D (Weather Surveillance Radar - 1988 Doppler) Radar Operations Center (ROC) in Norman, Oklahoma. The ROC employees come from the National Weather Service, Air Force, Navy, FAA, and support contractors. The ROC provides centralized meteorological, software, maintenance, and engineering support for all WSR-88D systems. WSR-88D systems will be modified and enhanced during their operational life to meet changing requirements, technology advances, and improved understanding of the application of these systems to real-time weather operations. The ROC also operates WSR-88D test systems for the development of hardware and software upgrades to enhance maintenance, operation, and provide new functionality.<br><br></p>',
-                    U: "http://www.roc.noaa.gov/WSR88D/Program/NetworkSites.aspx",
-                    N: "NEXRAD Doppler Radar Stations"
-                },
-                {
-                    I: "sigmet",
-                    T: 'geojson',
-                    G: "/layers/geojson/radar-sigmet-cv3d.geojson",
-                    MI: "/img/icons/doppler-green.png",
-                    S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.<br><p>The Canadian weather radar network consists of 31 weather radars spanning Canada's most populated regions. Their primary purpose is the early detection of precipitation, its motion and the threat it poses to life and property. Each has a range of 256 km (159 mi) in radius around the site to detect reflectivity, and a range of 128 km (80 mi) for detecting velocity patterns (Doppler effect).</p>",
-                    U: "http://weather.gc.ca/radar/index_e.html",
-                    N: "Canadian Sigmet Doppler Radar Stations"
-                },
-                {
-                    I: "tdwr",
-                    T: 'geojson',
-                    G: "/layers/geojson/radar-tdwr-cv3d.geojson",
-                    MI: "/img/icons/doppler-yellow.png",
-                    S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.<br>The Terminal Doppler Weather Radar (TDWR) network is a Doppler weather radar system used primarily for the detection of hazardous wind shear conditions, precipitation, and winds aloft on and near major airports situated in climates with great exposure to thunderstorms in the United States. NCEI archives the derived products (called Level III), which are in the same data format as Next Generation Weather Radar (NEXRAD) Level III. NCEI does not archive the base data (called Level II).",
-                    U: "https://www.ncdc.noaa.gov/data-access/radar-data/tdwr",
-                    N: "Terminal Doppler Weather Radar (TDWR) Stations"
-                },
-                {
-                    I: "jss",
-                    T: 'geojson',
-                    G: "/layers/geojson/radar-jss-cv3d.geojson",
-                    MI: "/img/icons/doppler-red.png",
-                    S: '<p>Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a>.<br>The JSS is a joint United States Air Force and Federal Aviation Administration system for the atmospheric air defense of North America. It replaced the Semi Automatic Ground Environment (SAGE) system in 1983.<br><br>The JSS consists of long range surveillance radars, primarily operated and maintained by the Federal Aviation Administration (FAA), but providing communication and radar data to both FAA and United States Air Force control centers.</p><h3>Air Route Surveillance Radar (ARSR)</h3><p>FAA equipment is a primarily a mixture of Long Range Air Route Surveillance Radars (ARSR) of various types, although some use legacy AN/FPS radars. They are co-located with UHF ground-air-ground (G/A/G) transmitter/receiver (GATR) facilities at many locations. Fourteen sites have VHF radios as well. The GATR facility provides radio access to fighters and Airborne early warning and control (AEW&C) aircraft from the SOCCs. The JSS has been enhanced under the FAA/Air Force Radar Replacement Program with 44 ARSR-4/FPS-130 radars to replace some of the many previous long-range radars. This provides common, high-performance, unattended radars. The ARSR-4/FPS-130 is a 3-D long range radar with an effective detection range of some 250 miles and has been fully integrated with JSS at all joint use sites.<br /><br />These radars are generally unattended except for periodic FAA maintenance crews which visit the sites as necessary.<br>Source: <a href="http://en.wikipedia.org/wiki/Joint_Surveillance_System">Joint Surveillance System Wikipedia</a><br><a href="https://www.fas.org/nuke/guide/usa/airdef/arsr-4.htm">ARSR-4 Reference FAS.org</a></p>',
-                    U: "http://climateviewer.com/rezn8d/",
-                    N: "Joint Surveillance System (JSS), FAA Long-range Radar"
-                },
-                {
-                    I: "ioos",
-                    T: 'geojson',
-                    G: "/layers/geojson/radar-ioos-cv3d.geojson",
-                    MI: "/img/icons/doppler-blue.png",
-                    S: 'Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a>.<br><p>High frequency (HF) radar systems measure the speed and direction of ocean surface currents in near real time. Currents in the ocean are equivalent to winds in the atmosphere because they move things from one location to another. These currents carry nutrients as well as pollutants, so it is important to know the currents for ecological and economic reasons. The currents carry any floating object, which is why U.S. Coast Guard search and rescue operators use HF radar data to make critical decisions when rescuing disabled vessels and people stranded in the water.</p><p>These radars can measure currents over a large region of the coastal ocean, from a few kilometers offshore up to 200 km, and can operate under any weather conditions. They are located near the water’s edge, and need not be situated atop a high point of land.  Traditionally, crews placed current measuring devices directly into the water to retrieve current speeds.  While these direct measurement systems are still widely used as a standard reference, HF radars are the only sensors that can measure large areas at once with the detail required for the important applications described here.  Not even satellites have this capability.</p>',
-                    U: "http://www.ioos.noaa.gov/hfradar/welcome.html",
-                    N: "Integrated Ocean Observing System (IOOS) Radar"
-                },
-                {
-                    I: "npn-wind-radar",
-                    T: 'geojson',
-                    G: "/layers/geojson/npn-wind-radar-cv3d.geojson",
-                    MI: "/img/icons/radar-pink.png",
-                    S: "<p>Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.<br>Wind profilers are specifically designed to measure vertical profiles of horizontal wind speed and direction from near the surface to above the tropopause. Data from this network are distributed in real-time to government and university atmospheric researchers, private meteorologists, the National Centers for Environmental Prediction, the Storm Prediction Center, all National Weather Service (NWS) Forecast Offices, and foreign agencies responsible for weather prediction.</p>",
-                    U: "http://www.profiler.noaa.gov/npn/npnSiteLocationsAsText.jsp",
-                    N: "NOAA Profiler Network (NPN) Wind Radar"
-                },
-                {
-                    I: "madis-wind-radar",
-                    T: 'geojson',
-                    G: "/layers/geojson/madis-cap-wind-radar-cv3d.geojson",
-                    MI: "/img/icons/radar-purple.png",
-                    S: "<p>Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.<br>Cooperative Agency Profilers (CAP) is a cooperative venture between GSD (formerly FSL) and many participating agencies enabling GSD to; acquire profiler and RASS data in near real-time, apply GSD's data quality control algorithms, and make these value-added data available on the web and to the National Weather Service. At this time, data from approximately 100 CAP sites from over 35 different agencies from around the world are being acquired by GSD. The majority of CAP systems are 915 MHz Boundary Layer Profilers, there are also several 449 MHz and 50 MHz profilers in the CAP network.</p>",
-                    U: "https://madis-data.noaa.gov/cap/",
-                    N: "MADIS CAP Wind Radar"
-                },
-                {
-                    I: "aeronet",
-                    T: 'geojson',
-                    G: "/layers/geojson/aeronet-cv3d.geojson",
-                    MI: "/img/icons/nasa.png",
-                    S: "<p>Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.<br>The AERONET (AErosol RObotic NETwork) program is a federation of ground-based remote sensing aerosol networks established by NASA and PHOTONS (Univ. of Lille 1, CNES, and CNRS-INSU) and is greatly expanded by collaborators from national agencies, institutes, universities, individual scientists, and partners. The program provides a long-term, continuous and readily accessible public domain database of aerosol optical, microphysical and radiative properties for aerosol research and characterization, validation of satellite retrievals, and synergism with other databases. The network imposes standardization of instruments, calibration, processing and distribution.</p>",
-                    U: "http://aeronet.gsfc.nasa.gov/",
-                    N: "AERONET (AErosol RObotic NETwork)"
-                },
-                {
-                    I: "bsrn",
-                    T: 'geojson',
-                    G: "/layers/geojson/bsrn-cv3d.geojson",
-                    MI: "/img/icons/partly_cloudy.png",
-                    S: "<p>Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.<br>It is believed that the radiation budget of the Earth-atmosphere system plays a fundamental role in determining the thermal conditions and the circulation of the atmosphere and the ocean, shaping the main characteristics of the Earth's climate. The irradiances at the Earth's surface are especially important in understanding the climate processes, since the Earth's surface transforms approximately 60% of the solar radiation absorbed by the planet. These irradiances also occupy an important position in the ocean surface energy budget, ultimately influencing the major features of ocean currents.</p><p>While a small change in irradiance at the Earth's surface may cause a profound change in climate, the existing radiometric network is not capable of arriving at the required accuracy for climate research. In fact our present understanding of the radiation distribution both - horizontally and vertically - is not sufficient to understand the present climate. The simulation of the past and future climate changes, which would be induced by the change in radiation, is even more uncertain.</p><p>This was the background for the World Climate Research Programme (WCRP) Radiative Fluxes Working Group to initiate a new Baseline Surface Radiation Network (BSRN) to support the research projects of the WCRP and other scientific programs. Some years later the BSRN incorporated into the WCRP Global Energy and Water Cycle Experiment (GEWEX) Radiation Panel.</p>",
-                    U: "http://www.bsrn.awi.de/",
-                    N: "Baseline Surface Radiation Network (BSRN)"
-                },
-                {
-                    I: "esrl",
-                    T: 'geojson',
-                    G: "/layers/geojson/esrl-cv3d.geojson",
-                    MI: "/img/icons/noaa.gif",
-                    S: "<p>Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.<br>NOAA Earth Systems Research Lab (ESRL). ESRL was formed to pursue a broad and comprehensive understanding of the Earth system. This system comprises many physical, chemical and biological processes that need to be dynamically integrated to better predict their behavior over scales from local to global and periods of minutes to millennia.</p>",
-                    U: "http://www.esrl.noaa.gov/psd/data/obs/sites/",
-                    N: "Earth Systems Research Lab (ESRL) Instruments"
-                },
-                {
-                    I: "doris",
-                    T: 'geojson',
-                    G: "/layers/geojson/doris-cv3d.geojson",
-                    MI: "/img/icons/ids.png",
-                    S: "<p>Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.<br>DORIS is a Doppler satellite tracking system developped for precise orbit determination and precise ground location. It is onboard the Cryosat-2, Jason-1, Jason-2, ENVISAT and HY-2A altimetric satellites and the remote sensing satellites SPOT-4 and SPOT-5. It also flew with SPOT-2, SPOT-3 and TOPEX/POSEIDON.</p><p>IDS is an international service which provides a support, through DORIS data and products, to geodetic, geophysical, and other research and operational activities. New proposals for Analysis Centers and temporary or permanent DORIS stations are welcome.</p>",
-                    U: "http://Is-doris.org/network/googleearth.html",
-                    N: "DORIS (Doppler Orbitography and Radiopositioning Integrated by Satellite)"
-                },
-                {
-                    I: "f16",
-                    T: 'geojson',
-                    G: "/layers/geojson/atmospheric-observatories-cv3d.geojson",
-                    MI: "/img/icons/radar-dish.png",
-                    S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.",
-                    U: "http://climateviewer.com/rezn8d/",
-                    N: "Other Radars, Observatories, Telescope Arrays, Satellite Communications"
-                }
-            ]
-        },
-        FCC: {
-            N: "FCC Database 2012 (USA)", H: true, icon: "signal", '>': [
-                    {
-                    H: true,
-                    I: "f17",
-                    T: 'geojson',
-                    G: "/layers/geojson/FCC-cell-towers-2012-cv3d.geojson",
-                    MI: "/img/icons/radioz.png",
-                    S: "Federal Communications Commission (FCC) Licensing Database Extracts. Cellular (zip) (06-14-2012) .SHP file to GeoJSON conversion by Jim Lee",
-                    U: "http://web.archive.org/web/20140522193524/http://wireless.fcc.gov/geographic/index.htm?job=licensing_database_extracts",
-                    N: "Cell Phone Towers (USA FCC)"
-                },
-                {
-                    H: true,
-                    I: "f24",
-                    T: 'geojson',
-                    G: "/layers/geojson/FCC-paging-towers-2012-cv3d.geojson",
-                    MI: "/img/icons/radioz.png",
-                    S: "Federal Communications Commission (FCC) Licensing Database Extracts. Paging (zip) (06-14-2012) .SHP file to GeoJSON conversion by Jim Lee",
-                    U: "http://web.archive.org/web/20140522193524/http://wireless.fcc.gov/geographic/index.htm?job=licensing_database_extracts",
-                    N: "Paging Towers (USA FCC)"
-                },
-                {
-                    H: true,
-                    I: "f18",
-                    T: 'geojson',
-                    G: "/layers/geojson/FCC-AM-radio-2012-cv3d.geojson",
-                    MI: "/img/icons/radioz.png",
-                    S: "Federal Communications Commission (FCC) Licensing Database Extracts. AM (zip) (06-14-2012) .SHP file to GeoJSON conversion by Jim Lee",
-                    U: "http://web.archive.org/web/20140522193524/http://wireless.fcc.gov/geographic/index.htm?job=licensing_database_extracts",
-                    N: "AM Radio (USA FCC)"
-                },
-                {
-                    H: true,
-                    I: "f19",
-                    T: 'geojson',
-                    G: "/layers/geojson/FCC-FM-radio-2012-cv3d.geojson",
-                    MI: "/img/icons/radioz.png",
-                    S: "Federal Communications Commission (FCC) Licensing Database Extracts. FM (zip) (06-14-2012) .SHP file to GeoJSON conversion by Jim Lee",
-                    U: "http://web.archive.org/web/20140522193524/http://wireless.fcc.gov/geographic/index.htm?job=licensing_database_extracts",
-                    N: "FM Radio (USA FCC)"
-                },
-                {
-                    H: true,
-                    I: "f20",
-                    T: 'geojson',
-                    G: "/layers/geojson/FCC-Digital-TV-2012-cv3d.geojson",
-                    MI: "/img/icons/radioz.png",
-                    S: "Federal Communications Commission (FCC) Licensing Database Extracts. TV - Digital (zip) (06-14-2012) .SHP file to GeoJSON conversion by Jim Lee",
-                    U: "http://web.archive.org/web/20140522193524/http://wireless.fcc.gov/geographic/index.htm?job=licensing_database_extracts",
-                    N: "Digital Television (USA FCC)"
-                },
-                {
-                    H: true,
-                    I: "f21",
-                    T: 'geojson',
-                    G: "/layers/geojson/FCC-NTSC-TV-2012-cv3d.geojson",
-                    MI: "/img/icons/radioz.png",
-                    S: "Federal Communications Commission (FCC) Licensing Database Extracts. TV - NTSC (zip) (06-14-2012) .SHP file to GeoJSON conversion by Jim Lee",
-                    U: "http://web.archive.org/web/20140522193524/http://wireless.fcc.gov/geographic/index.htm?job=licensing_database_extracts",
-                    N: "NTSC Television (USA FCC)"
-                },
-                {
-                    H: true,
-                    I: "f22",
-                    T: 'geojson',
-                    G: "/layers/geojson/FCC-LM-broadcast-2012-cv3d.geojson",
-                    MI: "/img/icons/radioz.png",
-                    S: "Federal Communications Commission (FCC) Licensing Database Extracts. Land Mobile - Broadcast (zip) (06-14-2012) .SHP file to GeoJSON conversion by Jim Lee",
-                    U: "http://web.archive.org/web/20140522193524/http://wireless.fcc.gov/geographic/index.htm?job=licensing_database_extracts",
-                    N: "Land Mobile Broadcast (USA FCC)"
-                },
-                {
-                    H: true,
-                    I: "f23",
-                    T: 'geojson',
-                    G: "/layers/geojson/FCC-BRS-EBS-2012-cv3d.geojson",
-                    MI: "/img/icons/radioz.png",
-                    S: "Federal Communications Commission (FCC) Licensing Database Extracts. BRS/EBS (zip) (06-14-2012) .SHP file to GeoJSON conversion by Jim Lee",
-                    U: "http://web.archive.org/web/20140522193524/http://wireless.fcc.gov/geographic/index.htm?job=licensing_database_extracts",
-                    N: "Educational Broadcast (BRS/EBS) (USA FCC)"
-                }
-            ]
-        },
-        flight: {
-            N: "Flight", icon: "plane", '>': [
-                {
-                    I: "us_runways",
-                    T: 'wms',
-                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
-                    L: "us_runways",
-                    S: "NOAA Ocean Service's nowCOAST's Map Services - Locations/Footprints of U.S. Airport Runways",
-                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
-                    N: "U.S. Airport Runways"
-                },
-                {
-                    I: "artcc",
-                    T: 'wms',
-                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
-                    L: "artcc",
-                    S: "NOAA Ocean Service's nowCOAST's Map Services - Air Route Traffic Control Centers - Areas of Responsibility",
-                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
-                    N: "Air Route Traffic Control Center Boundaries"
-                }
-            ]
-        },
-        boats: {
-            N: "Marine Traffic", icon: "anchor", '>': [
-                {
-                    P: true,
-                    I: "kml-noaabuoy",
-                    T: 'kml',
-                    G: "http://www.ndbc.noaa.gov/kml/marineobs_as_kml.php?sort=owner",
-                    S: "National Oceanic and Atmospheric Administration (NOAA) National Data Buoy Center",
-                    U: "http://www.ndbc.noaa.gov/",
-                    N: "NOAA Buoy Tracker"
-                },
-                {
-                    P: true,
-                    I: "kml-noaaship",
-                    T: 'kml',
-                    G: "http://egisws02.nos.noaa.gov/shiptracker/kml/All_Ships_CL.kmz",
-                    S: "National Oceanic and Atmospheric Administration (NOAA)",
-                    U: "http://egisws02.nos.noaa.gov/shiptracker/",
-                    N: "NOAA Ship Tracker"
-                }
-            ]
-        },
-        geographic: {
-            N: "Geographic", icon: "info sign", '>': [
-                {
-                    I: "pyramids",
-                    T: 'kml',
-                    G: "/layers/kml/3rdparty/other/Pyramids-FR-CV3D.kmz",
-                    S: "based on the film &quot;Revelations of the PyramIs&quot;",
-                    U: "http://www.youtube.com/watch?v=GhC6lhAD4xY",
-                    N: "Pyramids of the World"
-                },
-                {
-                    I: "world_rivers",
-                    T: 'wms',
-                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
-                    L: "world_rivers",
-                    S: "NOAA Ocean Service's nowCOAST's Map Services",
-                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
-                    N: "World Rivers"
-                },
-                {
-                    I: "world_lakes",
-                    T: 'wms',
-                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
-                    L: "world_lakes",
-                    S: "NOAA Ocean Service's nowCOAST's Map Services",
-                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
-                    N: "World Lakes"
-                },
-                {
-                    I: "great_lakes",
-                    T: 'wms',
-                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
-                    L: "great_lakes",
-                    S: "NOAA Ocean Service's nowCOAST's Map Services",
-                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
-                    N: "World Great Lakes"
-                },
-                {
-                    I: "rivers",
-                    T: 'wms',
-                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
-                    L: "rivers",
-                    S: "NOAA Ocean Service's nowCOAST's Map Services",
-                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
-                    N: "U.S. Rivers"
-                },
-                {
-                    I: "lakes",
-                    T: 'wms',
-                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
-                    L: "lakes",
-                    S: "NOAA Ocean Service's nowCOAST's Map Services",
-                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
-                    N: "U.S. Lakes"
-                },
-                {
-                    I: "watersheds",
-                    T: 'wms',
-                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
-                    L: "watersheds",
-                    S: "NOAA Ocean Service's nowCOAST's Map Services",
-                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
-                    N: "U.S. Watershed Boundaries"
-                }
-            ]
-        },
-        economic: {
-            N: "Economic", icon: "money", '>': [
-                {
-                    I: "native-american1",
-                    Z: true,
-                    T: 'kml',
-                    G: "/layers/kml/3rdparty/other/Indian-Lands.kmz",
-                    S: "This map layer shows Indian lands of the United States. Only areas of 640 acres or more are included. Federally-administered lands within a reservation are included for continuity; these may or may not be consIered part of the reservation and are simply described with their feature type and the administrating Federal agency. This is an updated version of the December 2005 map layer.",
-                    U: "http://nationalatlas.gov/atlasftp.html#indlanp",
-                    N: "Native American Lands 2005"
-                },
-                {
-                    I: "urban_areas_fill",
-                    T: 'wms',
-                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
-                    L: "urban_areas_fill",
-                    S: "NOAA Ocean Service's nowCOAST's Map Services - U.S. Urban Area Boundaries (color-filled polygons)",
-                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
-                    N: "U.S. Urban Areas"
-                },
-                {
-                    I: "eez",
-                    T: 'wms',
-                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
-                    L: "eez",
-                    S: "NOAA Ocean Service's nowCOAST's Map Services",
-                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
-                    N: "U.S. Exclusive Economic Zone Boundaries"
-                },
-                {
-                    I: "world_countries",
-                    T: 'wms',
-                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
-                    L: "world_countries",
-                    S: "NOAA Ocean Service's nowCOAST's Map Services",
-                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
-                    N: "World Country Boundaries"
-                }
-            ]
-        }
+    WXMOD: {
+        N: "Geoengineering", icon: "plane", '>': [
+            {
+                I: "p01",
+                T: 'geojson',
+                G: "/layers/geojson/weather-modification-association-projects-cv3d.geojson",
+                MI: '/img/icons/rainy.png',
+                S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.",
+                U: "http://climateviewer.com/geoengineering/",
+                N: "Weather Modification Association Projects (Worldwide)"
+            },
+            {
+                I: "p03",
+                T: 'geojson',
+                G: "/layers/geojson/ucar-eol-field-projects-cv3d.geojson",
+                MI: '/img/icons/eol.gif',
+                S: "National Center for Atmospheric Research (NCAR)/Earth Observing Laboratory (EOL)",
+                U: "https://www.eol.ucar.edu/all-field-projects-and-deployments",
+                N: "UCAR Earth Observing Lab Field Projects (Worldwide)"
+            },
+            {
+                I: "wxmod-WWMPP",
+                T: 'kml',
+                Z: true,
+                P: true,
+                G: "http://climateviewer.net/layers/kml/weather/Wyoming-Weather-Modification-Pilot-Program-WWMPP-Generators-CV3D.kmz",
+                S: 'Source: <a href="http://wwdc.state.wy.us/weathermod/WYWeatherModPilotProgramExecSummary.html">http://wwdc.state.wy.us/weathermod/WYWeatherModPilotProgramExecSummary.html</a><br>Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a><br><h3>More Information</h3><a href="http://climateviewer.com/2014/12/29/cloud-seeding-gambling-weather/" target="_blank">Cloud Seeding: Gambling With Your Weather</a><br><a href="http://www.livescience.com/49263-cloud-seeding-experiment-debate.html" target="_blank">Biggest Cloud-Seeding Experiment Yet Only Sparks More Debate</a><br><a href="https://www.ral.ucar.edu/projects/wyoming/" target="_blank">https://www.ral.ucar.edu/projects/wyoming/</a><br><a href="http://wwdc.state.wy.us/weathermod/WYWeatherModPilotProgramExecSummary.html" target="_blank">http://wwdc.state.wy.us/weathermod/WYWeatherModPilotProgramExecSummary.html</a><br><a href="https://www.wmo.int/pages/prog/arep/wwrp/new/documents/ANL.Breed_USA_paper2.pdf" target="_blank">https://www.wmo.int/pages/prog/arep/wwrp/new/documents/ANL.Breed_USA_paper2.pdf</a><br><a href="http://www.weathermodification.org/Fargo%20Presentations/BreedWWMPP2015.pdf" target="_blank">http://www.weathermodification.org/Fargo%20Presentations/BreedWWMPP2015.pdf</a><br><a href="http://www.weathermodification.com/projects.php?id=64" target="_blank">http://www.weathermodification.com/projects.php?id=64</a><br><a href="https://ams.confex.com/ams/pdfpapers/139288.pdf" target="_blank">https://ams.confex.com/ams/pdfpapers/139288.pdf</a><br><h3>Reference</h3><img src="http://climateviewer.net/layers/kml/weather/Wind-River-Range-Wyoming-Weather-Modification-Pilot-Program.jpg" /><br><br><img src="http://climateviewer.net/layers/kml/weather/Sierra-Madre-Wyoming-Weather-Modification-Pilot-Program.jpg" /><br><br><img src="http://climateviewer.net/layers/kml/weather/idaho-power-ground-based-cloud-seeding-station-schematic-2010.png" />',
+                U: "http://climateviewer.com/geoengineering/",
+                N: "Wyoming Weather Modification Pilot Program (Generators)"
+            },
+            {
+                I: "wxmod-WWMPP-ref",
+                T: 'kml',
+                Z: true,
+                P: true,
+                G: "http://climateviewer.net/layers/kml/weather/Wyoming-Weather-Modification-Pilot-Program-WWMPP-Reference-CV3D.kmz",
+                S: 'Source: <a href="http://wwdc.state.wy.us/weathermod/WYWeatherModPilotProgramExecSummary.html">http://wwdc.state.wy.us/weathermod/WYWeatherModPilotProgramExecSummary.html</a><br>Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a><br><h3>More Information</h3><a href="http://climateviewer.com/2014/12/29/cloud-seeding-gambling-weather/" target="_blank">Cloud Seeding: Gambling With Your Weather</a><br><a href="http://www.livescience.com/49263-cloud-seeding-experiment-debate.html" target="_blank">Biggest Cloud-Seeding Experiment Yet Only Sparks More Debate</a><br><a href="https://www.ral.ucar.edu/projects/wyoming/" target="_blank">https://www.ral.ucar.edu/projects/wyoming/</a><br><a href="http://wwdc.state.wy.us/weathermod/WYWeatherModPilotProgramExecSummary.html" target="_blank">http://wwdc.state.wy.us/weathermod/WYWeatherModPilotProgramExecSummary.html</a><br><a href="https://www.wmo.int/pages/prog/arep/wwrp/new/documents/ANL.Breed_USA_paper2.pdf" target="_blank">https://www.wmo.int/pages/prog/arep/wwrp/new/documents/ANL.Breed_USA_paper2.pdf</a><br><a href="http://www.weathermodification.org/Fargo%20Presentations/BreedWWMPP2015.pdf" target="_blank">http://www.weathermodification.org/Fargo%20Presentations/BreedWWMPP2015.pdf</a><br><a href="http://www.weathermodification.com/projects.php?id=64" target="_blank">http://www.weathermodification.com/projects.php?id=64</a><br><a href="https://ams.confex.com/ams/pdfpapers/139288.pdf" target="_blank">https://ams.confex.com/ams/pdfpapers/139288.pdf</a><br><h3>Reference</h3><img src="http://climateviewer.net/layers/kml/weather/Wind-River-Range-Wyoming-Weather-Modification-Pilot-Program.jpg" /><br><br><img src="http://climateviewer.net/layers/kml/weather/Sierra-Madre-Wyoming-Weather-Modification-Pilot-Program.jpg" /><br><br><img src="http://climateviewer.net/layers/kml/weather/idaho-power-ground-based-cloud-seeding-station-schematic-2010.png" />',
+                U: "http://climateviewer.com/geoengineering/",
+                N: "Wyoming Weather Modification Pilot Program (Reference)"
+            },
+            {
+                I: "wxmod-ccrmp",
+                T: 'kml',
+                Z: true,
+                P: true,
+                G: "http://climateviewer.net/layers/kml/weather/Central-Colorado-Rocky-Mountain-Cloud-Seeding-Program-Generators.kmz",
+                S: 'Source: <a href="http://cwcb.state.co.us/water-management/water-projects-programs/Documents/WeatherModification/DWagenda_materials.pdf">"Weather Modification Permit Application Public Hearing for Western Weather Consultants Target Area Upper Colorado River Basin," Colorado Water Conservation Board, Department of Natural Resources</a><br>Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a><br><br><img src="http://climateviewer.net/layers/kml/weather/Central-Colorado-Rocky-Mountain-Program-Cloud-Seeding.jpg" /><br><br><img src="http://climateviewer.net/layers/kml/weather/idaho-power-ground-based-cloud-seeding-station-schematic-2010.png" />',
+                U: "http://climateviewer.com/geoengineering/",
+                N: "Central Colorado Rocky Mountain Program (Generators)"
+            },
+            {
+                I: "wxmod-ccrmp-ref",
+                T: 'kml',
+                Z: true,
+                G: "http://climateviewer.net/layers/kml/weather/Central-Colorado-Rocky-Mountain-Cloud-Seeding-Program-Image.kmz",
+                S: 'Source: <a href="http://cwcb.state.co.us/water-management/water-projects-programs/Documents/WeatherModification/DWagenda_materials.pdf">"Weather Modification Permit Application Public Hearing for Western Weather Consultants Target Area Upper Colorado River Basin," Colorado Water Conservation Board, Department of Natural Resources</a><br>Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a><br><br><img src="http://climateviewer.net/layers/kml/weather/Central-Colorado-Rocky-Mountain-Program-Cloud-Seeding.jpg" /><br><br><img src="http://climateviewer.net/layers/kml/weather/idaho-power-ground-based-cloud-seeding-station-schematic-2010.png" />',
+                U: "http://climateviewer.com/geoengineering/",
+                N: "Central Colorado Rocky Mountain Program (Reference)"
+            },
+            {
+                I: "wxmod-grand-mesa",
+                T: 'kml',
+                Z: true,
+                P: true,
+                G: "http://climateviewer.net/layers/kml/weather/Grand-Mesa-Weather-Modification-Cloud-Seeding-Generators-CV3D.kmz",
+                S: 'Source: <a href="http://cwcb.state.co.us/water-management/water-projects-programs/Documents/WeatherModification/PermitAreas/GrandMesaTargetAreas.pdf">http://cwcb.state.co.us/water-management/water-projects-programs/Documents/WeatherModification/PermitAreas/GrandMesaTargetAreas.pdf</a><br>Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a><br><br><img src="http://climateviewer.net/layers/kml/weather/Grand-Mesa-Colorado-Cloud-Seeding-Sites.jpg" /><br><br><img src="http://climateviewer.net/layers/kml/weather/idaho-power-ground-based-cloud-seeding-station-schematic-2010.png" />',
+                U: "http://climateviewer.com/geoengineering/",
+                N: "Grand Mesa Colorado Cloud-Seeding (Generators)"
+            },
+            {
+                I: "wxmod-humboldt",
+                T: 'kml',
+                Z: true,
+                P: true,
+                G: "http://climateviewer.net/layers/kml/weather/Humboldt-River-Basin-Cloud-Seeding-Generators-CV3D.kmz",
+                S: 'Source: <a href="http://drought.nv.gov/uploadedFiles/droughtnvgov/Content/Meetings/2015/HumboldtRiverBasinCloudSeedingDocument.pdf">PRELIMINARY FEASIBILITY STUDY AND COST ESTIMATES OF POSSIBLE WINTER CLOUD SEEDING IN THE HUMBOLDT RIVER BASIN, NEVADA. August 2014</a><br>Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a><h3>Reference</h3><img src="http://climateviewer.net/layers/kml/weather/Humboldt-River-Basin-Nevada-Cloud-Seeding-Generators.jpg" /><br><br><img src="http://climateviewer.net/layers/kml/weather/idaho-power-ground-based-cloud-seeding-station-schematic-2010.png" />',
+                U: "http://climateviewer.com/geoengineering/",
+                N: "Humboldt River Basin Cloud-Seeding (Generators)"
+            },
+            {
+                I: "wxmod-carson-walker",
+                T: 'kml',
+                Z: true,
+                P: true,
+                G: "http://climateviewer.net/layers/kml/weather/Carson-Walker-Basin-Cloud-Seeding-Generators-CV3D.kmz",
+                S: 'Source: <a href="http://www.dri.edu/images/stories/news/media_kits/DRI_Cloud_Seeding_Program_2014-2.pdf">Desert Research Institute, Weather Modification Brochure</a><br>Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a><br><h3>Reference</h3><img src="http://climateviewer.net/layers/kml/weather/Desert-Research-Institute-cloud-seeding-generators.jpg" /><br><br><img src="http://climateviewer.net/layers/kml/weather/idaho-power-ground-based-cloud-seeding-station-schematic-2010.png" />',
+                U: "http://climateviewer.com/geoengineering/",
+                N: "Carson-Walker Basin Cloud-Seeding (Generators)"
+            },
+            {
+                I: "wxmod-idaho-power",
+                T: 'kml',
+                Z: true,
+                P: true,
+                G: "http://climateviewer.net/layers/kml/weather/Idaho-Power-Cloud-Seeding-Project-Generators-CV3D.kmz",
+                S: 'Source: <a href="http://www.idwr.idaho.gov/WaterBoard/WaterPlanning/CAMP/TV_CAMP/PDF/2010/09-29-2010_IdahoPower_Cloud_Seeding_Program.pdf">Shaun Parkinson, PhD, PE, "Idaho Power Company’s Cloud Seeding Program"</a><br> Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a><br><br><img src="http://climateviewer.net/layers/kml/weather/idaho-power-ground-based-cloud-seeding-stations-2010.jpg" /><br><br><img src="http://climateviewer.net/layers/kml/weather/idaho-power-ground-based-cloud-seeding-station-schematic-2010.png" />',
+                U: "http://climateviewer.com/geoengineering/",
+                N: "Idaho Power Company Cloud-Seeding (Generators)"
+            },
+            {
+                I: "wxmod2012",
+                T: 'kml',
+                P: 'true',
+                G: "http://climateviewer.net/layers/kml/weather/NOAA-Reported-Weather-Modifications-Activities-2012-CV3D.kml",
+                S: "Created by <a href='http://stilltheman2.wix.com/myreadingmapped'>George Stiller</a> and <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>. Source: <a href='http://climateviewer.net/layers/kml/weather/2012-noaa-weather-modification-programs-12wxmod5-partial.pdf'>NOAA 2012 (partial) Report</a> converted to <a href='https://www.google.com/fusiontables/DataSource?docid=1XgB7-IKoX7y2tkmmU0zSED1TlBsa3WDaOL6py4zk'>Google Fusion Tables</a><br><br>This map plots those weather modifications for rain and snow augmentation and fog and hail suppression reported by NOAA for the years 2004 through 2012 west of the Mississippi River. The locations were identified by researching the sponsoring organization and the project name. However, due to the lack of specific data, the placemarks represent only the general region covered by the sponsor and do not reflect the actual path of the cloud-seeding.",
+                U: "http://climateviewer.com/geoengineering/",
+                N: "NOAA Reported Weather Modification Activities (2012)"
+            },
+            {
+                I: "wxmod2011",
+                T: 'kml',
+                P: 'true',
+                G: "http://climateviewer.net/layers/kml/weather/NOAA-Reported-Weather-Modifications-Activities-2011-CV3D.kml",
+                S: "Created by <a href='http://stilltheman2.wix.com/myreadingmapped'>George Stiller</a> and <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>. Source: <a href='http://climateviewer.net/layers/kml/weather/2011-noaa-weather-modification-programs-11wxmod5-partial.pdf'>NOAA 2011 Report</a> converted to <a href='https://www.google.com/fusiontables/DataSource?docid=1XgB7-IKoX7y2tkmmU0zSED1TlBsa3WDaOL6py4zk'>Google Fusion Tables</a><br><br>This map plots those weather modifications for rain and snow augmentation and fog and hail suppression reported by NOAA for the years 2004 through 2012 west of the Mississippi River. The locations were identified by researching the sponsoring organization and the project name. However, due to the lack of specific data, the placemarks represent only the general region covered by the sponsor and do not reflect the actual path of the cloud-seeding.",
+                U: "http://climateviewer.com/geoengineering/",
+                N: "NOAA Reported Weather Modification Activities (2011)"
+            },
+            {
+                I: "wxmod2010",
+                T: 'kml',
+                P: 'true',
+                G: "http://climateviewer.net/layers/kml/weather/NOAA-Reported-Weather-Modifications-Activities-2010-CV3D.kml",
+                S: "Created by <a href='http://stilltheman2.wix.com/myreadingmapped'>George Stiller</a> and <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>. Source: <a href='http://climateviewer.net/layers/kml/weather/2010-noaa-weather-modification-programs-10wxmod5.pdf'>NOAA 2010 Report</a> converted to <a href='https://www.google.com/fusiontables/DataSource?docid=1XgB7-IKoX7y2tkmmU0zSED1TlBsa3WDaOL6py4zk'>Google Fusion Tables</a><br><br>This map plots those weather modifications for rain and snow augmentation and fog and hail suppression reported by NOAA for the years 2004 through 2012 west of the Mississippi River. The locations were identified by researching the sponsoring organization and the project name. However, due to the lack of specific data, the placemarks represent only the general region covered by the sponsor and do not reflect the actual path of the cloud-seeding.",
+                U: "http://climateviewer.com/geoengineering/",
+                N: "NOAA Reported Weather Modification Activities (2010)"
+            },
+            {
+                I: "wxmod2009",
+                T: 'kml',
+                P: 'true',
+                G: "http://climateviewer.net/layers/kml/weather/NOAA-Reported-Weather-Modifications-Activities-2009-CV3D.kml",
+                S: "Created by <a href='http://stilltheman2.wix.com/myreadingmapped'>George Stiller</a> and <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>. Source: <a href='http://climateviewer.net/layers/kml/weather/2009-noaa-weather-modification-programs-09wxmod5.pdf'>NOAA 2009 Report</a> converted to <a href='https://www.google.com/fusiontables/DataSource?docid=1XgB7-IKoX7y2tkmmU0zSED1TlBsa3WDaOL6py4zk'>Google Fusion Tables</a><br><br>This map plots those weather modifications for rain and snow augmentation and fog and hail suppression reported by NOAA for the years 2004 through 2012 west of the Mississippi River. The locations were identified by researching the sponsoring organization and the project name. However, due to the lack of specific data, the placemarks represent only the general region covered by the sponsor and do not reflect the actual path of the cloud-seeding.",
+                U: "http://climateviewer.com/geoengineering/",
+                N: "NOAA Reported Weather Modification Activities (2009)"
+            },
+            {
+                I: "wxmod2008",
+                T: 'kml',
+                P: 'true',
+                G: "http://climateviewer.net/layers/kml/weather/NOAA-Reported-Weather-Modifications-Activities-2008-CV3D.kml",
+                S: "Created by <a href='http://stilltheman2.wix.com/myreadingmapped'>George Stiller</a> and <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>. Source: <a href='http://climateviewer.net/layers/kml/weather/2008-noaa-weather-modification-programs-08wxmod5.pdf'>NOAA 2008 Report</a> converted to <a href='https://www.google.com/fusiontables/DataSource?docid=1XgB7-IKoX7y2tkmmU0zSED1TlBsa3WDaOL6py4zk'>Google Fusion Tables</a><br><br>This map plots those weather modifications for rain and snow augmentation and fog and hail suppression reported by NOAA for the years 2004 through 2012 west of the Mississippi River. The locations were identified by researching the sponsoring organization and the project name. However, due to the lack of specific data, the placemarks represent only the general region covered by the sponsor and do not reflect the actual path of the cloud-seeding.",
+                U: "http://climateviewer.com/geoengineering/",
+                N: "NOAA Reported Weather Modification Activities (2008)"
+            },
+            {
+                I: "wxmod2007",
+                T: 'kml',
+                P: 'true',
+                G: "http://climateviewer.net/layers/kml/weather/NOAA-Reported-Weather-Modifications-Activities-2007-CV3D.kml",
+                S: "Created by <a href='http://stilltheman2.wix.com/myreadingmapped'>George Stiller</a> and <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>. Source: <a href='http://climateviewer.net/layers/kml/weather/2007-noaa-weather-modification-programs-07wxmod5.pdf'>NOAA 2007 Report</a> converted to <a href='https://www.google.com/fusiontables/DataSource?docid=1XgB7-IKoX7y2tkmmU0zSED1TlBsa3WDaOL6py4zk'>Google Fusion Tables</a><br><br>This map plots those weather modifications for rain and snow augmentation and fog and hail suppression reported by NOAA for the years 2004 through 2012 west of the Mississippi River. The locations were identified by researching the sponsoring organization and the project name. However, due to the lack of specific data, the placemarks represent only the general region covered by the sponsor and do not reflect the actual path of the cloud-seeding.",
+                U: "http://climateviewer.com/geoengineering/",
+                N: "NOAA Reported Weather Modification Activities (2007)"
+            },
+            {
+                I: "wxmod2006",
+                T: 'kml',
+                P: 'true',
+                G: "http://climateviewer.net/layers/kml/weather/NOAA-Reported-Weather-Modifications-Activities-2006-CV3D.kml",
+                S: "Created by <a href='http://stilltheman2.wix.com/myreadingmapped'>George Stiller</a> and <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>. Source: <a href='http://climateviewer.net/layers/kml/weather/2006-noaa-weather-modification-programs-06wxmod5.pdf'>NOAA 2006 Report</a> converted to <a href='https://www.google.com/fusiontables/DataSource?docid=1XgB7-IKoX7y2tkmmU0zSED1TlBsa3WDaOL6py4zk'>Google Fusion Tables</a><br><br>This map plots those weather modifications for rain and snow augmentation and fog and hail suppression reported by NOAA for the years 2004 through 2012 west of the Mississippi River. The locations were identified by researching the sponsoring organization and the project name. However, due to the lack of specific data, the placemarks represent only the general region covered by the sponsor and do not reflect the actual path of the cloud-seeding.",
+                U: "http://climateviewer.com/geoengineering/",
+                N: "NOAA Reported Weather Modification Activities (2006)"
+            },
+            {
+                I: "wxmod2005",
+                T: 'kml',
+                P: 'true',
+                G: "http://climateviewer.net/layers/kml/weather/NOAA-Reported-Weather-Modifications-Activities-2005-CV3D.kml",
+                S: "Created by <a href='http://stilltheman2.wix.com/myreadingmapped'>George Stiller</a> and <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>. Source: <a href='http://climateviewer.net/layers/kml/weather/2005-noaa-weather-modification-programs-05wxmod5.pdf'>NOAA 2005 Report</a> converted to <a href='https://www.google.com/fusiontables/DataSource?docid=1XgB7-IKoX7y2tkmmU0zSED1TlBsa3WDaOL6py4zk'>Google Fusion Tables</a><br><br>This map plots those weather modifications for rain and snow augmentation and fog and hail suppression reported by NOAA for the years 2004 through 2012 west of the Mississippi River. The locations were identified by researching the sponsoring organization and the project name. However, due to the lack of specific data, the placemarks represent only the general region covered by the sponsor and do not reflect the actual path of the cloud-seeding.",
+                U: "http://climateviewer.com/geoengineering/",
+                N: "NOAA Reported Weather Modification Activities (2005)"
+            },
+            {
+                I: "wxmod2004",
+                T: 'kml',
+                P: 'true',
+                G: "http://climateviewer.net/layers/kml/weather/NOAA-Reported-Weather-Modifications-Activities-2004-CV3D.kml",
+                S: "Created by <a href='http://stilltheman2.wix.com/myreadingmapped'>George Stiller</a> and <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>. Source: <a href='http://climateviewer.net/layers/kml/weather/2004-noaa-weather-modification-programs-04wxmod5.pdf'>NOAA 2004 Report</a> converted to <a href='https://www.google.com/fusiontables/DataSource?docid=1XgB7-IKoX7y2tkmmU0zSED1TlBsa3WDaOL6py4zk'>Google Fusion Tables</a><br><br>This map plots those weather modifications for rain and snow augmentation and fog and hail suppression reported by NOAA for the years 2004 through 2012 west of the Mississippi River. The locations were identified by researching the sponsoring organization and the project name. However, due to the lack of specific data, the placemarks represent only the general region covered by the sponsor and do not reflect the actual path of the cloud-seeding.",
+                U: "http://climateviewer.com/geoengineering/",
+                N: "NOAA Reported Weather Modification Activities (2004)"
+            }
+        ]
     },
     MRM: {
         N: "MyReadingMapped&trade;", icon: "marker",
@@ -2578,7 +2427,625 @@ var layers = {
                 }
             ]
         },
-
+        MRMDisease: {
+            N: "Disease Outbreaks", icon: "hospital", '>': [
+                {
+                    P: true,
+                    I: "mrm-60",
+                    T: 'kml',
+                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Disease-Outbreaks/Google-Map-of-Infectious-Disease-Quarantines.kml",
+                    S: "Created by George Stiller of MyReadingMapped&trade;",
+                    U: "http://stilltheman2.wix.com/myreadingmapped",
+                    N: "Map of Infectious Disease Quarantines"
+                },
+                {
+                    P: true,
+                    I: "mrm-61",
+                    T: 'kml',
+                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Disease-Outbreaks/Mad-Cow-Disease-Outbreaks.kml",
+                    S: "Created by George Stiller of MyReadingMapped&trade;",
+                    U: "http://stilltheman2.wix.com/myreadingmapped",
+                    N: "Mad Cow Disease Outbreaks"
+                },
+                {
+                    P: true,
+                    I: "mrm-62",
+                    T: 'kml',
+                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Disease-Outbreaks/Middle-East-Respiratory-Syndrome-(MERS)-Outbreaks.kml",
+                    S: "Created by George Stiller of MyReadingMapped&trade;",
+                    U: "http://stilltheman2.wix.com/myreadingmapped",
+                    N: "Niddle East Respiratory Syndrome (MERS) Outbreaks"
+                },
+                {
+                    P: true,
+                    I: "mrm-63",
+                    T: 'kml',
+                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Disease-Outbreaks/The-Spread-of-Ebola-Outbreaks-(1976-2015).kml",
+                    S: "Created by George Stiller of MyReadingMapped&trade;",
+                    U: "http://stilltheman2.wix.com/myreadingmapped",
+                    N: "The Spread of Ebola Outbreaks (1976-2015)"
+                },
+                {
+                    P: true,
+                    I: "mrm-64",
+                    T: 'kml',
+                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Disease-Outbreaks/The-Worldwide-Outbreak-of-SARS.kml",
+                    S: "Created by George Stiller of MyReadingMapped&trade;",
+                    U: "http://stilltheman2.wix.com/myreadingmapped",
+                    N: "The Worldwide Outbreak of SARS"
+                },
+                {
+                    P: true,
+                    I: "mrm-65",
+                    T: 'kml',
+                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Disease-Outbreaks/USA-Meningitis-Outbreak-2012-2013.kml",
+                    S: "Created by George Stiller of MyReadingMapped&trade;",
+                    U: "http://stilltheman2.wix.com/myreadingmapped",
+                    N: "U.S. Meningitis Outbreak (2012-2013)"
+                }
+            ]
+        },
+        MRMExplorers: {
+            N: "Explorers", icon: "compass", '>': [
+                {
+                    P: true,
+                    I: "mrm-66",
+                    T: 'kml',
+                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/Adventures-of-the-big-game-hunter-and-explorer-Ewart-Scott-Grogan.kmz",
+                    S: "Created by George Stiller of MyReadingMapped&trade;",
+                    U: "http://stilltheman2.wix.com/myreadingmapped",
+                    N: "Adventures of the big game hunter and explorer Ewart Scott Grogan"
+                },
+                {
+                    P: true,
+                    I: "mrm-67",
+                    T: 'kml',
+                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/CabralCacellas1626-28explorationofBhutanTibet.kml",
+                    S: "Created by George Stiller of MyReadingMapped&trade;",
+                    U: "http://stilltheman2.wix.com/myreadingmapped",
+                    N: "Cabral Cacellas exploration of Bhutan Tibet (1626-28)"
+                },
+                {
+                    P: true,
+                    I: "mrm-68",
+                    T: 'kml',
+                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/Fridtjof-Nansen's-Farthest-North-Arctic-Expedition.kmz",
+                    S: "Created by George Stiller of MyReadingMapped&trade;",
+                    U: "http://stilltheman2.wix.com/myreadingmapped",
+                    N: "Fridtjof Nansen's Farthest North Arctic Expedition"
+                },
+                {
+                    P: true,
+                    I: "mrm-69",
+                    T: 'kml',
+                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/Garcia's-1524-search-for-and-plundering-the-White-King's-cities-of-incomparable-wealth.kml",
+                    S: "Created by George Stiller of MyReadingMapped&trade;",
+                    U: "http://stilltheman2.wix.com/myreadingmapped",
+                    N: "Garcia's 1524 search for and plundering the White King's cities of incomparable wealth"
+                },
+                {
+                    P: true,
+                    I: "mrm-70",
+                    T: 'kml',
+                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/Herrons1899ExplorationofAlaska.kml",
+                    S: "Created by George Stiller of MyReadingMapped&trade;",
+                    U: "http://stilltheman2.wix.com/myreadingmapped",
+                    N: "Herron's Exploration of Alaska (1899)"
+                },
+                {
+                    P: true,
+                    I: "mrm-71",
+                    T: 'kml',
+                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-BurkeWills-Exploration-of-the-Interior-of-Australia-1860.kmz",
+                    S: "Created by George Stiller of MyReadingMapped&trade;",
+                    U: "http://stilltheman2.wix.com/myreadingmapped",
+                    N: "BurkeWills Exploration of the Interior of Australia (1860)"
+                },
+                {
+                    P: true,
+                    I: "mrm-72",
+                    T: 'kml',
+                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-Dampier's-1699-Voyage-to-New-Holland.kmz",
+                    S: "Created by George Stiller of MyReadingMapped&trade;",
+                    U: "http://stilltheman2.wix.com/myreadingmapped",
+                    N: "Dampier's Voyage to New Holland (1699)"
+                },
+                {
+                    P: true,
+                    I: "mrm-73",
+                    T: 'kml',
+                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-George-Simpson's-1828-Canoe-Voyage-Across-Canada.kmz",
+                    S: "Created by George Stiller of MyReadingMapped&trade;",
+                    U: "http://stilltheman2.wix.com/myreadingmapped",
+                    N: "George Simpson's Canoe Voyage Across Canada (1828)"
+                },
+                {
+                    P: true,
+                    I: "mrm-74",
+                    T: 'kml',
+                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-Gerhard-Rohlfs'-Adventures-in-Morocco.kmz",
+                    S: "Created by George Stiller of MyReadingMapped&trade;",
+                    U: "http://stilltheman2.wix.com/myreadingmapped",
+                    N: "Gerhard Rohlfs' Adventures in Morocco"
+                },
+                {
+                    P: true,
+                    I: "mrm-75",
+                    T: 'kml',
+                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-Gustav-Nachtigal's-1861-Sahara-and-Sudan-Adventure.kmz",
+                    S: "Created by George Stiller of MyReadingMapped&trade;",
+                    U: "http://stilltheman2.wix.com/myreadingmapped",
+                    N: "Gustav Nachtigal's Sahara and Sudan Adventure (1861)"
+                },
+                {
+                    P: true,
+                    I: "mrm-76",
+                    T: 'kml',
+                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-Herndon's-Exploration-of-the-Amazon-Valley-1851.kmz",
+                    S: "Created by George Stiller of MyReadingMapped&trade;",
+                    U: "http://stilltheman2.wix.com/myreadingmapped",
+                    N: "Herndon's Exploration of the Amazon Valley (1851)"
+                },
+                {
+                    P: true,
+                    I: "mrm-77",
+                    T: 'kml',
+                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-Isabella-Bird's-1896-Exploration-of-the-Yangtze-River-and-Beyond.kmz",
+                    S: "Created by George Stiller of MyReadingMapped&trade;",
+                    U: "http://stilltheman2.wix.com/myreadingmapped",
+                    N: "Isabella Bird's Exploration of the Yangtze River and Beyond (1896)"
+                },
+                {
+                    P: true,
+                    I: "mrm-78",
+                    T: 'kml',
+                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-James-Cook's-1772-Voyage-to-the-South-Pole-and-Round-the-World.kmz",
+                    S: "Created by George Stiller of MyReadingMapped&trade;",
+                    U: "http://stilltheman2.wix.com/myreadingmapped",
+                    N: "James Cook's Voyage to the South Pole and Round the World (1772)"
+                },
+                {
+                    P: true,
+                    I: "mrm-79",
+                    T: 'kml',
+                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-Lewis-and-Clark's-Expedition-1804-through-1805.kml",
+                    S: "Created by George Stiller of MyReadingMapped&trade;",
+                    U: "http://stilltheman2.wix.com/myreadingmapped",
+                    N: "Lewis and Clark's Expedition (1804-1805)"
+                },
+                {
+                    P: true,
+                    I: "mrm-80",
+                    T: 'kml',
+                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-Mikael-Strandberg's-Siberian-Expedition.kml",
+                    S: "Created by George Stiller of MyReadingMapped&trade;",
+                    U: "http://stilltheman2.wix.com/myreadingmapped",
+                    N: "Mikael Strandberg's Siberian Expedition"
+                }
+            ]
+        }
+    },
+    other: {
+        N: "Other", icon: "student",
+        electromagnetic: {
+            N: "Atmospheric Sensors", icon: "rocket", '>': [
+                {
+                    I: "star-wars",
+                    T: 'geojson',
+                    G: "/layers/geojson/star-wars-radar-cv3d.geojson",
+                    MI: '/img/icons/radar-black.png',
+                    S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.",
+                    U: "http://climateviewer.com/haarp/",
+                    N: "Missile Defense Radars (Star Wars)"
+                },
+                {
+                    I: "sky-heaters",
+                    T: 'geojson',
+                    G: "/layers/geojson/ionospheric-heaters-cv3d.geojson",
+                    MI: '/img/icons/radar-red.png',
+                    S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.",
+                    U: "http://climateviewer.com/haarp/",
+                    N: "Ionospheric Heaters"
+                },
+                {
+                    I: "haarp",
+                    Z: true,
+                    T: 'geojson',
+                    G: "/layers/geojson/haarp-cv3d.geojson",
+                    MI: '/img/icons/radar-ltblue.png',
+                    S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.",
+                    U: "http://climateviewer.com/haarp/",
+                    N: "High-Frequency Active Auroral Research Project"
+                },
+                {
+                    I: "superdarn",
+                    T: 'geojson',
+                    G: "/layers/geojson/superdarn-cv3d.geojson",
+                    MI: '/img/icons/radar-yellow.png',
+                    S: '<p>Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a>.<br>The Super Dual Auroral Radar Network (SuperDARN) is an international radar network for studying the upper atmosphere and ionosphere, comprising eleven radars in the northern hemisphere and seven in the southern hemisphere that operate in the High Frequency (HF) bands between 8 and 22 MHz. The radars measure the Doppler velocity of plasma density irregularities in the ionosphere.<br><br>In their standard operating mode each radar scans through 16 beams of azimuthal separation 3.24°, with a total scan time of 1 min. Each beam is divided into 75 range gates of length 45 km, and so in each full scan the radars each cover 52° in azimuth and over 3000 km in range, an area of over 4×106 km².<br><br>SuperDARN began in 1983, when the first radar installation was constructed in Labrador, Canada. Source: <a href="http://en.wikipedia.org/wiki/Super_Dual_Auroral_Radar_Network" target="_blank">Wikipedia</a><br><a href="http://superdarn.jhuapl.edu/" target="_blank">John&#39;s Hopkins Applied Physics Lab</a><br><a href="http://sd-software.ece.vt.edu/tiki/tiki-print.php?page=VT%20SuperDARN%20Home" target="_blank">Virginia Tech SuperDARN</a><br><a href="http://cedarweb.hao.ucar.edu/wiki/index.php/Documents:Ground_Based_Instruments#B_-_Coherent_Ionospheric_Radars_.28.7E29.29" target="_blank">CEDAR: Ground Based Instruments</a><br><a href="http://articles.adsabs.harvard.edu//full/1995SSRv...71..761G/0000761.000.html" target="_blank">SuperDARN - A Global View of the Dynamics of High-Latitude Convection</a></p>',
+                    U: "http://superdarn.ece.vt.edu/tiki-index.php",
+                    N: "Super Dual Auroral Radar Network (SuperDARN)"
+                },
+                {
+                    I: "digisonde",
+                    T: 'geojson',
+                    G: "/layers/geojson/digisonde-cv3d.geojson",
+                    MI: '/img/icons/digisonde.png',
+                    S: "<p>Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.<br><a href='http://umlcar.uml.edu/stationlist.html'>Station List</a><br><br>Lowell Digisonde International manufactures and markets the Digisonde-Portable-Sounder-4D (DPS4D), the latest model in the DIGISONDE® series of advanced ionosondes built in Lowell since 1969. The Digisonde is an ionospheric radar that uses high-frequency radio waves for the remote sensing of the ionosphere, the ionosonde technology pioneered by Sir Edward Appleton in the late 1920s. DIGISONDE stands for “Digitally Integrating Goniometric IonoSONDE”. The DPS4D is the only commercially available ionosonde system that measures all parameters of the ionospherically reflected HF radio signals, and automatically calculates the local ionospheric electron density profile in real time.</p><img alt='Digisonde Network Map' src='http://www.digisonde.com/images/homepage-map.jpg' /><br><br>",
+                    U: "http://www.digisonde.com/",
+                    N: "DIGISONDE® Ionosonde Network"
+                },
+                {
+                    I: "elf-vlf",
+                    T: 'geojson',
+                    G: "/layers/geojson/elf-vlf-cv3d.geojson",
+                    MI: "/img/icons/rf-warning.png",
+                    S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.<br>Alpha RSDN-20, Beta Time Signal, LORAN-C, AWESOME VLF Network, Ground Wave Emergency Network (GWEN), and ELF transmission facilities.",
+                    U: "http://climateviewer.com/haarp/",
+                    N: "ELF and VLF Transmitters"
+                },
+                {
+                    I: "elf-vlf-ref",
+                    T: 'geojson',
+                    G: "/layers/geojson/elf-vlf-antennas-cv3d.geojson",
+                    MI: "/img/icons/antenna.png",
+                    S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.<br>Visual reference (Antennas) for the Alpha RSDN-20, Beta Time Signal, LORAN-C, AWESOME VLF Network, Ground Wave Emergency Network (GWEN), and ELF transmission facilities.",
+                    U: "http://climateviewer.com/haarp/",
+                    N: "ELF and VLF Visual Reference"
+                },
+                {
+                    I: "directed-energy",
+                    T: 'geojson',
+                    G: "/layers/geojson/xfiles-cv3d.geojson",
+                    MI: "/img/icons/laser.png",
+                    S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.",
+                    U: "http://climateviewer.com/rezn8d/",
+                    N: "Lasers and Directed-Energy"
+                },
+                {
+                    I: "nexrad",
+                    T: 'geojson',
+                    G: "/layers/geojson/radar-nexrad-cv3d.geojson",
+                    MI: "/img/icons/doppler-green.png",
+                    S: '<p>Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a>.<br><a href="http://radar.weather.gov/">radar.weather.gov</a><br><a href="http://www.roc.noaa.gov/WSR88D/About.aspx">WSR-88D Specifications</a><br><br>In 1988, the NEXRAD Agencies established the WSR-88D (Weather Surveillance Radar - 1988 Doppler) Radar Operations Center (ROC) in Norman, Oklahoma. The ROC employees come from the National Weather Service, Air Force, Navy, FAA, and support contractors. The ROC provides centralized meteorological, software, maintenance, and engineering support for all WSR-88D systems. WSR-88D systems will be modified and enhanced during their operational life to meet changing requirements, technology advances, and improved understanding of the application of these systems to real-time weather operations. The ROC also operates WSR-88D test systems for the development of hardware and software upgrades to enhance maintenance, operation, and provide new functionality.<br><br></p>',
+                    U: "http://www.roc.noaa.gov/WSR88D/Program/NetworkSites.aspx",
+                    N: "NEXRAD Doppler Radar Stations"
+                },
+                {
+                    I: "sigmet",
+                    T: 'geojson',
+                    G: "/layers/geojson/radar-sigmet-cv3d.geojson",
+                    MI: "/img/icons/doppler-green.png",
+                    S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.<br><p>The Canadian weather radar network consists of 31 weather radars spanning Canada's most populated regions. Their primary purpose is the early detection of precipitation, its motion and the threat it poses to life and property. Each has a range of 256 km (159 mi) in radius around the site to detect reflectivity, and a range of 128 km (80 mi) for detecting velocity patterns (Doppler effect).</p>",
+                    U: "http://weather.gc.ca/radar/index_e.html",
+                    N: "Canadian Sigmet Doppler Radar Stations"
+                },
+                {
+                    I: "tdwr",
+                    T: 'geojson',
+                    G: "/layers/geojson/radar-tdwr-cv3d.geojson",
+                    MI: "/img/icons/doppler-yellow.png",
+                    S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.<br>The Terminal Doppler Weather Radar (TDWR) network is a Doppler weather radar system used primarily for the detection of hazardous wind shear conditions, precipitation, and winds aloft on and near major airports situated in climates with great exposure to thunderstorms in the United States. NCEI archives the derived products (called Level III), which are in the same data format as Next Generation Weather Radar (NEXRAD) Level III. NCEI does not archive the base data (called Level II).",
+                    U: "https://www.ncdc.noaa.gov/data-access/radar-data/tdwr",
+                    N: "Terminal Doppler Weather Radar (TDWR) Stations"
+                },
+                {
+                    I: "jss",
+                    T: 'geojson',
+                    G: "/layers/geojson/radar-jss-cv3d.geojson",
+                    MI: "/img/icons/doppler-red.png",
+                    S: '<p>Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a>.<br>The JSS is a joint United States Air Force and Federal Aviation Administration system for the atmospheric air defense of North America. It replaced the Semi Automatic Ground Environment (SAGE) system in 1983.<br><br>The JSS consists of long range surveillance radars, primarily operated and maintained by the Federal Aviation Administration (FAA), but providing communication and radar data to both FAA and United States Air Force control centers.</p><h3>Air Route Surveillance Radar (ARSR)</h3><p>FAA equipment is a primarily a mixture of Long Range Air Route Surveillance Radars (ARSR) of various types, although some use legacy AN/FPS radars. They are co-located with UHF ground-air-ground (G/A/G) transmitter/receiver (GATR) facilities at many locations. Fourteen sites have VHF radios as well. The GATR facility provides radio access to fighters and Airborne early warning and control (AEW&C) aircraft from the SOCCs. The JSS has been enhanced under the FAA/Air Force Radar Replacement Program with 44 ARSR-4/FPS-130 radars to replace some of the many previous long-range radars. This provides common, high-performance, unattended radars. The ARSR-4/FPS-130 is a 3-D long range radar with an effective detection range of some 250 miles and has been fully integrated with JSS at all joint use sites.<br /><br />These radars are generally unattended except for periodic FAA maintenance crews which visit the sites as necessary.<br>Source: <a href="http://en.wikipedia.org/wiki/Joint_Surveillance_System">Joint Surveillance System Wikipedia</a><br><a href="https://www.fas.org/nuke/guide/usa/airdef/arsr-4.htm">ARSR-4 Reference FAS.org</a></p>',
+                    U: "http://climateviewer.com/rezn8d/",
+                    N: "Joint Surveillance System (JSS), FAA Long-range Radar"
+                },
+                {
+                    I: "ioos",
+                    T: 'geojson',
+                    G: "/layers/geojson/radar-ioos-cv3d.geojson",
+                    MI: "/img/icons/doppler-blue.png",
+                    S: 'Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a>.<br><p>High frequency (HF) radar systems measure the speed and direction of ocean surface currents in near real time. Currents in the ocean are equivalent to winds in the atmosphere because they move things from one location to another. These currents carry nutrients as well as pollutants, so it is important to know the currents for ecological and economic reasons. The currents carry any floating object, which is why U.S. Coast Guard search and rescue operators use HF radar data to make critical decisions when rescuing disabled vessels and people stranded in the water.</p><p>These radars can measure currents over a large region of the coastal ocean, from a few kilometers offshore up to 200 km, and can operate under any weather conditions. They are located near the water’s edge, and need not be situated atop a high point of land.  Traditionally, crews placed current measuring devices directly into the water to retrieve current speeds.  While these direct measurement systems are still widely used as a standard reference, HF radars are the only sensors that can measure large areas at once with the detail required for the important applications described here.  Not even satellites have this capability.</p>',
+                    U: "http://www.ioos.noaa.gov/hfradar/welcome.html",
+                    N: "Integrated Ocean Observing System (IOOS) Radar"
+                },
+                {
+                    I: "npn-wind-radar",
+                    T: 'geojson',
+                    G: "/layers/geojson/npn-wind-radar-cv3d.geojson",
+                    MI: "/img/icons/radar-pink.png",
+                    S: "<p>Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.<br>Wind profilers are specifically designed to measure vertical profiles of horizontal wind speed and direction from near the surface to above the tropopause. Data from this network are distributed in real-time to government and university atmospheric researchers, private meteorologists, the National Centers for Environmental Prediction, the Storm Prediction Center, all National Weather Service (NWS) Forecast Offices, and foreign agencies responsible for weather prediction.</p>",
+                    U: "http://www.profiler.noaa.gov/npn/npnSiteLocationsAsText.jsp",
+                    N: "NOAA Profiler Network (NPN) Wind Radar"
+                },
+                {
+                    I: "madis-wind-radar",
+                    T: 'geojson',
+                    G: "/layers/geojson/madis-cap-wind-radar-cv3d.geojson",
+                    MI: "/img/icons/radar-purple.png",
+                    S: "<p>Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.<br>Cooperative Agency Profilers (CAP) is a cooperative venture between GSD (formerly FSL) and many participating agencies enabling GSD to; acquire profiler and RASS data in near real-time, apply GSD's data quality control algorithms, and make these value-added data available on the web and to the National Weather Service. At this time, data from approximately 100 CAP sites from over 35 different agencies from around the world are being acquired by GSD. The majority of CAP systems are 915 MHz Boundary Layer Profilers, there are also several 449 MHz and 50 MHz profilers in the CAP network.</p>",
+                    U: "https://madis-data.noaa.gov/cap/",
+                    N: "MADIS CAP Wind Radar"
+                },
+                {
+                    I: "aeronet",
+                    T: 'geojson',
+                    G: "/layers/geojson/aeronet-cv3d.geojson",
+                    MI: "/img/icons/nasa.png",
+                    S: "<p>Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.<br>The AERONET (AErosol RObotic NETwork) program is a federation of ground-based remote sensing aerosol networks established by NASA and PHOTONS (Univ. of Lille 1, CNES, and CNRS-INSU) and is greatly expanded by collaborators from national agencies, institutes, universities, individual scientists, and partners. The program provides a long-term, continuous and readily accessible public domain database of aerosol optical, microphysical and radiative properties for aerosol research and characterization, validation of satellite retrievals, and synergism with other databases. The network imposes standardization of instruments, calibration, processing and distribution.</p>",
+                    U: "http://aeronet.gsfc.nasa.gov/",
+                    N: "AERONET (AErosol RObotic NETwork)"
+                },
+                {
+                    I: "bsrn",
+                    T: 'geojson',
+                    G: "/layers/geojson/bsrn-cv3d.geojson",
+                    MI: "/img/icons/partly_cloudy.png",
+                    S: "<p>Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.<br>It is believed that the radiation budget of the Earth-atmosphere system plays a fundamental role in determining the thermal conditions and the circulation of the atmosphere and the ocean, shaping the main characteristics of the Earth's climate. The irradiances at the Earth's surface are especially important in understanding the climate processes, since the Earth's surface transforms approximately 60% of the solar radiation absorbed by the planet. These irradiances also occupy an important position in the ocean surface energy budget, ultimately influencing the major features of ocean currents.</p><p>While a small change in irradiance at the Earth's surface may cause a profound change in climate, the existing radiometric network is not capable of arriving at the required accuracy for climate research. In fact our present understanding of the radiation distribution both - horizontally and vertically - is not sufficient to understand the present climate. The simulation of the past and future climate changes, which would be induced by the change in radiation, is even more uncertain.</p><p>This was the background for the World Climate Research Programme (WCRP) Radiative Fluxes Working Group to initiate a new Baseline Surface Radiation Network (BSRN) to support the research projects of the WCRP and other scientific programs. Some years later the BSRN incorporated into the WCRP Global Energy and Water Cycle Experiment (GEWEX) Radiation Panel.</p>",
+                    U: "http://www.bsrn.awi.de/",
+                    N: "Baseline Surface Radiation Network (BSRN)"
+                },
+                {
+                    I: "esrl",
+                    T: 'geojson',
+                    G: "/layers/geojson/esrl-cv3d.geojson",
+                    MI: "/img/icons/noaa.gif",
+                    S: "<p>Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.<br>NOAA Earth Systems Research Lab (ESRL). ESRL was formed to pursue a broad and comprehensive understanding of the Earth system. This system comprises many physical, chemical and biological processes that need to be dynamically integrated to better predict their behavior over scales from local to global and periods of minutes to millennia.</p>",
+                    U: "http://www.esrl.noaa.gov/psd/data/obs/sites/",
+                    N: "Earth Systems Research Lab (ESRL) Instruments"
+                },
+                {
+                    I: "doris",
+                    T: 'geojson',
+                    G: "/layers/geojson/doris-cv3d.geojson",
+                    MI: "/img/icons/ids.png",
+                    S: "<p>Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.<br>DORIS is a Doppler satellite tracking system developped for precise orbit determination and precise ground location. It is onboard the Cryosat-2, Jason-1, Jason-2, ENVISAT and HY-2A altimetric satellites and the remote sensing satellites SPOT-4 and SPOT-5. It also flew with SPOT-2, SPOT-3 and TOPEX/POSEIDON.</p><p>IDS is an international service which provides a support, through DORIS data and products, to geodetic, geophysical, and other research and operational activities. New proposals for Analysis Centers and temporary or permanent DORIS stations are welcome.</p>",
+                    U: "http://Is-doris.org/network/googleearth.html",
+                    N: "DORIS (Doppler Orbitography and Radiopositioning Integrated by Satellite)"
+                },
+                {
+                    I: "f16",
+                    T: 'geojson',
+                    G: "/layers/geojson/atmospheric-observatories-cv3d.geojson",
+                    MI: "/img/icons/radar-dish.png",
+                    S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.",
+                    U: "http://climateviewer.com/rezn8d/",
+                    N: "Other Radars, Observatories, Telescope Arrays, Satellite Communications"
+                }
+            ]
+        },
+        FCC: {
+            N: "FCC Database 2012 (USA)", H: true, icon: "signal", '>': [
+                {
+                    H: true,
+                    I: "f17",
+                    T: 'geojson',
+                    G: "/layers/geojson/FCC-cell-towers-2012-cv3d.geojson",
+                    MI: "/img/icons/radioz.png",
+                    S: "Federal Communications Commission (FCC) Licensing Database Extracts. Cellular (zip) (06-14-2012) .SHP file to GeoJSON conversion by Jim Lee",
+                    U: "http://web.archive.org/web/20140522193524/http://wireless.fcc.gov/geographic/index.htm?job=licensing_database_extracts",
+                    N: "Cell Phone Towers (USA FCC)"
+                },
+                {
+                    H: true,
+                    I: "f24",
+                    T: 'geojson',
+                    G: "/layers/geojson/FCC-paging-towers-2012-cv3d.geojson",
+                    MI: "/img/icons/radioz.png",
+                    S: "Federal Communications Commission (FCC) Licensing Database Extracts. Paging (zip) (06-14-2012) .SHP file to GeoJSON conversion by Jim Lee",
+                    U: "http://web.archive.org/web/20140522193524/http://wireless.fcc.gov/geographic/index.htm?job=licensing_database_extracts",
+                    N: "Paging Towers (USA FCC)"
+                },
+                {
+                    H: true,
+                    I: "f18",
+                    T: 'geojson',
+                    G: "/layers/geojson/FCC-AM-radio-2012-cv3d.geojson",
+                    MI: "/img/icons/radioz.png",
+                    S: "Federal Communications Commission (FCC) Licensing Database Extracts. AM (zip) (06-14-2012) .SHP file to GeoJSON conversion by Jim Lee",
+                    U: "http://web.archive.org/web/20140522193524/http://wireless.fcc.gov/geographic/index.htm?job=licensing_database_extracts",
+                    N: "AM Radio (USA FCC)"
+                },
+                {
+                    H: true,
+                    I: "f19",
+                    T: 'geojson',
+                    G: "/layers/geojson/FCC-FM-radio-2012-cv3d.geojson",
+                    MI: "/img/icons/radioz.png",
+                    S: "Federal Communications Commission (FCC) Licensing Database Extracts. FM (zip) (06-14-2012) .SHP file to GeoJSON conversion by Jim Lee",
+                    U: "http://web.archive.org/web/20140522193524/http://wireless.fcc.gov/geographic/index.htm?job=licensing_database_extracts",
+                    N: "FM Radio (USA FCC)"
+                },
+                {
+                    H: true,
+                    I: "f20",
+                    T: 'geojson',
+                    G: "/layers/geojson/FCC-Digital-TV-2012-cv3d.geojson",
+                    MI: "/img/icons/radioz.png",
+                    S: "Federal Communications Commission (FCC) Licensing Database Extracts. TV - Digital (zip) (06-14-2012) .SHP file to GeoJSON conversion by Jim Lee",
+                    U: "http://web.archive.org/web/20140522193524/http://wireless.fcc.gov/geographic/index.htm?job=licensing_database_extracts",
+                    N: "Digital Television (USA FCC)"
+                },
+                {
+                    H: true,
+                    I: "f21",
+                    T: 'geojson',
+                    G: "/layers/geojson/FCC-NTSC-TV-2012-cv3d.geojson",
+                    MI: "/img/icons/radioz.png",
+                    S: "Federal Communications Commission (FCC) Licensing Database Extracts. TV - NTSC (zip) (06-14-2012) .SHP file to GeoJSON conversion by Jim Lee",
+                    U: "http://web.archive.org/web/20140522193524/http://wireless.fcc.gov/geographic/index.htm?job=licensing_database_extracts",
+                    N: "NTSC Television (USA FCC)"
+                },
+                {
+                    H: true,
+                    I: "f22",
+                    T: 'geojson',
+                    G: "/layers/geojson/FCC-LM-broadcast-2012-cv3d.geojson",
+                    MI: "/img/icons/radioz.png",
+                    S: "Federal Communications Commission (FCC) Licensing Database Extracts. Land Mobile - Broadcast (zip) (06-14-2012) .SHP file to GeoJSON conversion by Jim Lee",
+                    U: "http://web.archive.org/web/20140522193524/http://wireless.fcc.gov/geographic/index.htm?job=licensing_database_extracts",
+                    N: "Land Mobile Broadcast (USA FCC)"
+                },
+                {
+                    H: true,
+                    I: "f23",
+                    T: 'geojson',
+                    G: "/layers/geojson/FCC-BRS-EBS-2012-cv3d.geojson",
+                    MI: "/img/icons/radioz.png",
+                    S: "Federal Communications Commission (FCC) Licensing Database Extracts. BRS/EBS (zip) (06-14-2012) .SHP file to GeoJSON conversion by Jim Lee",
+                    U: "http://web.archive.org/web/20140522193524/http://wireless.fcc.gov/geographic/index.htm?job=licensing_database_extracts",
+                    N: "Educational Broadcast (BRS/EBS) (USA FCC)"
+                }
+            ]
+        },
+        flight: {
+            N: "Flight", icon: "plane", '>': [
+                {
+                    I: "us_runways",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
+                    L: "us_runways",
+                    S: "NOAA Ocean Service's nowCOAST's Map Services - Locations/Footprints of U.S. Airport Runways",
+                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
+                    N: "U.S. Airport Runways"
+                },
+                {
+                    I: "artcc",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
+                    L: "artcc",
+                    S: "NOAA Ocean Service's nowCOAST's Map Services - Air Route Traffic Control Centers - Areas of Responsibility",
+                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
+                    N: "Air Route Traffic Control Center Boundaries"
+                }
+            ]
+        },
+        boats: {
+            N: "Marine Traffic", icon: "anchor", '>': [
+                {
+                    P: true,
+                    I: "kml-noaabuoy",
+                    T: 'kml',
+                    G: "http://www.ndbc.noaa.gov/kml/marineobs_as_kml.php?sort=owner",
+                    S: "National Oceanic and Atmospheric Administration (NOAA) National Data Buoy Center",
+                    U: "http://www.ndbc.noaa.gov/",
+                    N: "NOAA Buoy Tracker"
+                },
+                {
+                    P: true,
+                    I: "kml-noaaship",
+                    T: 'kml',
+                    G: "http://egisws02.nos.noaa.gov/shiptracker/kml/All_Ships_CL.kmz",
+                    S: "National Oceanic and Atmospheric Administration (NOAA)",
+                    U: "http://egisws02.nos.noaa.gov/shiptracker/",
+                    N: "NOAA Ship Tracker"
+                }
+            ]
+        },
+        geographic: {
+            N: "Geographic", icon: "info sign", '>': [
+                {
+                    I: "pyramids",
+                    T: 'kml',
+                    G: "/layers/kml/3rdparty/other/Pyramids-FR-CV3D.kmz",
+                    S: "based on the film &quot;Revelations of the PyramIs&quot;",
+                    U: "http://www.youtube.com/watch?v=GhC6lhAD4xY",
+                    N: "Pyramids of the World"
+                },
+                {
+                    I: "world_rivers",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
+                    L: "world_rivers",
+                    S: "NOAA Ocean Service's nowCOAST's Map Services",
+                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
+                    N: "World Rivers"
+                },
+                {
+                    I: "world_lakes",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
+                    L: "world_lakes",
+                    S: "NOAA Ocean Service's nowCOAST's Map Services",
+                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
+                    N: "World Lakes"
+                },
+                {
+                    I: "great_lakes",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
+                    L: "great_lakes",
+                    S: "NOAA Ocean Service's nowCOAST's Map Services",
+                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
+                    N: "World Great Lakes"
+                },
+                {
+                    I: "rivers",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
+                    L: "rivers",
+                    S: "NOAA Ocean Service's nowCOAST's Map Services",
+                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
+                    N: "U.S. Rivers"
+                },
+                {
+                    I: "lakes",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
+                    L: "lakes",
+                    S: "NOAA Ocean Service's nowCOAST's Map Services",
+                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
+                    N: "U.S. Lakes"
+                },
+                {
+                    I: "watersheds",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
+                    L: "watersheds",
+                    S: "NOAA Ocean Service's nowCOAST's Map Services",
+                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
+                    N: "U.S. Watershed Boundaries"
+                }
+            ]
+        },
+        economic: {
+            N: "Economic", icon: "money", '>': [
+                {
+                    I: "native-american1",
+                    Z: true,
+                    T: 'kml',
+                    G: "/layers/kml/3rdparty/other/Indian-Lands.kmz",
+                    S: "This map layer shows Indian lands of the United States. Only areas of 640 acres or more are included. Federally-administered lands within a reservation are included for continuity; these may or may not be consIered part of the reservation and are simply described with their feature type and the administrating Federal agency. This is an updated version of the December 2005 map layer.",
+                    U: "http://nationalatlas.gov/atlasftp.html#indlanp",
+                    N: "Native American Lands 2005"
+                },
+                {
+                    I: "urban_areas_fill",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
+                    L: "urban_areas_fill",
+                    S: "NOAA Ocean Service's nowCOAST's Map Services - U.S. Urban Area Boundaries (color-filled polygons)",
+                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
+                    N: "U.S. Urban Areas"
+                },
+                {
+                    I: "eez",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
+                    L: "eez",
+                    S: "NOAA Ocean Service's nowCOAST's Map Services",
+                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
+                    N: "U.S. Exclusive Economic Zone Boundaries"
+                },
+                {
+                    I: "world_countries",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
+                    L: "world_countries",
+                    S: "NOAA Ocean Service's nowCOAST's Map Services",
+                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
+                    N: "World Country Boundaries"
+                }
+            ]
+        }
     },
     N: "Base Maps",
         basemaps: {
