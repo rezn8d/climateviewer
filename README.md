@@ -2,7 +2,9 @@
 Geographic Information System (GIS) + Activism = Maptivism 
 
 [Project Homepage](http://climateviewer.net/)
+
 [Leaflet Version](http://climateviewer.net/mobile/)
+
 [Cesium Version](http://climateviewer.net/3D/)
 
 ![Climate Viewer Black](http://climateviewer.net/img/CV3D-black.jpg)
@@ -19,4 +21,4 @@ This web application is an open-source alternative to our now-dead Google Earth 
 
 Contact [Jim Lee](http://climateviewer.com/rezn8d/) to contribute.
 
-#netention on Freenode
+IRC: #netention on Freenode
