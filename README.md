@@ -1,24 +1,51 @@
-# Climate Viewer 3D | Global Alert System
-Geographic Information System (GIS) + Activism = Maptivism 
+##About Climate Viewer
+Geographic Information System (GIS) + Activism = Maptivism
 
-[Project Homepage](http://climateviewer.net/)
+Real-time decentralized global propagation, notification, and analysis tools for the most comprehensive, cross-domain, uncensored environmental data-set ever assembled – Climate Viewer.
 
-[Leaflet Version](http://climateviewer.net/mobile/)
+Discover how natural and artificial phenomena, from past to present, underground to outer space… might affect the quality and length of our futures, and form teams to improve life on Earth.
 
-[Cesium Version](http://climateviewer.net/3D/)
+[Project Roadmap](http://climateviewer.com/roadmap/)
 
-![Climate Viewer Black](http://climateviewer.net/img/CV3D-black.jpg)
+[Mobile Demo: Leaflet Version](http://climateviewer.com/mobile/)
 
-Climate Viewer 3D's live updates on severe weather, earthquakes, fires, and other life-threatening events will give you peace of mind in one all-inclusive app. With cutting-edge technology, real-time situational awareness, and a visual tour of our planetary health risks, look no further.  With a plethora of controls, data sources, [Cesium](http://cesiumjs.org/) powered interface, and fresh content daily, what are you waiting for?
+[3D Demo: Cesium Version](http://climateviewer.com/3D/)
 
-This web application is an open-source alternative to our now-dead Google Earth powered app.  Read all about [our conversion from Google Earth to Cesium](http://climateviewer.com/2014/12/28/death-google-earth-climate-viewer-3d/) on [Climate Viewer News](http://climateviewer.com/) then [follow us on Facebook](https://www.facebook.com/climateviewers).
+###Our Goals
 
+Climate Viewer is an Open-Source social media and Geographic Information Systems mapping project. You can already check out our Cesium-powered 3D globe, our Leaflet-powered Mobile app, and report your own events using our Ushahidi-powered Crowd-Source Reporting app.
 
-![Climate Viewer Satellite Feeds](http://climateviewer.net/img/CV3D-satellites.jpg)
+We are diligently working to combine all three apps into one, add user accounts, social media style feeds, a bunch of cool data-views, and allow teams of concerened citizens to build communities, chat and video conference, and solve our planetary problems. People helping people empowered by technology, this project will truly change the world!
 
-![Climate Viewer Nuclear Meltdown](http://climateviewer.net/img/CV3D-meltdown.jpg)
+With Climate Viewer, the world is at your finger tips!
+
+![Climate Viewer Black](http://climateviewer.com/img/CV3D-black.jpg)
+
+###Monitor Your World
+
+Track pollution sources and use real-time atmospheric sensors to monitor your air quality and see pollution affect your weather. Snapshot your screen and store your "view" in your own personal archive, then share your snapshot with others! Report health-threatening technological disasters like radiation releases, chemical spills, and even rogue geoengineering so other Climate Viewer users can spread the word, form teams, and respond to emergencies.
+
+###See Data in New Ways
+
+Visualize complex data-sets like maps, lists, and feeds from the millions of open-source databases available to Climate Viewer users. Create your own remixes, choose how to view your data, and share your "package" with others by publishing it on our server! We call these packages "Nobjects," or Network Objects. Each Nobject you create can also be downloaded, sent over an email, and viewed privately by the recipient! Imagine the possibilities! Nobjects can be viewed on our 3D Globe, 2D map, in a Twitter-style feed, or on our super-cool graphing software.
+
+###Team Planet on Steroids
+
+Climate Viewer puts the Change in Climate Change! Create teams to respond to severe weather events, technological disasters, life-threatening pollution, or use Climate Viewer to organize your activist or volunteer organization. With powerful user-created map tools, global, team, and private chat rooms, video conferencing, and event scheduler, your team will be prepared to tackle anything! Set your goals, track results, be the change!
+
+###Save Lives!
+
+Our internet has set us free. Open-source technology and You make this project possible. Climate Viewer gives power to the people: See a problem? Map it, Mark it, Make it Change. We are creating a new social media, giving you tools to create communities that help other people directly. Knowing is half the battle, and having a tool to fix it is priceless. Climate Viewer is that tool.
+
+![Climate Viewer Satellite Feeds](http://climateviewer.com/img/CV3D-satellites.jpg)
+
+![Climate Viewer Nuclear Meltdown](http://climateviewer.com/img/CV3D-meltdown.jpg)
 
 
 Contact [Jim Lee](http://climateviewer.com/rezn8d/) to contribute.
 
 IRC: #netention on Freenode
+
+###Instructions
+
+Coming soon!

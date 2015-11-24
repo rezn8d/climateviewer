@@ -1,5 +1,5 @@
 /* 
-    LEGENED http://climateviewer.net/
+    LEGENED http://climateviewer.com/
     var layerId = l.I,
     format = l.F,
     geoDataSrc = l.G,
@@ -23,7 +23,7 @@
 var layers = {
     I: 'Climate-Viewer',
     Live: {
-        N: "Alerts",  icon: "warning sign",
+        N: "Alerts",
         Disasters: {
             N: "Disasters", icon: "warning circle", '>': [
                 {
@@ -446,7 +446,7 @@ var layers = {
         }
     },
     weather: {
-        N: "Weather", icon: "cloud",
+        N: "Weather",
         alerts: {
             N: "Weather Alerts", icon: "lightning", '>': [
                 {
@@ -1111,7 +1111,7 @@ var layers = {
         }
     },
     satellites: {
-        N: "Satellites", icon: "photo",
+        N: "Satellites",
         sat: {
             N: "Satellite Imagery", icon: "globe", '>': [
                 {
@@ -1174,7 +1174,7 @@ var layers = {
                     P: true,
                     I: "kml-usnmsir",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/3rdparty/weather/clouds/USN-multisat-ir-CVDB.kmz",
+                    G: "http://climateviewer.com/layers/kml/3rdparty/weather/clouds/USN-multisat-ir-CVDB.kmz",
                     S: "Image S: US. Naval Research Laboratory, Marine Meteorology Division. Google Earth overlay by Jim Lee",
                     U: "http://www.nrlmry.navy.mil/archdat/global/stitched/ir/",
                     N: "Infrared Clouds - NRL"
@@ -1303,7 +1303,7 @@ var layers = {
         }
     },
     pollution: {
-        N: "Pollution", icon: "fire",
+        N: "Pollution",
         fossilfuel: {
             N: "Fossil Fuel", icon: "plug", '>': [
                 {
@@ -1692,7 +1692,16 @@ var layers = {
         }
     },
     WXMOD: {
-        N: "Geoengineering", icon: "plane", '>': [
+        N: "Geoengineering", '>': [
+            {
+                I: "geoengineering-SRM",
+                T: 'kml',
+                P: true,
+                G: "http://climateviewer.com/layers/kml/weather/Geoengineering-SRM-Field-Experiments-CV3D.kmz",
+                S: "Cloud creation experiments and Solar Radiation Management trials. Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.",
+                U: "http://climateviewer.com/geoengineering/",
+                N: "Geoengineering SRM Field Experiments"
+            },
             {
                 I: "p01",
                 T: 'geojson',
@@ -1716,47 +1725,28 @@ var layers = {
                 T: 'kml',
                 Z: true,
                 P: true,
-                G: "http://climateviewer.net/layers/kml/weather/Wyoming-Weather-Modification-Pilot-Program-WWMPP-Generators-CV3D.kmz",
-                S: 'Source: <a href="http://wwdc.state.wy.us/weathermod/WYWeatherModPilotProgramExecSummary.html">http://wwdc.state.wy.us/weathermod/WYWeatherModPilotProgramExecSummary.html</a><br>Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a><br><h3>More Information</h3><a href="http://climateviewer.com/2014/12/29/cloud-seeding-gambling-weather/" target="_blank">Cloud Seeding: Gambling With Your Weather</a><br><a href="http://www.livescience.com/49263-cloud-seeding-experiment-debate.html" target="_blank">Biggest Cloud-Seeding Experiment Yet Only Sparks More Debate</a><br><a href="https://www.ral.ucar.edu/projects/wyoming/" target="_blank">https://www.ral.ucar.edu/projects/wyoming/</a><br><a href="http://wwdc.state.wy.us/weathermod/WYWeatherModPilotProgramExecSummary.html" target="_blank">http://wwdc.state.wy.us/weathermod/WYWeatherModPilotProgramExecSummary.html</a><br><a href="https://www.wmo.int/pages/prog/arep/wwrp/new/documents/ANL.Breed_USA_paper2.pdf" target="_blank">https://www.wmo.int/pages/prog/arep/wwrp/new/documents/ANL.Breed_USA_paper2.pdf</a><br><a href="http://www.weathermodification.org/Fargo%20Presentations/BreedWWMPP2015.pdf" target="_blank">http://www.weathermodification.org/Fargo%20Presentations/BreedWWMPP2015.pdf</a><br><a href="http://www.weathermodification.com/projects.php?id=64" target="_blank">http://www.weathermodification.com/projects.php?id=64</a><br><a href="https://ams.confex.com/ams/pdfpapers/139288.pdf" target="_blank">https://ams.confex.com/ams/pdfpapers/139288.pdf</a><br><h3>Reference</h3><img src="http://climateviewer.net/layers/kml/weather/Wind-River-Range-Wyoming-Weather-Modification-Pilot-Program.jpg" /><br><br><img src="http://climateviewer.net/layers/kml/weather/Sierra-Madre-Wyoming-Weather-Modification-Pilot-Program.jpg" /><br><br><img src="http://climateviewer.net/layers/kml/weather/idaho-power-ground-based-cloud-seeding-station-schematic-2010.png" />',
+                G: "http://climateviewer.com/layers/kml/weather/Wyoming-Weather-Modification-Pilot-Program-WWMPP-Generators-CV3D.kmz",
+                S: 'Source: <a href="http://wwdc.state.wy.us/weathermod/WYWeatherModPilotProgramExecSummary.html">http://wwdc.state.wy.us/weathermod/WYWeatherModPilotProgramExecSummary.html</a><br>Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a><br><h3>More Information</h3><a href="http://climateviewer.com/2014/12/29/cloud-seeding-gambling-weather/" target="_blank">Cloud Seeding: Gambling With Your Weather</a><br><a href="http://www.livescience.com/49263-cloud-seeding-experiment-debate.html" target="_blank">Biggest Cloud-Seeding Experiment Yet Only Sparks More Debate</a><br><a href="https://www.ral.ucar.edu/projects/wyoming/" target="_blank">https://www.ral.ucar.edu/projects/wyoming/</a><br><a href="http://wwdc.state.wy.us/weathermod/WYWeatherModPilotProgramExecSummary.html" target="_blank">http://wwdc.state.wy.us/weathermod/WYWeatherModPilotProgramExecSummary.html</a><br><a href="https://www.wmo.int/pages/prog/arep/wwrp/new/documents/ANL.Breed_USA_paper2.pdf" target="_blank">https://www.wmo.int/pages/prog/arep/wwrp/new/documents/ANL.Breed_USA_paper2.pdf</a><br><a href="http://www.weathermodification.org/Fargo%20Presentations/BreedWWMPP2015.pdf" target="_blank">http://www.weathermodification.org/Fargo%20Presentations/BreedWWMPP2015.pdf</a><br><a href="http://www.weathermodification.com/projects.php?id=64" target="_blank">http://www.weathermodification.com/projects.php?id=64</a><br><a href="https://ams.confex.com/ams/pdfpapers/139288.pdf" target="_blank">https://ams.confex.com/ams/pdfpapers/139288.pdf</a><br><h3>Reference</h3><img src="http://climateviewer.com/layers/kml/weather/Wind-River-Range-Wyoming-Weather-Modification-Pilot-Program.jpg" /><br><br><img src="http://climateviewer.com/layers/kml/weather/Sierra-Madre-Wyoming-Weather-Modification-Pilot-Program.jpg" /><br><br><img src="http://climateviewer.com/layers/kml/weather/idaho-power-ground-based-cloud-seeding-station-schematic-2010.png" />',
                 U: "http://climateviewer.com/geoengineering/",
                 N: "Wyoming Weather Modification Pilot Program (Generators)"
-            },
-            {
-                I: "wxmod-WWMPP-ref",
-                T: 'kml',
-                Z: true,
-                P: true,
-                G: "http://climateviewer.net/layers/kml/weather/Wyoming-Weather-Modification-Pilot-Program-WWMPP-Reference-CV3D.kmz",
-                S: 'Source: <a href="http://wwdc.state.wy.us/weathermod/WYWeatherModPilotProgramExecSummary.html">http://wwdc.state.wy.us/weathermod/WYWeatherModPilotProgramExecSummary.html</a><br>Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a><br><h3>More Information</h3><a href="http://climateviewer.com/2014/12/29/cloud-seeding-gambling-weather/" target="_blank">Cloud Seeding: Gambling With Your Weather</a><br><a href="http://www.livescience.com/49263-cloud-seeding-experiment-debate.html" target="_blank">Biggest Cloud-Seeding Experiment Yet Only Sparks More Debate</a><br><a href="https://www.ral.ucar.edu/projects/wyoming/" target="_blank">https://www.ral.ucar.edu/projects/wyoming/</a><br><a href="http://wwdc.state.wy.us/weathermod/WYWeatherModPilotProgramExecSummary.html" target="_blank">http://wwdc.state.wy.us/weathermod/WYWeatherModPilotProgramExecSummary.html</a><br><a href="https://www.wmo.int/pages/prog/arep/wwrp/new/documents/ANL.Breed_USA_paper2.pdf" target="_blank">https://www.wmo.int/pages/prog/arep/wwrp/new/documents/ANL.Breed_USA_paper2.pdf</a><br><a href="http://www.weathermodification.org/Fargo%20Presentations/BreedWWMPP2015.pdf" target="_blank">http://www.weathermodification.org/Fargo%20Presentations/BreedWWMPP2015.pdf</a><br><a href="http://www.weathermodification.com/projects.php?id=64" target="_blank">http://www.weathermodification.com/projects.php?id=64</a><br><a href="https://ams.confex.com/ams/pdfpapers/139288.pdf" target="_blank">https://ams.confex.com/ams/pdfpapers/139288.pdf</a><br><h3>Reference</h3><img src="http://climateviewer.net/layers/kml/weather/Wind-River-Range-Wyoming-Weather-Modification-Pilot-Program.jpg" /><br><br><img src="http://climateviewer.net/layers/kml/weather/Sierra-Madre-Wyoming-Weather-Modification-Pilot-Program.jpg" /><br><br><img src="http://climateviewer.net/layers/kml/weather/idaho-power-ground-based-cloud-seeding-station-schematic-2010.png" />',
-                U: "http://climateviewer.com/geoengineering/",
-                N: "Wyoming Weather Modification Pilot Program (Reference)"
             },
             {
                 I: "wxmod-ccrmp",
                 T: 'kml',
                 Z: true,
                 P: true,
-                G: "http://climateviewer.net/layers/kml/weather/Central-Colorado-Rocky-Mountain-Cloud-Seeding-Program-Generators.kmz",
-                S: 'Source: <a href="http://cwcb.state.co.us/water-management/water-projects-programs/Documents/WeatherModification/DWagenda_materials.pdf">"Weather Modification Permit Application Public Hearing for Western Weather Consultants Target Area Upper Colorado River Basin," Colorado Water Conservation Board, Department of Natural Resources</a><br>Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a><br><br><img src="http://climateviewer.net/layers/kml/weather/Central-Colorado-Rocky-Mountain-Program-Cloud-Seeding.jpg" /><br><br><img src="http://climateviewer.net/layers/kml/weather/idaho-power-ground-based-cloud-seeding-station-schematic-2010.png" />',
+                G: "http://climateviewer.com/layers/kml/weather/Central-Colorado-Rocky-Mountain-Program-Cloud-Seeding-Generators.kmz",
+                S: 'Source: <a href="http://cwcb.state.co.us/water-management/water-projects-programs/Documents/WeatherModification/DWagenda_materials.pdf">"Weather Modification Permit Application Public Hearing for Western Weather Consultants Target Area Upper Colorado River Basin," Colorado Water Conservation Board, Department of Natural Resources</a><br>Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a><br><br><img src="http://climateviewer.com/layers/kml/weather/Central-Colorado-Rocky-Mountain-Program-Cloud-Seeding.jpg" /><br><br><img src="http://climateviewer.com/layers/kml/weather/idaho-power-ground-based-cloud-seeding-station-schematic-2010.png" />',
                 U: "http://climateviewer.com/geoengineering/",
                 N: "Central Colorado Rocky Mountain Program (Generators)"
-            },
-            {
-                I: "wxmod-ccrmp-ref",
-                T: 'kml',
-                Z: true,
-                G: "http://climateviewer.net/layers/kml/weather/Central-Colorado-Rocky-Mountain-Cloud-Seeding-Program-Image.kmz",
-                S: 'Source: <a href="http://cwcb.state.co.us/water-management/water-projects-programs/Documents/WeatherModification/DWagenda_materials.pdf">"Weather Modification Permit Application Public Hearing for Western Weather Consultants Target Area Upper Colorado River Basin," Colorado Water Conservation Board, Department of Natural Resources</a><br>Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a><br><br><img src="http://climateviewer.net/layers/kml/weather/Central-Colorado-Rocky-Mountain-Program-Cloud-Seeding.jpg" /><br><br><img src="http://climateviewer.net/layers/kml/weather/idaho-power-ground-based-cloud-seeding-station-schematic-2010.png" />',
-                U: "http://climateviewer.com/geoengineering/",
-                N: "Central Colorado Rocky Mountain Program (Reference)"
             },
             {
                 I: "wxmod-grand-mesa",
                 T: 'kml',
                 Z: true,
                 P: true,
-                G: "http://climateviewer.net/layers/kml/weather/Grand-Mesa-Weather-Modification-Cloud-Seeding-Generators-CV3D.kmz",
-                S: 'Source: <a href="http://cwcb.state.co.us/water-management/water-projects-programs/Documents/WeatherModification/PermitAreas/GrandMesaTargetAreas.pdf">http://cwcb.state.co.us/water-management/water-projects-programs/Documents/WeatherModification/PermitAreas/GrandMesaTargetAreas.pdf</a><br>Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a><br><br><img src="http://climateviewer.net/layers/kml/weather/Grand-Mesa-Colorado-Cloud-Seeding-Sites.jpg" /><br><br><img src="http://climateviewer.net/layers/kml/weather/idaho-power-ground-based-cloud-seeding-station-schematic-2010.png" />',
+                G: "http://climateviewer.com/layers/kml/weather/Grand-Mesa-Weather-Modification-Cloud-Seeding-Generators-CV3D.kmz",
+                S: 'Source: <a href="http://cwcb.state.co.us/water-management/water-projects-programs/Documents/WeatherModification/PermitAreas/GrandMesaTargetAreas.pdf">http://cwcb.state.co.us/water-management/water-projects-programs/Documents/WeatherModification/PermitAreas/GrandMesaTargetAreas.pdf</a><br>Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a><br><br><img src="http://climateviewer.com/layers/kml/weather/Grand-Mesa-Colorado-Cloud-Seeding-Sites.jpg" /><br><br><img src="http://climateviewer.com/layers/kml/weather/idaho-power-ground-based-cloud-seeding-station-schematic-2010.png" />',
                 U: "http://climateviewer.com/geoengineering/",
                 N: "Grand Mesa Colorado Cloud-Seeding (Generators)"
             },
@@ -1765,8 +1755,8 @@ var layers = {
                 T: 'kml',
                 Z: true,
                 P: true,
-                G: "http://climateviewer.net/layers/kml/weather/Humboldt-River-Basin-Cloud-Seeding-Generators-CV3D.kmz",
-                S: 'Source: <a href="http://drought.nv.gov/uploadedFiles/droughtnvgov/Content/Meetings/2015/HumboldtRiverBasinCloudSeedingDocument.pdf">PRELIMINARY FEASIBILITY STUDY AND COST ESTIMATES OF POSSIBLE WINTER CLOUD SEEDING IN THE HUMBOLDT RIVER BASIN, NEVADA. August 2014</a><br>Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a><h3>Reference</h3><img src="http://climateviewer.net/layers/kml/weather/Humboldt-River-Basin-Nevada-Cloud-Seeding-Generators.jpg" /><br><br><img src="http://climateviewer.net/layers/kml/weather/idaho-power-ground-based-cloud-seeding-station-schematic-2010.png" />',
+                G: "http://climateviewer.com/layers/kml/weather/Humboldt-River-Basin-Cloud-Seeding-Generators-CV3D.kmz",
+                S: 'Source: <a href="http://drought.nv.gov/uploadedFiles/droughtnvgov/Content/Meetings/2015/HumboldtRiverBasinCloudSeedingDocument.pdf">PRELIMINARY FEASIBILITY STUDY AND COST ESTIMATES OF POSSIBLE WINTER CLOUD SEEDING IN THE HUMBOLDT RIVER BASIN, NEVADA. August 2014</a><br>Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a><h3>Reference</h3><img src="http://climateviewer.com/layers/kml/weather/Humboldt-River-Basin-Nevada-Cloud-Seeding-Generators.jpg" /><br><br><img src="http://climateviewer.com/layers/kml/weather/idaho-power-ground-based-cloud-seeding-station-schematic-2010.png" />',
                 U: "http://climateviewer.com/geoengineering/",
                 N: "Humboldt River Basin Cloud-Seeding (Generators)"
             },
@@ -1775,18 +1765,28 @@ var layers = {
                 T: 'kml',
                 Z: true,
                 P: true,
-                G: "http://climateviewer.net/layers/kml/weather/Carson-Walker-Basin-Cloud-Seeding-Generators-CV3D.kmz",
-                S: 'Source: <a href="http://www.dri.edu/images/stories/news/media_kits/DRI_Cloud_Seeding_Program_2014-2.pdf">Desert Research Institute, Weather Modification Brochure</a><br>Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a><br><h3>Reference</h3><img src="http://climateviewer.net/layers/kml/weather/Desert-Research-Institute-cloud-seeding-generators.jpg" /><br><br><img src="http://climateviewer.net/layers/kml/weather/idaho-power-ground-based-cloud-seeding-station-schematic-2010.png" />',
+                G: "http://climateviewer.com/layers/kml/weather/Carson-Walker-Basin-Cloud-Seeding-Generators-CV3D.kmz",
+                S: 'Source: <a href="http://www.dri.edu/images/stories/news/media_kits/DRI_Cloud_Seeding_Program_2014-2.pdf">Desert Research Institute, Weather Modification Brochure</a><br>Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a><br><h3>Reference</h3><img src="http://climateviewer.com/layers/kml/weather/Desert-Research-Institute-cloud-seeding-generators.jpg" /><br><br><img src="http://climateviewer.com/layers/kml/weather/idaho-power-ground-based-cloud-seeding-station-schematic-2010.png" />',
                 U: "http://climateviewer.com/geoengineering/",
                 N: "Carson-Walker Basin Cloud-Seeding (Generators)"
+            },
+            {
+                I: "wxmod-santa-barbara",
+                T: 'kml',
+                Z: true,
+                P: true,
+                G: "http://climateviewer.com/layers/kml/weather/Santa-Barbara-California-Cloud-Seeding-Generators-CV3D.kmz",
+                S: '<a href="http://cosb.countyofsb.org/uploadedFiles/pwd/Water/WaterAgency/Final%20Report%2015-1.pdf">Summary of Operations for a Winter Cloud Seeding Program for the Upper Santa Ynez Drainage in Southeastern Santa Barbara County and the Huasna-Alamo Drainage in Northern Santa Barbara and Southern San Luis Obispo Counties Water Year 2015</a><br>Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a><br><h3>More Info</h3><a href="http://cosb.countyofsb.org/pwd/pwwater.aspx?id=3740">Santa Barbara County Water Agency Cloud Seeding</a><br><br><img src="http://climateviewer.com/layers/kml/weather/santa-barbara-california-cloud-seeding.jpg"/><br><br>Flare burning inside a spark arrestor<br><br><a href="http://cosb.countyofsb.org/uploadedFiles/pwd/Water/WaterAgency/Final%20Report%2015-1.pdf"><img src="http://climateviewer.com/layers/kml/weather/AHOGS-cloud-seeding-station-flare-burning-santa-barbara-california.jpg"/></a><br><br>Close-up photo of spark arrestors<br><br><a href="http://cosb.countyofsb.org/uploadedFiles/pwd/Water/WaterAgency/Final%20Report%2015-1.pdf"><img src="http://climateviewer.com/layers/kml/weather/AHOGS-cloud-seeding-station-close-up-santa-barbara-california.jpg"/></a>',
+                U: "http://climateviewer.com/geoengineering/",
+                N: "Santa Barbara California Cloud-Seeding (Generators)"
             },
             {
                 I: "wxmod-idaho-power",
                 T: 'kml',
                 Z: true,
                 P: true,
-                G: "http://climateviewer.net/layers/kml/weather/Idaho-Power-Cloud-Seeding-Project-Generators-CV3D.kmz",
-                S: 'Source: <a href="http://www.idwr.idaho.gov/WaterBoard/WaterPlanning/CAMP/TV_CAMP/PDF/2010/09-29-2010_IdahoPower_Cloud_Seeding_Program.pdf">Shaun Parkinson, PhD, PE, "Idaho Power Company’s Cloud Seeding Program"</a><br> Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a><br><br><img src="http://climateviewer.net/layers/kml/weather/idaho-power-ground-based-cloud-seeding-stations-2010.jpg" /><br><br><img src="http://climateviewer.net/layers/kml/weather/idaho-power-ground-based-cloud-seeding-station-schematic-2010.png" />',
+                G: "http://climateviewer.com/layers/kml/weather/Idaho-Power-Cloud-Seeding-Project-Generators-CV3D.kmz",
+                S: 'Source: <a href="http://www.idwr.idaho.gov/WaterBoard/WaterPlanning/CAMP/TV_CAMP/PDF/2010/09-29-2010_IdahoPower_Cloud_Seeding_Program.pdf">Shaun Parkinson, PhD, PE, "Idaho Power Company’s Cloud Seeding Program"</a><br> Created by <a href="http://climateviewer.com/rezn8d/">Jim Lee</a><br><br><img src="http://climateviewer.com/layers/kml/weather/idaho-power-ground-based-cloud-seeding-stations-2010.jpg" /><br><br><img src="http://climateviewer.com/layers/kml/weather/idaho-power-ground-based-cloud-seeding-station-schematic-2010.png" />',
                 U: "http://climateviewer.com/geoengineering/",
                 N: "Idaho Power Company Cloud-Seeding (Generators)"
             },
@@ -1794,8 +1794,8 @@ var layers = {
                 I: "wxmod2012",
                 T: 'kml',
                 P: 'true',
-                G: "http://climateviewer.net/layers/kml/weather/NOAA-Reported-Weather-Modifications-Activities-2012-CV3D.kml",
-                S: "Created by <a href='http://stilltheman2.wix.com/myreadingmapped'>George Stiller</a> and <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>. Source: <a href='http://climateviewer.net/layers/kml/weather/2012-noaa-weather-modification-programs-12wxmod5-partial.pdf'>NOAA 2012 (partial) Report</a> converted to <a href='https://www.google.com/fusiontables/DataSource?docid=1XgB7-IKoX7y2tkmmU0zSED1TlBsa3WDaOL6py4zk'>Google Fusion Tables</a><br><br>This map plots those weather modifications for rain and snow augmentation and fog and hail suppression reported by NOAA for the years 2004 through 2012 west of the Mississippi River. The locations were identified by researching the sponsoring organization and the project name. However, due to the lack of specific data, the placemarks represent only the general region covered by the sponsor and do not reflect the actual path of the cloud-seeding.",
+                G: "http://climateviewer.com/layers/kml/weather/NOAA-Reported-Weather-Modifications-Activities-2012-CV3D.kml",
+                S: "Created by <a href='http://stilltheman2.wix.com/myreadingmapped'>George Stiller</a> and <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>. Source: <a href='http://climateviewer.com/layers/kml/weather/2012-noaa-weather-modification-programs-12wxmod5-partial.pdf'>NOAA 2012 (partial) Report</a> converted to <a href='https://www.google.com/fusiontables/DataSource?docid=1XgB7-IKoX7y2tkmmU0zSED1TlBsa3WDaOL6py4zk'>Google Fusion Tables</a><br><br>This map plots those weather modifications for rain and snow augmentation and fog and hail suppression reported by NOAA for the years 2004 through 2012 west of the Mississippi River. The locations were identified by researching the sponsoring organization and the project name. However, due to the lack of specific data, the placemarks represent only the general region covered by the sponsor and do not reflect the actual path of the cloud-seeding.",
                 U: "http://climateviewer.com/geoengineering/",
                 N: "NOAA Reported Weather Modification Activities (2012)"
             },
@@ -1803,8 +1803,8 @@ var layers = {
                 I: "wxmod2011",
                 T: 'kml',
                 P: 'true',
-                G: "http://climateviewer.net/layers/kml/weather/NOAA-Reported-Weather-Modifications-Activities-2011-CV3D.kml",
-                S: "Created by <a href='http://stilltheman2.wix.com/myreadingmapped'>George Stiller</a> and <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>. Source: <a href='http://climateviewer.net/layers/kml/weather/2011-noaa-weather-modification-programs-11wxmod5-partial.pdf'>NOAA 2011 Report</a> converted to <a href='https://www.google.com/fusiontables/DataSource?docid=1XgB7-IKoX7y2tkmmU0zSED1TlBsa3WDaOL6py4zk'>Google Fusion Tables</a><br><br>This map plots those weather modifications for rain and snow augmentation and fog and hail suppression reported by NOAA for the years 2004 through 2012 west of the Mississippi River. The locations were identified by researching the sponsoring organization and the project name. However, due to the lack of specific data, the placemarks represent only the general region covered by the sponsor and do not reflect the actual path of the cloud-seeding.",
+                G: "http://climateviewer.com/layers/kml/weather/NOAA-Reported-Weather-Modifications-Activities-2011-CV3D.kml",
+                S: "Created by <a href='http://stilltheman2.wix.com/myreadingmapped'>George Stiller</a> and <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>. Source: <a href='http://climateviewer.com/layers/kml/weather/2011-noaa-weather-modification-programs-11wxmod5-partial.pdf'>NOAA 2011 Report</a> converted to <a href='https://www.google.com/fusiontables/DataSource?docid=1XgB7-IKoX7y2tkmmU0zSED1TlBsa3WDaOL6py4zk'>Google Fusion Tables</a><br><br>This map plots those weather modifications for rain and snow augmentation and fog and hail suppression reported by NOAA for the years 2004 through 2012 west of the Mississippi River. The locations were identified by researching the sponsoring organization and the project name. However, due to the lack of specific data, the placemarks represent only the general region covered by the sponsor and do not reflect the actual path of the cloud-seeding.",
                 U: "http://climateviewer.com/geoengineering/",
                 N: "NOAA Reported Weather Modification Activities (2011)"
             },
@@ -1812,8 +1812,8 @@ var layers = {
                 I: "wxmod2010",
                 T: 'kml',
                 P: 'true',
-                G: "http://climateviewer.net/layers/kml/weather/NOAA-Reported-Weather-Modifications-Activities-2010-CV3D.kml",
-                S: "Created by <a href='http://stilltheman2.wix.com/myreadingmapped'>George Stiller</a> and <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>. Source: <a href='http://climateviewer.net/layers/kml/weather/2010-noaa-weather-modification-programs-10wxmod5.pdf'>NOAA 2010 Report</a> converted to <a href='https://www.google.com/fusiontables/DataSource?docid=1XgB7-IKoX7y2tkmmU0zSED1TlBsa3WDaOL6py4zk'>Google Fusion Tables</a><br><br>This map plots those weather modifications for rain and snow augmentation and fog and hail suppression reported by NOAA for the years 2004 through 2012 west of the Mississippi River. The locations were identified by researching the sponsoring organization and the project name. However, due to the lack of specific data, the placemarks represent only the general region covered by the sponsor and do not reflect the actual path of the cloud-seeding.",
+                G: "http://climateviewer.com/layers/kml/weather/NOAA-Reported-Weather-Modifications-Activities-2010-CV3D.kml",
+                S: "Created by <a href='http://stilltheman2.wix.com/myreadingmapped'>George Stiller</a> and <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>. Source: <a href='http://climateviewer.com/layers/kml/weather/2010-noaa-weather-modification-programs-10wxmod5.pdf'>NOAA 2010 Report</a> converted to <a href='https://www.google.com/fusiontables/DataSource?docid=1XgB7-IKoX7y2tkmmU0zSED1TlBsa3WDaOL6py4zk'>Google Fusion Tables</a><br><br>This map plots those weather modifications for rain and snow augmentation and fog and hail suppression reported by NOAA for the years 2004 through 2012 west of the Mississippi River. The locations were identified by researching the sponsoring organization and the project name. However, due to the lack of specific data, the placemarks represent only the general region covered by the sponsor and do not reflect the actual path of the cloud-seeding.",
                 U: "http://climateviewer.com/geoengineering/",
                 N: "NOAA Reported Weather Modification Activities (2010)"
             },
@@ -1821,8 +1821,8 @@ var layers = {
                 I: "wxmod2009",
                 T: 'kml',
                 P: 'true',
-                G: "http://climateviewer.net/layers/kml/weather/NOAA-Reported-Weather-Modifications-Activities-2009-CV3D.kml",
-                S: "Created by <a href='http://stilltheman2.wix.com/myreadingmapped'>George Stiller</a> and <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>. Source: <a href='http://climateviewer.net/layers/kml/weather/2009-noaa-weather-modification-programs-09wxmod5.pdf'>NOAA 2009 Report</a> converted to <a href='https://www.google.com/fusiontables/DataSource?docid=1XgB7-IKoX7y2tkmmU0zSED1TlBsa3WDaOL6py4zk'>Google Fusion Tables</a><br><br>This map plots those weather modifications for rain and snow augmentation and fog and hail suppression reported by NOAA for the years 2004 through 2012 west of the Mississippi River. The locations were identified by researching the sponsoring organization and the project name. However, due to the lack of specific data, the placemarks represent only the general region covered by the sponsor and do not reflect the actual path of the cloud-seeding.",
+                G: "http://climateviewer.com/layers/kml/weather/NOAA-Reported-Weather-Modifications-Activities-2009-CV3D.kml",
+                S: "Created by <a href='http://stilltheman2.wix.com/myreadingmapped'>George Stiller</a> and <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>. Source: <a href='http://climateviewer.com/layers/kml/weather/2009-noaa-weather-modification-programs-09wxmod5.pdf'>NOAA 2009 Report</a> converted to <a href='https://www.google.com/fusiontables/DataSource?docid=1XgB7-IKoX7y2tkmmU0zSED1TlBsa3WDaOL6py4zk'>Google Fusion Tables</a><br><br>This map plots those weather modifications for rain and snow augmentation and fog and hail suppression reported by NOAA for the years 2004 through 2012 west of the Mississippi River. The locations were identified by researching the sponsoring organization and the project name. However, due to the lack of specific data, the placemarks represent only the general region covered by the sponsor and do not reflect the actual path of the cloud-seeding.",
                 U: "http://climateviewer.com/geoengineering/",
                 N: "NOAA Reported Weather Modification Activities (2009)"
             },
@@ -1830,8 +1830,8 @@ var layers = {
                 I: "wxmod2008",
                 T: 'kml',
                 P: 'true',
-                G: "http://climateviewer.net/layers/kml/weather/NOAA-Reported-Weather-Modifications-Activities-2008-CV3D.kml",
-                S: "Created by <a href='http://stilltheman2.wix.com/myreadingmapped'>George Stiller</a> and <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>. Source: <a href='http://climateviewer.net/layers/kml/weather/2008-noaa-weather-modification-programs-08wxmod5.pdf'>NOAA 2008 Report</a> converted to <a href='https://www.google.com/fusiontables/DataSource?docid=1XgB7-IKoX7y2tkmmU0zSED1TlBsa3WDaOL6py4zk'>Google Fusion Tables</a><br><br>This map plots those weather modifications for rain and snow augmentation and fog and hail suppression reported by NOAA for the years 2004 through 2012 west of the Mississippi River. The locations were identified by researching the sponsoring organization and the project name. However, due to the lack of specific data, the placemarks represent only the general region covered by the sponsor and do not reflect the actual path of the cloud-seeding.",
+                G: "http://climateviewer.com/layers/kml/weather/NOAA-Reported-Weather-Modifications-Activities-2008-CV3D.kml",
+                S: "Created by <a href='http://stilltheman2.wix.com/myreadingmapped'>George Stiller</a> and <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>. Source: <a href='http://climateviewer.com/layers/kml/weather/2008-noaa-weather-modification-programs-08wxmod5.pdf'>NOAA 2008 Report</a> converted to <a href='https://www.google.com/fusiontables/DataSource?docid=1XgB7-IKoX7y2tkmmU0zSED1TlBsa3WDaOL6py4zk'>Google Fusion Tables</a><br><br>This map plots those weather modifications for rain and snow augmentation and fog and hail suppression reported by NOAA for the years 2004 through 2012 west of the Mississippi River. The locations were identified by researching the sponsoring organization and the project name. However, due to the lack of specific data, the placemarks represent only the general region covered by the sponsor and do not reflect the actual path of the cloud-seeding.",
                 U: "http://climateviewer.com/geoengineering/",
                 N: "NOAA Reported Weather Modification Activities (2008)"
             },
@@ -1839,8 +1839,8 @@ var layers = {
                 I: "wxmod2007",
                 T: 'kml',
                 P: 'true',
-                G: "http://climateviewer.net/layers/kml/weather/NOAA-Reported-Weather-Modifications-Activities-2007-CV3D.kml",
-                S: "Created by <a href='http://stilltheman2.wix.com/myreadingmapped'>George Stiller</a> and <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>. Source: <a href='http://climateviewer.net/layers/kml/weather/2007-noaa-weather-modification-programs-07wxmod5.pdf'>NOAA 2007 Report</a> converted to <a href='https://www.google.com/fusiontables/DataSource?docid=1XgB7-IKoX7y2tkmmU0zSED1TlBsa3WDaOL6py4zk'>Google Fusion Tables</a><br><br>This map plots those weather modifications for rain and snow augmentation and fog and hail suppression reported by NOAA for the years 2004 through 2012 west of the Mississippi River. The locations were identified by researching the sponsoring organization and the project name. However, due to the lack of specific data, the placemarks represent only the general region covered by the sponsor and do not reflect the actual path of the cloud-seeding.",
+                G: "http://climateviewer.com/layers/kml/weather/NOAA-Reported-Weather-Modifications-Activities-2007-CV3D.kml",
+                S: "Created by <a href='http://stilltheman2.wix.com/myreadingmapped'>George Stiller</a> and <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>. Source: <a href='http://climateviewer.com/layers/kml/weather/2007-noaa-weather-modification-programs-07wxmod5.pdf'>NOAA 2007 Report</a> converted to <a href='https://www.google.com/fusiontables/DataSource?docid=1XgB7-IKoX7y2tkmmU0zSED1TlBsa3WDaOL6py4zk'>Google Fusion Tables</a><br><br>This map plots those weather modifications for rain and snow augmentation and fog and hail suppression reported by NOAA for the years 2004 through 2012 west of the Mississippi River. The locations were identified by researching the sponsoring organization and the project name. However, due to the lack of specific data, the placemarks represent only the general region covered by the sponsor and do not reflect the actual path of the cloud-seeding.",
                 U: "http://climateviewer.com/geoengineering/",
                 N: "NOAA Reported Weather Modification Activities (2007)"
             },
@@ -1848,8 +1848,8 @@ var layers = {
                 I: "wxmod2006",
                 T: 'kml',
                 P: 'true',
-                G: "http://climateviewer.net/layers/kml/weather/NOAA-Reported-Weather-Modifications-Activities-2006-CV3D.kml",
-                S: "Created by <a href='http://stilltheman2.wix.com/myreadingmapped'>George Stiller</a> and <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>. Source: <a href='http://climateviewer.net/layers/kml/weather/2006-noaa-weather-modification-programs-06wxmod5.pdf'>NOAA 2006 Report</a> converted to <a href='https://www.google.com/fusiontables/DataSource?docid=1XgB7-IKoX7y2tkmmU0zSED1TlBsa3WDaOL6py4zk'>Google Fusion Tables</a><br><br>This map plots those weather modifications for rain and snow augmentation and fog and hail suppression reported by NOAA for the years 2004 through 2012 west of the Mississippi River. The locations were identified by researching the sponsoring organization and the project name. However, due to the lack of specific data, the placemarks represent only the general region covered by the sponsor and do not reflect the actual path of the cloud-seeding.",
+                G: "http://climateviewer.com/layers/kml/weather/NOAA-Reported-Weather-Modifications-Activities-2006-CV3D.kml",
+                S: "Created by <a href='http://stilltheman2.wix.com/myreadingmapped'>George Stiller</a> and <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>. Source: <a href='http://climateviewer.com/layers/kml/weather/2006-noaa-weather-modification-programs-06wxmod5.pdf'>NOAA 2006 Report</a> converted to <a href='https://www.google.com/fusiontables/DataSource?docid=1XgB7-IKoX7y2tkmmU0zSED1TlBsa3WDaOL6py4zk'>Google Fusion Tables</a><br><br>This map plots those weather modifications for rain and snow augmentation and fog and hail suppression reported by NOAA for the years 2004 through 2012 west of the Mississippi River. The locations were identified by researching the sponsoring organization and the project name. However, due to the lack of specific data, the placemarks represent only the general region covered by the sponsor and do not reflect the actual path of the cloud-seeding.",
                 U: "http://climateviewer.com/geoengineering/",
                 N: "NOAA Reported Weather Modification Activities (2006)"
             },
@@ -1857,8 +1857,8 @@ var layers = {
                 I: "wxmod2005",
                 T: 'kml',
                 P: 'true',
-                G: "http://climateviewer.net/layers/kml/weather/NOAA-Reported-Weather-Modifications-Activities-2005-CV3D.kml",
-                S: "Created by <a href='http://stilltheman2.wix.com/myreadingmapped'>George Stiller</a> and <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>. Source: <a href='http://climateviewer.net/layers/kml/weather/2005-noaa-weather-modification-programs-05wxmod5.pdf'>NOAA 2005 Report</a> converted to <a href='https://www.google.com/fusiontables/DataSource?docid=1XgB7-IKoX7y2tkmmU0zSED1TlBsa3WDaOL6py4zk'>Google Fusion Tables</a><br><br>This map plots those weather modifications for rain and snow augmentation and fog and hail suppression reported by NOAA for the years 2004 through 2012 west of the Mississippi River. The locations were identified by researching the sponsoring organization and the project name. However, due to the lack of specific data, the placemarks represent only the general region covered by the sponsor and do not reflect the actual path of the cloud-seeding.",
+                G: "http://climateviewer.com/layers/kml/weather/NOAA-Reported-Weather-Modifications-Activities-2005-CV3D.kml",
+                S: "Created by <a href='http://stilltheman2.wix.com/myreadingmapped'>George Stiller</a> and <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>. Source: <a href='http://climateviewer.com/layers/kml/weather/2005-noaa-weather-modification-programs-05wxmod5.pdf'>NOAA 2005 Report</a> converted to <a href='https://www.google.com/fusiontables/DataSource?docid=1XgB7-IKoX7y2tkmmU0zSED1TlBsa3WDaOL6py4zk'>Google Fusion Tables</a><br><br>This map plots those weather modifications for rain and snow augmentation and fog and hail suppression reported by NOAA for the years 2004 through 2012 west of the Mississippi River. The locations were identified by researching the sponsoring organization and the project name. However, due to the lack of specific data, the placemarks represent only the general region covered by the sponsor and do not reflect the actual path of the cloud-seeding.",
                 U: "http://climateviewer.com/geoengineering/",
                 N: "NOAA Reported Weather Modification Activities (2005)"
             },
@@ -1866,22 +1866,22 @@ var layers = {
                 I: "wxmod2004",
                 T: 'kml',
                 P: 'true',
-                G: "http://climateviewer.net/layers/kml/weather/NOAA-Reported-Weather-Modifications-Activities-2004-CV3D.kml",
-                S: "Created by <a href='http://stilltheman2.wix.com/myreadingmapped'>George Stiller</a> and <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>. Source: <a href='http://climateviewer.net/layers/kml/weather/2004-noaa-weather-modification-programs-04wxmod5.pdf'>NOAA 2004 Report</a> converted to <a href='https://www.google.com/fusiontables/DataSource?docid=1XgB7-IKoX7y2tkmmU0zSED1TlBsa3WDaOL6py4zk'>Google Fusion Tables</a><br><br>This map plots those weather modifications for rain and snow augmentation and fog and hail suppression reported by NOAA for the years 2004 through 2012 west of the Mississippi River. The locations were identified by researching the sponsoring organization and the project name. However, due to the lack of specific data, the placemarks represent only the general region covered by the sponsor and do not reflect the actual path of the cloud-seeding.",
+                G: "http://climateviewer.com/layers/kml/weather/NOAA-Reported-Weather-Modifications-Activities-2004-CV3D.kml",
+                S: "Created by <a href='http://stilltheman2.wix.com/myreadingmapped'>George Stiller</a> and <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>. Source: <a href='http://climateviewer.com/layers/kml/weather/2004-noaa-weather-modification-programs-04wxmod5.pdf'>NOAA 2004 Report</a> converted to <a href='https://www.google.com/fusiontables/DataSource?docid=1XgB7-IKoX7y2tkmmU0zSED1TlBsa3WDaOL6py4zk'>Google Fusion Tables</a><br><br>This map plots those weather modifications for rain and snow augmentation and fog and hail suppression reported by NOAA for the years 2004 through 2012 west of the Mississippi River. The locations were identified by researching the sponsoring organization and the project name. However, due to the lack of specific data, the placemarks represent only the general region covered by the sponsor and do not reflect the actual path of the cloud-seeding.",
                 U: "http://climateviewer.com/geoengineering/",
                 N: "NOAA Reported Weather Modification Activities (2004)"
             }
         ]
     },
     MRM: {
-        N: "MyReadingMapped&trade;", icon: "marker",
+        N: "MyReadingMapped",
         MRMSunkenShips: {
             N: "Abandoned and Sunken Ships", icon: "ship", '>': [
                 {
                     P: true,
                     I: "mrm-01",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Abandoned-and-Sunken-Ships/Historic-Ships-Preserved-in-Google-Map.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Abandoned-and-Sunken-Ships/Historic-Ships-Preserved-in-Google-Map.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Historic Ships Preserved in Google Map"
@@ -1890,7 +1890,7 @@ var layers = {
                     P: true,
                     I: "mrm-02",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Abandoned-and-Sunken-Ships/Interactive-Map-of-Ship-Graveyards.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Abandoned-and-Sunken-Ships/Interactive-Map-of-Ship-Graveyards.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Ship Graveyards"
@@ -1899,7 +1899,7 @@ var layers = {
                     P: true,
                     I: "mrm-03",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Abandoned-and-Sunken-Ships/Interactive-Map-of-the-Sunken-Ships-of-the-Atlantic.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Abandoned-and-Sunken-Ships/Interactive-Map-of-the-Sunken-Ships-of-the-Atlantic.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Sunken Ships of the Atlantic"
@@ -1908,7 +1908,7 @@ var layers = {
                     P: true,
                     I: "mrm-04",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Abandoned-and-Sunken-Ships/Interactive-Map-of-the-Sunken-Ships-of-the-Great-Lakes.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Abandoned-and-Sunken-Ships/Interactive-Map-of-the-Sunken-Ships-of-the-Great-Lakes.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Sunken Ships of the Great Lakes"
@@ -1917,7 +1917,7 @@ var layers = {
                     P: true,
                     I: "mrm-05",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Abandoned-and-Sunken-Ships/Interactive-Map-of-the-Sunken-Ships-of-the-Indian-Ocean-and-Red-Sea.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Abandoned-and-Sunken-Ships/Interactive-Map-of-the-Sunken-Ships-of-the-Indian-Ocean-and-Red-Sea.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Sunken Ships of the Indian Ocean and Red Sea"
@@ -1926,7 +1926,7 @@ var layers = {
                     P: true,
                     I: "mrm-06",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Abandoned-and-Sunken-Ships/Interactive-Map-of-the-Sunken-Ships-of-the-Pacific-Ocean.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Abandoned-and-Sunken-Ships/Interactive-Map-of-the-Sunken-Ships-of-the-Pacific-Ocean.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Sunken Ships of the Pacific Ocean"
@@ -1935,7 +1935,7 @@ var layers = {
                     P: true,
                     I: "mrm-07",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Abandoned-and-Sunken-Ships/Shipwrecks-Seen-in-Google-Map.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Abandoned-and-Sunken-Ships/Shipwrecks-Seen-in-Google-Map.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Shipwrecks Seen in Google Map"
@@ -1944,7 +1944,7 @@ var layers = {
                     P: true,
                     I: "mrm-08",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Abandoned-and-Sunken-Ships/Sunken-Ships-of-the-Mediterranean-North-Baltic-and-Black-Seas.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Abandoned-and-Sunken-Ships/Sunken-Ships-of-the-Mediterranean-North-Baltic-and-Black-Seas.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Sunken Ships of the Mediterranean, North Baltic, and Black Seas"
@@ -1957,7 +1957,7 @@ var layers = {
                     P: true,
                     I: "mrm-09",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Ancient-Ruins/American-Ghost-Towns.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Ancient-Ruins/American-Ghost-Towns.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Ghost Towns of America"
@@ -1966,7 +1966,7 @@ var layers = {
                     P: true,
                     I: "mrm-10",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Ancient-Ruins/The-Ghost-Towns-of-Asia-in-Google-Map.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Ancient-Ruins/The-Ghost-Towns-of-Asia-in-Google-Map.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Ghost Towns of Asia"
@@ -1975,7 +1975,7 @@ var layers = {
                     P: true,
                     I: "mrm-11",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Ancient-Ruins/Interactive-Map-of-Classic-European-Castles.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Ancient-Ruins/Interactive-Map-of-Classic-European-Castles.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Classic European Castles"
@@ -1984,7 +1984,7 @@ var layers = {
                     P: true,
                     I: "mrm-12",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Ancient-Ruins/Interactive-Map-of-the-Ancient-and-Other-Ruins-of-Europe.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Ancient-Ruins/Interactive-Map-of-the-Ancient-and-Other-Ruins-of-Europe.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Ancient and other Ruins of Europe"
@@ -1993,7 +1993,7 @@ var layers = {
                     P: true,
                     I: "mrm-13",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Ancient-Ruins/Interactive-map-of-the-Ancient-Lost-Cities.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Ancient-Ruins/Interactive-map-of-the-Ancient-Lost-Cities.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Ancient Lost Cities"
@@ -2002,7 +2002,7 @@ var layers = {
                     P: true,
                     I: "mrm-14",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Ancient-Ruins/Interactive-Map-of-the-Ancient-Ruins-of-Africa.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Ancient-Ruins/Interactive-Map-of-the-Ancient-Ruins-of-Africa.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Ancient Ruins of Africa"
@@ -2011,7 +2011,7 @@ var layers = {
                     P: true,
                     I: "mrm-15",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Ancient-Ruins/InteractiveMapoftheAncientandOtherRuinsofSouthCentralAmerica.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Ancient-Ruins/InteractiveMapoftheAncientandOtherRuinsofSouthCentralAmerica.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Ancient and other Ruins of South Central America"
@@ -2020,7 +2020,7 @@ var layers = {
                     P: true,
                     I: "mrm-16",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Ancient-Ruins/The-Ruins-of-The-United-States-and-Other-Historic-Sites.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Ancient-Ruins/The-Ruins-of-The-United-States-and-Other-Historic-Sites.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Ruins of the United States and other Historic Sites"
@@ -2029,7 +2029,7 @@ var layers = {
                     P: true,
                     I: "mrm-17",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Ancient-Ruins/Interactive-Map-of-Aztec-Egyptian-Inca-Mayan-and-Chinese-Pyramids.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Ancient-Ruins/Interactive-Map-of-Aztec-Egyptian-Inca-Mayan-and-Chinese-Pyramids.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Aztec, Egyptian, Inca, Mayan, and Chinese Pyramids"
@@ -2043,7 +2043,7 @@ var layers = {
                     P: true,
                     I: "mrm-18",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Architecture/Antarctic-Research-Bases-Cold-and-Desolate-Places.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Architecture/Antarctic-Research-Bases-Cold-and-Desolate-Places.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Antarctic Research Bases Cold and Desolate Places"
@@ -2052,7 +2052,7 @@ var layers = {
                     P: true,
                     I: "mrm-19",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Architecture/CitiesoftheDeadHeavenorHell.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Architecture/CitiesoftheDeadHeavenorHell.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Cities of the Dead - Heaven or Hell"
@@ -2061,7 +2061,7 @@ var layers = {
                     P: true,
                     I: "mrm-20",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Architecture/Google-Map-of-Bridge-Disasters.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Architecture/Google-Map-of-Bridge-Disasters.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Bridge Disasters"
@@ -2070,7 +2070,7 @@ var layers = {
                     P: true,
                     I: "mrm-21",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Architecture/Great-Libraries-of-Knowledge.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Architecture/Great-Libraries-of-Knowledge.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Great Libraries of Knowledge"
@@ -2079,7 +2079,7 @@ var layers = {
                     P: true,
                     I: "mrm-22",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Architecture/Interactive-Map-of-the-Top-10-Longest-Suspension-Bridges.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Architecture/Interactive-Map-of-the-Top-10-Longest-Suspension-Bridges.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Top 10 Longest Suspension Bridges"
@@ -2088,7 +2088,7 @@ var layers = {
                     P: true,
                     I: "mrm-23",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Architecture/Interactive-Map-of-the-Works-of-Frank-Lloyd-Wright.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Architecture/Interactive-Map-of-the-Works-of-Frank-Lloyd-Wright.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Map of the Works of Frank Lloyd Wright"
@@ -2097,7 +2097,7 @@ var layers = {
                     P: true,
                     I: "mrm-24",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Architecture/Mind-Blowing-Open-Pit-Mines.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Architecture/Mind-Blowing-Open-Pit-Mines.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Mind Blowing Open Pit Mines"
@@ -2106,7 +2106,7 @@ var layers = {
                     P: true,
                     I: "mrm-25",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Architecture/Road-and-Rail-Tunnel-prowess-found-in-Google-Map.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Architecture/Road-and-Rail-Tunnel-prowess-found-in-Google-Map.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Road and Rail Tunnels"
@@ -2115,7 +2115,7 @@ var layers = {
                     P: true,
                     I: "mrm-26",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Architecture/SpaceCenters-Non-Military-Space-Launch-Sites.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Architecture/SpaceCenters-Non-Military-Space-Launch-Sites.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Space Centers and Non-Military Launch Sites"
@@ -2124,7 +2124,7 @@ var layers = {
                     P: true,
                     I: "mrm-27",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Architecture/The-MRM-Unofficial-Guide-of-Royal-Palaces-(A-D).kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Architecture/The-MRM-Unofficial-Guide-of-Royal-Palaces-(A-D).kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "MRM Unofficial Guide of Royal Palaces (A-D)"
@@ -2133,7 +2133,7 @@ var layers = {
                     P: true,
                     I: "mrm-28",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Architecture/The-MRM-Unofficial-Guide-to-Royal-Palaces-(E-J).kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Architecture/The-MRM-Unofficial-Guide-to-Royal-Palaces-(E-J).kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "MRM Unofficial Guide of Royal Palaces (E-J)"
@@ -2142,7 +2142,7 @@ var layers = {
                     P: true,
                     I: "mrm-29",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Architecture/The-Oldest-Lighthouses-Aged-Protectors-of-Globalization.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Architecture/The-Oldest-Lighthouses-Aged-Protectors-of-Globalization.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "The Oldest Lighthouses Aged Protectors of Globalization"
@@ -2151,7 +2151,7 @@ var layers = {
                     P: true,
                     I: "mrm-30",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Architecture/The-Roller-Coasters-of-Google-Map.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Architecture/The-Roller-Coasters-of-Google-Map.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Roller Coasters"
@@ -2160,7 +2160,7 @@ var layers = {
                     P: true,
                     I: "mrm-31",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Architecture/The-World's-Best-Botanical-Gardens-in-Google-Map.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Architecture/The-World's-Best-Botanical-Gardens-in-Google-Map.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "The World's Best Botanical Gardens"
@@ -2169,7 +2169,7 @@ var layers = {
                     P: true,
                     I: "mrm-32",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Architecture/The-World's-Best-Zoos-in-Google-Map.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Architecture/The-World's-Best-Zoos-in-Google-Map.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "The World's Best Zoos"
@@ -2178,7 +2178,7 @@ var layers = {
                     P: true,
                     I: "mrm-33",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Architecture/The-World's-Largest-Sports-Stadiums.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Architecture/The-World's-Largest-Sports-Stadiums.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "The World's Largest Sports Stadiums"
@@ -2191,7 +2191,7 @@ var layers = {
                     P: true,
                     I: "mrm-34",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Conquerors-and-Wars/Battles-of-the-War-of-1812/1812.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Conquerors-and-Wars/Battles-of-the-War-of-1812/1812.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Battles of the War of 1812 (1812)"
@@ -2200,7 +2200,7 @@ var layers = {
                     P: true,
                     I: "mrm-35",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Conquerors-and-Wars/Battles-of-the-War-of-1812/1813.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Conquerors-and-Wars/Battles-of-the-War-of-1812/1813.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Battles of the War of 1812 (1813)"
@@ -2209,7 +2209,7 @@ var layers = {
                     P: true,
                     I: "mrm-36",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Conquerors-and-Wars/Battles-of-the-War-of-1812/1814.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Conquerors-and-Wars/Battles-of-the-War-of-1812/1814.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Battles of the War of 1812 (1813)"
@@ -2218,7 +2218,7 @@ var layers = {
                     P: true,
                     I: "mrm-37",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Conquerors-and-Wars/Battles-of-the-War-of-1812/1815.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Conquerors-and-Wars/Battles-of-the-War-of-1812/1815.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Battles of the War of 1812 (1815)"
@@ -2227,7 +2227,7 @@ var layers = {
                     P: true,
                     I: "mrm-38",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Conquerors-and-Wars/Battle-of-Waterloo-1815.kmz",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Conquerors-and-Wars/Battle-of-Waterloo-1815.kmz",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Battle of Waterloo 1815"
@@ -2236,7 +2236,7 @@ var layers = {
                     P: true,
                     I: "mrm-39",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Conquerors-and-Wars/Interactive-Map-of-Pizarro's-Conquering-of-Peru.kmz",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Conquerors-and-Wars/Interactive-Map-of-Pizarro's-Conquering-of-Peru.kmz",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Pizarro's Conquering of Peru"
@@ -2245,7 +2245,7 @@ var layers = {
                     P: true,
                     I: "mrm-40",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Conquerors-and-Wars/Interactive-Map-of-the-adventures-of-Blackbeard-the-pirate.kmz",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Conquerors-and-Wars/Interactive-Map-of-the-adventures-of-Blackbeard-the-pirate.kmz",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Adventures of Blackbeard the Pirate"
@@ -2254,7 +2254,7 @@ var layers = {
                     P: true,
                     I: "mrm-41",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Conquerors-and-Wars/Interactive-Map-of-the-American-Revolution.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Conquerors-and-Wars/Interactive-Map-of-the-American-Revolution.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "American Revolution"
@@ -2263,7 +2263,7 @@ var layers = {
                     P: true,
                     I: "mrm-42",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Conquerors-and-Wars/Interactive-Map-of-the-Battles-of-Spartacus.kmz",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Conquerors-and-Wars/Interactive-Map-of-the-Battles-of-Spartacus.kmz",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Battles of Spartacus"
@@ -2272,7 +2272,7 @@ var layers = {
                     P: true,
                     I: "mrm-43",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Conquerors-and-Wars/Interactive-Map-of-the-conquering-of-Mexico-by-Hernan-Cortés.kmz",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Conquerors-and-Wars/Interactive-Map-of-the-conquering-of-Mexico-by-Hernan-Cortés.kmz",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Conquering of Mexico by Hernan Cortés"
@@ -2281,7 +2281,7 @@ var layers = {
                     P: true,
                     I: "mrm-44",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Conquerors-and-Wars/Interactive-Map-of-the-travels-of-the-7th-Portuguese-India-Armada-(Almeida).kmz",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Conquerors-and-Wars/Interactive-Map-of-the-travels-of-the-7th-Portuguese-India-Armada-(Almeida).kmz",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Travels of the 7th Portuguese India Armada (Almeida)"
@@ -2290,7 +2290,7 @@ var layers = {
                     P: true,
                     I: "mrm-45",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Conquerors-and-Wars/Interactive-Map-of-the-Wars-of-Alexander-the-Great.kmz",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Conquerors-and-Wars/Interactive-Map-of-the-Wars-of-Alexander-the-Great.kmz",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Wars of Alexander the Great"
@@ -2299,7 +2299,7 @@ var layers = {
                     P: true,
                     I: "mrm-46",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Conquerors-and-Wars/Le-Train-The-Rescuing-of-the-German-Looted-French-Art-Train-(1944)-Fact-vs-Fiction.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Conquerors-and-Wars/Le-Train-The-Rescuing-of-the-German-Looted-French-Art-Train-(1944)-Fact-vs-Fiction.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Wars of Alexander the Great"
@@ -2308,7 +2308,7 @@ var layers = {
                     P: true,
                     I: "mrm-46",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Conquerors-and-Wars/Mexican-American-War-of-1846-1848.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Conquerors-and-Wars/Mexican-American-War-of-1846-1848.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Mexican-American War of 1846-1848"
@@ -2317,7 +2317,7 @@ var layers = {
                     P: true,
                     I: "mrm-47",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Conquerors-and-Wars/Part-1-of-Interactive-Map-of-The-Civil-War-Southern-Assertiveness-(1861-1863).kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Conquerors-and-Wars/Part-1-of-Interactive-Map-of-The-Civil-War-Southern-Assertiveness-(1861-1863).kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Civil War - Southern Assertiveness (1861-1863) (Part 1)"
@@ -2326,7 +2326,7 @@ var layers = {
                     P: true,
                     I: "mrm-48",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Conquerors-and-Wars/Part-2-of-Interactive-Map-of-the-Civil-War-Divide-and-Conquer-(1863-1865).kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Conquerors-and-Wars/Part-2-of-Interactive-Map-of-the-Civil-War-Divide-and-Conquer-(1863-1865).kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Civil War - Divide and Conquer (1863-1865) (Part 2)"
@@ -2335,7 +2335,7 @@ var layers = {
                     P: true,
                     I: "mrm-49",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Conquerors-and-Wars/Sir-Francis-Drake's-1572-expedition-against-the-Spanish-treasure-house-at-Nombre-de-Dios.kmz",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Conquerors-and-Wars/Sir-Francis-Drake's-1572-expedition-against-the-Spanish-treasure-house-at-Nombre-de-Dios.kmz",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Sir Francis Drake's 1572 expedition against the Spanish treasure house at Nombre de Dios"
@@ -2344,7 +2344,7 @@ var layers = {
                     P: true,
                     I: "mrm-50",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Conquerors-and-Wars/The-conquering-of-North-America-by-Hernando-de-Soto.kmz",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Conquerors-and-Wars/The-conquering-of-North-America-by-Hernando-de-Soto.kmz",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Conquering North America by Hernando de Soto"
@@ -2353,7 +2353,7 @@ var layers = {
                     P: true,
                     I: "mrm-51",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Conquerors-and-Wars/WWII-Battles-The-Eastern-Front-The-German-Offense-(1939-1942).kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Conquerors-and-Wars/WWII-Battles-The-Eastern-Front-The-German-Offense-(1939-1942).kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "WWII Battles - The Eastern Front - German-Offensive (1939-1942)"
@@ -2362,7 +2362,7 @@ var layers = {
                     P: true,
                     I: "mrm-52",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Conquerors-and-Wars/WWII-Battles-The-Eastern-Front-Soviet-Offensive-(1943-1945).kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Conquerors-and-Wars/WWII-Battles-The-Eastern-Front-Soviet-Offensive-(1943-1945).kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "WWII Battles - The Eastern Front - Soviet-Offensive (1943-1945)"
@@ -2371,7 +2371,7 @@ var layers = {
                     P: true,
                     I: "mrm-53",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Conquerors-and-Wars/WWII-Battles-The-Mediterranean-and-North-African-Front.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Conquerors-and-Wars/WWII-Battles-The-Mediterranean-and-North-African-Front.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "WWII Battles - The Mediterranean and North African Front"
@@ -2380,7 +2380,7 @@ var layers = {
                     P: true,
                     I: "mrm-54",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Conquerors-and-Wars/WWII-Battles-The-Western-Front.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Conquerors-and-Wars/WWII-Battles-The-Western-Front.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "WWII Battles - The Western Front"
@@ -2393,7 +2393,7 @@ var layers = {
                     P: true,
                     I: "mrm-55",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Crime-sprees/Bonnie-and-Clyde-Crime-Spree-of-1932-1934.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Crime-sprees/Bonnie-and-Clyde-Crime-Spree-of-1932-1934.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Bonnie and Clyde Crime Spree of 1932-1934"
@@ -2402,7 +2402,7 @@ var layers = {
                     P: true,
                     I: "mrm-56",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Crime-sprees/Boston-Marathon-Manhunt-as-it-happened.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Crime-sprees/Boston-Marathon-Manhunt-as-it-happened.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Boston Marathon Manhunt as it happened"
@@ -2411,7 +2411,7 @@ var layers = {
                     P: true,
                     I: "mrm-57",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Crime-sprees/Corporatecrimethathelpedsetthestageforthe2008collapseoftheworldeconomy.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Crime-sprees/Corporatecrimethathelpedsetthestageforthe2008collapseoftheworldeconomy.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Corporate Crime that helped set the stage for the 2008 collapse of the world economy"
@@ -2420,7 +2420,7 @@ var layers = {
                     P: true,
                     I: "mrm-58",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Crime-sprees/Google-Map-of-the-John-Dillinger-Crime-Spree.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Crime-sprees/Google-Map-of-the-John-Dillinger-Crime-Spree.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "The John Dillinger Crime Spree"
@@ -2429,7 +2429,7 @@ var layers = {
                     P: true,
                     I: "mrm-59",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Crime-sprees/The-Trayvon-Martin-murder-scene-timeline-in-a-Google-Map.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Crime-sprees/The-Trayvon-Martin-murder-scene-timeline-in-a-Google-Map.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "The Trayvon Martin murder scene timeline"
@@ -2442,7 +2442,7 @@ var layers = {
                     P: true,
                     I: "mrm-60",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Disease-Outbreaks/Google-Map-of-Infectious-Disease-Quarantines.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Disease-Outbreaks/Google-Map-of-Infectious-Disease-Quarantines.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Map of Infectious Disease Quarantines"
@@ -2451,7 +2451,7 @@ var layers = {
                     P: true,
                     I: "mrm-61",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Disease-Outbreaks/Mad-Cow-Disease-Outbreaks.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Disease-Outbreaks/Mad-Cow-Disease-Outbreaks.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Mad Cow Disease Outbreaks"
@@ -2460,7 +2460,7 @@ var layers = {
                     P: true,
                     I: "mrm-62",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Disease-Outbreaks/Middle-East-Respiratory-Syndrome-(MERS)-Outbreaks.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Disease-Outbreaks/Middle-East-Respiratory-Syndrome-(MERS)-Outbreaks.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Niddle East Respiratory Syndrome (MERS) Outbreaks"
@@ -2469,7 +2469,7 @@ var layers = {
                     P: true,
                     I: "mrm-63",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Disease-Outbreaks/The-Spread-of-Ebola-Outbreaks-(1976-2015).kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Disease-Outbreaks/The-Spread-of-Ebola-Outbreaks-(1976-2015).kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "The Spread of Ebola Outbreaks (1976-2015)"
@@ -2478,7 +2478,7 @@ var layers = {
                     P: true,
                     I: "mrm-64",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Disease-Outbreaks/The-Worldwide-Outbreak-of-SARS.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Disease-Outbreaks/The-Worldwide-Outbreak-of-SARS.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "The Worldwide Outbreak of SARS"
@@ -2487,7 +2487,7 @@ var layers = {
                     P: true,
                     I: "mrm-65",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Disease-Outbreaks/USA-Meningitis-Outbreak-2012-2013.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Disease-Outbreaks/USA-Meningitis-Outbreak-2012-2013.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "U.S. Meningitis Outbreak (2012-2013)"
@@ -2500,7 +2500,7 @@ var layers = {
                     P: true,
                     I: "mrm-66",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/Adventures-of-the-big-game-hunter-and-explorer-Ewart-Scott-Grogan.kmz",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Explorers/Adventures-of-the-big-game-hunter-and-explorer-Ewart-Scott-Grogan.kmz",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Adventures of the big game hunter and explorer Ewart Scott Grogan"
@@ -2509,7 +2509,7 @@ var layers = {
                     P: true,
                     I: "mrm-67",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/CabralCacellas1626-28explorationofBhutanTibet.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Explorers/CabralCacellas1626-28explorationofBhutanTibet.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Cabral Cacellas exploration of Bhutan Tibet (1626-28)"
@@ -2518,7 +2518,7 @@ var layers = {
                     P: true,
                     I: "mrm-68",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/Fridtjof-Nansen's-Farthest-North-Arctic-Expedition.kmz",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Explorers/Fridtjof-Nansen's-Farthest-North-Arctic-Expedition.kmz",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Fridtjof Nansen's Farthest North Arctic Expedition"
@@ -2527,7 +2527,7 @@ var layers = {
                     P: true,
                     I: "mrm-69",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/Garcia's-1524-search-for-and-plundering-the-White-King's-cities-of-incomparable-wealth.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Explorers/Garcia's-1524-search-for-and-plundering-the-White-King's-cities-of-incomparable-wealth.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Garcia's 1524 search for and plundering the White King's cities of incomparable wealth"
@@ -2536,7 +2536,7 @@ var layers = {
                     P: true,
                     I: "mrm-70",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/Herrons1899ExplorationofAlaska.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Explorers/Herrons1899ExplorationofAlaska.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Herron's Exploration of Alaska (1899)"
@@ -2545,7 +2545,7 @@ var layers = {
                     P: true,
                     I: "mrm-71",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-BurkeWills-Exploration-of-the-Interior-of-Australia-1860.kmz",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-BurkeWills-Exploration-of-the-Interior-of-Australia-1860.kmz",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "BurkeWills Exploration of the Interior of Australia (1860)"
@@ -2554,7 +2554,7 @@ var layers = {
                     P: true,
                     I: "mrm-72",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-Dampier's-1699-Voyage-to-New-Holland.kmz",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-Dampier's-1699-Voyage-to-New-Holland.kmz",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Dampier's Voyage to New Holland (1699)"
@@ -2563,7 +2563,7 @@ var layers = {
                     P: true,
                     I: "mrm-73",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-George-Simpson's-1828-Canoe-Voyage-Across-Canada.kmz",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-George-Simpson's-1828-Canoe-Voyage-Across-Canada.kmz",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "George Simpson's Canoe Voyage Across Canada (1828)"
@@ -2572,7 +2572,7 @@ var layers = {
                     P: true,
                     I: "mrm-74",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-Gerhard-Rohlfs'-Adventures-in-Morocco.kmz",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-Gerhard-Rohlfs'-Adventures-in-Morocco.kmz",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Gerhard Rohlfs' Adventures in Morocco"
@@ -2581,7 +2581,7 @@ var layers = {
                     P: true,
                     I: "mrm-75",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-Gustav-Nachtigal's-1861-Sahara-and-Sudan-Adventure.kmz",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-Gustav-Nachtigal's-1861-Sahara-and-Sudan-Adventure.kmz",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Gustav Nachtigal's Sahara and Sudan Adventure (1861)"
@@ -2590,7 +2590,7 @@ var layers = {
                     P: true,
                     I: "mrm-76",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-Herndon's-Exploration-of-the-Amazon-Valley-1851.kmz",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-Herndon's-Exploration-of-the-Amazon-Valley-1851.kmz",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Herndon's Exploration of the Amazon Valley (1851)"
@@ -2599,7 +2599,7 @@ var layers = {
                     P: true,
                     I: "mrm-77",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-Isabella-Bird's-1896-Exploration-of-the-Yangtze-River-and-Beyond.kmz",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-Isabella-Bird's-1896-Exploration-of-the-Yangtze-River-and-Beyond.kmz",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Isabella Bird's Exploration of the Yangtze River and Beyond (1896)"
@@ -2608,7 +2608,7 @@ var layers = {
                     P: true,
                     I: "mrm-78",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-James-Cook's-1772-Voyage-to-the-South-Pole-and-Round-the-World.kmz",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-James-Cook's-1772-Voyage-to-the-South-Pole-and-Round-the-World.kmz",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "James Cook's Voyage to the South Pole and Round the World (1772)"
@@ -2617,7 +2617,7 @@ var layers = {
                     P: true,
                     I: "mrm-79",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-Lewis-and-Clark's-Expedition-1804-through-1805.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-Lewis-and-Clark's-Expedition-1804-through-1805.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Lewis and Clark's Expedition (1804-1805)"
@@ -2626,7 +2626,7 @@ var layers = {
                     P: true,
                     I: "mrm-80",
                     T: 'kml',
-                    G: "http://climateviewer.net/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-Mikael-Strandberg's-Siberian-Expedition.kml",
+                    G: "http://climateviewer.com/layers/kml/MyReadingMapped/Explorers/Interactive-Map-of-Mikael-Strandberg's-Siberian-Expedition.kml",
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Mikael Strandberg's Siberian Expedition"
@@ -2635,7 +2635,7 @@ var layers = {
         }
     },
     other: {
-        N: "Other", icon: "student",
+        N: "Other",
         electromagnetic: {
             N: "Atmospheric Sensors", icon: "rocket", '>': [
                 {
@@ -3058,7 +3058,7 @@ var layers = {
     },
     N: "Base Maps",
         basemaps: {
-            N: "Base Maps", icon: "globe", '>': [
+            N: "Base Maps", '>': [
                 {
                     I: "Bing_AERIAL_WITH_LABELS",
                     T: 'bing',

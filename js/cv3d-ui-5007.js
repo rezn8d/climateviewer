@@ -2,7 +2,7 @@
 
 // Set web root url
 var homeURL = window.location.protocol + "//" + window.location.host + "/3D/";  // production
-var proxyURL = 'http://climateviewer.net/netj1/proxy';  // production
+var proxyURL = 'http://climateviewer.com/netj1/proxy';  // production
 
 var activeLayers = {};
 var infoBox = $('.cesium-infoBox');
@@ -266,7 +266,7 @@ var defaultTranslucency = new Cesium.NearFarScalar(1.5e2, 1, 3.0e6, 0);
 function loadError(layerId, geoDataSrc, error) {
   // console.log('loading ' + layerId + ' failed: ' + error);
   var target = $('#' + layerId);
-  $('<div class="ui card layer-sliders" style="display:block"><div class="content"><div class="ui divided list"><div class="item"><i class="circular inverted warning icon"></i><div class="content"><div class="header">Load Failed</div>Please use <a href="mailto:jim@climateviewer.com?subject=ClimateViewer 3D broken link - ' + layerId + '&amp;body=Unfortunately this ( ' + geoDataSrc + ' ) URL is not working properly due to ( ' + error + ' ), please look into it.  Sent from http://climateviewer.net/3D/">this link</a> to report this error.<br><br><strong>ERROR:</strong> ' + error + '</div></div></div></div>').appendTo(target);
+  $('<div class="ui card layer-sliders" style="display:block"><div class="content"><div class="ui divided list"><div class="item"><i class="circular inverted warning icon"></i><div class="content"><div class="header">Load Failed</div>Please use <a href="mailto:jim@climateviewer.com?subject=Climate Viewer 3D broken link - ' + layerId + '&amp;body=Unfortunately this ( ' + geoDataSrc + ' ) URL is not working properly due to ( ' + error + ' ), please look into it.  Sent from http://climateviewer.com/3D/">this link</a> to report this error.<br><br><strong>ERROR:</strong> ' + error + '</div></div></div></div>').appendTo(target);
     var icon = $('.' + layerId + '-load');
     var span = $('#' + layerId + ' span');
     icon.removeClass('spinner loading').addClass('close fail');
@@ -562,7 +562,7 @@ function initDetails(layerId, layerType, details, source, sourceUrl, geoDataSrc)
     if (layerType == ('arcgis') || layerType == ('arcgis-layer')) {
       $('<div class="item '+ layerId + '-info"><i class="circular inverted file icon"></i><div class="content"><div class="header">Data Type</div>ArcGIS MapServer<br><a target="_blank" rel="nofollow" href="' + geoDataSrc + '/legend">Map Legend</a> &bull; <a target="_blank" rel="nofollow" href="' + geoDataSrc + '">MapServer Information</a></div>').appendTo(list);
     }
-    $('<div class="extra content"><a href="' + homeURL + 'index.html?layersOn=' + layerId + '" class="right floated created" target="_self">Share Link</a><a href="mailto:jim@climateviewer.com?subject=ClimateViewer broken link - ' + layerId + '&amp;body=Unfortunately this ( ' + geoDataSrc + ' ) URL is not working properly, please look into it. Sent from http://climateviewer.net/">Report Error</a></div>').appendTo(details);
+    $('<div class="extra content"><a href="' + homeURL + 'index.html?layersOn=' + layerId + '" class="right floated created" target="_self">Share Link</a><a href="mailto:jim@climateviewer.com?subject=Climate Viewer broken link - ' + layerId + '&amp;body=Unfortunately this ( ' + geoDataSrc + ' ) URL is not working properly, please look into it. Sent from http://climateviewer.com/3D/">Report Error</a></div>').appendTo(details);
 
       //shareLink();
   }
@@ -755,7 +755,7 @@ $('.tab .menu .item').tab({
 // SOCIAL PANEL
 $('.share-tab').one('click', function () {
     // load comments
-    $('#comments').html("<div id='disqus_thread'></div><script type='text/javascript'> var disqus_shortname = 'climateviewer3d';var disqus_url = 'http://climateviewer.net/'; (function() { var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true; dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js'; (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq); })();</script>").addClass('panel-comments');
+    $('#comments').html("<div id='disqus_thread'></div><script type='text/javascript'> var disqus_shortname = 'climateviewer3d';var disqus_url = 'http://climateviewer.com/3D/'; (function() { var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true; dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js'; (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq); })();</script>").addClass('panel-comments');
     // load shareThis
     $('#share').addClass('panel-share');
     $('head').append('<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher: "919e0e68-8cf4-433f-b1ac-049584a0a9f5", doNotHash: true, doNotCopy: true, hashAddressBar: false});</script>');

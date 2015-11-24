@@ -130,9 +130,13 @@ div#feature-content {
     box-shadow: 0 0 0 1px rgba(255,255,255,.15) inset!important;
     color: rgba(255,255,255,.8)!important;
 }
-.ui.basic.orange.button, .ui.basic.orange.buttons .button {
-    box-shadow: 0 0 0 1px rgba(255,255,255,.15) inset!important;
-    color: rgba(255,255,255,.8)!important;
+.modal .ui.basic.orange.button, .modal .ui.basic.orange.buttons .button {
+	box-shadow: 0 0 0 1px rgba(255,255,255,.15) inset!important;
+	color: rgba(255,255,255,.8)!important;
+}
+.modal .ui.basic.orange.button:hover, .modal .ui.basic.orange.buttons .button:hover {
+	box-shadow: 0 0 0 1px rgba(255,112,20,.15) inset!important;
+	color: rgba(255,112,20,.8)!important;
 }
 .ui.basic.blue.button, .ui.basic.blue.buttons .button {
     box-shadow: 0 0 0 1px rgba(255,255,255,.15) inset!important;
@@ -728,11 +732,11 @@ div.map-layers div.folder div.folder {
 .ui.cv-button-group .ui.button.cv-button {
 	background-color:#1c1c1c;
 	color:#eee;
-	font-size:1.2rem;
+	font-size:.9rem;
 }
 
 .ui.cv-button-group .ui.button.cv-button i {
-	font-size:1.2rem;
+	font-size:.9rem;
 	position:relative;
 }
 .ui.button.cv-button>.icon {
@@ -920,7 +924,7 @@ div.map-layers > h2.toggle {
 	font-size:1.3em;
 	color:#eee;
 	border-top: 1px solid #333333;
-	text-align:left;
+	text-align:center;
 	padding-left: 18px;
 }
 
