@@ -1708,6 +1708,117 @@ var layers = {
             ]
         }
     },
+    N: "Big Brother",
+    bigbrother: {
+        N: "Big Brother", '>': [
+            {
+                I: "f05",
+                T: 'kml',
+                G: '/layers/kml/places/NWO-Surveillance-Map-CV3D.kmz',
+                S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a><br>Map of surveillance facilities including NSA, AUSCANNZUKUS, and the Fourteen Eyes.",
+                U: "http://climateviewer.com/new-world-order/",
+                N: "Government Spy Facilities"
+            },
+            {
+                I: "f06",
+                T: 'kml',
+                G: '/layers/kml/3rdparty/places/submarine-cables-CV3D.kmz',
+                S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a><br>Map of ocean floor cables tapped by the NSA.",
+                U: "http://www.submarinecablemap.com/",
+                N: "Submarine (underwater) Communication Cables"
+            },
+            {
+                I: "f061",
+                T: 'kml',
+                G: '/layers/kml/3rdparty/places/fusion-landing-points-CV3D.kmz',
+                S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a><br>Map of ocean floor cables tapped by the NSA.",
+                U: "http://www.submarinecablemap.com/",
+                N: "Submarine (underwater) Communication Cable Landings"
+            },
+            {
+                I: "f07",
+                T: 'kml',
+                Z: true,
+                G: '/layers/kml/places/DHS-Fusion-Centers-CV3D.kmz',
+                S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a><br>Map of the U.S. Department of Homeland Security surveillance facilities.",
+                U: "http://climateviewer.com/new-world-order/",
+                N: "DHS Fusion Centers"
+            },
+            {
+                I: "f08",
+                T: 'kml',
+                Z: true,
+                G: '/layers/kml/places/Drones-over-USA-CV3D.kmz',
+                S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a><br>Map of drone operators resulting from FOIA requests.",
+                U: "http://climateviewer.com/new-world-order/",
+                N: "UAV Drones over the USA"
+            },
+            {
+                I: "drones-pakistan",
+                T: 'kml',
+                Z: true,
+                G: '/layers/kml/places/Pakistan-drone-strikes-CV3D.kmz',
+                S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a><br>Map of CIA drone strikes in Pakistan.",
+                U: "http://climateviewer.com/new-world-order/",
+                N: "U.S. drone strikes in Pakistan"
+            },
+            {
+                I: "prisons",
+                T: 'kml',
+                H: true,
+                G: '/layers/kml/3rdparty/places/World-Prison-Brief-5659.kmz',
+                S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a><br>World Prison Brief (2010) by SergeyUA - World Prison Brief – 143 countries, 5660 places (September, 2010) Africa – 35 countries, 179 places. North America - 14 countries, 1767 places. South America – 13 countries, 191 places. Asia – 35 countries, 819 places. Australia &amp; Oceania – 7 countries, 119 places. Europe – 39 countries, 2585 places. Foto - 2513. References on website - 4586. Including Wikipedia - 2223.",
+                U: "https://productforums.google.com/forum/#!msg/gec-earth-browsing-moderated/Ey216sRE2Z0/xgt4bLhYriEJ",
+                N: "Prisons Worldwide"
+            },
+            {
+                I: "us-border-crisis",
+                T: 'kml',
+                P: true,
+                Z: true,
+                G: '/layers/kml/3rdparty/places/US-border-crisis-Gmap.kml',
+                S: "Relocations of Unaccompanied Immigrant Minors (Updated by NumbersUSA.com on 9/30/14 at 11:28 a.m. EST)<br><br>UPDATE 9/30: Schools in every state struggle to help kids who crossed the border<br><br>UPDATE 8/25: The Obama administration has abandoned its months-long search for emergency shelters across the nation<br><br>County-by-county figures for UACs being released to adult sponsors: <a href='http://www.acf.hhs.gov/programs/orr/unaccompanied-children-released-to-sponsors-by-county'>http://www.acf.hhs.gov/programs/orr/unaccompanied-children-released-to-sponsors-by-county</a>",
+                U: "https://www.google.com/maps/d/viewer?msa=0&mid=zLmpuCst6-hQ.kJd89w3O8yas",
+                N: "Relocations of Unaccompanied Immigrant Minors (2014)"
+            },
+/*            {
+                I: "fema-camps",
+                T: 'kml',
+                Z: true,
+                G: '/layers/kml/places/FEMA-Camps-CV3D.kmz',
+                S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a><br>I have included the FEMA camp maps as a result of much public debate on the matter. If you inspect the markers that the two map creators made, it will be hard for you to find anything that resembles a holding cage. I will verify these locations over the coming months and see if any of this has truth to it. Until then, here are the two sources of the &quot;FEMA Camp&quot; images that are making the rounds in social media, verify it before you believe it. The creators of these two maps did a poor job in placing markers at the least, and did not do the proper research to locate the facilities they claim are &quot;federal holding pens&quot;.",
+                U: "http://climateviewer.com/new-world-order/",
+                N: "FEMA Camps"
+            }, */
+            {
+                I: "mh17",
+                T: 'kml',
+                Z: true,
+                G: '/layers/kml/places/MH17-CV3D.kmz',
+                S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>",
+                U: "http://climateviewer.com/new-world-order/",
+                N: "Malaysian Airlines MH17 shot down by SA-11"
+            },
+            {
+                I: "surface-to-air",
+                T: 'kml',
+                H: true,
+                G: '/layers/kml/3rdparty/places/SAM-Site-Overview-June-2013-CV3D.kmz',
+                S: "Worldwide SAM Site Overview, updated June 2013",
+                U: "http://geimint.blogspot.com/2008/06/worldwide-sam-site-overview.html",
+                N: "Surface-to-Air Missiles (SAM) Worldwide"
+            },
+            {
+                I: "russian-sam",
+                Z: true,
+                T: 'kml',
+                G: '/layers/kml/3rdparty/places/Fortress-Russia-CV3D.kmz',
+                S: "Defending Mother Russia - Bluffer’s Guide to Fortress Russia (Part 1): Integrated Air Defence of Russia 2010",
+                U: "https://productforums.google.com/forum/#!msg/gec-dynamic-data-layers/K7LgrqY1d_8/pmH2BocgvR4J",
+                N: "Russian Surface-to-Air Missiles (SAM) Sites"
+            }
+        ]
+    },
     WXMOD: {
         N: "Geoengineering", '>': [
             {
