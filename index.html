@@ -57,7 +57,7 @@
     <!-- Theme style -->
   <link type="text/css" rel="stylesheet" href="/dist/css/cv-theme.css">
   <!-- CV style -->
-  <link type="text/css" rel="stylesheet" href="/dist/css/cv-home-5.12.css">
+  <link type="text/css" rel="stylesheet" href="/dist/css/cv-home-5.13.css">
 
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -153,7 +153,7 @@
             <a href="#top" title="Scroll to the top of the page"><i class="fa fa-angle-up"></i></a>
           </li>
           <li id="right-sidebar" class="comment-bg">
-            <a href="#" data-toggle="control-sidebar" target="_self" title="Click here to share this page, comment, chat, watch videos, and see my latest tweets!"><i class="fa fa-comments-o"></i></a>
+            <a id="siderbar-toggle" href="#" data-toggle="control-sidebar" target="_self" title="Click here to share this page, comment, chat, watch videos, and see my latest tweets!"><i class="fa fa-comments-o"></i></a>
           </li>
         </ul>
       </div>
@@ -167,7 +167,7 @@
     <!-- sidebar: style can be found in sidebar.less -->
     <section class="sidebar">
       <!-- Sidebar user panel -->
-      <div class="user-panel" style="display: none">
+      <!-- <div class="user-panel" style="display: none">
         <div class="pull-left image">
           <img src="/dist/img/jim-lee.jpg" class="img-circle" alt="User Image">
         </div>
@@ -175,7 +175,7 @@
           <p>Jim 'rezn8d' Lee</p>
           <a href="/rezn8d/"><i class="fa fa-circle text-success"></i> Online</a>
         </div>
-      </div>
+      </div> -->
       <!-- search form -->
 
       <form id="searchForm" action="#" method="post" class="sidebar-form">
@@ -198,10 +198,11 @@
       <!-- sidebar menu: : style can be found in sidebar.less -->
       <ul class="sidebar-menu">
         <li class="header">Apps</li>
-        <li><a href="/3D/"><i class="fa fa-globe"></i> <span>3D Globe</span></a></li>
-        <li><a href="/mobile/"><i class="fa fa-map-marker"></i> <span>Mobile Map</span></a></li>
+        <li class="active"><a href="/index.html" title="Climate Viewer home with upcoming features!" target="_self"><i class="fa fa-home"></i> <span>Climate Viewer Home</span></a></li>
+        <li><a href="/3D/" target="_self"><i class="fa fa-globe"></i> <span>Climate Viewer 3D Globe</span></a></li>
+        <li><a href="/mobile/" target="_self"><i class="fa fa-map-marker"></i> <span>Climate Viewer Mobile Map</span></a></li>
         <li><a href="http://theweathereffect.com/"><i class="fa fa-clock-o"></i> <span>Geoengineering Timeline</span></a></li>
-        <li class="treeview active">
+        <li class="treeview">
           <a href="#">
             <i class="fa fa-info-circle"></i> <span>About Climate Viewer</span> <i class="fa fa-angle-left pull-right"></i>
           </a>
@@ -390,15 +391,17 @@
           <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
               <h1 class="brand-heading">CLIMATE<i>VIEWER</i></h1><br>
-              <h3 class="intro-text body-menu">
+              <h3 style="margin-bottom:5px" class="intro-text">Diligent Environmental Activism</h3><br>
+              <h3 style="margin-bottom:5px" class="intro-text body-menu">
                 <a class="page-scroll" href="#about">About</a> &bull;
                 <a class="page-scroll" href="#learn">Learn</a> &bull;
                 <a class="page-scroll" href="#features">Features</a><br>
                 <a class="page-scroll" href="#team">Our Team</a> &bull;
                 <a class="page-scroll" href="#contact">Join us</a> &bull;
                 <a class="page-scroll" href="#grow">Donate</a>
-              </h3>
-              <h3 class="intro-text">Diligent Environmental Activism</h3><br>
+              </h3><br>
+              <a class="btn btn-default btn-app" href="/3D/"><i class="fa fa-3x fa-globe pull-left"></i> <strong style="color:#FFF">Climate Viewer 3D</strong><br>View Globe</a>&nbsp;
+              <a class="btn btn-default btn-app" href="/mobile/"><i class="fa fa-3x fa-mobile pull-left"></i> <strone style="color:#FFF">Climate Viewer Mobile</strone><br>View Map</a><br>
               <a href="#about" class="btn btn-circle page-scroll">
                 <i class="fa fa-angle-double-down animated"></i>
               </a><br><br>
@@ -1534,9 +1537,9 @@
 <!-- FastClick -->
 <script src="/dist/plugins/fastclick/fastclick.js"></script>
 <!-- AdminLTE for demo purposes -->
-<script src="/dist/js/cv-home-5.12.js"></script>
+<script src="/dist/js/cv-home-5.13.js"></script>
 <!-- AdminLTE App -->
-<script src="/dist/js/app.min.js"></script>
+<script src="/dist/js/app-5.13.js"></script>
 
 <script type="text/javascript">
     $('#right-sidebar').one('click', function (e) {
@@ -1550,13 +1553,13 @@
         head.append('<script type="text/javascript">var switchTo5x=true;<' + '/script>');
         head.append('<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"><' + '/script>');
         head.append('<script type="text/javascript">stLight.options({publisher: "919e0e68-8cf4-433f-b1ac-049584a0a9f5", doNotHash: true, doNotCopy: true, hashAddressBar: false});<' + '/script>');
-});
+    });
 
-  var sc_project=8176140;
-  var sc_invisible=1;
-  var sc_security="d5823e1d";
-  var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
-  document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></" + "script>");
+    var sc_project=10762129;
+    var sc_invisible=1;
+    var sc_security="2b82bb1d";
+    var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+    document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></" + "script>");
 </script>
 <noscript>
   <div class="statcounter">

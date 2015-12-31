@@ -2,7 +2,7 @@
 
 // Check for mobile devices, set body class accordingly
 function resize() {
-    var clientHeight = $(window).height(), clientWidth = $(window).width(), mobile = 768;
+    var clientHeight = $(window).height(), clientWidth = $(window).width(), mobile = 767, tiny = 481;
     $('.control-sidebar').height(clientHeight - 50);
     $('.tab-content').height(clientHeight - 100);
     $('html').height(clientHeight);
@@ -15,6 +15,11 @@ function resize() {
         $('#cesiumContainer').height(clientHeight - 50).width(clientWidth - 50).removeClass('left-50');
         $('.cesium-viewer').height(clientHeight - 50).width(clientWidth);
     }
+    if (clientWidth < tiny) {
+        $('#siderbar-toggle').removeClass('active');
+        $('.control-sidebar').removeClass('control-sidebar-open');
+    }
+
 }
 $(window).resize(function () {
     resize();
@@ -290,9 +295,7 @@ if ($('body').hasClass('mobile')) {
     });
 }
 viewer.resolutionScale = 1.0 / devicePixelRatio;
-$('.cesium-viewer-animationContainer').hide();
-$('.cesium-viewer-timelineContainer').hide();
-$('.cesium-viewer-bottom').hide();
+
 /*
 viewer.extend(Cesium.viewerPerformanceWatchdogMixin, {
     lowFrameRateMessage : 'Why is this going so <em>slowly</em>?'

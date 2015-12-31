@@ -9,9 +9,6 @@ var infoBox = $('.cesium-infoBox');
 var layerEnabled = {}; // whether the label is in some way enabled
 var me = Self();
 
-var animationContainer = $('.cesium-viewer-animationContainer');
-var timelineContainer = $('.cesium-viewer-timelineContainer');
-var credit = $('.cesium-viewer-bottom');
 
 
 nobjectsIn(layers, function (x) {
@@ -848,26 +845,41 @@ $('.reset-view').click(function (e) {
     e.preventDefault();
  $('.cesium-home-button').trigger('click');
 });
+/*
+ var animationContainer = $('.cesium-viewer-animationContainer');
+ var timelineContainer = $('.cesium-viewer-timelineContainer');
+ var credit = $('.cesium-viewer-bottom');
+
+ animationContainer.hide();
+ timelineContainer.hide();
+ credit.hide();
 
 function toggleTimeline(show) {
   if (show) {
     animationContainer.show();
     timelineContainer.show();
+    $('.toggle-timeline').addClass('active');
   } else if (animationContainer.is(":visible")) {
-    animationContainer.hide();
-    timelineContainer.hide();
+    //animationContainer.hide();
+   // timelineContainer.hide();
+    $('.toggle-timeline').removeClass('active');
   } else {
     animationContainer.show();
     timelineContainer.show();
     var startTime = Cesium.JulianDate.fromDate(new Date(Date.UTC(2012, 4, 8)));
-    var endTime = Cesium.JulianDate.now(); 
-    viewer.timeline.zoomTo(startTime, endTime);  
+    var endTime = Cesium.JulianDate.now();
+    viewer.timeline.zoomTo(startTime, endTime);
+    $('.toggle-timeline').addClass('active');
   }
 }
 $('.toggle-timeline').click(function (e) {
     e.preventDefault();
     toggleTimeline();
-});
+}); */
+
+var startTime = Cesium.JulianDate.fromDate(new Date(Date.UTC(2012, 4, 8)));
+var endTime = Cesium.JulianDate.now();
+viewer.timeline.zoomTo(startTime, endTime);
 
 $('.sharing-tab').click(function () {
     $('#welcomeModal').modal('hide').on('hidden.bs.modal', function () {
@@ -1037,5 +1049,7 @@ $(document).ready(function () {
         }
     });
     $('#welcomeModal').modal();
-
+    if ($('.control-sidebar').hasClass('control-sidebar-open')) {
+        $('#siderbar-toggle').addClass('active');
+    }
 });

@@ -64,7 +64,7 @@
     <!-- Theme style -->
   <link type="text/css" rel="stylesheet" href="/dist/css/cv-theme.css">
   <!-- CV style -->
-  <link type="text/css" rel="stylesheet" href="/dist/css/cv-apps-5.12.css">
+  <link type="text/css" rel="stylesheet" href="/dist/css/cv-apps-5.13.css">
 
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -157,11 +157,6 @@
               <i class="fa fa-bullhorn"></i>
             </a>
           </li>
-          <li class="tasks-menu">
-            <a href="/index.html" target="_self" title="Climate Viewer home with upcoming features!">
-              <i class="fa fa-home"></i>
-            </a>
-          </li>
           <!-- Control Sidebar Toggle Button -->
           <li>
             <a id="siderbar-toggle" href="#" data-toggle="control-sidebar" title="Click here to toggle the layer sidebar"><i class="fa fa-map-marker"></i></a>
@@ -200,8 +195,9 @@
       <!-- sidebar menu: : style can be found in sidebar.less -->
       <ul class="sidebar-menu">
         <li class="header">Apps</li>
-        <li><a href="/3D/" target="_self"><i class="fa fa-globe"></i> <span>3D Globe</span></a></li>
-        <li><a href="/mobile/" target="_self"><i class="fa fa-map-marker"></i> <span>Mobile Map</span></a></li>
+        <li><a href="/index.html" title="Climate Viewer home with upcoming features!" target="_self"><i class="fa fa-home"></i> <span>Climate Viewer Home</span></a></li>
+        <li><a href="/3D/" target="_self"><i class="fa fa-globe"></i> <span>Climate Viewer 3D Globe</span></a></li>
+        <li><a href="/mobile/" target="_self"><i class="fa fa-map-marker"></i> <span>Climate Viewer Mobile Map</span></a></li>
         <li><a href="http://theweathereffect.com/"><i class="fa fa-clock-o"></i> <span>Geoengineering Timeline</span></a></li>
         <li class="header">Research</li>
         <li>
@@ -328,7 +324,7 @@
 
 
   <!-- Control Sidebar -->
-  <aside class="control-sidebar control-sidebar-dark control-sidebar-open">
+  <aside class="control-sidebar control-sidebar-dark">
     <!-- Create the tabs -->
     <ul class="nav nav-tabs nav-justified control-sidebar-tabs">
       <li class="active"><a href="#control-sidebar-map-layers-tab" data-toggle="tab" aria-expanded="true" title="Toggle Map Layers"><i class="fa fa-compass"></i></a></li>
@@ -556,31 +552,31 @@
 <!-- LOCAL <script type="text/javascript" src="/lib/leaflet/esri-leaflet/esri-leaflet.js"></script> -->
 <script type="text/javascript" src="https://cdn.jsdelivr.net/leaflet.esri/2.0.0-beta.6/esri-leaflet.js"></script>
 
-<script type="text/javascript" src="/dist/js/cv-layers-5.12.js"></script>
-<script type="text/javascript" src="/dist/js/cv-mobile-5.12.js"></script>
+<script type="text/javascript" src="/dist/js/cv-layers-5.13.js"></script>
+<script type="text/javascript" src="/dist/js/cv-mobile-5.13.js"></script>
 
 <!-- AdminLTE App -->
-<script src="/dist/js/app.js"></script>
+<script src="/dist/js/app-5.13.js"></script>
 
 
 <script type="text/javascript">
-  $('#sharing-tab').one('click', function () {
-    var comments = $('#comments');
-    var head = $('head');
-    // load disqus, chat, and sharing
-    comments.html("<div id='disqus_thread'></div>");
-    comments.append('<script>var disqus_config = function () { this.page.url = "http://climateviewer.org/mobile/"; this.page.identifier = "climateviewer-mobile";};(function() { var d = document, s = d.createElement("script"); s.src = "//climateviewer-org.disqus.com/embed.js"; s.setAttribute("data-timestamp", +new Date()); (d.head || d.body).appendChild(s); })();<' + '/script>');
-    $('body').append('<script id="dsq-count-scr" src="//climateviewer-org.disqus.com/count.js" async><' + '/script>');
-    $('#chat').html('<iframe src="http://tlk.io/cvnews" class="container-fluid chat-iframe" style="height:600px"></iframe>');
-    head.append('<script type="text/javascript">var switchTo5x=true;<' + '/script>');
-    head.append('<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"><' + '/script>');
-    head.append('<script type="text/javascript">stLight.options({publisher: "919e0e68-8cf4-433f-b1ac-049584a0a9f5", doNotHash: true, doNotCopy: true, hashAddressBar: false });<' + '/script>');
-  });
-  var sc_project=9375917;
-  var sc_invisible=1;
-  var sc_security="7063658a";
-  var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
-  document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></" + "script>");
+    $('#sharing-tab').one('click', function () {
+      var comments = $('#comments');
+      var head = $('head');
+      // load disqus, chat, and sharing
+      comments.html("<div id='disqus_thread'></div>");
+      comments.append('<script>var disqus_config = function () { this.page.url = "http://climateviewer.org/mobile/"; this.page.identifier = "climateviewer-mobile";};(function() { var d = document, s = d.createElement("script"); s.src = "//climateviewer-org.disqus.com/embed.js"; s.setAttribute("data-timestamp", +new Date()); (d.head || d.body).appendChild(s); })();<' + '/script>');
+      $('body').append('<script id="dsq-count-scr" src="//climateviewer-org.disqus.com/count.js" async><' + '/script>');
+      $('#chat').html('<iframe src="http://tlk.io/cvnews" class="container-fluid chat-iframe" style="height:600px"></iframe>');
+      head.append('<script type="text/javascript">var switchTo5x=true;<' + '/script>');
+      head.append('<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"><' + '/script>');
+      head.append('<script type="text/javascript">stLight.options({publisher: "919e0e68-8cf4-433f-b1ac-049584a0a9f5", doNotHash: true, doNotCopy: true, hashAddressBar: false });<' + '/script>');
+    });
+    var sc_project=9709294;
+    var sc_invisible=1;
+    var sc_security="c8b024d1";
+    var scJsHost = (("https:" == document.location.protocol) ? "https://secure." : "http://www.");
+    document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></" + "script>");
 </script>
 <noscript>
   <div class="statcounter">

@@ -62,7 +62,7 @@
     <!-- Theme style -->
   <link type="text/css" rel="stylesheet" href="/dist/css/cv-theme.css">
   <!-- CV style -->
-  <link type="text/css" rel="stylesheet" href="/dist/css/cv-apps-5.12.css">
+  <link type="text/css" rel="stylesheet" href="/dist/css/cv-apps-5.13.css">
 
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -155,11 +155,6 @@
               <i class="fa fa-bullhorn"></i>
             </a>
           </li>
-          <li class="tasks-menu">
-            <a href="/index.html" title="Climate Viewer home with upcoming features!" target="_self">
-              <i class="fa fa-home"></i>
-            </a>
-          </li>
           <!-- Control Sidebar Toggle Button -->
           <li>
             <a id="siderbar-toggle" href="#" data-toggle="control-sidebar" title="Click here to toggle the layer sidebar"><i class="fa fa-map-marker"></i></a>
@@ -198,8 +193,9 @@
       <!-- sidebar menu: : style can be found in sidebar.less -->
       <ul class="sidebar-menu">
         <li class="header">Apps</li>
-        <li><a href="/3D/" target="_self"><i class="fa fa-globe"></i> <span>3D Globe</span></a></li>
-        <li><a href="/mobile/" target="_self"><i class="fa fa-map-marker"></i> <span>Mobile Map</span></a></li>
+        <li><a href="/index.html" title="Climate Viewer home with upcoming features!" target="_self"><i class="fa fa-home"></i> <span>Climate Viewer Home</span></a></li>
+        <li><a href="/3D/" target="_self"><i class="fa fa-globe"></i> <span>Climate Viewer 3D Globe</span></a></li>
+        <li><a href="/mobile/" target="_self"><i class="fa fa-map-marker"></i> <span>Climate Viewer Mobile Map</span></a></li>
         <li><a href="http://theweathereffect.com/"><i class="fa fa-clock-o"></i> <span>Geoengineering Timeline</span></a></li>
         <li class="header">Research</li>
         <li>
@@ -321,10 +317,8 @@
   <!-- =============================================== -->
 
   <!-- Content Wrapper. Contains page content -->
-  <div class="content-wrapper">
     <div id="cesiumContainer"></div>
     <div id="baseLayerPickerContainer"></div>
-  </div>
   <!-- /.content-wrapper -->
 
 
@@ -336,7 +330,7 @@
       <li><a id="sharing-tab" href="#control-sidebar-share-tab" data-toggle="tab" title="Sharing and Comments"><i class="fa fa-comments-o"></i></a></li>
       <li><a id="CV-TV" href="#control-sidebar-tv-tab" data-toggle="tab" title="Climate Viewer TV and Twitter"><i class="fa fa-television"></i></a></li>
       <li><a id="CV-about" href="#control-sidebar-about-tab" data-toggle="tab" title="About Climate Viewer"><i class="fa fa-info-circle"></i></a></li>
-      <li><a href="#show-timeline" class="toggle-timeline" title="Toggle Timeline"><i class="fa fa-clock-o"></i></a></li>
+    <!--  <li><a href="#show-timeline" class="toggle-timeline" title="Toggle Timeline"><i class="fa fa-clock-o"></i></a></li> -->
       <li><a href="#show-sun" class="sun-control" title="Toggle Sunlight"><i class="fa fa-sun-o"></i></a></li>
       <li><a href="#collapse-menu" class="collapse-menu" title="Click here to collapse open folders"><i class="fa fa-compress"></i></a></li>
       <li><a href="#scroll-to-top" class="top-layers" title="Scroll to the top of the page"><i class="fa fa-angle-up"></i></a></li>
@@ -553,12 +547,12 @@
 
 <script type="text/javascript" src="/lib/cesium/1.15/Cesium.js"></script>
 
-<script type="text/javascript" src="/dist/js/cv-layers-5.12.js"></script>
-<script type="text/javascript" src="/dist/js/cv3d-init-5.12.js"></script>
-<script type="text/javascript" src="/dist/js/cv3d-ui-5.12.js"></script>
+<script type="text/javascript" src="/dist/js/cv-layers-5.13.js"></script>
+<script type="text/javascript" src="/dist/js/cv3d-init-5.13.js"></script>
+<script type="text/javascript" src="/dist/js/cv3d-ui-5.13.js"></script>
 
 <!-- AdminLTE App -->
-<script src="/dist/js/app.js"></script>
+<script src="/dist/js/app-5.13.js"></script>
 
 
 <script type="text/javascript">

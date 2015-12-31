@@ -620,7 +620,7 @@ function loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, m
                 var mImg = L.icon({
                     iconUrl: markerImg,
                     iconRetinaUrl: markerImg,
-                    iconSize: [64,64],
+                    iconSize: [32,32],
                 });
                 //return new L.CircleMarker(latlng, {radius: 5, fillOpacity: 0.85});
                 return L.marker(latlng, {

@@ -18,8 +18,12 @@ html {
     height: 100%;
 }
 aside.main-sidebar {
-    z-index:1001;
+    z-index:1002;
 }
+a#siderbar-toggle.active, .nav-tabs.control-sidebar-tabs>li>a.sun-control.active, .control-sidebar-dark .nav-tabs.control-sidebar-tabs>li>a.toggle-timeline.active {
+    background: #FF7314;
+}
+
 .content-wrapper {
     display:none;
     background: #000;
@@ -223,8 +227,13 @@ div.lb i.fa-folder-o {
 }
 div.lb span.label {
     display: inline-block;
-    max-width: 340px;
+    width: 80% !important;
+    text-align: left;
+    white-space: normal;
+    word-wrap: break-word;
     font-size: 12px;
+    line-height: 14px;
+    vertical-align: middle;
 }
 div.lb i.fa.active, div.lb span.active {
     color: #FF7314;
@@ -239,11 +248,11 @@ div.slider .label {
     color: #000;
 }
 
-div.lb i.large-layer {
-    color:#FF7314;
+div.lb i.large-layer, #control-sidebar-about-tab i.large-layer {
+    color: #ff0000;
 }
 
-div.lb i.new-layer {
+div.lb i.new-layer, #control-sidebar-about-tab i.new-layer {
     color:#2ecc40;
 }
 
@@ -1042,4 +1051,32 @@ div.btn.btn-default {
 .leaflet-bar a:hover {
     background-color: #FF7314;
     color: #FFF;
+}
+@media (max-width:480px) {
+    .control-sidebar, .control-sidebar-bg {
+        width:100%;
+        max-width:100%;
+    }
+    .navbar-nav>.user-menu .user-image {
+        float: none;
+        margin-right: 0;
+        margin-top: -8px;
+        line-height: 10px;
+        position: relative;
+        top: 3px;
+    }
+    .left-side, .main-sidebar {
+        padding-top: 50px;
+    }
+    .cesium-infoBox-visible {
+        width: 100%;
+    }
+    .cesium-infoBox {
+        top:0;
+        max-height: 100%;
+    }
+    iframe.cesium-infoBox-iframe {
+        width: 100%;
+        min-height: 100%;
+    }
 }

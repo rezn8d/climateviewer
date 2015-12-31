@@ -2,7 +2,7 @@
 
 /* CV Overwrite */
 .cesium-infoBox-description, body, html { color: #000000; background-color: #FFF; }
-.cesium-infoBox-description * { max-width:100% !important; word-wrap: break-word; word-break: break-word; color:#000;
+.cesium-infoBox-description * { max-width:100% !important; height: auto !important; word-wrap: break-word; word-break: break-word; color:#000;
 }
 .cesium-infoBox-defaultTable-lighter tr, .cesium-infoBox-defaultTable-lighter td { max-width:100%; }
 .cesium-infoBox-defaultTable th, .cesium-infoBox-defaultTable td, .cesium-infoBox-defaultTable tr, .cesium-infoBox-defaultTable tbody, .cesium-infoBox-defaultTable {
