@@ -5,11 +5,11 @@ Real-time decentralized global propagation, notification, and analysis tools for
 
 Discover how natural and artificial phenomena, from past to present, underground to outer space… might affect the quality and length of our futures, and form teams to improve life on Earth.
 
-[Project Roadmap](http://climateviewer.com/roadmap/)
+[Project Roadmap](http://climateviewer.org/)
 
-[Mobile Demo: Leaflet Version](http://climateviewer.com/mobile/)
+[Mobile Demo: Leaflet Version](http://climateviewer.org/mobile/)
 
-[3D Demo: Cesium Version](http://climateviewer.com/3D/)
+[3D Demo: Cesium Version](http://climateviewer.org/3D/)
 
 ###Our Goals
 
@@ -19,7 +19,7 @@ We are diligently working to combine all three apps into one, add user accounts,
 
 With Climate Viewer, the world is at your finger tips!
 
-![Climate Viewer Black](http://climateviewer.com/img/CV3D-black.jpg)
+![Climate Viewer Black](http://climateviewer.org/img/CV3D-black.jpg)
 
 ###Monitor Your World
 
@@ -37,9 +37,9 @@ Climate Viewer puts the Change in Climate Change! Create teams to respond to sev
 
 Our internet has set us free. Open-source technology and You make this project possible. Climate Viewer gives power to the people: See a problem? Map it, Mark it, Make it Change. We are creating a new social media, giving you tools to create communities that help other people directly. Knowing is half the battle, and having a tool to fix it is priceless. Climate Viewer is that tool.
 
-![Climate Viewer Satellite Feeds](http://climateviewer.com/img/CV3D-satellites.jpg)
+![Climate Viewer Satellite Feeds](http://climateviewer.org/img/CV3D-satellites.jpg)
 
-![Climate Viewer Nuclear Meltdown](http://climateviewer.com/img/CV3D-meltdown.jpg)
+![Climate Viewer Nuclear Meltdown](http://climateviewer.org/img/CV3D-meltdown.jpg)
 
 
 Contact [Jim Lee](http://climateviewer.com/rezn8d/) to contribute.
