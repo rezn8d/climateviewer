@@ -63,7 +63,7 @@
     <!-- Theme style -->
   <link type="text/css" rel="stylesheet" href="/dist/css/cv-theme.css">
   <!-- CV style -->
-  <link type="text/css" rel="stylesheet" href="/dist/css/cv-apps-5.13.css">
+  <link type="text/css" rel="stylesheet" href="/dist/css/cv-apps-5.14.css">
 
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -97,10 +97,6 @@
       <div class="navbar-custom-menu">
         <ul class="nav navbar-nav">
           <!-- Notifications: style can be found in dropdown.less -->
-          <li class="tasks-menu clear-layers">
-            <input type="text" value="" class="datepicker ui orange basic button picker__input" id="datepicker" name="date" readonly="" aria-haspopup="true" aria-expanded="false" aria-readonly="false" aria-owns="MODIS_Terra_CorrectedReflectance_TrueColor-datepicker_root">
-            <input type="hidden" name="date_submit" value="2015-12-31">
-          </li>
           <li class="tasks-menu clear-layers">
             <a href="#clear-layers" title="Remove all layers">
               <i class="fa fa-trash"></i>
@@ -344,6 +340,10 @@
     <div id="top" class="tab-content">
 
       <div class="tab-pane active" id="control-sidebar-map-layers-tab">
+        <p class="instruct">Imagery Date</p>
+        <div class="choose-imagery-date">
+          <input type="text" value="" class="datepicker btn btn-default picker__input" id="datepicker" name="date" readonly="" aria-haspopup="true" aria-expanded="false" aria-readonly="false" aria-owns="datepicker_root">
+        </div>
         <p class="instruct">Choose Category</p>
         <div id="map-layers" class="map-layers ui"></div>
         <!-- <p class="instruct">Map Mode</p>
@@ -556,7 +556,7 @@
 
 <script type="text/javascript" src="/dist/js/cv-layers-5.13.js"></script>
 <script type="text/javascript" src="/dist/js/cv3d-init-5.13.js"></script>
-<script type="text/javascript" src="/dist/js/cv3d-ui-5.13.js"></script>
+<script type="text/javascript" src="/dist/js/cv3d-ui-5.14.js"></script>
 
 <!-- AdminLTE App -->
 <script src="/dist/js/app-5.13.js"></script>

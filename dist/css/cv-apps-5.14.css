@@ -631,6 +631,9 @@ div.well {
 }
 
 /* Date Picker */
+.choose-imagery-date {
+    text-align: center;
+}
 .date-picker {
     display:none;
 }

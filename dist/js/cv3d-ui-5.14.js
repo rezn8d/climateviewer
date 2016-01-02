@@ -16,6 +16,33 @@ nobjectsIn(layers, function (x) {
     me.addEdge(s, p, o);
 });
 
+var date = new Date();
+date.setDate(date.getDate() - 1);
+var yesterday = Cesium.JulianDate.fromDate(date);
+var time = Cesium.JulianDate.toDate(yesterday);
+
+var $input = $( '#datepicker' ).pickadate({
+    formatSubmit: 'yyyy-mm-dd',
+    min: [2012, 4, 8],
+    max: Cesium.JulianDate.now(),
+    container: '#datepicker-container',
+    // editable: true,
+    closeOnSelect: true,
+    closeOnClear: false
+});
+
+var picker = $input.pickadate('picker');
+picker.set('select', time);
+picker.on({
+    set: function() {
+        var selectedDate = picker.get('select', 'yyyy-mm-dd');
+        console.log(selectedDate);
+        $('.nasa-gibs.active').each(function () {
+            loadGIBS($(this).attr('id'), selectedDate);
+        });
+    }
+});
+var start = picker.get('select', 'yyyy-mm-dd');
 
 // GET URL
 function getURLParameter(sParam) {
@@ -123,7 +150,7 @@ function loadMarkerSliders(src, layerId) {
 }
 */
 
-function updateGIBS(layerId, selectedDate) {
+function loadGIBS(layerId, selectedDate) {
     removeImagery(layerId);
     var src = viewer.imageryLayers.addImageryProvider(new Cesium.WebMapTileServiceImageryProvider({
         url: "//map1.vis.earthdata.nasa.gov/wmts-webmerc/wmts.cgi?TIME=" + selectedDate,
@@ -140,43 +167,6 @@ function updateGIBS(layerId, selectedDate) {
     activeLayers[layerId] = src;
     $('.' + layerId + '-sliders').remove();
     loadSliders(src, layerId);
-}
-
-
-function loadGIBS(layerId) {
-
-  var target = $('#' + layerId + ' .lb');
-  $('<div class="details ' + layerId + '-picker date-picker">' +
-      '<div class="header"><i class="fa fa-fw fa-clock-o"></i> Imagery Date</div>' +
-      '<span>Click this button below to change the loaded image:</span><br>' +
-      '<input type="button" value="" class="datepicker ui orange basic button" id="'+ layerId + '-datepicker" name="date">' +
-      '</div>').insertAfter(target);
-
-  var date = new Date();
-  date.setDate(date.getDate() - 1);
-  var yesterday = Cesium.JulianDate.fromDate(date);
-  var time = Cesium.JulianDate.toDate(yesterday);
-
-  var $input = $( '#'+ layerId + '-datepicker' ).pickadate({
-    formatSubmit: 'yyyy-mm-dd',
-    min: [2012, 4, 8],
-    max: Cesium.JulianDate.now(),
-    container: '#datepicker-container',
-    // editable: true,
-    closeOnSelect: true,
-    closeOnClear: false
-  });
-
-  var picker = $input.pickadate('picker');
-  picker.set('select', time);
-  picker.on({
-    set: function() {
-      var selectedDate = picker.get('select', 'yyyy-mm-dd');
-      updateGIBS(layerId, selectedDate);
-    }
-  });
-  var start = picker.get('select', 'yyyy-mm-dd');
-  updateGIBS(layerId, start);
 }
 
 function loadWmts(layerId, geoDataSrc, geoLayers) {
@@ -500,6 +490,7 @@ function updateLayer(layerId, includeOnly) {
     timeline = l.C,
     proxy = l.P,
     noFeatures = l.X;
+    var selectedDate = picker.get('select', 'yyyy-mm-dd');
     if (!includeOnly) var zoom = l.Z;
 
 
@@ -512,7 +503,7 @@ function updateLayer(layerId, includeOnly) {
         } else if (l.T === ("wtms")) {
             loadGIBS(layerId);
         } else if (l.T === ("nasa-gibs")) {
-            loadGIBS(layerId);
+            loadGIBS(layerId, selectedDate);
         } else if (l.T === ("wtms")) {
             loadWmts(layerId, geoDataSrc, geoLayers);
         } else if (l.T === ("base-layer")) {
@@ -725,6 +716,12 @@ if (allLayers.length > 0) {
     var latView = (getURLParameter("lat") || '-78.176832746519');
     var lonView = (getURLParameter("lon") || '31.300283760032368');
     var zoomView = (getURLParameter("zoom") || '26596280.257583864');
+    var dateView = (getURLParameter("date") || time);
+
+    if (dateView !== time) {
+        picker.set('select', dateView, { format: 'yyyy-mm-dd' })
+    }
+
 
     if (latView !== '-78.176832746519') {
         var includeOnly = true;
@@ -735,6 +732,7 @@ if (allLayers.length > 0) {
     } else {
         initLayers();
     }
+
     var shared = $('<div class="folder" style="display: block;"></div>').prependTo('#map-layers');
     $('<h2 class="toggle active">Shared Layers</h2>').prependTo('#map-layers').show();
     for (var i = 0; i < allLayers.length; i++) {
@@ -1067,6 +1065,7 @@ $(document).ready(function () {
         var lat = pickPositionCartographic.longitude * (180/Math.PI);
         var lon = pickPositionCartographic.latitude * (180/Math.PI);
         var zoom = height;
+        var date = picker.get('select', 'yyyy-mm-dd');
 
         shareLink += 'index.html?';
 
@@ -1078,6 +1077,7 @@ $(document).ready(function () {
         shareLink += '&lat=' + lat;
         shareLink += '&lon=' + lon;
         shareLink += '&zoom=' + zoom;
+        shareLink += '&date=' + date;
 
 
         var shareToggle = $('.share-all-layers');

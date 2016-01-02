@@ -117,3 +117,87 @@
 </html>
 d=function(e){
 h.call(this,e),this.terria=e.terria,this._longUrl=void 0,this._shortUrl=void 0,this.title="Share",this.url="",this.imageUrl="",this.embedCode="",this.itemsSkippedBecauseTheyHaveLocalData=[],this.enableShortenUrl=a(this.terria.urlShortener)&&this.terria.urlShortener.isUsable;var t=this.terria.getLocalProperty("shortenShareUrls");this.shortenUrl=this.enableShortenUrl&&(!s(t)||t),this.view='<div class="modal-background" data-bind="click: closeIfClickOnBackground">\n    <div class="share-popup no-focus-outline" data-bind="hasFocus: true" tabindex="0" aria-hidden =\'false\'>\n        <div class="modal-header">\n            <button class="modal-close-button" data-bind="click: close">&times;</button>\n            <h1 data-bind="text: title"></h1>\n        </div>\n        <div class="share-popup-content">\n            <div class="share-popup-image">\n                <img data-bind="attr: { src: imageUrl }" height="300" />\n            </div>\n            <div class="share-popup-right">\n                <div class="share-popup-label" data-bind="visible: itemsSkippedBecauseTheyHaveLocalData.length > 0">\n                    The following data sources will NOT be shared because they include data from this local system.\n                    To share these data sources, publish their data on a web server and add them using\n                    the URL instead of by dragging/dropping or selecting a local file.\n                    <ul data-bind="foreach: itemsSkippedBecauseTheyHaveLocalData">\n                        <li data-bind="text: name"></li>\n                    </ul>\n                </div>\n                <div class="share-popup-label">\n                    To <strong>copy</strong> to clipboard, click the link below and press CTRL+C or &#8984;+C:\n                    <input readonly type="text" data-bind="value: url" size="100" onclick="this.select();" />\n                </div>\n                <div class="share-popup-label">\n                    To <strong>embed</strong>, copy this code to embed this map into an HTML page:\n                    <input readonly type="text" data-bind="value: embedCode" size="100" onclick="this.select();" />\n                </div>\n                <div>\n                    <label class="share-popup-checkbox" data-bind="visible: enableShortenUrl">\n                        <input type="checkbox" data-bind="checked: shortenUrl" />Shorten the share URL using a web service\n                    </label>\n                </div>\n            </div>\n        </div>\n    </div>\n</div>\n',l.track(this,["imageUrl","url","embedCode","shortenUrl","enableShortenUrl","itemsSkippedBecauseTheyHaveLocalData"]);var r=this;l.getObservable(this,"shortenUrl").subscribe(function(){r.terria.setLocalProperty("shortenShareUrls",r.shortenUrl),i(r)});var u=this.terria.currentViewer.getCurrentExtent(),c={version:"0.0.05",initSources:this.terria.initSources.slice()},d=c.initSources,p={userSuppliedOnly:!0,skipItemsWithLocalData:!0,itemsSkippedBecauseTheyHaveLocalData:[]},m=this.terria.catalog.serializeToJson(p);m.length>0&&d.push({catalog:m,catalogIsUserSupplied:!0});var
+
+
+HAARP and the Sky Heaters Worldwide http://climateviewer.org/3D/index.html?layersOn=sky-heaters,Bing_AERIAL_WITH_LABELS
+haarp http://j.mp/1PCafFJ
+Tromsø http://j.mp/1PCaoJq
+arecibo http://j.mp/1PCauAH
+jicamarca http://j.mp/1PCaCA4
+shigaraki http://j.mp/1PCaGzM
+sura http://j.mp/1PCaRuV
+NMRF http://j.mp/1PCaH6T
+
+
+function shareLink() {
+var layers = "";
+var shareLink = shareURL;
+var ll = $('.lbw');
+
+ll.each(function() {
+var X = $(this);
+if (X.hasClass('active')) {
+var L = X.attr('id');
+layers += L + ',';
+}
+});
+
+var scene = viewer.scene;
+var camera = scene.camera;
+var windowPosition = new Cesium.Cartesian2(viewer.container.clientWidth / 2, viewer.container.clientHeight / 2);
+var pickRay = viewer.scene.camera.getPickRay(windowPosition);
+var pickPosition = viewer.scene.globe.pick(pickRay, viewer.scene);
+var pickPositionCartographic = viewer.scene.globe.ellipsoid.cartesianToCartographic(pickPosition);
+var height = camera.positionCartographic.height;
+var lat = pickPositionCartographic.longitude * (180/Math.PI);
+var lon = pickPositionCartographic.latitude * (180/Math.PI);
+var zoom = height;
+var date = picker.get('select', 'yyyy-mm-dd');
+
+shareLink += 'index.html?';
+
+if (layers.length > 0)
+layers = layers.substring(0, layers.length-1);
+
+
+shareLink += 'layersOn=' + layers;
+shareLink += '&lat=' + lat;
+shareLink += '&lon=' + lon;
+shareLink += '&zoom=' + zoom;
+shareLink += '&date=' + date;
+
+
+var shareToggle = $('.share-all-layers');
+shareToggle.attr('href', shareLink).html(shareLink);
+
+var encodeLink = encodeURIComponent(shareLink);
+console.log(encodeLink);
+
+function bit_url(shareLink)
+{
+var url=shareLink;
+console.log(url);
+var username="r3zn8d"; // bit.ly username
+var key="b5c2d6d1704074b0741a7449a98e3fcef2790699";
+$.ajax({
+url:"derp shorten",
+data:{longUrl:url,access_token:key,login:username},
+dataType:"jsonp",
+success:function(v)
+{
+var bit_url=v.data.url;
+$("#result").html('<a href="'+bit_url+'" target="_blank">'+bit_url+'</a>');
+}
+});
+}
+bit_url(shareLink);
+
+
+}
+$('.share-active-layers').click( function(e){
+e.preventDefault();
+shareLink();
+$('#shareModal').modal();
+});
+
+
