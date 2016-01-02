@@ -625,6 +625,10 @@ div.btn.btn-default {
     color:#FFF;
 }
 
+div.well {
+    background: #222;
+    margin-top: 5px;
+}
 
 /* Date Picker */
 .date-picker {

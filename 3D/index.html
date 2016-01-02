@@ -7,16 +7,17 @@
   <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
   <meta name="HandheldFriendly" content="true" />
-  <meta name="application-name" content="Climate Viewer 3D v5.12"/>
+  <meta name="application-name" content="Climate Viewer 3D v5.13"/>
 
   <meta property="og:locale" content="en_US" />
-  <meta property="og:type" content="application" />
+  <meta property="og:type" content="website" />
   <meta property="og:title" content="Climate Viewer 3D - Tracking Geoengineering" />
-  <meta property="og:description" content="Real-time decentralized global propagation, notification, and analysis tools for the most comprehensive, cross-domain, uncensored environmental data-set ever assembled – Climate Viewer" />
+  <meta property="og:description" content="Real-time atmospheric monitoring and maps covering geoengineering, weather modification, climate change, pollution, privacy, exploration, migration, geosciences, architecture, green energy solutions, sunken ships, airplane crash sites and more." />
   <meta property="og:url" content="http://climateviewer.org/3D/" />
   <meta property="og:site_name" content="Climate Viewer 3D - Tracking Geoengineering" />
   <meta property="article:publisher" content="http://www.facebook.com/climateviewers" />
   <meta property="article:published_time" content="2015-10-28T01:30:00+00:00" />
+  <meta property="article:modified_time" content="2015-12-31T01:30:00+00:00" />
   <meta property="og:image" content="http://climateviewer.org/img/CV3D-black.jpg" />
   <meta property="og:image" content="http://climateviewer.org/img/CV3D-satellites.jpg" />
   <meta property="og:image" content="http://climateviewer.org/img/CV3D-meltdown.jpg" />
@@ -25,8 +26,8 @@
   <meta name="twitter:site" content="@climateviewer"/>
   <meta name="twitter:title" content="Climate Viewer 3D - Tracking Geoengineering"/>
   <meta name="twitter:image" content="http://climateviewer.org/img/CV3D-black.jpg"/>
-  <meta name="twitter:description" content="Real-time decentralized global propagation, notification, and analysis tools for the most comprehensive, cross-domain, uncensored environmental data-set ever assembled – Climate Viewer" />
-  <meta name="description" content="Real-time decentralized global propagation, notification, and analysis tools for the most comprehensive, cross-domain, uncensored environmental data-set ever assembled – Climate Viewer" />
+  <meta name="twitter:description" content="Real-time atmospheric monitoring and maps covering geoengineering, weather modification, climate change, pollution, privacy, exploration, migration, geosciences, architecture, green energy solutions, sunken ships, airplane crash sites and more." />
+  <meta name="description" content="Real-time atmospheric monitoring and maps covering geoengineering, weather modification, climate change, pollution, privacy, exploration, migration, geosciences, architecture, green energy solutions, sunken ships, airplane crash sites and more." />
   <meta name="msapplication-TileColor" content="#ff7214">
   <meta name="msapplication-TileImage" content="http://climateviewer.org/img/mstile-144x144.png">
   <meta name="msapplication-config" content="http://climateviewer.org/img/browserconfig.xml">
@@ -96,6 +97,10 @@
       <div class="navbar-custom-menu">
         <ul class="nav navbar-nav">
           <!-- Notifications: style can be found in dropdown.less -->
+          <li class="tasks-menu clear-layers">
+            <input type="text" value="" class="datepicker ui orange basic button picker__input" id="datepicker" name="date" readonly="" aria-haspopup="true" aria-expanded="false" aria-readonly="false" aria-owns="MODIS_Terra_CorrectedReflectance_TrueColor-datepicker_root">
+            <input type="hidden" name="date_submit" value="2015-12-31">
+          </li>
           <li class="tasks-menu clear-layers">
             <a href="#clear-layers" title="Remove all layers">
               <i class="fa fa-trash"></i>
@@ -192,7 +197,7 @@
 
       <!-- sidebar menu: : style can be found in sidebar.less -->
       <ul class="sidebar-menu">
-        <li class="header">Apps</li>
+        <li class="header">Educational Tools &amp; Information</li>
         <li><a href="/index.html" title="Climate Viewer home with upcoming features!" target="_self"><i class="fa fa-home"></i> <span>Climate Viewer Home</span></a></li>
         <li><a href="/3D/" target="_self"><i class="fa fa-globe"></i> <span>Climate Viewer 3D Globe</span></a></li>
         <li><a href="/mobile/" target="_self"><i class="fa fa-map-marker"></i> <span>Climate Viewer Mobile Map</span></a></li>
@@ -341,14 +346,14 @@
       <div class="tab-pane active" id="control-sidebar-map-layers-tab">
         <p class="instruct">Choose Category</p>
         <div id="map-layers" class="map-layers ui"></div>
-        <p class="instruct">Map Mode</p>
+        <!-- <p class="instruct">Map Mode</p>
         <div class="container-fluid">
           <div class="row map-mode">
             <div class="col-xs-4 mode-3d">3D</div>
             <div class="col-xs-4 mode-2d">2D</div>
             <div class="col-xs-4 mode-flat-earth">Flat Earth</div>
           </div>
-        </div>
+        </div> -->
         <p class="instruct">Search</p>
         <div class="search"></div>
         <div id="base"></div>
@@ -507,7 +512,9 @@
       </div>
       <div class="modal-body">
         <div class="sub header" style="color:#DDD">Use this URL to share all currently displayed layers.</div>
-        <a class="share-all-layers" href="http://climateviewer.net/" title="My custom CV3D map" target="_self"></a>
+        <div class="well"><a class="share-all-layers" href="http://climateviewer.org/" title="My custom CV3D map" target="_self"></a></div>
+        <div class="sub header" style="color:#DDD">Short URL</div>
+        <div id="result" class="well"></div>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
