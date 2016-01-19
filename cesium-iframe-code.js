@@ -1,0 +1,1 @@
+o=i.createElement("link");o.href=e("Widgets/InfoBox/InfoBoxDescription.css"),o.rel="stylesheet",o.type="text/css";var bx=i.createElement("base");bx.target="_blank";var a=i.createElement("div");a.className="cesium-infoBox-description",i.head.appendChild(bx),i.head.appendChild(o),i.body.appendChild(a)
