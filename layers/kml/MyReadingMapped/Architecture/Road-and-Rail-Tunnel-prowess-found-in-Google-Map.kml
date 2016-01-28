@@ -1,0 +1,891 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1037</styleUrl>
+			<name>Other Interactive Maps of Historic Events</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://1.bp.blogspot.com/-Ag6qDYAWE3Y/Tung1DRL2PI/AAAAAAAAAr4/kfqblVInWis/s320/MRM+screen+shot.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com)]]></description>
+			<Point>
+				<coordinates>73.476563,61.773123,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Sources this map is based on.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[This map is based on the Road and Rail listings on Wikipedia's List of Long Tunnels By Type. Those tunnels selected for this map had to be able to be found in Google Map, along with route information as well in Google Map and had to have a Wikipedia page describing the tunnel to link.
+(http://en.wikipedia.org/wiki/List_of_long_tunnels_by_type)]]></description>
+			<Point>
+				<coordinates>90.351563,62.02152800000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>How the tunnel paths were determined.</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://4.bp.blogspot.com/-FurNtROmpLI/U-5RNYaBkHI/AAAAAAAAHzY/pqiji7rYURQ/s1600/Zigzagging%2Brail%2Btunnel%2Bin%2BGoogle%2Bmap.JPG http://1.bp.blogspot.com/-HY5kbTtinWU/U-6g3sCWWCI/AAAAAAAAHz8/VwajH9cc4e4/s1600/Tracing%2Btunnel%2Broutes.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Each of the tunnel paths were determined by tracing the path shown in Google Map either from the satellite view or road map view as shown in the samples below. ]]></description>
+			<Point>
+				<coordinates>128.847656,61.68987200000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Limitation on the volume of tunnels in this map.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[I had to stop adding tunnels because drawing the plotted paths suddenly became erratic and hard to edit. I guess I have too many plotted points for the map to handle adding any more.]]></description>
+			<Point>
+				<coordinates>116.01562500000001,61.93895,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>View paths in terrain mode to see the mountains.</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://2.bp.blogspot.com/-3YkQSthvVrA/U-zeeLs1rgI/AAAAAAAAHzA/FqXd0dxYIzE/s1600/Hsuehshan%2BTunnel%2Bin%2BGoogle%2BMap%2BTerrain%2Bmode.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / MyReadingMapped]]></description>
+			<Point>
+				<coordinates>102.65625000000001,61.93895,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Considerations when viewing this map in Google Earth 3D. </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://4.bp.blogspot.com/-SG79zCcddEU/U-3jxePk5iI/AAAAAAAAHzM/GqwkdNXHVXc/s1600/Tunnel%2Bproblem%2Bin%2BGoogle%2BEarth.JPG http://2.bp.blogspot.com/-J2v7wSqXDlU/U-zPE4aDhWI/AAAAAAAAHy0/5WkiiX9pYsQ/s1600/Route%2Bof%2Bthe%2BL%C3%B6tschberg%2BBase%2BTunnel%2Bin%2BGoogle%2BEarth.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[You can digitally walk this map in Google Earth 3D using this KML file. (https://docs.google.com/file/d/0B52hHMRyBvEsRDhlaFEyZFBvTWs/edit)
+
+However, this map is attempting to do the impossible in Google Earth because Google Earth cannot display underground tunnels correctly in 3D. Obviously the tunnel does not travel up and down as shown below with the default "Clamped to Ground" altitude setting. If I use the Absolute setting at the level of the tunnel entrances you will not be able to see the path inside the mountain. Nor will it look right if the two entrances are at different levels. So unfortunately, top-down viewing is the only accurate way to view this map in Google Earth.
+
+
+
+Google Earth / MyReadingMapped]]></description>
+			<Point>
+				<coordinates>88.945313,53.120405000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1457</styleUrl>
+			<name>Arlberg Schnellstraße Tunnel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Arlberg_Road_Tunnel)
+
+The Arlberg Road Tunnel with a length of 13,976 metres is Austria's longest road tunnel. It carries the S16 Arlbergschnellstraße (German for "Arlberg Highway") under the Arlberg massif from Tyrol to Vorarlberg.
+
+The tunnel is 1228 m (4,030 feet) above sea level with the road above the tunnel being 1640 m (5,400 feet) elevation.[1]
+
+It was built between July 1974 and December 1978 and its costs amounted to 4 billion Austrian schillings (~300 million €). The tunnel is designed for 1800 vehicles per hour and equipped with 4 ventilation centres (one shaft with a height of 736 metres is the deepest in Europe), 12 vents, 43 cameras for traffic monitoring and 16 niches. In 1998 the tunnel was used by 2.6 million vehicles, where 18% are accounting for freight transport. The Arlberg Tunnel is a Toll Road: Euro 9,00[2] (February 2013). Tolls for both directions are collected at the eastern end of the tunnel.]]></description>
+			<Point>
+				<coordinates>10.313332,47.141326,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-3366FF-5</styleUrl>
+			<name>Arlberg Schnellstraße Tunnel Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>10.312765,47.141336,0.0 10.306671,47.140431,0.0 10.300234,47.140315,0.0 10.296071,47.139147,0.0 10.29414,47.137687,0.0 10.288561,47.131878,0.0 10.286973,47.130797,0.0 10.284741,47.12983400000001,0.0 10.270279,47.123644,0.0 10.265429,47.122447,0.0 10.261095,47.121950000000005,0.0 10.256203,47.122184,0.0 10.230153,47.12525,0.0 10.222257,47.125746,0.0 10.1808,47.127148,0.0 10.162046000000002,47.127002,0.0 10.127328,47.12887,0.0 10.12441,47.129162,0.0 10.118916,47.130126,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1457</styleUrl>
+			<name>Breiðadalur, Botnsdalur, and Tungudalur 3-way Tunnel</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/39213464.jpg http://static.panoramio.com/photos/large/23426451.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Vestfjar%C3%B0ag%C3%B6ng)
+
+(Breiðadalur 4,150 m (13,615 ft),
+Botnsdalur 2,907 m (9,537 ft), and
+Tungudalur 2,103 m (6,900 ft) tunnels meet in a 3-way junction)
+
+Google Map / Panoramio / Stoipi 
+Google Map / Panoramio / teng (http://www.panoramio.com/user/1306036?with_photo_id=23426451)]]></description>
+			<Point>
+				<coordinates>-23.23132,66.056364,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-3366FF-5</styleUrl>
+			<name>Breiðadalur, Botnsdalur, and Tungudalur 3-way Tunnel Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-23.23121,66.05631,0.0 -23.23413,66.05664,0.0 -23.23728,66.0567,0.0 -23.24128,66.0564,0.0 -23.27899,66.05261,0.0 -23.319160000000004,66.07252,0.0 -23.32071,66.07283,0.0 -23.3223,66.07299,0.0 -23.32079,66.07283,0.0 -23.319160000000004,66.07253,0.0 -23.27917,66.0526,0.0 -23.28178,66.05227,0.0 -23.28453,66.05173,0.0 -23.28698,66.05108,0.0 -23.28964,66.05016,0.0 -23.30623,66.04421,0.0 -23.322945,66.038174,0.0 -23.338652,66.032178,0.0 -23.343716,66.028865,0.0 -23.347063000000002,66.027505,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1455</styleUrl>
+			<name>Channel Tunnel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia:
+
+The Channel Tunnel (French: Le tunnel sous la Manche; also referred to as the Chunnel)[2][3] is a 50.5-kilometre (31.4 mi) rail tunnel linking Folkestone, Kent, in the United Kingdom, with Coquelles, Pas-de-Calais, near Calais in northern France, beneath the English Channel at the Strait of Dover. At its lowest point, it is 75 m (250 ft) deep.[4][5][6] At 37.9 kilometres (23.5 mi), the tunnel has the longest undersea portion of any tunnel in the world, although the Seikan Tunnel in Japan is both longer overall at 53.85 kilometres (33.46 mi) and deeper at 240 metres (790 ft) below sea level. The speed limit in the tunnel is 160 kilometres per hour (99 mph).[7]
+
+The tunnel carries high-speed Eurostar passenger trains, the Eurotunnel Shuttle for automobiles and other road vehicles—the largest[8] such transport in the world—and international rail freight trains.[9] The tunnel connects end-to-end with the LGV Nord and High Speed 1 high-speed railway lines.]]></description>
+			<Point>
+				<coordinates>1.5041,51.0125,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-3366FF-5</styleUrl>
+			<name>Channel Tunnel Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>1.156011,51.096973,0.0 1.183723,51.100504,0.0 1.233162,51.111929,0.0 1.255134,51.113437,0.0 1.277107,51.111282,0.0 1.303543,51.105462,0.0 1.354011,51.087351,0.0 1.492714,51.01721,0.0 1.50988,51.01116300000001,0.0 1.683258,50.95345300000001,0.0 1.7801710000000002,50.922948,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1455</styleUrl>
+			<name>Daishimizu Tunnel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Daishimizu_Tunnel)
+
+The Daishimizu Tunnel (大清水トンネル?) is a railway tunnel on the Jōetsu Shinkansen on the border of Gunma Prefecture and Niigata Prefecture, Japan.
+
+In 1978, the Dai-Shimizu tunnel was completed. This tunnel was dug for the Jōetsu Shinkansen that was to be completed in 1982. This tunnel was the world's longest tunnel at 22,200 m.[1] During the construction, there was a fire, which caused large amount of smoke to occur in the tunnel. Sixteen workers died from carbon monoxide poisoning.[2][3] When this tunnel was completed, the time between Niigata and Tokyo went down to approximately one hour and forty minutes, three hours faster than using the Jōetsu Line.[4]]]></description>
+			<Point>
+				<coordinates>138.810593,36.934182,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-3366FF-5</styleUrl>
+			<name>Daishimizu Tunnel Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>138.810977,36.933977,0.0 138.819947,36.923616,0.0 138.82058,36.922716,0.0 138.833175,36.902694,0.0 138.838937,36.893402,0.0 138.842971,36.887164,0.0 138.843336,36.886743,0.0 138.849537,36.879706,0.0 138.859139,36.871287,0.0 138.86575900000003,36.866395,0.0 138.873806,36.860506,0.0 138.88226,36.854274,0.0 138.888515,36.849715,0.0 138.892892,36.846401,0.0 138.905348,36.837197,0.0 138.92613,36.822108,0.0 138.934649,36.815838,0.0 138.939048,36.812575,0.0 138.93952,36.812188,0.0 138.950549,36.802464,0.0 138.953392,36.799663,0.0 138.956525,36.796218,0.0 138.958038,36.79397600000001,0.0 138.959668,36.79102900000001,0.0 138.961385,36.787017,0.0 138.96275800000004,36.782557,0.0 138.963574,36.776464,0.0 138.963971,36.771136,0.0 138.964389,36.76451,0.0 138.964711,36.758038,0.0 138.964786,36.756447,0.0 138.96499,36.755347,0.0 138.96528,36.754608,0.0 138.96618100000003,36.752407,0.0 138.96632000000002,36.751788,0.0 138.967125,36.747585,0.0 138.96735,36.746467,0.0 138.967736,36.743398,0.0 138.96941,36.735049,0.0 138.970633,36.728876,0.0 138.971974,36.721996,0.0 138.973305,36.715374,0.0 138.973991,36.711857,0.0 138.97485,36.707539,0.0 138.975708,36.703152,0.0 138.976995,36.696167,0.0 138.976995,36.696176,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1457</styleUrl>
+			<name>Folgefonna Tunnel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Folgefonna_Tunnel)
+
+The Folgefonna Tunnel (Norwegian: Folgefonntunnelen) is a 11,150-meter (36,580 ft) long road tunnel in Hordaland county, Norway. The tunnel connects the village of Eitrheim and the town of Odda at the head of Sørfjorden in Odda municipality to the village of Austrepollen at the head of Maurangsfjorden in Kvinnherad municipality. The tunnel runs under the large Folgefonna glacier and Folgefonna National Park. The tunnel opened in 2001 and is Norway's third longest road tunnel. It reduced travel time between these two places from four hours all the way down to ten minutes. It is part of County Road 551.[1][2]
+
+In year 2012, the 10.4-kilometre (6.5 mi) long Jondal Tunnel was built a short distance from this tunnel. Using these two tunnels and a ferry, the road distance between the E134 highway in Odda munciipality and the city of Bergen is much shorter than before. Using this route to travel from Oslo to Bergen is shorter than taking the E16 highway, and this route is much less sensitive to snow storms in the winter (which is fairly long in the mountains) than by taking Norwegian National Road 7 (which is the shortest route between Oslo and Bergen). ]]></description>
+			<Point>
+				<coordinates>6.524591,60.091834000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-3366FF-5</styleUrl>
+			<name>Folgefonna Tunnel Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>6.336923,60.133748,0.0 6.34027,60.134678,0.0 6.341493,60.134817,0.0 6.342673,60.134827,0.0 6.345677,60.134528,0.0 6.348883,60.134111,0.0 6.3583240000000005,60.132658,0.0 6.371370000000001,60.13035,0.0 6.387678,60.126545,0.0 6.410423,60.120645,0.0 6.422354,60.117053,0.0 6.448017,60.108842,0.0 6.466814,60.103452,0.0 6.49325,60.096734,0.0 6.51342,60.092839999999995,0.0 6.516252,60.09249799999999,0.0 6.519772000000001,60.092155,0.0 6.52269,60.092027,0.0 6.524578,60.091727,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1457</styleUrl>
+			<name>Fréjus Road Tunnel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Fr%C3%A9jus_Road_Tunnel)
+
+The Fréjus Road Tunnel is a tunnel that connects France and Italy. It runs under Col du Fréjus in the Cottian Alps between Modane in France and Bardonecchia in Italy. It is one of the major trans-Alpine transport routes between France and Italy being used for 80% of the commercial road traffic.
+
+Construction of the 13 km (8.1 mi) long tunnel started in 1974, and it came into service on 12 July 1980, leading to the closure of the motorail shuttle service in the Fréjus rail tunnel. It cost 2 billion francs (equivalent to €700 million at 2005 prices). It is the ninth longest road tunnel in the world (as of 2014).
+
+The French section is managed by the French company SFTRF, and the Italian section by the Italian firm SITAF. (The French politician Pierre Dumas was chairman of SFTRF from 1962 to 1989). The tunnel can be reached from the Italian side by the A32 Torino-Bardonecchia motorway, or by SS335 from Oulx, which joins SS24 (“del Monginevro”), and reaches Bardonecchia after 20 km. From the French side, it can be reached by the A43 (‘’l’Autoroute de la Maurienne’’) from Lyon and Chambéry. A toll is charged to all traffic. Over 20 million vehicles passed through the tunnel during the first 20 years.]]></description>
+			<Point>
+				<coordinates>6.67737,45.195859,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-3366FF-5</styleUrl>
+			<name>Fréjus Road Tunnel Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>6.677585,45.195844,0.0 6.678958,45.19570800000001,0.0 6.680449,45.195352,0.0 6.68208,45.194717000000004,0.0 6.683457,45.193712,0.0 6.684172,45.192918,0.0 6.684745,45.191988,0.0 6.684988,45.18848,0.0 6.685474,45.180101,0.0 6.685431,45.177741,0.0 6.682127,45.160737,0.0 6.682041,45.156773,0.0 6.693886,45.124232,0.0 6.707361,45.099669,0.0 6.713326,45.088975,0.0 6.713483,45.087975,0.0 6.713494,45.087362,0.0 6.713344000000001,45.086756,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1457</styleUrl>
+			<name>Gleinalm Tunnel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Gleinalm_Tunnel)
+
+The Gleinalm Tunnel (German: Gleinalmtunnel) is a highway tunnel in Styria, Austria. It lies along the Pyhrn Autobahn and it is 8320 m long. It connects the district of Leoben with the district Graz-Umgebung. It was opened on 1978.
+
+The tunnel was in part built as an alternative route from Graz to the Murau District and the Murtal district, shortening the trip by about 20 minutes.
+
+Currently the tunnel has only has one tube with oncoming traffic. The speed limit is 80 km/h and it has a toll of 8 euro.
+
+A second tube is under construction since September 21st, 2013. The whole project will cost about 299 million euro. The new tube will open 2017, after which the old tube will be closed for renovation. Both tubes will open 2019 according to the project plan.[1]]]></description>
+			<Point>
+				<coordinates>15.077889000000003,47.294389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-3366FF-5</styleUrl>
+			<name>Gleinalm Tunnel Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>15.077917,47.294367,0.0 15.080942,47.292125,0.0 15.084311000000001,47.289054,0.0 15.088431000000002,47.284251,0.0 15.093216,47.278268,0.0 15.096885,47.274134,0.0 15.100748,47.271033,0.0 15.107979,47.267028,0.0 15.116111000000002,47.262908,0.0 15.130980999999998,47.255466,0.0 15.139822000000002,47.250951,0.0 15.142762,47.249698,0.0 15.146667,47.248679,0.0 15.150143000000002,47.248271,0.0 15.153705000000002,47.248315,0.0 15.159434,47.248577,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1457</styleUrl>
+			<name>Gran Sasso Tunnel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Traforo_del_Gran_Sasso)
+
+The Gran Sasso Tunnel is part of the A24 Motorway that links Rome and the Adriatic Sea via L'Aquila and Teramo, through the Apennine Mountains via the Gran Sasso in Abruzzo.
+
+There are two tunnels, each with two lanes for each direction, 10,176 metres long, that also host the Laboratori Nazionali del Gran Sasso. Construction started on November 14, 1968. The eastbound tunnel (to Teramo) opened on December 1, 1984 while the westbound tunnel (to L'Aquila) opened in 1995.]]></description>
+			<Point>
+				<coordinates>13.523056,42.4175,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-3366FF-5</styleUrl>
+			<name>Gran Sasso Tunnel Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>13.523054,42.417481,0.0 13.534763,42.418514,0.0 13.537853,42.419085,0.0 13.54163,42.420162,0.0 13.545235,42.421936,0.0 13.548067,42.423995,0.0 13.552616,42.428145,0.0 13.561027000000001,42.437394,0.0 13.574760000000001,42.451296000000006,0.0 13.596390000000001,42.471432,0.0 13.602698,42.477098,0.0 13.603857,42.478776,0.0 13.604243,42.480168,0.0 13.604157,42.481529,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1457</styleUrl>
+			<name>Gudvanga Tunnel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Gudvangatunnel)
+
+Gudvanga Tunnel (Norwegian: Gudvangatunnelen or Gudvangentunnelen) is located in the municipality of Aurland in Sogn og Fjordane county, Norway. The tunnel connects the village of Gudvangen, at the head of the Nærøyfjord, with the Undredalen valley and is part of European Route E16. At 11,428 metres (7.1 mi) in length, it is Norway's second longest road tunnel. It was opened on 17 December 1991.[1][2] ]]></description>
+			<Point>
+				<coordinates>7.05485,60.893044999999994,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-3366FF-5</styleUrl>
+			<name>Gudvanga Tunnel Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>7.054657,60.89301300000001,0.0 7.053992,60.892648,0.0 7.053241,60.892418,0.0 7.052254,60.89221,0.0 7.050795,60.89210500000001,0.0 7.039701,60.892074,0.0 7.032041,60.891917,0.0 7.026354,60.89167700000001,0.0 7.022213,60.891469,0.0 7.015153,60.89095699999999,0.0 7.001549,60.889777,0.0 6.989554,60.88877500000001,0.0 6.983053,60.888285,0.0 6.961938,60.886948,0.0 6.946060000000001,60.88608200000001,0.0 6.935696,60.885560000000005,0.0 6.923851000000001,60.88483900000001,0.0 6.908423,60.883639,0.0 6.892051000000001,60.88224000000001,0.0 6.880507,60.881164,0.0 6.86849,60.88041200000001,0.0 6.861152,60.880171999999995,0.0 6.851818,60.880099,0.0 6.849286,60.87995299999999,0.0 6.847419,60.879619,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1457</styleUrl>
+			<name>Hakkōda Tunnel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Hakk%C5%8Dda_Tunnel)
+
+The Hakkōda Tunnel (八甲田トンネル Hakkōda tonneru?) is a 26.445-kilometre (16.432 mi) railway tunnel in located in central Aomori Prefecture, in northern Japan. It passes through the Hakkōda mountain range and links the village of Tenmabayashi with the city of Aomori.
+
+The Hakkōda Tunnel is part of the northern extension of the Tōhoku Shinkansen, and is located between the stations of Shichinohe-Towada and Shin Aomori. Preliminary work on the tunnel began in August 1998, with ground broken in June 1999. On its breakthrough on February 27, 2005, it surpassed the Iwate-Ichinohe Tunnel of the same Tōhoku Shinkansen to become the world's longest terrestrial (land-based) tunnel, but was surpassed only two months later by the Lötschberg Base Tunnel in Switzerland. However, the Lötschberg Base Tunnel has only a single track for most of its length, and therefore the Hakkōda Tunnel remains the longest double-tracked terrestrial railway tunnel in the world.[1]
+
+The tunnel began to be used in 2010.]]></description>
+			<Point>
+				<coordinates>140.76796,40.763698,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-3366FF-5</styleUrl>
+			<name>Hakkōda Tunnel Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>140.768014,40.763674,0.0 140.769591,40.76360100000001,0.0 140.771479,40.763544,0.0 140.773764,40.763544,0.0 140.776178,40.763609,0.0 140.778549,40.763796,0.0 140.782079,40.764243,0.0 140.784418,40.764649,0.0 140.787111,40.76525,0.0 140.791188,40.766396,0.0 140.797379,40.768492,0.0 140.802743,40.770386,0.0 140.824635,40.777812,0.0 140.841201,40.783239,0.0 140.848711,40.784961,0.0 140.855577,40.786293,0.0 140.866349,40.787333,0.0 140.877207,40.78743000000001,0.0 140.886648,40.786845,0.0 140.90879200000003,40.783596,0.0 140.926903,40.780899,0.0 140.943768,40.778429,0.0 140.967758,40.774887,0.0 140.99664,40.77066200000001,0.0 141.022346,40.766827,0.0 141.048568,40.762926,0.0 141.067493,40.760196,0.0 141.076377,40.758115,0.0 141.087106,40.754767,0.0 141.093972,40.751809,0.0 141.105259,40.745794,0.0 141.106117,40.745339,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1457</styleUrl>
+			<name>Hsuehshan Tunnel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Hsuehshan_Tunnel)
+
+The tunnel is bored through the Hsuehshan Range. The road connects the city of Taipei to the northeastern county of Yilan (Ilan),[1] cutting down the journey time from two hours to just half an hour.[2] It bypasses the rural district of Pinglin, which used to receive high traffic prior to the completion of the tunnel. One of the key aims of constructing the tunnel was to connect the western coast of Taiwan, where 95% of the population lives, to the eastern coast of the island and in doing so tackle the unbalanced development on the island.[1] It is constructed with one pilot tunnel and two main tunnels for eastbound and westbound traffic. The total length is 12.942 km (8.042 mi), making the Hsuehshan Tunnel the second longest road tunnel in East Asia and the fifth longest road tunnel in the world. The tunnel opened in June 2006 to severe traffic jams.[3]]]></description>
+			<Point>
+				<coordinates>121.71500000000002,24.9386,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-3366FF-5</styleUrl>
+			<name>Hsuehshan Tunnel Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>121.714756,24.938437,0.0 121.72024900000001,24.933455,0.0 121.722996,24.928941,0.0 121.72763,24.921625,0.0 121.73913199999998,24.911816,0.0 121.75406600000001,24.899828,0.0 121.769173,24.87974,0.0 121.789085,24.860273,0.0 121.791145,24.854509,0.0 121.791832,24.849525,0.0 121.79148899999998,24.847967,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Hsuehshan Tunnel in terrain mode</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://2.bp.blogspot.com/-3YkQSthvVrA/U-zeeLs1rgI/AAAAAAAAHzA/FqXd0dxYIzE/s1600/Hsuehshan%2BTunnel%2Bin%2BGoogle%2BMap%2BTerrain%2Bmode.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google]]></description>
+			<Point>
+				<coordinates>121.765938,24.896714,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1455</styleUrl>
+			<name>Iwate-Ichinohe Tunnel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Iwate-Ichinohe_Tunnel)
+
+The Iwate-Ichinohe Tunnel (岩手一戸トンネル Iwate-Ichinohe Ton’neru?) is a 25.810 km[1] terrestrial railway tunnel in Japan — part of the Tōhoku Shinkansen, linking Tokyo with Aomori. When opened in 2002 it was the longest in-use terrestrial (land based) tunnel in world, but the title was overtaken by the Lötschberg Base Tunnel in June 2007.]]></description>
+			<Point>
+				<coordinates>141.236662,39.998156,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-3366FF-5</styleUrl>
+			<name>Iwate-Ichinohe Tunnel Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>141.236875,39.998411000000004,0.0 141.238645,39.999898,0.0 141.241134,40.002166,0.0 141.242325,40.003407,0.0 141.244589,40.005881,0.0 141.245833,40.007599,0.0 141.247378,40.009965,0.0 141.248762,40.012381,0.0 141.249309,40.013622,0.0 141.250597,40.01778,0.0 141.251798,40.022135,0.0 141.25256,40.025166,0.0 141.254062,40.032913,0.0 141.25703400000003,40.046696,0.0 141.260607,40.063662,0.0 141.264276,40.080583,0.0 141.267559,40.09558,0.0 141.270649,40.110031,0.0 141.274458,40.127638,0.0 141.275531,40.132921,0.0 141.27585200000001,40.135078,0.0 141.276174,40.13817,0.0 141.27641,40.142386,0.0 141.276389,40.144986,0.0 141.276164,40.148824,0.0 141.275123,40.156344,0.0 141.273996,40.16401,0.0 141.272505,40.173676,0.0 141.27111,40.183119,0.0 141.268997,40.197757,0.0 141.267591,40.207443,0.0 141.267023,40.212482,0.0 141.266937,40.215374,0.0 141.26713,40.218946,0.0 141.267505,40.222837,0.0 141.268525,40.227547,0.0 141.26991900000002,40.232216,0.0 141.270874,40.234632,0.0 141.272569,40.238277,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1457</styleUrl>
+			<name>Jondal Tunnel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Jondal_Tunnel)
+
+The Jondal Tunnel (Norwegian: Jondalstunnelen) is a road tunnel in the Hardanger region of Hordaland county, Norway. The tunnel is part of Norwegian County Road 107. The 10.4-kilometre (6.5 mi) long tunnel was built to offer a better route between the cities of Bergen and Oslo. Cars can drive from Bergen to Tørvikbygda, then take a ferry to Jondal, then go through this tunnel, then a short drive to the Folgefonna Tunnel before getting to the town of Odda. From there it is a short drive to the European route E134 highway which leads to Oslo.[1]]]></description>
+			<Point>
+				<coordinates>6.206972,60.234134000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-3366FF-5</styleUrl>
+			<name>Jondal Tunnel Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>6.206963,60.234118,0.0 6.207392,60.233175,0.0 6.208057,60.231923,0.0 6.20884,60.23109800000001,0.0 6.212198,60.228029,0.0 6.215471,60.225179000000004,0.0 6.221661,60.220506,0.0 6.225395,60.217794,0.0 6.230899,60.213978,0.0 6.235179,60.211227,0.0 6.244589,60.20558200000001,0.0 6.256262,60.199195,0.0 6.265853,60.193884,0.0 6.270788,60.190903000000006,0.0 6.275209,60.188087,0.0 6.2799830000000005,60.184906999999995,0.0 6.286903,60.17993,0.0 6.291828,60.17595,0.0 6.297428,60.17104,0.0 6.301838,60.166942000000006,0.0 6.303147,60.165383,0.0 6.304187,60.16379200000001,0.0 6.304616,60.162661,0.0 6.304724,60.16178,0.0 6.304434,60.160995,0.0 6.30379,60.160381,0.0 6.303114,60.159965,0.0 6.302192000000001,60.159618,0.0 6.301784,60.159490000000005,0.0 6.301773,60.159484000000006,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1457</styleUrl>
+			<name>Karmøy 3-way Tunnel with Roundabout</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Karm%C3%B8y_Tunnel)
+
+The Karmøy Tunnel (Norwegian: Karmøytunnelen) is a subsea road tunnel in Karmøy and Tysvær, Norway. 8.9-kilometer (5.5 mi) long, it links Karmøy with European Route E39 and is the longest subsea tunnel in Norway. At Fosen there will be an underground roundabout which will allow access towards Haugesund. It is part of the T-Link project, which is a toll road opened in 2013.[1]]]></description>
+			<Point>
+				<coordinates>5.371413,59.323623,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-0000FF-5</styleUrl>
+			<name>Karmøy Tunnel sections 1 and 2</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>5.37149,59.323550000000004,0.0 5.37153,59.32298,0.0 5.37114,59.32141,0.0 5.37038,59.32001,0.0 5.36908,59.3188,0.0 5.367647,59.31778200000001,0.0 5.366457,59.317114000000004,0.0 5.365201,59.316358,0.0 5.363308,59.31481200000001,0.0 5.36303,59.31471,0.0 5.36259,59.31468000000001,0.0 5.36238,59.31444,0.0 5.36202,59.31450000000001,0.0 5.35592,59.31463,0.0 5.34963,59.3149,0.0 5.34291,59.31534,0.0 5.33856,59.31551,0.0 5.3266,59.31551999999999,0.0 5.32205,59.31586999999999,0.0 5.317400000000001,59.316590000000005,0.0 5.31358,59.31741,0.0 5.30913,59.31889,0.0 5.30561,59.31996000000001,0.0 5.30208,59.320600000000006,0.0 5.29853,59.32095,0.0 5.296160000000001,59.32093,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-0000FF-5</styleUrl>
+			<name>Karmøy Tunnel section 3</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>5.42653,59.31265,0.0 5.41015,59.31116000000001,0.0 5.39531,59.30988,0.0 5.39127,59.30949,0.0 5.387320000000001,59.30936,0.0 5.38499,59.30934,0.0 5.382,59.30949,0.0 5.37865,59.309830000000005,0.0 5.37535,59.310390000000005,0.0 5.372797,59.31091,0.0 5.37033,59.311589,0.0 5.364815,59.313725,0.0 5.363511,59.31422299999999,0.0 5.363254,59.314409000000005,0.0 5.3633,59.31453,0.0 5.36303,59.314699999999995,0.0 5.3626,59.31468000000001,0.0 5.36239,59.31443,0.0 5.3625,59.31434,0.0 5.3627,59.31427,0.0 5.36298,59.31427,0.0 5.363104,59.314308,0.0 5.363227,59.314382,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Video: T Connection Karmoy Road Tunnel - Norway</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[YouTube Video (http://youtu.be/rb6XwEgGEg8)]]></description>
+			<Point>
+				<coordinates>5.40802,59.31917800000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Karmøy Tunnel Roundabout</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://4.bp.blogspot.com/-qYLfjGOQmgk/U-8VC_CKdDI/AAAAAAAAH0M/y7htqCaYHoI/s1600/Tunnel%2Broundabout%2Bin%2BGoogle%2BMap.JPG http://3.bp.blogspot.com/-13kAvgQEAu8/U_DHBzZ-8zI/AAAAAAAAH1A/CsMyOmDvGeo/s1600/Screen%2Bshot%2Bof%2BKarm%C3%B8y%2B3-way%2BTunnel%2BYouTube%2Bvideo.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google
+
+Screen shot of YouTube video by EPCAUS]]></description>
+			<Point>
+				<coordinates>5.36047,59.310943,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1457</styleUrl>
+			<name>Korgfjell Tunnel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Korgfjelltunnelen)
+
+The Korgfjell Tunnel (Norwegian: Korgfjelltunnelen) is an 8,530-metre (5.30 mi) long road tunnel connecting Knutli in Vefsn with Korgen in Hemnes, both in Nordland county in northern Norway. Work on the tunnel started in September of 2001 and it was opened on 16 September 2005.[1][2]
+
+The tunnel replaced a narrow, steep, twisting mountain road and shortened the European route E06 highway by 4 kilometres (2.5 mi). The travel time was shortened by 10–20 minutes. Before the tunnel, trucks with trailers were often stuck going uphill in snowy conditions, blocking the road. The place was considered one the worst places on the E6 highway. The mountain road was built by the Germans during World War II, replacing a ferry connection at Elsfjord. The cost of the tunnel, including new roads at both ends, was about NOK 450 million.]]></description>
+			<Point>
+				<coordinates>13.627253,66.047863,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-0000FF-5</styleUrl>
+			<name>Korgfjell Tunnel Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>13.627532,66.047846,0.0 13.639219,66.049954,0.0 13.659647,66.053908,0.0 13.681148,66.057513,0.0 13.70694,66.061327,0.0 13.725479,66.063643,0.0 13.74595,66.066098,0.0 13.761914,66.067769,0.0 13.778737,66.069475,0.0 13.805437,66.073705,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1423</styleUrl>
+			<name>Lærdal Tunnel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>7.214499,60.899077000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-3366FF-5</styleUrl>
+			<name>Lærdal Tunnel Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>7.215264,60.899244,0.0 7.227281,60.905359,0.0 7.27114,60.923926,0.0 7.297789999999999,60.936437,0.0 7.305129,60.940293000000004,0.0 7.313068,60.944962000000004,0.0 7.332294,60.955277,0.0 7.3471,60.962298000000004,0.0 7.358301,60.967026,0.0 7.374309000000001,60.973295,0.0 7.3897580000000005,60.97960299999999,0.0 7.404306,60.985994,0.0 7.416193999999999,60.991655,0.0 7.432244,61.000187,0.0 7.449538999999999,61.011607000000005,0.0 7.462155999999999,61.021817000000006,0.0 7.470954,61.029696,0.0 7.480308999999999,61.039547,0.0 7.484172000000001,61.04438900000001,0.0 7.490738,61.054007,0.0 7.494386,61.06071500000001,0.0 7.496230999999999,61.06231399999999,0.0 7.497718,61.063861,0.0 7.498126,61.06404799999999,0.0 7.4986619999999995,61.064131,0.0 7.5008300000000006,61.064266,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Viedo: Lærdal Tunnel </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[YouTube Video (http://youtu.be/GZ-iJH5I9eM)]]></description>
+			<Point>
+				<coordinates>7.237243999999999,60.897220000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1455</styleUrl>
+			<name>Lötschberg Base Tunnel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/L%C3%B6tschberg_Base_Tunnel)
+
+The Lötschberg Base Tunnel (LBT) is a 34.57-kilometre (21.48 mi) railway tunnel on the BLS AG's Lötschberg line cutting through the Alps of Switzerland some 400 m (1,312 ft) below the existing Lötschberg Tunnel. It is currently the world's longest land tunnel (except for some metro tunnels) and accommodates passenger and freight trains. It runs between Frutigen, Berne (46.5787°N 7.6491°E), and Raron, Valais (46.3091°N 7.8316°E). Breakthrough was in April 2005 and construction ended in 2006. The opening ceremony was in June 2007.[1][2] Full scale operation began in December 2007.[3]]]></description>
+			<Point>
+				<coordinates>7.649102,46.578451,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-3366FF-5</styleUrl>
+			<name>Lötschberg Base Tunnel Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>7.649045999999999,46.578451,0.0 7.642952,46.564762,0.0 7.641664,46.560513,0.0 7.642094000000001,46.557444,0.0 7.642866,46.551069000000005,0.0 7.648874,46.535957,0.0 7.655655,46.520367,0.0 7.657456999999999,46.507845,0.0 7.657456999999999,46.488761,0.0 7.6585730000000005,46.482437,0.0 7.660891000000001,46.477059,0.0 7.669216,46.46831,0.0 7.679773,46.45973800000001,0.0 7.694622,46.447852,0.0 7.703547999999999,46.439927,0.0 7.711874,46.430699,0.0 7.737794999999999,46.402237,0.0 7.750597,46.386965,0.0 7.755129999999999,46.383638,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1457</styleUrl>
+			<name>Mont Blanc Tunnel with a questionalbe zigzagging route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Mont_Blanc_Tunnel)
+
+The Mont Blanc Tunnel is a highway tunnel in Europe, under the Mont Blanc mountain in the Alps. It links Chamonix, Haute-Savoie, France with Courmayeur, Aosta Valley, Italy, via European route E25. The passageway is one of the major trans-Alpine transport routes, particularly for Italy, which relies on the tunnel for transporting as much as one-third of its freight to northern Europe. It reduces the route from France to Turin by 50 kilometres (30 miles) and to Milan by 100 km (60 mi). Northeast of Mont Blanc's summit, the tunnel is about 15 km (10 mi) southwest of the tripoint with Switzerland, near Mont Dolent.
+
+Begun in 1957 and completed in 1965, the tunnel is 11.611 km (7.215 mi) in length, 8.6 m (28 ft) in width, and 4.35 m (14.3 ft) in height. The passageway is not horizontal, but in a slightly inverted "V", which assists ventilation. The entrance elevation on the French side (45°54′05″N 006°51′39″E) is 1,274 m (4,180 ft) and 1,381 m (4,531 ft) in Italy (45°49′04″N 006°57′07″E), with a maximum of 1,395 m (4,577 ft) near the center, a maximum difference of 121 m (397 ft). The tunnel consists of a single gallery with a two-lane dual direction road. At the time of its construction, it was more than triple the length of any existing highway tunnel.[1]]]></description>
+			<Point>
+				<coordinates>6.861123000000001,45.901164,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1195</styleUrl>
+			<name>Google map shows a zigzag in the map that is not there when you drive it in StreetView</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://4.bp.blogspot.com/-FurNtROmpLI/U-5RNYaBkHI/AAAAAAAAHzY/pqiji7rYURQ/s1600/Zigzagging%2Brail%2Btunnel%2Bin%2BGoogle%2Bmap.JPG http://2.bp.blogspot.com/-LAf3l2ML_K0/U_DD-T7GWBI/AAAAAAAAH04/Aqtd-yJ_KlU/s1600/Mont%2BBlanc%2Btunnel%2Bin%2BStreetView.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Click on the tunnel road in road map mode near the flag to go to StreetView.
+
+This Google StreetView image is just south of the supposed zigzag.]]></description>
+			<Point>
+				<coordinates>6.920614,45.847217,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-3366FF-5</styleUrl>
+			<name>Mont Blanc Tunnel Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>6.86145,45.90117,0.0 6.8624,45.90094,0.0 6.86303,45.90061,0.0 6.8635,45.90019,0.0 6.89846,45.86762,0.0 6.91565,45.85118,0.0 6.920185000000001,45.847516,0.0 6.92103,45.846778,0.0 6.94121,45.82767,0.0 6.95161,45.81814,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1455</styleUrl>
+			<name>New Guanjiao Tunnel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: 
+
+New Guanjiao Tunnel [1][2](Chinese: 新关角隧道; pinyin: Xīn Guānjĭao Suìdào) is located on the 2nd line of Xining - Golmud Railway in Guanjiao Mountain, Qinghai province. It is dual bores, double track rail tunnel. The total length of the tunnel is 32.645 km, which makes it the longest railway tunnel in China. China Railway First Survey and Design Institute is responsible for the design. The New Guanjiao Tunnel was designed for two parallel single-track tunnel with speed of up to 160 kilometers per hour. The total construction duration was projected to be 5 years. The 4 km long old Guanjiao Tunnel will retire once new tunnel is opened. The tunnel is bored in difficult geological conditions and high altitude exceeding 3,300 metres (10,800 ft) above sea level. The construction started in 2007 and was completed in April 2014.[3] ]]></description>
+			<Point>
+				<coordinates>98.880118,37.009184,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-3366FF-5</styleUrl>
+			<name>New Guanjiao Tunnel Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>98.880483,37.009296,0.0 99.176481,37.182561,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1457</styleUrl>
+			<name>Plabutsch Tunnel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Plabutsch_Tunnel)
+
+The Plabutsch Tunnel is an approximately 10 km long (east tunnel 9919m, west tunnel 10,085m) road tunnel west side of Graz, Austria.[1]]]></description>
+			<Point>
+				<coordinates>15.406866,47.033034,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-3366FF-5</styleUrl>
+			<name>Plabutsch Tunnel Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>15.406755000000002,47.032987,0.0 15.404223,47.032885,0.0 15.399245,47.032329,0.0 15.394997,47.032344,0.0 15.391563,47.032826,0.0 15.387594,47.034128,0.0 15.384418000000002,47.035839,0.0 15.3818,47.038076000000004,0.0 15.380041,47.040665,0.0 15.379247,47.043063,0.0 15.379182,47.045782,0.0 15.379890000000001,47.053721,0.0 15.380104999999999,47.060461,0.0 15.379829000000003,47.068251,0.0 15.379912,47.076757,0.0 15.379526,47.089658,0.0 15.379890000000001,47.101578,0.0 15.380148,47.10431,0.0 15.380062,47.105332,0.0 15.379676000000002,47.106705,0.0 15.379033,47.10791,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Seelisberg Tunnel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Seelisberg_Tunnel)
+
+The Seelisberg Tunnel is a motorway tunnel in Switzerland. The tunnel links Beckenried, in the canton of Nidwalden, with Seedorf, in the canton of Uri, running under the mountains that form the south shore of Lake Lucerne. It forms part of the A2 motorway between Basel, on the border with Germany and France, and Chiasso, on the border with Italy. Completed in 1980, the twin bores of the tunnel are 9,250 metres (30,350 ft) and 9,292 metres (30,486 ft) in length.[1]]]></description>
+			<Point>
+				<coordinates>8.513325,46.963502,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-3366FF-5</styleUrl>
+			<name>Seelisberg Tunnel Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>8.513371,46.963487,0.0 8.515817,46.963444,0.0 8.518135,46.963048,0.0 8.523048,46.961437000000004,0.0 8.533584,46.957703,0.0 8.53618,46.956575,0.0 8.538884,46.954979,0.0 8.557724,46.940975,0.0 8.568624,46.931642,0.0 8.575233,46.92443200000001,0.0 8.578817,46.91964,0.0 8.584031,46.912003000000006,0.0 8.587786,46.906638,0.0 8.589803,46.90482,0.0 8.591293,46.903358,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1455</styleUrl>
+			<name>Seikan Tunnel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Seikan_Tunnel)
+
+
+
+The Seikan Tunnel (青函トンネル Seikan Tonneru or 青函隧道 Seikan Zuidō) is a 53.85-kilometre (33.46 mi) railway tunnel in Japan, with a 23.3-kilometre (14.5 mi) long portion under the seabed. The track level is about 100 metres (330 ft) below the seabed and 240 m (790 ft) below sea level.[1] It travels beneath the Tsugaru Strait — connecting Aomori Prefecture on the Japanese island Honshu and the island Hokkaido — as part of the Kaikyo Line of Hokkaido Railway Company. The name Seikan comes from combining the on'yomi readings of the first characters of Aomori (青森?) and Hakodate (函館?), the nearest major city on the Hokkaido side.
+
+
+Seikan is both the longest and the deepest operational rail tunnel in the world. The Gotthard Base Tunnel in Switzerland will be longer when it opens to traffic in 2016. The Line 3 of Guangzhou Metro has been longer since 2010, but metros are not normally considered tunnels. Seikan is also the longest undersea tunnel in the world, but the Channel Tunnel between the United Kingdom and France has a longer undersea portion.[2]]]></description>
+			<Point>
+				<coordinates>140.3351,41.3157,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-3366FF-5</styleUrl>
+			<name>Seikan Tunnel Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>140.31601,41.587716,0.0 140.30485200000004,41.575517,0.0 140.275669,41.539036,0.0 140.237045,41.488778,0.0 140.232131,41.473088,0.0 140.231037,41.461125,0.0 140.233269,41.44916,0.0 140.338562,41.31134,0.0 140.346801,41.291222,0.0 140.349548,41.273162,0.0 140.348861,41.25613,0.0 140.35034200000004,41.243223,0.0 140.358582,41.230831,0.0 140.437374,41.183241,0.0 140.475934,41.172928,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Video: Seikan Tunnel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[YouTube Video (http://youtu.be/dDqE6Day5yQ)]]></description>
+			<Point>
+				<coordinates>140.263824,41.308761,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1457</styleUrl>
+			<name>Shanghai Yangtze River Tunnel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Shanghai_Yangtse_River_Tunnel)
+
+The Shanghai Yangtze River Tunnel and Bridge is the collective name given to the bridge-tunnel complex across the south fork of the Yangtze River near the river mouth in Shanghai. The Shanghai Yangtze River Tunnel connects Pudong District of Shanghai on the south bank of the river with Changxing Island. The Shanghai Yangtze River Bridge connects Changxing Island with island-county of Chongming further north. Together along with the Chongming-Qidong Yangtze River Bridge which crosses the north fork of the river, the Shanghai Yangtze River Tunnel and Yangtze River Bridge, form the last crossing of the Yangtze before the river empties into the East China Sea.
+
+The total combined length of the bridge-tunnel complex is 25.5 km (15.8 mi). The bridge was built from 2005 to 2009 at a cost of 12.6 billion yuan (US$1.84 billion),[1] and opened on 31 October 2009.[1][2]]]></description>
+			<Point>
+				<coordinates>121.71027700000002,31.379690000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-0000FF-5</styleUrl>
+			<name>Shanghai Yangtze River Tunnel Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>121.71019100000001,31.379471000000002,0.0 121.707959,31.372839,0.0 121.70641400000001,31.366792999999998,0.0 121.70130699999999,31.35338,0.0 121.699719,31.349606000000005,0.0 121.698303,31.345097,0.0 121.695428,31.336594,0.0 121.69281000000001,31.329702,0.0 121.686244,31.321106,0.0 121.681502,31.315972999999996,0.0 121.678498,31.311133,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1455</styleUrl>
+			<name>Shimizu Spiral Tunnel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia; (http://en.wikipedia.org/wiki/Shimizu_Tunnel)
+
+The length of the tunnel is 9,702 m, and has a single track. Because of technical difficulties at the time, a spiral was built, with a diameter of 800 m.[2]]]></description>
+			<Point>
+				<coordinates>138.988174,36.805460000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-3366FF-5</styleUrl>
+			<name>Shimizu Spiral Tunnel Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>138.98821,36.80554,0.0 138.99089,36.80825,0.0 138.99141,36.80866,0.0 138.99184,36.80892,0.0 138.99261,36.8092,0.0 138.99321,36.80932,0.0 138.99378,36.80938,0.0 138.99475,36.80934,0.0 138.99522,36.80927,0.0 138.99593,36.80909,0.0 138.99655,36.80885,0.0 138.99702,36.80858,0.0 138.99741,36.80831,0.0 138.99799,36.80773,0.0 138.99836,36.80716,0.0 138.99854,36.8068,0.0 138.99878,36.80583,0.0 138.99874,36.80547,0.0 138.99833,36.80420000000001,0.0 138.99786,36.80354,0.0 138.99717,36.80289,0.0 138.99657,36.80249,0.0 138.99559,36.802103,0.0 138.994335,36.80194900000001,0.0 138.993133,36.802035,0.0 138.991932,36.802541,0.0 138.991395,36.802782,0.0 138.990945,36.803143,0.0 138.990226,36.803976,0.0 138.98879900000003,36.805814,0.0 138.988112,36.806776,0.0 138.987758,36.807867,0.0 138.987855,36.808752000000005,0.0 138.988091,36.811235,0.0 138.988091,36.812394,0.0 138.987842,36.81705,0.0 138.987692,36.817711,0.0 138.98737000000003,36.818235,0.0 138.986791,36.818802000000005,0.0 138.986169,36.819154,0.0 138.97529,36.824101,0.0 138.973519,36.825252,0.0 138.972532,36.826196,0.0 138.969357,36.829451,0.0 138.967554,36.831254,0.0 138.966835,36.83195,0.0 138.96592300000003,36.832594,0.0 138.964689,36.833169,0.0 138.956257,36.836432,0.0 138.945281,36.840829,0.0 138.931634,36.846264,0.0 138.916742,36.85216200000001,0.0 138.897162,36.859974,0.0 138.882528,36.865811,0.0 138.871831,36.870017,0.0 138.867102,36.871776,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Shimizu Tunnel Spiral as shown in Google map terrain mode</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://3.bp.blogspot.com/-hBPROa52Z-M/U-8YCtcvFuI/AAAAAAAAH0c/RI9n6rcK3E8/s1600/Shimizu%2BTunnel%2BSpiral%2Bin%2BGoogle%2BMap.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google]]></description>
+			<Point>
+				<coordinates>138.993702,36.804955,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1457</styleUrl>
+			<name>Tokyo Bay Aqua-Line Tunnel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Tokyo_Bay_Aqua-Line)
+
+The Tokyo Bay Aqua-Line (東京湾アクアライン Tōkyō-wan Akua-rain[1]?), also known as the Trans-Tokyo Bay Highway, is a bridge–tunnel combination across Tokyo Bay in Japan. It connects the city of Kawasaki in Kanagawa Prefecture with the city of Kisarazu in Chiba Prefecture, and forms part of National Route 409. With an overall length of 14 km, it includes a 4.4 km bridge and 9.6 km tunnel underneath the bay—the fourth-longest underwater tunnel in the world.[2] ]]></description>
+			<Point>
+				<coordinates>139.872952,35.465843,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-3366FF-5</styleUrl>
+			<name>Tokyo Bay Aqua-Line Tunnel Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>139.872753,35.465424,0.0 139.798665,35.515688,0.0 139.796942,35.516509,0.0 139.794052,35.517627,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1457</styleUrl>
+			<name>Wienerwald Tunnel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Wienerwaldtunnel)
+
+The Wienerwald Tunnel (German: Wienerwaldtunnel) is a 13.35-kilometre-long railway tunnel near Vienna in service since 9 December 2012 passing underneath the northern part of Wienerwald between Gablitz and Mauerbach. It is part of a new 250 kilometres per hour section between Vienna and St. Pölten which is part of the Western Railway (Austria).]]></description>
+			<Point>
+				<coordinates>16.214104,48.211862,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-3366FF-5</styleUrl>
+			<name>Wienerwald Tunnel Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>16.080072,48.285677,0.0 16.083677,48.28407800000001,0.0 16.086424,48.28245,0.0 16.105478,48.271226,0.0 16.118954,48.264027,0.0 16.13818,48.252512,0.0 16.158994,48.239738,0.0 16.192639,48.219783,0.0 16.20178,48.214551,0.0 16.20384,48.213664,0.0 16.210707,48.212434,0.0 16.214011,48.211805,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1457</styleUrl>
+			<name>Zhongnanshan Tunnel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia:]]></description>
+			<Point>
+				<coordinates>109.022806,33.814552,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-3366FF-5</styleUrl>
+			<name>Zhongnanshan Tunnel Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>109.022881,33.814409,0.0 109.016132,33.827788,0.0 108.999481,33.849746,0.0 108.981457,33.875261,0.0 108.967381,33.895212,0.0 108.953133,33.916725,0.0 108.944378,33.92911800000001,0.0 108.93528,33.942363,0.0 108.923167,33.95849,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1037'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1037-biz-house.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1195'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1195-fac-flag.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1423'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1423-trans-bus.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1455'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1455-trans-steam-train.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1457'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1457-trans-taxi.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-993'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/993-biz-camera.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='line-0000FF-5'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-3366FF-5'>
+			<LineStyle>
+				<color>ffFF6633</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+	</Document>
+</kml>

@@ -1,0 +1,821 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>Digitally walk this map in Google Earth 3D.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Using this Non-networked Google Earth KML file (https://docs.google.com/file/d/0B52hHMRyBvEsUHVaR2RvSnN0cWM/edit) you can digitally walk this map in 3D.]]></description>
+			<Point>
+				<coordinates>-35.507812,34.597042,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Google Maps of Historic Events</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>-46.582031,32.842674,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Abijata Lake, Ethiopia</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ethiopia.limbo13.com (http://ethiopia.limbo13.com/index.php/vanishing_lakes/)
+
+Many of those lakes, are already lost. Lakes which provided water and food for animals and people alike, are no longer there, just a dry depression in the land is left as a reminder that not so long ago something was there… 
+
+One of those lakes was Lake Haramaya, in the Harar region. Once an important big provider of water and food, it is now just a memory. Lake Haramaya went fast and many more are following it, like Lake Abiyata and Lake Ziway, both in the Rift Valley region.]]></description>
+			<Point>
+				<coordinates>38.600533,7.618487,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Aral Sea, Kazakhstan</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Aral_Sea_1989-2008.jpg/706px-Aral_Sea_1989-2008.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Aral_Sea)
+
+The shrinking of the Aral Sea has been called "one of the planet's worst environmental disasters."[6] The region's once prosperous fishing industry has been essentially destroyed, bringing unemployment and economic hardship. The Aral Sea region is also heavily polluted, with consequent serious public health problems. The retreat of the sea has reportedly also caused local climate change, with summers becoming hotter and drier, and winters colder and longer.[7]
+
+
+
+Wikipedia Commons / Public Domain / NASA /  Zafiroblue05 (http://en.wikipedia.org/wiki/User:Zafiroblue05)]]></description>
+			<Point>
+				<coordinates>59.695136000000005,45.09091000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Alligator Lake, Florida</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[questia.com (http://www.questia.com/library/1G1-79384864/the-draining-of-nature-s-bathtubs-vanishing-lakes)
+
+Sinkholes are not a new phenomenon. In fact, most of the lakes that have been drained over the past three years have a historical pattern of going dry every few decades and then refilling when the drought subsides. Sinkholes and the lingering three-year statewide drought are responsible for the complete or partial drainage of Orange Lake, Lake Jackson, Lake Iamonia and Lake Miccosukee in Leon County and Alligator Lake near Lake City. Some of those lakes are sizeable and show up clearly on state maps, like Orange Lake at 13,000 acres and Lake Jackson at 4,000 acres. Orange has been dry for nearly two years and Jackson about a year.]]></description>
+			<Point>
+				<coordinates>-82.608905,30.171862,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Badwater Basin</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/e/e1/Lake_Badwater%2C_Death_Valley%2C_2005.jpg http://upload.wikimedia.org/wikipedia/commons/4/41/Badwater_tm5_2007046.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Death_Valley#Lake_Badwater_and_Glacial_Lake_Manly)
+
+This pair of images from NASA's Landsat 5 satellite documents the short history of Death Valley's Lake Badwater: formed in February 2005 (top) and long gone by February 2007 (bottom). In 2005, a big pool of greenish water stretched most of the way across the valley floor. By May 2005 the valley floor had resumed its more familiar role as Badwater Basin, a salt-coated salt flats. In time, this freshly dissolved and recrystallized salt will darken.
+
+
+
+
+Wikipedia Commons / Pulbic Domain / NASA]]></description>
+			<Point>
+				<coordinates>-116.825885,36.250229,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Black Dragon Lake, China</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[eurasiareview.com (http://www.eurasiareview.com/01122013-asias-disappearing-lakes-oped/)
+
+Another example is the picturesque Black Dragon Lake in the city of Lijiang, northwest Yunnan province. In this case hot weather and drought have caused the lake to disappear altogether. Furthermore, Yunnan’s hydroelectric projects are putting stresses on water resources across the region.
+Lijiang is hardly alone. Similar situations are happening across other parts of Yunnan province, which usually has more rain than half of China’s regions. But it has experienced extremely low rainfall for the past three years.
+
+In the first quarter of this year, Yunnan’s average rainfall dropped by 70 percent, indicating the start of the drought’s fourth consecutive year, according to the water resources department in the region.]]></description>
+			<Point>
+				<coordinates>100.23295800000001,26.88689,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Dead Sea, Israel</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/The_Dead_Sea_1972-2011_-_NASA_Earth_Observatory.jpg/600px-The_Dead_Sea_1972-2011_-_NASA_Earth_Observatory.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Dead_Sea)
+
+In recent decades, the Dead Sea has been rapidly shrinking because of diversion of incoming water from the Jordan River to the north. The southern end is fed by a canal maintained by the Dead Sea Works, a company that converts the sea's raw materials. From a depression of 395 m (1,296 ft) below sea level in 1970[39] it fell 22 m (72 ft) to 418 m (1,371 ft) below sea level in 2006, reaching a drop rate of 1 m (3 ft) per year. As the water level decreases, the characteristics of the Sea and surrounding region may substantially change.
+
+
+
+Wikipedia Commons / Public Domain / NASA]]></description>
+			<Point>
+				<coordinates>35.473188,31.559024999999995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Disappearing Inner Mongolia Lakes</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[(View this lake in both satellite and map views to see how it disappeared)
+
+conservationmagazine.org (http://conservationmagazine.org/2013/10/lakes-china-disappearing/)
+
+About half of the lakes in a northern region of China have vanished over the last few decades, scientistsreport. And with climate change, even more lakes could dry out, threatening endangered species such as red-crowned cranes.]]></description>
+			<Point>
+				<coordinates>111.14748,42.780661,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Disappearing Siberian Lakes</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[college.ucla.edu (http://www.college.ucla.edu/college_new/news/05/arcticlakes.html)
+
+Along with geography department chair Glen MacDonald and researchers from the State University of New York in Syracuse and the University of Alaska, Smith tracked changes in more than 10,000 large lakes by examining satellite imagery taken between 1973 and 1998 across the Siberian wilderness.
+
+In the study funded by the National Science Foundation, the team found that the total number of lakes larger than 100 acres decreased from 10,882 to 9,712, a decline of 11 percent. Most lakes did not disappear altogether, but instead shrank to sizes less than 100 acres. However, 125 lakes vanished completely and became covered with vegetation.
+
+
+The findings run counter to past climate change research, which has tended to show that Arctic warming results in the increase of bodies of water as the icy permafrost layer melts like an ice cube, forming ponds.]]></description>
+			<Point>
+				<coordinates>98.327637,71.547525,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Ebinur Lake (Aibi Lake), China</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ecns.cn (http://www.ecns.cn/2012/02-03/7448_2.shtml)
+
+According to the Xinjiang Environmental Protection Bureau, some 4.8 million tons of sand are blown from the Aibi salt marshes every year. The route of National Highway 312, which runs adjacent to the lake, has been altered in places because part of the original road was buried by sand.
+
+"Aibi Lake and its surrounding wetlands are the natural blockade of sandstorms for the plants, crops and people of all northern China. Its drying up will create a domino effect on people's lives and environment," ecologist Hai Ying said.]]></description>
+			<Point>
+				<coordinates>83.009118,44.898266,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Greenland Ice Sheet Meltwater Lakes</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[livescience.com (http://www.livescience.com/19709-meltwater-lakes-greenland-ice-sheet.html)
+
+As the Arctic warms, meltwater lakes on the Greenland ice sheet are draining to sea more frequently — potentially lubricating the slide of the ice sheet into the ocean.
+
+These "supraglacial" lakes grow on top of Greenland's ice in the summer months. When the water pressure gets strong enough, it fractures the ice of the lakebed, creating a vertical "drainpipe" that carries water through to the bed of the ice sheet. New research finds this is happening more often, with catastrophic lake drainages occurring 3.5 times more often during the warmest Arctic years versus the coldest years.]]></description>
+			<Point>
+				<coordinates>-45.692139,77.461259,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hesaraghatta Lake Bed</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Hesaraghatta_Lake#Deterioration_of_the_lake)
+
+The reservoir is reported to have filled up last in the year 1994 and thereafter the lake’s deterioration and drying up started, reducing its reliability as a water supply source.[9]
+
+The reasons attributed to the lake’s drying up are erosion in the catchment and consequent capacity shrinking due to continuous silting. As of July 2009, the lake is completely dry. .[10]
+
+In recent years, the Hesaraghatta Lake bed has seen an increased number of bird photographers who drive on the lake bed using their cars and SUVs as hides resulting in extensive damage to the grassland habitat. This has increased the vehicle tracks to 43 km in total, with the average track width coming to 1.62 meters. About 136 hectares of habitat was either lost or disturbed because of vehicular movement.[11][12][13][14][15][16]
+
+Main factors affecting degradation include sand mining, movement of tractors, tree plantations, and grazing of cattle.]]></description>
+			<Point>
+				<coordinates>77.48919,13.150657,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hamoun Lakes, Iran/Afghanistan</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hamoun_lake.jpg/800px-Hamoun_lake.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[earth-policy.org (http://www.earth-policy.org/plan_b_updates/2005/update47)
+
+The Hamoun Lakes and nearby wetlands in Iran and Afghanistan’s Sistan Basin are similarly losing their ability to mitigate floods as they are drying from the damming of the Helmand River and years of drought.
+
+
+
+Wikipedia Commons / Public Domain / Eros Data Center, USGS.]]></description>
+			<Point>
+				<coordinates>61.698532,30.828255,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Iska River, Slovenia (zoom in on the dry river bed)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/I%C5%A1ka_River)
+
+The Iška is a river of Slovenia. Part of the river valley—the Iška Gorge[2] or Iška Canyon[3] (Slovene: Iški Vintgar)—separates Lower Carniola from Inner Carniola.[2]:82[4] The river is 31 km (19 mi) long.[1] After flowing past Strahomer, the river follows an almost straight line and joins the Ljubljanica River, and therefore belongs to the Black Sea basin.
+
+The part of the river between Iška Vas and Strahomer disappeared underground during the 2010 Slovenia floods, on the night of 20 September 2010.[5]]]></description>
+			<Point>
+				<coordinates>14.498246,45.941049,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Akşehir, Turkey</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[conservationmagazine.org (http://conservationmagazine.org/2013/10/lakes-china-disappearing/)
+
+The study isn’t the first report of shrinking lakes. In Africa, Lake Chad shriveled up to about 5 percent of its former size between 1963 and 2001. In Turkey, Lake Aksehir — which covered nearly 350 square kilometers in 1975 — disappeared a few years ago. Researchers blame drier climates for the change, as well as sloppy management of water for irrigation.]]></description>
+			<Point>
+				<coordinates>31.444588000000003,38.532322,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Balqash, Kazakhstan</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lake_Balkhash)
+
+The lake currently covers 16,400 km2 (6,300 sq mi), but, like the Aral Sea, it is shrinking because of the diversion of water from the rivers that feed it.[1]The lake is divided by a strait into two distinct parts. The western part is fresh water, while the eastern half is saline.[2][3][4][5] The eastern part is on average 1.7 times deeper than the western part.]]></description>
+			<Point>
+				<coordinates>75.822144,46.698435,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Bolotnikovo, Nizhegorodskaya oblast', Russia</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[bbc.co.uk (http://news.bbc.co.uk/2/hi/europe/4566355.stm)
+
+Russia's NTV channel showed a huge, muddy basin where the lake once was, in the village of Bolotnikovo.
+
+"It looks like somebody has pulled the plug out of a gigantic bath," said the TV's correspondent, next to a deep debris-filled hole.
+
+Local officials in Nizhny Novgorod region say the lake was probably sucked into an underground cave.]]></description>
+			<Point>
+				<coordinates>42.452545,55.79402,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Buchanan, Texas</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lake_Buchanan_(Texas)#History)
+
+The flooding of the lake forced the community of Bluffton, Texas to relocate 5 mi (8.0 km) westward. The abandoned community was soon inundated, however, a drought in 2011 caused Lake Buchanan's water level to drop significantly, exposing the remains of the town.[3]]]></description>
+			<Point>
+				<coordinates>-98.429389,30.793525999999996,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Cachet II, Chile</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Colonia_Glacier)
+
+Colonia Glacier (Spanish: Glaciar Colonia or Ventisquero Colonia) is a valley glacier located in the Northern Patagonian Ice Field, Chile. The glacier spills out to the southeast from an ice plateau north of Cerro Arenales and has its terminus about 4 km (2.5 mi) from Colonia Lake. Colonia Glacier dams two lakes; Cachet II and Arco Lake. The ice dam containing the waters of Cachet II Lake fails regularly, which generates glacial lake outburst floods.
+
+On March 31, 2012, for the second time that year, virtually all of the 200 million cubic liters of water in Lake Cachet II were lost in less than 24 hours as a result of perforations in the glacial wall, a consequence of rising temperatures driven by climate change. The lake has drained 11 times since 2008 and experts predict it will increase in frequency.[2]]]></description>
+			<Point>
+				<coordinates>-73.230057,-47.255,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Cachuma, California</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[latimes.com (http://articles.latimes.com/2014/jan/27/local/la-me-cachuma-drought-20140128)
+
+Cachuma Lake, the source of drinking water for 200,000 people on the southern coast of Santa Barbara County, from Goleta to Carpinteria, is disappearing. It is becoming a startling emblem of California's debilitating drought, with little hope that conditions will improve any time soon.]]></description>
+			<Point>
+				<coordinates>-119.94564099999998,34.576974,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Chad, Nigeria</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/9/94/ShrinkingLakeChad-1973-1997-EO.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lake_Chad)
+
+Lake Chad is the remnant of a former inland sea, paleolake Mega-Chad. At its largest, sometime before 5000 BC, Lake Mega-Chad was the largest of four Saharan paleolakes, and is estimated to have covered an area of 400,000 km2 (150,000 sq mi), larger than the Caspian Sea is today, and may have extended as far northeast as within 100 km (62 mi) of Faya-Largeau.[7] [8]
+Closer to the present, Lake Chad was first surveyed by Europeans in 1823, and it was considered to be one of the largest lakes in the world then.[9] Lake Chad has shrunk considerably since the 1960s, when its shoreline had an elevation of about 286 metres (938 ft) above sea level[10] and it had an area of more than 26,000 square kilometres (10,000 sq mi), making its surface the fourth largest in Africa. An increased demand on the lake's water from the local population has likely accelerated its shrinkage over the past 40 years.[2]
+
+
+
+Wikipedia Commons / Public Domain / NASA]]></description>
+			<Point>
+				<coordinates>14.164124,13.154376,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Chapala, Mexico</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[earth-policy.org (http://www.earth-policy.org/plan_b_updates/2005/update47)
+
+Mexico’s largest lake, Chapala, is the primary source of water for Guadalajara’s growing population of 5 million. This lake’s long-term decline began in the 1970s, corresponding with increased agricultural development in the Río Lerma watershed. Since then, the lake has lost more than 80 percent of its water. Between 1986 and 2001, Chapala shrank in size from 1,048 to 812 square kilometers. Climbing municipal and industrial water demands now exceed the sustainable supply by 40 percent. The lake’s contraction has come at the expense of several fish species and potentially presages a change in the mild climate that the water supported.]]></description>
+			<Point>
+				<coordinates>-103.012652,20.247324,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Chesterfield, Wildwood, Missouri</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[nbcnews.com (http://www.nbcnews.com/id/5191079/ns/us_news-weird_news/t/woe-lake-begone/#.UvYw3vldWqk)
+
+To folks around Wildwood, it is nothing but freaky: an entire 23-acre lake vanished in a matter of days, as if someone pulled the plug on a bathtub.
+
+Lake Chesterfield went down a sinkhole this week, leaving homeowners in this affluent St. Louis suburb wondering if their property values disappeared along with their lakeside views.]]></description>
+			<Point>
+				<coordinates>-90.611696,38.578529,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Colac, Victoria, Australia</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[abc.net.au (http://www.abc.net.au/news/stories/2010/02/04/2810257.htm?site=southwestvic)
+
+Lake Colac is expected to dry up by the end of the month.
+
+The lake dried out for the first time around the same time last year but was rejuvenated by rain in autumn.                                                                                        
+The Colac Otway Shire's environment manager, Stewart Anderson, says there has been a blue-green algae outbreak and lots of fish deaths in the lake while it has been shallow.]]></description>
+			<Point>
+				<coordinates>143.596037,-38.30771,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Granbury, Texas</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[star-telegram.com (http://www.star-telegram.com/2013/07/20/4999706/homeowners-watch-helplessly-as.html)
+
+As Texas continues to suffer through a debilitating drought that forecasters say isn’t likely to end soon, recreational oases such as Lake Granbury are becoming a flashpoint in the war for water.
+
+This month, the water in the 33.5-mile-long reservoir southwest of Fort Worth dropped to an all-time low of 7.5 feet below normal.]]></description>
+			<Point>
+				<coordinates>-97.809604,32.489883,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Haramaya, Ethiopia</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ethiopia.limbo13.com (http://ethiopia.limbo13.com/index.php/vanishing_lakes/)
+
+Many of those lakes, are already lost. Lakes which provided water and food for animals and people alike, are no longer there, just a dry depression in the land is left as a reminder that not so long ago something was there… 
+
+One of those lakes was Lake Haramaya, in the Harar region. Once an important big provider of water and food, it is now just a memory. Lake Haramaya went fast and many more are following it, like Lake Abiyata and Lake Ziway, both in the Rift Valley region.]]></description>
+			<Point>
+				<coordinates>42.002792,9.405964,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Hongjian, China</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[theguardian.com (http://www.theguardian.com/environment/2013/nov/29/china-largest-desert-freshwater-lake-shrinking-hongjiannao)
+
+Hongjiannao Lake, several hundred kilometres to the west of Beijing, has been disappearing since the 1970s, due to a combination of coal mining and climate change. But the speed at which it is losing area has increased rapidly since 2009, when it measured 46 square kilometres (sq km), down from 67 sq km in 1969.]]></description>
+			<Point>
+				<coordinates>109.903409,39.102495,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Huron</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[lfpress.com (http://www.lfpress.com/2013/01/04/the-great-shrinking-lakes-water-levels-still-falling)
+
+Land around Lake Huron is higher and drier than ever as the water has hit its lowest level since public record-keeping began almost a century ago.
+
+
+And with further drops forecast for coming weeks, the International Joint Commission is expected to release a report and recommendations about what to do about the shrinking Great Lakes.
+
+Meanwhile, ever-expanding shorelines are matched by growing alarm from some observers calling for intervention to stem the outward flow.
+
+Lakes Huron and Michigan, which hydrologists consider one lake system, dropped to 175.61 metres above sea level in December — one centimetre lower than the previous record set in 1964, preliminary figures show. Systematic record-keeping began in 1918.]]></description>
+			<Point>
+				<coordinates>-82.484612,45.052237,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Iamonia, Florida</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[questia.com (http://www.questia.com/library/1G1-79384864/the-draining-of-nature-s-bathtubs-vanishing-lakes)
+
+Sinkholes are not a new phenomenon. In fact, most of the lakes that have been drained over the past three years have a historical pattern of going dry every few decades and then refilling when the drought subsides. Sinkholes and the lingering three-year statewide drought are responsible for the complete or partial drainage of Orange Lake, Lake Jackson, Lake Iamonia and Lake Miccosukee in Leon County and Alligator Lake near Lake City. Some of those lakes are sizeable and show up clearly on state maps, like Orange Lake at 13,000 acres and Lake Jackson at 4,000 acres. Orange has been dry for nearly two years and Jackson about a year.]]></description>
+			<Point>
+				<coordinates>-84.230514,30.633128,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Jackson, Florida</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[questia.com (http://www.questia.com/library/1G1-79384864/the-draining-of-nature-s-bathtubs-vanishing-lakes)
+
+Sinkholes are not a new phenomenon. In fact, most of the lakes that have been drained over the past three years have a historical pattern of going dry every few decades and then refilling when the drought subsides. Sinkholes and the lingering three-year statewide drought are responsible for the complete or partial drainage of Orange Lake, Lake Jackson, Lake Iamonia and Lake Miccosukee in Leon County and Alligator Lake near Lake City. Some of those lakes are sizeable and show up clearly on state maps, like Orange Lake at 13,000 acres and Lake Jackson at 4,000 acres. Orange has been dry for nearly two years and Jackson about a year.]]></description>
+			<Point>
+				<coordinates>-84.320018,30.528090000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Loughareema  (Vanishing Lake),  Ireland</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[amusingplanet.com (http://www.amusingplanet.com/2012/12/loughareemathe-lake-that-randomly.html)
+
+Loughareema, also known as the Vanishing Lake, is located on the coast road, just a few miles from the seaside town of Ballycastle in Ireland. The lake sits on a leaky chalk-bed with a “plug hole” that often becomes jammed with peat causing the Loughareema depression to fill, especially during heavy rain. When the plug clears, the lake drains rapidly underground. A passerby who is not aware of the lake and its disappearing act would never even know it existed in the first place.]]></description>
+			<Point>
+				<coordinates>-6.107896,55.157346,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Mead</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Colorado_River#Uncertain_future)
+
+In late 2010, Lake Mead dropped to just 8 feet (2.4 m) above the first "drought trigger" elevation, a level at which Arizona and Nevada would have to begin rationing water as delineated by the Colorado River Compact.[248] Despite above-average runoff in 2011 that raised the immense reservoir more than 30 feet (9.1 m),[249][250] record drought conditions returned in 2012 and 2013.[251] Reservoir levels are low enough that the Bureau of Reclamation plans to cut releases from Lake Powell by 750,000 acre feet (0.93 km3) – the first such reduction since the 1960s, when Lake Powell was being filled for the first time.[252] Rapid development and economic growth further complicate the issue of a secure water supply, particularly in the case of California and Nevada fighting over the yet unused portion of Arizona's share of the Colorado.[238] Although stringent water conservation measures have been implemented, the threat of severe shortfalls in the Colorado River basin continues to increase each year.[253]]]></description>
+			<Point>
+				<coordinates>-114.42921500000001,36.143923,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Medina, Texas</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Medina_Lake)
+
+As part of the ongoing drought, the lake is only 3.7% full.[1] Many cracks, oil drums and a Jeep are visible as a result of low water.[2] Only one public boat ramp remains, located at Red Cove in Mico.[3] A few showers in the Summer of 2013 helped the lake rise to 5.2%, but the dam was reopened in September as many people in the South Side of San Antonio use the lake for a water source. Many businesses have closed in the area, many residents have left and Lakehills has become somewhat of a ghost town.[4][5]]]></description>
+			<Point>
+				<coordinates>-98.93695400000001,29.561456,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Miccosukee, Florida</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[questia.com (http://www.questia.com/library/1G1-79384864/the-draining-of-nature-s-bathtubs-vanishing-lakes)
+
+Sinkholes are not a new phenomenon. In fact, most of the lakes that have been drained over the past three years have a historical pattern of going dry every few decades and then refilling when the drought subsides. Sinkholes and the lingering three-year statewide drought are responsible for the complete or partial drainage of Orange Lake, Lake Jackson, Lake Iamonia and Lake Miccosukee in Leon County and Alligator Lake near Lake City. Some of those lakes are sizeable and show up clearly on state maps, like Orange Lake at 13,000 acres and Lake Jackson at 4,000 acres. Orange has been dry for nearly two years and Jackson about a year.]]></description>
+			<Point>
+				<coordinates>-83.979717,30.567318,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Peigneur, Louisiana</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lake_Peigneur)
+
+It is difficult to determine what occurred, as all evidence was destroyed or washed away in the ensuing maelstrom. One explanation is that a miscalculation by Texaco about their location resulted in the drill puncturing the roof of the third level of the mine. This created an opening in the bottom of the lake. The lake then drained into the hole, expanding the size of that hole as the soil and salt were washed into the mine by the rushing water, filling the enormous caverns left by the removal of salt over the years. The resultant whirlpool sucked in the drilling platform, eleven barges, many trees and 65 acres (260,000 m2) of the surrounding terrain. So much water drained into those caverns that the flow of the Delcambre Canal that usually empties the lake into Vermilion Bay was reversed, making the canal a temporary inlet. This backflow created, for a few days, the tallest waterfall ever in the state of Louisiana, at 164 feet (50 m), as the lake refilled with salt water from the Delcambre Canal and Vermilion Bay. The water downflowing into the mine caverns displaced air which erupted as compressed air and then later as 400-foot (120 m) geysers up through the mineshafts.[5]]]></description>
+			<Point>
+				<coordinates>-91.980813,29.979460999999997,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Powell, Arizona</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lake_Powell#History)
+
+Colorado River flows have been below average since the year 2000, leading to lower lake levels. In the winter of 2005 (before the spring run-off) the lake reached its lowest level since filling, an elevation of 3,550 feet (1,080 m) above sea level, which was approximately 150 feet (46 m) below full pool (elevation 3700'). Since 2005 the lake level has risen 78 feet (24 m), to a high elevation of 3,628 feet (1,106 m) above sea level in spring/early summer 2008. However, 2011 saw the third largest June and the second largest July runoff since the closure of Glen Canyon Dam, and the water level peaked at nearly 3,661 feet (1,116 m) on July 30.
+
+Water year 2012 (which started October 1, 2011) has been the extreme opposite of 2011. The huge runoff in 2011 raised the lake over 50 feet from May to July.
+
+In water year 2013, Lake Powell is experiencing a second consecutive year of low inflows, with only a brief period of refill in late May and June pushing the lake level up 5 feet before outflows again began outpacing inflows.]]></description>
+			<Point>
+				<coordinates>-111.47895800000002,37.003512,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Superior</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[usatoday30.usatoday.com (http://usatoday30.usatoday.com/news/nation/environment/2007-06-13-lake-superior_N.htm)
+
+The dropping levels have had serious environmental and economic consequences. Wetlands have dried up. Power plants run at half capacity. Cargo ships carry partial loads. Boaters struggle to find a place to dock.
+
+The changes can be seen all along the 2,800-mile shore of Lake Superior, the coldest and deepest of the Great Lakes. The water has receded, sometimes 50 feet or more, from its normal shoreline.]]></description>
+			<Point>
+				<coordinates>-87.30835,47.894248000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Travis, Texas</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lake_Travis)
+
+The extreme drought of 2008-2009 brought the lake to its fourth lowest level at 626.09 feet (190.83 m) above msl in November 2009. The second lowest level was 615.02 feet (187.46 m) above msl on November 8, 1963.[3] Due to the drought beginning in 2011, levels have gone as low as 618 feet, making it the third lowest level ever.[4]]]></description>
+			<Point>
+				<coordinates>-97.910265,30.420514,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Urmia, Iran</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Urmia_lake_1984_to_2011.gif/600px-Urmia_lake_1984_to_2011.gif</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lake_Urmia)
+
+
+The recent drought has significantly decreased the annual amount of water the lake receives. This in turn has increased the salinity of the lake's water, lowering the lake viability as home to thousands of migratory birds including the large flamingo (http://en.wikipedia.org/wiki/Flamingo) populations. The salinity has particularly increased in the half of the lake north of the causeway (http://en.wikipedia.org/wiki/Urmia_Lake_Bridge).
+
+
+Wikipedia Commons / Public Domain /  Amiralis (http://commons.wikimedia.org/w/index.php?title=User:Amiralis&action=edit&redlink=1)]]></description>
+			<Point>
+				<coordinates>45.472369,37.605596,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Waiau, Hawaii</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lake_Waiau)
+
+Since 2010 the lake has shrunk significantly and in September 2013 the diameter was only 15 m.[2]]]></description>
+			<Point>
+				<coordinates>-155.477413,19.811274,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Long Lake, Wisconsin</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[grow.cals.wisc.edu (http://grow.cals.wisc.edu/agriculture/vanishing-waters)
+
+And Long Lake wasn’t the only place with water problems. Around the same time, a number of other lakes and streams in the Central Sands region, the heart of Wisconsin’s $6 billion potato and vegetable industry, went dry or hit record lows. A landscape once covered in prairie and scrub oak, the region is now a mosaic of circles—160-acre fields of potatoes, sweet corn, peas and other specialty vegetables watered by center-pivot irrigation systems. These systems keep the region’s crops alive between rains and are fed by high-capacity wells that each can pump more than 100,000 gallons per day from the region’s aquifer. Many of those concerned about the area’s disappearing surface waters see the pumps as the obvious culprit, sucking water up and away from local groundwater-fed lakes and streams. Yet the problem may not be that simple.]]></description>
+			<Point>
+				<coordinates>-88.675718,45.840341,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mekong River, Laos</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[atimes.com (http://www.atimes.com/atimes/Southeast_Asia/LC13Ae01.html)
+
+Low water levels on the upper Mekong River have renewed criticism over hydropower dams China has erected on the waterway's upper reaches. Environmental groups and governments have pinned blame on China's inward-looking water management policies, although some experts say the real culprit is unusually severe drought conditions in southwestern China, northern Thailand and Laos.]]></description>
+			<Point>
+				<coordinates>102.536087,17.973508,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mono Lake, California</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[earth-policy.org (http://www.earth-policy.org/plan_b_updates/2005/update47)
+
+Mono Lake, North America’s oldest, dating back some 760,000 years, is an important feeding stop for migrating birds, especially as southern California has lost over 90 percent of its wetlands. Since the first diversions of its tributaries to quench the thirst of growing Los Angeles in 1941, the lake has contracted dramatically, with water level dropping by 11 meters (34 feet) and volume down 40 percent. As a result, its salinity has jumped to three times that of the ocean—far too salty to sustain most fish. The lake likely would have died completely had locals not intervened and defeated Los Angeles in a legal battle over keeping water for the lake.]]></description>
+			<Point>
+				<coordinates>-119.012259,38.007059,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Orange Lake, Florida</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[questia.com (http://www.questia.com/library/1G1-79384864/the-draining-of-nature-s-bathtubs-vanishing-lakes)
+
+Sinkholes are not a new phenomenon. In fact, most of the lakes that have been drained over the past three years have a historical pattern of going dry every few decades and then refilling when the drought subsides. Sinkholes and the lingering three-year statewide drought are responsible for the complete or partial drainage of Orange Lake, Lake Jackson, Lake Iamonia and Lake Miccosukee in Leon County and Alligator Lake near Lake City. Some of those lakes are sizeable and show up clearly on state maps, like Orange Lake at 13,000 acres and Lake Jackson at 4,000 acres. Orange has been dry for nearly two years and Jackson about a year.]]></description>
+			<Point>
+				<coordinates>-82.176802,29.460495000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Owens Lake, California</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Owens_Lake#History)
+
+Starting in 1913, the river and streams that fed Owens Lake were diverted by Los Angeles Department of Water and Power (LADWP) into the Los Angeles Aqueduct, and the lake level started to drop quickly. As the lake dried, soda processing at Keeler switched from relatively cheap chemical methods to more expensive physical ones. The Natural Soda Products Company sued the city of Los Angeles and built a new plant with a $15,000 settlement. A fire destroyed this plant shortly after it was built but the company rebuilt it on the dry lakebed in the 1920s.
+During the unusually wet winter of 1937, LADWP diverted water from the aqueduct into the lakebed, flooding the soda plant. Because of this the courts ordered the city to pay $154,000. After an unsuccessful appeal attempt to the state supreme court in 1941, LADWP built the Long Valley Dam, which impounded Lake Crowley for flood control.]]></description>
+			<Point>
+				<coordinates>-117.960047,36.436157,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Poyang Lake, China</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[dailymail.co.uk (http://www.dailymail.co.uk/news/article-2543513/Chinas-largest-freshwater-lake-twice-size-London-completely-dries-drought.html)
+
+The largest freshwater lake in China which covers an expanse twice the size of London has dried up because of an ongoing drought
+.
+Poyang Lake in rural Jiangxi province is one of the country's most popular tourist attractions.
+
+But the combination of drought and a new water storage facility upstream at the Three Gorges reservoir - the world's biggest dam - has caused water levels to drop to dangerously low levels.]]></description>
+			<Point>
+				<coordinates>116.24084500000001,29.180941000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Qinghai Lake, China</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Qinghai_Lake#Splitting)
+
+Prior to the 1960s, 108 freshwater rivers emptied into the lake. As of 2003, 85% of the river mouths have dried up, including the lake's largest tributary, the Buha River. In between 1959 and 1982, there had been an annual water level drop of 10 centimeters, which was reversed at a rate of 10 cm/year between 1983 to 1989, but has continued to drop since. The Chinese Academy of Sciences reported in 1998 the lake was again threatened with loss of surface area due to livestock over-grazing, land reclamations and natural causes.[15] Lake surface area has decreased 11.7 percent in the period between 1908 and 2000 .[16] As a result of this, or possibly moving sand dune, higher lake floors were exposed, numerous water bodies were separated from the rest of the main lake around since the 20th century. In the 1960s, the 48.9 square kilometres (18.9 sq mi) Gahai Lake (尕海, pinyin: Gǎhǎi) appeared in the northern part of the lake. During the 1980s, Shadao Lake (沙岛, pinyin: Shādǎo) split out in the northwest covers an area of 19.6 km2 (7.6 sq mi), while the northeastern Haiyan Lake (海晏, pinyin: Hǎiyàn) is 112.5 km2 (43.4 sq mi).[17] Another 96.7 km2 (37.3 sq mi) daughter lake split off in 2004. In addition, the lake has now split into half a dozen more small lakes at the border. The water surface has shrunk by 312 km2 (120 sq mi) over the last three decades.[18]]]></description>
+			<Point>
+				<coordinates>100.34979,36.759903,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Scott Lake, Lakeland Highlands, FL</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[heledger.com (http://www.theledger.com/article/20130410/NEWS/304105035)
+Scott Lake Gradually Refilling After Draining Away in 2006
+
+And yet to those who remember June 2006, when the 285-acre lake abruptly drained as if someone had pulled the plug of a full bathtub, there is comfort in knowing that Scott Lake is gradually refilling.
+
+"It has been recently at its highest level since June of 2006, when it went dry," said Freddy Langford, a biologist hired by the Scott Lake Association to monitor water levels. "The lake is gradually coming up. The reason it's so gradual is we've been in somewhat of a drought condition the last two to three years."
+
+Scott Lake, located just south of Lakeland, generated apocalyptic images in the days after a sinkhole largely drained it over the course of about two weeks.]]></description>
+			<Point>
+				<coordinates>-81.938478,27.962256,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Severn River, United Kingdom</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[strettonclimatecare.org.uk (http://strettonclimatecare.org.uk/2009/03/river-severn-could-be-dry-in-summer-by-2080/)
+River Severn ‘could be dry in summer by 2080′
+
+The new Shropshire Council is preparing for climate change on the basis that there will be a four degree hike in temperature by 2080, with winters wetter by 20% by 2050 , summers 30% drier by 2050 and more extreme weather generally.  This means that the river Severn could actually dry up in summer, but also that there will be an increased risk of flooding when it does rain.]]></description>
+			<Point>
+				<coordinates>-3.7283560000000002,52.489301000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Subarctic Lakes Of Wapusk National Park, Manitoba (Canada)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[popsci.com (http://www.popsci.com/article/science/big-pic-subarctic-lakes-canada-are-drying)
+
+The East Coast may be getting a little damp at the moment, but the subarctic region of Canada has seen a decrease in snowfall in recent years. Because of that, the lakes in the area are drying up significantly, according to a study published on the Geophysical Research Letters website. A team of researchers from Université Laval, Wilfrid Laurier University, Brock University, and the University of Waterloo, studied 70 lakes, most of them less than about three feet deep. These lakes rely on meltwater as a significant source of water. And with dwindling winter precipitation, the meltwater has also taken a hit. The researchers analyzed the lakes on flat terrain and surrounded by scrub vegetation and found that more than half show signs of desiccation. The drying-out phenomenon was first obvious to the naked eye back in 2010, but became even more pronounced this summer.]]></description>
+			<Point>
+				<coordinates>-93.158569,57.795747999999996,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Tonle Sap Lake, Cambodia</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[earth-policy.org (http://www.earth-policy.org/plan_b_updates/2005/update47)
+
+Tonle Sap in Cambodia, Southeast Asia’s largest freshwater lake, supports one of the world’s largest inland fisheries. Like many lakes it has long provided flood protection, fluctuating in volume according to rainfall and climate. Now, however, eroding deforested and farmed land is silting up the lake and reducing its storage capacity, ultimately increasing the region’s vulnerability to the opposing extremes of flooding and water scarcity.]]></description>
+			<Point>
+				<coordinates>104.053676,12.92765,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Turlough: Lough Roosky</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Turlough_(lake))
+
+A turlough, or turlach, is a unique type of disappearing lake found mostly in limestone areas of Ireland, west of the River Shannon. The name comes from the Irish "tuar", meaning dry, with the suffix "lach", meaning a place (in an abstract sense). The "lach" suffix is often mistakenly spelled and/or thought to refer to the word "loch", the Irish, Scottish Gaelic and Scots word for lake. They are found in Irish karst (exposed limestone) areas.
+
+Only three turloughs have been identified in Northern Ireland, namely Roosky, Green and Fardrum Loughs located near Ely Lodge Forest in County Fermanagh.[2] These constitute the most northerly turloughs in Ireland and have been collectively designated a Ramsar site[3] and anArea of Special Scientific Interest.[4] There is one turlough in South Wales, Pant y Lly.]]></description>
+			<Point>
+				<coordinates>-7.923902,55.10699100000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Yangtze River Lakes China</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[earth-policy.org (http://www.earth-policy.org/plan_b_updates/2005/update47)
+
+In 1998, China’s largest river, the Yangtze, experienced devastating flooding, taking the lives of 3,600 people and wreaking more than $30 billion in damages. The floods were largely attributed to the cutting of forests and the loss of more than 13,000 square kilometers of lake area along the Yangtze’s middle and lower reaches. Prior to the flooding, some 800 lakes had disappeared entirely, depriving the basin of needed water storage capacity and flood protection. Following the floods the Chinese government pledged action to restore both forests and lakes.]]></description>
+			<Point>
+				<coordinates>114.252663,30.501417000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Ziway Lake, Ethiopia</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ethiopia.limbo13.com (http://ethiopia.limbo13.com/index.php/vanishing_lakes/)
+
+Many of those lakes, are already lost. Lakes which provided water and food for animals and people alike, are no longer there, just a dry depression in the land is left as a reminder that not so long ago something was there… 
+
+One of those lakes was Lake Haramaya, in the Harar region. Once an important big provider of water and food, it is now just a memory. Lake Haramaya went fast and many more are following it, like Lake Abiyata and Lake Ziway, both in the Rift Valley region.]]></description>
+			<Point>
+				<coordinates>38.84146,7.9719430000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Arizona-Sonora Desert Flash Flood Rivers</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Back in 1990 a friend and I attended a  conference at the Arizona Biltmore Hotel and visited the Arizona-Sonora Desert Museum. After the tour we decided to walk out into the desert and found this six-foot deep serpentine river bed that we climbed down into, when suddenly a park ranger drove up in a Jeep and warned us about the dangers of doing so and and getting lost. According to her, this river bed did not exist there two days before the when the flash flood ran through here due to the recent snow storm up near Flagstaff.]]></description>
+			<Point>
+				<coordinates>-111.174613,32.239621,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>The World's Vanishing Lakes</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://youtu.be/Q9jadmT6kIY]]></description>
+			<Point>
+				<coordinates>-11.25,-17.644022,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

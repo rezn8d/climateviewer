@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Siberian Explorations of Demid Pyanda (1620-1623)</name>
+  <description><![CDATA[This documentary, in the form of a Google Map, attempts to reconstruct the travels of Russian explorer, hunter and fur trader Demid Pyanda on his three and a half year, 5,000 mile (8000 km), journey up and down the Tunguska, Lena and Angara rivers of Siberia from 1620-24.]]></description>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/caution.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/hiker.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/grn-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/grn-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/grn-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/grn-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/grn-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/camera.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/grn-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Source this map is based on</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Pyanda#Name_and_identity" target="_blank">Wikipedia</a><br><br>On the basis of the Cossack hearsay stories, the document about Pyandino and a few mentions of Pyanda's name in other documents academician&nbsp;Alexey Okladnikov&nbsp;reconstructed Pyanda's alleged journey, as it is presented in the sections below.[2]</font></div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>98.964844,68.720444,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Digitally walk this map In Google Earth 3D</name>
+    <description><![CDATA[<font size="1" face="arial, sans-serif">Digitally walk this map In Google Earth 3D using this <a href="https://drive.google.com/file/d/0B52hHMRyBvEsZVUtOFRnWUxGRVU/edit?usp=sharing" target="_blank">Google Earth KML file</a>.</font>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>106.523438,68.784142,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Other Interactive Maps of Historic Events</name>
+    <description><![CDATA[<div dir="ltr"><div dir="ltr" style="font-size:10pt"><font face="arial" style="font-size:10pt"><font size="2"><b>Try one of the many other Interactive Maps of Explorers and Historic Events at&nbsp;</b></font></font><b><a href="http://myreadingmapped.blogspot.com" target="_blank">MyReadingMapped.</a></b></div><div dir="ltr" style="font-size:10pt"><b><br></b></div><div dir="ltr" style="font-size:10pt"><img src="http://1.bp.blogspot.com/-Ag6qDYAWE3Y/Tung1DRL2PI/AAAAAAAAAr4/kfqblVInWis/s320/MRM+screen+shot.JPG"></div></div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>113.730469,68.784142,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#1  - Yeniseysky ostrog.</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Pyanda#Ascent_of_the_Yenisey_and_Lower_Tunguska" target="_blank">Wikipedia</a><br><br>Demid Sofonovich Pyanda came to prominence in&nbsp;Mangazeya&nbsp;around 1619, coming there from the&nbsp;Yeniseysky&nbsp;ostrog. He had some money and riches of unknown origin.</font></div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>92.183533,58.454559,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#2 - Mangazeya</name>
+    <description><![CDATA[<a href="http://en.wikipedia.org/wiki/Pyanda#Ascent_of_the_Yenisey_and_Lower_Tunguska" style="font-family:arial, sans-serif;font-size:x-small" target="_blank">Wikipedia</a><br style="font-family:arial, sans-serif;font-size:x-small"><br style="font-family:arial, sans-serif;font-size:x-small"><span style="font-family:arial, sans-serif;font-size:x-small">Demid Sofonovich Pyanda came to prominence in&nbsp;Mangazeya&nbsp;around 1619, coming there from the&nbsp;Yeniseysky&nbsp;ostrog. He had some money and riches of unknown origin.</span>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>82.254639,66.693832,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#3 - Turukhansk</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Pyanda#Ascent_of_the_Yenisey_and_Lower_Tunguska" target="_blank">Wikipedia</a></font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif">Taking about 40 men with him, he went to&nbsp;Turukhansk&nbsp;on the&nbsp;Yenisey&nbsp;near the mouth of the&nbsp;Lower Tunguska&nbsp;(or Nizhnyaya Tunguska in&nbsp;Russian). While buying&nbsp;furs&nbsp;from the locals there, he heard stories about a large river to the east of the Lower Tunguska, called&nbsp;Elyu-ene, which in&nbsp;Evenk language&nbsp;means&nbsp;"large river". Russians, in their own manner, rendered it to&nbsp;Lena&nbsp;(a shorter form of the Russian feminine name&nbsp;Yelena, corresponding to&nbsp;Helen).</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><img src="http://static.panoramio.com/photos/large/18145656.jpg" style="width:242px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/36542?with_photo_id=18145656" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">Oleg_Potantsev</a></font></div>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>87.970276,65.792641,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#4 Tunguska turns south</name>
+    <description><![CDATA[<div dir="ltr"><font face="arial, sans-serif" size="1"><a href="http://en.wikipedia.org/wiki/Pyanda#Ascent_of_the_Yenisey_and_Lower_Tunguska" target="_blank">Wikipedia</a></font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><font size="1" face="arial, sans-serif">Pyanda happened to be the most resolute of the potential explorers, and in 1620 he became the leader of a very protracted expedition. He sailed from Turukhansk up the&nbsp;Lower Tunguska&nbsp;with many men on several&nbsp;strug&nbsp;boats. They moved rather quickly amid the taiga-covered banks of the river, until the river's course turned south and the valley narrowed. Tree trunks, floating down the river, impeded the way – Pyanda thought the&nbsp;Tunguses&nbsp;were trying to force him to turn around. Wanting either to avoid excessive risks or to buy furs from the locals right at the point they had already reached,&nbsp;</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><img src="http://static.panoramio.com/photos/large/83598629.jpg" style="width:242px"></font><div><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/36542?with_photo_id=83598629" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">Oleg_Potantsev</a></font></div></div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>102.349319,64.027130,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#5 - Establishes Nizhneye Pyandino</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Pyanda#Ascent_of_the_Yenisey_and_Lower_Tunguska" target="_blank">Wikipedia</a><br><br>Pyanda ordered his men to stop and build a winter settlement, later called Nizhneye Pyandino (Lower Pyandino). It was in the region where the Lower Tunguska is close to Vilyuy, a major tributary of the Lena. Tunguses indeed soon made several attacks, however the Russians easily repelled them with firearms.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><img src="http://static.panoramio.com/photos/large/5018758.jpg" style="width:242px"></font><div><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/444003?with_photo_id=5018758" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">Josh Price</a></font></div></div>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>108.264771,63.078598,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#6 - Establishes Verkhneye Pyandino</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Pyanda#Ascent_of_the_Yenisey_and_Lower_Tunguska" target="_blank">Wikipedia</a><br><br>The next year, 1621, Pyanda sailed only several dozen kilometers up the river, and at 62°N he built Verkhneye Pyandino, another winter settlement.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><img src="http://static.panoramio.com/photos/large/15408395.jpg" style="width:242px"><div><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;</font><span style="background-color:rgb(255, 255, 255);color:rgb(90, 123, 243);font-family:arial, sans-serif;font-size:x-small;line-height:14px">o_green</span></div></div>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>108.012085,61.506977,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#7 - 58°N</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif">Wikipedia</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><font size="1" face="arial, sans-serif">In 1623 he sailed south several hundred kilometers more and yet again stayed at the winter settlement, at 58°N. Such slow pace of his journey is explained either by the resistance of Tunguses or by successful fur trade with them.</font></div>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>107.894325,57.999001,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#8 - Chechuysky volok</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Pyanda#Discovery_and_exploration_of_the_Lena" target="_blank">Wikipedia</a><br><br>The latter winter settlement of Pyanda's party happened to be very close to the so-called Chechuysky volok, a 12-mile (20 km) portage between the Tunguska and the upper Lena. Finally, in 1623, Pyanda either carried his strugs to the Lena or built new boats where he was, soon reaching this great river of Eastern Siberia.</font></div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>107.824974,57.830681,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#9 - Ice on the River Lena</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Pyanda#Discovery_and_exploration_of_the_Lena" target="_blank">Wikipedia</a><br><br>After the ice on Lena had cracked and floated down the river, Pyanda followed it and for several days sailed through rocky banks.</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><img src="http://static.panoramio.com/photos/large/35859541.jpg" style="width:242px"></font></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio &nbsp;/&nbsp;</font><span style="background-color:rgb(255, 255, 255);color:rgb(90, 123, 243);font-family:arial, sans-serif;font-size:x-small;line-height:14px">AntipinIvan</span></div>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>108.095169,57.775616,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#10 - Lena and Vitim Rivers</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Pyanda#Discovery_and_exploration_of_the_Lena" target="_blank">Wikipedia</a><br><br>After passing the mouth of the right tributary called the&nbsp;Vitim, the Lena became wider and soon turned east, flowing amid the low banks and numerous islands.</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><img src="http://static.panoramio.com/photos/large/20870539.jpg" style="width:242px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/1395838?with_photo_id=20870539" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">Svetlana Ivanova</a></font></div>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>112.568665,59.482407,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#11 - Lena and Olyokma Rivers</name>
+    <description><![CDATA[<div dir="ltr" style="font-size:10pt;font-family:arial"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Pyanda#Discovery_and_exploration_of_the_Lena" target="_blank">Wikipedia</a><br><br>After passing the mouth of another southern tributary, the&nbsp;Olyokma, the banks again became rocky.</font></div><div dir="ltr" style="font-size:10pt;font-family:arial"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><font face="arial, sans-serif" size="1"><img src="http://static.panoramio.com/photos/large/62675471.jpg" style="width:242px"></font></div><div dir="ltr"><font face="arial, sans-serif" size="1">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/5637278?with_photo_id=62675471" rel="author" style="color:rgb(90, 123, 243);text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255)" target="_blank">Kar-el Adin</a></font></div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>120.677780,60.374168,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#12 - Yakutsk</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Pyanda#Discovery_and_exploration_of_the_Lena" target="_blank">Wikipedia</a><br><br>Pyanda reached the lands inhabited by the&nbsp;Yakuts&nbsp;and turned back, avoiding a wintering amid the yet unknown race of people.</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><img src="http://static.panoramio.com/photos/large/99328886.jpg" style="width:242px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/45852?with_photo_id=99328886" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">vadimpl</a>&nbsp;</font></div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>129.760895,62.040852,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#13 - Returned to Chechuysky volok from Yakutsk</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Pyanda#Discovery_and_exploration_of_the_Lena" target="_blank">Wikipedia</a><br><br>Pyanda returned to&nbsp;Chechuysky volok&nbsp;and decided to explore another way back to&nbsp;Yenisey.</font></div>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>107.996979,57.761333,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#14 - Upper Lena River</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>105.743408,56.776810,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#15 - Lena River in the land of the Buryats</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Pyanda#Discovery_and_exploration_of_the_Lena" target="_blank">Wikipedia</a><br><br>He sailed up Lena until it became too rocky and shallow, and then journeyed westward through the steppes inhabited by&nbsp;nomadic&nbsp;Buryats.</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><img src="http://static.panoramio.com/photos/large/62070973.jpg" style="width:242px"></font></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio / &nbsp;<a href="http://www.panoramio.com/user/6465222?with_photo_id=62070973" rel="author" style="color:rgb(90, 123, 243);text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255)" target="_blank">DJDF</a></font></div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>106.620941,53.733685,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#16 - Angara River</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Pyanda#Discovery_and_exploration_of_the_Lena" target="_blank">Wikipedia</a><br><br>In autumn of 1623 Pyanda's party reached the upper&nbsp;Angara&nbsp;and still had some time to build new boats, since Angara usually freezes rather late.</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><img src="http://static.panoramio.com/photos/large/37058711.jpg" style="width:242px"></font></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;</font><span style="font-family:arial, sans-serif;font-size:x-small;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243);line-height:14px">Алексей Колесников</span></div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>103.385468,53.650337,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#17 - Angara River</name>
+    <description><![CDATA[<font size="1" face="arial, sans-serif"><img src="http://static.panoramio.com/photos/large/25188591.jpg" style="width:242px"></font><div><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/246524?with_photo_id=25188591" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">Sergeev Vitaliy</a></font></div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>100.608673,58.619061,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Angara River Rapids</name>
+    <description><![CDATA[<div><font size="1" face="arial, sans-serif"><img src="http://static.panoramio.com/photos/large/6882569.jpg" style="width:242px"></font><div><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/175384?with_photo_id=6882569" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">Alexey Mazur</a></font></div></div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>93.109306,58.071793,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#18 - Angara and Yenisey Rivers</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Pyanda#Discovery_and_exploration_of_the_Lena" target="_blank">Wikipedia</a><br><br>Pyanda and his men successfully passed the Angara rapids and finally reached the mouth of the river at&nbsp;Yenisey, having discovered that the Angara is the same river as the&nbsp;Upper Tunguska (Verkhnyaya Tunguska), as it was previously named by Yeniseyan Cossacks. In the late 1623 or in early 1624 Pyanda reached&nbsp;Yeniseysk&nbsp;where his 5,000 mile (8000&nbsp;km) long journey ended.</font></div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>93.002014,58.098202,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,1453 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Sources of information.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- Google Earth Hacks. (http://www.gearthhacks.com/forums/forum.php)
+
+- ruudleeuw.com (http://www.ruudleeuw.com/search116.htm#beaver_creek)]]></description>
+			<Point>
+				<coordinates>-59.414062,28.613459,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>Google Earth KML file</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Non-Networked Google Earth KML file of this map. (https://docs.google.com/file/d/0B52hHMRyBvEsakhzcUkxQ3dadHM/edit)]]></description>
+			<Point>
+				<coordinates>-41.835937,35.46067,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1037</styleUrl>
+			<name>Google Maps of Commercial Airline Crash Sites by MyReadingMapped.</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2F1.bp.blogspot.com%2F-zNsl-ihBJsE%2FT5U6CcfK84I%2FAAAAAAAABHs%2F18aNQq8eGd4%2Fs320%2FAirplane%2Bcrashes%2B1920-1960%2Bin%2B%2BGoogle%2BMap.JPG&amp;container=blogger&amp;gadget=a&amp;rewriteMime=image%2F*</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[90+ Years of Airplane Crash Sites
+
+These are the commercial airplane crash sites where the wreck cannot be seen in Google Map. Each map below has over one hundred airplane crash sites within a 10-year or more period. As a series, these maps represent the history of the globalization of commercial flight.
+
+- 1920-1960 (propeller driven planes) (shown above)(http://myreadingmapped.blogspot.com/2012/01/interactive-map-of-commercial-propeller.html)  
+
+- 1961-1970 (http://myreadingmapped.blogspot.com/2012/01/commercial-aviation-crashes-1961-1970.html) 
+ 
+- 1971-1980 (http://myreadingmapped.blogspot.com/2012/01/commercial-aviation-crashes-1971-1980.html) 
+
+- 1981-1990 (http://myreadingmapped.blogspot.com/2012/01/commercial-aviation-crashes-1981-1990.html) 
+
+- 1991-2000 (http://myreadingmapped.blogspot.com/2012/10/commercial-aircraft-crashes-1991-2000.html) 
+
+- 2001-2010 (http://myreadingmapped.blogspot.com/2013/01/commercial-aviation-crashes-2001-2010.html) 
+
+- 2011-2020 (updated as crashes occur)(http://myreadingmapped.blogspot.com/2013/01/commercial-aviation-crashes-2011-2020.html)   ]]></description>
+			<Point>
+				<coordinates>-46.054687,9.102097,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps of Historic Events</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>-31.289062,9.102097,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Color-coding of plane wreck sites</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[There are now two types of plane wrecks shown in this map:
+ 
+- Airplane Symbols:
+Plane wrecks that you can zoom in on and also display a photo of the wreck.
+ 
+- Yellow Dots:
+Plane wrecks that cannot be seen in Google Map when you zoom in but have Google Map geo-tagged Panoramio photo of the wreck at the geo-tagged location.]]></description>
+			<Point>
+				<coordinates>-24.960937,28.921631,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>How I found these plane wrecks.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[All of these plane wrecks could not have been found without the unknowing assistance of others who discovered them.
+
+So here is how I found them:
+- Google Earth Hacks
+- ruudleeuw.com
+- Atlas Obscura
+- Panoramio tagged searches
+- Flickr tagged searches
+- Google searches for [Panoramio: plane wrecks]
+- Google searches for [Flickr: plane wrecks]
+- Google image searches]]></description>
+			<Point>
+				<coordinates>-40.78125,22.917923,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Uruguayan Air Force Flight 571 (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/23888054.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Andrés Figueroa Zuri…]]></description>
+			<Point>
+				<coordinates>-70.292529,-34.763844,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Plane wreck at Hall Lake, Baffin Region, NU, Canada</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/33173059.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Arctic Dave (http://www.panoramio.com/user/4277191?with_photo_id=33173059)]]></description>
+			<Point>
+				<coordinates>-82.668021,68.602642,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Liberator B-24 bomber wreck, Mill Hill (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/39123344.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / David.P (http://www.panoramio.com/user/2116614?with_photo_id=39123344)]]></description>
+			<Point>
+				<coordinates>-1.915136,53.412147,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>An24 Wreck - Luzamba Airpor (geo-tagged)t</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/3014909.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / CanonSchmanon (http://www.panoramio.com/user/235387?with_photo_id=3014909)]]></description>
+			<Point>
+				<coordinates>18.052726,-9.10934,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Another wreck at Luzamba Airport</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/3014856.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / CanonSchmanon (http://www.panoramio.com/user/235387?with_photo_id=3014856)]]></description>
+			<Point>
+				<coordinates>18.051374,-9.114618,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Lockheed C-121J Super Constellation (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/5975586.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / polar.mike (http://www.panoramio.com/user/648964?with_photo_id=5975586)]]></description>
+			<Point>
+				<coordinates>166.428323,-77.966281,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Avro York Wreck</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://2.bp.blogspot.com/-dq-Ri2mEJ0M/UU2UYHWeYcI/AAAAAAAAEkE/PcPA4K6foag/s1600/Plan+wreckage+5+in+Google+Map.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Earth Hacks (http://www.gearthhacks.com/dlfile33997/Avro-York-Wreck.htm)
+
+Google]]></description>
+			<Point>
+				<coordinates>-68.712015,58.302037,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Abandoned Catalina PBY-5A at the Gulf of Aqaba (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/4457481.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Richard Desomme (http://www.panoramio.com/user/823582?with_photo_id=4457481)]]></description>
+			<Point>
+				<coordinates>34.608623,28.090898,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>B-29 Superfortress wreckage on China Lake Naval Air Weapons Station</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://1.bp.blogspot.com/-8B_cZzdCoRQ/UU2E9uRvz8I/AAAAAAAAEjY/rvlNWfvBOaQ/s320/Plane+wreckage+in+Google+Map.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Earth Hacks (http://www.gearthhacks.com/dlfile33414/B-29-Superfortress-wreckage-on-China-Lake-Naval-Air-Weapons-Station.htm)
+
+
+
+Google]]></description>
+			<Point>
+				<coordinates>-117.17068100000002,35.524342,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Wreck of a B-29 Superfortress at China Lake</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://4.bp.blogspot.com/-nI7yAAEZPv4/UU2UYcljn_I/AAAAAAAAEkA/S4lruWOvqPA/s320/Plan+wreckage+7+in+Google+Map.JPG </value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Earth Hacks (http://www.gearthhacks.com/dlfile33413/Wreck-of-a-B-29-Superfortress-at-China-Lake.htm)
+Google]]></description>
+			<Point>
+				<coordinates>-117.72387600000002,35.902465,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name> Target Aircraft</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://2.bp.blogspot.com/-R7294XIGlnM/UU2UYiP3OBI/AAAAAAAAEkM/-HvTbVpUD_A/s320/Plan+wreckage+8+in+Google+Map.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Earth Hacks (http://www.gearthhacks.com/dlfile31965/Target--Aircraft.htm)
+
+Google]]></description>
+			<Point>
+				<coordinates>-2.544242,55.063544,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Another Ridgecrest crash</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://1.bp.blogspot.com/-OrweBo92SpQ/UU2UX8YqxjI/AAAAAAAAEjo/0A52Y5Azs5g/s1600/Plan+wreckage+2+in+Google+Map.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Earth Hacks (http://www.gearthhacks.com/dlfile28397/Crashed-Aircraft.htm)
+
+Google]]></description>
+			<Point>
+				<coordinates>-117.60491400000001,35.771401,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>De Havilland Dove Wreck (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/84546137.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Boyd T (http://www.panoramio.com/user/6999629?with_photo_id=84546137)]]></description>
+			<Point>
+				<coordinates>-81.325076,27.426481,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Ditched C46 at Norman's Cay, Exumas, Bahamas (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/27691843.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / cosmicmiami (http://www.panoramio.com/user/3319631?with_photo_id=27691843)]]></description>
+			<Point>
+				<coordinates>-76.809666,24.59448,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Crashed DC-3 Nikolski, AK (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/2598135.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[www.ruudleeuw.com (http://www.ruudleeuw.com/search116.htm#beaver_creek) 
+
+ 
+
+Google Map / Panoramio / kokodoc (http://www.panoramio.com/user/496012?with_photo_id=2598135)]]></description>
+			<Point>
+				<coordinates>-168.855775,52.942342,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Curtiss C-46 Commando "Miss Piggy" (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/61512591.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[http://www.ruudleeuw.com (http://www.ruudleeuw.com/search116.htm) 
+
+ 
+
+Google Map / Panoramio / Phill McGinn]]></description>
+			<Point>
+				<coordinates>-94.086667,58.76053399999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Aeroflot Il-14</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://1.bp.blogspot.com/-srNvc3oL00U/UcQhtxZdfyI/AAAAAAAAFJY/_4ryQg-xmtE/s1600/Plane+at+Antarctica+base+in+Google+Map.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SpiderX22 believes this to be an Aeroflot Il-14 that 
+crashed on January 2, 1979]]></description>
+			<Point>
+				<coordinates>45.826807,-67.671137,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>N103 (ATL-98 conversion no.7, ex DC-4 cn10273</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://3.bp.blogspot.com/-6waMTtJ95zI/UfjqV6GFHqI/AAAAAAAAFj8/89ZJ4fprGtU/s1600/plane+wreck+13.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[http://www.ruudleeuw.com (http://www.ruudleeuw.com/search116.htm#beaver_creek)]]></description>
+			<Point>
+				<coordinates>-146.531868,67.021346,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Abandoned planes near Russian science base</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://2.bp.blogspot.com/-vkP96u4IOtk/UcQd9t-SH7I/AAAAAAAAFJI/4ecJTbS5ITM/s320/Planes+in+Antarctic+base+in+Google+Map.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Abandoned planes buried in snow.]]></description>
+			<Point>
+				<coordinates>45.82244000000001,-67.675518,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Canso flying boat - February 8, 1945 (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/5357199.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / fawlty25 (http://www.panoramio.com/user/1007176?with_photo_id=5357199)]]></description>
+			<Point>
+				<coordinates>-125.821829,49.07862,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Douglas R4D-8 (Super DC-3)  11/24/1973 (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/58596234.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[View it in Google StreetView (https://www.google.com/maps/views/view/107054744026933176373/gphoto/6045332402281404002?gl=us&heading=179&pitch=95&fovy=50)
+
+
+
+Google Map / Panoramio / Julien Delebecque (http://www.panoramio.com/user/2668239?with_photo_id=58596234)]]></description>
+			<Point>
+				<coordinates>-19.364766,63.459164,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Cessna 1982N, Mt. Abraham, VT</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2F3.bp.blogspot.com%2F-u0R2_jq3trA%2FUq3rAS0MqhI%2FAAAAAAAAGpc%2F5HxSlkE6PmQ%2Fs1600%2FCesna%2B182N%2BMt.%2BAbraham%2C%2BVT%2Bcrash%2Bsite%2Bin%2BGoogle%2BMap.JPG&amp;container=blogger&amp;gadget=a&amp;rewriteMime=image%2F*</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[7dvt.com (http://www.7dvt.com/2010wreck-hunter)
+
+
+Google]]></description>
+			<Point>
+				<coordinates>-72.935523,44.117459,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>WB-29 Superfortress (Lady of the Lake) (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/24885519.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[atlasobscura.com (http://www.atlasobscura.com/places/lady-of-the-lake)
+
+Google Map / Panoramio / wrenchtwistr (http://www.panoramio.com/user/3476650?with_photo_id=24885519)]]></description>
+			<Point>
+				<coordinates>-147.126621,64.703177,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>SAAF 1716 ('Pelican 16'), crashed in the Sahara in 1994 (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/SAAF_Avro_Shackleton_MR3_Shevelev-2.jpg/800px-SAAF_Avro_Shackleton_MR3_Shevelev-2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Avro_Shackleton#Accidents_and_incidents)
+
+
+SAAF 1716 ('Pelican 16') was restored to flight in 1994, but later that year, while on its way to the UK, it crash landed in the Sahara desert (22°37′50″N 13°14′15″W) after a double engine failure.[74] The crash did not result in any casualties, but the aircraft was abandoned in the desert.[75]
+
+
+
+
+Wikipedia Commons / Alexei Shevelev]]></description>
+			<Point>
+				<coordinates>-13.237388,22.630728,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name> Kittyhawk P40 </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://2.bp.blogspot.com/-8-aBP5-sImI/U-uwrWvsXZI/AAAAAAAAHyo/lT2KDHp6LGE/s1600/Kittyhawk%2Bp40.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Rich Marinaccio found the Kittyhawk P40 in Yahoo maps, but it does not display in Google map.
+
+
+Check it out here. (https://maps.yahoo.com/place/?lat=27.39784857012712&lon=27.62908637523651&q=27.398003%2C27.629133&t=h&bb=27.398424855997067%2C27.628006786108017%2C27.397272281252896%2C27.63016328215599&addr=Markaz%20El%20Farafra%2C%20Egypt)]]></description>
+			<Point>
+				<coordinates>27.629113,27.397922,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Underwater plane wreck near  Staniel Cay</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://assets.atlasobscura.com/media/BAhbCVsHOgZmSSJVdXBsb2Fkcy9wbGFjZV9pbWFnZXMvNmIxYmU4YjlkNGEzMzVhNDlkZGFkZDM1N2I1MWY2MmIyNDkyODI1ODQyX2M2MjIyMDY1ZGJfYi5qcGcGOgZFVFsIOgZwOgp0aHVtYkkiCjk4MHg+BjsGVFsHOwc6CnN0cmlwWwk7BzoMY29udmVydEkiEC1xdWFsaXR5IDkxBjsGVDA/image.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Article: Atlas Obscura (http://assets.atlasobscura.com/media/BAhbCVsHOgZmSSJVdXBsb2Fkcy9wbGFjZV9pbWFnZXMvNmIxYmU4YjlkNGEzMzVhNDlkZGFkZDM1N2I1MWY2MmIyNDkyODI1ODQyX2M2MjIyMDY1ZGJfYi5qcGcGOgZFVFsIOgZwOgp0aHVtYkkiCjk4MHg+BjsGVFsHOwc6CnN0cmlwWwk7BzoMY29udmVydEkiEC1xdWFsaXR5IDkxBjsGVDA/image.jpg)
+
+ 
+Atlas Obsura / Copyright: Usersubmitted]]></description>
+			<Point>
+				<coordinates>-76.446218,24.166474000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Douglas C-47A Dakota III - 19-4-1944 (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/4337569.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Aviation Safety Network Report (http://aviation-safety.net/database/record.php?id=19440419-0)
+
+Google Map / Panoramio / pinnsvin]]></description>
+			<Point>
+				<coordinates>-127.44558000000002,50.729262,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>C-46 Commando 09 Aug 61 at Scapa Lake, NU (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/33781739.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Arctic Dave (http://www.panoramio.com/user/4277191?with_photo_id=33781739)]]></description>
+			<Point>
+				<coordinates>-83.208303,68.512112,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Fairchild F-27, Resolute Bay, </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/17832105.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Panoramio / flyarctic]]></description>
+			<Point>
+				<coordinates>-94.588101,74.672511,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Guadalupe Island (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/79297923.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / sharkshooter (http://www.panoramio.com/user/2327902?with_photo_id=79297923)]]></description>
+			<Point>
+				<coordinates>-118.278103,29.019474000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Liptovský Ján, Slovakia (geo-tagged) </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/64550872.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / pepeeto]]></description>
+			<Point>
+				<coordinates>19.701855,48.993313,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Albatross Plane Crash Site (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/18205296.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / PanamintCity.Com (http://www.panoramio.com/user/2732214?with_photo_id=18205296)]]></description>
+			<Point>
+				<coordinates>-117.323931,36.410124,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Kielder, Northumberland, UK (geo-tagged) </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/92624977.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / TMAK]]></description>
+			<Point>
+				<coordinates>-2.66327,55.168592,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Princess Royal Island, BC (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/25919911.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Mike MacFerrin (http://www.panoramio.com/user/19569?with_photo_id=25919911)]]></description>
+			<Point>
+				<coordinates>-128.765565,53.20107300000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name> DC-3 at Reindeer Lake, Saskatchewan, CA</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ruudleeuw.com  (http://www.ruudleeuw.com/search116.htm)]]></description>
+			<Point>
+				<coordinates>-102.237123,56.950422,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>USAF F-80 'Shooting Star" shot down (?) in 1957 - July 2006 (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/7334438.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / MaxFarrar (http://www.panoramio.com/user/1307317?with_photo_id=7334438)]]></description>
+			<Point>
+				<coordinates>20.140284,40.073864,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Wreckage of Avro Anson, Edale Moor (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/16173842.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / David.P (http://www.panoramio.com/user/2116614?with_photo_id=16173842)]]></description>
+			<Point>
+				<coordinates>-1.84941,53.387448,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Part remains of crashed Wellington (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/20938625.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / David.P (http://www.panoramio.com/user/2116614?with_photo_id=20938625)]]></description>
+			<Point>
+				<coordinates>-1.808925,53.384653,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Loon Lake - Plane Wreck (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/3367411.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / edboots (http://www.panoramio.com/user/679894?with_photo_id=3367411)]]></description>
+			<Point>
+				<coordinates>-115.84126000000002,45.15896,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>C-47 Crash Site at San Bernardino National Forest, Yucaipa, CA (geo-tagged) </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/43059445.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Californio (http://www.panoramio.com/user/4978258?with_photo_id=43059445)]]></description>
+			<Point>
+				<coordinates>-116.81649400000002,34.099031,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>C-46 Wreckage on Pleasant View Ridge (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/2823102.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Lounging_at_Walden (http://www.panoramio.com/user/80336?with_photo_id=2823102)]]></description>
+			<Point>
+				<coordinates>-117.86721000000001,34.389068,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>DC-3 N74586 Wreck at Skillet Glacier, Mt. Moran</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Aircraft Wrecks in the Mountains and Deserts of the American West (http://www.aircraftwrecks.com/pages/dc3.htm)]]></description>
+			<Point>
+				<coordinates>-110.767247,43.837808,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>U.S.A.F. C-119 Wreckage on Pleasant View Ridge</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-117.865942,34.3869,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Aircraft Crash, High Peak District (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/28414625.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google map / Panoramio / dazhanson (http://www.panoramio.com/user/3817190?with_photo_id=28414625)]]></description>
+			<Point>
+				<coordinates>-1.834639,53.474374,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Aircraft Crash, High Peak District (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/28414650.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / dazhanson (http://www.panoramio.com/user/3817190?with_photo_id=28414650)]]></description>
+			<Point>
+				<coordinates>-1.8343330000000002,53.474317,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>B-29 Superfortress, Higher Shelf Stones, High Peak District, UK (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/91168234.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Mark Harris (http://www.panoramio.com/user/5870130?with_photo_id=91168234)]]></description>
+			<Point>
+				<coordinates>-1.8650109999999998,53.4506,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Douglas C-47 Skytrain air crash debris near Higher Shelf Stones, High Peak District, UK (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/27498691.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / piroghi (http://www.panoramio.com/user/3655230?with_photo_id=27498691)]]></description>
+			<Point>
+				<coordinates>-1.878767,53.448042,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>FMk.4 Sabre Air Crash Site on Ashop Moor (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/27746321.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / piroghi (http://www.panoramio.com/user/3655230?with_photo_id=27746321)]]></description>
+			<Point>
+				<coordinates>-1.891754,53.409199,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>J. D. Horne's Sabre crash site on Ashop Moor (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/18279835.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / David.P (http://www.panoramio.com/user/2116614?with_photo_id=18279835)]]></description>
+			<Point>
+				<coordinates>-1.891931,53.408995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Airspeed Consul crash site (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/19770160.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / CrashFinder]]></description>
+			<Point>
+				<coordinates>-1.740414,53.465408,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>De Havilland Dragon Rapide below Wove Hill (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/34105370.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / David.P (http://www.panoramio.com/user/2116614?with_photo_id=34105370)]]></description>
+			<Point>
+				<coordinates>-1.8487410000000002,53.390914,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>1951 wreck site (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/16487723.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / P. F. Glover (http://www.panoramio.com/user/1933074?with_photo_id=16487723)]]></description>
+			<Point>
+				<coordinates>-1.7392620000000003,53.466085,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Airspeed Oxford Mk.1 LX518 Featherbed Moss near Margary Hill (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/26156000.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / David Appleyard (http://www.panoramio.com/user/3053374?with_photo_id=26156000)]]></description>
+			<Point>
+				<coordinates>-1.729695,53.467093,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Handley page Halifax Mk.2 HR727 Edale Moor, Kinder Scout (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/26154186.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / David Appleyard (http://www.panoramio.com/user/3053374?with_photo_id=26154186)]]></description>
+			<Point>
+				<coordinates>-1.804526,53.385349,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Boulton-Paul Defiant N1766 Rowlee Pasture, west of Derwent Reservoir (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/26155711.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / David Appleyard (http://www.panoramio.com/user/3053374?with_photo_id=26155711)]]></description>
+			<Point>
+				<coordinates>-1.771522,53.411067,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Airspeed Oxford Mk.1 HN594 Brown Knoll near Edale (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/26156038.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / David Appleyard (http://www.panoramio.com/user/3053374?with_photo_id=26156038)]]></description>
+			<Point>
+				<coordinates>-1.878406,53.363556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Landcaster bomber in Watson Lake, Yukon, CA</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ruudleeuw.com  (http://http://www.ruudleeuw.com/search116.htm)]]></description>
+			<Point>
+				<coordinates>-128.74539500000003,60.102219,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Plane Wreck on Ilha do Principe (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/30431775.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Pascal Aubort (http://www.panoramio.com/user/3966069?with_photo_id=30431775)]]></description>
+			<Point>
+				<coordinates>7.412253,1.664656,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>German plane wreck from World War 2 in Lake Grövelsjön, Norway (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/23833065.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / jiriki]]></description>
+			<Point>
+				<coordinates>12.259058000000001,62.152795,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Avro Lancaster "Easy Elsie" 1993 in Jokkmokk NV, Sweden (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/26590230.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / pilliknutsson (http://www.panoramio.com/user/3629385?with_photo_id=26590230)]]></description>
+			<Point>
+				<coordinates>19.729305,67.008572,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Mount Charleston plane crash (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/6132740.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Shaunt Makarian (http://www.panoramio.com/user/1111751?with_photo_id=6132740)]]></description>
+			<Point>
+				<coordinates>-115.69503900000001,36.266657,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Old Mining and Plane Wreckage on the Mining Trail, King County, WA, USA (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/57370806.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / jg16]]></description>
+			<Point>
+				<coordinates>-121.49033300000002,47.641333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Remains of a plane from World War II in the desert at Qesm Siwah, Matrouh, Egypt (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/52075367.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Can be see using Yahoo Maps. (https://maps.yahoo.com/place/?lat=28.700241161565753&lon=27.578300088644028&q=28%C2%B0%2042%27%200.90%22%20N%2C%20%2027%C2%B0%2034%27%2043.57%22%20E&t=h&bb=28.700458784602638%2C27.57769323885441%2C28.700024714420724%2C27.578906938433647&addr=28%C2%B0%2042%27%200.90%22%20N%2C%20%2027%C2%B0%2034%27%2043.57%22%20E)
+
+
+
+Google Map / Panoramio / agones (http://www.panoramio.com/user/3628238?with_photo_id=52075367)]]></description>
+			<Point>
+				<coordinates>27.578162,28.700262000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Kee Bird (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/6566730.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Marcel Pepin (http://www.panoramio.com/user/1202797?with_photo_id=6566730)]]></description>
+			<Point>
+				<coordinates>-60.120277,80.07046,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Air India Express wreck (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/35865061.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / cheetha (http://www.panoramio.com/user/4400445?with_photo_id=35865061)]]></description>
+			<Point>
+				<coordinates>74.874378,12.945749,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Gol Transportes Aéreos Flight 1907 (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/3584221.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / josias.souza (http://www.panoramio.com/user/719537?with_photo_id=3584221)]]></description>
+			<Point>
+				<coordinates>-53.285751,-10.484436,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Japanese fighter (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/15651700.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / NI Kess]]></description>
+			<Point>
+				<coordinates>145.761969,18.122952,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>German Heinkel 111A  (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/78132348.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Pulled out from Heilstuguvatnet lake near Grotli (destroyed 27th April, 1940 by the British Blackburn Skua) - Grotli hotel - Grotli - Norway
+
+
+
+Google Map / Panoramio / JacekBrejnak]]></description>
+			<Point>
+				<coordinates>7.629382999999999,62.01431099999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>B-17E 41-9234 Crash landed Jan. 8, 1943 (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/44292894.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / arribasa]]></description>
+			<Point>
+				<coordinates>146.80408,-7.3678300000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mint Glacier (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/6541833.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / agolter]]></description>
+			<Point>
+				<coordinates>-149.121948,61.858254,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>B25 Crash, Kootenay Boundary, British Columbia (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/37716301.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Kootenaycat (http://www.panoramio.com/user/576428?with_photo_id=37716301)]]></description>
+			<Point>
+				<coordinates>-117.88186300000001,49.167521,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Gustavus, Alaska (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/18854736.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / broecher (http://www.panoramio.com/user/2716930?with_photo_id=18854736)]]></description>
+			<Point>
+				<coordinates>-135.756725,58.44110799999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Ellef Ringers Island (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/18571964.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / JsEwing (http://www.panoramio.com/user/428852?with_photo_id=18571964)]]></description>
+			<Point>
+				<coordinates>-103.417739,78.796244,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Isachsen Plane Crash (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/39019174.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[You can view it in Yahoo Maps. (https://maps.yahoo.com/place/?lat=78.7704120959062&lon=-103.33553552627563&q=61%C2%B051%2728.8%22N%20149%C2%B008%2708.0%22W&t=h&bb=78.77142329304728%2C-103.34417223930359%2C78.76940080887022%2C-103.3269202709198&addr=61%C2%B051%2728.8%22N%20149%C2%B008%2708.0%22W)
+
+
+Google Map / Panoramio / Derrick Midwinter (http://www.panoramio.com/user/3415887?with_photo_id=39019174)]]></description>
+			<Point>
+				<coordinates>-103.330407,78.766479,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Kaaterskill Wild Forest, Palenville, NY (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/83211973.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Enduroway.pl (http://www.panoramio.com/user/5059225?with_photo_id=83211973)]]></description>
+			<Point>
+				<coordinates>-74.070833,42.158409,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Playa Ventanilla - Plane wreck (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/251702.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / sradu (http://www.panoramio.com/user/52562?with_photo_id=251702)]]></description>
+			<Point>
+				<coordinates>-96.595445,15.673412,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Plane wreck at WWII Museum, Guadalcanal, Solomon Islands (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/5493113.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Cheryl Parkes (http://www.panoramio.com/user/1019646?with_photo_id=5493113)]]></description>
+			<Point>
+				<coordinates>160.033129,-9.439068,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Plane wreck at Honiara War Museum, Guadalcanal, Solomon Islands (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/18591184.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / trickledown]]></description>
+			<Point>
+				<coordinates>159.793097,-9.318503,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Jungel-Bomber hulk in Papua New Guinea (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/19312644.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Basti T]]></description>
+			<Point>
+				<coordinates>145.768569,-5.102149,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Plane Wreckage on Howland Island </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Plane_wreckage_on_Howland_Island.jpg/800px-Plane_wreckage_on_Howland_Island.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Joann94024 (http://en.wikipedia.org/wiki/User:Joann94024)]]></description>
+			<Point>
+				<coordinates>-176.613553,0.805167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mount Ptolemy wreck tail section, AB, Canada (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/42171502.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / hillcresthunter (http://www.panoramio.com/user/5086714?with_photo_id=42171502)]]></description>
+			<Point>
+				<coordinates>-114.567833,49.574014000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mount Ptolemy wreck tail section, AB, Canada (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/1737404.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Clayton Belseck]]></description>
+			<Point>
+				<coordinates>-114.574579,49.56967,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Crowsnest Pass plane crash site or more Mount Ptolemy wreck sites </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/42171492.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / hillcresthunter (http://www.panoramio.com/user/5086714?with_photo_id=42171492)]]></description>
+			<Point>
+				<coordinates>-114.560546,49.57593,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Plane wreck at Montepuez, Mozambique (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/61173489.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Dolores Boroni (http://www.panoramio.com/user/1657186?with_photo_id=61173489)]]></description>
+			<Point>
+				<coordinates>39.218531000000006,-12.111764,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Aircraft Wreck - High Peak District, Bleaklow Stones (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/36913219.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Myphonephoto (http://www.panoramio.com/user/4421449?with_photo_id=36913219)]]></description>
+			<Point>
+				<coordinates>-1.841612,53.469017,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Aircraft Wreck at Higher Shelf Stones (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/82258838.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / pipstef (http://www.panoramio.com/user/2620481?with_photo_id=82258838)]]></description>
+			<Point>
+				<coordinates>-1.8747690000000001,53.451156,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lancaster KB993 remains and Memorial, Jame's Thorn, Dark Peak (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/33293838.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / 
+Dave Lauberts]]></description>
+			<Point>
+				<coordinates>-1.882117,53.449706,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Air crash site on Sykes Moor (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/78615409.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / stevefox (http://www.panoramio.com/user/6019044?with_photo_id=78615409)]]></description>
+			<Point>
+				<coordinates>-1.8808499999999997,53.47839200000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Air crash on hill (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/93272047.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / stevefox (http://www.panoramio.com/user/6019044?with_photo_id=93272047)]]></description>
+			<Point>
+				<coordinates>-1.743135,53.462069,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>J2F-4 Grumman Duck biplane buried in 32 ft. of glacier</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[NYT.com (http://www.nytimes.com/2010/09/21/science/21greenland.html?pagewanted=all)
+
+Racing to Find Aviators Entombed in Ice
+
+Now, 68 years later, the Coast Guard has commissioned a private recovery team to try to locate, excavate and repatriate the three men entombed in a J2F-4 Grumman Duck biplane in a glacier here. The team set out last month with an arsenal of top-of-the-line technology: ground-penetrating radar, which can detect metallic objects close to the surface; advanced ice-melting equipment, which can pinpoint buried objects as it dissolves the ice around them; and a camera that can take pictures from inside deep hollows of ice.]]></description>
+			<Point>
+				<coordinates>-40.999603,65.132836,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Super C-46C C-GIXZ msn 2245 near Shamattawa, Manitoba (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/53078170.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[ruudleeuw.com (http://www.ruudleeuw.com/search116.htm#beaver_creek)
+
+Google Map / Panoramio / Michael Cooke]]></description>
+			<Point>
+				<coordinates>-92.107962,55.875215,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Armstrongs Vickers Wellington Mk.1C DV810 Broomhead Moor</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/26156294.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / David Appleyard (http://www.panoramio.com/user/3053374?with_photo_id=26156294)]]></description>
+			<Point>
+				<coordinates>-1.647819,53.454944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Douglas C-47A OO-SBH of Belgian International Air Service -- 3/23/69</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://mw2.google.com/mw-panoramio/photos/medium/13143139.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[28 March 1969, Douglas C-47A OO-SBH of Belgian International Air Service was written off in a wheels-up landing in the Libyan desert, all 17 passengers survived.
+
+
+Panoramio/Google Map by ali mohmad (http://www.panoramio.com/user/2137725?with_photo_id=13143139)]]></description>
+			<Point>
+				<coordinates>23.291017,29.190533,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>B24 Liberator at Alberni-Clayoquot A, BC, Canada</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/75133716.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Andy KLX250S (http://www.panoramio.com/user/6257198?with_photo_id=75133716)]]></description>
+			<Point>
+				<coordinates>-124.714796,48.8906,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Plane wreckage on Wolverine Peak (geo-tagged)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/33945946.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Sean Maples (http://www.panoramio.com/user/2340452?with_photo_id=33945946)]]></description>
+			<Point>
+				<coordinates>-149.628704,61.13842799999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>WWII B-25 wreck</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/63556207.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / californiapilot]]></description>
+			<Point>
+				<coordinates>143.619976,-4.020782,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1037'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1037-biz-house.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1417'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1417-trans-airport.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

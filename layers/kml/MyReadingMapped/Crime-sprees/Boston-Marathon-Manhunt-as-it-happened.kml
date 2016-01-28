@@ -1,0 +1,638 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>Digitally walk this map in Google Earth.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[You can digitally walk this map with this Non-networked Google Earth KML file. (https://docs.google.com/file/d/0B52hHMRyBvEsYnZWRkVrd1g2a2s/edit)]]></description>
+			<Point>
+				<coordinates>-71.531982,42.126747,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-FFFF00-5</styleUrl>
+			<name>Area shut down because of manhunt</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-71.166039,42.401207,0.0 -71.216812,42.395066,0.0 -71.244278,42.380358,0.0 -71.246033,42.36063,0.0 -71.237411,42.34332,0.0 -71.2117,42.330688,0.0 -71.136475,42.329616,0.0 -71.032791,42.332154,0.0 -70.993652,42.341798,0.0 -70.979919,42.359559,0.0 -70.997086,42.378329,0.0 -71.053391,42.385937,0.0 -71.143341,42.398108,0.0 -71.166039,42.401207,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#1 = 1st Explosion April 15, 2013</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.078635,42.349838,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#2 = 2nd Explosion April 15, 2013</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.081125,42.349149,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>#3 = Bombing victims taken to Boston Children's Hospital</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.105449,42.33742,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>#3A = Bombing victims taken to Beth Israel Deaconess Medical Center </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.106949,42.339894,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>#3B = Bombing victims taken to Boston Medical Center</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.073919,42.334505,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>#3C = Bombing victims taken to Brigham and Women's Hospital</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.106058,42.335263,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>#3D = Bombing victims taken to Massachusetts General Hospital</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.069406,42.362267,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>#3F = Bombing victims taken to Tufts Medical Center</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.063724,42.349439,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#4 = 7/11 Robbery</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WCVB (http://www.wcvb.com/news/local/metro/Timeline-of-events-MIT-fatal-cop-shooting-Watertown-shootout/-/11971628/19812834/-/11yqi5m/-/index.html)
+
+Thursday apprx. 10:00pm: Robbery takes place at at 7/11 convenience store in Cambridge, near the MIT campus.]]></description>
+			<Point>
+				<coordinates>-71.091971,42.363237,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#5 = Shooting near Massachusetts Institute of Technology</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Thursday, 10:20pm: an MIT campus police officer was found shot in his vehicle in the area of Vassar and Main streets. According to authorities, the officer was found evidencing multiple gunshot wounds. He was transported to Massachusetts General Hospital and pronounced deceased.
+
+Huffington Post (http://www.huffingtonpost.com/2013/04/20/boston-manhunt-details-police-chief-account_n_3123226.html)
+
+A security camera would later show two men approaching the car and speaking to the officer. Abruptly, one of the men was seen pulling a gun and shooting Collier multiple times, including once in the head. Some officers concluded that the shooting was an effort to provoke a larger confrontation with police.]]></description>
+			<Point>
+				<coordinates>-71.089997,42.362682,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-995</styleUrl>
+			<name>#6 = Car jacking @ Fordam Road and Commonwealth Ave.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Boston.com (http://www.boston.com/metrodesk/2013/04/25/carjack-victim-recounts-his-harrowing-night/BhQWGzarWee8MZ6KtMHJNN/story.html)
+
+The 26-year-old Chinese entrepreneur had just pulled his new Mercedes to the curb on Brighton Avenue to answer a text when an old sedan swerved behind him, slamming on the brakes. A man in dark clothes got out and approached the passenger window. It was nearly 11 p.m. last Thursday. 
+
+He ordered Danny to drive -- right on Fordham Road, right again on Commonwealth Avenue -- the beginning of an achingly slow odyssey last Thursday night and Friday morning in which Danny felt the possibility of death pressing on him like a vise.]]></description>
+			<Point>
+				<coordinates>-71.12794,42.352406,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-995</styleUrl>
+			<name>#7A = Crossed the Charles River</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Boston.com
+
+They lapped Brighton and crossed the Charles River into Watertown, following Arsenal Street. Looking through Danny’s wallet, Tamerlan asked for his ATM code -- a friend’s birthdate.
+Directed to a quiet neighborhood in East Watertown, Danny pulled up as told on an unfamiliar side street. The sedan stopped behind him. A man approached -- the skinnier, floppy-haired “Suspect No. 2” in the photos and videos released by investigators earlier that evening -- and Tamerlan got out, ordering Danny into the passenger seat, making it clear if he tried anything he would shoot him. For several minutes, the brothers transferred heavy objects from the smaller car into Danny’s SUV. “Luggage,” Danny thought.]]></description>
+			<Point>
+				<coordinates>-71.149178,42.361842,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-995</styleUrl>
+			<name>#7B = Bank of America ATM</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Boston.com (http://www.boston.com/metrodesk/2013/04/25/carjack-victim-recounts-his-harrowing-night/BhQWGzarWee8MZ6KtMHJNN/story.html)
+ 
+With Tamerlan driving now, Danny in the passenger seat, and Dzhokhar behind Danny, they stopped in Watertown Center so Dzhokhar could withdraw money from the Bank of America ATM using Danny’s card.]]></description>
+			<Point>
+				<coordinates>-71.185386,42.366089,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-995</styleUrl>
+			<name>#7C = Pass Police Station</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Boston.com (http://www.boston.com/metrodesk/2013/04/25/carjack-victim-recounts-his-harrowing-night/BhQWGzarWee8MZ6KtMHJNN/story.html)
+
+They continued west on Route 20, in the direction of Waltham and Interstate 95, passing a police station. 
+
+Doubling back, they returned to the Watertown neighborhood -- “Fairfield Street,” Danny saw on the sign this time -- and grabbed a few more things from the parked car, but nothing from the trunk.]]></description>
+			<Point>
+				<coordinates>-71.200258,42.372313,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-995</styleUrl>
+			<name>#7D = Passed Fairfield St.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Boston.com (http://www.boston.com/metrodesk/2013/04/25/carjack-victim-recounts-his-harrowing-night/BhQWGzarWee8MZ6KtMHJNN/story.html) 
+
+Doubling back, they returned to the Watertown neighborhood -- “Fairfield Street,” Danny saw on the sign this time -- and grabbed a few more things from the parked car, but nothing from the trunk.]]></description>
+			<Point>
+				<coordinates>-71.162202,42.367328,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-995</styleUrl>
+			<name>#8 = Car jacking victim escapes at gas station</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Mail Online (http://www.dailymail.co.uk/news/article-2313489/Boston-bomber-Dzhokhar-Tsarnaev-seen-using-stolen-ATM-card-cash-new-surveillance-images.html)
+
+The two bombing suspects pulled up at the Shell gas station to use a stolen ATM card from a man they had taken hostage. He managed to escape to the Mobil gas station across the street and call for help (right).
+ 
+Boston.com (http://www.boston.com/metrodesk/2013/04/25/carjack-victim-recounts-his-harrowing-night/BhQWGzarWee8MZ6KtMHJNN/story.html)
+
+When the younger brother, Dzhokhar, was forced to go inside the Shell Food Mart to pay, older brother Tamerlan put his gun in the door pocket to fiddle with a navigation device -- letting his guard down briefly after a night on the run. Danny then did what he had been rehearsing in his head. In a flash, he unbuckled his seat belt, opened the door, stepped through, slammed it behind, and sprinted off at an angle that would be a hard shot for any marksman.]]></description>
+			<Point>
+				<coordinates>-71.115746,42.361790000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1209</styleUrl>
+			<name>#9 = Police track cell phone left in car.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Huffington Post (http://www.huffingtonpost.com/2013/04/20/boston-manhunt-details-police-chief-account_n_3123226.html)
+
+However, his cell phone remained in the car, which gave police their first lead in tracking the suspected bombers. Authorities tracked the cell signal to a quiet residential street in Watertown, where a firefight ensued.]]></description>
+			<Point>
+				<coordinates>-71.116819,42.362318,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#10 = Near City Paint and Supply @ Cambridge and Norfolk</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://pbs.twimg.com/media/BINfQ8XCAAAUVYm.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[7:24 AM - 19 Apr 2013
+@ Wesley Lowery
+
+Now in Cambridge, outside of apartment believed to be shared by suspects. State police have street blocked off pic.twitter.com/4nJyk1g5wq (http://t.co/4nJyk1g5wq)]]></description>
+			<Point>
+				<coordinates>-71.096174,42.373204,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1037</styleUrl>
+			<name>#11 = 410 Norfolk St, where the suspects live</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[@ usnews (http://twitter.com/usnews/): 
+
+"About a dozen FBI agents with assault rifles just came out of 410 Norfolk St, where the suspect lives" 
+http://t.co/otU5qSkiWw]]></description>
+			<Point>
+				<coordinates>-71.09538500000001,42.374321,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#11A = Suspects identified</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Suspect #1: Tamerlan Tsarnaev (26) 
+Suspect #2: Dzhokhar Tsarnaev (19)]]></description>
+			<Point>
+				<coordinates>-71.093216,42.375286,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#12 = 480 Arsenal Street, Watertown</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[5:29 AM - 19 Apr 2013
+@Boston_Police
+
+Businesses in area of 480 Arsenal St in Watertown closed til furher notice. Employees instructed to remain home.]]></description>
+			<Point>
+				<coordinates>-71.160786,42.363245,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#13 = Gun fire and explosions reported near Mt. Aurban St., Watertown</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[CBS Boston (http://boston.cbslocal.com/2013/04/19/report-boston-marathon-bombing-suspect-in-custody-second-at-large/)
+ 
+Swat teams shown in video near Aram Bedrosian Funeral Home on Auburn Street.]]></description>
+			<Point>
+				<coordinates>-71.1602,42.37057,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#14 = Willow Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[International Business Times (http://www.ibtimes.com/live-blog-boston-marathon-bombing-suspects-tamerlan-tsarnaev-dead-dzhokhar-tsarnaev-large-watertown#)
+ 
+Update 8:47 A.M.: Police have surrounded a residence on Willow Park in Watertown,reports Boston Globe. SWAT team and armored car have arrived on scene near the intersection of Quimby and Willow Park. Police are calling out to the house using speakers, notes the Globe.
+
+Epoch Times (http://www.theepochtimes.com/n3/19273-boston-manhunt-police-search-for-suspect-in-boston-marathon-bombings-live-updates/)
+
+“Police move in on house in Watertown Smell of smoke/ explosive, heavily armed police hanging from outside of AP. helicopter above,”Bill Neely of ITV tweets on the ground in Boston. Boston.com says it’s an address on Willow Park.]]></description>
+			<Point>
+				<coordinates>-71.160336,42.36774,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1457</styleUrl>
+			<name>#15 = Shoot out at Dexter Ave &amp; Laurel St., suspect #1 captured.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[boston.com
+
+The elder brother was shot by [local] police early Friday in a gun battle at Dexter and Laurel streets in Watertown, in which, officials said, the brothers wielded improvised explosive devices and homemade grenades.
+
+
+(Shootout involved Watertown police department.)]]></description>
+			<Point>
+				<coordinates>-71.163656,42.366144,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>#15B = Details of shoot out</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Huffington Post (http://www.huffingtonpost.com/2013/04/20/boston-manhunt-details-police-chief-account_n_3123226.html)
+ 
+Despite their surplus of weapons and ammunition, Deveau said the older Tsarnaev ran out of rounds while approaching officers on foot. It was then that one officer made his move, tackling the suspect to the ground before handcuffing him. The younger brother managed to escape custody, but not before running over his brother.]]></description>
+			<Point>
+				<coordinates>-71.162267,42.366028,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-995</styleUrl>
+			<name>#16 = Suspect #2 abandons car on Spruce St</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Boston.com (http://www.boston.com/metrodesk/2013/04/18/search-for-marathon-bombing-suspect-locks-down-watertown-surrounding-communities/UAbtwLVGLwBE5VI7BUyQuL/story.html)                                                                                        
+Dzhokhar Tsarnaev was so desperate to escape he ran over his brother as he lay wounded. He later abandoned the car on Spruce Street in Watertown and fled on foot, disappearing from sight, officials said.]]></description>
+			<Point>
+				<coordinates>-71.17012,42.36644,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1163</styleUrl>
+			<name>#17 = Suspect #1 treated at Beth Israel Deaconess Medical Center where he dies</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Boston.com (http://www.boston.com/metrodesk/2013/04/18/search-for-marathon-bombing-suspect-locks-down-watertown-surrounding-communities/UAbtwLVGLwBE5VI7BUyQuL/story.html)
+ 
+A doctor who treated Tamerlan Tsarnaev also said he had some blast-type injuries. “It was more than gunshot wounds,” said Dr. Richard Wolfe of the Beth Israel Deaconess Medical Center. “We believe a combination of blasts, multiple gunshot wounds.”]]></description>
+			<Point>
+				<coordinates>-71.105436,42.339946,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1163</styleUrl>
+			<name>#18 = Mt. Auburn Hospital</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Boston, com (http://www.boston.com/metrodesk/2013/04/18/search-for-marathon-bombing-suspect-locks-down-watertown-surrounding-communities/UAbtwLVGLwBE5VI7BUyQuL/story.html)
+
+MBTA Transit Police Officer Richard H. Donohue Jr., 33, who was shot as officers pursued the Tsarnaevs into Watertown, was in critical but stable condition at Mt. Auburn Hospital.]]></description>
+			<Point>
+				<coordinates>-71.135101,42.374398,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>#19 - Arrests made at 410 Norfolk</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[International Business Times (http://www.ibtimes.com/live-blog-boston-marathon-bombing-suspects-tamerlan-tsarnaev-dead-dzhokhar-tsarnaev-large-watertown)
+ 
+Update 9:00 A.M.: Boston Globe reporter Wesley Lowery reports two suspects were taken into custody from the believed apartment of the suspects located on Norfolk Street.]]></description>
+			<Point>
+				<coordinates>-71.09563,42.374541,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#20 = Amtrak train stopped near East Norwalk looking for 3rd suspect</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[News 12 (http://bronx.news12.com/news/tri-state/police-search-train-in-norwalk-out-of-boston-1.5103462)
+ 
+April 19, 2013 9:07 AM
+ 
+NORWALK - An Amtrak train was stopped near the East Norwalk station.
+
+The Stamford bomb squad was called in.
+
+Norwalk police say the train was from Boston.
+
+Officials were looking for someone that may have been on the train.
+
+That person was not on the train and is now on its way.]]></description>
+			<Point>
+				<coordinates>-73.404551,41.104013,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#21 = Niagra Falls Arrest</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Update 9:34 A.M.: 
+
+In a possibly unrelated incident, WGRZ is reporting two Russian nationals were arrested near Niagra Falls. Inside the car there were four suspicious backpacks and a bomb squad has been called in. The FBI know about situation in Niagara Falls.]]></description>
+			<Point>
+				<coordinates>-79.053841,43.099729,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>#22 = Police Detonate IED Bomb at Berklee College of Music</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Heavy News (http://www.heavy.com/news/2013/04/police-detonate-ied-bomb-at-berklee-college-of-music-in-boston/)
+ 
+10:15 AM: A bomb was found by Boston police in the Charlesgate area of Boston, just at the Berklee College of Music. It has been safely detonated by police and was rendered safe.]]></description>
+			<Point>
+				<coordinates>-71.089464,42.346540000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#23 = Area on Arsenal Street where reporters were being asked to leave at 11:00 AM</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[O-Sha store seen in news clip. Later determined not to be suspect #2.]]></description>
+			<Point>
+				<coordinates>-71.165794,42.363869,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>#24 = Police to perform a controlled explosion of a device found at 410 Norfolk</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.095941,42.374509,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#25 = West New York, NJ</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ABC News (http://abcnews.go.com/blogs/headlines/2013/04/live-updates-boston-bombing-suspect-dead-in-shootout/)
+ 
+12:58 p.m ET: Federal agents are interviewing the suspects’ sister in West New York, N.J., according to WABC-TV.
+
+3:12 p.m ET: The FBI has removed a computer from the New Jersey home the Boston bombing suspects’ sister, according to WABC-TV. The woman, authorities say, is cooperating.]]></description>
+			<Point>
+				<coordinates>-74.014306,40.787879,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1163</styleUrl>
+			<name>#26 = Wounded brought to St.Elizabeth's Medical Center</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[1:42 p.m. ET: 
+
+Fifteen police officers were wounded and taken to the emergency room at St. Elizabeth’s Hospital in Brighton early Friday morning to be treated for wounds sustained in a chase and firefight with the suspects late last night and into this morning.]]></description>
+			<Point>
+				<coordinates>-71.149693,42.348332,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#27 = Connecticut State Police now searching for 1999 Green Honda Civic</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ABC News (http://abcnews.go.com/blogs/headlines/2013/04/live-updates-boston-bombing-suspect-dead-in-shootout/)
+ 
+2:15 p.m. ET: Connecticut State Police now searching for 1999 Green Honda Civic with Massachusetts license plate: 116 GC7.
+
+3:32p.m. ET: FBI calls off search for 1999 Honda Civic.
+
+4:05 p.m ET: Connecticut State Police say authorities in the region are now searching for a 1995 gray Honda Odyssey. This is the third car today, for which authorities have asked police to “be on the lookout.”]]></description>
+			<Point>
+				<coordinates>-72.663574,41.771312,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>#28 = Homeowner finds suspect in boat</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Atlantic Wire: (http://www.theatlanticwire.com/national/2013/04/meet-david-henneberry-tipster-who-caught-dzhokhar-tsarnaev/64410/)
+
+So once the ban was lifted by Patrick around 6 p.m. -- with Dzhokhar still missing -- Henneberry and his wife stepped into their backyard to get some fresh air. David had a smoke and took the dog for a walk around the yard while his wife relaxed in a chair in the sun. It was a beautiful day in Watertown yesterday, and a shame that it had to be spent inside. But the wind picked up, and the tarp that covered the boat flapped in the wind. This wasn't normal. Henneberry approached the boat and noticed the cord tying it down was cut. Using a stepladder, he looked into the boat and noticed a pool of blood. Without saying anything, he retreated to call the police. The rest, as they say, is history. It'll make for a heckuva book some day.]]></description>
+			<Point>
+				<coordinates>-71.174114,42.366432,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1437</styleUrl>
+			<name>#29 = Suspect #2 arrested @ 8:45 PM</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Suspect detected in boat by helicopter infrared imaging. Police surrounded the suspect and a shoot out resulted in his arrest.]]></description>
+			<Point>
+				<coordinates>-71.174337,42.36663800000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1163</styleUrl>
+			<name>#30 = Suspect #2 taken to Beth Israel Deaconess Medical Center</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Huffington Post (http://www.huffingtonpost.com/2013/04/21/dzhokhar-tsarnaev-awake_n_3129188.html)
+
+Dzhokhar Tsarnaev, Boston Marathon Bombing Suspect, Reportedly Awake And Responding To Questions In Writing]]></description>
+			<Point>
+				<coordinates>-71.104374,42.34018,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps of History</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://1.bp.blogspot.com/-Ag6qDYAWE3Y/Tung1DRL2PI/AAAAAAAAAr4/kfqblVInWis/s320/MRM+screen+shot.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/)]]></description>
+			<Point>
+				<coordinates>-71.328735,42.085994,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1037'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1037-biz-house.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1163'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1163-crisis-missing-person.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1201'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1201-fac-info-alt.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1209'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1209-fac-phone.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1387'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1387-rec-sailing.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1437'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1437-trans-helicopter.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1457'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1457-trans-taxi.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-995'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/995-biz-car-dealer.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='line-FFFF00-5'>
+			<LineStyle>
+				<color>ff00FFFF</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+	</Document>
+</kml>

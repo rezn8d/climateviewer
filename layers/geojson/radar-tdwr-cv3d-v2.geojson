@@ -1,0 +1,719 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAA Headquarters Radar",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.6226609387,
+                    35.4018018459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAA Headquarters Radar",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.6289998176,
+                    35.4000094193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAA Headquarters Radar",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.621885986,
+                    35.3800242972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAA Headquarters Radar",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.6188372589,
+                    35.3784199446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5610 MHz HEADQUARTERS",
+                "desc": "AERO. CTR TDWR #1, Oklahoma"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.6252098815,
+                    35.4052904955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5620 MHz HEADQUARTERS",
+                "desc": "AERO. CTR TDWR #2, Oklahoma"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.6287358013,
+                    35.3927364389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5610 Mhz",
+                "desc": "PHOENIX, Arizona"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.162799877,
+                    33.4204762514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5615 MHz",
+                "desc": "DENVER, Colorado"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.526472628,
+                    39.727501554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5645 MHz",
+                "desc": "FT LAUDERDALEFlorida"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3438482053,
+                    26.14323177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5605 MHz",
+                "desc": "MIAMI, Florida"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4910261005,
+                    25.757549742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5640 MHz",
+                "desc": "ORLANDO, Florida"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3257044829,
+                    28.3436833003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5620 MHz",
+                "desc": "TAMPA, Florida"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.5178564387,
+                    27.8595517947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5615 MHz",
+                "desc": "WEST PALM BEACH, Florida"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2730544939,
+                    26.687933751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5615 MHz",
+                "desc": "ATLANTA, Georgia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2619136173,
+                    33.6465987221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5615 MHz",
+                "desc": "MCCOOK, Illinois"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.858240752,
+                    41.7971106917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5645 MHz",
+                "desc": "CRESTWOOD, Illinois"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.7294397819,
+                    41.6513324182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5605 MHz",
+                "desc": "INDIANAPOLIS, Indiana"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.4353647508,
+                    39.6372287516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5603 MHz",
+                "desc": "WICHITA, Kansas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.4369099152,
+                    37.5071320937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5610 MHz",
+                "desc": "COVINGTON CINCINNATI, Kentucky"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.579884,
+                    38.8981110001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5646 MHz",
+                "desc": "LOUISVILLE, Kentucky"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.6106804887,
+                    38.04591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5645 MHz",
+                "desc": "NEW ORLEANS, Louisiana"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.4030329298,
+                    30.0216449022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5635 MHz",
+                "desc": "BRANDYWINE, Maryland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.8450894498,
+                    38.6953385317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5645 MHz",
+                "desc": "BENFIELD, Maryland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.6302549427,
+                    39.0896245501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5615 MHz",
+                "desc": "CLINTON, Maryland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.9618215703,
+                    38.7590309198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5610 MHz",
+                "desc": "BOSTON, Massachusetts"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.9333631468,
+                    42.158251037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5615 MHz",
+                "desc": "DETROIT, Michigan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.5149026088,
+                    42.111338852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5610 MHz",
+                "desc": "MINNEAPOLIS, Minnesota"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.9327879517,
+                    44.8714102166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5610 MHz",
+                "desc": "DESOTO COUNTY, Mississippi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.9926361988,
+                    34.8957891753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5605 MHz",
+                "desc": "KANSAS CITY, Missouri"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.7420227523,
+                    39.4984810241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5610 MHz",
+                "desc": "SAINT LOUIS, Missouri"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.4891131011,
+                    38.8054269809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5645 MHz",
+                "desc": "LAS VEGAS, Nevada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.007292416,
+                    36.1435575925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5620 MHz",
+                "desc": "WOODBRIDGE, New Jersey"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.2702136369,
+                    40.5935755597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5610 MHz",
+                "desc": "PENNSAUKEN, New Jersey"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.0700916895,
+                    39.9491942754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5647 MHz",
+                "desc": "FLOYD BENNETT FIELD, New York"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8802982071,
+                    40.5888285392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5608 MHz",
+                "desc": "CHARLOTTE, North Carolina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.8849624109,
+                    35.3373378361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5647 MHz",
+                "desc": "RALEIGH DURHAM, North Carolina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.6973143816,
+                    36.0020563811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5640 MHz",
+                "desc": "DAYTON, Ohio"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.1230153617,
+                    40.0221390161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5645 Mhz",
+                "desc": "CLEVELAND, Ohio"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.0077613939,
+                    41.2897537575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5605 MHz",
+                "desc": "COLUMBUS, Ohio"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.715066628,
+                    40.0055805955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5605 MHz",
+                "desc": "TULSA, Oklahoma"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8263142982,
+                    36.0705027836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5603 MHz",
+                "desc": "OKLAHOMA CITY, Oklahoma"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.5098045304,
+                    35.2760756758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5615 MHz",
+                "desc": "HANOVER, Pennsylvania"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4860821352,
+                    40.5012204298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5605 MHz",
+                "desc": "NASHVILLE, Tennessee"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.661632718,
+                    35.9796701588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5605 MHz",
+                "desc": "HOUSTON INTERCONTL, Texas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.5669727689,
+                    30.0648275571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5645 MHz",
+                "desc": "PEARLAND, Texas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.2414803784,
+                    29.5163352859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5608 MHz",
+                "desc": "DALLAS LOVE FIELD, Texas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.9680936112,
+                    32.9257680312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5640 MHz",
+                "desc": "LEWISVILLE DFW, Texas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.9180793928,
+                    33.0647990972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5610 MHz",
+                "desc": "SALT LAKE CITY, Utah"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.92963955,
+                    40.967320482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5605 MHz",
+                "desc": "LEESBURG, Virginia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.5295924363,
+                    39.0838195939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5603 MHz",
+                "desc": "MILWAUKEE, Wisconsin"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.0465028767,
+                    42.8195317041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TDWR 5610 MHz",
+                "desc": "SAN JUAN, Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.1794393476,
+                    18.4739429304
+                ]
+            }
+        }
+    ]
+}

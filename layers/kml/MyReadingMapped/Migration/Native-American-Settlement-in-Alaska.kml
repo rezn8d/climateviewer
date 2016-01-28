@@ -1,0 +1,2402 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Source this map is based on.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- NCSL - National Council of State Legislatures Federally Recognized Tribes. (http://www.ncsl.org/research/state-tribal-institute/list-of-federal-and-state-recognized-tribes.aspx#ak)                                                                                                                                                   The following state-by-state listing of Indian tribes or groups are federally recognized and eligible for funding and services from the Bureau of Indian Affairs (BIA).                                                                                
+- Wikipedia / 2010 U.S. Census Census Designated Places   (http://en.wikipedia.org/wiki/Alaska#Cities_and_census-designated_places_.28by_population.29) /                                                       
+- Wikipedia / Demographics of Alaska (http://en.wikipedia.org/wiki/Demographics_of_Alaska)]]></description>
+			<Point>
+				<coordinates>-136.40625,66.053716,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Community Demographics</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Each location plotted indicates the presence of Native Americans, either as the majority or a minority of the population. I have included examples of demographics to indicate the degree of Native American residence in the community. Do not confuse the Native-sounding or English-sounding community names as an indication of the demographics because you would be wrong when you discover a majority of Whites in the Native sounding Ninilchik Village, or the majority of Native Americans in the English sounding community of Marshall.]]></description>
+			<Point>
+				<coordinates>-136.318359,61.31245200000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Other Native American Oriented Google Maps</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The following Google Maps have Native American Tribes plotted:
+
+- The conquering of North America by Hernando de Soto (http://myreadingmapped.blogspot.com/2012/01/the-conquering-of-north-america-by.html) 
+
+- The Lewis and Clark Expedition 1804 through 1805 (http://myreadingmapped.blogspot.com/2011/06/interactive-map-of-lewis-and-clark.html) 
+
+- The Conquering of Mexico by Hernán Cortés (http://myreadingmapped.blogspot.com/2011/06/interactive-map-of-conquering-of-mexico.html)  
+
+- William Lewis Herndon's exploration of Amazon Valley (http://myreadingmapped.blogspot.com/2011/06/interactive-map-of-exploration-of-amazon.html)
+
+- Pizarro's Conquering of Peru (http://myreadingmapped.blogspot.com/2012/01/interactive-map-of-pizarros-conquering.html)
+
+- The Oregon, California and Mormon Trails (http://myreadingmapped.blogspot.com/2012/10/the-oregon-trail.html)
+
+- Santa Fe Trail and El Camino Real Route (http://myreadingmapped.blogspot.com/2012/10/the-santa-fe-trail-and-el-camino-real.html)]]></description>
+			<Point>
+				<coordinates>-144.052734,53.540307,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>Digitally walk this map in Google Earth 3D.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[You can digitally walk this map in Non-networked Google Earth 3D using this Google Earth KML file. (https://docs.google.com/file/d/0B52hHMRyBvEsUDJMRjk4YUNPWEU/edit)]]></description>
+			<Point>
+				<coordinates>-127.265625,63.352129,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>Top 100 population centers in Alaska</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Source: Wikipedia / 2010 U.S. Census (http://en.wikipedia.org/wiki/Alaska#Cities_and_census-designated_places_.28by_population.29)
+ 
+The top 100 Alaskan population centers representing 90% of the state's population.
+
+Many of these cites include Native American Tribes
+
+1	Anchorage 291,826
+2	Fairbanks 31,535
+3	Juneau 31,275
+4	Badger 19,482
+5	Knik-Fairview 14,923
+6	College 12,964
+7	Sitka	 8,881
+8	Lakes 8,364
+9	Tanaina 8,197
+10	Ketchikan 8,050
+11	Kalifornsky 7,850
+12	Wasilla 7,831
+13	Meadow Lakes 7,570
+14	Kenai 7,100
+15	Steele Creek 6,662
+16	Kodiak 6,130
+17	Bethel 6,080
+18	Palmer 5,937
+19	Chena Ridge 5,791
+20	Sterling 5,617
+21	Gateway 5,552
+22	Homer 5,003
+23	Farmers Loop 4,853
+24	Fishhook 4,679
+25	Nikiski 4,493
+26	Unalaska 4,376
+27	Barrow 4,212
+28	Soldotna 4,163
+29	Valdez 3,976
+30	Nome 3,598
+31	Goldstream 3,557
+32	Big Lake 3,350
+33	Butte	 3,246
+34	Kotzebue ,201
+35	Petersburg	 2,948
+36	Seward 2,693
+37	Eielson AFB 2,647
+38	Ester	 2,422
+39	Wrangell 2,369
+40	Dillingham 2,329
+41	Deltana 2,251
+42	Cordova 2,239
+43	Prudhoe Bay 2,174
+44	North Pole 2,117
+45	Willow 2,102
+46	Ridgeway 2,022
+47	Bear Creek 1,956
+48	Fritz Creek 1,932
+49	Anchor Point 1,930
+50	Houston 1,912
+51	Haines 1,713
+52	Lazy Mountain 1,479
+53	Sutton-Alpine 1,447
+54	Metlakatla 1,405
+55	Cohoe 1,364
+56	Kodiak Station 1,301
+57	Susitna North 1,260
+58	Tok 1,258
+59	Craig	City	1,201
+60	Diamond Ridge 1,156
+61	Salcha 1,095
+62	Hooper Bay 1,093
+63	Farm Loop	 1,028
+64	Akutan 1,027
+65	Healy 1,021
+66	Salamatof 980
+67	Sand Point 976
+68	Delta Junction 958
+69/70 Chevak/King Cove 938
+71	Skagway 920
+72	Ninilchik 	883
+73	Funny River 877
+74	Talkeetna 876
+75	Buffalo Soapstone 855
+76	Selawik 829
+77	Togiak 817
+78	Mountain Village 813
+79	Emmonak 762
+80	Hoonah 760
+81	Klawock 755
+82	Moose Creek 747
+83	Knik River 744
+84	Pleasant Valley 725
+85	Kwethluk 721
+86/87 Two Rivers / Womens Bay	 719
+88	Unalakleet 688
+89	Fox River 685
+90	Gambell 681
+91	Alakanuk 677
+92	Point Hope 674
+93	Savoonga 671
+94	Quinhagak	 669
+95	Noorvik 668
+96	Yakutat 662
+97	Kipnuk 639
+98	Akiachak 627
+99	Happy Valley 593
+100	Big Delta 591]]></description>
+			<Point>
+				<coordinates>-131.748047,63.43086,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>The Alaska Native Claims Settlement Act (ANCSA) </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Alaska_Native_Claims_Settlement_Act)
+
+The Alaska Native Claims Settlement Act (ANCSA) was signed into law by President Richard M. Nixon on December 18, 1971, the largest land claims settlement in United States history. ANCSA was intended to resolve the long-standing issues surrounding aboriginal land claims in Alaska, as well as to stimulate economic development throughout Alaska. The settlement established Alaska Native claims to the land by transferring titles to twelve Alaska Native regional corporations and over 200 local village corporations. A thirteenth regional corporation was later created for Alaska Natives who no longer resided in Alaska. The act is codified as 43 U.S.C. 1601 et sec.]]></description>
+			<Point>
+				<coordinates>-131.396484,66.160511,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>DOJ determination of Native American</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Department of Justice (http://www.justice.gov/otj/nafaqs.htm)
+
+Who is an American Indian or Alaska Native?
+As a general principle, an Indian is a person who is of some degree Indian blood and is recognized as an Indian by a Tribe and/or the United States. No single federal or tribal criterion establishes a person's identity as an Indian. Government agencies use differing criteria to determine eligibility for programs and services. Tribes also have varying eligibility criteria for membership.
+
+It is important to distinguish between the ethnological term "Indian" and the political/legal term "Indian." The protections and services provided by the United States for tribal members flow not from an individual's status as an American Indian in an ethnological sense, but because the person is a member of a Tribe recognized by the United States and with which the United States has a special trust relationship.
+
+Are American Indians and Alaska Natives citizens? 
+American Indians and Alaska Natives are citizens of the United States and of the states in which they reside. They are also citizens of the Tribes according to the criteria established by each Tribe. 
+
+Can American Indians and Alaska Natives vote?
+American Indians and Alaska Natives have the same right to vote as all United States citizens. American Indians and Alaska Natives vote in state and local elections, as well as in tribal elections. Just as state, federal, and local governments have the sovereign right to establish voter eligibility criteria; each Tribe has the right to decide its voter eligibility criteria for tribal elections.
+
+Do American Indians and Alaska Natives Have the Right to Hold Federal, State, and Local Government Offices?
+American Indians and Alaska Natives have the same rights as all citizens to hold public office. In this century, American Indian and Alaska Native men and women have held elected and appointed offices at all levels of state, local, and federal government.]]></description>
+			<Point>
+				<coordinates>-131.923828,61.143235,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1139</styleUrl>
+			<name>Early Indian Languages Alaska</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Early_Indian_Languages_Alaska.jpg/600px-Early_Indian_Languages_Alaska.jpg http://</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Enlarge (http://en.wikipedia.org/wiki/File:Early_Indian_Languages_Alaska.jpg)
+
+Wikipedia Commons / Public Domain /  United States Geological Survey (http://en.wikipedia.org/wiki/United_States_Geological_Survey)
+
+
+- A— Na–Dene-speaking peoples:
+- a— Yukon Subarctic : Alaskan Athabaskans
+- b— Northwest Coast : Eyak, Tlingit, Haida, and Tsimshian
+- B— Eskimo–Aleut-speaking peoples:
+- a— Unangan (Aleut)
+- b— Sugpiaq (Alutiiq): West Sugpiaq (Kaniagmiut) ve East Sugpiaq (Chugachigmiut)
+- c— Central Alaskan Yup'ik (Ogulmiut, Togiagamiut, Nushagagmiut, Kuskokwagmiut, Kaialigamiut, Magemiut, Ikogmiut, Unaligmiut)
+- d— Nunivak Cup'ig (Nunivagmiut)
+- e— Iñupiat (Kaviagmiut, Kinugumiut, Malemiut, Noatagmiut, Nunatagmiut, Oturkagmiut, Killirmiut, Kopagmiut, Kugmiut, Utkiavigmiut, Point Barrow Eskimo) and Uummarmiut (Mackenzie Eskimo)]]></description>
+			<Point>
+				<coordinates>-127.177734,65.98227,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>Check out Bering's exploration of Alaska</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Follow the 1734 adventures of the Danish explorer, Vitus Bering, as he crosses Siberia, and sails across the Pacific Ocean to explore the coast of Alaska. (http://myreadingmapped.blogspot.com/2012/01/interactive-map-of-vitus-berings-fatal.html)]]></description>
+			<Point>
+				<coordinates>-143.041992,59.333189,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps of Historic Events</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>-143.964844,55.973798,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Afognak, AK (formerly the Village of Afognak)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (https://en.wikipedia.org/wiki/Native_Village_of_Afognak)
+
+The history of the Alutiiq goes back more than 7,500 years in the Kodiak Archipelago, but during the late 18th century, the Russian-American Company pressed many of the men of the islands in the area into service hunting otter. This mistreatment and a smallpox epidemic in 1837 lead to increased protections from Russia and the imposition of a system of legislated villages, one of which was Afognak.
+
+The village of Afognak was actually a combination of two former villages known simply as Russian Town and Aleut Town, formed through continual contact between the two groups.]]></description>
+			<Point>
+				<coordinates>-152.64146,58.327943999999995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Agdaagux Tribe of King Cove, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-162.310278,55.061667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Akhiok, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-154.170278,56.945556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Akiachak Native Community, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-161.431389,60.90944400000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Akiak Native Community, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-161.213889,60.912222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Akutan, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-165.773056,54.135556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Village of Alakanuk, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-164.615278,62.688889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Alatna Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-152.707222,66.557222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Aleknagik, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-158.617778,59.273056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Algaaciq Native Village, AK (St. Mary's)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-163.165833,62.053056000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Allakaket Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-152.645556,66.565556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Ambler, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-157.851389,67.086111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Village of Anaktuvuk Pass, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-151.735833,68.143333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Yupiit of Andreafski, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-161.449842,60.91164,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Angoon Community Association, AK </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-134.583889,57.503333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Village of Aniak, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-159.540714,61.58281099999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Anvik Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-160.206667,62.656111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Arctic Village, AK (See Native Village of Venetie Tribal Government)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (https://en.wikipedia.org/wiki/Arctic_Village,_Alaska#History)
+
+Evidence from archaeological investigations indicate that the Arctic Village area may have been settled as early as 4500 BC.[4] Around 500 AD the Athabascan speaking Gwich’in people (often called Neets'aii Gwich'in or “those who dwell to the north”)[4] came into the area with seasonal hunting and fishing camps. About 1900, the village became a permanent settlement.[4]
+
+
+As of the census[6] of 2000, there were 152 people, 52 households, and 30 families residing in the CDP. The population density was 2.5 people per square mile (1.0/km²). There were 67 housing units at an average density of 1.1/sq mi (0.4/km²). The racial makeup of the CDP was 7.89% White, 86.18% Native American, and 5.92% from two or more races. 0.66% of the population were Hispanic or Latino of any race.]]></description>
+			<Point>
+				<coordinates>-145.537778,68.126944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Asa'carsarmiut Tribal Council, Mountain Village,  AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-163.723781,62.08949200000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Atka, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-174.200556,52.196111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Village of Atmautluak, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-162.273056,60.866944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Atqasuk Village (Atkasook), AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-157.415714,70.479519,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Barrow Inupiat Traditional Government, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (https://en.wikipedia.org/wiki/Native_Village_of_Barrow_Inupiat_Traditional_Government)
+
+The Native Village of Barrow Inupiat Traditional Government (previously, Native Village of Barrow) is a U.S. federally recognized Alaska Native Inupiat "tribal entity", as listed by the Bureau of Indian Affairs circa 2003. Located in Barrow, Alaska, it is part of the North Slope Borough. The constitution and by-laws of the native village were established in 1940 under the Indian Reorganization Act (IRA) of 1934. An IRA corporation was also created.
+This corporation is not to be confused with the for-profit village corporation in Barrow, Ukpeaġvik Iñupiat Corporation (UIC), created under the Alaska Native Claims Settlement Act of 1971.]]></description>
+			<Point>
+				<coordinates>-156.788611,71.290556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Beaver Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-147.398415,66.359817,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Belkofski, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-162.030556,55.088889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Village of Bill Moore's Slough, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-163.568,63.03220000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Birch Creek Tribe, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-145.816641,66.26326300000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Brevig Mission, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-166.489167,65.334722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Buckland, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-161.123056,65.979722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Cantwell, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (https://en.wikipedia.org/wiki/Native_Village_of_Cantwell#Demographics)
+
+As of the census[6] of 2000, there are 222 people, 102 households, and 59 families residing in the CDP. The population density is 1.9 people per square mile (0.7/km²). There are 178 housing units at an average density of 1.5/sq mi (0.6/km²). The racial makeup of the CDP is 65.32% White, 0.45% Black or African American, 22.52% Native American, 1.80% Asian, 0.90% from other races, and 9.01% from two or more races. 1.35% of the population are Hispanic or Latino of any race.]]></description>
+			<Point>
+				<coordinates>-148.950833,63.391667000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Chenega, AK  (aka Chanega)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (https://en.wikipedia.org/wiki/Native_Village_of_Chanega#Demographics)
+
+As of the census[2] of 2000, there were 86 people, 22 households, and 17 families residing in the CDP. The population density was 3.0 people per square mile (1.2/km²). There were 27 housing units at an average density of 0.9/sq mi (0.4/km²). The racial makeup of the CDP was 22.09% White, 73.26% Native American, and 4.65% from two or more races.]]></description>
+			<Point>
+				<coordinates>-148.011111,60.066389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Chalkyitsik Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (https://en.wikipedia.org/wiki/Chalkyitsik_Village)
+
+As of the census[3] of 2000, there were 83 people, 35 households, and 17 families residing in the CDP. The population density was 9.5 people per square mile (3.7/km²). There were 62 housing units at an average density of 7.1/sq mi (2.7/km²). The racial makeup of the CDP was 2.41% White and 97.59% Native American.]]></description>
+			<Point>
+				<coordinates>-143.722222,66.654444,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Cheesh-Na Tribe (formerly the Native Village of Chistochina, AK)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-144.665136,62.566265,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Village of Chefornak, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (https://en.wikipedia.org/wiki/Village_of_Chefornak)
+
+As of the census of 2000,[5] there were 394 people, 75 households, and 63 families residing in the city. The population density was 68.8 people per square mile (26.5/km²). There were 82 housing units at an average density of 14.3 per square mile (5.5/km²). The racial makeup of the city was 93.40% Alaska Native, 2.03% White, and 4.57% from two or more races.
+
+Many of the villagers live a subsistence lifestyle, which means that they continue to carry out the traditional hunter-gatherer activities of their ancestors. One of the foods that they rely on is fish such as halibut, salmon, and herring, which are dried and eaten like jerky. Berries such as salmonberries (cloudberries), black berries (crowberries), and blueberries (bog bilberries) are also gathered and used to prepare akutaq. Other native foods that are gathered include mousefood, Labrador tea, and greens such as sourdock.]]></description>
+			<Point>
+				<coordinates>-164.265833,60.16,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Chevak Native Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (https://en.wikipedia.org/wiki/Chevak_Native_Village)
+
+As of the census[6] of 2000, there were 765 people, 167 households, and 129 families residing in the city. The population density was 668.6 people per square mile (259.1/km²). There were 190 housing units at an average density of 166.1 per square mile (64.4/km²). The racial makeup of the city was 3.66% White, 90.46% Native American, 0.13% from other races, and 5.75% from two or more races. 0.65% of the population were Hispanic or Latino of any race.]]></description>
+			<Point>
+				<coordinates>-165.586389,61.527778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Chickaloon Native Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (https://en.wikipedia.org/wiki/Chickaloon_Native_Village)
+
+As of the census[5] of 2000, there are 213 people, 87 households, and 58 families residing in the CDP. The population density is 2.7 people per square mile (1.0/km²). There are 208 housing units at an average density of 2.6/sq mi (1.0/km²). The racial makeup of the CDP is 77.93% White, 1.41% Black or African American, 15.49% Native American, 0.94% Asian, 0.00% Pacific Islander, 1.88% from other races, and 2.35% from two or more races. 1.41% of the population are Hispanic or Latino of any race.]]></description>
+			<Point>
+				<coordinates>-148.462778,61.796667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Chignik Bay Tribal Council (formerly the Native Village of Chignik, AK)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-158.402222,56.295278,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Chignik Lagoon, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-158.535675,56.309163,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Chignik Lake, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-158.765273,56.255176,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Chilkat Indian Village, AK (Klukwan)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-135.895386,59.399841,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Chilkoot Indian Association (Haines, AK)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-135.445,59.23583300000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Chinik Eskimo Community (Golovin, AK)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-163.029167,64.543333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Chitina, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-144.43694400000004,61.515833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Chuathbaluk, AK (Russian Mission, Kuskokwim)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (https://en.wikipedia.org/wiki/Native_Village_of_Chuathbaluk)
+
+As of the census[5] of 2000, there were 119 people, 33 households, and 23 families residing in the city. The population density was 33.8 people per square mile (13.1/km²). There were 43 housing units at an average density of 12.2 per square mile (4.7/km²). The racial makeup of the city was 5.04% White, 91.60% Native American, 0.84% from other races, and 2.52% from two or more races.]]></description>
+			<Point>
+				<coordinates>-159.245,61.571944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Chuloonawick Native Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-164.549446,62.77907799999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Circle Native Community, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (https://en.wikipedia.org/wiki/Circle_Native_Community)
+
+At the 2000 census[3], there were 100 people, 34 households and 22 families residing in the CDP. The population density was 0.9 per square mile (0.4/km²). There were 42 housing units at an average density of 0.4 per square mile (0.2/km²). The racial makeup of the CDP was 14.00% White, 76.00% Native American, 1.00% from other races, and 9.00% from two or more races. 4.00% of the population were Hispanic or Latino of any race.]]></description>
+			<Point>
+				<coordinates>-144.06055600000002,65.825556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Village of Clarks Point, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-158.526719,58.836954999999996,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Council, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-163.676389,64.895,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Craig Community Association, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-133.148333,55.476389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Village of Crooked Creek, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-158.110833,61.86999999999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Curyung Tribal Council, Dillingham, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-158.463846,59.040478,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Deering, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-162.717222,66.075556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Diomede, AK (aka Inalik)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-168.951926,65.758233,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Village of Dot Lake, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (https://en.wikipedia.org/wiki/Village_of_Dot_Lake)
+
+As of the census[2] of 2000, there were 19 people, 10 households, and 6 families residing in the CDP. The population density was 0.1 people per square mile (0.0/km²). There were 19 housing units at an average density of 0.1/sq mi (0.0/km²). The racial makeup of the CDP was 84.21% White, and 15.79% from two or more races.]]></description>
+			<Point>
+				<coordinates>-144.066931,63.659653,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Douglas Indian Association</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-134.406738,58.282786,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Eagle, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (https://en.wikipedia.org/wiki/Native_Village_of_Eagle)
+
+As of the census[5] of 2000, there were 129 people, 58 households, and 37 families residing in the city. The population density was 127.9 /sq mi (49.4 /km2). There were 137 housing units at an average density of 135.8 per square mile (52.4/km²). The racial makeup of the city was 93.02% White, 6.20% Native American, and 0.78% from two or more races. 0.78% of the population were Hispanic or Latino of any race.]]></description>
+			<Point>
+				<coordinates>-141.2,64.788056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Eek, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-162.024444,60.218889000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Egegik Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-157.375833,58.215556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Eklutna, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-149.363934,61.456683999999996,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Ekuk, Dillingham, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-158.465595,59.04059900000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Ekwok Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-157.475278,59.34972200000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Elim, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-162.260556,64.6175,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Emmonak Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-164.539146,62.777311000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Evansville Village (aka Bettles Field)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-151.516111,66.918889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Eyak (Cordova)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-145.752541,60.542409,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of False Pass, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-163.415,54.850833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Fort Yukon, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-145.25134,66.56735,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Gakona, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-145.301944,62.30194399999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Galena Village (aka Louden Village), AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-156.9275,64.733333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Gambell, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-171.725321,63.779301,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Georgetown Tribal Council</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-149.897663,61.17244,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Goodnews Bay, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-161.585833,59.12138899999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Organized Village of Grayling (aka Holikachuk), AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (https://en.wikipedia.org/wiki/Organized_Village_of_Grayling)
+
+Holikachuk (also Innoko, Organized Village of Grayling, Innoka-khotana, Tlëgon-khotana) are a Yupikized Alaska Native Athabaskan people of the Athabaskan-speaking ethnolinguistic group to western Alaska. Their native territory includes the area surrounding the middle and upper Innoko River. Later in 1963 they moved to Grayling on the Yukon River.
+The Holikachuk call themselves Doogh Hit’an (IPA: [toʁhətʼan]). The name Holikachuk is derived from the name (in the Holikachuk language) of a village in native Holikachuk territory.
+
+The Holikachuk have been neglected by anthropologists, resulting in little documentation (both published and unpublished). In the past they have erroneously (or out of convenience) been grouped with the Koyukon.]]></description>
+			<Point>
+				<coordinates>-160.064722,62.903611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Gulkana Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-145.37487,62.26828199999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Healy Lake Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-144.7332,64.000277,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Holy Cross Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-159.771389,62.199444,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hoonah Indian Association</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-135.443677,58.110769,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Hooper Bay, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-166.096667,61.531111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hughes Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-154.256802,66.048699,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Huslia Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-156.395016,65.699245,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hydaburg Cooperative Associates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-132.800803,55.18334,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Igiugig Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-155.894722,59.327778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Village of Iliamna, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-154.90611100000004,59.75472200000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Inupiat Community-Arctic Slope</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-151.73387,68.145992,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Iqurmuit Traditional Council (formerly the Native Village of Russian Mission)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-161.320278,61.785,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Ivanof Bay Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-159.484921,55.902073,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Organized Village of Kake, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-133.947222,56.975833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Kaktovik Village (aka Barter Island), AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-143.62388900000002,70.131944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Village of Kalskag, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-160.311567,61.537937,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Village of Kaltag, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-158.721944,64.327222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Kanatak</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-149.393557,61.592928,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Karluk, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-154.443612,57.574135,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Organized Village of Kasaan, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-132.403429,55.539608,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Kasigluk Traditional Elders Council (formerly the Native Village of Kasigluk), AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-162.520216,60.894557999999996,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Kenaitze Indian Tribe</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-151.24829,60.560883000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Ketchikan Indian Corporation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-131.684772,55.352535,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Kiana, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-160.430278,66.971667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>King Island Native Community, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-168.060689,64.972041,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>King Salmon Tribe, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-156.661351,58.688325000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Kipnuk, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-164.043889,59.9375,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Kivalina, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-164.536057,67.726759,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Klawock Cooperative Association</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-133.098256,55.556897,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Kluti Kaah (aka Copper Center), AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (https://en.wikipedia.org/wiki/Native_Village_of_Kluti_Kaah)
+
+The Native Village of Kluti-Kaah is an Alaska federally recognized Alaska Native tribal entity located in Copper Center, Alaska. The village is primarily made up of the Ahtna Athabaskan people, who have been in the Copper River basin for 5,000 to 7,000 years.]]></description>
+			<Point>
+				<coordinates>-145.305278,61.955,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Knik Tribe</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-149.425043,61.587706,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Kobuk, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-156.881111,66.907222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Kokhanok Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-154.776111,59.43944400000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Kongiganak, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-162.890293,59.959859,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Village of Kotlik, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-163.553333,63.034167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Kotzebue, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-162.596667,66.898333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Koyuk, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-161.156944,64.931944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Koyukuk Native Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-157.700833,64.880278,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Organized Village of Kwethluk, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-161.435833,60.812222000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Kwigillingok, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (https://en.wikipedia.org/wiki/Native_Village_of_Kwigillingok)
+
+As of the census[2] of 2000, there were 388 people, 96 households, and 89 families residing in the CDP. The population density was 16.8 people per square mile (6.5/km²). There were 78 housing units at an average density of 3.9/sq mi (1.5/km²). The racial makeup of the CDP was 2.07% White, 97.63% Native American, and 0.30% from two or more races.]]></description>
+			<Point>
+				<coordinates>-163.16583,59.872338,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Kwinhagak (aka Quinhagak), AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-161.910024,59.749067,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Larsen Bay, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-153.978611,57.54,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Levelock Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-156.858889,59.114167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lime Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (https://en.wikipedia.org/wiki/Lime_Village)
+
+As of the census of 2010, there were 29 [5] people and 11 households. The population density was 0.1 people per square mile (0.0/km²). There were 24 housing units at an average density of 0.3/sq mi (0.1/km²). The racial makeup of the CDP was 3.7% White, and 96.3% from one race.]]></description>
+			<Point>
+				<coordinates>-155.435556,61.35638899999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Village of Lower Kalskag, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-160.361252,61.51240099999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Manley Hot SpringsVillage, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-150.633889,65.001111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Manokotak Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-159.058333,58.98138900000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Marshall (aka Fortuna Ledge), AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (https://en.wikipedia.org/wiki/Native_Village_of_Marshall)
+
+As of the census[5] of 2000, there were 349 people, 91 households, and 73 families residing in the city. The population density was 73.9 people per square mile (28.5/km²). There were 104 housing units at an average density of 22.0 per square mile (8.5/km²). The racial makeup of the city was 2.01% White, 95.99% Alaska Native or Native American, and 2.01% from two or more races. 0.29% of the population were Hispanic or Latino of any race.]]></description>
+			<Point>
+				<coordinates>-162.081111,61.877778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Mary's Igloo, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-165.073196,65.143028,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>McGrath Native Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-155.595992,62.953204,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Mekoryuk, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-166.270373,60.372221,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mentasta Traditional Council, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-143.531313,62.923790000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Metlakatla Indian Community, Annette Island Reserve</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-131.573306,55.12614,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Minto, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-149.336944,65.153333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Naknek Native Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-157.013889,58.728333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Nanwalek (aka English Bay), AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-151.920833,59.35638900000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Napakiak, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-161.973152,60.694275,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Napaskiak, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-161.76238,60.70683900000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Nelson Lagoon, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-161.202778,56.001944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Nenana Native Association</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-149.089537,64.563688,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>New Koliganek Village Council</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-157.284565,59.72763400000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>New Stuyahok Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-157.311944,59.45277800000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Newhalen Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-154.897222,59.72,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Newtok Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-164.6315,60.940022,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Nightmute, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-164.724433,60.478488000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Nikolai Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-154.375,63.01333300000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Nikolski, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-168.868457,52.938041,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Ninilchik Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (https://en.wikipedia.org/wiki/Ninilchik,_Alaska#Native_Alaskans)
+
+As of the census[4] of 2000, there were 772 people, 320 households, and 223 families residing in the CDP. The population density was 3.7 people per square mile (1.4/km²). There were 762 housing units at an average density of 3.7/sq mi (1.4/km²). The racial makeup of the CDP was 82.25% White, 13.99% Native American, 0.52% Asian, 0.13% from other races, and 3.11% from two or more races. 0.65% of the population were Hispanic or Latino of any race.]]></description>
+			<Point>
+				<coordinates>-151.668889,60.051389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Noatak, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-162.965278,67.571111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Nome Eskimo Community</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-165.404364,64.501555,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Nondalton Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-154.845833,59.973611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Noorvik, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-161.043735,66.834946,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Northway Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (https://en.wikipedia.org/wiki/Northway_Village)
+
+As of the census[2] of 2000, there were 107 people, 32 households, and 20 families residing in the CDP. The population density was 40.5 people per square mile (15.6/km²). There were 39 housing units at an average density of 14.8/sq mi (5.7/km²). The racial makeup of the CDP was 1.87% White, 89.72% Native American, 2.80% from other races, and 5.61% from two or more races. 5.61% of the population were Hispanic or Latino of any race.]]></description>
+			<Point>
+				<coordinates>-141.937222,62.961667000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Nuiqsut (aka Nooiksut), AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-150.991974,70.217896,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Nulato Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-158.103056,64.719444,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Nunakauyarmiut Tribe (formerly the Native Village of Toksook Bay), AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-165.1025,60.530278,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Nunam Iqua (formerly the Native Village of Sheldon's Point), AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-164.848652,62.529823,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Nunapitchuk, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-162.459444,60.89694399999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Village of Old Harbor, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-153.303889,57.202778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Orutsararmuit Native Village (aka Bethel)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-161.76836,60.793352999999996,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Oscarville, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-161.770463,60.722201000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Ouzinkie, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-152.502222,57.923611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Paimiut Native Village</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-166.107788,61.528383,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pauloff Harbor Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-162.699924,54.458327,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pedro Bay Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-154.106111,59.78722200000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Perryville, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-159.145556,55.91277800000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Petersburg Indian Association, AK </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-132.955556,56.8125,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Pilot Point, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-157.579167,57.564167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pilot Station Traditional Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-162.878237,61.938264,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Pitka's Point, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-163.287134,62.032881,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Platinum Traditional Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-161.816389,59.013056000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Point Hope, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-166.736927,68.349011,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Point Lay, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-163.05582,69.758353,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Port Graham, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-151.8326,59.349383,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Port Heiden, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-158.637085,56.931395,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Port Lions, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-152.882222,57.8675,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Portage Creek Village (aka Ohgsenakale), AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-157.7175,58.906111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pribilof Islands Aleut Community of St. Paul  Island, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (https://en.wikipedia.org/wiki/Saint_Paul_Island,_Alaska)
+
+Saint Paul Island has the largest Aleut community in the United States, one of the U.S. government's officially recognized Native American tribal entities of Alaska. Out of a total population of 532 people, 457 of them (86 percent) are Alaska Natives.[16]]]></description>
+			<Point>
+				<coordinates>-170.280355,57.121357,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Qagan Tayagungin Tribe of Sand Point Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-160.497336,55.340397,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Qawalangin Tribe of Unalaska, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-166.533243,53.884438,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Rampart Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-150.17,65.505,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Village of Red Devil, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-157.314434,61.76045500000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Ruby, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-155.486944,64.739444,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Saint George Island (See Pribilof Islands Aleut Communities of St. Paul &amp; St. George Islands)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-169.614585,56.58884,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Saint Michael, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-162.039167,63.478056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Village of Salamatoff, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-151.3425,60.618889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Savoonga, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-170.478889,63.69416699999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Organized Village of Saxman, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (https://en.wikipedia.org/wiki/Organized_Village_of_Saxman)
+
+As of the census[5] of 2000, there were 431 people, 127 households, and 90 families residing in the city. The population density was 431.5 people per square mile (166.4/km²). There were 146 housing units at an average density of 146.2 per square mile (56.4/km²). The racial makeup of the city was 28.07% White, 0.46% Black or African American, 66.13% Native American, 0.46% Asian, 0.23% Pacific Islander, and 4.64% from two or more races. 2.32% of the population were Hispanic or Latino of any race.]]></description>
+			<Point>
+				<coordinates>-131.595833,55.318333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Scammon Bay, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-165.581667,61.842778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Selawik, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-160.006944,66.603889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Seldovia Village Tribe, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-151.711389,59.438056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Shageluk Native Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-159.56194400000004,62.682222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Shaktoolik, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-161.154885,64.331916,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Shishmaref, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-166.068306,66.256422,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Shungnak, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-157.136389,66.888056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Sitka Tribe of Alaska, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-135.33,57.053056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Skagway Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-135.313889,59.458333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Village of Sleetmute, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-157.169722,61.7025,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Soloman Village Tribal Coord</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-165.406389,64.501111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>South Naknek Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-156.998056,58.715556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Stebbins Community Association, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-162.285061,63.51707,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Stevens, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-149.090833,66.006389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Village of Stony River, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-156.586461,61.786922000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Sun'aq Tribe of Kodiak (formerly the Shoonaq' Tribe of Kodiak), AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-152.40696,57.787845,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Takotna Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-156.064167,62.988611000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Tanacross, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-143.346389,63.38527800000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Tanana, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-152.078889,65.171944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Tangirnaq Native Village (formerly Lesnoi Village)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-152.356975,57.813497000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Tatitlek, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-146.67748,60.86701200000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Tazlina, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-145.408602,62.04616099999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Telida Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-153.280821,63.383303,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Teller, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-166.363649,65.263172,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Tetlin, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-142.516111,63.137222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Tlingit &amp; Haida Central Council</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-133.09436,55.549,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Traditional Village of Togiak, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-160.376389,59.06194399999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Tuluksak Native Community, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-160.960951,61.100167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Tuntutuliak, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-162.663056,60.343056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Tununak AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-165.260682,60.582752,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Twin Hills Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-160.28203,59.077051,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Tyonek, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-151.136944,61.068056000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Ugashik Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-157.3975,57.51305599999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Umkumiute Native Village, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-165.19643800000003,60.49773600000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Unalakleet, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-160.788056,63.87305599999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Unga, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-160.507915,55.182641000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Village of Venetie (See Native Village of Venetie Tribal Government), AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-146.418611,67.01388900000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Venetie Tribal Government (Arctic Village), AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-145.538464,68.128462,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Village of Wainwright, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-160.038333,70.636944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of Wales, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-168.090606,65.60884,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Native Village of White Mountain, AK</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-163.405556,64.681389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Wrangell Cooperative Association</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-132.380877,56.471547,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Yakutat Tlingit Tribe</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-139.726353,59.547545,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1139'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1139-crisis-earthquake.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1201'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1201-fac-info-alt.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

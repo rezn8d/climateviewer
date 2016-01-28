@@ -1,0 +1,336 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Here is your chance to digitally climb K2</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://4.bp.blogspot.com/-mj3ReQEb5xM/UEypgjATiTI/AAAAAAAABo4/4MZlaMKPKjU/s400/1954+K2+Successful+Mountain+Climb+in+Google+Earth-5.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Digitally climb K2 in Google Earth with this KML file. It's awesome! (https://docs.google.com/file/d/0B52hHMRyBvEsZUJqa21jdVpVeXc/edit) 
+
+To climb, aim to follow the push pins once you are oriented looking up and in the right direction, simply select and hold the top (forward) arrow of the Hand Direction Tool and it will climb the mountain.
+
+ 
+
+
+©Google/MyReadingMapped]]></description>
+			<Point>
+				<coordinates>76.520805,35.828113,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>To see the mountain better, view it in terrain mode </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://3.bp.blogspot.com/-lSVx4vyK0bY/UE2ihTbZwwI/AAAAAAAABpY/di3hc1kMO1c/s320/1954+K2+Successful+Mountain+Climb+in+Google+Map.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[©Google/MyReadingMapped ]]></description>
+			<Point>
+				<coordinates>76.514797,35.826582,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Base Camp</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/7988247.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Panoramio / Nicola Lippi]]></description>
+			<Point>
+				<coordinates>76.500549,35.827417,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Camp 1 = 17,700 feet</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>76.539989,35.859318,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Camp 2 = 19,050 feet</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/5232202.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[A young swiss alpinist walking up the last few meters to camp 2
+
+Panoramio / www.fabianoventura.i…]]></description>
+			<Point>
+				<coordinates>76.536598,35.863283,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Camp 3 = 20,350 feet</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>76.532993,35.865126,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Camp 4 = 21,150 feet</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>76.53265,35.867178,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Camp 5 = 21,930 feet</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>76.53235,35.869821,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Camp 6 = 22,875 feet</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>76.531878,35.872255,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Camp 7 = 24,100 feet</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/56847407.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Panoramio / SajjadSA]]></description>
+			<Point>
+				<coordinates>76.530204,35.875211,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Camp 8 = 25,000 feet</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/56847387.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[7800 meters high Shoulder of K2
+
+Panoramio /  SajjadSA]]></description>
+			<Point>
+				<coordinates>76.5254621,35.8785667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Bonati and Mehdi bivouac out in the open at 8100 meters (26,574 feet)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Lino_Lacedelli#K2_Controversy)
+
+"While Lino Lacedelli and Achille Compagnoni were celebrated as national heroes, a furious Walter Bonatti accused Lacedelli and Compagnoni of having abandoned him and Amir Mehdi to an open bivouac just below high camp.
+
+In 1954, Bonatti, was an ambitious 24-year-old member of the expedition. Bonatti and local porter Amir Mehdi, were carrying spare oxygen bottles up to Lacedelli and Compagnoni for a summit push from Camp IX, the final camp. The high camp was further away than Bonatti and Medhi had expected and night fell before they reached it. Bonatti and Mahdi survived a bivouac at 8100m, but the Pakistani lost half of each foot to frostbite."]]></description>
+			<Point>
+				<coordinates>76.51799410000001,35.8813485,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-DB4436</styleUrl>
+			<name>Icy Overhang Falls</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://1.bp.blogspot.com/-VuwLuMdH3G4/UGELNl821tI/AAAAAAAABxM/sfTO6Pvp304/s320/K2+missing+overhang+area+in+Google+Earth.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Photo of the Icy Overhang Falls as shown in the 2008 K2 Disaster. (https://picasaweb.google.com/lh/photo/m-UT_iClhwIlWFwjOxXOXw)
+
+(The icy overhang does not appear to show up in Google Map or the Google Earth KML file as shown in the photo in the above link. The satellite scanners must read right through the ice.)
+
+
+
+
+Google Earth Image of the missing overhang.
+©Google/MyReadingMapped]]></description>
+			<Point>
+				<coordinates>76.5179521,35.8820785,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>Controversy at the Top - Part 1</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Lino_Lacedelli#Lacedelli_speaks_up)
+
+"Fifty years after the 1954 K2 expedition, a very old Lino Lacedelli, who had remained silent all this time, couldn’t face taking the truth to his grave. In his 2004 book K2: The Price of Conquest,[5] he revealed the events of the night and the subsequent coverup, changing the course of mountaineering history.
+
+On the night before the first ascent of K2, Bonatti and Mehdi had to endure a freezing, storm-swept bivouac high on the Shoulder of K2, while their companions Achille Compagnoni and Lino Lacedelli spent the night in a tent literally within hailing distance. As agreed beforehand, Bonatti and Mehdi had carried the oxygen bottles for the summit team who were waiting for them in Camp IX. But the top camp was placed in a different, higher location than Bonatti had expected, and when they couldn’t find the tent, they were forced to bivouac at 8100 meters."]]></description>
+			<Point>
+				<coordinates>76.5173511,35.8800617,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>Controversy at the Top - Part 2</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Achille_Compagnoni#Biography)
+
+"Mahdi's condition had deteriorated. Unable to downclimb safely with Mahdi, Bonatti needed the shelter of Camp IX's tent. The tent was placed high up, over a dangerous traverse to the left - not at the agreed upon location. Unable to safely traverse to the tent, Bonatti and Mahdi endured a forced bivouac in the open at 8100 meters; it cost Mahdi his fingers and toes. Compagnoni explains his decision to move the tent was to avoid an overhanging serac, a viable explanation. However, it is argued that he also had an ulterior motive: to avoid Walter Bonatti. Bonatti was in the best physical condition of all the climbers and the logical choice to make the summit attempt. If he had joined the summit team, he would likely have done so without the use of supplemental oxygen. If he had succeeded, any summit by Compagnoni would have been utterly eclipsed. Although the Bonatti-Mahdi forced bivouac was not anticipated, Compagnoni intended to discourage Bonatti from reaching the tent. At 6:10 pm the next evening, Compagnoni and Lino Lacedelli reached the summit of K2, using the supplemental oxygen Bonatti and Mahdi had brought them. Expedition leader Ardito Desio, in his final report, mentioned the forced bivouac only in passing. Mahdi's frostbite was an embarrassment to the expedition. The Italian government provided Mahdi with a small pension for his contribution and sacrifice on the first ascent of K2."]]></description>
+			<Point>
+				<coordinates>76.5159341,35.8805136,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1199</styleUrl>
+			<name>Camp 9 = Lacedelli and Compagnoni camp at an known higher altitude.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Lacedelli and Compagnoni moved Camp 9 to a higher unknown location than Bonati and Mehdi could safely reach with the injured Medhi. Alocation s close it was supposedly within hailing distance.
+
+The tent was placed high up, over a dangerous traverse to the left - not at the agreed upon location. Compagnoni explains his decision to move the tent was to avoid an overhanging serac, a viable explanation.]]></description>
+			<Point>
+				<coordinates>76.5169221,35.8816265,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Summit = 28,250 feet</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/6955923.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[The summit team of Lino Lacedelli and Achille Compagnoni reach the summit via the Abruzzi Spur on 31 July 1954.
+
+Panoramio / don bowie]]></description>
+			<Point>
+				<coordinates>76.5127156,35.8822007,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>Libel Suit</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Lino_Lacedelli#Lacedelli_speaks_up)
+
+"These accusations prompted Bonatti to file and win a libel suit against Giglio and the newspaper (the damages were donated to an orphanage). It was easy to prove that Bonatti couldn’t have used the oxygen: he didn’t have the masks or tubing, just the bottles. One aspect of the libel case proved embarrassing to Bonatti, however: his lawyer tracked down Amir Mehdi in Hunza, bringing him to Gilgit District Court for deposition. Mehdi was asked about the bivouac and his testimony supported at least one of Compagnoni's assertions: Bonatti had been scheming to supplant Compagnoni on the summit team, and had promised Mehdi they would spend the night in Camp 9's tent and continue to the summit, regardless of Compagnoni's objections. Bonatti wanted to try to summit K2 without the use of supplemental oxygen.
+
+Mehdi testified that allegations Bonatti abandoned him or used the summit team's oxygen were fabrications. If they had used oxygen during the bivouac, Mehdi could have saved his toes and his livelihood."]]></description>
+			<Point>
+				<coordinates>76.5112571,35.8828435,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps on History</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>76.531448,35.842308,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Looking above the shoulder of K2</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/56847379.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Panoramio / SajjadSA]]></description>
+			<Point>
+				<coordinates>76.5225005,35.880375,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1199'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1199-fac-help.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1201'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1201-fac-info-alt.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-960-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-962-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

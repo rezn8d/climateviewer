@@ -1,0 +1,2532 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>Source Map of Biome Zones</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vegetation.png/1200px-Vegetation.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Enlarge. (http://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Vegetation.png/1200px-Vegetation.png)
+Wikipedia Commons / Ville Koistinen]]></description>
+			<Point>
+				<coordinates>-140.097656,-40.313043,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>Sources of information</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- Wikpedia's page on Biomes (http://en.wikipedia.org/wiki/Biome)                                     
+- Various Wikipedia pages about each biome                    
+- Wikipedia's List of Terrestrial Ecoregions (http://en.wikipedia.org/wiki/List_of_terrestrial_ecoregions_(WWF))]]></description>
+			<Point>
+				<coordinates>-146.777344,-40.313043,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1199</styleUrl>
+			<name>What is a Biome?</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Biome)
+
+Biomes are climatically and geographically defined as contiguous areas with similar climatic conditions on the Earth, such as communities of plants, animals, and soil organisms,[1] and are often referred to as ecosystems. Some parts of the earth have more or less the same kind of abiotic and biotic factors spread over a large area, creating a typical ecosystem over that area. Such major ecosystems are termed as biomes. Biomes are defined by factors such as plant structures (such as trees, shrubs, and grasses), leaf types (such as broadleaf and needleleaf), plant spacing (forest, woodland, savanna), and climate. Unlike ecozones, biomes are not defined by genetic, taxonomic, or historical similarities. Biomes are often identified with particular patterns of ecological succession and climax vegetation (quasiequilibrium state of the local ecosystem). An ecosystem has many biotopes and a biome is a major habitat type. A major habitat type, however, is a compromise, as it has an intrinsic inhomogeneity. Some examples of habitats are ponds, trees, streams, creeks, under rocks and burrows in the sand or soil.]]></description>
+			<Point>
+				<coordinates>-146.425781,-45.706179,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1199</styleUrl>
+			<name>What is an Ecoregion?</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Ecoregion)
+ 
+An ecoregion (ecological region) is an ecologically and geographically defined area that is smaller than a bioregion, which in turn is smaller than an ecozone. All three of these are larger than an ecosystem.[citation needed] Ecoregions cover relatively large areas of land or water, and contain characteristic, geographically distinct assemblages of natural communities and species. The biodiversity of flora, fauna and ecosystems that characterise an ecoregion tends to be distinct from that of other ecoregions. In theory, biodiversity or conservation ecoregions are relatively large areas of land or water where the probability of encountering different species and communities at any given point remain relatively constant, within an acceptable range of variation (largely undefined at this point). Three caveats are appropriate for all biogeographic mapping approaches. Firstly, no single biogeographic framework is optimal for all taxa. Ecoregions reflect the best compromise for as many taxa as possible. Secondly, ecoregion boundaries rarely form abrupt edges; rather, ecotones and mosaic habitats bound them. Thirdly, most ecoregions contain habitats that differ from their assigned biome. Biogeographic provinces may originate due to various barriers. Some physical (plate tectonics, topographic highs), some climatic (latitudinal variation, seasonal range) and some ocean chemical related (salinity, oxygen levels).]]></description>
+			<Point>
+				<coordinates>-139.921875,-45.828799,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1199</styleUrl>
+			<name>What is the difference between an ecosystem and a biome?</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[According to Blue at WikiAnswers:
+ 
+An ecosystem is the community (all living species in a geographical area) as well as the physical environment that surrounds it.
+ 
+Biomes are collections of ecosystems that have similar characteristics, such biotic and abiotic factors. For example, the ecosystems of northern Canada and Russia have similar plant and animal life, temperature, and amount of sunlight. They combine to make up the taiga (or coniferous) biome.]]></description>
+			<Point>
+				<coordinates>-133.945312,-45.828799,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1037</styleUrl>
+			<name>Google Map of the Geography of the Köppen Climate Classification System</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://1.bp.blogspot.com/-Ed2OzlDO0vo/UWLCsK4cyYI/AAAAAAAAEsI/wPvugLopQLA/s320/K%C3%B6ppen+Climate+Classification+System+in+Google+Map.JPG http://2.bp.blogspot.com/-oShT9KIy0Yw/UWRS926maJI/AAAAAAAAEsg/o5OVB7wZ3qY/s320/Climate+close+up.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Non-Networked Google Map of the Geography of the Köppen Climate Classification System (https://docs.google.com/file/d/0B52hHMRyBvEsM0o4YkowS0hkVm8/edit)]]></description>
+			<Point>
+				<coordinates>-127.265625,-39.368279,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>Digitally walk this map in Google Earth 3D</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://4.bp.blogspot.com/-12hbKUrmFXc/U29N5bCxLdI/AAAAAAAAHho/f4cPetlzvvI/s1600/Mediterranean+forest+in++Greece+in++Google+Earth.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[You can digitally walk this map in Google Earth 3D using this Google Eartth KML file. (https://docs.google.com/file/d/0B52hHMRyBvEsbkk3ZC1la1NXNkE/edit)
+ 
+
+Google/MyReadingMapped]]></description>
+			<Point>
+				<coordinates>-120.234375,-45.336702,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps on History</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>-106.171875,-45.58329,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-4186F0</styleUrl>
+			<name>Biome: Ice sheet and polar desert</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Greenland_ice_sheet)
+ 
+The Greenland ice sheet (Greenlandic: Sermersuaq) is a vast body of ice covering 1,710,000 square kilometres (660,000 sq mi), roughly 80% of the surface of Greenland. It is the second largest ice body in the world, after the Antarctic Ice Sheet. The ice sheet is almost 2,400 kilometres (1,500 mi) long in a north-south direction, and its greatest width is 1,100 kilometres (680 mi) at a latitude of 77°N, near its northern margin. The mean altitude of the ice is 2,135 metres (7,005 ft).[1] The thickness is generally more than 2 km (1 mi) and over 3 km (1.9 mi) at its thickest point. It is not the only ice mass of Greenland – isolated glaciers and small ice caps cover between 76,000 and 100,000 square kilometres (29,000 and 39,000 sq mi) around the periphery. Some scientists predict that climate change may be near a "tipping point" where the entire ice sheet will melt in about 2,000 years.[2] If the entire 2,850,000 cubic kilometres (684,000 cu mi) of ice were to melt, it would lead to a global sea level rise of 7.2 m (24 ft).[3]]]></description>
+			<Point>
+				<coordinates>-147.1289057,-19.9733484,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-4186F0</styleUrl>
+			<name>Biome: Tundra</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Tundra)
+
+In physical geography, a tundra is a biome where the tree growth is hindered by low temperatures and short growing seasons. The term tundra comes through Russian тундра from the Kildin Sami word tūndâr"uplands", "treeless mountain tract".[1] There are three types of tundra: arctic tundra,[2] alpine tundra,[2]and Antarctic tundra.[3] In a tundra, the vegetation is composed of dwarf shrubs, sedges and grasses,mosses, and lichens. Scattered trees grow in some tundras. The ecotone (or ecological boundary region) between the tundra and the forest is known as the tree line or timberline.]]></description>
+			<Point>
+				<coordinates>-147.1289057,-28.5362742,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>Biome: Taiga</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Taiga)
+
+Taiga (/ˈtaɪɡə/; Russian: тайга́, IPA: [tɐjˈɡa]; from Turkic[1] or Mongolian), also known as boreal forest or snowforest, is a biome characterized by coniferous forests consisting mostly of pines, spruces and larches.
+
+The taiga is the world's largest terrestrial biome. In North America it covers most of inland Canada and Alaska as well as parts of the extreme northern continental United States (northern Minnesota through the Upper Peninsula of Michigan to Upstate New York and northern New England) and is known as the Northwoods.[2] In Eurasia, it covers most of Sweden, Finland, much of Norway, some lowland/coastal areas of Iceland, much of Russia from Karelia in the west to the Pacific Ocean (including much of Siberia), and areas of northern Kazakhstan, northern Mongolia, and northern Japan (on the island of Hokkaidō). However, the main tree species, the length of the growing season and summer temperatures vary. For example, the taiga of North America mostly consists of spruces; Scandinavian and Finnish taiga consists of a mix of spruce, pines and birch; Russian taiga has spruces, pines and larches depending on the region, the Eastern Siberian taiga being a vast larch forest.]]></description>
+			<Point>
+				<coordinates>-147.1289057,-34.161818,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-F4B400</styleUrl>
+			<name>Biome: Temperate Broadleaf Forest</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Temperate_broadleaf_and_mixed_forest)
+ 
+Temperate Broadleaf and mixed forests are a temperate and humid biome. The typical structure of these forests includes four layers. The uppermost layer is the canopy composed of tall mature trees ranging from 33 to 66 m (100 to 200 feet) high. Below the canopy is the three-layered, shade-tolerant understory that is roughly 9 to 15 m (30 to 50 feet) shorter than the canopy. The top layer of the understory is the sub-canopy which is composed of smaller mature trees, saplings, and suppressed juvenile canopy layer trees awaiting an opening in the canopy. Below the sub-canopy is the shrub layer, composed of low growing woody plants. Typically the lowest growing (and most diverse) layer is the ground cover orherbaceous layer.]]></description>
+			<Point>
+				<coordinates>-140.0976565,-19.9733487,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-FFDD5E</styleUrl>
+			<name>Biome: Temperate Steppe</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Temperate_steppe)
+
+In physical geography, a steppe (Ukrainian: степ Russian: степь, tr. step', IPA: [sʲtʲepʲ] ( listen), from Latin stipa) is anecoregion, in the montane grasslands and shrublands and temperate grasslands, savannas, and shrublands biomes, characterized by grassland plains without trees apart from those near rivers and lakes. The prairie (especially the shortgrass and mixed prairie) is an example of a steppe, though it is not usually called such. It may be semi-desert, or covered with grass or shrubs or both, depending on the season and latitude.  The term is also used to denote the climate encountered in regions too dry to support a forest, but not dry enough to be a desert. The soil is typically of chernozemtype.
+
+Steppes are usually characterized by a semiarid and continental climate. Extremes can be recorded in the summer of up to 40 °C (104 °F) and in winter, –40 °C (–40 °F). Besides this huge difference between summer and winter, the differences between day and night are also very great. In the highlands of Mongolia, 30 °C (86 °F) can be reached during the day with sub-zero °C (sub 32 °F) readings at night.]]></description>
+			<Point>
+				<coordinates>-140.449219,-28.459033,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-009D57</styleUrl>
+			<name>Biome: Subtropical Rainforest</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Subtropical_rainforest)
+
+Rainforests are forests characterized by high rainfall, with annual rainfall between 250 centimetres (98 in) to 450 centimetres (180 in).[1] The monsoon trough, alternatively known as the intertropical convergence zone, plays a significant role in creating the climatic conditions necessary for the Earth's tropical rainforests.
+ 
+Around 40% to 75% of all biotic species are indigenous to the rainforests.[2] It has been estimated that there may be many millions of species of plants, insects and microorganisms still undiscovered in tropical rainforests. Tropical rainforests have been called the "jewels of the Earth" and the "world's largest pharmacy", because over one quarter of natural medicineshave been discovered there.[3] Rainforests are also responsible for 28% of the world's oxygen turnover, sometimes misnamed oxygen production,[4] processing it through photosynthesis from carbon dioxide and consuming it through respiration.]]></description>
+			<Point>
+				<coordinates>-132.8906248,-19.9733488,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Biome: Mediterranean Vegetation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mediterranean_vegetation)
+ 
+Mediterranean forests, woodlands, and scrub biome, as defined by the World Wildlife Fund, is characterized by dry summers and rainy winters. Summers are typically hot in low-lying inland locations but can be cool near some seas, as near San Francisco, which have a sea of cool waters. Winters are typically mild to cool in low-lying locations but can be cold in inland and higher locations.
+
+The Mediterranean forests, woodlands, and scrub biome can be found around the world. More specifically, it occurs in the world's five Mediterranean climate zones, on the west coast of continents in the mid-latitudes:[1]]]></description>
+			<Point>
+				<coordinates>-132.890625,-28.767659,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-009D57</styleUrl>
+			<name>Biome: Tropical and subtropical dry broadleaf forests (Monsoon Forest)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Monsoon_Forest)
+
+This biome is alternately known as the tropical bane forest biome or the tropical and subtropical deciduous forest biome. Locally some of these forests are also called monsoon forests, and they tend to merge into savannas.
+
+The tropical and subtropical dry broadleaf forest biome, also known as tropical dry forest, is located at tropical and subtropical latitudes. Though these forests occur in climates that are warm year-round, and may receive several hundred centimeters of rain per year, they have long dry seasons which last several months and vary with geographic location. These seasonal droughts have great impact on all living things in the forest.
+
+Deciduous trees predominate in most of these forests, and during the drought a leafless period occurs, which varies with species type. Because trees lose moisture through their leaves, the shedding of leaves allows trees such as teak and mountain ebony to conserve water during dry periods. The newly bare trees open up the canopy layer, enabling sunlight to reach ground level and facilitate the growth of thick underbrush. Trees on moister sites and those with access to ground water tend to be evergreen. Infertile sites also tend to support evergreen trees. Three tropical dry broadleaf forest ecoregions, the East Deccan dry evergreen forests, the Sri Lanka dry-zone dry evergreen forests, and the Southeastern Indochina dry evergreen forests, are characterized by evergreen trees.]]></description>
+			<Point>
+				<coordinates>-132.890625,-34.161818,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-F4EB37</styleUrl>
+			<name>Biome: Savanna</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Savanna)
+ 
+A savanna, or savannah, is a grassland ecosystem characterized by the trees being sufficiently widely spaced so that the canopy does not close. The open canopy allows sufficient light to reach the ground to support an unbroken herbaceous layer consisting primarily of grasses.[1][2][3] The oak savanna is a common type of savanna in the Northern Hemisphere. Some classification systems[which?] also recognize a grassland savanna from which trees are absent.[4] This article deals only with savanna under the common definition of a grassy woodland with a significant woody plant component.
+
+Savannas are also characterized by seasonal water availability, with the majority of rainfall confined to one season. Savannas are associated with several types of biomes. Savannas are frequently in a transitional zone between forest and desert or grassland. Savanna covers approximately 20% of the Earth's land area.]]></description>
+			<Point>
+				<coordinates>-125.5078125,-20.138470700000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-F4EB37</styleUrl>
+			<name>Biome: Dry Steppe</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Dry_steppe)
+
+A semi-arid climate or steppe climate are climatic regions that receive precipitation belowpotential evapotranspiration, but not extremely. A more precise definition is given by theKöppen climate classification that treats steppe climates (BSk and BSh) as intermediates between desert climates (BW) and humid climates in ecological characteristics and agricultural potential. Semi-arid climates tend to support short or scrubby vegetation, with semi-arid areas usually dominated by either grasses or shrubs.
+
+To determine if a location has a semi-arid climate, the precipitation threshold must first be determined. Finding the precipitation threshold (in millimeters) involves first multiplying the average annual temperature in °C by 20, then adding 280 if 70% or more of the total precipitation is in the high-sun half of the year (April through September in the Northern Hemisphere, or October through March in the Southern), or 140 if 30%–70% of the total precipitation is received during the applicable period, or 0 if less than 30% of the total precipitation is so received. If the area's annual precipitation is less than the threshold but more than half the threshold, it is classified as a BS (steppe climate).[1]]]></description>
+			<Point>
+				<coordinates>-125.5078125,-28.9216313,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-DB4436</styleUrl>
+			<name>Biome: Arid and Semi arid Desert</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia  (http://en.wikipedia.org/wiki/Desert)
+
+A desert is a barren area of land where little precipitation occurs and consequently living conditions are hostile for plant and animal life. The lack of vegetation exposes the unprotected surface of the ground to the processes of denudation. About one third of the land surface of the world is arid or semi-arid. This includes much of the polar regions where little precipitation occurs and which are sometimes called "cold deserts". Deserts can be classified by the amount of precipitation that falls, by the temperature that prevails, by the causes of desertification or by their geographical location.
+
+Deserts are formed by weathering processes as large variations in temperature between day and night put strains on the rocks which consequently break in pieces. Although rain seldom occurs in deserts, there are occasional downpours that can result in flash floods. Rain falling on hot rocks can cause them to shatter and the resulting fragments and rubble strewn over the desert floor is further eroded by the wind. This picks up particles of sand and dust and wafts them aloft in sand or dust storms.]]></description>
+			<Point>
+				<coordinates>-117.2460935,-20.1384705,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>Biome: Xeric Shrubland</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Xeric_shrublands)
+
+Deserts and xeric shrublands also called xerófila are a biome characterized by, relating to, or requiring only a small amount of moisture,[1] usually defined as less than 250 mm of annual precipitation. It is the largest terrestrial biome, covering 19% of the earth's land surface area.[2] Evaporation usually exceeds rainfall in these regions. They may be further characterized as hyperxerófila (very dry) and hypoxerófila (less dry).]]></description>
+			<Point>
+				<coordinates>-117.42187500000001,-28.7676595,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-FFFFFF</styleUrl>
+			<name>Biome: Montane Forests</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Montane_forests#Montane_forests)
+
+Montane forests occur between the submontane zone and the subalpine zone. The elevation at which one habitat changes to another varies across the globe, particularly by latitude. The upper limit of montane forests, the forest line or timberline, is often marked by a change to hardier species that occur in less dense stands.[3] For example, in the Sierra Nevada ofCalifornia, the montane forest has dense stands of lodgepole pine and red fir, while the Sierra Nevada subalpine zonecontains sparse stands of whitebark pine.[4]
+
+The lower bound of the montane zone may be a "lower timberline" that separates the montane forest from drier steppe or desert region.[3]
+
+Montane forests differ from lowland forests in the same area.[5] The climate of montane forests is colder than lowland climate at the same latitude, so the montane forests often have species typical of higher-latitude lowland forests.[6]Humans can disturb montane forests through forestry and agriculture.[5] On isolated mountains, montane forests surrounded by treeless dry regions are typical "sky island" ecosystems.[7]]]></description>
+			<Point>
+				<coordinates>-108.28124980000001,-20.1384703,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Sample of Ecoregions</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[I added several Ecoregions across Central Africa to give you some understanding of how they are a refinement on Biomes.]]></description>
+			<Point>
+				<coordinates>-99.4921875,-19.9733493,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-4186F0</styleUrl>
+			<name>Ice Sheet and polar desert in Greenland</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/88849103.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / panoramiokirill]]></description>
+			<Point>
+				<coordinates>-40.962524,75.502659,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-4186F0</styleUrl>
+			<name>Antarctic Ice Sheet</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/43000370.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / zeezaimuaa (http://www.panoramio.com/user/5151308?with_photo_id=43000370)]]></description>
+			<Point>
+				<coordinates>13.710938000000002,-80.983688,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-4186F0</styleUrl>
+			<name>Tundra in Siberia </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/8/87/Tundra_in_Siberia.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Dr. Andreas Hugentobler]]></description>
+			<Point>
+				<coordinates>93.075485,75.706651,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-4186F0</styleUrl>
+			<name>Tundra in Greenland</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/40957902.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Nikolaj Ananiassen]]></description>
+			<Point>
+				<coordinates>-45.913603,60.622786999999995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-4186F0</styleUrl>
+			<name>Tundra on the Péninsule Rallier du Baty, Kerguelen Islands.</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/19272018.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / moineb (http://www.panoramio.com/user/599434?with_photo_id=19272018)]]></description>
+			<Point>
+				<coordinates>68.963242,-49.631339,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-4186F0</styleUrl>
+			<name>Alpine Tundra in Colorado</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/75594977.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / adoverboy2 (http://www.panoramio.com/user/4938287?with_photo_id=75594977)]]></description>
+			<Point>
+				<coordinates>-105.019121,37.592778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>Taiga at the Denali National Park</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/79197186.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Missoula (http://www.panoramio.com/user/7136588?with_photo_id=79197186)]]></description>
+			<Point>
+				<coordinates>-151.395035,63.292631,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>Tiaga at Jack London Lake, at Kolyma, Russia</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Jack_London_Lake_by_bartosh.jpg/1199px-Jack_London_Lake_by_bartosh.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Bartosh Dmytro]]></description>
+			<Point>
+				<coordinates>149.499893,62.076161000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>Taiga in Tettegouche State Park</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Shovel_Point1.jpg/1191px-Shovel_Point1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Public Domain / Kablammo (http://commons.wikimedia.org/wiki/User:Kablammo)]]></description>
+			<Point>
+				<coordinates>-88.193779,46.683599,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>Taiga at the Helvetinjärvi National Park, Finland</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/13523496.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Petritap (http://www.panoramio.com/user/2179456?with_photo_id=13523496)]]></description>
+			<Point>
+				<coordinates>23.852005,62.01456100000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>Taiga in Yukon, Canada</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/37375016.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / americatramp.the2nd (http://www.panoramio.com/user/3360946?with_photo_id=37375016)]]></description>
+			<Point>
+				<coordinates>-136.980286,61.172962999999996,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>Taiga near Ashap, Russia</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/58117072.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Maximovich Nikolay (http://www.panoramio.com/user/4147970?with_photo_id=58117072)]]></description>
+			<Point>
+				<coordinates>56.414151,57.026578,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>Taiga near Tura in Siberia</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/68974205.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Fisunov V. (http://www.panoramio.com/user/6788836?with_photo_id=68974205)]]></description>
+			<Point>
+				<coordinates>100.541296,64.191509,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-FFDD5E</styleUrl>
+			<name>Temperate Broadleaf Appalachian-Blue Ridge forests</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/14082647.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / DMPhotoTags]]></description>
+			<Point>
+				<coordinates>-82.778737,36.018709,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-FFDD5E</styleUrl>
+			<name>Temperate Broadleaf Forest in Yunnan, China</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/98012639.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / fly22]]></description>
+			<Point>
+				<coordinates>101.300898,24.796241,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-FFDD5E</styleUrl>
+			<name>Temperate Broadleaf Forest in the Ozark Mountains</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/6906383.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / tbrmarvin (http://www.panoramio.com/user/877370?with_photo_id=6906383)]]></description>
+			<Point>
+				<coordinates>-94.134389,35.713739,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-FFDD5E</styleUrl>
+			<name>Temperate Broadleaf Caucasus mixed forests near Nedzvi Managed Reserve in Georgia (country)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/72715167.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Ivane Goliadze]]></description>
+			<Point>
+				<coordinates>43.537772,41.902209,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-FFDD5E</styleUrl>
+			<name>Temperate Broadleaf Forest at the Kamchia River</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/63877229.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / tsvetan.stefanov]]></description>
+			<Point>
+				<coordinates>27.862498,43.016792,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-FFDD5E</styleUrl>
+			<name>Temperate forests, North Island, New Zealand</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/73313323.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / David Anderson (http://www.panoramio.com/user/2644617?with_photo_id=73313323)]]></description>
+			<Point>
+				<coordinates>175.754492,-38.99534,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-FFDD5E</styleUrl>
+			<name>Steppe in Albert, Canada</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/14776025.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Trevor Blumhagen (http://www.panoramio.com/user/1005496?with_photo_id=14776025)]]></description>
+			<Point>
+				<coordinates>-113.753386,52.68939,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-FFDD5E</styleUrl>
+			<name>Temperate Steppe in Cimarron National Grassland, Kanas</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/1790352.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Craig Young (http://www.panoramio.com/user/378185?with_photo_id=1790352)]]></description>
+			<Point>
+				<coordinates>-101.826739,37.136577,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-FFDD5E</styleUrl>
+			<name>Steppe in Mongolia</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/95835944.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Batjav Tsanjid (http://www.panoramio.com/user/997462?with_photo_id=95835944)]]></description>
+			<Point>
+				<coordinates>104.305669,47.33726,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-FFDD5E</styleUrl>
+			<name>Cold Patagonian Steppe in Argentina</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/84498240.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Paula84 (http://www.panoramio.com/user/2739059?with_photo_id=84498240)]]></description>
+			<Point>
+				<coordinates>-71.803894,-49.332282,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-FFDD5E</styleUrl>
+			<name>Steppe in Kazakhstan</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/26227285.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / segrt1 (http://www.panoramio.com/user/3598593?with_photo_id=26227285)]]></description>
+			<Point>
+				<coordinates>66.121495,46.726087,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-FFDD5E</styleUrl>
+			<name>Sagebrush Steppe in Northeast Nevada</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/27318646.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / NVsteward (http://www.panoramio.com/user/3692881?with_photo_id=27318646)]]></description>
+			<Point>
+				<coordinates>-115.24520899999999,41.375778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-009D57</styleUrl>
+			<name>Daintree Rainforest</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/14557799.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Gustel Homann (http://www.panoramio.com/user/1151914?with_photo_id=14557799)]]></description>
+			<Point>
+				<coordinates>145.368347,-16.167692,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-009D57</styleUrl>
+			<name>Amazon Rainforest</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/58379831.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Emmanuil Russman (http://www.panoramio.com/user/4720400?with_photo_id=58379831)]]></description>
+			<Point>
+				<coordinates>-65.87677,-2.868979,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-009D57</styleUrl>
+			<name>Rainforest at the Blue Mountains National Park, Australia</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/8716995.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Tree Ferns
+
+Google Map / Panoramio / tempestlight (http://www.panoramio.com/user/1250451?with_photo_id=8716995)]]></description>
+			<Point>
+				<coordinates>150.391049,-33.499939,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-009D57</styleUrl>
+			<name>Shagayu Rainforest in Tanzania</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/36897422.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / h_erdtsieck]]></description>
+			<Point>
+				<coordinates>38.305206,-4.518928,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>A mediterranean cork oak savanna, in Alentejo region, Portugal.</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Quercus_suber.Alentejo04.jpg/1200px-Quercus_suber.Alentejo04.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Georges Jansoone]]></description>
+			<Point>
+				<coordinates>-7.800770000000001,40.312507,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Mediterranean forest in the Upper Galilee</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/88725441.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / shby shby (http://www.panoramio.com/user/1311730?with_photo_id=88725441)]]></description>
+			<Point>
+				<coordinates>35.374689,33.003121,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Mediterranean forest in northwest Morocco</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/83913230.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / merkaoui (http://www.panoramio.com/user/7334728?with_photo_id=83913230)]]></description>
+			<Point>
+				<coordinates>-5.820222,35.184665,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Mediterranean forest in central Greece</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/4333937.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / i.alli.ellatha (http://www.panoramio.com/user/838428?with_photo_id=4333937)]]></description>
+			<Point>
+				<coordinates>21.761942,39.156088,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Mediterranean forest in northwest Italy</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/25197208.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / antonio andreatta (http://www.panoramio.com/user/2736073?with_photo_id=25197208)]]></description>
+			<Point>
+				<coordinates>9.474034,44.484619,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-009D57</styleUrl>
+			<name>Subtropical semi-evergreen seasonal forest in the Doi Inthanon National Park</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Subtropical_semi-evergreen_seasonal_forest_in_Northern_Thailand.JPG/1200px-Subtropical_semi-evergreen_seasonal_forest_in_Northern_Thailand.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Adbar]]></description>
+			<Point>
+				<coordinates>98.543801,18.524254000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-009D57</styleUrl>
+			<name>Monsoon Forest near Ban Saga Lake, India</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/99375446.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Bhawar Singh (http://www.panoramio.com/user/4710384?with_photo_id=99375446)]]></description>
+			<Point>
+				<coordinates>81.286941,24.098585000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-009D57</styleUrl>
+			<name>Rainforest in Papa New Guinea</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/58960045.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / grantchristie (http://www.panoramio.com/user/6311445?with_photo_id=58960045)]]></description>
+			<Point>
+				<coordinates>141.512661,-6.182924,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-009D57</styleUrl>
+			<name>Rainforest in Lomako-Yokokala, Democratic Republic of the Congo</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/16475889.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / frocca (http://www.panoramio.com/user/2520849?with_photo_id=16475889)]]></description>
+			<Point>
+				<coordinates>20.801539,0.415503,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Mediterranean conifer and mixed forests</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/37448484.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Mediterranean_conifer_and_mixed_forests)
+
+
+
+The Mediterranean conifer and mixed forests ecoregion consists of a series of enclaves in the coastal Rif Mountains and interior Middle Atlas and High Atlas of Morocco, the eastern Tell Atlas and eastern Saharan Atlas of Algeria, and the Kroumerie and Mogod ranges of Tunisia.
+
+
+The Mediterranean woodlands and forests ecoregion surrounds the Mediterranean conifer and mixed forests at lower elevations.
+
+
+In the High Atlas, the Mediterranean conifer and mixed forests yield to the Mediterranean High Atlas juniper steppe at the highest elevations.
+
+
+
+Google Map / Panoramio / Rachid Outahar (http://www.panoramio.com/user/3308350?with_photo_id=37448484)]]></description>
+			<Point>
+				<coordinates>-4.460449,33.519072,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Sahelian Acacia savanna</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/28823753.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Sahel)
+
+The Sahel[p] is the ecoclimatic and biogeographic zone of transition in Africa between the Sahara desert to the north and the Sudanian Savanna to the south. Having a semi-arid climate, it stretches across the southernmost extent of Northern Africa between the Atlantic Ocean and the Red Sea. The Arabic word sāḥil (ساحل) literally means "shore, coast", describing the appearance of the vegetation found in the Sahel as being akin to that of a coastline delimiting the sand of the Sahara.
+
+The Sahel covers parts of (from west to east) the Gambia, Senegal, southern Mauritania, central Mali, Burkina Faso, southern Algeria and Niger, northern Nigeria and Cameroon, central Chad, southern Sudan, northern South Sudan and northern Eritrea.[1]
+
+
+
+Google Map / Panoramio / Marcoafrika2 (http://www.panoramio.com/user/2195644?with_photo_id=28823753)]]></description>
+			<Point>
+				<coordinates>-13.738403,15.406023999999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Guinean mangroves</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/41507642.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Guinean_mangroves)
+
+Guinean mangroves can be found: in the Saloum River and Casamance deltas in Senegal; in the lower Gambia River basin; much of the coast of Guinea-Bissau, including the Cacheu and Mansoa Rivers; across the border in northern Guinea; and much of the coast of Sierra Leone including the Sherbro River. Mangroves thrive on flat coastal inlets and estuaries where the ocean tides wash warm salt water high upriver, in this ecoregion as far as 100 km, for example in the Cacheu River of Guinea-Bissau.[1][2]
+
+
+
+Google Map / Panoramio / Filipe Duarte (http://www.panoramio.com/user/320490?with_photo_id=41507642)]]></description>
+			<Point>
+				<coordinates>-16.184578,12.300758,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion:Guinean montane forests</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/28975367.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Guinean_montane_forests)
+
+
+The Guinean montane forests are a tropical moist broadleaf forest ecoregion of West Africa
+
+
+The ecoregion occupies the portions of the Guinea Highlands lying above 600 meters elevation, extending across portions of Guinea, Sierra Leone, Liberia, and Côte d'Ivoire. It includes the Fouta Djallon plateau and the Simandou and Ziama Massifs in Guinea, the Loma Mountains and Tingi Hills in Sierra Leone, the Mount Nimba range in Guinea, Liberia, and Côte d'Ivoire, and other nearby mountains such as Mont Péko in Côte d'Ivoire. Mount Bintumani in the Loma Mountains is the highest peak in West Africa west of Mount Cameroon. The next highest peaks in the region are the Tingi Hills and the Sankan Biriwa.
+
+
+Average rainfall is between 1,600-2400 mm per year and many important rivers have their sources in these mountains.
+
+
+
+Google Map / Panoramio / Zagdash (http://www.panoramio.com/user/3863058?with_photo_id=28975367)]]></description>
+			<Point>
+				<coordinates>-12.383652,10.975572,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Guinean forest-savanna mosaic</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kenema-Kailahun_Road.jpg/800px-Kenema-Kailahun_Road.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Guinean_forest-savanna_mosaic)
+
+
+The Guinean forest-savanna mosaic covers an area of 673,600 square kilometers (260,100 sq mi), extending from western Senegal to eastern Nigeria, and including portions of Gambia, Guinea Bissau, Guinea, Sierra Leone, Côte d'Ivoire, Ghana, Togo, and Benin. The Cameroon Highlands of eastern Nigeria and Cameroon separate the Guinean forest-savanna mosaic from the Northern Congolian forest-savanna mosaic, which lies to the east. The Dahomey Gap is a region of Togo and Benin where the forest-savanna mosaic extends to the coast, and separates the Upper Guinean forests of Guinea, Sierra Leone, Liberia, Côte d'Ivoire, and Ghana from the Lower Guinean forests of Nigeria and Cameroon.
+
+
+
+
+Wikipedia / Lindsay Stark (http://www.flickr.com/people/90124137@N00)]]></description>
+			<Point>
+				<coordinates>-10.879211,7.909632000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Western Guinean lowland forests</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/90212188.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Western_Guinean_lowland_forests)
+
+
+
+The Western Guinean lowland forests are a tropical moist broadleaf forest ecoregion of West Africa. The ecoregion includes the lowland forests extending from the Atlantic Ocean a few hundred kilometers inland, and from western Côte d'Ivoire across Liberia, southeastern Guinea, most of Sierra Leone, and into southwest Guinea. The Sassandra River of Côte d'Ivoire separates the Western Guinean forests from the Eastern Guinean forests which lie to the east. Inland and to the west, the Western Guinean forests transition to the Guinean forest-savanna mosaic, and to the Guinean montane forests at higher elevations.
+
+
+The Western Guinean forests, together with the other tropical moist forests of West Africa, is included within Conservation International's Guinean Forests of West Africa biodiversity hotspot.
+
+
+
+Google Map / Panoramio / blk24ga (http://www.panoramio.com/user/6465408?with_photo_id=90212188)]]></description>
+			<Point>
+				<coordinates>-9.004669,5.846229,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Eastern Guinean forests</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/22816180.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Eastern_Guinean_forests)
+
+
+
+The Eastern Guinean forests are a tropical moist broadleaf forest ecoregion of West Africa. The ecoregion includes the lowland forests extending from the Gulf of Guinea a few hundred kilometers inland, from western Côte d'Ivoire to the western shore of Lake Volta in Ghana. A few small enclaves lie further east and inland in Togo and Benin. The Sassandra River of Côte d'Ivoire separates the Eastern Guinean forests from the Western Guinean forests which lie to the west. Inland and to the east, the Eastern Guinean forests transition to the Guinean forest-savanna mosaic.
+
+ 
+The Eastern Guinean forests, together with the other tropical moist broadleaf forests of West Africa, is included within Conservation International's Guinean Forests of West Africa biodiversity hotspot.
+
+
+
+Google Map / Panoramio / bacchus45 (http://www.panoramio.com/user/3250487?with_photo_id=22816180)]]></description>
+			<Point>
+				<coordinates>-4.807205,8.290317,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Cross-Niger transition forests</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/81436878.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Cross-Niger_transition_forests)
+
+
+The ecoregion extends across the Nigerian states of Abia, Akwa Ibom, Anambra, Ebonyi, and Imo, covering an area of 20,700 square kilometers (8,000 sq mi). The Niger River separates the Cross-Niger transition forests from the Nigerian lowland forests to the west, which probably resembles most closely the original environment of the Cross-Niger ecoregion. To the south and south-west lies the Niger Delta swamp forests. To the north, the Cross-Niger transition forests yield to the Guinean forest-savanna mosaic of the drier interior.
+
+
+The climate is wet, becoming drier further inland, with a dry season from December to February.
+
+Google Map / Panoramio / Akudo Ude (http://www.panoramio.com/user/7238079?with_photo_id=81436878)]]></description>
+			<Point>
+				<coordinates>7.329253999999999,5.186004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Cross-Sanaga-Bioko coastal forests</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/21735462.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Cross-Sanaga-Bioko_coastal_forests)
+
+
+The region includes the lowland and coastal forests of southeastern Nigeria, southwestern Cameroon, and the lowlands of the island of Bioko, covering an area of 52,200 square kilometers (20,200 sq mi). The ecoregion extends from the Cross River in southeastern Nigeria to the Sanaga River in southeastern Cameroon, and up to 300 km inland from the Atlantic coast. In Nigeria the region more or less covers Cross River State.
+
+
+
+
+Google Map / Panoramio / Sahih (http://www.panoramio.com/user/3107780?with_photo_id=21735462)]]></description>
+			<Point>
+				<coordinates>8.731384,3.690226,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Cameroonian Highlands forests</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/31471124.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia  (http://en.wikipedia.org/wiki/Cameroonian_Highlands_forests)
+
+
+The Cameroonian Highlands forests extend across the Cameroon Highlands, a chain of extinct volcanoes, covering an area of 38,000 square kilometers (15,000 sq mi) in eastern Nigeria and western Cameroon. The ecoregion lies above 900 meters elevation, and is surrounded at lower elevations by the Cross-Sanaga-Bioko coastal forests at the southern end of the range, and by forest-savanna mosaic along the central and northern ends of the range; the Cameroon Highlands form the boundary between the Guinean and Northern Congolian forest-savanna mosaic ecoregions. The highest mountain in the chain, Mount Cameroon is considered a separate ecoregion, while the highest peak within the region is Mount Oku (3,011 metres (9,879 ft)). As with similar highland areas in Angola and in East Africa the climate is cooler here than is typical of tropical Africa. The highlands are an important source of water for both Nigeria and Cameroon.
+
+ 
+Google Map / Panoramio / CARLOS HUGO SANZ CAN…]]></description>
+			<Point>
+				<coordinates>9.875507,4.769073,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Atlantic Equatorial coastal forests</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/17576636.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Atlantic_Equatorial_coastal_forests)
+
+
+
+The Atlantic Equatorial coastal forests are a tropical moist broadleaf forest ecoregion of central Africa, covering hills, plains, and mountains of the Atlantic coast of Cameroon, Equatorial Guinea, Gabon, Republic of the Congo, Angola, and Democratic Republic of the Congo.
+
+
+This is rich forest home to large mammals such as Western Gorilla, chimpanzees, forest elephants and African buffalo, as well as many small mammals, birds, amphibians, reptiles, and invertebrates. As well as chimpanzees and gorillas other primates include black colobus monkeys and mandrills.
+
+
+
+Google Map / Panoramio / Soviof]]></description>
+			<Point>
+				<coordinates>10.404053,2.438229,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Western Congolian swamp forests</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/33048038.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Western_Congolian_swamp_forests)
+
+
+The Western Congolian swamp forests are an ecoregion of the Republic of the Congo and Democratic Republic of the Congo. Together with the adjacent Eastern Congolian swamp forests, it forms one of the largest continuous areas of freshwater swamp forest in the world. It is a flooded forest with a high canopy, dense undergrowth and has a muddy floor. It has not been disturbed very much by outside influences and so remains largely pristine as getting through this forest is called "almost impossible".[1]
+
+
+
+Google Map / Panoramio / Nick Giesler (http://www.panoramio.com/user/4252630?with_photo_id=33048038)]]></description>
+			<Point>
+				<coordinates>16.198139,2.231034,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Central Congolian lowland forests</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/11262778.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Central_Congolian_lowland_forests)
+
+
+The Central Congolian lowland forests are an ecoregion within the Democratic Republic of the Congo. This is a remote, inaccessible area of low-lying dense wet forest, undergrowth and swamp in the Cuvette Centrale region of the Congo Basin south of the arc of the River Congo.[1]
+
+
+
+Google Map / Panoramio / zhoufengjing (http://www.panoramio.com/user/758085?with_photo_id=11262778)]]></description>
+			<Point>
+				<coordinates>19.741058000000002,1.248909,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name> Ecoregion: Eastern Congolian swamp forests</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/21356889.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Eastern_Congolian_swamp_forests)
+
+
+This is an area of 60,000 m2 flat, wet forest between 300m and 400m in elevation on the left bank of the River Congo and spreading across a swathe of the Congo Basin including some of the Congo's largest tributaries and the Stanley Falls near Kisangani.[1]  The forest is a mixture of wetland and swamp with drier forest and savanna flooded seasonally by the Congo and its tributaries.
+
+
+ 
+
+Google Map / Panoramio / inonela (http://www.panoramio.com/user/3104697?with_photo_id=21356889)]]></description>
+			<Point>
+				<coordinates>24.949265,0.572653,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Albertine Rift Montane Forests, Bwindi Impenetrable Forest  </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/16995959.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia  (http://en.wikipedia.org/wiki/Albertine_Rift_montane_forests)
+
+
+The mountain rainforests of the ecoregion have a cooler climate than the Congolian lowland forests or the savanna of Uganda, Rwanda and Burundi, and therefore are home to a rich variety of Afromontane flora and especially fauna. The rare Mountain Gorilla (Gorilla beringei beringei) survives only in this ecoregion as do L'Hoest's Monkey and a sub-species of Hamlyn's Monkey as well as many species of butterflies, and birds including Grauer's Warblers, Chapin's Flycatchers, and the Ruwenzori Turaco. The montane forests are included on the Global 200 list.
+
+
+
+
+Google Map / Panoramio / Marco Cavani (http://www.panoramio.com/user/2200533?with_photo_id=16995959)]]></description>
+			<Point>
+				<coordinates>29.678192,-0.9962719999999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: East African montane forests</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/83913542.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/East_African_montane_forests)
+
+
+The East African montane forests extend across a total of 65,500 square kilometers (25,300 sq mi), in 25 separate enclaves, which range in size from 23,700 to 113 square kilometers. The northernmost enclave is on Mount Kinyeti in the Imatong Mountains of Southern Sudan, extending south through Mount Moroto in eastern Uganda and Mount Elgon on the Kenya-Uganda border. In Kenya and Tanzania, the ecoregion follows the mountains east and west of the Eastern Rift and associated volcanoes, including the Aberdare Range, Mount Kenya, Mount Kulal, Mount Nyiru, Bukkol, and the Nguruman Escarpment in Kenya, and Mount Kilimanjaro, Mount Meru, Ngorongoro, and the Marang forests (Mbulu and Hanang) in northern Tanzania.[1]
+
+
+ 
+Google Map / Panoramio / daffy-d]]></description>
+			<Point>
+				<coordinates>32.908889,3.9475000000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: East Sudanian Savanna</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/85572832.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/East_Sudanian_Savanna)
+
+
+
+
+- the western block covers portions of northern Cameroon, southernmost Chad, northern Central African Republic, and southeastern South Sudan.
+- the eastern block lies in a belt stretching from northern Uganda along the Sudan-Ethiopia border region, bounded on the east by the Ethiopian Highlands of Ethiopia and to the south by the Victoria Basin forest-savanna mosaic of Uganda.
+
+ 
+The climate is tropical with a rainy season (from April to October) and a dry season.
+
+
+ 
+Google Map / Panoramio / Joseph-Cro (http://www.panoramio.com/user/534331?with_photo_id=85572832)]]></description>
+			<Point>
+				<coordinates>36.618118,5.430085,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: South Saharan steppe and woodlands</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/42731802.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/South_Saharan_steppe_and_woodlands)
+
+
+
+The South Saharan steppe and woodlands is a deserts and xeric shrublands ecoregion of northern Africa.
+
+
+The ecoregion covers 1,101,700 square kilometers (425,400 sq mi) in Algeria, Chad, Mali, Mauritania, and Sudan. It extends east and west across the continent in a band, forming a transition between the hyper-arid Sahara Desert to the north and the Sahel grasslands and savannas to the south.
+
+
+Movements of the equatorial Intertropical Convergence Zone (ITCZ) bring summer rains during July and August which average 100 to 200 mm, but vary greatly from year to year. These rains sustain summer pastures of grasses and herbs, with dry woodlands and shrublands along seasonal watercourses.[1]
+
+
+
+Google Map / Panoramio / gzali (http://www.panoramio.com/user/3987593?with_photo_id=42731802)]]></description>
+			<Point>
+				<coordinates>25.809288,12.911879,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Ethiopian montane forests</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/104313966.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Ethiopian_Highlands#Ecology)
+
+
+
+The Ethiopian montane forests lie between 1,100 and 1,800 metres elevation, above the lowland grasslands and savannas and extends to areas of similar habitat in Eritrea, Sudan, and Djibouti. This woodland belt has several natural plant communities, but has mostly been heavily grazed and converted to agricultural use now. Kolla, is an open woodland found at lower elevations, and dominated by species of Terminalia, Commiphora, Boswellia, and Acacia. Weyna dega is a woodland found in moister and higher locations, dominated by the conifers Afrocarpus gracilior and Juniperus procera. The lower portion of the Harenna forest is a distinct woodland community, with an open canopy of Warburgia ugandensis, Croton macrostachyus, and Syzygium guineese, and Afrocarpus gracilior, with wild coffee (Coffea arabica) as the dominant understory shrub. The southwesterly winds bring rainfall from May to October with moisture from the Red Sea coming in from the east year round. Fauna at these elevations includes the endemic Harwood's francolin (Francolinus harwoodi), Prince Ruspoli's turaco (Tauraco ruspolii) and yellow-throated seedeater (Serinus flavigula), along with the Djibouti francolin (Francolinus ochropectus) in the Djibouti hills that are in the same general ecoregion.[6]
+
+
+ 
+
+Google Map / Panoramio / asrade abate]]></description>
+			<Point>
+				<coordinates>39.674635,12.809123,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Northern Zanzibar-Inhambane coastal forest mosaic</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/57811613.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Northern_Zanzibar-Inhambane_coastal_forest_mosaic)
+
+
+
+Northern Zanzibar-Inhambane coastal forest mosaic is a tropical moist broadleaf forest ecoregion of coastal East Africa.
+
+
+The ecoregion extends along the East African coast from southern Somalia through Kenya to the Lukuledi river in Tanzania, which forms its southern boundary. It also encompasses the Zanzibar Archipelago, including Unguja (Zanzibar) Pemba, and the surrounding smaller islands. The ecoregion includes a variety of habitats, including forest, savanna and swamps.
+
+
+The ecoregion is bounded on the east by the Indian Ocean. It transitions to drier open woodlands and shrublands to the north and west: the Somali Acacia-Commiphora bushlands and thickets in the north, the Northern Acacia-Commiphora bushlands and thickets and Southern Acacia-Commiphora bushlands and thickets west of the central portion, and the Eastern Miombo woodlands to the southwest. To the south, it borders the Southern Zanzibar-Inhambane coastal forest mosaic across the Lukuledi River.
+
+
+
+Google Map / Panoramio / brianmarv (http://www.panoramio.com/user/6234653?with_photo_id=57811613)]]></description>
+			<Point>
+				<coordinates>41.187057,-1.75685,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregions: Eastern Arc forests</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/3515934.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Eastern_Arc_forests)
+
+
+The Eastern Arc forests extend across a total of 9,200 square miles of mountainous landscape from the Taita Hills on the border of the two countries, through eastern Tanzania to the Udzungwa Mountains and Mount Rungwe. The ecoregion includes the Taita Hills, the North and South Pare Mountains, the East and West Usambara Mountains, the North and South Nguru Mountains, the Ukaguru, the Uluguru, the Rubeho, and the Udzungwas, as well as Mahenge to the south of the Udzungwas, Malundwe Hill in Mikumi, and the Uvidundwa Mountains north of the Udzungwas.[1]
+
+
+
+Google Map / Panoramio / Schiøtz (http://www.panoramio.com/user/453944?with_photo_id=3515934)]]></description>
+			<Point>
+				<coordinates>36.607819,-7.944996000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Itigi-Sumbu thicket</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/20387096.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Itigi-Sumbu_thicket)
+
+
+The thickets are found in the flatland between Lake Mweru Wantipa and Lake Tanganyika in Zambia (between 950 m and 1,200 m above sea level), and near the town of Itigi in Tanzania. The climate consists of a cool dry season from May to August, a hot dry season from August to November, and a rainy season from November to April.[1]
+
+
+
+
+
+Google Map / Panoramio / wikus5252 (http://www.panoramio.com/user/1694419?with_photo_id=20387096)]]></description>
+			<Point>
+				<coordinates>30.445862,-8.513798,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Southern Zanzibar-Inhambane coastal forest mosaic</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/7994394.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Southern_Zanzibar-Inhambane_coastal_forest_mosaic)
+
+
+
+Southern Zanzibar-Inhambane coastal forest mosaic is a tropical moist broadleaf forest ecoregion of eastern Africa. It is a southern variation of Northern Zanzibar-Inhambane coastal forest mosaic.
+
+
+The ecoregion extends along the coast of Tanzania and Mozambique, from Tanzania's Lukuledi River south almost the whole way to the mouth of the Limpopo River. The ecoregion supports habitats of forest, savanna and swamps. The area is in the rain shadow of Madagascar, hence it gets a smaller amount of rain than the Northern Zanzibar-Inhambane coastal forest mosaic.
+
+
+The ecoregion is bounded on the east by the Indian Ocean. To the north, it abuts the Northern Zanzibar-Inhambane coastal forest mosaic. It transitions to drier open woodlands to the west – the Eastern Miombo woodlands at the northern end, the Zambezian and Mopane woodlands in the central portion, and the Southern Miombo woodlands at the southern end. To the south, it borders the Maputaland coastal forest mosaic.
+
+
+
+Google Map / Panoramio / Nuno Teixeira (http://www.panoramio.com/user/367031?with_photo_id=7994394)]]></description>
+			<Point>
+				<coordinates>37.023926,-15.580711,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Central Zambezian Miombo woodlands</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/79600556.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Central_Zambezian_Miombo_woodlands)
+
+he region covers a large area stretching northeast from Angola including the southeast section of the Democratic Republic of the Congo, the northern half of Zambia, a large section of western Tanzania, southern Burundi and northern and western Malawi. In the Congo the ecoregion is almost contiguous with the province of Katanga. In Zambia it covers the northern half of the country above Lusaka, including the eastern and western "ears" and the Copperbelt. In Tanzania it covers the western inland provinces between Lake Victoria, Lake Tanganyika and Lake Malawi.
+
+The area is mostly flat plateau and the soils are poor. There is a tropical climate with a long dry season, up to seven months, which leaves the forest vulnerable to fires, and a rainy season from November to March. The woodland is interspersed with riverside dambos, (grassy wetlands), which may constitute up to thirty percent of the region.[1]
+
+
+
+Google Map /Panoramio / Blanche Neige (http://www.panoramio.com/user/1536867?with_photo_id=79600556)]]></description>
+			<Point>
+				<coordinates>27.784424,-11.867351,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Zambezian Cryptosepalum dry forests</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/44551052.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Zambezian_Cryptosepalum_dry_forests)
+
+
+
+The forest are found on rolling hills of sandy soil drained by the Kabompo River of northern Barotseland in Western Zambia, with one area across the border in Angola.
+
+
+The Western Zambezian grasslands separate the forest enclaves from one another. The Barotse Floodplain, part of the Zambezian flooded grasslands ecoregion, lies to the southwest. The Central Zambezian Miombo woodlands and the Angolan Miombo woodlands lie on the better soils to the east and west, respectively.
+
+
+The ecoregion is at 1100 to 1200 meters elevation. The climate is tropical savanna, with average annual temperature around 21°C.[1]
+
+
+
+Google Map / Panoramio / hupeverlag.de (http://www.panoramio.com/user/1277433?with_photo_id=44551052)]]></description>
+			<Point>
+				<coordinates>25.543213,-14.227113,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Angolan Miombo woodlands</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/49236116.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Angolan_Miombo_woodlands)
+
+
+Angolan Miombo woodlands cover most of central Angola and extend into the Democratic Republic of Congo. This is part of the larger miombo ecosystem that covers much of eastern and southern Africa.[1]
+
+
+
+This area of savanna and woodland covers an area of plateau and gentle hills in central Angola, in the Cubango-Zambezi Basin which drains into the Zambezi River to the east. The area lies east of the range of hills that parallel the Atlantic coast and north of the Kalahari Desert reaching up as far as the rainforests of the Congo.
+
+ 
+It has a tropical climate, wetter than the surrounding savanna, with most of the rain falling in the hotter summer months (November–March).[2]
+
+ 
+
+Google Map / Panoramio / VictorG (http://www.panoramio.com/user/4280660?with_photo_id=49236116)]]></description>
+			<Point>
+				<coordinates>20.039063,-9.887687,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Kalahari Acacia-Baikiaea woodlands</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/27376678.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Central_Kalahari_Game_Reserve)
+
+
+These woodlands cover the center of southern Africa, from northern Namibia diagonally through to southeast Botswana and just into the Tuli Block of South Africa. In Botswana there is another area running north from the Okavango Delta and the Makgadikgadi Pan towards the border of the Chobe National Park and then east to the border with Zimbabwe. All this is semi-arid sandveld with little surface water. Droughts occur approximately every seven years. Rainfall, when it occurs, is mostly in the summer, from October through March.[1]
+
+
+
+Google Map / Panoramio / Machmut Mofidi (http://www.panoramio.com/user/1709060?with_photo_id=27376678)]]></description>
+			<Point>
+				<coordinates>23.656311000000002,-21.171606,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Maputaland coastal forest mosaic</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/33012457.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Maputaland_coastal_forest_mosaic)
+
+
+
+The Maputaland coastal forest mosaic is an ecoregion of the subtropical moist broadleaf forests Biome, on the Indian Ocean coast of Southern Africa. It covers an area of 30,200 square kilometres (11,700 sq mi) in southern Mozambique, Swaziland, and the KwaZulu-Natal Province of South Africa. Mozambique's capital Maputo lies within the ecoregion.
+
+
+The Maputaland coastal forest mosaic occupies the humid coastal strip along the Indian Ocean, inland to the Lebombo Mountains for much of its length. This is part of a strip of moist coastal forests that extend along Africa's Indian Ocean coast from southern Somalia to South Africa. The northern limit of the ecoregion is north of the mouth of the Limpopo River, near Xai-Xai in Mozambique, where the forests transition to the Southern Zanzibar-Inhambane coastal forest mosaic. The southern limit is near Cape St. Lucia in KwaZulu-Natal, where the Maputaland forests transition to the Kwazulu-Cape coastal forest mosaic.
+
+
+The ecoregion has a seasonally moist, tropical to subtropical climate. Rainfall ranges from 1000 mm per year near the coast to less than 600 mm per year inland. Most of the rain falls in the summer months. The coastal strip includes areas of wetland, the largest of which is Lake St. Lucia, the largest estuarine system in Africa.
+
+
+
+Google Map / Panoramio / edu-grn (http://www.panoramio.com/user/4180469?with_photo_id=33012457)]]></description>
+			<Point>
+				<coordinates>31.731262,-26.624135,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Madagascar lowland forests</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/61743996.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Madagascar_lowland_forests)
+
+The ecoregion constitutes a narrow strip of lowland forests between Madagascar's east coast and the mountainous central highlands, from sea level to 800 metres elevation. It covers an area of approximately 112,600 square kilometres. The ecoregion is under the direct influence of the moist southeast trade winds, which maintain a warm, humid climate.
+
+The lowland forests extend from Marojejy in the north to the southeast corner of the island. At the northern edge of ecoregion around Vohemar, the moist forests transition to the drier Madagascar dry deciduous forests ecoregion. To the east, at approximately 800 metres elevation, the lowland forests transition gradually to the Madagascar subhumid forests ecoregion. The southern end of the ecoregion lies at the crest of the Anosyennes Mountains, where a narrow belt of dry transitional forest marks the transition to the xeric Madagascar spiny thickets ecoregion in the mountains' rain shadow.
+
+
+
+Google Map / Panoramio / Spöck images (http://www.panoramio.com/user/1403421?with_photo_id=61743996)]]></description>
+			<Point>
+				<coordinates>47.596936,-21.378538,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Madagascar subhumid forests</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/84763760.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Madagascar_subhumid_forests)
+
+
+The Madagascar subhumid forests historically covered most of Madagascar's Central Highlands, above approximately 800 meters elevation on the east and above 600 meters elevation on the west. The ecoregion has an area of approximately 199,500 square kilometers (77,000 sq mi). The highlands catch the wet northeast trade winds, while the areas to the south, west, and north lie in the drier rain shadow of the highlands. The subhumid forests are bounded by the humid Madagascar lowland forests along the coastal strip to the east, by the Madagascar dry deciduous forests to the north, northwest and west, and by the xeric Madagascar succulent forests and Madagascar spiny thickets to the southwest and south. In four areas above 1800–2000 meters elevation, the subhumid forests yield to the montane Madagascar ericoid thickets. Montagne d'Ambre near the northern tip of the island, contains a significant pocket of subhumid forest, (surrounded at lower elevations by dry deciduous forest), as do Ankaratra, upland near Tsaratanana, Andringitra Massif, Ambohitantely Reserve, and the Ambohijanahary area. The subhumid forests ecoregion also includes the disjunct Analavelona and Isalo massifs to the southwest, surrounded by succulent forests at lower elevations. the region includes wetlands such as Lake Alaotra. The Sambirano region in the northwest is a particular centre of endemism.
+
+
+
+
+Google Map / Panoramio / 
+
+manoir “manoirrouge”]]></description>
+			<Point>
+				<coordinates>47.524967,-18.766808,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Comoros forests</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/13508725.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Comoros_forests)
+
+
+These volcanic islands are rich in wildlife with endemic species including four endangered bird species living on Mount Karthala, the large active volcano on Grand Comoro Island. The islands have a wet tropical climate with a rainy season between October and April.[1]
+
+
+
+Google Map / Panoramio / kiblar (http://www.panoramio.com/user/2177844?with_photo_id=13508725)]]></description>
+			<Point>
+				<coordinates>43.330507,-11.481118,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Granitic Seychelles forests</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/7640803.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Granitic_Seychelles)
+
+
+The native vegetation of these islands consisted of palm, pandanus screw pines, and hardwood forest with mossy, ferny, cloud forest at higher elevations. The flora shows links with both Madagascar to the south and the African mainland to the west. Having been so isolated the islands are rich in enedmic plant life including palm trees such as the Coco de Mer.
+The unique lizard and reptile populations of the Seychelles include seven species of caecilian and the iconic giant tortoises, Dipsochelys arnoldi on the granitic Seychelles, and Dipsochelys dussumieri on Aldabra. There have been some extinctions but the remaining endemic birds of these islands include the Seychelles Scops-owl (Otus insularis) and the Seychelles paradise-flycatcher (Terpsiphone corvina).
+
+
+
+Google Map / Panoramio / dm | photography (http://www.panoramio.com/user/295320?with_photo_id=7640803)]]></description>
+			<Point>
+				<coordinates>55.435553,-4.651455,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-F4EB37</styleUrl>
+			<name>Savanna near Brasilandia de Minas, Brazil</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/24446341.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / pedro magalhães gome…]]></description>
+			<Point>
+				<coordinates>-45.966754,-16.888824,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-F4EB37</styleUrl>
+			<name>Savanna near Deansville State Wildlife Area in Wisconsin</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/48307496.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / GCR]]></description>
+			<Point>
+				<coordinates>-89.14032,43.253455,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-F4EB37</styleUrl>
+			<name>Savanna in the Northern Territory of Australia</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/15133289.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Wibo Hoekstra (http://www.panoramio.com/user/1662136?with_photo_id=15133289)]]></description>
+			<Point>
+				<coordinates>136.156503,-19.842647,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-F4EB37</styleUrl>
+			<name>Savanna near the Taita Hills Wildlife Sanctuary, Kenya.</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/55866897.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / lowo]]></description>
+			<Point>
+				<coordinates>38.22298,-3.519418,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-F4EB37</styleUrl>
+			<name>Dry Steppe near Abag, Inner Mongolia</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/76732832.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / luliang28 (http://www.panoramio.com/user/1102125?with_photo_id=76732832)]]></description>
+			<Point>
+				<coordinates>114.570923,44.186143,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-F4EB37</styleUrl>
+			<name>Dry Steppe near the Kgalagadi Transfrontier Park in Botswana</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/9906837.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / David Udbjorg (http://www.panoramio.com/user/12054?with_photo_id=9906837)]]></description>
+			<Point>
+				<coordinates>20.882263,-25.162687,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-F9F7A6</styleUrl>
+			<name>Dry Steppe in Western Australia</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/15929190.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / purple_jellie (http://www.panoramio.com/user/2422878?with_photo_id=15929190)]]></description>
+			<Point>
+				<coordinates>127.265625,-25.61181,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-F4EB37</styleUrl>
+			<name>Dry Steppe near Ghayen, Iran</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/26899516.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / nasibe (http://www.panoramio.com/user/3631714?with_photo_id=26899516)]]></description>
+			<Point>
+				<coordinates>58.911438,33.83392,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-DB4436</styleUrl>
+			<name>Arid Desert in the Rub' al Khali section of Saudi Arabia</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/16701021.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / önder karabuğa (http://www.panoramio.com/user/2549223?with_photo_id=16701021)]]></description>
+			<Point>
+				<coordinates>50.713234,20.302774,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-DB4436</styleUrl>
+			<name>Desert Dust Storm in Iraq</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Sandstorm_in_Al_Asad%2C_Iraq.jpg/1200px-Sandstorm_in_Al_Asad%2C_Iraq.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / USMC / Public Domain]]></description>
+			<Point>
+				<coordinates>44.145126,32.393878,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-DB4436</styleUrl>
+			<name>Arid Desert at Grande mer de Sable, Libya</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/4538818.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Fouderg]]></description>
+			<Point>
+				<coordinates>23.299255,28.483177,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-DB4436</styleUrl>
+			<name>Arid Sahara Desert in Algeria</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/92101308.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / MKoudia]]></description>
+			<Point>
+				<coordinates>7.928009000000001,25.773924,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-DB4436</styleUrl>
+			<name>Arid Tengger Desert in Inner Mongolia</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/30007253.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / wxws4000 (http://www.panoramio.com/user/3263969?with_photo_id=30007253)]]></description>
+			<Point>
+				<coordinates>105.24353,38.698372,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-DB4436</styleUrl>
+			<name>Cold desert: snow surface at Dome C Station, Antarctica</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/b/bd/AntarcticaDomeCSnow.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Stephen Hudson]]></description>
+			<Point>
+				<coordinates>122.92646799999999,-75.295877,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-DB4436</styleUrl>
+			<name>Arid Taklamakan Desert in China</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/498712.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map /Panoramio / zhou1 (http://www.panoramio.com/user/107688?with_photo_id=498712)]]></description>
+			<Point>
+				<coordinates>85.825195,39.402244,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-DB4436</styleUrl>
+			<name>Arid Desert near Ica, Peru</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/78772713.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Hans Sterkendries (http://www.panoramio.com/user/68287?with_photo_id=78772713)]]></description>
+			<Point>
+				<coordinates>-75.963013,-14.092625000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-DB4436</styleUrl>
+			<name>Arid Kaokoveld desert in Angola and Nambia</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/4207723.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / haanes (http://www.panoramio.com/user/810773?with_photo_id=4207723)]]></description>
+			<Point>
+				<coordinates>12.160492,-17.201146,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-DB4436</styleUrl>
+			<name>Semi Arid Sonoran Desert In Arizonia</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/3254276.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Broughtonr (http://www.panoramio.com/user/658972?with_photo_id=3254276)]]></description>
+			<Point>
+				<coordinates>-112.926111,32.26,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-DB4436</styleUrl>
+			<name>Semi Arid Gobi Desert in Mongolia</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/68797224.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / ABC DEF (http://www.panoramio.com/user/1357047?with_photo_id=68797224)]]></description>
+			<Point>
+				<coordinates>110.398865,44.286503,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-DB4436</styleUrl>
+			<name>Semi Arid Desert near Abeche, Chad</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/92893252.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / JOSEP Mª LLONC SABAT]]></description>
+			<Point>
+				<coordinates>21.115723,15.135764,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>Hobyo grasslands and shrublands in Somalia</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/100720421.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / mo haji (http://www.panoramio.com/user/7689238?with_photo_id=100720421)]]></description>
+			<Point>
+				<coordinates>48.428764,5.504931,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>Carnarvon Xeric Shrublands, Western Australia</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/65402929.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / AustralianNomads (http://www.panoramio.com/user/6573367?with_photo_id=65402929)]]></description>
+			<Point>
+				<coordinates>115.926018,-24.876470000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>San Lucan xeric scrub and desert</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/45984508.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Edward Rooks (http://www.panoramio.com/user/134771?with_photo_id=45984508)]]></description>
+			<Point>
+				<coordinates>-110.197282,23.42851,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-FFFFFF</styleUrl>
+			<name>Montane vegetation at the Waimea Canyon State Park in Hawaii</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/19927123.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / pa1zz (http://www.panoramio.com/user/2873871?with_photo_id=19927123)]]></description>
+			<Point>
+				<coordinates>-159.659586,22.051357,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-FFFFFF</styleUrl>
+			<name>Montane Forest in the Sierra Nevada of California</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/7978131.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Harry and Marilyn (http://www.panoramio.com/user/1417934?with_photo_id=7978131)]]></description>
+			<Point>
+				<coordinates>-119.56337500000001,37.738124,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-FFFFFF</styleUrl>
+			<name>Montane Forest in the Sierra Nevada subalpine zone</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/23761616.jpg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-118.74037,36.681877,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Fossil Palm Fronds, Cretaceous, at Fossil Trace Golf Course near Boulder, CO</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/106147128.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipdia: (http://en.wikipedia.org/wiki/Northeastern_Himalayan_subalpine_conifer_forests)
+
+Northeastern Himalayan subalpine conifer forests cover 46,300 square kilometres (17,900 sq mi) in the eastern Himalaya, occurring between 2,500 and 4,200 metres (8,200 and 13,800 ft). They occur in along the border of Tibet and India's Arunachal Pradesh state. They are also found in so-called "inner valleys", which are valleys that are shielded from the South Asian monsoon by mountain ridges but still receive enough precipitation to support thriving forests.
+
+In higher elevations, this ecoregion grades into Eastern Himalayan alpine shrub and meadows. In lower elevations it grades into Eastern Himalayan broadleaf forests.
+
+
+
+Google Map / Panoramio  Flower Breeder]]></description>
+			<Point>
+				<coordinates>94.998779,28.434883,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Emin Valley steppe</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/39186648.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Emin_Valley)
+
+
+
+The Emin Valley has a steppe ecosystem of mostly grasslands; with two saline lakes, Alakol and Sasykkol; and mountains with temperate climates.
+
+
+The Emin Valley Steppe is a Palearctic ecoregion in the Temperate grasslands, savannas, and shrublands Biome. It lies within the vast and larger Eurasian Steppe.
+
+
+
+Google Map / Panoramio / Aidos Malybaye (http://www.panoramio.com/user/876417?with_photo_id=39186648)v (http://www.panoramio.com/user/876417?with_photo_id=39186648)]]></description>
+			<Point>
+				<coordinates>82.018518,47.349117,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Pontic-Caspian steppe</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/58483636.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Pontic-Caspian_steppe)
+
+
+The Pontic-Caspian steppe is the vast steppeland stretching from the northern shores of the Black Sea (called Pontus Euxinus [Εὔξεινος Πόντος] in antiquity) as far east as the Caspian Sea, from Moldova and western Ukraine across the Southern Federal District and the Volga Federal District of Russia to western Kazakhstan, forming part of the larger Eurasian steppe, adjacent to the Kazakh steppe to the east. It is a part of the Palearctic temperate grasslands, savannas, and shrublands ecoregion of the temperate grasslands, savannas, and shrublands biome.
+
+
+Google Map / Panoramio / RBO_33 (http://www.panoramio.com/user/6283104?with_photo_id=58483636)]]></description>
+			<Point>
+				<coordinates>42.4086,50.661649,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Scandinavian and Russian taiga</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/78168165.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Scandinavian_and_Russian_taiga)
+
+The Scandinavian and Russian taiga consists of coniferous forests dominated by Pinus sylvestris (in drier locations), often with an understory of Juniperus communis, Picea abies and Picea obovata and a significant admixture of Betula pubescens and Betula pendula. Larix sibirica is characteristic of the eastern part of the ecoregion.
+
+It is bordered by the ecoregions of Scandinavian coastal conifer forests (west), Scandinavian Montane Birch forest and grasslands (northwest and upwards in the higlands and mountains), Kola Peninsula tundra (North), Northwest Russian-Novaya Zemlya tundra (northeast), Urals montane tundra and taiga (east) and Sarmatic mixed forests (south), by the Baltic Sea and White Sea. Geobotanically, it belongs to the Northeastern European floristic province of the Circumboreal Region of the Holarctic Kingdom.
+
+
+
+Google Map / Panoramio / hronty (http://www.panoramio.com/user/3423622?with_photo_id=78168165)]]></description>
+			<Point>
+				<coordinates>25.9758,61.994376,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Eastern Mediterranean conifer-sclerophyllous-broadleaf forests</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/34423974.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Eastern_Mediterranean_conifer-sclerophyllous-broadleaf_forests)
+
+
+The Eastern Mediterranean conifer-sclerophyllous-broadleaf forests ecoregion, in the Mediterranean forests, woodlands, and scrub biome, is of the eastern Mediterranean Basin.
+
+
+The ecoregion covers an area of 143,800 square kilometers (55,500 sq mi), and covers portions of Israel, the Palestinian territories, Jordan, Lebanon, Syria, and Turkey.
+
+ 
+Google Map / Panoramio / Hussam Barri]]></description>
+			<Point>
+				<coordinates>36.67489,36.19627400000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion:  Peninsular Malaysian peat swamp forests</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/19799093.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Peninsular_Malaysian_peat_swamp_forests)
+
+
+The ecoregion covers an area of 3,600 square kilometers (1,400 sq mi) on both the eastern and western sides of the peninsula. The peat swamp forests have formed over hundreds of years, as sediment and organic debris deposited by rivers are trapped behind mangroves, gradually building up a layer of waterlogged, acidic, nutrient-poor soil. These forests are less diverse than the surrounding Peninsular Malaysian rain forests, but are home to many endangered animals.
+
+
+
+Google Map / Panoramio / GEO-Reini (http://www.panoramio.com/user/933392?with_photo_id=19799093)]]></description>
+			<Point>
+				<coordinates>98.246564,8.5493,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion; South Deccan Plateau dry deciduous forests</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/100845675.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/South_Deccan_Plateau_dry_deciduous_forests)
+
+The South Deccan Plateau dry deciduous forests is a dry broadleaf forest ecoregion of southern India. The ecoregion lies in the southern Deccan Plateau, within the Western Ghats' rain shadow. It receives 900 to 1,500 mm (35 to 59 in) of rain annually, much less than the North Western Ghats moist deciduous forests and South Western Ghats moist deciduous forests that lie to the west.[1] The ecoregion covers the southern portion of Karnataka's Malenadu region, extending south into the Kongu Nadu region of eastern Tamil Nadu.
+
+
+The South Deccan Plateau dry deciduous forests receive most of their rainfall with the June–September southwest monsoon, and are characterized by tall trees that drop their leaves during the dry winter and spring months. Much of the forest has been degraded through over-use, and thorn forests and shrub thickets are common. To the north and east, the dry deciduous forests transition to the Deccan thorn scrub forests.
+
+ 
+Google Map / Panoramio / Kamalakar Anthati (http://www.panoramio.com/user/7837607?with_photo_id=100845675)]]></description>
+			<Point>
+				<coordinates>76.70105,17.025273,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Sierra Madre Occidental pine-oak forests</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/39270558.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Sierra_Madre_Occidental_pine-oak_forests)
+
+
+
+The Sierra Madre Occidental run north to south in western Mexico from the centre of the country up towards the United States border, where the northern extent of the ecoregion consists of patches of forest on the Madrean Sky Islands sticking up out of the desert in the Mexican state of Sonora and in the US in Arizona and New Mexico. This is a dramatic landscape of steep mountains cut through with canyons including Copper Canyon, the deepest in North America.
+
+
+The ecoregion consists of a complex of high elevation pine-oak forest enclaves surrounded at lower elevations by deserts and xeric shrublands and tropical dry forests at lower elevations, including the Sonoran Desert to the northwest, the Chihuahuan Desert to the northeast and east in Arizona, the Meseta Central matorral and Central Mexican matorral to the southeast, and the Sinaloan dry forests to the west and southwest. The Sierra Madre Occidental pine-oak forests are one of the Madrean pine-oak forests ecoregions, which are found throughout the Sierra Madre ranges of Mexico and the US Southwest.
+
+
+
+Google Map / Panoramio / 
+
+AmorDeDios06]]></description>
+			<Point>
+				<coordinates>-107.479248,26.851029,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Eastern forest-boreal transition</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/59695647.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Eastern_forest-boreal_transition)
+
+
+
+The ecoregion includes most of the southern Canadian Shield in Ontario and Quebec north and west of the Saint Lawrence River lowlands including the eastern shores of Lake Superior and other areas of the Great Lakes, Lake Timiskaming, the southern Laurentian Mountains, Lake Nipissing, Quebec City, the Saguenay River and parts of Georgian Bay, Greater Sudbury/North Bay, Ontario, Saguenay, Quebec, the Clay Belt and Temagami in Ontario. There is a separate section of the ecoregion in the Adirondack Mountains in upper New York State, USA. However the higher elevations of the Laurentian Mountains and the northern Appalachian Mountains in Canada constitute the Eastern Canadian forests ecoregion.
+
+
+The region has a humid continental climate consisting of warm summers and cold, snowy winters, and is warmer towards the south.[2]
+
+
+
+Google Map / Panoramio / igsav]]></description>
+			<Point>
+				<coordinates>-80.002441,45.636127,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: North Central Rockies forest</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/5998284.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/North_Central_Rockies_forest)
+
+This ecoregion is located in the Rocky Mountains regions of southeastern British Columbia, southwestern Alberta, northwestern Montana and northern Idaho. The climate here is varied. Areas west of the Continental Divide experience greater precipitation and the moderating effects of the Pacific Ocean, while areas east of the Divide experience a drier, more continental climate. In the Canadian portion of the ecoregion, mean annual temperatures range from 3.5 °C (38.3 °F) in the east to 5.5 °C (41.9 °F) west, summer mean temperatures range from 12.5 °C (54.5 °F) to 14.5 °C (58.1 °F), and average winter temperatures range from −3.5 °C (25.7 °F) to −6.5 °C (20.3 °F). Valleys experience warm, wet summers and mildly cold, snowy winters, while subalpine zones experience cool, wet summers with the possibility of frosts, and very cold, snowy winters. Precipitation is moderate to high, with valleys usually receiving between 500 millimetres (20 in) and 800 millimetres (31 in), and high elevations receiving well over 1,000 millimetres (39 in).
+
+
+
+Google Map / Panoramio / Conrad Nay (http://www.panoramio.com/user/1110759?with_photo_id=5998284)]]></description>
+			<Point>
+				<coordinates>-117.57019,49.624946,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Western Australian Mulga shrublands</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/88893688.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Western_Australian_Mulga_shrublands)
+
+
+
+This is a hot, dry area with little rainfall.
+
+
+The region consists of the Gascoyne, and Murchison bioregions of the Interim Biogeographic Regionalisation for Australia (IBRA).[2][3]
+
+
+
+Google Map / Panoramio / Alan McCall (http://www.panoramio.com/user/7613133?with_photo_id=88893688)]]></description>
+			<Point>
+				<coordinates>123.079834,-27.578895,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Caatinga enclaves moist forests</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/73057515.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Caatinga_enclaves_moist_forests)
+
+
+The Caatinga enclaves moist forests cover an area of 4,800 km2 (1,900 sq mi) in the state of Ceará, in northeastern Brazil. The enclaves are found mostly on four major regional plateaus, the Chapada do Araripe,Serra de Ibiapaba, Serra de Baturité, and Serra da Borborema. The enclaves are found on windward slopes and plateaus between 600 and 800 m (2,000 and 2,600 ft) elevation.
+
+
+
+Google Map / Panioramio / Marcelo Penha]]></description>
+			<Point>
+				<coordinates>-40.591736000000004,-7.731022000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Karakoram-West Tibetan Plateau alpine steppe</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/50878082.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Karakoram-West_Tibetan_Plateau_alpine_steppe)
+
+
+The Karakoram-West Tibetan Plateau alpine steppe is an area of high-elevation grasslands covering 143,300 square kilometres (55,300 sq mi). It is centered on the Karakoram Range, west of the Himalaya Range. It also includes nearby ranges, such as the Ladakh Range.
+
+
+
+Google Map / Panoramio  / R.K. Telangba]]></description>
+			<Point>
+				<coordinates>77.601929,34.200445,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Beringia lowland tundra</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/59674038.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Beringia_lowland_tundra):
+
+
+These are areas of flat, wet, lowland on the Bering Sea coast of Alaska north as far as the Kotzebue Sound, and on the eastern coasts of the offshore St Lawrence Island and St. Matthew Island. Lakes and ponds cover almost a quarter of the area, and wetlands cover most of it. The southern Bristol Bay end of this coast receives much more rainfall than Kotzebue Sound in the north.
+
+
+
+Google Map / Panoramio / Scott Babcock (http://www.panoramio.com/user/1250019?with_photo_id=59674038)]]></description>
+			<Point>
+				<coordinates>-165.658722,65.834841,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Araucaria moist forests</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/24155757.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Araucaria_moist_forests)
+
+
+
+The moist forests cover an area of 216,100 square kilometres (83,400 sq mi), encompassing a region of mountains and plateaus in the Brazilian states of São Paulo, Paraná, Santa Catarina, and Rio Grande do Sul, and extending into Misiones Province of Argentina.
+
+
+The ecoregion lies above 500 metres (1,600 ft), rising to 1,600 metres (5,200 ft) elevation on the high slopes of the Serra da Mantiqueira.
+
+
+The ecoregion is bounded by the Paraná-Paraíba interior forests to the north, west, and south, the Cerrado savannas and shrublands to the northeast, The Serra do Mar coastal forests to the east, and the Uruguayan savanna to the southwest.
+
+
+
+Google Map / Panoramio / Ana Maria Oliveira R…]]></description>
+			<Point>
+				<coordinates>-50.072422,-29.204169,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Humid Pampas</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/88133546.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Humid_Pampas)
+
+
+
+Like the Pampas in general, the region's terrain is predominantly hilly and of a temperate climate, though rich mollisols are more abundant here than to the west, where soils of loessic origin are more common. Except for a few bluffs near the Paraná and Río de la Plata rivers, as well as the Tandilia and Ventania mountain ranges to the south, the region's slope rarely exceeds 6 degrees. It covers Buenos Aires Province almost completely, the centre and south of Santa Fe Province, most of Córdoba Province and the eastern third of La Pampa Province, totalling at least 600,000 km².
+
+
+The Uruguayan savanna, which lies east of these rivers in Entre Ríos Province of Argentina, Uruguay and the south of Brazil, is sometimes considered part of the Humid Pampa. The Uruguayan savanna is not as flat as the named aforementioned areas.
+
+
+The flatlands are also interrupted by low hill's ranges like Tandilia in the southeast, namely at Sierra de los Padres, Balcarce, Olavarría, Tandil and like the higher system of the Sierra de la Ventana to the south, near Bahía Blanca. Finally, there are also some dunes at the Atlantic coast, such as at the city of Banderaló.
+
+ 
+Google Map / Panoramio / raulrojasr]]></description>
+			<Point>
+				<coordinates>-59.13391099999999,-35.049111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Southern Andean steppe</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/11354838.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Southern_Andean_steppe)
+
+
+This ecoregion is found from 3,500 to 5,000 metres (11,500 to 16,400 ft) in the north to 1,800 to 3,000 metres (5,900 to 9,800 ft) in the south. At higher elevations are found permanent snow, glaciers, and ice fields. At lower elevations, this ecoregion grades into Chilean matorral and Valdivian temperate forests to the west and Argentine monte to the east. To the north it transitions to the Central Andean dry puna and to the south the Patagonian steppe.[1]
+This ecoregion has a cold desert climate, Köppen climate classification BWk. Precipitation falls mainly in winter.
+
+
+
+Google Map / Panoramio / Carlos Muñoz Molina (http://www.panoramio.com/user/104755?with_photo_id=11354838)]]></description>
+			<Point>
+				<coordinates>-70.349579,-34.65072,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Los Llanos</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/760959.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Los_Llanos_(South_America))
+
+
+
+Los Llanos (Spanish pronunciation: [ˈʎanos], locally: [ˈʝanos], "The Plains") is a vast tropical grassland plain situated to the east of the Andes in Colombia and Venezuela, in northwestern South America. It is an ecoregion of the flooded grasslands and savannas biome.
+
+
+The Llanos' main river is the Orinoco, which forms part of the border between Colombia and Venezuela and is the major river system of Venezuela.[1]
+
+
+
+Google Map / Panoramio / Alex Dios (http://www.panoramio.com/user/132755?with_photo_id=760959)]]></description>
+			<Point>
+				<coordinates>-67.565918,6.734849,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: South Florida rocklands</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/73816713.jpg http://upload.wikimedia.org/wikipedia/commons/thumb/4/42/South_Florida_rocklands_on_Everglades_National_Park_Long_Pine_Key_Nature_Trail.jpg/800px-South_Florida_rocklands_on_Everglades_National_Park_Long_Pine_Key_Nature_Trail.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/South_Florida_rocklands)
+
+
+The pine rockland community canopy is dominated almost exclusively by South Florida slash pine (Pinus elliotti var. densa). Beneath this canopy lies a rich understory composed of grasses, sedges, palms, vines, and shrubs of temperate and tropical origin, such as broomsedge bluestem (Andropogon virginicus), coontie (Zamia integrifolia), fivepetal leaf-flower (Phyllanthus pentaphyllus), Florida bluestem (Andropogon floridanus), Florida clover ash (Tetrazygia bicolor), Florida Keys noseburn (Tragia saxicola), Pineland Snakeherb (Dyschoriste angusta), Pineland spurge (Euphorbia pinetorum), silver bluestem (Bothriochloa saccharoides), and Beyrich threeawn (Aristida beyrichiana).[4] The pine rockland community is South Florida’s most floristically diverse plant community and includes several endemic species. A subclimatic community, pine rocklands have depended on wildfire to keep them from transitioning into hardwood hammocks.
+
+
+
+Google Map / Panoramio / Franco Tobias (http://www.panoramio.com/user/2281089?with_photo_id=73816713)
+
+Wikipedia Commons / Miguel.v (http://commons.wikimedia.org/wiki/User:Miguel.v)]]></description>
+			<Point>
+				<coordinates>-80.599823,25.649573,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Appalachian-Blue Ridge forests</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/25001440.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Appalachian-Blue_Ridge_forests)
+
+
+
+The Appalachian-Blue Ridge forests is an ecoregion in the Temperate broadleaf and mixed forests Biome, in the Eastern United States. The ecoregion is found in the central and southern Appalachian Mountains, including the Ridge-and-Valley Appalachians and the Blue Ridge Mountains. It covers an area of about 61,500 square miles (159,000 km2) in: northeast Alabama and Georgia, eastern Tennessee, western North Carolina, Virginia, Maryland, and central Pennsylvania; and small extensions into West Virginia, Kentucky, New Jersey, and New York.
+
+
+They are one of the world's richest temperate deciduous forests in terms of biodiversity, there are an unusually high number of species of both flora and fauna, as well as a high number of endemic species. The reasons for this are the long-term geologic stability of the region, its long ridges and valleys which serve both as barrier and corridors, and their general north-south alignment which allowed habitats to shift southward during ice ages. The mountains also contain a large variety of diverse landscapes, microclimates and soils all constituting microhabitats allowing many refugia areas and relict species to survive and thrive.[2]
+
+
+
+Google Map / Panoramio / MADZRXMATT (http://www.panoramio.com/user/310989?with_photo_id=25001440)]]></description>
+			<Point>
+				<coordinates>-79.250565,37.820633,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Mississippi lowland forests</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/9005116.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia:  (http://en.wikipedia.org/wiki/Mississippi_lowland_forests)
+
+
+Located on the Mississippi Alluvial Plain from Louisiana north to the southern edge of Illinois, the original forest cover of the Mississippi lowland forests was primarily bottomland hardwood forests, often subject to seasonal flooding which dictates the growth rate and composition. The forests historically occupied over 10,000,000 hectares of thick well-established forest of cypress (Taxodium spp.), hickory, oak and cedars similar to that found in the Middle Atlantic Coastal Forests region. However nearly all the original forest along the Mississippi has now been cleared.[3] The Mississippi floodplain is distinct from the surrounding countryside which is higher and drier.
+
+
+
+Google Map / Panoramio / JBfresher]]></description>
+			<Point>
+				<coordinates>-91.468391,31.321967000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1379</styleUrl>
+			<name>Ecoregion: Klamath Mountains </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/53436278.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Klamath_Mountains_(ecoregion))
+
+
+
+The ecoregion was unglaciated during the Pleistocene epoch, when it served as a refuge for northern plant species. Its mix of granitic, sedimentary, metamorphic, and extrusive rocks contrasts with the predominantly volcanic rocks of the Cascades ecoregion to the northeast. The mild, subhumid climate of the region is characterized by a lengthy summer drought. It supports a mosaic of both northern Californian and Pacific Northwestern conifers and hardwoods.[3]
+
+
+The Klamath Mountains ecoregion is a vast, well-protected region that is sparsely populated. While the Klamath Mountains do not have the charismatic mega-fauna that make other National Parks or vast wilderness areas attractive to visitation, the plant diversity offers an enjoyable hiking experience.[citation needed]
+
+
+
+Google Map / Panoramio / Larry Butcher]]></description>
+			<Point>
+				<coordinates>-123.21304299999998,41.501892,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1037'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1037-biz-house.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1199'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1199-fac-help.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1201'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1201-fac-info-alt.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1379'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1379-rec-park.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-009D57'>
+			<IconStyle>
+				<color>ff579D00</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-4186F0'>
+			<IconStyle>
+				<color>ffF08641</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-960-009D57'>
+			<IconStyle>
+				<color>ff579D00</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-960-4186F0'>
+			<IconStyle>
+				<color>ffF08641</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-960-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-960-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-960-F9F7A6'>
+			<IconStyle>
+				<color>ffA6F7F9</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-960-FFDD5E'>
+			<IconStyle>
+				<color>ff5EDDFF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-961-009D57'>
+			<IconStyle>
+				<color>ff579D00</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-961-4186F0'>
+			<IconStyle>
+				<color>ffF08641</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-961-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-961-F4B400'>
+			<IconStyle>
+				<color>ff00B4F4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-961-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-961-FFDD5E'>
+			<IconStyle>
+				<color>ff5EDDFF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-961-FFFFFF'>
+			<IconStyle>
+				<color>ffFFFFFF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

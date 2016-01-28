@@ -1,0 +1,1167 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Santa Barbara Project",
+                "desc": "Company: &nbsp;North American Weather Consultants, Inc.<div><br>&nbsp;<\/div><div>Main Contact\/Website: http:\/\/www.nawcinc.com<\/div><div><br>&nbsp;<\/div><div>Type of Project: &nbsp;Operational<\/div><div><br>&nbsp;<\/div><div>Operational Period: Winter<\/div><div><br>&nbsp;<\/div><div>Target area size: &nbsp;500 square miles<\/div><div><br>&nbsp;<\/div><div>Type of Program: Rain Enhancement<br><br>&nbsp;<\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.812412326,
+                    34.6333283502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boise River Project",
+                "desc": "<div dir=\"ltr\">Company Operating Project:  North American Weather Consultants<br><br>Main Contact\/Website: http:\/\/www.nawcinc.com<br><br>Type of Project: Operational<br><br>Operational Period: Winter<br><br>Target area Size: 3,500 sq. miles<br><br>Type of Program: Snowpack Augmentation<\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.249657,
+                    44.185684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "West Texas Weather Modification Association",
+                "desc": "<div dir=\"ltr\">Company:  West Texas Weather Modification Assocation<br><br>Main Contact\/Website:  Craig Funke; http:\/\/wtwma.com<br><br>Type of Project: Operational<br><br>Operational Period:  March - October (Annual)<br><br>Target area size: 5.5 million acres<br><br><br>Type of Program: Rain Enhancement<br><br><br><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.973579,
+                    31.085135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "North Dakota Cloud Modification Project (District 1)",
+                "desc": "<div dir=\"ltr\">Company: ND Atmospheric Resource Board<br><br>Main Contact\/Website:  Darin Langerud http:\/\/swc.nd.gov\/ard<br><br>Type of Project: Operational <br><br>Operational Period:  June 1- August 31, annually<br> <br>Target area size:  1,419 square miles<br><br>Type of Program:  Hail Suppression\/Rain Enhancement<br><br> <\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.429024,
+                    46.183132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "North Dakota Cloud Modification Project (District 2)",
+                "desc": "<div dir=\"ltr\">Company:  ND Atmospheric Resource Board<br><br>Main Contact\/Website:  Darin Langerud\/ http:\/\/swc.nd.gov\/ard<br><br>Type of Project:  Operational<br><br>Operational Period:  June 1- August 31, annually<br><br>Target area size:  9,006 square miles<br><br>Type of Program:  Hail Suppression\/Rain Enhancement<\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.400546793,
+                    48.3012660952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "South Texas Weather Modification Association",
+                "desc": "<div dir=\"ltr\">Company:  South Texas Weather Modification Association<br><br>Main Contact\/Website:  Tommy Shearrer \/ http:\/\/southtexasweathermodification.com<br> <br>Type of Project:  Operational<br><br>Operational Period:  Year-round<br><br>Target area size:  10,318 square miles<br><br>Type of Program:  Rain Enhancement<\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.517494,
+                    28.955444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kings River Project",
+                "desc": "<div dir=\"ltr\">Company Operating Project:  North American Weather Consultants<br><br>Main Contact\/Website:  http:\/\/www.nawcinc.com<br><br>Type of Project:  Operational<br><br>Operational Period:  Winter<br><br>Target area size:  2,225 square miles<br><br>Type of Program:  Snowpack Augmentation<br><br><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.10553,
+                    36.921352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gunnison Project",
+                "desc": "<div dir=\"ltr\">Company Operating Project:  North American Weather Consultants<br><br>Main Contact\/Website:  http:\/\/www.nawcinc.com<br><br>Type of Project:  Operational<br><br>Operational Period:  Winter<br><br>Target area size:  3,000 square miles<br><br>Tye of Program:  Snowpack Augmentation<br><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.930405,
+                    38.550167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Southwest Texas Rain Enhancement Association",
+                "desc": "<div dir=\"ltr\">Company Operating Project:  Southwest Texas Rain Enhancement Association<br><br>Main Contact\/Website:  Ed Walker \/ http:\/\/swtrea.org<br><br>Type of Project:  Operational<br><br>Operational Period:  March 15 - November 15, annually<br> <br>Target area size:  9,133 square miles.  Uvalde, Zavala, Dimmit, LaSalle and Webb counties<br><br>Type of Program:  Rain Enhancement \/ Hail Suppression<\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.860611,
+                    28.521929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "High Uintas",
+                "desc": "<div dir=\"ltr\">Company Operating Project:  North American Weather Consultants<br><br>Main Contact\/Website:  http:\/\/www.nawcinc.com<br><br>Type of Project:  Operational<br><br>Target area size:  1,000 square miles<br><br>Type of Program:  Snowpack Augmentation<br><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.854416,
+                    40.729496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Little Cottonwood Canyon",
+                "desc": "<div dir=\"ltr\">Company Operating Project:  North American Weather Consultants<br><br>Main Contact\/Website:  http:\/\/www.nawcinc.com<br><br>Type of Project:  Operational<br><br>Operational Period:  Winter<br><br>Type of Program:  Snowpack Augmentation<br><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.651314,
+                    40.581806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Northern Utah",
+                "desc": "<div dir=\"ltr\">Company Operating Project:  North American Weather Consultants<br><br>Main Contact\/Website:  http:\/\/www.nawcinc.com<br><br>Type of Project:  Operational<br><br>Operational Period:  Winter<br><br>Target area size:  1,250 square miles<br><br>Type of Program:  Snowpack Augmentation<br><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.616859,
+                    41.673409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Central\/Southern Utah",
+                "desc": "<div dir=\"ltr\">Company Operating Project:  North American Weather Consultants<br><br>Main Contact\/Website:  http:\/\/www.nawcinc.com<br><br>Type of Project:  Operational<br><br>Operational Period:  Winter<br><br>Target area size:  10,000 square miles<br><br>Type of Program:  Snowpack Augmentation<br><br><br><br><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.129234,
+                    38.48394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Western Unitas",
+                "desc": "<div dir=\"ltr\">Company Operating Project:  North American Weather Consultants<br><br>Main Contact\/Website:  http:\/\/www.nawcinc.com<br><br>Type of Project:  Operational<br><br>Operational Period:  Winter<br><br>Target area size:  600 square miles<br><br>Type of Program:  Snowpack Augmentation<br><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.353668,
+                    40.808811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trans-Pecos Weather Modification",
+                "desc": "<div dir=\"ltr\">Company Operating Project:  Seeding Operations and Atmospheric Research<br><br>Main Contact\/Website:  http:\/\/www.just-clouds.com<br><br>Type of Project:  Operational<br><br>Operational Period:  May-September<br><br>Target area size:  4.5 million acres<br><br>Type of Program:  Rain Enhancement<br><br><br><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.509308,
+                    31.387257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sandyland",
+                "desc": "<div dir=\"ltr\">Company Operating Project:  Seeding Operations and Atmospheric Research<br><br>Main Contact\/Website:  http:\/\/www.just-clouds.com<br><br>Type of Project:  Operational<br><br>Operational Period:  May-September<br><br>Target area size:  1.5 million acres<br><br>Type of Program:  Rain Enhancement<br><br><br><br><br>&nbsp;<\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.835785,
+                    33.218758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Upper American River Snow Augmentation Project",
+                "desc": "<div dir=\"ltr\">Company Operating Project:  Sacramento Municipal Utility District<br><br>Main Contact\/Website:  http:\/\/smud.org<br><br>Type of Project:  Operational<br><br>Operational Period:  Nov. 15 - May 15<br><br>Target area size: 190 square miles<br><br>Type of Program:  Snowpack Augmentation<\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.40947,
+                    38.8451880004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Upper Snake River Basin Project",
+                "desc": "<div dir=\"ltr\">Company Operating Project:  High County RC&amp;D\/ Idaho Power Company<br><br>Main Contact\/Website: www.hcountryrcd.org\/cloud%20seeding.htm <br><br>Type of Project:  Operational<br><br>Operational Period:  Winter, annually<br><br>Target area size:  5,161 square miles<br><br>Type of Program:  Snowpack Augmentation<\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.274712001,
+                    43.6871449999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Payette River Basin Project",
+                "desc": "<div dir=\"ltr\">Company Operating Project:  Idaho Power Company<br><br>Main Contact\/Website:  Derek Blestrud<br><br>Type of Project:  Operational<br><br>Operational Period:  Winter, annually<br><br>Target area size:  938 square miles<br><br>Type of Program:  Snowpack Augmentation<\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.765999,
+                    44.1837839999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The University of North Dakota - US Environmental Protection Agency",
+                "desc": "<h2>Objective:<\/h2><p>Thunderstorm Research<\/p><h2>Duration:<\/h2><p>1990<\/p><h2>Products and Services Provided:<\/h2><ul><li>Aircraft &amp; Crew for Atmospheric Assessment and Evaluation<\/li><\/ul><br><\/div>http:\/\/www.weathermodification.com\/projects.php?id=47"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.6905836123,
+                    47.8161796145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Antigua Cloud Seeding Project",
+                "desc": "<h2>Objective:<\/h2><p>Rainfall Enhancement<\/p><h2>Duration:<\/h2><p>1984<\/p><h2>Products and Services Provided:<\/h2><ul><li>Program Management &amp; Personnel<\/li><li>Aircraft for Cloud Seeding<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=3\">Antigua Cloud Seeding Project<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -61.8175210059,
+                    17.0746560097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Province of Mendoza Ministry of Economy",
+                "desc": "<h2>Objective:<\/h2><p>Hail Damage Mitigation<\/p><h2>Duration:<\/h2><p>1998-2004<\/p><h2>Products and Services Provided:<\/h2><ul><li>Program Management &amp; Personnel<\/li><li>Technology Transfer<\/li><li>Provided Modified Aircraft for Cloud Seeding &amp; Atmospheric Assessment and Evaluation<\/li><li>Weather Radar Systems<\/li><li>Meteorological Services<\/li><li>Atmospheric Assessment and Evaluation<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=2\">Province of Mendoza Ministry of Economy<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.8502579956,
+                    -32.9621585904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Queensland Environmental Protection Agency",
+                "desc": "<h2>Objective:<\/h2><p>Support for 2008 Feasibility Study for the Augmentation of Rain &amp; Air Chemistry Monitoring.<\/p><h2>Duration:<\/h2><p>2008<\/p><h2>Products and Services Provided:<\/h2><ul><li>Instrumented Aircraft &amp; Crew for Cloud Seeding<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=4\">Queensland Environmental Protection Agency<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.702795995,
+                    -20.9175737426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Program SAAGA",
+                "desc": "<h2>Objective:<\/h2><p>Rainfall Enhancement Program Support<\/p><h2>Duration:<\/h2><p>2001 - Present<\/p><h2>Products and Services Provided:<\/h2><ul><li>Program Design and Management Consulting<\/li><li>Technology Transfer <\/li><li>Modification of Aircraft for Cloud Seeding &amp; Atmospheric Assessment and Evaluation<\/li><li>Weather Radar System Upgrade<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=5\">Program SAAGA<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.56159298575,
+                    12.2383331985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alberta Hail Suppression Project",
+                "desc": "<h2>Objective:<\/h2><p>Hail Damage Mitigation<\/p><h2>Duration:<\/h2><p>1996-Present<\/p><h2>Products and Services Provided:<\/h2><ul><li>Program Management &amp; Personnel<\/li><li>Aircraft for Cloud Seeding<\/li><li>Weather Radar System<\/li><li>Meteorological Services<\/li><li>Atmospheric Assessment and Evaluation<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=6\">Alberta Hail Suppression Project<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.576503246,
+                    53.933270996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "British Colombia Ministry of Forest",
+                "desc": "<h2>Objective:<\/h2><p>Weather Radar System Upgrade<\/p><h2>Duration:<\/h2><p>2001<\/p><h2>Products and Services Provided:<\/h2><ul><li>Installation of Remote Radar System &amp; Display Software<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=8\">British Colombia Ministry of Forest<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.944134566,
+                    53.7876778947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "British Columbia Hydro and Power Authority",
+                "desc": "<h2>Objective:<\/h2><p>Snowpack Augmentation<\/p><h2>Duration:<\/h2><p>2001<\/p><h2>Products and Services Provided:<\/h2><ul><li>Feasibility Study<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=7\">British Columbia Hydro and Power Authority<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -128.172257863,
+                    53.4936966021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saskatchewan National Hydrology Research Agency",
+                "desc": "<h2>Objective:<\/h2><p>Radar Coverage Expansion and Comparison<\/p><h2>Duration:<\/h2><p>1994<\/p><h2>Products and Services Provided:<\/h2><ul><li>Weather Radar System &amp; Technical Support<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=9\">Saskatchewan National Hydrology Research Agency<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -107.44233835,
+                    52.6064631626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Greek National Hail Suppression Program (ELGA)",
+                "desc": "<h2>Objective:<\/h2><p>Hail Damage Mitigation<\/p><h2>Duration:<\/h2><p>1997-2001<\/p><h2>Products and Services Provided:<\/h2><ul><li>Program Management and Personnel<\/li><li>Weather Radar System Upgrade<\/li><li>Meteorological Services<\/li><li>Aircraft for Cloud Seeding<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=10\">Greek National Hail Suppression Program (ELGA)<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.216129279,
+                    38.762750098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hellenic Navy Supply Center",
+                "desc": "<h2>Objective:<\/h2><p>Equipment Upgrade<\/p><h2>Duration:<\/h2><p>1992<\/p><h2>Products and Services Provided:<\/h2><p>Meteorological Instrumentation Installation<\/p><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=11\">Hellenic Navy Supply Center<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0881610105,
+                    38.298855207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Andhra Pradesh Rainfall Enhancement Project",
+                "desc": "<h2>Objective:<\/h2><p>Rainfall Enhancement<\/p><h2>Duration:<\/h2><p>2003, 2004<\/p><h2>Products and Services Provided:<\/h2><ul><li>Field Program Management &amp; Personnel<\/li><li>Weather Radar Systems<\/li><li>Meteorological Services <\/li><li>Aircraft for Cloud Seeding<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=12\">Andhra Pradesh Rainfall Enhancement Project<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.0981868762,
+                    17.047761881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Prakalpa Varsha - Maharashtra Rainfall Enhancement Project",
+                "desc": "<h2>Objective:<\/h2><p>Rainfall Enhancement<\/p><h2>Duration:<\/h2><p>2003, 2004<\/p><h2>Products and Services Provided:<\/h2><ul><li>Field Program Management &amp; Personnel<\/li><li>Weather Radar Systems<\/li><li>Meteorological Services <\/li><li>Aircraft for Cloud Seeding<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=14\">Prakalpa Varsha - Maharashtra Rainfall Enhancement Project<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.713888004,
+                    19.7514800523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Project Varuna - Karnataka Rainfall Enhancement Project",
+                "desc": "<h2>Objective:<\/h2><p>Rainfall Enhancement &amp; Atmospheric Assessment and Evaluation<\/p><h2>Duration:<\/h2><p>2003<\/p><h2>Products and Services Provided:<\/h2><ul><li>Field Program Management &amp; Personnel<\/li><li> Weather Radar Systems<\/li><li> Meteorological Services <\/li><li> Atmospheric Assessment and Evaluation<\/li><li> Aircraft for Cloud Seeding &amp; Atmospheric Assessment and Evaluation<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=13\">Project Varuna - Karnataka Rainfall Enhancement Project<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.7434255698,
+                    12.2674645552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BPPT Weather Modification Program",
+                "desc": "<h2>Objective:<\/h2><p>Rainfall Enhancement and Atmospheric Assessment and Evaluation<\/p><h2>Duration:<\/h2><p>2005, 2006, 2007<\/p><h2>Products and Services Provided:<\/h2><ul><li>Program Management &amp; Personnel<\/li><li>Weather Radar Systems<\/li><li>Aircraft for Cloud Seeding &amp; Atmospheric Assessment and Evaluation<\/li><li>Meteorological Services<\/li><li>Atmospheric Assessment and Evaluation<\/li><li>Equipment Sales<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=15\">BPPT Weather Modification Program<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.92132702,
+                    -0.789275045437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arab Automated Systems",
+                "desc": "<h2>Objective:<\/h2><p>Ground Based Cloud Seeding<\/p><h2>Duration:<\/h2><p>2003<\/p><h2>Products and Services Provided:<\/h2><ul><li>Equipment Sales<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=16\">Arab Automated Systems<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.2386338721,
+                    30.7436524889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Heshamite Kingdom of Jordan",
+                "desc": "<h2>Objective:<\/h2><p>Rainfall Enhancement<\/p><h2>Duration:<\/h2><p>1986-1988, 1988-1989<\/p><h2>Products and Services Provided:<\/h2><ul><li>Project Design &amp; Integration<\/li><li>Program Management &amp; Personnel<\/li><li>Aircraft for Cloud Seeding &amp; Atmospheric Assessment and Evaluation<\/li><li>Meteorological Services<\/li><li>Ground Based Cloud Seeding Generators<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=17\">Heshamite Kingdom of Jordan<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.1068474336,
+                    32.0166690103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Programme Sanji - Mali",
+                "desc": "<h2>Objective:<\/h2><p>Rainfall Enhancement &amp; Atmospheric Assessment and Evaluation<\/p><h2>Duration:<\/h2><p>2006-2008<\/p><h2>Products and Services Provided:<\/h2><ul><li>Program Management &amp; Personnel<\/li><li>Atmospheric Assessment and Evaluation <\/li><li>Weather Radar Systems<\/li><li>Meteorological Services <\/li><li>Aircraft for Cloud Seeding &amp; Atmospheric Assessment and Evaluation<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=18\">Programme Sanji - Mali<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.3058279776,
+                    16.9537812592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Precipitation for Augmentation of Rain in Coahuila (PARC)",
+                "desc": "<h2>Objective:<\/h2><p>Rainfall Enhancement<\/p><h2>Duration:<\/h2><p>1996-1999<\/p><h2>Products and Services Provided:<\/h2><ul><li>Field Personnel<\/li><li>Weather Radar System<\/li><li>Aircraft for Cloud Seeding &amp; Atmospheric Assessment and Evaluation<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=19\">Precipitation for Augmentation of Rain in Coahuila (PARC)<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.675707587,
+                    26.8876626736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Programme Al-Ghait",
+                "desc": "<h2>Objective:<\/h2><p>Rainfall Enhancement Program Support<\/p><h2>Duration:<\/h2><p>2002 - Present<\/p><h2>Products and Services Provided:<\/h2><ul><li>Technology Transfer<\/li><li>Modification of Aircraft for Cloud Seeding &amp; Atmospheric Assessment and Evaluation<\/li><li>Equipment Sales<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=20\">Programme Al-Ghait<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.10446971541,
+                    31.7814987295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Program for Cloud Physics Research and Rain Enhancement in the Kingdom of Saudi Arabia",
+                "desc": "<h2>Objective:<\/h2><p>Rainfall Enhancement<\/p><h2>Duration:<\/h2><p>2004, 2006, 2007 - Present<\/p><h2>Products and Services Provided:<\/h2><ul><li>Atmospheric Assessment and Evaluation<\/li><li>Program Design &amp; Integration<\/li><li>Technology Transfer<\/li><li>Program Management &amp; Personnel<\/li><li>Weather Radar Systems<\/li><li>Meteorological Services<\/li><li>Aircraft for Cloud Seeding &amp; Atmospheric Assessment and Evaluation<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=21\">Program for Cloud Physics Research and Rain Enhancement in the Kingdom of Saudi Arabia<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.7818220579,
+                    24.3224202021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "World Meteorological Organization in cooperation with SAU\/WMO\/FIT Rain Enhancement Project",
+                "desc": "<h2>Objective:<\/h2><p>Equipment Sale &amp; Installation<\/p><h2>Duration:<\/h2><p>1990<\/p><h2>Products and Services Provided:<\/h2><ul><li>Weather Radar System<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=22\">World Meteorological Organization in cooperation with SAU\/WMO\/FIT Rain Enhancement Project<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.5073899501,
+                    25.3214570036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Republique du Senegal - Ministry of Armed Forces",
+                "desc": "<h2>Objective:<\/h2><p>Rainfall Enhancement Program (Project Bawaan) Support<\/p><h2>Duration:<\/h2><p>2011 - Present<\/p><h2>Products and Services Provided:<\/h2><ul><li>Technology Transfer<\/li><li>Modification of Aircraft for Cloud Seeding &amp; Atmospheric Assessment and Evaluation<\/li><li>Program Consulting &amp; Personnel<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=66\">Republique du Senegal - Ministry of Armed Forces<\/a><br \/><br \/><img src=\"http:\/\/www.weathermodification.com\/uploads\/101_2116.jpg\" width=\"300px\" \/>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.4523620812,
+                    14.4974011357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Canary Islands - AIRAO Incorporated",
+                "desc": "<h2>Objective:<\/h2><p>Rainfall Enhancement<\/p><h2>Duration:<\/h2><p>1984-1985<\/p><h2>Products and Services Provided:<\/h2><ul><li>Weather Radar System<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=23\">Canary Islands - AIRAO Incorporated<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.5965737862,
+                    28.2369922926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bureau of Royal Rainmaking and Agricultural Aviation (BRRAA)",
+                "desc": "<h2>Objective:<\/h2><p>Rainfall Enhancement  Program Support<\/p><h2>Duration:<\/h2><p>1996-1998<\/p><h2>Products and Services Provided:<\/h2><ul><li>Modified Aircraft for Cloud Seeding &amp; Atmospheric Assessment and Evaluation<\/li><li>Technology Transfer<\/li><li>Program Integration<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=24\">Bureau of Royal Rainmaking and Agricultural Aviation (BRRAA)<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.992541187,
+                    15.8700319781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ISKI Rain Enhancement Program",
+                "desc": "<h2>Objective:<\/h2><p>Rainfall Enhancement<\/p><h2>Duration:<\/h2><p>1991-1994<\/p><h2>Products and Services Provided:<\/h2><ul><li>Program Management &amp; Personnel<\/li><li>Weather Radar System<\/li><li>Aircraft for Cloud Seeding <\/li><li>Meteorological Services<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=25\">ISKI Rain Enhancement Program<\/a><br \/><br \/><a href=\"http:\/\/www.wmo.int\/pages\/prog\/arep\/wmp\/documents\/SelahattinINCECIK.pdf\">A Review of the Cold Cloud Rain Enhancement Program in Turkey:1990-1993 <\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.9762080585,
+                    41.0166010815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Petkim Petrokimya Holding, A.S. Rain Enhancement Program",
+                "desc": "<h2>Objective:<\/h2><p>Rainfall Enhancement &amp; Atmospheric Assessment and Evaluation<\/p><h2>Duration:<\/h2><p>1993-1995<\/p><h2>Products and Services Provided:<\/h2><ul><li>Program Management &amp; Personnel<\/li><li>Weather Radar System<\/li><li>Aircraft for Cloud Seeding &amp; Atmospheric Assessment and Evaluation<\/li><li>Meteorological Services<\/li><li>Atmospheric Assessment and Evaluation<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=26\">Petkim Petrokimya Holding, A.S. Rain Enhancement Program<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9502875732,
+                    38.7882152102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U.A.E. Rain Enhancement Program",
+                "desc": "<h2>Objective:<\/h2><p>Rainfall Enhancement &amp; Atmospheric Assessment and Evaluation<\/p><h2>Duration:<\/h2><p>1990-1993<\/p><h2>Products and Services Provided:<\/h2><ul><li>Aircraft for Cloud Seeding &amp; Atmospheric Assessment and Evaluation<\/li><li>Weather Radar System <\/li><li>Meteorological Services<\/li><li>Field Personnel<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=28\">U.A.E. Rain Enhancement Program<\/a><br \/><br \/><a href=\"http:\/\/www.rap.ucar.edu\/projects\/UAE\/\">Feasibility Study For Rainfall Enhancement - UAE<\/a><br \/><br \/><a href=\"http:\/\/www.rap.ucar.edu\/projects\/UAE\/\"><img src=\"http:\/\/www.rap.ucar.edu\/projects\/UAE\/images\/frontcover_2.jpg\"\/><\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.7168456283,
+                    24.4196016954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "U.A.E. Rainfall Enhancement and Air Chemistry Studies - DWRS",
+                "desc": "<h2>Objective:<\/h2><p>Rainfall Enhancement &amp; Atmospheric Assessment and Evaluation<\/p><h2>Duration:<\/h2><p>2001-2002<\/p><h2>Products and Services Provided:<\/h2><ul><li>Aircraft for Cloud Seeding &amp; Atmospheric Assessment and Evaluation<\/li><li>Program Management &amp; Personnel<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=27\">U.A.E. Rainfall Enhancement and Air Chemistry Studies - DWRS<\/a><br \/><br \/><a href=\"http:\/\/www.rap.ucar.edu\/projects\/UAE\/hygroscopic.php\">UCAR Hygroscopic Cloud Seeding UAE RAL<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.4969940607,
+                    24.9968116245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aeromet, Inc. (L-3 Communications) - U.S Department of Defense",
+                "desc": "<h2>Objective:<\/h2><p>Equipment Sales<\/p><h2>Duration:<\/h2><p>1993<\/p><h2>Products and Services Provided:<\/h2><ul><li>Weather Radar System Sale &amp; Installation<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=63\">Aeromet, Inc. (L-3 Communications) - U.S Department of Defense<\/a><br \/><br \/><a href=\"http:\/\/www2.l-3com.com\/aeromet\/index.htm\">L3 Aeromet official website<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.9909174004,
+                    36.0334788713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BAMEX - Bow Echo and Mesoscale Convective Vortex Experiment",
+                "desc": "<h2>Objective:<\/h2><p>Dropsonde Platform and Atmospheric Assessment and Evaluation<\/p><h2>Duration:<\/h2><p>2002-2003<\/p><h2>Products and Services Provided:<\/h2><ul><li>Aircraft &amp; Crew for Atmospheric Assessment and Evaluation<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=36\">BAMEX - Bow Echo and Mesoscale Convective Vortex Experiment<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.241200744,
+                    40.0389481262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CALIPSO - CloudSat Validation Experiment",
+                "desc": "<h2>Objective:<\/h2><p>Satellite Validation and Comparison<\/p><h2>Duration:<\/h2><p>2006<\/p><h2>Products and Services Provided:<\/h2><ul><li>Aircraft &amp; Crew for Atmospheric Assessment and Evaluation<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=38\">CALIPSO - CloudSat Validation Experiment<\/a><br \/><br \/><a href=\"http:\/\/c3vp.org\/\">Canadian CloudSat\/CALIPSO Validation Experiment<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.3001401895,
+                    27.0346874451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Delaware Department of Agriculture Cloud Seeding Program",
+                "desc": "<h2>Objective:<\/h2><p>Rainfall Enhancement<\/p><h2>Duration:<\/h2><p>1985<\/p><h2>Products and Services Provided:<\/h2><ul><li>Aircraft for Cloud Seeding<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=37\">Delaware Department of Agriculture Cloud Seeding Program<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5055073974,
+                    38.9475065811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Edwards Aquifer Authority",
+                "desc": "<h2>Objective:<\/h2><p>Rainfall Enhancement<\/p><h2>Duration:<\/h2><p>1999-2001<\/p><h2>Products and Services Provided:<\/h2><ul><li>Field Program Management &amp; Personnel<\/li><li>Meteorological Services<\/li><li>Aircraft for Cloud Seeding<\/li><li>Weather Radar System<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=54\">Edwards Aquifer Authority<\/a><br \/><br \/><a href=\"http:\/\/www.edwardsaquifer.org\/\">www.edwardsaquifer.org<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.4852389999,
+                    29.4395849997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Federal Aviation Administration - Great Lakes Division",
+                "desc": "<h2>Objective:<\/h2><p>Weather Observation and Briefing for Flight Service Stations<\/p><h2>Duration:<\/h2><p>1991-1994<\/p><h2>Products and Services Provided:<\/h2><ul><li>Meteorological Services<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=46\">Federal Aviation Administration - Great Lakes Division<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.304548072,
+                    47.3780843792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gratiot Weather Modification Project",
+                "desc": "<h2>Objective:<\/h2><p>Rain Enhancement<\/p><h2>Duration:<\/h2><p>1977<\/p><h2>Products and Services Provided:<\/h2><ul><li>Program Management &amp; Personnel<\/li><li>Aircraft for Cloud Seeding<\/li><li>Weather Radar System<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=43\">Gratiot Weather Modification Project<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.6897489978,
+                    43.2836500082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Illinois Weather Modification Projects",
+                "desc": "<h2>Objective:<\/h2><p>Rain Enhancement<\/p><h2>Duration:<\/h2><p>1977<\/p><h2>Products and Services Provided:<\/h2><ul><li>Aerial Cloud Seeding Operations &amp; Personnel<\/li><li>Aircraft for Cloud Seeding<\/li><li>Weather Radar System<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=42\">Illinois Weather Modification Projects<\/a><br \/><br \/><a href=\"http:\/\/www.isws.illinois.edu\/pubdoc\/C\/ISWSC-148.pdf\">Evaluations of Illinois Weather, Modification Projects of 1976-1980: A Summary<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.4462017576,
+                    39.3589291891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOAA Volcanic Monitoring",
+                "desc": "National Oceanic and Atmospheric Administration (NOAA)<h2>Objective:<\/h2><p>Volcanic Monitoring<\/p><h2>Duration:<\/h2><p>1991-1994<\/p><h2>Products and Services Provided:<\/h2><ul><li>Weather Radar Systems<\/li><li>Technical Support &amp; Field Personnel<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=29\">NOAA Volcanic Monitoring<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -147.369706987,
+                    63.6857891055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NOAA - National Hurricane Center",
+                "desc": "<h2>Objective:<\/h2><p>Equipment Lease<\/p><h2>Duration:<\/h2><p>1992, 1993<\/p><h2>Products and Services Provided:<\/h2><ul><li>Weather Radar System<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=40\">NOAA - National Hurricane Center<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.3836763282,
+                    25.7546647921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Naval Surface Warfare Center",
+                "desc": "<h2>Objective:<\/h2><p>Radar Validation Experiment<\/p><h2>Duration:<\/h2><p>2009<\/p><h2>Products and Services Provided:<\/h2><ul><li>Aircraft &amp; Crew for Atmospheric Assessment and Evaluation<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=39\">Naval Surface Warfare Center<\/a><br \/><br \/><a href=\"http:\/\/www.navsea.navy.mil\/nswc\/carderock\/pub\/who\/sites\/south_fl.aspx\">South Florida Ocean Measurement Facility (SFOMF)<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1110797568,
+                    26.0817553258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nevada State Cloud Seeding Program",
+                "desc": "<h2>Objective:<\/h2><p>Snowpack Augmentation<\/p><h2>Duration:<\/h2><p>1987-1988, 2002-2009<\/p><h2>Products and Services Provided:<\/h2><ul><li>Aerial Cloud Seeding Operations &amp; Personnel<\/li><li>Aircraft for Cloud Seeding<\/li><li>Atmospheric Assessment &amp; Evaluation<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=44\">Nevada State Cloud Seeding Program<\/a><br \/><br \/><a href=\"http:\/\/www.littlecolorado.net\/weather_mod\/David%20Modified%20Decker%20Weather%20Mod%20Presentation%20LCR%20Winter%20Watershed%20Conference%2028%20Jan%2010%20mod%2022%20Feb%202011.pdf\">Snowpack Maintenance and Augmentation in Arizona \u2013 an on-going story<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.197904267,
+                    37.6735328887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "New Mexico BLAST (Burst Light and Stratus Transmission) Project",
+                "desc": "<h2>Objective:<\/h2><p>Atmospheric Assessment and Evaluation<\/p><h2>Duration:<\/h2><p>2004<\/p><h2>Products and Services Provided:<\/h2><ul><li>Aircraft &amp; Crew for Atmospheric Assessment and Evaluation<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=65\">New Mexico BLAST (Burst Light and Stratus Transmission) Project<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.647852964,
+                    35.1187889089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "North Dakota Cloud Modification Project (NDCMP)",
+                "desc": "<h2>Objective:<\/h2><p>Hail Damage Mitigation and Rainfall Enhancement<\/p><h2>Duration:<\/h2><p>1961 - Present<\/p><h2>Products and Services Provided:<\/h2><ul><li>Aircraft &amp; Crew for Cloud Seeding<\/li><li>Weather Radar Systems <\/li><li>Meteorological Services <\/li><li>Atmospheric Assessment and Evaluation<\/li><li>Aircraft &amp; Crew for Atmospheric Assessment and Evaluation<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=50\">North Dakota Cloud Modification Project (NDCMP)<\/a><br \/><br \/><a href=\"http:\/\/www.swc.state.nd.us\/4dlink9\/4dcgi\/GetSubCategoryRecord\/atmospheric%20resources\/ND%20Cloud%20Modification%20Project\">North Dakota State Water Commision<\/a><br \/><br \/><a href=\"http:\/\/weathermodification.org\/Park%20City%20Presentations\/SchneiderPres.pdf\">North Dakota Weather Modification 1961-present<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.074160569,
+                    47.7237570132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "North Dakota Thunderstorm Project - North Dakota Atmospheric Resource Board",
+                "desc": "<h2>Objective:<\/h2><p>Atmospheric Assessment and Evaluation<\/p><h2>Duration:<\/h2><p>1989<\/p><h2>Products and Services Provided:<\/h2><ul><li>Aircraft &amp; Crew for Cloud Seeding and Atmospheric Assessment and Evaluation<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=48\">North Dakota Thunderstorm Project<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.781575821,
+                    46.8211199109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "North Dakota Tracer Experiment - North Dakota Atmospheric Resource Board",
+                "desc": "<h2>Objective:<\/h2><p>Tracer Studies<\/p><h2>Duration:<\/h2><p>1993<\/p><h2>Products and Services Provided:<\/h2><ul><li>Aircraft &amp; Crew for Atmospheric Assessment and Evaluation<\/li><\/ul><a href=\"http:\/\/www.weathermodification.com\/projects.php?id=49\">North Dakota Tracer Experiment - North Dakota Atmospheric Resource Board<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.640316602,
+                    47.6631686301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Northeast Sampling Program - Sonoma Technology, Inc.",
+                "desc": "<h2>Objective:<\/h2><p>Atmospheric Assessment and Evaluation<\/p><h2>Duration:<\/h2><p>1995<\/p><h2>Products and Services Provided:<\/h2><ul><li>Aircraft &amp; Crew for Atmospheric Assessment and Evaluation<\/li><\/ul><br><\/div>http:\/\/www.weathermodification.com\/projects.php?id=45"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.3511205454,
+                    42.7489040361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NSF\/NCAR ICE-L Field Campaign",
+                "desc": "<h2>Objective:<\/h2><p>Atmospheric Assessment and Evaluation<\/p><h2>Duration:<\/h2><p>2006-2007<\/p><h2>Products and Services Provided:<\/h2><ul><li>Aircraft for Atmospheric Assessment and Evaluation<\/li><\/ul><br><\/div>http:\/\/www.weathermodification.com\/projects.php?id=35<br><br><a href=\"http:\/\/www.eol.ucar.edu\/projects\/ice-l\/\">The Ice in Clouds Experiment<\/a><br><a href=\"http:\/\/www.eol.ucar.edu\/~dcrogers\/ICE-L\/ICE-L_Daves_photos.html\">ICE-L 2007 Photos<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.688641511,
+                    38.5995059341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Oklahoma Weather Modification Project (OWMP)",
+                "desc": "<h2>Objective:<\/h2><p>Hail Damage Mitigation and Rainfall Enhancement<\/p><h2>Duration:<\/h2><p>1997, 2000-2001<\/p><h2>Products and Services Provided:<\/h2><ul><li>Program Management &amp; Personnel<\/li><li>Weather Radar Systems<\/li><li>Aircraft for Cloud Seeding<\/li><li>Meteorological Services<\/li><\/ul><\/div>http:\/\/www.weathermodification.com\/projects.php?id=51<br><br><a href=\"http:\/\/digital.library.okstate.edu\/oas\/oas_pdf\/v54\/p131_138.pdf\">EVALUATION OF AN OKLAHOMA WEATHER MODIFICATION PROJECT<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.0166037321,
+                    36.1258365678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Panhandle Groundwater Conservation District Rainfall Enhancement Program",
+                "desc": "h2>Objective:<\/h2><p>Rainfall Enhancement<\/p><h2>Duration:<\/h2><p>2000<\/p><h2>Products and Services Provided:<\/h2><ul><li>Field Program Management &amp; Personnel<\/li><li>Meteorological Services<\/li><li>Aircraft for Cloud Seeding<\/li><li>Weather Radar System<\/li><\/ul><br><br><img src=\"http:\/\/panhandlegroundwaterdistrict.files.wordpress.com\/2012\/02\/weather20modification20area.jpg?w=300\"\/><br><br><\/div>http:\/\/www.weathermodification.com\/projects.php?id=59<br><br><div dir=\"ltr\">Company: Panhandle Groundwater Conservation District<br><br>Main Contact\/Website: Jennifer Puryear \/ http:\/\/www.pgcd.us<br><br>Type of Project: Operational<br><br>Operational Period: April 1 - October 1<br><br>Target area size:  4 million acres; Carson, Gray, Donley, Roberts, Wheeler counties.  Also parts of Hutchinson, Armstrong and Potter counties.<br><br>Type of Project: Rain Enhancement<br>WMA Map<\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.176575,
+                    35.43462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Santa Barbara County Water Agency",
+                "desc": "<h2>Objective:<\/h2><p>Snowpack Augmentation<\/p><h2>Duration:<\/h2><p>1998-2001<\/p><h2>Products and Services Provided:<\/h2><ul><li>Program Management &amp; Personnel<\/li><li>Aircraft for Cloud Seeding<\/li><li>Ground Based Cloud Seeding Generators<\/li><li>Weather Radar System<\/li><li>Meteorological Services<\/li><\/ul><\/div><br>http:\/\/www.weathermodification.com\/projects.php?id=33<br><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.018533093,
+                    34.6711728357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sonoma Technology, Inc.",
+                "desc": "<h2>Objective:<\/h2><p>Atmospheric Assessment and Evaluation<\/p><h2>Duration:<\/h2><p>1993<\/p><h2>Products and Services Provided:<\/h2><ul><li>Aircraft &amp; Crew for Atmospheric Assessment and Evaluation<\/li><\/ul><br><\/div>http:\/\/www.weathermodification.com\/projects.php?id=60"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.8236674143,
+                    31.0279757961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Stanislaus Weather Modification Program",
+                "desc": "<h2>Objective:<\/h2><p>Snowpack Augmentation<\/p><h2>Duration:<\/h2><p>2007 - Present<\/p><h2>Products and Services Provided:<\/h2><ul><li>Aerial Program Ops Management &amp; Personnel<\/li><li>Aircraft for Cloud Seeding<\/li><li>Meteorological Services<\/li><\/ul><br><\/div>http:\/\/www.weathermodification.com\/projects.php?id=31"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.987632009,
+                    37.5090710072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "State of South Dakota - Department of Natural Resources Division of Weather Modification",
+                "desc": "<h2>Objective:<\/h2><p>Hail Damage Mitigation<\/p><h2>Duration:<\/h2><p>1974, 1975<\/p><h2>Products and Services Provided:<\/h2><ul><li>Aircraft &amp; Personnel for Cloud Seeding<\/li><li>Weather Radar Systems<\/li><\/ul><br><\/div>http:\/\/www.weathermodification.com\/projects.php?id=53"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.299484459,
+                    43.9448472619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Texas Central High Plains Rainfall Enhancement Program",
+                "desc": "<h2>Objective:<\/h2><p>Rainfall Enhancement<\/p><h2>Duration:<\/h2><p>1997-2000<\/p><h2>Products and Services Provided:<\/h2><ul><li>Field Program Management &amp; Personnel<\/li><li>Meteorological Services<\/li><li>Aircraft for Cloud Seeding<\/li><li>Weather Radar System<\/li><\/ul><\/div>http:\/\/www.weathermodification.com\/projects.php?id=58"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.4050945972,
+                    32.873304913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Texas Experiment in Augmenting Rainfall through Cloud Seeding (TEXARC)",
+                "desc": "<h2>Objective:<\/h2><p>Atmospheric Assessment and Evaluation<\/p><h2>Duration:<\/h2><p>1994-1996, 1998<\/p><h2>Products and Services Provided:<\/h2><ul><li>Aircraft &amp; Crew for Atmospheric Assessment and Evaluation<\/li><\/ul><br><\/div>http:\/\/www.weathermodification.com\/projects.php?id=57<br><br><a href=\"http:\/\/www.twdb.texas.gov\/publications\/reports\/contracted_reports\/doc\/96483177.pdf\">Operations Summary TEXARC 1996<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.789205002,
+                    31.4188042232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Texas Weather Modification Program",
+                "desc": "<h2>Objective:<\/h2><p>Rainfall Enhancement for San Angelo, Uvalde, Corpus Christy, San Antonio Reservoir Areas<\/p><h2>Duration:<\/h2><p>1985, 1986, 1988<\/p><h2>Products and Services Provided:<\/h2><ul><li>Aircraft &amp; Crew for Cloud Seeding<\/li><li>Weather Radar Systems<\/li><\/ul><\/div>http:\/\/www.weathermodification.com\/projects.php?id=56"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.326250497,
+                    31.4686232675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "University of Arizona - National Oceanic and Atmospheric Administration (NOAA)",
+                "desc": "<h2>Objective:<\/h2><p>Atmospheric Assessment and Evaluation<\/p><h2>Duration:<\/h2><p>1995<\/p><h2>Products and Services Provided:<\/h2><ul><li>Aircraft &amp; Crew for Atmospheric Assessment and Evaluation<\/li><\/ul><\/div>http:\/\/www.weathermodification.com\/projects.php?id=30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -110.961188621,
+                    32.2171967444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Upper Payette River Basin Cloud Seeding Program",
+                "desc": "<h2>Objective:<\/h2><p>Snowpack Augmentation<\/p><h2>Duration:<\/h2><p>2002 - Present<\/p><h2>Products and Services Provided:<\/h2><ul><li>Aerial Cloud Seeding Operations &amp; Personnel<\/li><li>Aircraft for Cloud Seeding<\/li><li>Atmospheric Assessment and Evaluation<\/li><li>Ground Based Cloud Seeding Equipment Sales<\/li><\/ul><\/div>http:\/\/www.weathermodification.com\/projects.php?id=41"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.302203075,
+                    44.2838600555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Upper Tuolumne River Weather Modification Program",
+                "desc": "<h2>Objective:<\/h2><p>Snowpack Augmentation<\/p><h2>Duration:<\/h2><p>2007 - Present<\/p><h2>Products and Services Provided:<\/h2><ul><li>Aerial Program Ops Management &amp; Personnel<\/li><li>Aircraft for Cloud Seeding<\/li><li>Meteorological Services<\/li><\/ul><br><\/div>http:\/\/www.weathermodification.com\/projects.php?id=34"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.278971776,
+                    37.5077045198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Upper American River Cloud Seeding Project",
+                "desc": "<h2>Objective:<\/h2><p>Snowpack Augmentation<\/p><h2>Duration:<\/h2><p>2008 - Present<\/p><h2>Products and Services Provided:<\/h2><ul><li>Aerial Program Ops Management &amp; Personnel<\/li><li>Aircraft for Cloud Seeding<\/li><li>Meteorological Services<\/li><\/ul><br><\/div>http:\/\/www.weathermodification.com\/projects.php?id=32"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.354768283,
+                    38.605325144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Utah Division of Water Resources",
+                "desc": "<h2>Objective:<\/h2><p>Snowpack Augmentation<\/p><h2>Duration:<\/h2><p>1983<\/p><h2>Products and Services Provided:<\/h2><ul><li>Weather Radar System<\/li><\/ul><br><\/div><br><br>http:\/\/www.weathermodification.com\/projects.php?id=62<br><br><h2>Objective:<\/h2><p>Equipment Lease<\/p><h2>Duration:<\/h2><p>2003<\/p><h2>Products and Services Provided:<\/h2><ul><li>Configured Customized Data Recording System<\/li><\/ul><\/div>http:\/\/www.weathermodification.com\/projects.php?id=61"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.561005421,
+                    39.1604139468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "West Central Texas Council of Governments Rainfall Enhancement Program",
+                "desc": "<h2>Objective:<\/h2><p>Rainfall Enhancement<\/p><h2>Duration:<\/h2><p>2001-2003<\/p><h2>Products and Services Provided:<\/h2><ul><li>Field Program Management &amp; Personnel<\/li><li>Weather Radar System<\/li><li>Meteorological Services<\/li><li>Aircraft for Cloud Seeding<\/li><\/ul><br><\/div>http:\/\/www.weathermodification.com\/projects.php?id=55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.864303158,
+                    30.3445898155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Western Dakota Water Development District - Black Hills Council of Local Government",
+                "desc": "<h2>Objective:<\/h2><p>Snowpack Augmentation<\/p><h2>Duration:<\/h2><p>1989<\/p><h2>Products and Services Provided:<\/h2><ul><li>Aircraft &amp; Crew for Cloud Seeding<\/li><\/ul><br><\/div>http:\/\/www.weathermodification.com\/projects.php?id=52"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.835212543,
+                    44.0250861891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wyoming Weather Modification Pilot Program",
+                "desc": "<h2>Objective:<\/h2><p>Snowpack Augmentation and Atmospheric Assessment and Evaluation<\/p><h2>Duration:<\/h2><p>2005-Present<\/p><h2>Products and Services Provided:<\/h2><a href=\"http:\/\/www.weathermodification.com\/uploads\/snowy__s_021.jpg\" class=\"nyroModal\" title=\"\" rel=\"gal\"><img src=\"http:\/\/www.weathermodification.com\/uploads\/snowy__s_021_t.jpg\" alt=\"Ground-Based Cloud Seeding Generator\"><\/a><ul><li>Feasibility Study<\/li><li>Atmospheric Assessment and Evaluation Meteorological Services <\/li><li>Aircraft for Cloud Seeding &amp; Atmospheric Assessment and Evaluation<\/li><li>Network of Ground Based Cloud Seeding Units<\/li><li>Field Program Operation &amp; Personnel Management<\/li><\/ul><\/div>http:\/\/www.weathermodification.com\/projects.php?id=64"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.489426837,
+                    43.2888494982
+                ]
+            }
+        }
+    ]
+}

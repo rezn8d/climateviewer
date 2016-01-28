@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Cabral &amp; Cacella&#39;s 1626-28 exploration of Bhutan &amp; Tibet</name>
+  <description><![CDATA[This documentary, in the form of a Google Map, attempts to reconstruct the 1626-28 travels of Portuguese Jesuit missionaries João Cabral and Estêvão Cacella. A journey that would take them through the rugged Himalaya mountains of Bhutan and Tibet, where they would try, but fail, to establish a mission at Shigatse, in the heart of Tibetan Buddhism near the monastery of Tashilhunpo.]]></description>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://3.bp.blogspot.com/-fY5kbq67WrA/UWFPurO7LwI/AAAAAAAAEr4/KUXXDH3JDhs/s1600/MRM+Book.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/hiker.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/camera.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/camera.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/camera.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Source this map is based on.</name>
+    <description><![CDATA[<div dir="ltr"><ul><li><font face="arial, sans-serif"><a href="http://himalaya.socanth.cam.ac.uk/collections/journals/jbs/pdf/JBS_01_01_01.pdf" style="font-size:x-small" target="_blank">himalaya.socanth.cam.ac.uk/collections/journals/</a><br><font size="1"><i><b>Father Estevao Cacella's Report on Bhutan in 1627</b></i></font><span style="font-size:x-small"> by&nbsp;</span><font size="1">Luiza Maria Baillie*</font></font></li><li style="font-size:10pt"><font face="arial, sans-serif"><span style="background-color:rgb(255, 255, 255);color:rgb(51, 51, 51)"><font size="1"><b><a href="http://books.google.com/books?id=EXt95lmbRdoC&amp;pg=PA125&amp;lpg=PA125&amp;dq=Rajah++Satargit&amp;source=bl&amp;ots=bWU0Qsfkac&amp;sig=IRiqOPckRgGUG1EP8WW2kWJKJQM&amp;hl=en&amp;sa=X&amp;ei=nhF6U76uHaHNsQT4u4LICg&amp;ved=0CCkQ6AEwAA#v=onepage&amp;q=Rajah%20%20Satargit&amp;f=false" target="_blank">Google Books:</a></b><br></font></span><span style="font-size:x-small;background-color:rgb(255, 255, 255);color:rgb(51, 51, 51)"><b><i>Early Jesuit Travellers in Central Asia: 1603-1721</i> </b>by Cornelius Wessels</span></font></li></ul></div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>85.451660,26.824072,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Other Interactive Maps on History</name>
+    <description><![CDATA[<div dir="ltr"><div dir="ltr"><span style="font-size:13px"><b><span style="font-weight:normal"><font face="arial" style="font-family:arial;font-size:10pt"><font size="2"><b>Try one of the many other Interactive Maps of Explorers and Historic Events at&nbsp;</b></font></font><b><a href="http://myreadingmapped.blogspot.com/" target="_blank">MyReadingMapped.</a></b></span></b></span></div><div dir="ltr"><span style="font-size:13px"><b><span style="font-weight:normal"><b><br></b></span></b></span></div><div dir="ltr"><img src="http://1.bp.blogspot.com/-Ag6qDYAWE3Y/Tung1DRL2PI/AAAAAAAAAr4/kfqblVInWis/s320/MRM+screen+shot.JPG"></div></div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>85.429688,24.126701,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Digitally walk this map in Google Earth 3D</name>
+    <description><![CDATA[<font size="1" face="arial, sans-serif">You can digitally walk this map in Google Earth 3D using <b><a href="https://drive.google.com/file/d/0B52hHMRyBvEsWWZ1MVVkXzNGT3M/edit?usp=sharing" target="_blank">this Google Earth KML file.</a></b></font>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>85.429688,25.641525,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#1 - Hugli / Aug. 2, 1626</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><b>Report of Father Estevao Cacella / Page 4</b><br><br>We left Hugli on the 2nd of August 1626, arriving in Dhaka&nbsp;on the 12th of the same month; we left there on the 5th of&nbsp;September and on the 26th of the same we passed through&nbsp;Hajo, arriving at Pandu where we stayed with Rajah Satargit a&nbsp;few days, and returning to Hajo...</font></div>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>88.393936,22.888512,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#2 - Dhaka or Dacca / Aug. 12, 1626</name>
+    <description><![CDATA[<span style="font-family:arial, sans-serif;font-size:x-small">Report of Father Estevao Cacella / Page 4</span><div><span style="font-family:arial, sans-serif;font-size:x-small"><br></span></div><div><span style="font-family:arial, sans-serif;font-size:x-small">We left Hugli on the 2nd of August 1626, arriving in Dhaka&nbsp;on the 12th of the same month; we left there on the 5th of&nbsp;September and on the 26th of the same we passed through&nbsp;Hajo,</span></div>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>90.422974,23.805450,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#3 - Hajo / September 26, 1626</name>
+    <description><![CDATA[<div style="font-size:10pt;font-family:arial"><b style="font-family:arial, sans-serif;font-size:x-small">Report of Father Estevao Cacella / Page 4</b></div><div style="font-size:10pt;font-family:arial"><br style="font-family:arial, sans-serif;font-size:x-small"><span style="font-family:arial, sans-serif;font-size:x-small">We left Hugli on the 2nd of August 1626, arriving in Dhaka&nbsp;on the 12th of the same month; we left there on the 5th of&nbsp;September and on the 26th of the same we passed through&nbsp;Hajo, arriving at Pandu where we stayed with Rajah Satargit a&nbsp;few days, and returning to Hajo...</span></div><div style="font-size:10pt;font-family:arial"><span style="font-family:arial, sans-serif;font-size:x-small"><br></span></div><div style="font-size:10pt;font-family:arial"><span style="font-family:arial, sans-serif;font-size:x-small"><b>Hajo Madhab Mandir</b></span></div><div style="font-size:10pt;font-family:arial"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Entrance_Madhab_mandir.jpg/330px-Entrance_Madhab_mandir.jpg"></div><div><font face="arial, sans-serif" size="1">Wikipedia Commons &nbsp;/&nbsp;<a href="http://commons.wikimedia.org/w/index.php?title=User:Jugal_Bharali&amp;action=edit&amp;redlink=1" title="User:Jugal Bharali (page does not exist)" style="color:rgb(165, 88, 88);background-color:rgb(249, 249, 249);line-height:19.345455169677734px" target="_blank">Jugal Bharali</a></font></div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>91.527222,26.243507,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#4  - Pandu (Guwahati)</name>
+    <description><![CDATA[<span style="font-family:arial, sans-serif;font-size:x-small">Report of Father Estevao Cacella / Page 4</span><div style="font-family:arial;font-size:10pt"><span style="font-family:arial, sans-serif;font-size:x-small"><br></span></div><div style="font-family:arial;font-size:10pt"><span style="font-family:arial, sans-serif;font-size:x-small">...and on the 26th of the same we passed through&nbsp;Hajo, arriving at Pandu where we stayed with Rajah Satargit a&nbsp;few days, and returning to Hajo...</span></div><div style="font-family:arial;font-size:10pt"><span style="font-family:arial, sans-serif;font-size:x-small"><br></span></div><div style="font-family:arial;font-size:10pt"><span style="font-family:arial, sans-serif;font-size:x-small"><b>Saraighat at Pandu</b></span></div><div style="font-family:arial;font-size:10pt"><img src="http://static.panoramio.com/photos/large/86021206.jpg" style="width:242px"></div><div><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/7025943?with_photo_id=86021206" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">Prakash Roy</a></font></div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>91.677734,26.170403,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#4 - Koch Behar or Cooch Behar / Oct. 21, 1627 </name>
+    <description><![CDATA[<font size="1" face="arial, sans-serif"><b>Report of Father Estevao Cacella / Page 4</b></font><div><font size="1" face="arial, sans-serif"><br></font></div><div><font size="1" face="arial, sans-serif">...&nbsp;we left on the 8th of October&nbsp;for Bihar where we arrived on the 21st of the same month:&nbsp;here, we had to wait four months before we could cross the&nbsp;</font><div><font size="1" face="arial, sans-serif">mountains...</font></div><div><font size="1" face="arial, sans-serif"><br></font></div><div><font size="1" face="arial, sans-serif"><b>Cooh Behar Palace</b></font></div></div><div style="font-family:arial;font-size:10pt"><img src="http://static.panoramio.com/photos/large/28068837.jpg" style="font-size:10pt;width:242px"></div><div style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/3038761?with_photo_id=28068837" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">suman.juniv</a></font></div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>89.440666,26.325729,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#5 - Rangamati [Jaigon]  / Feb. 2, 1627</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><b>Report of Father Estevao Cacella / Page 11</b><br><br>I soon set out&nbsp;with his men for Rangamati where I met seven or eight people&nbsp;from those kingdoms whom I had been looking forward to&nbsp;meeting and was very pleased to see. They gave me all the&nbsp;information they could but told me that it would not be&nbsp;possible to cross the mountains because of the thick snows,&nbsp;strong winds and heavy rains normal at that time of the year,&nbsp;so although I very much wished to proceed with my journey,&nbsp;it was not possible, and we were forced to wait four more months in the kingdom of Koch.&nbsp;</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><br>&nbsp;</div><div dir="ltr"><font face="arial, sans-serif" size="1"><b>Entrance to Bhutan.</b></font></div><div dir="ltr"><img src="http://static.panoramio.com/photos/large/94525939.jpg" style="width:242px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/7841246?with_photo_id=94525939" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">mahboob.afsar</a></font><br><font face="arial" size="2">&nbsp;</font></div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>89.388283,26.843370,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#6 - First town in Bhutan / Feb. 26, 1627</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><b style="font-family:arial, sans-serif;font-size:x-small">Report of Father Estevao Cacella / Page 13</b></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif">On the 26th of February, after travelling four days in the&nbsp;mountains we arrived in the first village of these kingdoms&nbsp;and although we wanted to continue we could not do so&nbsp;immediately, because the man we had hired to come with us,&nbsp;an important person among these people, had stayed behind&nbsp;in Rangamati on his own business; he had provided people to&nbsp;accompany us but they had orders to keep us in that village&nbsp;till his arrival six months later, and we were not to be given&nbsp;permission to proceed</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><img src="http://static.panoramio.com/photos/large/25539666.jpg" style="width:242px"></font></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/3451262?with_photo_id=25539666" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">Dr.V.S.Chouhan</a></font></div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>89.570419,27.055532,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#7 - Rintan?</name>
+    <description><![CDATA[<b style="font-family:arial, sans-serif;font-size:x-small">Report of Father Estevao Cacella / Page 14</b><div style="font-family:arial;font-size:10pt"><span style="font-family:arial, sans-serif;font-size:x-small"><br></span></div><div style="font-family:arial;font-size:10pt"><span style="font-family:arial, sans-serif;font-size:x-small">Having left the village, after six days in the mountains we&nbsp;arrived at a bigger one called Rintan where we found the first&nbsp;house of the King, whose people looked after us; on the same&nbsp;day, there arrived a man who was a relative of the person in&nbsp;Rangamati who had negotiated our coming - he said he would&nbsp;take us to Paro, main town of this kingdom, and from there to&nbsp;the King; as we were very anxious to avoid being detained&nbsp;again, we were happy to leave with him for Paro, arriving&nbsp;there at the end of four days journey.</span></div><div style="font-family:arial;font-size:10pt"><span style="font-family:arial, sans-serif;font-size:x-small"><br></span></div><div><font size="1" face="arial, sans-serif"><img src="http://static.panoramio.com/photos/large/47251668.jpg" style="width:242px"></font></div><div><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/5489575?with_photo_id=47251668" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">karmajigmel</a></font></div>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>89.530441,27.193190,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#8 - Paro / March 25, 1627</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><b style="font-family:arial, sans-serif;font-size:x-small">Report of Father Estevao Cacella / Page 14</b></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif">The town of Paro, surrounded by mountains pleasant to look&nbsp;upon, lies in a beautiful wide plain, which at the time was&nbsp;covered with neat fields of wheat and rice; the plain, divided &nbsp;by two large rivers, is very attractive specially because of the&nbsp;presence of cool large willow trees and the many channels&nbsp;that originate from the rivers; on the plain, the houses are&nbsp;large and tall, usually of three, four or five floors...</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><img src="http://static.panoramio.com/photos/large/70056109.jpg" style="width:242px"></font></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/3381651?with_photo_id=70056109" rel="author" style="color:rgb(90, 123, 243);text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255)" target="_blank">Shaheen.28</a></font></div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>89.416267,27.428995,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name># 9 - Cambirasi (Palizhen) / Oct. 4, 1627</name>
+    <description><![CDATA[<div dir="ltr" style="font-size:10pt;font-family:arial"><font size="1" face="arial, sans-serif"><b>Book:&nbsp;Early Jesuit Travellers in Central Asia: 1603-1721 / Page 143</b><br><br>The reader, however, will excuse us from entering upon this point, and permit us roughly to identify Caceella's Cambirasi and Cabal's Mon with the noirth-western territy oid Bhutan in the direction of Phari Dzong, which Kant Bose mentions as in his time still belonging to Bhutan.</font></div><div dir="ltr" style="font-size:10pt;font-family:arial"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><font face="arial, sans-serif" size="1"><img src="http://static.panoramio.com/photos/large/16809746.jpg" style="width:242px"></font></div><div dir="ltr"><font face="arial, sans-serif" size="1">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/1093693?with_photo_id=16809746" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">GaoZhiyong</a></font></div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>89.154053,27.722437,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#10 - Ralun or Ralung (Relongxiang)</name>
+    <description><![CDATA[<div dir="ltr"><b style="font-family:arial, sans-serif;font-size:x-small">Report of Father Estevao Cacella / Page 20</b></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><font size="1" face="arial, sans-serif">For two months we accompanied the King through these and other mountains until we reached his house which is situated  in the mountain where he went on retreat; he keeps no more than his lamas with him because the place cannot hold more people as in order to build a house one would have to cut many rocks and work very hard to level some space in that very steep mountain; he had chosen that place to protect himself from a King who lives some eight days distance from here, Demba Cemba [sDe pa gTsang pa], the most important king of Bhotanta [Tibet] who had fought him [the Shabdrung] some years previously, as he told us, for not wanting to give him a bone from his late father and for which reason he left his town of Ralun [Ra-lung], a large and important one, which <br>is five days walk from here.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><font size="1" face="arial, sans-serif">-----</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><b style="font-family:arial, sans-serif;font-size:x-small">Book:&nbsp;Early Jesuit Travellers in Central Asia: 1603-1721 / Page 142</b></div><div dir="ltr"><b style="font-family:arial, sans-serif;font-size:x-small"><br></b></div><div dir="ltr"><span style="font-family:arial, sans-serif;font-size:x-small">The Town of Ralum, the residence of the king in more peaceful times, is identical with Ralung, a little over thirty miles east of Gyantse; in it is the famous Dukpa monastery, the original head-quarters of the Red-hat sect of lamas, which is supreme in Bhutan.</span></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>90.047096,28.823677,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ralun or Ralung </name>
+    <description><![CDATA[<font size="1" face="arial, sans-serif"><img src="http://static.panoramio.com/photos/large/60522714.jpg" style="width:242px"></font><div><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/2425741?with_photo_id=60522714" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">hatong</a></font></div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>90.049179,28.823809,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ralung Monastery</name>
+    <description><![CDATA[<font size="1" face="arial, sans-serif"><img src="http://static.panoramio.com/photos/large/73609268.jpg" style="width:242px"></font><div><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;</font><span style="background-color:rgb(255, 255, 255);color:rgb(90, 123, 243);font-family:arial, sans-serif;font-size:x-small;line-height:14px;text-decoration:underline">Richard Weil</span></div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>90.100037,28.833658,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#11 - Shigatse (Ü-Tsang)  / Jan. 1628</name>
+    <description><![CDATA[<b style="font-family:arial, sans-serif;font-size:x-small">Book:&nbsp;Early Jesuit Travellers in Central Asia: 1603-1721 / Pages 158 and 162</b><div style="font-family:arial;font-size:10pt"><font face="arial, sans-serif" size="1"><b><br></b></font></div><div style="font-family:arial;font-size:10pt"><b style="font-family:arial, sans-serif;font-size:x-small">Page 158:&nbsp;</b><font face="arial, sans-serif" size="1">Azevedo does not say when and where it was written, but since the contents show that it was written from Shigatse, as will I think clearly appear in the sequel, since it was received at Tsaparang some days August 26, 1631, it must have been dispatched about the end of July 1631, for the two towns of Tsaparang and Shigatse are by Cabral's own statement at one month's journey distant from each other.</font></div><div style="font-family:arial;font-size:10pt"><font face="arial, sans-serif" size="1"><br></font></div><div style="font-family:arial;font-size:10pt"><font face="arial, sans-serif" size="1">-----</font></div><div style="font-family:arial;font-size:10pt"><font face="arial, sans-serif" size="1"><br></font></div><div><b style="font-family:arial, sans-serif;font-size:x-small">Page 162: Chronological Summary</b><br><ul><li><font face="arial, sans-serif" size="1">Nov. (?) Departure of Cacella for Shigatse</font></li><li><font face="arial, sans-serif" size="1">Jan. 20, 1628 Arrival of Cabral at Shigatse</font></li></ul><div style="font-family:arial;font-size:10pt"><b style="font-family:arial, sans-serif;font-size:x-small"><br></b></div></div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>88.867821,29.268688,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tashilhunpo Monastery</name>
+    <description><![CDATA[<font size="1" face="arial, sans-serif"><img src="http://static.panoramio.com/photos/large/490680.jpg" style="width:242px"></font><div><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/62557?with_photo_id=490680" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">Dirk Jenrich</a></font></div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>88.868111,29.268711,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

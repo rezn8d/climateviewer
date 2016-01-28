@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Interactive Map of Afanasy Nikitin&#39;s 1466 Exploration of India</name>
+  <description><![CDATA[In this documentary, in the form of a Google Map, you can zoom in on and follow Afanasy Nikitin's 1466 exploration of India as he seeks his fortunes selling horses in India. Nikitin described his trip in a narrative known as The Journey Beyond Three Seas (Khozheniye za tri morya). Unlike most maps, this map enables you to digitally experience the expedition and zoom in close on each location while you read various content online. If you decide to follow the book link, you will need to have Google translate it---it makes for a very good translation and provides some good background information on Nikitin. 
+]]></description>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://2.bp.blogspot.com/-LvazW9eEgL0/TuEw9t0rTfI/AAAAAAAAAog/-_HiMY-wFkE/s200/Book+icon-silo4.gif</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/hiker.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ltblu-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ltblu-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ltblu-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ltblu-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ltblu-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ltblu-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ltblu-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ltblu-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Information this map is based on</name>
+    <description><![CDATA[<div style="font-family:arial"><span style="font-family:sans-serif;line-height:19px;background-color:rgb(255, 255, 255)"><font size="1">Afanasy Nikitin described his trip in a narrative known as&nbsp;<i><a href="http://en.wikipedia.org/wiki/A_Journey_Beyond_the_Three_Seas" title="A Journey Beyond the Three Seas" style="text-decoration:none;color:rgb(6, 69, 173);background-color:initial" target="_blank">The Journey Beyond Three Seas</a></i>&nbsp;(<i>Khozheniye za tri morya</i>). Unfortunately we cannot gain access to this book, so the locations in this map were determined by the content from the following web sites:</font></span></div><div><ul><li><a href="http://en.wikipedia.org/wiki/Afanasiy_Nikitin" target="_blank"><font size="1" face="arial, sans-serif">Wikipedia's page on Afanasy Nikitin</font></a></li><li><a href="http://www.kamat.com/kalranga/itihas/nikitin.htm" target="_blank"><font size="1" face="arial, sans-serif">Kamat's Potpourri: Afanasy Nikitin 1466 - 1472</font></a></li></ul></div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>25.312500,31.653381,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Digitally walk this map in 3D.</name>
+    <description><![CDATA[<a href="https://docs.google.com/file/d/0B52hHMRyBvEsNF8wZW0tbFI4TWc/edit" target="_blank">You can digitally walk this map in 3D using this Google Earth KML file.</a>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>32.519531,31.802893,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#1 - Tver, Russia / 1466 (now Kalinin)</name>
+    <description><![CDATA[<a href="http://en.wikipedia.org/wiki/Afanasiy_Nikitin" style="font-family:arial;font-size:10pt" target="_blank"><font face="arial, sans-serif" size="2"><b>Wikipedia</b>:</font></a><div style="font-family:arial;font-size:10pt"><i><font face="arial, sans-serif" size="1">"<span style="line-height:19px;background-color:rgb(255, 255, 255)">In 1466, Nikitin left his hometown of&nbsp;<a href="http://en.wikipedia.org/wiki/Tver" title="Tver" style="text-decoration:none;color:rgb(6, 69, 173);background-color:initial" target="_blank">Tver</a>&nbsp;on a&nbsp;<a href="http://en.wikipedia.org/wiki/Commerce" title="Commerce" style="text-decoration:none;color:rgb(6, 69, 173);background-color:initial" target="_blank">commercial</a>&nbsp;trip to India."</span></font></i></div><div style="font-family:arial;font-size:10pt"><i><span style="line-height:19px;background-color:rgb(255, 255, 255)"><font face="arial, sans-serif" size="2"><br></font></span></i></div><div style="font-family:arial;font-size:10pt"><span style="line-height:19px;background-color:rgb(255, 255, 255)"><font face="arial, sans-serif" size="2"><b><a href="http://www.kamat.com/kalranga/itihas/nikitin.htm" target="_blank">Kamat's Potourri:</a></b></font></span></div><div><font size="1"><span style="line-height:19px;background-color:rgb(255, 255, 255)"><span style="line-height:normal"><i><font face="arial, sans-serif">"He had heard that India did not breed good horses. He purchased a very good horse and reaching Hormuz a great trade-center of Middle East, started his voyage in a Dabba, frail small sea-ship to India.</font></i></span></span><span style="line-height:19px;background-color:rgb(255, 255, 255)"><i><font face="arial, sans-serif">"</font></i></span></font></div>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>35.924168,56.862499,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#2 - Volga River</name>
+    <description><![CDATA[<div dir="ltr"><font face="arial, sans-serif"><b style="font-family:arial;font-size:10pt"><a href="http://en.wikipedia.org/wiki/Afanasiy_Nikitin" target="_blank">Wikipedia:</a></b><br><i><font size="1">"He travelled down the Volga River, reached Derbent, then Baku and later Persia by crossing the Caspian Sea, where he would live for one year."</font></i></font></div>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>47.900391,46.215950,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#3 - Derbent</name>
+    <description><![CDATA[<font face="arial, sans-serif"><b style="font-family:arial;font-size:10pt"><a href="http://en.wikipedia.org/wiki/Afanasiy_Nikitin" target="_blank">Wikipedia:</a></b><br><i><font size="1">"He travelled down the Volga River, reached Derbent, then Baku and later Persia by crossing the Caspian Sea, where he would live for one year."</font></i></font>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>48.300480,42.057831,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#4 - Baku, Azerbaijan</name>
+    <description><![CDATA[<font face="arial, sans-serif"><b style="font-family:arial;font-size:10pt"><a href="http://en.wikipedia.org/wiki/Afanasiy_Nikitin" target="_blank">Wikipedia:</a></b><br><i><font size="1">"He travelled down the Volga River, reached Derbent, then Baku and later Persia by crossing the Caspian Sea, where he would live for one year."<br></font></i></font>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>49.882488,40.395969,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#5 - Ormuz (Hormuz)</name>
+    <description><![CDATA[<b style="font-family:arial;font-size:10pt"><a href="http://en.wikipedia.org/wiki/Afanasiy_Nikitin" target="_blank"><font size="2" face="arial, sans-serif">Wikipedia:</font></a></b><div><span style="line-height:19px;background-color:rgb(255, 255, 255)"><i><font face="arial, sans-serif" size="1">"In the spring of 1469, Nikitin arrived at the city of&nbsp;<a href="http://en.wikipedia.org/wiki/Ormus" title="Ormus" style="text-decoration:none;color:rgb(6, 69, 173)" target="_blank">Ormus</a>..."</font></i></span></div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>56.450001,27.100000,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#6 - Chaul, India</name>
+    <description><![CDATA[<b style="font-family:arial;font-size:10pt"><font face="arial, sans-serif" size="2"><a href="http://www.kamat.com/kalranga/itihas/nikitin.htm" target="_blank">Kamat's Potourri:</a></font></b><div><span style="background-color:rgb(255, 255, 255)"><i><font face="arial, sans-serif" size="1">"After a stormy and troublesome journey he reached Chaul on the west coast of&nbsp;&nbsp;<a href="http://www.kamat.com/indica/geography/arabian_sea.htm" target="_blank">Arabian sea</a>."</font></i></span></div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>72.927200,18.546101,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#7 - Gulburga, India</name>
+    <description><![CDATA[<b style="font-family:arial;font-size:10pt"><font size="2" face="arial, sans-serif"><a href="http://www.kamat.com/kalranga/itihas/nikitin.htm" target="_blank">Kamat's Potpourri:</a></font></b><div><span style="background-color:rgb(255, 255, 255)"><i><font face="arial, sans-serif" size="1">"At that time the local ruler was a Muslim and a subordinate of&nbsp;<a href="http://www.kamat.com/kalranga/bijapur/bahamani.htm" target="_blank">Bahamani</a>&nbsp;king Muhammad Shah III (1463-1482).&nbsp;<a href="http://www.kamat.com/kalranga/itihas/gawan.htm" target="_blank">Mohammed Gawan</a>&nbsp;was the Vizier "or Prime Minister and all powerful. He held the title of Malik et-Tuzzar. Nikitan calls him Tuzzar. The Bahmani kings had Gulburga and later Bidar as their capital cities. Nikitin visited both the cities."</font></i></span></div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>76.838379,17.308687,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#8 - Bidar, India</name>
+    <description><![CDATA[<b style="font-family:arial;font-size:medium"><font size="2" face="arial, sans-serif"><a href="http://www.kamat.com/kalranga/itihas/nikitin.htm" target="_blank">Kamat's Potpourri:</a></font></b><div><span style="background-color:rgb(255, 255, 255)"><font size="1" face="arial, sans-serif"><i>"At Bidar, horses, brocade silk and black people were sold in the market. The palace had seven gates with hundred armed guards at each gate. Hundred scribes registered the names of entrants. The palace was beautifully decorated with golden designs.</i></font></span><div><span style="background-color:rgb(255, 255, 255)"><font face="arial, sans-serif"><p><font size="1"><i>He sold the high-bred horse he brought from Hormuz at a good price in Bidar."</i></font></p></font></span></div></div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>77.527138,17.907370,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#9 - Hampi, India</name>
+    <description><![CDATA[<b style="font-family:arial;font-size:10pt"><font size="2" face="arial, sans-serif"><a href="http://www.kamat.com/kalranga/itihas/nikitin.htm" target="_blank">Kamat's Potpourri:</a></font></b><div><font face="arial, sans-serif" size="1"><i><span style="background-color:rgb(255, 255, 255)">"He then visited parts of&nbsp;<a href="http://www.kamat.com/kalranga/andhra/vnagar.htm" target="_blank">Vijayanagar</a>...&nbsp;</span><span style="background-color:rgb(255, 255, 255)">He calls the Vijayanagar ruler very powerful and the capital city lying in a beautiful valley surrounded by high mountains on one side, thick jungles at another side and three big moats on the third side. "Vijayanagara is good for everything!" he declared.</span><span style="background-color:rgb(255, 255, 255)">"</span></i></font></div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>76.460983,15.333691,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#10 - Parvat (Shri Shaila)</name>
+    <description><![CDATA[<span style="background-color:rgb(255, 255, 255)"><b style="font-family:arial, sans-serif;font-size:small"><a href="http://www.kamat.com/kalranga/itihas/nikitin.htm" style="color:rgb(17, 85, 204);text-decoration:underline;outline-style:none;outline-width:initial;outline-color:initial" target="_blank">Kamat's Potpourri:</a></b><br><i><font size="1" face="arial, sans-serif">"Nikitin went to Parvat (Shri Shaila) where pilgrims went in thousands on foot and in oxen carts."</font></i></span>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>73.847786,18.488743,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#11 - Raichur, India</name>
+    <description><![CDATA[<span style="font-family:arial;font-size:medium"><b><font size="2" face="arial, sans-serif"><a href="http://www.kamat.com/kalranga/itihas/nikitin.htm" target="_blank">Kamat's Potpourri:</a></font></b></span><div><font size="1"><font face="arial, sans-serif"><i><span style="background-color:rgb(255, 255, 255)">"He visited the diamond mines round about Raichur and Golkonda, where the cut diamonds had world-market.</span></i></font><font face="arial, sans-serif"><i><span style="background-color:rgb(255, 255, 255)">"</span></i></font></font></div>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>77.354362,16.207020,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#12 - Golkonda, India</name>
+    <description><![CDATA[<div dir="ltr"><span style="font-family:arial;font-size:medium"><b><font size="2" face="arial, sans-serif"><a href="http://www.kamat.com/kalranga/itihas/nikitin.htm" target="_blank">Kamat's Potpourri:</a></font></b></span><div><font face="arial, sans-serif" size="1"><i><span style="background-color:rgb(255, 255, 255)">"He visited the diamond mines round about Raichur and Golkonda, where the cut diamonds had world-market.</span><span style="background-color:rgb(255, 255, 255)">"</span></i></font></div></div>]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>78.401848,17.383181,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#13 - Calicut, India</name>
+    <description><![CDATA[<b style="font-family:arial;font-size:10pt"><font size="2" face="arial, sans-serif"><a href="http://www.kamat.com/kalranga/itihas/nikitin.htm" target="_blank">Kamat's Potpourri:</a></font></b><div><i><font face="arial, sans-serif" size="1">"<span style="background-color:rgb(255, 255, 255)">Calicut had good quality pepper, ginger, nutmeg, cinnamon, cloves which were sold abroad. He also saw slaves sold there."</span></font></i></div>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>75.781212,11.255400,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#14R - Dabhol (Maharashtra)</name>
+    <description><![CDATA[<font size="2" face="arial, sans-serif" style="font-family:arial;font-size:10pt"><a href="http://www.kamat.com/kalranga/itihas/nikitin.htm" target="_blank"><b>Kamat's Potpourri</b>:</a></font><div><i><font face="arial, sans-serif" size="1">"<span style="background-color:rgb(255, 255, 255)">Nikitin started for his return journey from Dabhol (in today's&nbsp;<a href="http://www.kamat.com/kalranga/maharashtra/" target="_blank">Maharashtra</a>) after three year stay and continuous travel."</span></font></i></div>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>75.713890,19.751480,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#15R - Eithopia</name>
+    <description><![CDATA[<div dir="ltr"><font><font face="arial, sans-serif"><b style="font-family:arial;font-size:10pt">Kamat's Potpourri:</b><br><i><font size="1">"He sailed for Hormuz via Ethiopia, reached Persia and them a Russian Settlement at Kafla [Feodosiya] in Crimean Port.</font></i></font><font size="1" face="arial, sans-serif"><i>"</i></font></font></div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>43.144684,11.589015,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#16R - Muscat</name>
+    <description><![CDATA[<b style="font-family:arial;font-size:10pt"><font size="2" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Afanasiy_Nikitin" target="_blank">Wikipedia:</a></font></b><div><i><font face="arial, sans-serif" size="1">"<span style="line-height:19px;background-color:rgb(255, 255, 255)">On his way back, Nikitin visited&nbsp;<a href="http://en.wikipedia.org/wiki/Muscat,_Oman" title="Muscat, Oman" style="text-decoration:none;color:rgb(6, 69, 173)" target="_blank">Muscat</a>, the&nbsp;<a href="http://en.wikipedia.org/wiki/Arabian_Peninsula" title="Arabian Peninsula" style="text-decoration:none;color:rgb(6, 69, 173)" target="_blank">Arabian</a>&nbsp;sultanate of&nbsp;<a href="http://en.wikipedia.org/w/index.php?title=De.wikipedia.org/wiki/Fartak&amp;action=edit&amp;redlink=1" title="De.wikipedia.org/wiki/Fartak (page does not exist)" style="text-decoration:none;color:rgb(186, 0, 0)" target="_blank">Fartak</a>,&nbsp;<a href="http://en.wikipedia.org/wiki/Somalia" title="Somalia" style="text-decoration:none;color:rgb(6, 69, 173)" target="_blank">Somalia</a>&nbsp;and&nbsp;<a href="http://en.wikipedia.org/wiki/Trabzon" title="Trabzon" style="text-decoration:none;color:rgb(6, 69, 173)" target="_blank">Trabzon</a>..."</span></font></i></div>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>58.540001,23.610001,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#17R- Somalia</name>
+    <description><![CDATA[<div dir="ltr"><b style="font-family:arial;font-size:medium"><font size="2" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Afanasiy_Nikitin" target="_blank">Wikipedia:</a></font></b><div><i><font face="arial, sans-serif" size="1">"<span style="line-height:19px;background-color:rgb(255, 255, 255)">On his way back, Nikitin visited&nbsp;<a href="http://en.wikipedia.org/wiki/Muscat,_Oman" title="Muscat, Oman" style="text-decoration:none;color:rgb(6, 69, 173)" target="_blank">Muscat</a>, the&nbsp;<a href="http://en.wikipedia.org/wiki/Arabian_Peninsula" title="Arabian Peninsula" style="text-decoration:none;color:rgb(6, 69, 173)" target="_blank">Arabian</a>&nbsp;sultanate of&nbsp;<a href="http://en.wikipedia.org/w/index.php?title=De.wikipedia.org/wiki/Fartak&amp;action=edit&amp;redlink=1" title="De.wikipedia.org/wiki/Fartak (page does not exist)" style="text-decoration:none;color:rgb(186, 0, 0)" target="_blank">Fartak</a>,&nbsp;<a href="http://en.wikipedia.org/wiki/Somalia" title="Somalia" style="text-decoration:none;color:rgb(6, 69, 173)" target="_blank">Somalia</a>&nbsp;and&nbsp;<a href="http://en.wikipedia.org/wiki/Trabzon" title="Trabzon" style="text-decoration:none;color:rgb(6, 69, 173)" target="_blank">Trabzon</a>..."</span></font></i></div></div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>48.208008,10.746969,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#18R - Fartak, Yemen</name>
+    <description><![CDATA[<b style="font-family:arial;font-size:medium"><font size="2" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Afanasiy_Nikitin" target="_blank">Wikipedia:</a></font></b><div><i><font face="arial, sans-serif" size="1">"<span style="line-height:19px;background-color:rgb(255, 255, 255)">On his way back, Nikitin visited&nbsp;<a href="http://en.wikipedia.org/wiki/Muscat,_Oman" title="Muscat, Oman" style="text-decoration:none;color:rgb(6, 69, 173)" target="_blank">Muscat</a>, the&nbsp;<a href="http://en.wikipedia.org/wiki/Arabian_Peninsula" title="Arabian Peninsula" style="text-decoration:none;color:rgb(6, 69, 173)" target="_blank">Arabian</a>&nbsp;sultanate of&nbsp;<a href="http://en.wikipedia.org/w/index.php?title=De.wikipedia.org/wiki/Fartak&amp;action=edit&amp;redlink=1" title="De.wikipedia.org/wiki/Fartak (page does not exist)" style="text-decoration:none;color:rgb(186, 0, 0)" target="_blank">Fartak</a>,&nbsp;<a href="http://en.wikipedia.org/wiki/Somalia" title="Somalia" style="text-decoration:none;color:rgb(6, 69, 173)" target="_blank">Somalia</a>,&nbsp;<a href="http://en.wikipedia.org/wiki/Trabzon" title="Trabzon" style="text-decoration:none;color:rgb(6, 69, 173)" target="_blank">Trabzon</a>, and Hormuz"</span></font></i></div>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>51.590557,15.948333,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#19R - Trabzon, Turkey</name>
+    <description><![CDATA[<b style="font-family:arial;font-size:medium"><font size="2" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Afanasiy_Nikitin" target="_blank">Wikipedia:</a></font></b><div><i><font face="arial, sans-serif" size="1">"<span style="line-height:19px;background-color:rgb(255, 255, 255)">On his way back, Nikitin visited&nbsp;<a href="http://en.wikipedia.org/wiki/Muscat,_Oman" title="Muscat, Oman" style="text-decoration:none;color:rgb(6, 69, 173)" target="_blank">Muscat</a>, the&nbsp;<a href="http://en.wikipedia.org/wiki/Arabian_Peninsula" title="Arabian Peninsula" style="text-decoration:none;color:rgb(6, 69, 173)" target="_blank">Arabian</a>&nbsp;sultanate of&nbsp;<a href="http://en.wikipedia.org/w/index.php?title=De.wikipedia.org/wiki/Fartak&amp;action=edit&amp;redlink=1" title="De.wikipedia.org/wiki/Fartak (page does not exist)" style="text-decoration:none;color:rgb(186, 0, 0)" target="_blank">Fartak</a>,&nbsp;<a href="http://en.wikipedia.org/wiki/Somalia" title="Somalia" style="text-decoration:none;color:rgb(6, 69, 173)" target="_blank">Somalia</a>&nbsp;and&nbsp;<a href="http://en.wikipedia.org/wiki/Trabzon" title="Trabzon" style="text-decoration:none;color:rgb(6, 69, 173)" target="_blank">Trabzon</a>..."</span></font></i></div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>39.733334,41.000000,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#20R - Feodosiya, Crimea, Ukraine / 1472</name>
+    <description><![CDATA[<b style="font-family:arial;font-size:10pt"><font size="2" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Afanasiy_Nikitin" target="_blank">Wikipedia:</a></font></b><div><span style="line-height:19px;background-color:rgb(255, 255, 255)"><i><font face="arial, sans-serif" size="1">"...and in 1472 arrived at&nbsp;<a href="http://en.wikipedia.org/wiki/Feodosiya" title="Feodosiya" style="text-decoration:none;color:rgb(6, 69, 173)" target="_blank">Feodosiya</a>&nbsp;by crossing the&nbsp;<a href="http://en.wikipedia.org/wiki/Black_Sea" title="Black Sea" style="text-decoration:none;color:rgb(6, 69, 173)" target="_blank">Black Sea</a>."</font></i></span></div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>35.382435,45.031933,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>#21R - Smolensk</name>
+    <description><![CDATA[<b style="font-family:arial;font-size:10pt"><font size="2" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Afanasiy_Nikitin" target="_blank">Wikipedia:</a></font></b><div><i><font face="arial, sans-serif" size="1">"<span style="line-height:19px;background-color:rgb(255, 255, 255)">On his way to Tver, Nikitin died not far from&nbsp;<a href="http://en.wikipedia.org/wiki/Smolensk" title="Smolensk" style="text-decoration:none;color:rgb(6, 69, 173)" target="_blank">Smolensk</a>&nbsp;in the autumn of that year."</span></font></i></div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>32.049999,54.783333,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Other Interactive Maps on History</name>
+    <description><![CDATA[<div dir="ltr"><div dir="ltr"><font face="arial" style="font-family:arial;font-size:10pt"><font size="2"><b>Try one of the many other Interactive Maps of Explorers and Historic Events at&nbsp;</b></font></font><b><a href="http://myreadingmapped.blogspot.com/" target="_blank">MyReadingMapped.</a></b></div><div dir="ltr"><b><br></b></div><div dir="ltr"><img src="http://1.bp.blogspot.com/-Ag6qDYAWE3Y/Tung1DRL2PI/AAAAAAAAAr4/kfqblVInWis/s320/MRM+screen+shot.JPG"></div></div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>64.335938,12.897489,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

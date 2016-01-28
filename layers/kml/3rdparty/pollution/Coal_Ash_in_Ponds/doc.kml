@@ -1,0 +1,1420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Coal_Ash_in_Ponds.kmz</name>
+	<StyleMap id="Style_0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#Style_01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#Style_00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="Style_00">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+			<color>ffdcf5f5</color>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-stars-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffa8009a</color>
+		</PolyStyle>
+	</Style>
+	<Style id="Style_01">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-stars.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+		<BalloonStyle>
+			<text>$[description]</text>
+			<color>ffdcf5f5</color>
+		</BalloonStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/red-stars-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffa8009a</color>
+		</PolyStyle>
+	</Style>
+	<Placemark id="pm1">
+		<name>Gibson (PSI)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Gibson (PSI) Plant in Indiana</h2><b>Annual Tons of Ash:</b> 1057624.08<br><b>Annual Tons of Ash in Ponds:</b> 1057624.08<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g1">
+			<coordinates>-87.76609999999999,38.3722,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm2">
+		<name>Monroe (DETED)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Monroe (DETED) Plant in Michigan</h2><b>Annual Tons of Ash:</b> 766546.4<br><b>Annual Tons of Ash in Ponds:</b> 612728.63<br><B>Percent of Ash in Ponds:</b> 80%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g2">
+			<coordinates>-83.34610000000001,41.8917,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm3">
+		<name>Mansfield (FIRGEN)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Mansfield (FIRGEN) Plant in Pennsylvania</h2><b>Annual Tons of Ash:</b> 688253.26<br><b>Annual Tons of Ash in Ponds:</b> 585020.42<br><B>Percent of Ash in Ponds:</b> 85%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g3">
+			<coordinates>-80.42,40.6344,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm4">
+		<name>Paradise (TVA)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Paradise (TVA) Plant in Kentucky</h2><b>Annual Tons of Ash:</b> 568889.45<br><b>Annual Tons of Ash in Ponds:</b> 568889.45<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g4">
+			<coordinates>-86.9783,37.2608,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm5">
+		<name>Scherer</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Scherer Plant in Georgia</h2><b>Annual Tons of Ash:</b> 851152.98<br><b>Annual Tons of Ash in Ponds:</b> 540775.74<br><B>Percent of Ash in Ponds:</b> 64%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g5">
+			<coordinates>-83.8072,33.0583,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm6">
+		<name>J M Stuart (DP&amp;L)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>J M Stuart (DP&L) Plant in Ohio</h2><b>Annual Tons of Ash:</b> 665704.32<br><b>Annual Tons of Ash in Ponds:</b> 532579.76<br><B>Percent of Ash in Ponds:</b> 80%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g6">
+			<coordinates>-83.6939,38.6361,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm7">
+		<name>Ghent</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Ghent Plant in Kentucky</h2><b>Annual Tons of Ash:</b> 524709.49<br><b>Annual Tons of Ash in Ponds:</b> 524709.49<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g7">
+			<coordinates>-85.035,38.7497,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm8">
+		<name>Wansley</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Wansley Plant in Georgia</h2><b>Annual Tons of Ash:</b> 520812.13<br><b>Annual Tons of Ash in Ponds:</b> 513728.85<br><B>Percent of Ash in Ponds:</b> 99%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g8">
+			<coordinates>-85.0341,33.4112,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm9">
+		<name>Barry (ALAP)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Barry (ALAP) Plant in Alabama</h2><b>Annual Tons of Ash:</b> 509261.54<br><b>Annual Tons of Ash in Ponds:</b> 509261.54<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g9">
+			<coordinates>-88.0103,31.0069,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm10">
+		<name>Harllee Branch</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Harllee Branch Plant in Georgia</h2><b>Annual Tons of Ash:</b> 452626.87<br><b>Annual Tons of Ash in Ponds:</b> 435270.42<br><B>Percent of Ash in Ponds:</b> 96%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g10">
+			<coordinates>-83.29940000000001,33.1942,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm11">
+		<name>Widows Creek</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Widows Creek Plant in Alabama</h2><b>Annual Tons of Ash:</b> 507538.98<br><b>Annual Tons of Ash in Ponds:</b> 405394.64<br><B>Percent of Ash in Ponds:</b> 80%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g11">
+			<coordinates>-85.7547,34.8825,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm12">
+		<name>John E Amos</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>John E Amos Plant in West Virginia</h2><b>Annual Tons of Ash:</b> 876995.99<br><b>Annual Tons of Ash in Ponds:</b> 379144.76<br><B>Percent of Ash in Ponds:</b> 43%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g12">
+			<coordinates>-81.8233,38.4731,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm13">
+		<name>Cardinal</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Cardinal Plant in Ohio</h2><b>Annual Tons of Ash:</b> 430505.07<br><b>Annual Tons of Ash in Ponds:</b> 377876.65<br><B>Percent of Ash in Ponds:</b> 88%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g13">
+			<coordinates>-80.6486,40.2522,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm14">
+		<name>Colstrip</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Colstrip Plant in Montana</h2><b>Annual Tons of Ash:</b> 353030.62<br><b>Annual Tons of Ash in Ponds:</b> 344591.07<br><B>Percent of Ash in Ponds:</b> 98%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g14">
+			<coordinates>-106.62,45.8836,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm15">
+		<name>Kingston</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Kingston Plant in Tennessee</h2><b>Annual Tons of Ash:</b> 420022.29<br><b>Annual Tons of Ash in Ponds:</b> 335503.1<br><B>Percent of Ash in Ponds:</b> 80%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g15">
+			<coordinates>-84.51940000000001,35.8992,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm16">
+		<name>Chesterfield</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Chesterfield Plant in Virginia</h2><b>Annual Tons of Ash:</b> 343299<br><b>Annual Tons of Ash in Ponds:</b> 317876.74<br><B>Percent of Ash in Ponds:</b> 93%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g16">
+			<coordinates>-77.38330000000001,37.3822,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm17">
+		<name>Cayuga</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Cayuga Plant in Indiana</h2><b>Annual Tons of Ash:</b> 300469.59<br><b>Annual Tons of Ash in Ponds:</b> 300469.59<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g17">
+			<coordinates>-87.4272,39.9239,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm18">
+		<name>Big Sandy (KPC)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Big Sandy (KPC) Plant in Kentucky</h2><b>Annual Tons of Ash:</b> 306251.33<br><b>Annual Tons of Ash in Ponds:</b> 279971.72<br><B>Percent of Ash in Ponds:</b> 91%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g18">
+			<coordinates>-82.6208,38.1686,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm19">
+		<name>Labadie</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Labadie Plant in Missouri</h2><b>Annual Tons of Ash:</b> 621083.39<br><b>Annual Tons of Ash in Ponds:</b> 277765.38<br><B>Percent of Ash in Ponds:</b> 45%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g19">
+			<coordinates>-90.8361,38.5583,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm20">
+		<name>Sherburne County</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Sherburne County Plant in Minnesota</h2><b>Annual Tons of Ash:</b> 546867.61<br><b>Annual Tons of Ash in Ponds:</b> 275330.23<br><B>Percent of Ash in Ponds:</b> 50%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g20">
+			<coordinates>-93.89580000000001,45.3792,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm21">
+		<name>Leland Olds</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Leland Olds Plant in North Dakota</h2><b>Annual Tons of Ash:</b> 487915.88<br><b>Annual Tons of Ash in Ponds:</b> 256257.79<br><B>Percent of Ash in Ponds:</b> 53%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g21">
+			<coordinates>-101.3194,47.2819,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm22">
+		<name>Kyger Creek</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Kyger Creek Plant in Ohio</h2><b>Annual Tons of Ash:</b> 303182.36<br><b>Annual Tons of Ash in Ponds:</b> 250309.26<br><B>Percent of Ash in Ponds:</b> 83%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g22">
+			<coordinates>-82.1281,38.9161,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm23">
+		<name>Warrick</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Warrick Plant in Indiana</h2><b>Annual Tons of Ash:</b> 244646.71<br><b>Annual Tons of Ash in Ponds:</b> 244646.71<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g23">
+			<coordinates>-87.3322,37.9089,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm24">
+		<name>Gorgas</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Gorgas Plant in Alabama</h2><b>Annual Tons of Ash:</b> 305095.62<br><b>Annual Tons of Ash in Ponds:</b> 244092.5<br><B>Percent of Ash in Ponds:</b> 80%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g24">
+			<coordinates>-87.2003,33.6446,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm25">
+		<name>Mitchell (OPC)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Mitchell (OPC) Plant in West Virginia</h2><b>Annual Tons of Ash:</b> 357445.78<br><b>Annual Tons of Ash in Ponds:</b> 242451.09<br><B>Percent of Ash in Ponds:</b> 68%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g25">
+			<coordinates>-80.81529999999999,39.8297,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm26">
+		<name>Sandow 4 &amp; 5</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Sandow 4 & 5 Plant in Texas</h2><b>Annual Tons of Ash:</b> 523640.3<br><b>Annual Tons of Ash in Ponds:</b> 235761.87<br><B>Percent of Ash in Ponds:</b> 45%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g26">
+			<coordinates>-97.06389999999999,30.5642,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm27">
+		<name>Clay Boswell Energy Center</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Clay Boswell Energy Center Plant in Minnesota</h2><b>Annual Tons of Ash:</b> 231534.39<br><b>Annual Tons of Ash in Ponds:</b> 231534.39<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g27">
+			<coordinates>-93.6531,47.2603,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm28">
+		<name>Jeffrey Energy Center</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Jeffrey Energy Center Plant in Kansas</h2><b>Annual Tons of Ash:</b> 572852.52<br><b>Annual Tons of Ash in Ponds:</b> 216911.04<br><B>Percent of Ash in Ponds:</b> 38%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g28">
+			<coordinates>-96.1086,39.2853,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm29">
+		<name>Mayo</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Mayo Plant in North Carolina</h2><b>Annual Tons of Ash:</b> 218798.21<br><b>Annual Tons of Ash in Ponds:</b> 202084.46<br><B>Percent of Ash in Ponds:</b> 92%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g29">
+			<coordinates>-78.8917,36.5278,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm30">
+		<name>Wabash River</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Wabash River Plant in Indiana</h2><b>Annual Tons of Ash:</b> 201619.4<br><b>Annual Tons of Ash in Ponds:</b> 201619.4<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g30">
+			<coordinates>-87.4247,39.53,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm31">
+		<name>Miami Fort</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Miami Fort Plant in Ohio</h2><b>Annual Tons of Ash:</b> 319232.93<br><b>Annual Tons of Ash in Ponds:</b> 194946.77<br><B>Percent of Ash in Ponds:</b> 61%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g31">
+			<coordinates>-84.8031,39.1131,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm32">
+		<name>Killen Station</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Killen Station Plant in Ohio</h2><b>Annual Tons of Ash:</b> 193794<br><b>Annual Tons of Ash in Ponds:</b> 193794<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g32">
+			<coordinates>-83.4803,38.6903,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm33">
+		<name>E W Brown (KUC)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>E W Brown (KUC) Plant in Kentucky</h2><b>Annual Tons of Ash:</b> 183273.03<br><b>Annual Tons of Ash in Ponds:</b> 183273.03<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g33">
+			<coordinates>-84.7139,37.7889,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm34">
+		<name>Big Cajun 2</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Big Cajun 2 Plant in Louisiana</h2><b>Annual Tons of Ash:</b> 475854.99<br><b>Annual Tons of Ash in Ponds:</b> 176186.42<br><B>Percent of Ash in Ponds:</b> 37%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g34">
+			<coordinates>-91.3669,30.7261,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm35">
+		<name>Council Bluffs</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Council Bluffs Plant in Iowa</h2><b>Annual Tons of Ash:</b> 303278.34<br><b>Annual Tons of Ash in Ponds:</b> 176167.79<br><B>Percent of Ash in Ponds:</b> 57%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g35">
+			<coordinates>-95.8408,41.18,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm36">
+		<name>Naughton</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Naughton Plant in Wyoming</h2><b>Annual Tons of Ash:</b> 184209.26<br><b>Annual Tons of Ash in Ponds:</b> 166067.44<br><B>Percent of Ash in Ponds:</b> 90%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g36">
+			<coordinates>-110.5986,41.7572,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm37">
+		<name>Greene County (ALAP)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Greene County (ALAP) Plant in Alabama</h2><b>Annual Tons of Ash:</b> 160456.47<br><b>Annual Tons of Ash in Ponds:</b> 158585.48<br><B>Percent of Ash in Ponds:</b> 99%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g37">
+			<coordinates>-87.7811,32.6017,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm38">
+		<name>A B Brown (SIGE)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>A B Brown (SIGE) Plant in Indiana</h2><b>Annual Tons of Ash:</b> 156415.7<br><b>Annual Tons of Ash in Ponds:</b> 156415.7<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g38">
+			<coordinates>-87.715,37.9053,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm39">
+		<name>Baldwin Energy Complex</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Baldwin Energy Complex Plant in Illinois</h2><b>Annual Tons of Ash:</b> 441714.07<br><b>Annual Tons of Ash in Ponds:</b> 153409.68<br><B>Percent of Ash in Ponds:</b> 35%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g39">
+			<coordinates>-89.855,38.205,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm40">
+		<name>James H Miller Jr (ALAP)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>James H Miller Jr (ALAP) Plant in Alabama</h2><b>Annual Tons of Ash:</b> 711020.69<br><b>Annual Tons of Ash in Ponds:</b> 147082.99<br><B>Percent of Ash in Ponds:</b> 21%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g40">
+			<coordinates>-87.05970000000001,33.6319,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm41">
+		<name>L V Sutton</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>L V Sutton Plant in North Carolina</h2><b>Annual Tons of Ash:</b> 146875.74<br><b>Annual Tons of Ash in Ponds:</b> 146875.74<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g41">
+			<coordinates>-77.97969999999999,34.2836,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm42">
+		<name>East Bend</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>East Bend Plant in Kentucky</h2><b>Annual Tons of Ash:</b> 145769.08<br><b>Annual Tons of Ash in Ponds:</b> 145769.08<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g42">
+			<coordinates>-84.8511,38.9031,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm43">
+		<name>Philip Sporn</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Philip Sporn Plant in West Virginia</h2><b>Annual Tons of Ash:</b> 271272.3<br><b>Annual Tons of Ash in Ponds:</b> 145222.3<br><B>Percent of Ash in Ponds:</b> 54%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g43">
+			<coordinates>-81.92310000000001,38.9669,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm44">
+		<name>New Madrid</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>New Madrid Plant in Missouri</h2><b>Annual Tons of Ash:</b> 255798.91<br><b>Annual Tons of Ash in Ponds:</b> 145183.17<br><B>Percent of Ash in Ponds:</b> 56%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g44">
+			<coordinates>-89.5617,36.5147,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm45">
+		<name>R Gallagher</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>R Gallagher Plant in Indiana</h2><b>Annual Tons of Ash:</b> 143582.4<br><b>Annual Tons of Ash in Ponds:</b> 143582.4<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g45">
+			<coordinates>-85.8381,38.2636,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm46">
+		<name>Trimble County (LGEC)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Trimble County (LGEC) Plant in Kentucky</h2><b>Annual Tons of Ash:</b> 171677.12<br><b>Annual Tons of Ash in Ponds:</b> 141485.95<br><B>Percent of Ash in Ponds:</b> 82%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g46">
+			<coordinates>-85.4117,38.5847,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm47">
+		<name>Meramec</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Meramec Plant in Missouri</h2><b>Annual Tons of Ash:</b> 226840.64<br><b>Annual Tons of Ash in Ponds:</b> 136844.08<br><B>Percent of Ash in Ponds:</b> 60%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g47">
+			<coordinates>-90.33580000000001,38.4017,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm48">
+		<name>Sioux</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Sioux Plant in Missouri</h2><b>Annual Tons of Ash:</b> 251403.16<br><b>Annual Tons of Ash in Ponds:</b> 136399.59<br><B>Percent of Ash in Ponds:</b> 54%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g48">
+			<coordinates>-90.29170000000001,38.9158,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm49">
+		<name>Newton</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Newton Plant in Illinois</h2><b>Annual Tons of Ash:</b> 283505.21<br><b>Annual Tons of Ash in Ponds:</b> 133775.18<br><B>Percent of Ash in Ponds:</b> 47%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g49">
+			<coordinates>-88.2778,38.9361,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm50">
+		<name>Dan E Karn</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Dan E Karn Plant in Michigan</h2><b>Annual Tons of Ash:</b> 148695.1<br><b>Annual Tons of Ash in Ponds:</b> 133768.18<br><B>Percent of Ash in Ponds:</b> 90%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g50">
+			<coordinates>-83.84310000000001,43.6425,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm51">
+		<name>Cholla</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Cholla Plant in Arizona</h2><b>Annual Tons of Ash:</b> 277199.83<br><b>Annual Tons of Ash in Ponds:</b> 122882.4<br><B>Percent of Ash in Ponds:</b> 44%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g51">
+			<coordinates>-110.3,34.9333,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm52">
+		<name>Canadys Steam</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Canadys Steam Plant in South Carolina</h2><b>Annual Tons of Ash:</b> 114545.8<br><b>Annual Tons of Ash in Ponds:</b> 114545.8<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g52">
+			<coordinates>-80.62139999999999,33.0603,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm53">
+		<name>Four Corners (AZPS)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Four Corners (AZPS) Plant in New Mexico</h2><b>Annual Tons of Ash:</b> 474855.67<br><b>Annual Tons of Ash in Ponds:</b> 112604.45<br><B>Percent of Ash in Ponds:</b> 24%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g53">
+			<coordinates>-108.4814,36.69,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm54">
+		<name>Muskingum River</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Muskingum River Plant in Ohio</h2><b>Annual Tons of Ash:</b> 375221.93<br><b>Annual Tons of Ash in Ponds:</b> 111957.6<br><B>Percent of Ash in Ponds:</b> 30%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g54">
+			<coordinates>-81.6797,39.5908,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm55">
+		<name>Lansing Smith (GUPC)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Lansing Smith (GUPC) Plant in Florida</h2><b>Annual Tons of Ash:</b> 111847.65<br><b>Annual Tons of Ash in Ponds:</b> 111847.65<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g55">
+			<coordinates>-85.7003,30.2689,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm56">
+		<name>Havana</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Havana Plant in Illinois</h2><b>Annual Tons of Ash:</b> 114137.23<br><b>Annual Tons of Ash in Ponds:</b> 111543.2<br><B>Percent of Ash in Ponds:</b> 98%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g56">
+			<coordinates>-90.07750000000002,40.2797,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm57">
+		<name>Cliffside</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Cliffside Plant in North Carolina</h2><b>Annual Tons of Ash:</b> 197222.53<br><b>Annual Tons of Ash in Ponds:</b> 106704.99<br><B>Percent of Ash in Ponds:</b> 54%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g57">
+			<coordinates>-81.7594,35.22,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm58">
+		<name>George Neal North</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>George Neal North Plant in Iowa</h2><b>Annual Tons of Ash:</b> 400056.34<br><b>Annual Tons of Ash in Ponds:</b> 104002.22<br><B>Percent of Ash in Ponds:</b> 26%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g58">
+			<coordinates>-96.36670000000001,42.3167,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm59">
+		<name>Intermountain Power Project</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Intermountain Power Project Plant in Utah</h2><b>Annual Tons of Ash:</b> 670763.56<br><b>Annual Tons of Ash in Ponds:</b> 103548.59<br><B>Percent of Ash in Ponds:</b> 15%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g59">
+			<coordinates>-112.5792,39.5108,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm60">
+		<name>Asheville</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Asheville Plant in North Carolina</h2><b>Annual Tons of Ash:</b> 110526.24<br><b>Annual Tons of Ash in Ponds:</b> 103496.3<br><B>Percent of Ash in Ponds:</b> 94%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g60">
+			<coordinates>-82.5431,35.4714,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm61">
+		<name>Lee</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Lee Plant in North Carolina</h2><b>Annual Tons of Ash:</b> 101424.14<br><b>Annual Tons of Ash in Ponds:</b> 101424.14<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g61">
+			<coordinates>-78.08750000000001,35.3775,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm62">
+		<name>Riverbend</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Riverbend Plant in North Carolina</h2><b>Annual Tons of Ash:</b> 101001.76<br><b>Annual Tons of Ash in Ponds:</b> 100785.25<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g62">
+			<coordinates>-80.9742,35.36,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm63">
+		<name>G G Allen (DUPC)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>G G Allen (DUPC) Plant in North Carolina</h2><b>Annual Tons of Ash:</b> 306922.21<br><b>Annual Tons of Ash in Ponds:</b> 95825.49<br><B>Percent of Ash in Ponds:</b> 31%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g63">
+			<coordinates>-81.01220000000001,35.1897,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm64">
+		<name>Bowen</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Bowen Plant in Georgia</h2><b>Annual Tons of Ash:</b> 1014061.61<br><b>Annual Tons of Ash in Ponds:</b> 95615.92<br><B>Percent of Ash in Ponds:</b> 9%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g64">
+			<coordinates>-84.9192,34.1256,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm65">
+		<name>Cape Fear</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Cape Fear Plant in North Carolina</h2><b>Annual Tons of Ash:</b> 93989.27<br><b>Annual Tons of Ash in Ponds:</b> 93989.27<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g65">
+			<coordinates>-79.0492,35.595,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm66">
+		<name>General James M Gavin</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>General James M Gavin Plant in Ohio</h2><b>Annual Tons of Ash:</b> 700346.85<br><b>Annual Tons of Ash in Ponds:</b> 88359.24<br><B>Percent of Ash in Ponds:</b> 13%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g66">
+			<coordinates>-82.11579999999999,38.9347,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm67">
+		<name>Rush Island</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Rush Island Plant in Missouri</h2><b>Annual Tons of Ash:</b> 243012.33<br><b>Annual Tons of Ash in Ponds:</b> 86404.39<br><B>Percent of Ash in Ponds:</b> 36%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g67">
+			<coordinates>-90.2625,38.1306,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm68">
+		<name>Shawnee (TVA)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Shawnee (TVA) Plant in Kentucky</h2><b>Annual Tons of Ash:</b> 430304.06<br><b>Annual Tons of Ash in Ponds:</b> 86004.51<br><B>Percent of Ash in Ponds:</b> 20%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g68">
+			<coordinates>-88.77500000000001,37.1517,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm69">
+		<name>Buck (DUPC)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Buck (DUPC) Plant in North Carolina</h2><b>Annual Tons of Ash:</b> 83743.6<br><b>Annual Tons of Ash in Ponds:</b> 83743.6<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g69">
+			<coordinates>-80.3767,35.7133,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm70">
+		<name>Pirkey</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Pirkey Plant in Texas</h2><b>Annual Tons of Ash:</b> 537345.92<br><b>Annual Tons of Ash in Ponds:</b> 83601.08<br><B>Percent of Ash in Ponds:</b> 16%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g70">
+			<coordinates>-94.48520000000001,32.4607,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm71">
+		<name>Dave Johnston</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Dave Johnston Plant in Wyoming</h2><b>Annual Tons of Ash:</b> 403202.57<br><b>Annual Tons of Ash in Ponds:</b> 80660.91<br><B>Percent of Ash in Ponds:</b> 20%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g71">
+			<coordinates>-104.8828,42.1103,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm72">
+		<name>Frank E Ratts</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Frank E Ratts Plant in Indiana</h2><b>Annual Tons of Ash:</b> 80088.97<br><b>Annual Tons of Ash in Ponds:</b> 80088.97<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g72">
+			<coordinates>-87.2722,38.5183,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm73">
+		<name>Meredosia</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Meredosia Plant in Illinois</h2><b>Annual Tons of Ash:</b> 73025.11<br><b>Annual Tons of Ash in Ponds:</b> 73025.11<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g73">
+			<coordinates>-90.5647,39.8194,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm74">
+		<name>Bremo Bluff</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Bremo Bluff Plant in Virginia</h2><b>Annual Tons of Ash:</b> 72020.19<br><b>Annual Tons of Ash in Ponds:</b> 72020.19<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g74">
+			<coordinates>-78.2878,37.7089,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm75">
+		<name>Tanners Creek</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Tanners Creek Plant in Indiana</h2><b>Annual Tons of Ash:</b> 250580.83<br><b>Annual Tons of Ash in Ponds:</b> 71711.1<br><B>Percent of Ash in Ponds:</b> 28%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g75">
+			<coordinates>-84.85809999999999,39.0831,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm76">
+		<name>Jack Watson</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Jack Watson Plant in Mississippi</h2><b>Annual Tons of Ash:</b> 215531.72<br><b>Annual Tons of Ash in Ponds:</b> 70698.74<br><B>Percent of Ash in Ponds:</b> 33%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g76">
+			<coordinates>-89.0265,30.4408,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm77">
+		<name>Kammer</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Kammer Plant in West Virginia</h2><b>Annual Tons of Ash:</b> 174929.99<br><b>Annual Tons of Ash in Ponds:</b> 68702.34<br><B>Percent of Ash in Ponds:</b> 39%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g77">
+			<coordinates>-80.8189,39.8464,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm78">
+		<name>Coleto Creek</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Coleto Creek Plant in Texas</h2><b>Annual Tons of Ash:</b> 149659.41<br><b>Annual Tons of Ash in Ponds:</b> 65631.03<br><B>Percent of Ash in Ponds:</b> 44%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g78">
+			<coordinates>-97.20829999999999,28.7087,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm79">
+		<name>W S Lee Station (DUPC)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>W S Lee Station (DUPC) Plant in South Carolina</h2><b>Annual Tons of Ash:</b> 62991.92<br><b>Annual Tons of Ash in Ponds:</b> 62991.92<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g79">
+			<coordinates>-82.435,34.6022,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm80">
+		<name>Harding Street</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Harding Street Plant in Indiana</h2><b>Annual Tons of Ash:</b> 180358.61<br><b>Annual Tons of Ash in Ponds:</b> 61470.8<br><B>Percent of Ash in Ponds:</b> 34%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g80">
+			<coordinates>-86.19750000000001,39.7119,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm81">
+		<name>Walter C Beckjord</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Walter C Beckjord Plant in Ohio</h2><b>Annual Tons of Ash:</b> 294403.87<br><b>Annual Tons of Ash in Ponds:</b> 58911.5<br><B>Percent of Ash in Ponds:</b> 20%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g81">
+			<coordinates>-84.29810000000001,38.9917,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm82">
+		<name>Mill Creek (LGEC)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Mill Creek (LGEC) Plant in Kentucky</h2><b>Annual Tons of Ash:</b> 486610.61<br><b>Annual Tons of Ash in Ponds:</b> 58617.96<br><B>Percent of Ash in Ponds:</b> 12%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g82">
+			<coordinates>-85.91,38.0531,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm83">
+		<name>Dan E Karn</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Dan E Karn Plant in Michigan</h2><b>Annual Tons of Ash:</b> 72466.41<br><b>Annual Tons of Ash in Ponds:</b> 58532.63<br><B>Percent of Ash in Ponds:</b> 81%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g83">
+			<coordinates>-83.84310000000001,43.6425,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm84">
+		<name>Dale (EKPC)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Dale (EKPC) Plant in Kentucky</h2><b>Annual Tons of Ash:</b> 53604.52<br><b>Annual Tons of Ash in Ponds:</b> 53515.32<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g84">
+			<coordinates>-84.2634,37.8807,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm85">
+		<name>Sikeston Power Station</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Sikeston Power Station Plant in Missouri</h2><b>Annual Tons of Ash:</b> 68479.55<br><b>Annual Tons of Ash in Ponds:</b> 51587.93<br><B>Percent of Ash in Ponds:</b> 75%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g85">
+			<coordinates>-89.6169,36.8786,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm86">
+		<name>Green River (KUC)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Green River (KUC) Plant in Kentucky</h2><b>Annual Tons of Ash:</b> 51314.79<br><b>Annual Tons of Ash in Ponds:</b> 51314.79<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g86">
+			<coordinates>-87.12139999999999,37.3636,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm87">
+		<name>Dan River</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Dan River Plant in North Carolina</h2><b>Annual Tons of Ash:</b> 49792.56<br><b>Annual Tons of Ash in Ponds:</b> 49792.56<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g87">
+			<coordinates>-79.7244,36.4861,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm88">
+		<name>H B Robinson</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>H B Robinson Plant in South Carolina</h2><b>Annual Tons of Ash:</b> 46748.35<br><b>Annual Tons of Ash in Ponds:</b> 46748.35<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g88">
+			<coordinates>-80.1589,34.4017,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm89">
+		<name>PPL Martins Creek</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>PPL Martins Creek Plant in Pennsylvania</h2><b>Annual Tons of Ash:</b> 46731.15<br><b>Annual Tons of Ash in Ponds:</b> 46731.15<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g89">
+			<coordinates>-75.1083,40.7917,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm90">
+		<name>W H Weatherspoon</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>W H Weatherspoon Plant in North Carolina</h2><b>Annual Tons of Ash:</b> 45958.87<br><b>Annual Tons of Ash in Ponds:</b> 45958.87<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g90">
+			<coordinates>-78.97499999999999,34.5889,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm91">
+		<name>Duck Creek</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Duck Creek Plant in Illinois</h2><b>Annual Tons of Ash:</b> 45235.3<br><b>Annual Tons of Ash in Ponds:</b> 45235.3<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g91">
+			<coordinates>-89.9841,40.4663,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm92">
+		<name>Kennecott Utah Copper (KUCC)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Kennecott Utah Copper (KUCC) Plant in Utah</h2><b>Annual Tons of Ash:</b> 44621.1<br><b>Annual Tons of Ash in Ponds:</b> 44621.1<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g92">
+			<coordinates>-111.917,40.6661,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm93">
+		<name>Roxboro</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Roxboro Plant in North Carolina</h2><b>Annual Tons of Ash:</b> 657833.09<br><b>Annual Tons of Ash in Ponds:</b> 44574.38<br><B>Percent of Ash in Ponds:</b> 7%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g93">
+			<coordinates>-79.0731,36.4833,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm94">
+		<name>Jefferies</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Jefferies Plant in South Carolina</h2><b>Annual Tons of Ash:</b> 105262.05<br><b>Annual Tons of Ash in Ponds:</b> 43526.61<br><B>Percent of Ash in Ponds:</b> 41%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g94">
+			<coordinates>-79.9875,33.2422,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm95">
+		<name>Dallman</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Dallman Plant in Illinois</h2><b>Annual Tons of Ash:</b> 74501.06<br><b>Annual Tons of Ash in Ponds:</b> 42563.6<br><B>Percent of Ash in Ponds:</b> 56%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g95">
+			<coordinates>-89.6011,39.7539,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm96">
+		<name>E D Edwards</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>E D Edwards Plant in Illinois</h2><b>Annual Tons of Ash:</b> 154670.83<br><b>Annual Tons of Ash in Ponds:</b> 42330.97<br><B>Percent of Ash in Ponds:</b> 27%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g96">
+			<coordinates>-89.6631,40.5958,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm97">
+		<name>Charles R Lowman (Tombigee)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Charles R Lowman (Tombigee) Plant in Alabama</h2><b>Annual Tons of Ash:</b> 174979.26<br><b>Annual Tons of Ash in Ponds:</b> 32206.16<br><B>Percent of Ash in Ponds:</b> 18%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g97">
+			<coordinates>-87.91249999999999,31.4833,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm98">
+		<name>Gadsden</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Gadsden Plant in Alabama</h2><b>Annual Tons of Ash:</b> 31915.58<br><b>Annual Tons of Ash in Ponds:</b> 31915.58<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g98">
+			<coordinates>-85.9703,34.0136,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm99">
+		<name>R Paul Smith Power Station</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>R Paul Smith Power Station Plant in Maryland</h2><b>Annual Tons of Ash:</b> 31841.12<br><b>Annual Tons of Ash in Ponds:</b> 31841.12<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g99">
+			<coordinates>-77.82859999999999,39.5956,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm100">
+		<name>Fayette Power Project (LCRA)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Fayette Power Project (LCRA) Plant in Texas</h2><b>Annual Tons of Ash:</b> 297690.21<br><b>Annual Tons of Ash in Ponds:</b> 31118.72<br><B>Percent of Ash in Ponds:</b> 10%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g100">
+			<coordinates>-96.75060000000001,29.9172,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm101">
+		<name>Asbury</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Asbury Plant in Missouri</h2><b>Annual Tons of Ash:</b> 45456.6<br><b>Annual Tons of Ash in Ponds:</b> 31098.83<br><B>Percent of Ash in Ponds:</b> 68%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g101">
+			<coordinates>-94.5913,37.3596,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm102">
+		<name>Cane Run</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Cane Run Plant in Kentucky</h2><b>Annual Tons of Ash:</b> 132133.47<br><b>Annual Tons of Ash in Ponds:</b> 30850.55<br><B>Percent of Ash in Ponds:</b> 23%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g102">
+			<coordinates>-85.8894,38.1828,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm103">
+		<name>F B Culley</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>F B Culley Plant in Indiana</h2><b>Annual Tons of Ash:</b> 116684.19<br><b>Annual Tons of Ash in Ponds:</b> 27841.54<br><B>Percent of Ash in Ponds:</b> 24%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g103">
+			<coordinates>-87.3267,37.91,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm104">
+		<name>Louisa (MIDAM)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Louisa (MIDAM) Plant in Iowa</h2><b>Annual Tons of Ash:</b> 138355.29<br><b>Annual Tons of Ash in Ponds:</b> 27647.02<br><B>Percent of Ash in Ponds:</b> 20%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g104">
+			<coordinates>-91.0936,41.3153,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm105">
+		<name>Lansing</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Lansing Plant in Iowa</h2><b>Annual Tons of Ash:</b> 57715.63<br><b>Annual Tons of Ash in Ponds:</b> 27160.3<br><B>Percent of Ash in Ponds:</b> 47%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g105">
+			<coordinates>-91.17000000000002,43.3339,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm106">
+		<name>Hennepin Power Station</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Hennepin Power Station Plant in Illinois</h2><b>Annual Tons of Ash:</b> 69913.95<br><b>Annual Tons of Ash in Ponds:</b> 26154.86<br><B>Percent of Ash in Ponds:</b> 37%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g106">
+			<coordinates>-89.31359999999999,41.3017,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm107">
+		<name>Blue Valley</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Blue Valley Plant in Missouri</h2><b>Annual Tons of Ash:</b> 25863.4<br><b>Annual Tons of Ash in Ponds:</b> 25863.4<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g107">
+			<coordinates>-94.3261,39.0919,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm108">
+		<name>Flint Creek (SWEP)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Flint Creek (SWEP) Plant in Arkansas</h2><b>Annual Tons of Ash:</b> 117899.65<br><b>Annual Tons of Ash in Ponds:</b> 24076.35<br><B>Percent of Ash in Ponds:</b> 20%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g108">
+			<coordinates>-94.5241,36.2561,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm109">
+		<name>Hutsonville</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Hutsonville Plant in Illinois</h2><b>Annual Tons of Ash:</b> 28651.55<br><b>Annual Tons of Ash in Ponds:</b> 24005.35<br><B>Percent of Ash in Ponds:</b> 84%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g109">
+			<coordinates>-87.6597,39.1333,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm110">
+		<name>Clifty Creek</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Clifty Creek Plant in Indiana</h2><b>Annual Tons of Ash:</b> 322051.93<br><b>Annual Tons of Ash in Ponds:</b> 23843.49<br><B>Percent of Ash in Ponds:</b> 7%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g110">
+			<coordinates>-85.4192,38.7383,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm111">
+		<name>Syl Laskin</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Syl Laskin Plant in Minnesota</h2><b>Annual Tons of Ash:</b> 23755.56<br><b>Annual Tons of Ash in Ponds:</b> 23755.56<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g111">
+			<coordinates>-92.16189999999999,47.5306,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm112">
+		<name>Bull Run (TVA)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Bull Run (TVA) Plant in Tennessee</h2><b>Annual Tons of Ash:</b> 275977.37<br><b>Annual Tons of Ash in Ponds:</b> 22744.27<br><B>Percent of Ash in Ponds:</b> 8%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g112">
+			<coordinates>-84.1567,36.0211,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm113">
+		<name>Cross</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Cross Plant in South Carolina</h2><b>Annual Tons of Ash:</b> 567034.15<br><b>Annual Tons of Ash in Ponds:</b> 22345.16<br><B>Percent of Ash in Ponds:</b> 4%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g113">
+			<coordinates>-80.11190000000001,33.3692,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm114">
+		<name>Dolet Hills</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Dolet Hills Plant in Louisiana</h2><b>Annual Tons of Ash:</b> 221054.86<br><b>Annual Tons of Ash in Ponds:</b> 22114.01<br><B>Percent of Ash in Ponds:</b> 10%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g114">
+			<coordinates>-93.5692,32.0306,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm115">
+		<name>Tyrone (KUC)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Tyrone (KUC) Plant in Kentucky</h2><b>Annual Tons of Ash:</b> 21891.95<br><b>Annual Tons of Ash in Ponds:</b> 21891.95<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g115">
+			<coordinates>-84.8494,38.0475,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm116">
+		<name>Conesville</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Conesville Plant in Ohio</h2><b>Annual Tons of Ash:</b> 460524.61<br><b>Annual Tons of Ash in Ponds:</b> 21344.82<br><B>Percent of Ash in Ponds:</b> 5%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g116">
+			<coordinates>-81.8811,40.1842,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm117">
+		<name>Wyodak</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Wyodak Plant in Wyoming</h2><b>Annual Tons of Ash:</b> 104533.47<br><b>Annual Tons of Ash in Ponds:</b> 21057.1<br><B>Percent of Ash in Ponds:</b> 20%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g117">
+			<coordinates>-105.4,44.2833,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm118">
+		<name>Chesapeake</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Chesapeake Plant in Virginia</h2><b>Annual Tons of Ash:</b> 166584.22<br><b>Annual Tons of Ash in Ponds:</b> 19990.11<br><B>Percent of Ash in Ponds:</b> 12%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g118">
+			<coordinates>-76.3019,36.7711,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm119">
+		<name>Hugo</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Hugo Plant in Oklahoma</h2><b>Annual Tons of Ash:</b> 103967.44<br><b>Annual Tons of Ash in Ponds:</b> 19721.66<br><B>Percent of Ash in Ponds:</b> 19%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g119">
+			<coordinates>-95.3206,34.0158,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm120">
+		<name>Urquhart - SCEG</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Urquhart - SCEG Plant in South Carolina</h2><b>Annual Tons of Ash:</b> 31644.03<br><b>Annual Tons of Ash in Ponds:</b> 19581.7<br><B>Percent of Ash in Ponds:</b> 62%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g120">
+			<coordinates>-81.91110000000001,33.435,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm121">
+		<name>Picway</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Picway Plant in Ohio</h2><b>Annual Tons of Ash:</b> 19485.34<br><b>Annual Tons of Ash in Ponds:</b> 19485.34<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g121">
+			<coordinates>-83.0097,39.7933,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm122">
+		<name>Apache Station</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Apache Station Plant in Arizona</h2><b>Annual Tons of Ash:</b> 107894.7<br><b>Annual Tons of Ash in Ponds:</b> 18938.96<br><B>Percent of Ash in Ponds:</b> 18%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g122">
+			<coordinates>-109.8931,32.0619,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm123">
+		<name>R D Green</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>R D Green Plant in Kentucky</h2><b>Annual Tons of Ash:</b> 118837.82<br><b>Annual Tons of Ash in Ponds:</b> 18557.77<br><B>Percent of Ash in Ponds:</b> 16%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g123">
+			<coordinates>-87.50060000000001,37.6467,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm124">
+		<name>HMP&amp;L Station Two Henderson (Henderson II)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>HMP&L Station Two Henderson (Henderson II) Plant in Kentucky</h2><b>Annual Tons of Ash:</b> 86677.37<br><b>Annual Tons of Ash in Ponds:</b> 18509.23<br><B>Percent of Ash in Ponds:</b> 21%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g124">
+			<coordinates>-87.50279999999999,37.6472,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm125">
+		<name>McIntosh (SAEP)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>McIntosh (SAEP) Plant in Georgia</h2><b>Annual Tons of Ash:</b> 34352.04<br><b>Annual Tons of Ash in Ponds:</b> 18337.39<br><B>Percent of Ash in Ponds:</b> 53%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g125">
+			<coordinates>-81.1683,32.3558,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm126">
+		<name>Belews Creek</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Belews Creek Plant in North Carolina</h2><b>Annual Tons of Ash:</b> 309863.9<br><b>Annual Tons of Ash in Ponds:</b> 17631.07<br><B>Percent of Ash in Ponds:</b> 6%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g126">
+			<coordinates>-80.0603,36.2811,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm127">
+		<name>Iatan</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Iatan Plant in Missouri</h2><b>Annual Tons of Ash:</b> 142188.5<br><b>Annual Tons of Ash in Ponds:</b> 17337.48<br><B>Percent of Ash in Ponds:</b> 12%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g127">
+			<coordinates>-94.98560000000001,39.4464,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm128">
+		<name>Vermilion (DMG)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Vermilion (DMG) Plant in Illinois</h2><b>Annual Tons of Ash:</b> 29370.84<br><b>Annual Tons of Ash in Ponds:</b> 15184.17<br><B>Percent of Ash in Ponds:</b> 52%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g128">
+			<coordinates>-87.74330000000001,40.1781,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm129">
+		<name>Edwardsport</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Edwardsport Plant in Indiana</h2><b>Annual Tons of Ash:</b> 14870.63<br><b>Annual Tons of Ash in Ponds:</b> 14870.63<br><B>Percent of Ash in Ponds:</b> 100%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g129">
+			<coordinates>-87.24720000000001,38.8067,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm130">
+		<name>Plant Kraft (Port Wentworth)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Plant Kraft (Port Wentworth) Plant in Georgia</h2><b>Annual Tons of Ash:</b> 64598.34<br><b>Annual Tons of Ash in Ponds:</b> 12919.67<br><B>Percent of Ash in Ponds:</b> 20%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g130">
+			<coordinates>-81.14579999999999,32.1486,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm131">
+		<name>Columbia (WPL)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Columbia (WPL) Plant in Wisconsin</h2><b>Annual Tons of Ash:</b> 243227.46<br><b>Annual Tons of Ash in Ponds:</b> 11944.21<br><B>Percent of Ash in Ponds:</b> 5%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g131">
+			<coordinates>-89.4203,43.4864,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm132">
+		<name>Nearman Creek (KACY)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Nearman Creek (KACY) Plant in Kansas</h2><b>Annual Tons of Ash:</b> 58982.66<br><b>Annual Tons of Ash in Ponds:</b> 11773.45<br><B>Percent of Ash in Ponds:</b> 20%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g132">
+			<coordinates>-94.69580000000001,39.1714,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm133">
+		<name>Wood River (DMG)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Wood River (DMG) Plant in Illinois</h2><b>Annual Tons of Ash:</b> 94605.34<br><b>Annual Tons of Ash in Ponds:</b> 11327.11<br><B>Percent of Ash in Ponds:</b> 12%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g133">
+			<coordinates>-90.13249999999999,38.8639,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm134">
+		<name>Rockport</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Rockport Plant in Indiana</h2><b>Annual Tons of Ash:</b> 516516.51<br><b>Annual Tons of Ash in Ponds:</b> 9830.48<br><B>Percent of Ash in Ponds:</b> 2%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g134">
+			<coordinates>-87.0372,37.9256,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm135">
+		<name>Winyah</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Winyah Plant in South Carolina</h2><b>Annual Tons of Ash:</b> 368401.53<br><b>Annual Tons of Ash in Ponds:</b> 9743.77<br><B>Percent of Ash in Ponds:</b> 3%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g135">
+			<coordinates>-79.36109999999999,33.3303,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm136">
+		<name>John Sevier</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>John Sevier Plant in Tennessee</h2><b>Annual Tons of Ash:</b> 221699.48<br><b>Annual Tons of Ash in Ponds:</b> 9048.96<br><B>Percent of Ash in Ponds:</b> 4%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g136">
+			<coordinates>-82.9639,36.3767,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm137">
+		<name>Riverside (NSP)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Riverside (NSP) Plant in Minnesota</h2><b>Annual Tons of Ash:</b> 71069.16<br><b>Annual Tons of Ash in Ponds:</b> 7883.5<br><B>Percent of Ash in Ponds:</b> 11%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g137">
+			<coordinates>-93.27529999999999,45.02030000000001,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm138">
+		<name>Mountaineer</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Mountaineer Plant in West Virginia</h2><b>Annual Tons of Ash:</b> 389691.64<br><b>Annual Tons of Ash in Ponds:</b> 7696.61<br><B>Percent of Ash in Ponds:</b> 2%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g138">
+			<coordinates>-81.9344,38.9794,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm139">
+		<name>Rawhide</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Rawhide Plant in Colorado</h2><b>Annual Tons of Ash:</b> 74511.33<br><b>Annual Tons of Ash in Ponds:</b> 7090.39<br><B>Percent of Ash in Ponds:</b> 10%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g139">
+			<coordinates>-105.0206,40.8611,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm140">
+		<name>Marshall (DUPC)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Marshall (DUPC) Plant in North Carolina</h2><b>Annual Tons of Ash:</b> 128791.81<br><b>Annual Tons of Ash in Ponds:</b> 6482.16<br><B>Percent of Ash in Ponds:</b> 5%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g140">
+			<coordinates>-80.9658,35.5975,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm141">
+		<name>Erickson Station</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Erickson Station Plant in Michigan</h2><b>Annual Tons of Ash:</b> 46873.84<br><b>Annual Tons of Ash in Ponds:</b> 5760.4<br><B>Percent of Ash in Ponds:</b> 12%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g141">
+			<coordinates>-84.6572,42.6919,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm142">
+		<name>Black Dog</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Black Dog Plant in Minnesota</h2><b>Annual Tons of Ash:</b> 52995.73<br><b>Annual Tons of Ash in Ponds:</b> 5652.88<br><B>Percent of Ash in Ponds:</b> 11%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g142">
+			<coordinates>-93.2501,44.8108,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm143">
+		<name>Dolphus M Grainger</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Dolphus M Grainger Plant in South Carolina</h2><b>Annual Tons of Ash:</b> 44201.46<br><b>Annual Tons of Ash in Ponds:</b> 5088.98<br><B>Percent of Ash in Ponds:</b> 12%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g143">
+			<coordinates>-79.05280000000001,33.8253,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm144">
+		<name>Glen Lyn</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Glen Lyn Plant in Virginia</h2><b>Annual Tons of Ash:</b> 71269.16<br><b>Annual Tons of Ash in Ponds:</b> 4577.64<br><B>Percent of Ash in Ponds:</b> 6%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g144">
+			<coordinates>-80.8672,37.3706,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm145">
+		<name>J R Whiting (CEC)</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>J R Whiting (CEC) Plant in Michigan</h2><b>Annual Tons of Ash:</b> 90914.19<br><b>Annual Tons of Ash in Ponds:</b> 3816.15<br><B>Percent of Ash in Ponds:</b> 4%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g145">
+			<coordinates>-83.4486,41.7917,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm146">
+		<name>H L Spurlock</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>H L Spurlock Plant in Kentucky</h2><b>Annual Tons of Ash:</b> 361015.88<br><b>Annual Tons of Ash in Ponds:</b> 2663.18<br><B>Percent of Ash in Ponds:</b> 1%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g146">
+			<coordinates>-83.8175,38.7,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm147">
+		<name>Dickerson</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Dickerson Plant in Maryland</h2><b>Annual Tons of Ash:</b> 132974.63<br><b>Annual Tons of Ash in Ponds:</b> 1676.15<br><B>Percent of Ash in Ponds:</b> 1%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g147">
+			<coordinates>-77.4644,39.2086,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm148">
+		<name>Kanawha River</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>Kanawha River Plant in West Virginia</h2><b>Annual Tons of Ash:</b> 93288.39<br><b>Annual Tons of Ash in Ponds:</b> 1288.96<br><B>Percent of Ash in Ponds:</b> 1%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g148">
+			<coordinates>-81.4211,38.2056,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm149">
+		<name>WPS Energy Servs Sunbury Gen</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>WPS Energy Servs Sunbury Gen Plant in Pennsylvania</h2><b>Annual Tons of Ash:</b> 111591.9<br><b>Annual Tons of Ash in Ponds:</b> 203.78<br><B>Percent of Ash in Ponds:</b> 0%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g149">
+			<coordinates>-76.825,40.8361,1</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="pm150">
+		<name>High Bridge</name>
+		<Snippet maxLines="0">empty</Snippet>
+		<description><![CDATA[<h2>High Bridge Plant in Minnesota</h2><b>Annual Tons of Ash:</b> 25470.71<br><b>Annual Tons of Ash in Ponds:</b> 6.4<br><B>Percent of Ash in Ponds:</b> 0%<br><i>Data from 2006 prepared by the NRDC</i>]]></description>
+		<styleUrl>#Style_0</styleUrl>
+		<Point id="g150">
+			<coordinates>-93.10749999999999,44.9331,1</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

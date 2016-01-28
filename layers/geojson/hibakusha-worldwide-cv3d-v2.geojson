@@ -1,0 +1,705 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Erzgebirge, Germany",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/erzgebirgepic.JPG\"><div dir=\"ltr\">In the years 1946-1990, the Wismut Company mined a total of 231.400 tons of uranium in the mountains of the Erzgebirge, exposing more than 500.000 miners to radioactive pollution. Many of the workers and residents of the region developed luing cancer as a result.<br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Erzgebirge.pdf\" target=\"_blank\">See Poster<\/a> <br>&nbsp;<\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.690647,
+                    50.608761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nagasaki, Japan",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/nagasakipic.jpg\"><div dir=\"ltr\">On August 9th, 1945, the US detonated an atomic bomb called \"Fat Man\" over the Japanese harbour city of Nagasaki. A B-29 bomber dropped the bomb over Nagasaki, an industrial town with a population of more than 240,000. The bombing resulted in the immediate death of 22,000 civilians. Those who survived the attack were left without help as hospitals and vital infrastructure had been completely destroyed. More than 64,000 people died as a result of the bombing until the end of the year. Until today, many of the survivors are suffering from long-term radiation effects. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Nagasaki.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.871185,
+                    32.751732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hiroshima, Japan",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/hiroshimapic.jpg\"><div dir=\"ltr\">On August 6th, 1945, the US detonated the atomic bomb \u201eLittle Boy\u201c over the City of Hiroshima. Of the 350,000 citizens, about 140,000 died until the end of the year. Those who survived suffered from the late effects of radiation, including increased incidence of cancer. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Hiroshima.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.454559,
+                    34.394341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arlit and Akokan, Niger",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/arlitpic.jpg\"><div dir=\"ltr\"><p style=\"margin-bottom:0cm\"><font color=\"#000000\"><font face=\"arial\"><font size=\"2\" style=\"font-size:9pt\">Niger, a country with one of the worst Human Development indices is also the world's third largest producer of Uranium. In 1980, Uranium from Niger contributed to 40% of total global production and 90% of Niger's exports by value. In the mining cities like Arlit and Akokan, independent researchers have found&nbsp;increased amounts of radioactivity and cancer rates as a result of radioactive tailings and dust.<\/font><\/font><\/font><\/p><p style=\"margin-bottom:0cm\"><font color=\"#000000\"><font face=\"arial\"><font size=\"2\" style=\"font-size:9pt\"><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Arlit.pdf\" target=\"_blank\">See poster<\/a><\/font><\/font><\/font><\/p><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.336464,
+                    18.757788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hanford, USA",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/hanfordpic.jpg\"><div dir=\"ltr\">Hanford is the site of a large plutonium factory in the state of Washington, stretching over more than 1,500 km\u00b2. It was here that the US produced most of its fissile weapons-grade plutonium during the Cold War. Although it was decommissioned in 1988, it remains the most contaminated site in the Western Hemisphere. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Hanford.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.396797,
+                    46.590427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Palomares, Spain",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/palomarespic.jpg\"><div dir=\"ltr\">In January of 1966, four hydrogen bombs were dropped near the Spanish city of Palomares, when a U.S. B-52 bomber crashed into another U.S. airplane. The non-nuclear high explosives of two of the bombs detonated, spreading radioactive waste and plutonium dust across the area in into the ocean. 40 years later, radioactively contaminated soil still continues to be found near the crash site.&nbsp;<br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Palomares.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.822357,
+                    37.246181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "North Saskatchewan, Canada",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/saskatchewanpic.JPG\"><div dir=\"ltr\">Northern Saskatchewan mines roughly twenty-five percent of the world's uranium.&nbsp;The radioactive tailings produced by the mining process contaminate native land, pose a health threat to the population at large and remains as dangerous radioactive waste for future generations to worry about. The miners themselves are most actuely affected. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/NorthSaskatchewan.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.717804,
+                    58.196857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Three Mile Island, USA",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/threemileislandpic.JPG\"><div dir=\"ltr\">The most serious nuclear accident in US history took place at the Three Mile Island nuclear plant in March of 1979. Equipment malfunction, design related problems and human error led to a partial meltdown of the reactor core and the release of vast amounts of radioactive gas and fluid. A coverup prevents meaningful scientific analysis of the effects until today.<br><br><a href=\"http:\/\/www.ippnw-students.org\/ThreeMileIsland.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.725113,
+                    40.152111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fukushima, Japan",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/fukushimapic.jpg\"><div dir=\"ltr\">The multiple nuclear meltdowns at the Fukushima Dai-ichi nuclear power plant in March of 2011 caused the greatest radioactive contamination of the world's oceans ever recorded, contaminated soil, air, food and drink and exposed tens of thousands of people to radioactivity. It is too early yet to estimate the health effects of the disaster. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Fukushima.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.02359,
+                    37.316898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tokaimura, Japan",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/tokaimurapic.jpg\"><div dir=\"ltr\">The criticality accident at the T\u014dkai-mura nuclear facility in 1999 irradiated more than 600 people. It was Japan's worst nuclear accident before the Fukushima meltdowns and serves as an example for the dangers inherent in every step of the nuclear chain. <\/div><div dir=\"ltr\">&nbsp;<\/div><div dir=\"ltr\"><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Tokaimura.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.553574,
+                    36.479679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chernobyl, Ukraine",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/chernobylpic.jpg\"><div dir=\"ltr\">The nuclear meltdown in the Chernobyl&nbsp;power plant in April of 1986 was until recently the most devastating accident in a nuclear plant ever recorded. The explosion&nbsp;spread radioactive material over the entire northern hemisphere, made huge strips of land uninhabitable for generations and was responsible for thousands of cases of cancer, malformation, still-births and deaths around the globe.&nbsp;<\/div><div dir=\"ltr\">&nbsp;<\/div><div dir=\"ltr\"><a href=\"http:\/\/www.ippnw-students.org\/Japan\/chernobyl.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.221582,
+                    51.284466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "R\u00f6ssing, Namibia",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/roessingpic.jpg\"><div dir=\"ltr\">The R\u00f6ssing uranium mine has been a cause for environmental, human rights and health concerns for more than 30 years through unsafe working conditions, radioactive effluent and tailings. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Roessing.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.036077,
+                    -22.454386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jadugoda, India",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/jadugodapic.jpg\"><div dir=\"ltr\">Uranium mining in the region around <br>Jadugoda has not only contributed to <br>India's nuclear weapons program, but <br>has also caused grave environmental <br>damage. Also, the Adivasi tribesmen <br>working in and living near the mines <br>have experienced serious health is- <br>sues, most likely caused by their con- <br>tinued exposure to radioactivity. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Jadugoda.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.328911,
+                    22.653206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mayak, Russia",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/mayakpic.jpg\"><div dir=\"ltr\">The Soviet nuclear facility at Mayak contaminated more than 15,000 km2 with highly radioactive particles through a series of accidents and radioactive spills into the Techa river. Thousands of people had to be relocated and today, the regions of Chelyabinsk, Sverdlovsk and Kurgan count amongst the most contaminated places on earth. <\/div><div dir=\"ltr\">&nbsp;<\/div><div dir=\"ltr\"><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Mayak.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.806038,
+                    55.705257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nevada Test Site, USA",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/nevadapic.jpg\"><div dir=\"ltr\">Nuclear weapons tests at the Nevada Test Site between 1951 and 1962 caused immense amounts of radioactivity to contaminate the US public. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Nevada.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.025925,
+                    37.0201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Semipalatinsk, Kazhakstan",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/semipalatinskpic.jpg\"><div dir=\"ltr\">The story of Soviet nuclear testing at Semipalatinsk is one of tragedy and triumph and is a cautionary tale of how \u201cnational security\u201d can be used to justify willful deception that jeopardizes public well-being and the health of future generations. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Semipalatinsk.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.726311,
+                    50.131142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lop Nor, China",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/lopnorpic.jpg\"><div dir=\"ltr\">Between 1964 and 1996, the People's Republic of China conducted 45 nuclear tests, the largest series in the world, in Lop Nor, a lake region in the homeland of of the ethnic minority of the Uighurs, where radioactivity-induced diseases and malformations have become a major health issue. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/LopNor.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.691551,
+                    41.551434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bikini and Enewetak Atolls, Marshall Islands",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/bikinipic.jpg\"><div dir=\"ltr\">Nuclear testing on the Bikini and Enewetak atolls left entire islands uninhabitable, exposed thousands to high levels of radioactivity and contributed to global nuclear fallout. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Bikini.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    165.341263,
+                    11.589015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Amchitka, USA",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/amchitkapic.jpg\">&nbsp; <td style=\"vertical-align:middle;text-align:center\"><div dir=\"ltr\">Amchitka was the site of three underground nuclear tests, including the Cannikin Test, which had raised concerns over the possibility of causing tectonic incidents such as earthquakes or tsunamis. In the wake of protests against testing on Amchitka, the anti-nuclear Greenpeace movement was formed. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Amchitka.pdf\" target=\"_blank\">See poster<\/a><\/div><\/td>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    179.109421,
+                    51.470264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Novaya Zemlya, Russia",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/novayazemlyapic.jpg\"><div dir=\"ltr\">Beginning in 1954, the island of Novaya Zemlya was used by the Soviets to conduct atmospheric and underground nuclear tests. It was also used as a graveyard for various nuclear wea-pons, submarines, and reactors, sunk to the bottom of the ocean, turning the island into an environmental disaster. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/NovayaZemlya.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.706421,
+                    73.542213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Reggane, Algeria",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/regganepic.jpg\"><div dir=\"ltr\">The French army conducted four atmospheric nuclear tests near Reggane, Algeria in 1960 and 1961, contaminating the Sahara desert with plutonium, exposing soldiers, workers and local Touareg to radioactive fallout, and causing long-term health effects like cancer, infertility and genetic mutations. <\/div><div dir=\"ltr\">&nbsp;<\/div><div dir=\"ltr\"><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Reggane.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.056992,
+                    26.310652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Emu Field, Australia",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/emufieldpic.jpg\"><div dir=\"ltr\">After testing its first nuclear weapons off the west coast of Australia in 1952, the UK sought to test its newer models on land. At Emu Field, the British detonated their two \u201cTotem\u201d nuclear devices in October of 1953, exposing a large population to radioactivity. <\/div><div dir=\"ltr\">&nbsp;<\/div><div dir=\"ltr\"><a href=\"http:\/\/www.ippnw-students.org\/Japan\/EmuField.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.445679,
+                    -28.656851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Windscale\/Sellafield, UK",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/sellafieldpic.JPG\"><div dir=\"ltr\">Windscale\/Sellafield is Europe's largest <br>civil and military nuclear complex. It <br>used to produce plutonium for the Brit- <br>ish nuclear weapons program and <br>housed the infamou Calder Hall react- <br>ors. The site now serves as a repro- <br>cessing site for nuclear waste. The <br>great fire in 1957, as well as numerous <br>accidents with radioactive leaks have <br>polluted the environment and caused <br>radioactive exposure of the population.<\/div><div dir=\"ltr\">&nbsp;<\/div><div dir=\"ltr\"><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Sellafield.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.497772,
+                    54.41843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Alamogordo, USA",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/alamogordopic.jpg\"><div dir=\"ltr\">The first nuclear explosion took place near Alamogordo on July 16th, 1945, marking the beginning of the \u201cnuclear age\u201d or large-scale radioactive contaminatio and nuclear destruction. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Alamogordo.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.476402,
+                    33.676067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J\u00e1chymov, Czech Republic",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/jachymovpic.JPG\"><div dir=\"ltr\">Having grown rich by the discovery of uranium in its mines, the Bohemian town of Joachimsthal\/J\u00e1chymov soon became on of the Soviet Union's suppliers of radioactive fuel for its nuclear weapons project. The miners, many of which were forced laborers, soon developed lung cancer.<br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Jachymov.pdf\" target=\"_blank\">See Poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.91121,
+                    50.372482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ezeiza, Argentina",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/ezeizapic.jpg\"><div>The Ezeiza Atomic Center is located in the capital of Buenos Aires and has been the cause of much concern for more than 1.6 million people living in adjacent neighborhoods, as radioactive waste has contaminated the groundwater between 2000 and 2005. <\/div><div dir=\"ltr\">&nbsp;<\/div><div dir=\"ltr\"><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Ezeiza.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -58.573093,
+                    -34.796009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Black Hills, USA",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/blackhillspic.jpg\"><div dir=\"ltr\">The Black Hills, an isolated mountain range in the US states of South Dakota and Wyoming, are considered a sacred place by the Lakota. In the 1950's, they were turned into a uranium mining site. Although the Lakota are affected by several health issues which have been most likely caused by severe radioactive contamination of the groundwater in the reservations, no meaningful research has been undertaken to date. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/BlackHills.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.352341,
+                    42.644817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shiprock, USA",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/shiprockpic.jpg\"><div dir=\"ltr\">The uranium mine at Shiprock left a legacy of health and environmental damage that affects indigenous Navajo communities to this day. Moreover, pressure is mounting to reopen the mines in order to fuel new generations of nuclear warheads and power plants. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Shiprock.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -108.430511,
+                    36.8009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Radium Hill, Australia",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/radiumhillpic.jpg\"><div dir=\"ltr\">Radium Hill, Australia\u2019s first uranium mine, was operational between 1906 and 1961. Mine workers developed lung cancers at significantly elevated rates relative to the national population due to radon gas exposure. Unsecured tailing dumps have led to radioactive contamination of the surrounding region. <\/div><div dir=\"ltr\"><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/RadiumHill.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.568176,
+                    -32.180698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ranger Mine, Australia",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/rangerpic.jpg\"><div dir=\"ltr\">Ranger is an open pit-mine in the middle of the World Heritage Kakadu National Park. Its radioactive leaks and spills have contaminated the Kakadu wetlands, which are the home of the Girrar Aboriginal people. Increased cancer rates have been found in thi popultion, but further studies have so far not been undertaken. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Ranger.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.910538,
+                    -12.682545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "T\u00eawo\/Diebu, China",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/diebupic.jpg\"><div align=\"justify\" style=\"margin-bottom:0cm\"><strong><font face=\"Arial, sans-serif\"><font size=\"2\"><span style=\"font-weight:normal\">The uranium mine \u201e792\u201c at Diebu has been producing uranium since 1967. Reports about radioactive pollution and a lack of safety measures, endangering the health of miners and the inhabitants of the region have been subdued and ignored by authorities. <\/span><\/font><\/font><\/strong><\/div><p>&nbsp;<\/p><p>&nbsp;<\/p><div align=\"justify\" style=\"margin-bottom:0cm\"><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Diebu.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.217323,
+                    34.054649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tomsk-7 \/ Seversk, Russia",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/tomskpic.jpg\"><div dir=\"ltr\">The explosion of a nuclear reprocessing facility in Tomsk-7 dispersed large amounts of radioactivity over an area of 89 km2, exposing tens of thousands of people to increased levels of radioactivity and contaminating air, water and soils for many generations. It is considered the most serious nuclear accident in Russia since Chernobyl. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Tomsk.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.90715,
+                    56.625645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Thule, Greenland",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/thulepic.jpg\"><div dir=\"ltr\">The accident of an American B-52 bomber carrying nuclear weapons contaminated a large area of ice and surrounding waters and exposed resuce workers to high levels of radioactivity. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Thule.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.716736,
+                    76.531219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chazhma Bay, Russia",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/chazhmabaypic.jpg\"><div dir=\"ltr\">In August of 1985, an explosion on a Soviet nuclear submarine released massive emission of radioactivity, causing more than 290 people to suffer from radioactive exposure and contaminating large areas of land and water around the site. Kept secret for many years, the extent of environmental and health effects may never be fully known and continue to this day. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/ChazhmaBay.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.356247,
+                    42.90049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Goi\u00e2nia, Brazil",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/goianiapic.jpg\"><div dir=\"ltr\">The accident in Goi\u00e2nia was one of the most serious radiological accidents in history. In September 1987, the opening of a radiotherapy machine containing caesium-137 led to the direct irradiation of 249 people, four of which subsequently died and 21 of which suffered severe external burns. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Goiania.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -49.268188,
+                    -16.691448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Spokane Reservation, USA",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/spokanepic.JPG\"><div dir=\"ltr\">The Indian Reservation of the Spokane tribe was radioactively contaminated by two open-pit uranium mines and the inhabitants exposed to radioactivity over the course of several decades. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Spokane.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.097191,
+                    47.938084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Church Rock Mine, USA",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/churchrockpic.jpg\"><div dir=\"ltr\">A dam breach in July 1979 at the United Nuclear Corporation\u2019s uranium mill in Church Rock, New Mexico released massive amounts of radioactive waste-water into the Puerco river. The Church Rock radiation spill was larger in magnitude than the nuclear reactor meltdown at Three Mile Island earlier that year, and - though largely unknown - is considered the largest radioactive release in US history. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/ChurchRock.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -108.653755,
+                    35.529015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sequoyah and Watts Bar, USA",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/sequoyapic.JPG\"><div dir=\"ltr\">The Sequoyah nuclear power plant has a record of malfunctions and leaks. Together with the Watts Bar nuclear power plant nearby, it has been chosen to produce tritium for the US nuclear weapons program. Both plants are loated in an area with an increased earthquake risk. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Sequoya.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.091774,
+                    35.223324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Elliot Lake, Canada",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/elliotlakepic.jpg\"><div dir=\"ltr\">As a lasting legacy of the golden age of uranium mining, the radioactive tailings of Elliot Lake pose a threat to the environment of the Great Lakes region and the health of its inhabitants. Many hundred miners have already succumbed to lung cancer and many tens of thousands of deaths are expected as a result of radioactive pollution. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/ElliotLake.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.73658,
+                    46.406944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Olympic Dam, Australia",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/olympicdampic.jpg\"><div dir=\"ltr\">BHP Billiton's uranium mine at Olympic Dam poses an environmental threat to the ecosystem of the region and a health hazard to the workers and the surrounding populations, as uranium tailings, leaks and spills cause radioactive contamination. Especially with plans underway to enlarge the mine in the coming years it is time for comprehensive health and ecological studies. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/OlympicDam.pdf\" target=\"_blank\">See poster <\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.843933,
+                    -30.44157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kiritimati, Kiribati",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/kiritimatipic.jpg\"><div dir=\"ltr\">Nuclear tests&nbsp;were conducted on and around Christmas Island by the&nbsp;UK in the 1950s, and by the US in 1962. Thousands of islanders and servicemen were subject to radiactive fallout and now suffer from radiation effects. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Kiritimati.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -157.204971,
+                    1.728711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "In Ekker, Algeria",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/inekkerpic.jpg\"><div dir=\"ltr\">At In Ekker, France performed 13 underground nuclear detonations, leading<br>to a vast radioactive contamination of<br>soil, air and possibly even underground aquifers and directly exposing<br>hundreds of people to radiation. Until<br>today, the victims have not been<br>propery compensated and the extent of<br>radioactive contamination has not been<br>established. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/InEkker.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.080533,
+                    24.022535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fangataufa and Mururoa Atolls, French Polynesia",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/fangataufapic.jpg\"><div dir=\"ltr\">The French Polynesian atolls of Fangataufa and Moruroa have been the sites of 167 French nuclear tests, which severely contamined the environment of the archipelago and exposed its population to dangerous amounts of radiation. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/FangataufaMururoa.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -138.733398,
+                    -22.235718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maralinga, Australia",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/maralingapic.jpg\"><div dir=\"ltr\">Between 1952 and 1957, the UK undertook 7 and hundreds of minor nuclar tests in Maralinga, South Australia. Maralinga was officially closed for testing in 1967 and returned to the Tjarutja people in 2009 but it remains a highly contaminated area and those exposed during the tests still receive inadequate follow-up, care and compensation. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Maralinga.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.609802,
+                    -30.164125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mounana, Gabon",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/mounanapic.jpg\"><div dir=\"ltr\">During decades of uranium mining in the jungle of Gabon, the French nuclear company COMUF neglected environmental safety standards, exposed mine workers to high doses of radiation and dumped thousands of tons of radioactive waste into the delicate ecosystem of the Mitembe river and Ngamaboungou creek. This radioactive legacy continues to harm the environment of the region and the health of its inhabitants. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Mounana.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.158946,
+                    -1.392723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Witwatersrand, South Africa",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/witwatersrandpic.jpg\"><div dir=\"ltr\">The Witwatersrand basin has been mined for more than a century. The radioactive effluent of these mines has had a detrimental effect on people living in the surrounding areas as well as the environment of the area. <br><br><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Witwatersrand.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.626381,
+                    -25.90494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "La Hague, France",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/lahaguepic.JPG\"><div dir=\"ltr\">The reprocessing facility at La Hague on the Normandy coast of France produces plutonium and uranium from spent nuclear fuel. Large amounts of plutonium and nuclear waste are stockpiled, creating a proliferation risk. Radioactive discharges pollute the sea and atmosphere. Additionally, several studies have shown increased rates of childhood leukemia around La Hague. <\/div><div dir=\"ltr\">&nbsp;<\/div><div dir=\"ltr\"><a href=\"http:\/\/www.ippnw-students.org\/Japan\/LaHague.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.880035,
+                    49.67474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mailuu-Suu, Kyrgyzstan",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/mailuusuupic.jpg\"><div dir=\"ltr\">The former uranium mining town of Mailuu-Suu is known for its unsecured uranium tailing dumps in tectonically unstable hillsides. Thousands of people have already been affected by radioactive contamination of the Mailuu-Suu river system and the region's high seismic activity continually threatens to wash more radioactive waste into the drinking water supply of the valley.<\/div><div dir=\"ltr\">&nbsp;<\/div><div dir=\"ltr\"><a href=\"http:\/\/www.ippnw-students.org\/Japan\/MailuuSuu.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.45089,
+                    41.260132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Basra, Iraq",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/fallujahpic.jpg\"> <div dir=\"ltr\"><font color=\"#000000\"><font face=\"Arial, sans-serif\"><font size=\"2\">The use of Depleted Uranium (DU) in the war on Iraq in 2003 has led to an exposure of the local population to radioactive uranium dust. This could potentially explain the significant rise in cancer and congenital malformations documented in Fallujah after 2003. <\/font><\/font><\/font><\/div><div dir=\"ltr\">&nbsp;<\/div><div dir=\"ltr\"><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Fallujah.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.829666,
+                    30.526337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fallujah, Iraq",
+                "desc": "<img src=\"http:\/\/www.ippnw-students.org\/Japan\/fallujahpic.jpg\"><div dir=\"ltr\"><font color=\"#000000\"><font face=\"Arial, sans-serif\"><font size=\"2\">The use of Depleted Uranium (DU) in the war on Iraq in 2003 has led to an exposure of the local population to radioactive uranium dust. This could potentially explain the significant rise in cancer and congenital malformations documented in Fallujah after 2003. <\/font><\/font><\/font><\/div><div dir=\"ltr\">&nbsp;<\/div><div dir=\"ltr\"><a href=\"http:\/\/www.ippnw-students.org\/Japan\/Fallujah.pdf\" target=\"_blank\">See poster<\/a><\/div>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.77039,
+                    33.352039
+                ]
+            }
+        }
+    ]
+}

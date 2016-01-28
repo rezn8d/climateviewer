@@ -1,0 +1,851 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>Digitally walk this map in Google Earth 3D .</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Digitally walk this map in Google Earth 3D with this Non-networked Google Earth KML file. (https://docs.google.com/file/d/0B52hHMRyBvEsRDZld3RzWXo1aVU/edit)]]></description>
+			<Point>
+				<coordinates>-108.632812,-0.703107,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>How giant waves form.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ifremer.fr (http://wwz.ifremer.fr/iowaga/News/Record-wave-heights)
+
+These long swells can be strongly amplified by underwater reefs, and cause strong long period motions in harbours. Thanks to Quirin, French surfer Benjamin Sanchis rode the 'biggest wave of the year' on February 16 to claim the Billabong XXL prize for 2011, while severe damage was inflicted in Royan harbor du to seiche resonance. The analysis of the storm confirms that the biggest waves appear when the low pressure systems move at the speed of the waves, a phenomenon that is well reproduced by numerical wave models, even for such huge waves. That is if we believe in numerical models for winds: the high winds in the storm center are well observed by modern satellite sensors but the magnitude of measured wind speeds above 50 knots is very uncertain.]]></description>
+			<Point>
+				<coordinates>-1.090393,45.609234,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>Information on Ocean Waves from the Monterey Institute/NOAA</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[montereyinstitute.org/noaa (http://www.montereyinstitute.org/noaa/lesson09/l9text.htm)]]></description>
+			<Point>
+				<coordinates>-108.632812,-31.052934,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other MyReadingMapped Google maps of historic events.</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>-108.632812,-14.264383000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>1958 Lituya Bay megatsunami (recorded at 1,720 feet)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1958_Lituya_Bay_megatsunami)
+
+The 1958 Lituya Bay megatsunami occurred on July 9, 1958, when a large, 8.3 magnitude earthquake on the Fairweather Fault triggered a landslide that caused 30 million cubic metres of rock and ice to fall into the narrow inlet of Lituya Bay, Alaska.[3] The sudden displacement of water resulted in a wave runup of 516 metres (1,720 feet) in height.[3] This is the highest recorded megatsunami and the largest known in modern times. The event forced a re-evaluation of large wave events, and recognition of impact and landslide events as a previously unknown cause of very large waves.]]></description>
+			<Point>
+				<coordinates>-137.50042,58.659799,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>Bishop's Rock, Cortes Bank (up to 100-foot waves)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Cortes_Bank)
+
+The shallower reaches of the bank comprise about 15–18 miles of sandstone and basalt and they rise from the ocean floor from 1000 fathoms, or just over a mile in depth. The bank has been described as a series of mountaintops, but really it is more of the shape of a wave-scoured mesa with a few hard, basaltic high spots along its length. The shallowest peak, the Bishop Rock, rises to between 3 and 6 feet (1–2 m) from the surface, depending on the tides. On very low tides, the rock can be visible in the trough of passing waves. Other shoal spots besides the Bishop Rock also spawn giant waves. These shoals range in depth from 30 to 100 feet and are a hazard to shipping. Nine Fathom spot is about 4.5 miles (7 kilometers) northwest of Bishop Rock and also rises to about 54 feet (18 m) below the surface. Both are notedscuba diving locations featuring clear water, vast kelp forests and abundant sea life. The Bishop Rock also creates a renowned big-wave surfing spot recognized as being capable of producing some of the tallest surfable waves in the world.[2][3][4]]]></description>
+			<Point>
+				<coordinates>-119.15617000000002,32.448651,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>Praia do Norte, Nazaré, Portugal (up to 100-foot waves)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com (http://www.huffingtonpost.com/2013/10/29/biggest-wave-ever-surfed-carlos-burle-world-record_n_4173613.html)
+
+The Brazilian big wave surfer rode a wave that may have been as high as 100 feetwhile off the coast of Portugal Monday for the 2014 Billabong XXL Global Big Wave Awards, CBS reports. If the feat is authenticated, he will have surpassed Garrett McNamara's 2011 record forbiggest wave ever surfed by 22 feet.]]></description>
+			<Point>
+				<coordinates>-9.129639,39.60992000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>Hurricane Ivan (90-foot waves)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[nationalgeographic.com (http://news.nationalgeographic.com/news/2005/08/0804_050804_extremewave.html)
+
+Hurricane Ivan, which struck U.S. shores September 15, 2004, kicked up the tallest, most extreme waves ever measured, scientists announced today.
+At more than 90 feet (27 meters) tall from crest to trough and 600 feet (183 meters) long, the massive waves would "wipe out" a commercial fishing boat, said Douglas Mitchell. Mitchell is an oceanographer with the U.S. Naval Research Laboratory at the Stennis Space Center in Mississippi.
+
+The Naval Research Laboratory team obtained their wave measurements when Ivan passed directly over a series of six concrete-ringed instrument packages deployed on the ocean floor about 75 miles (121 kilometers) south of Gulfport, Mississippi.]]></description>
+			<Point>
+				<coordinates>-89.048309,29.266035000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>Mavericks (up to 80-foot waves)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/f/fa/Mavericks_bathymetry_-_cropped.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mavericks_(location))
+
+Mavericks is a surfing location in Northern California, USA. It is located approximately 2 miles (3.2 km) from shore outside Pillar Point Harbor, just north of the town of Half Moon Bay at the village of Princeton-by-the-Sea. After a strong winter storm in the northern Pacific Ocean, waves can routinely crest at over 25 feet (7.6 m) and top out at over 80 feet (24 m). The break is caused by an unusually shaped underwater rock formation.
+
+
+
+Wikipedia Commons / Public Domain  / NOAA]]></description>
+			<Point>
+				<coordinates>-122.508333,37.491389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>Donegal, Ireland (67-foot wave)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[rya.org.uk (http://www.rya.org.uk/joinrenew/youth/latest-news/Pages/BiggestwaveeverrecordedoffIrishcoast.aspx)
+
+A monster wave off the Donegal coast last week was the highest ever to hit Irish waters. The giant 20 metre (67 foot) wave – almost three times the size of an average house – was recorded during the storms that battered the British Isles.
+
+It was measured by a special wave buoy 60 miles out to sea while a Force 10 storm raged across the north coast – the most severe conditions ever seen for the area, according to meteorologists.]]></description>
+			<Point>
+				<coordinates>-9.720154,54.58320500000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>JAWS (up to 60-foot waves)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Peahi,_Hawaii#Jaws)
+ 
+In the 1980s, a few intrepid wind surfers reached the break from Hoʻokipa. The wave sizes at Jaws (which can exceed 60 feet (18 m) during the months of December to March) attract big wave surfers such asLaird Hamilton and Dave Kalama using the tow-in surfing method of big wave surf riding they co-invented (with Darrick Doerner and Buzzy Kerbox).[10]]]></description>
+			<Point>
+				<coordinates>-156.301117,20.986124,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>Tavarua</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+
+There are seven main surfing breaks that are all available to guests staying at the all-inclusive island resort: Cloudbreak, Restaurants, Tavarua Rights, Swimming Pools, Namotu Left, Wilkes Pass, and Desperations which are all world class waves. Cloudbreak, being the most famous of the surrounding waves, is a powerful left a mile off the island that breaks over coral reef.]]></description>
+			<Point>
+				<coordinates>177.195482,-17.863543,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>Teahupo'o</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Teahupo'o)
+
+Teahupo'o's legendary reputation for wave riding is partly due to its unique form. An extremely shallow coral reef, which ranges up to 20 inches beneath the waters surface, is responsible for a very hollow-breaking wave.[5] The wave's unique shape, with an effect of almost breaking below sea level, is due to the specific shape of the reef beneath the wave. Its semi circular nature, which drops down sharply creates a 'below water' effect and the extreme angles in descent create an instant instability to the wave. A steep wall of reef causes the entire mass to fold onto a scalloped semi circle breaking arc.[6] The wave bends and races along into a dry reef closeout and the lip of the wave is often as thick as it is tall.[2]]]></description>
+			<Point>
+				<coordinates>-149.275103,-17.859336000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>West coast of Tasmania (up to 65-foot waves)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[smh.com.au (http://www.smh.com.au/environment/australian-monster-wave-heralds-huge-surf-for-sydney-20100917-15f23.html)
+
+Tom Shand, who works at the University of NSW Water Research Laboratory, provided a CSIRO report that points out that a wave of 19.83 metres was recorded in 1985 during a storm of the west coast of Tasmania.]]></description>
+			<Point>
+				<coordinates>144.975586,-42.374778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>Hout Bay, South Africa (up to 47-foot waves)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+
+Hout Bay, also known as "Dungeons" to the surfing community, is one of the sixteen recognised big wave spots around the globe. The annual Red Bull Big Wave Africa competition is held here. Swells of up to 47 feet (14.3 m) have been recorded here as well as numerous deaths as a result of boating, diving and surfing-related incidents in the area. The spot itself consists of various reefs. The most popular is called "2.5" since it is 2.5 metres (8.20 ft) deep. Behind it is "3.5", which is 3.5 metres (11.48 ft) deep. There is also a reef that is reputed to be able to hold a 100 ft (30 m) high wave, should one ever come. Before the use of jet-skis to enter and leave the area, the surfers who braved these waters had to paddle through a dark and deep channel, through to where the waves break.]]></description>
+			<Point>
+				<coordinates>18.355279,-34.06233,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>Mākaha Beach, HI</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[thebigwaveblog.com (http://www.thebigwaveblog.com/surf-spots/makaha-oahu)
+
+...one day at Makaha in 1969 brought back the spotlight, when one of the biggest swells ever recorded hit Hawaii. The North Shore was unridable, so legendary big wave rider Greg Noll and some friends went to Makaha and found the biggest surf they had ever seen. Greg Noll ended up catching one of the biggest waves ever ridden at that point in time.]]></description>
+			<Point>
+				<coordinates>-158.223252,21.474835,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>Banzai Pipeline</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[thebigwaveblog.com (http://www.thebigwaveblog.com/surf-spots/pipeline-oahu)
+
+Pipeline has a reputation as one of the most dangerous waves in the world. The main wave at Pipeline is a left that breaks over a very shallow and treacherous reef. The right at Pipe is called “Backdoor” and can be even more dangerous at times. Pipeline pitches really quickly as the wave moves over first reef, making for some intense late drops straight into the barrel. On massive swells, the takeoff zone can move to second reef, which is a lot further out, and to the south; here the wave is generally more crumbly until it hits first reef and turns into a racetrack. On the biggest of days, Pipe breaks way out in the middle of the ocean at what is called third reef. It is also one of the most famous waves in the world, and all the pros eventually go there to prove their surfing abilities. Pipe is strictly for experts only. Every time it is breaking, there is a big crowd on it, most of whom are locals or visiting pros, so paddling out at Pipe can be intimidating. If you do paddle out and are able to scratch your way into a wave, you can be certain that getting spit out of a Pipeline barrel will be the thrill of a lifetime.]]></description>
+			<Point>
+				<coordinates>-158.064981,21.67059,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>Todos Santos, Baja California, Mexico</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[thebigwaveblog.com (http://www.thebigwaveblog.com/surf-spots/todos-santos-baja)
+
+Todos Santos is an impressive rock and sand beach break on a little island located off the coast of the northern end of Baja California, Mexico. This wave is usually at least two to four feet bigger than the other Baja breaks lining the peninsula, and is completely capable of handling waves as big as 60 feet. The best known break on this island and probably in the area is called “Killers,” a somewhat appropriate name for such an intense wave. This right point break is packed full or speed and power that will definitely leave you wanting more (or less, depending on your experience with big waves¬). Like other big wave surf spots, Todos Santos has plenty of things to look out for, including weird boils, bumpy faces, and some major power generated by this heavy deep-water wave. Todos Santos is definitely a big wave spot that should only be surfed by people with big wave experience.]]></description>
+			<Point>
+				<coordinates>-116.80924799999998,31.812876,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>365 Crete Tsunami</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/365_Crete_earthquake)
+
+The Crete earthquake was followed by a tsunami which devastated the southern and eastern coasts of the Mediterranean, particularly Libya, Alexandria and the Nile Delta, killing thousands and hurling ships 3 km (1.9 mi) inland.[7] The quake left a deep impression on the late antique mind, and numerous writers of the time referred in their works to the event.[8]]]></description>
+			<Point>
+				<coordinates>23.0,35.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>1605 Nankai Tsunami</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1605_Keich%C5%8D_Nankaido_earthquake#Tsunami)
+
+The records of this tsunami are quite sparse but the maximum wave heights are larger than those for either the 1707 Hōei or 1854 Ansei Nankai tsunamis in areas on the south coast of Shikoku where they can be compared.[9] The regional extent of this tsunami is supported by the discovery of tsunami deposits on the northeastern part of the Kii Peninsula and at Lake Hamana correlated to this event.[10][11] Victims of the tsunami were also reported from Kyushu.[12]]]></description>
+			<Point>
+				<coordinates>138.5,33.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>1700 Cascadia Tsunami</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1700_Cascadia_earthquake)
+
+The most important clue linking the tsunami in Japan and the earthquake in the Pacific Northwest comes from studies of tree rings (dendrochronology), which show that red cedar trees killed by lowering of coastal forests into the tidal zone by the earthquake have outermost growth rings that formed in 1699, the last growing season before the tsunami.]]></description>
+			<Point>
+				<coordinates>-124.89257800000001,45.305803,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>1755 Lisbon Tsunami</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1755_Lisbon_earthquake)
+
+In 1755, the earthquake struck on the morning of 1 November, the holiday of All Saints' Day. Contemporary reports state that the earthquake lasted between three and a half and six minutes, causing fissures 5 metres (15 feet) wide to open in the city centre. Survivors rushed to the open space of the docks for safety and watched as the water receded, revealing a sea floor littered with lost cargo and shipwrecks. Approximately 40 minutes after the earthquake, a tsunami engulfed the harbour and downtown area, rushing up the Tagus river,[5] "so fast that several people riding on horseback ... were forced to gallop as fast as possible to the upper grounds for fear of being carried away." It was followed by two more waves. In the areas unaffected by the tsunami,[citation needed][clarification needed] fire quickly broke out, and flames raged for five days.]]></description>
+			<Point>
+				<coordinates>-11.0,36.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>1771 Great Yaeyama Tsunami </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1771_Great_Yaeyama_Tsunami)
+
+The 1771 Great Yaeyama Tsunami (also called 明和の大津波, the Great Tsunami of Meiwa) was caused by theYaeyama Great Earthquake at about 8 A.M. on April 24, 1771, south-southeast of Ishigaki Island, part of the formerRyūkyū Kingdom and now forming part of present day Okinawa, Japan. According to records, 8,439 persons were killed on Ishigaki Island and 2,548 on Miyako Island.]]></description>
+			<Point>
+				<coordinates>124.3,24.000000000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>1833 Sumatra Tsunami</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1833_Sumatra_earthquake#Tsunami)
+
+Modelling of the tsunami suggests that most of the energy would have been radiated out into the Indian Ocean, sparing most coastal population centres outside Sumatra itself.[3] Detailed modelling around Sumatra matches well with limited observations available.[4]]]></description>
+			<Point>
+				<coordinates>100.50000000000001,-2.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>1883 Krakatoa Tsunami</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa#Tsunamis_and_distant_effects)
+
+Ships as far away as South Africa rocked as tsunamis hit them, and the bodies of victims were found floating in the ocean for months after the event. The tsunamis which accompanied the eruption are believed to have been caused by gigantic pyroclastic flows entering the sea; each of the four great explosions was accompanied by massive pyroclastic flows resulting from the gravitational collapse of the eruption columns. This caused several cubic kilometers of material to enter the sea, displacing an equally huge volume of seawater. The town of Merak was destroyed by a tsunami 46 m (151 ft) high. Some of the pyroclastic flows reached the Sumatran coast as much as 40 km (25 mi) away, having apparently moved across the water on a cushion of superheated steam.[9] There are also indications of submarine pyroclastic flows reaching 15 km (9.3 mi) from the volcano.]]></description>
+			<Point>
+				<coordinates>105.423,-6.102,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>1896 Sanriku Tsunami</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1896_Meiji-Sanriku_earthquake#Tsunami)
+
+On the evening of June 15, 1896, communities along the Sanriku coast in northern Japan were celebrating a Shinto holiday and the return of soldiers from the First Sino-Japanese War. After a small earthquake, there was little concern because it was so weak and many small tremors had also been felt in previous few months. However 35 minutes later the first tsunami wave struck the coast followed by a second a few minutes later.[2][9] Damage was particularly severe because the tsunamis had coincided with high tides. Most deaths occurred in Iwate and Miyagi although casualties were also recorded from Aomori and Hokkaido.
+
+Wave heights of up to 9 meters (30 ft) were also measured in Hawaii. They destroyed wharves and swept several houses away.[3][11]]]></description>
+			<Point>
+				<coordinates>144.0,39.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>1923 Great Kantō Tsunami</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Great_Kanto_Earthquake)
+
+A tsunami with waves up to 10 m (33 ft) high struck the coast of Sagami Bay, Bōsō Peninsula, Izu Islands, and the east coast of Izu Peninsula within minutes. The tsunami killed many, including about 100 people along Yui-ga-hama Beach inKamakura and an estimated 50 people on the Enoshima causeway. Over 570,000 homes were destroyed, leaving an estimated 1.9 million homeless. Evacuees were transported by ship from Kanto to as far as Kobe in Kansai.[13] The damage is estimated to have exceeded USD$1 billion (or about $14 billion today).[citation needed] There were 57 aftershocks.
+
+Altogether, the earthquake and typhoon killed an estimated 99,300 people, and another 43,500 went missing.[14]]]></description>
+			<Point>
+				<coordinates>139.5,35.1,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>1933 Sanriku  Tsunami</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikpedia (http://en.wikipedia.org/wiki/1933_Sanriku_earthquake)
+
+Although the earthquake did little damage, the associated tsunami, which was recorded to reach the height of 28.7 metres (94 ft) at Ōfunato, Iwate, caused extensive damage, destroyed many homes and caused numerous casualties[5] The tsunami destroyed over 7,000 homes along the northern Japanese coastline, of which over 4,885 were washed away. The tsunami was also recorded in Hawaii with a height of 9.5 feet (2.9 m), and which also resulted in slight damage.[1] The death toll came to 1522 people confirmed dead, 1542 missing, and 12,053 injured. Hardest hit was the town of Tarō, Iwate (now part of Miyako city), with 98% of its houses destroyed and 42% of its population killed.[6]]]></description>
+			<Point>
+				<coordinates>144.116667,39.128333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>1944 Tōnankai Tsunami</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1944_T%C5%8Dnankai_earthquake)
+
+The maximum recorded wave height was 10 meters on the Kumano coast. Run-ups in excess of 5 meters were also recorded at several locations along the coasts of Mie and Wakayama Prefectures. The tsunami was observed along the Pacific coast of Japan from Izu Peninsula to Kyushu, and recorded by tide gauges from Alaska to Hawaii.[9]]]></description>
+			<Point>
+				<coordinates>137.1,34.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>1946 Nankai Tsunami</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1946_Nankaid%C5%8D_earthquake)
+
+The earthquake also caused a huge tsunami that took out another 2,100 homes with its. 5–6-metre (16–20-foot) waves.[1]]]></description>
+			<Point>
+				<coordinates>135.6,33.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>1946 Aleutian Islands Tsunami</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1946_Aleutian_Islands_earthquake)
+
+Multiple destructive waves at heights ranging from 45–130 ft occurred. The tsunami obliterated the Scotch Cap Lighthouse on Unimak Island, Alaska among others, and killed all five lighthouse keepers. The wave reachedKauai 4.5 hours after the quake, and Hilo 4.9 hours later.
+
+The tsunami was unusually powerful for the size of the earthquake and due to the discrepancy between the size of the tsunami and the relatively low magnitude on the surface wave magnitude scale, it is classified as a tsunami earthquake.[2] The large-scale destruction prompted the creation of the Seismic Sea Wave Warning System, which later became the Pacific Tsunami Warning Center in 1949.[3]]]></description>
+			<Point>
+				<coordinates>-163.5,52.8,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>1952 Severo-Kurilsk tsunami</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1952_Severo-Kurilsk_tsunami)
+
+1952 Severo-Kurilsk Tsunami was a major tsunami that hit Severo-Kurilsk, Kuril Islands, Sakhalin Oblast, Russian SFSR, USSR, which occurred on 5 November 1952 at about 5 a.m. It led to the destruction of many settlements in Sakhalin Oblast and Kamchatka Oblast, while the main impact struck the town of Severo-Kurilsk.
+
+The tsunami was generated by a major earthquake in the Pacific Ocean, 130 kilometers (81 mi) from the shore of Kamchatka, with an estimated magnitude of 9.0. There were three waves about 15–18 meters (49–59 ft) high. After the earthquake the majority of the Severo-Kurilsk citizens fled to the surrounding hills, where they escaped the first wave. However, most of them returned to the town and were killed by the second wave. The third wave was minor. According to the authorities, out of a population of 6,000 people, 2,336 died. The remaining survivors were evacuated to continental Russia. The settlement was then rebuilt in another location.]]></description>
+			<Point>
+				<coordinates>161.0,52.3,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>1960 Valdivia Tsunami</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1960_Valdivia_earthquake)
+
+The 1960 Valdivia earthquake or Great Chilean Earthquake (Spanish: Terremoto de Valdivia/Gran terremoto de Chile) of Sunday, 22 May 1960 was the most powerful earthquake ever recorded, rating 9.5 on the moment magnitude scale. It occurred in the afternoon (19:11 GMT, 15:11 local time), and the resulting tsunami affected southern Chile, Hawaii, Japan, the Philippines, eastern New Zealand, southeast Australia, and the Aleutian Islands.
+
+The epicenter was near Lumaco (see map), approximately 570 kilometres (350 mi) south of Santiago, with Valdivia being the most affected city. The tremor caused localised tsunamis that severely battered the Chilean coast, with waves up to 25 metres (82 ft). The main tsunami raced across the Pacific Ocean and devastated Hilo, Hawaii. Waves as high as 10.7 metres (35 ft) were recorded 10,000 kilometres (6,200 mi) from the epicenter, and as far away as Japan and the Philippines.]]></description>
+			<Point>
+				<coordinates>-74.399414,-39.859155,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>1964 Niigata Tsunami</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+
+The earthquake caused a moderate tsunami with a maximum recorded run-up of nearly 6 m along the coast of Honshu between Shioya and Nezugaseki.[7]]]></description>
+			<Point>
+				<coordinates>139.22,38.37,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>1964 Alaska Tsunami</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1964_Alaska_earthquake#Tsunamis)
+
+Two types of tsunami were produced by this subduction zone earthquake. There was a tectonic tsunami produced in addition to about 20 smaller and local tsunami. These smaller tsunami were produced by submarine and subaerial landslides and were responsible for the majority of the tsunami damage. Tsunami waves were noted in over 20 countries, including: Peru, New Zealand, Papua New Guinea, Japan, and Antarctica. The largest tsunami wave was recorded in Shoup Bay, Alaska, with a height of about 67 meters.[3]]]></description>
+			<Point>
+				<coordinates>-147.11792,60.662415,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>1976 Moro Gulf Tsunami</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1976_Moro_Gulf_earthquake)
+
+Initially over 8,000 people were officially counted as killed or missing, 10,000 injured, and 90,000 homeless, making the 1976 Moro Earthquake and Tsunami one of the most devastating disasters in the history of the Philippine Islands.[5] After the initial earthquake the people were unaware of the need to move to higher ground; when the tsunami hit it sucked most of the victims out to sea.[5] Based on the investigation on the affected region it was confirmed that the waves reached up to 4 to 5 metres (13 to 16 ft) when they hit the areas. There were reports of weak tsunami activity as far as Japan,[5] as well as Indonesian Hydrographic Office reports of unusual wave activity affecting the islands of Sulawesi(Celebes Island) and Borneo.[3]]]></description>
+			<Point>
+				<coordinates>124.09000000000002,6.29,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>1979 Tumaco Tsunami</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1979_Tumaco_earthquake#Tsunami)
+
+The coast nearest the epicenter was hit by the first wave of the tsunami about three minutes after the earthquake. Three to four waves were observed, with the third being the highest. The third wave coincided with low tide, greatly reducing the extent of the inundation and the likely death toll.[8] The maximum observed water height was 6.0 m at San Juan de la Costa, northeast of Tumaco. The tsunami was observed on the east coast of Japan, in Hawaii, Tahiti and Mexico.[8]]]></description>
+			<Point>
+				<coordinates>-79.358,1.598,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>1983 Sea of Japan Tsunami</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1983_Sea_of_Japan_earthquake#Tsunami)
+
+The first wave of the tsunami struck the coast about 12 minutes after the earthquake, with a maximum run-up height of 14.9 m (49 ft) recorded on the Oga Peninsula.[7] The initial models of the earthquake were unable to reproduce the short time interval between the shock and the first wave arrival at the coast. The possibility that the faults dipped to the west, which would have brought the tsunami source closer to the coast, was inconsistent with seismic data and slow aseismic slip on the southern fault immediately before the mainshock has been proposed as an explanation.[6]]]></description>
+			<Point>
+				<coordinates>139.102,40.462,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>1992 Nicaragua Tsunami</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1992_Nicaragua_earthquake#Tsunami)
+
+Most of the casualties and damage were caused by a tsunami affecting the west coasts of Nicaragua and Costa Rica, and it was one of three tsunamis to occur within a span of six months.[5] Runup heights were measured shortly after the earthquake[7] and reached heights of up to 9.9 meters, though the average height was 3 to 8 meters.[8][9] The tsunami was disproportionately large for its surface-wave magnitude, or Ms,[2] and the duration of the rupture process was 100 s, unusually long for its size.[8] The moment magnitude, or Mw, was 7.6, larger than the 20-s Ms of 7; this Ms–Mw difference is a characteristic of so-called tsunami earthquakes.[2]Tide gages were set up at Corinto and Puerto Sandino, which showed an impulsive tsunami originating 61 minutes after the earthquake.[8] It ran inland 1,000 meters to Masachapa,[1] the hardest hit major town of all, with 9 fatalities.[4]]]></description>
+			<Point>
+				<coordinates>-87.34,11.742,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>1993 Hokkaidō Tsunami</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1993_Hokkaido_earthquake#Tsunami)
+
+The tsunami inundated large parts of Okushiri, despite its tsunami defenses. Okushiri had been struck by another tsunami 10 year earlier. A maximum run-up of 32 m was recorded on the western part of the island near Monai. A tsunami was widely observed in the Sea of Japan with a run-up of 3.5 m at Akita in northern Honshu, up to 4.0 m in southeastern Russia and up to 2.6 m on the coast of South Korea.[4]]]></description>
+			<Point>
+				<coordinates>139.197,42.851,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>1998 Papua New Guinea Tsunami</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+ (http://en.wikipedia.org/wiki/1998_Papua_New_Guinea_earthquake)
+A few minutes after the earthquake, many residents reported hearing a loud clap as the tsunami approached the shoreline.[2] The tsunami resulted in at least 2,200 people being killed, thousands being injured, about 9,500 homeless and about 500 missing.[1] The maximum height of the waves was estimated at being 15 m (59 ft) high with an average height of 10.5 m (34 ft).[1][3]]]></description>
+			<Point>
+				<coordinates>141.92,-2.96,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>2004 Indian Ocean Tsunami</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/4/47/2004_Indonesia_Tsunami_Complete.gif</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake)
+
+The 2004 Indian Ocean earthquake was an undersea megathrust earthquake that occurred at 00:58:53 UTC on Sunday, 26 December 2004, with an epicentre off the west coast of Sumatra, Indonesia. The quake itself is known by the scientific community as the Sumatra–Andaman earthquake.[5][6] The resulting tsunami was given various names, including the2004 Indian Ocean tsunami, South Asian tsunami, Indonesian tsunami, the Christmas tsunami and the Boxing Daytsunami.[7]
+
+
+
+Wikipedia Commons / Public Domain / NOAA]]></description>
+			<Point>
+				<coordinates>95.97656300000001,3.864255,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>2007 Solomon Islands Tsunami</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/2007_Solomon_Islands_earthquake)
+
+At least fifty-two people were reported to have been killed and sixty reported missing when a tsunami triggered by the earthquake struck the Solomon Islands, wiping out thirteen or more villages.[2][3] Thousands were left homeless, and damages are estimated in millions. The largest waves were reported on the northern tip of Simbo Island, where maximum tsunami run-ups were 12 m, completely washing away two villages, Tapurai and Riquru, and killing 10 people.[4] In South Choiseul, waves 10 meters high swept away villages, gardens and a hospital.[5] About 900 homes were destroyed.[6]]]></description>
+			<Point>
+				<coordinates>156.966667,-8.483333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>2009 Samoa Tsunami</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/2009_Samoa_earthquake)
+
+A tsunami was generated which caused substantial damage and loss of life in Samoa, American Samoa, and Tonga. The Pacific Tsunami Warning Center recorded a 3-inch (76 mm) rise in sea levels near the epicenter, and New Zealand scientists determined that the waves measured 14 metres (46 ft) at their highest on the Samoan coast.[4] The quake occurred on the outer rise of the Kermadec-Tonga Subduction Zone. This is part of the Pacific Ring of Fire, where tectonic plates in the Earth's lithosphere meet and earthquakes and volcanic activity are common.]]></description>
+			<Point>
+				<coordinates>-172.034,-15.509000000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>2010 Chile Tsunami</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/2010_Chile_earthquake)
+
+The earthquake triggered a tsunami which devastated several coastal towns in south-central Chile and damaged the port at Talcahuano. Tsunami warnings were issued in 53 countries,[10] and the wave caused minor damage in the San Diegoarea of California[11] and in the Tōhoku region of Japan, where damage to the fisheries business was estimated at ¥6.26 billion (USD$66.7 million).[12]]]></description>
+			<Point>
+				<coordinates>-72.733,-35.909,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>2011 Tōhoku Tsunami</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami#Japan)
+
+Video Animation (http://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami#Japan)
+
+A 4 m high tsunami hit Iwate Prefecture.[110] Wakabayashi Ward in Sendai was also particularly hard hit.[111] At least 101 designated tsunami evacuation sites were hit by the wave.[112]]]></description>
+			<Point>
+				<coordinates>142.36900000000003,38.322,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>2013 Solomon Islands Tsunami</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+ (http://en.wikipedia.org/wiki/2013_Solomon_Islands_earthquake#Tsunami)
+
+The Pacific Tsunami Warning Center issued a tsunami warning for the Solomon Islands, Papua New Guinea, Fiji[10] and several other islands in the region; the agency also issued a tsunami watch for Australia, New Zealand and eastern Indonesia.[11][12] The earthquake produced a tsunami measuring 1 metre (3 ft 3 in) atLata, Solomon Islands,[12][11] that reached about 500 m (1,600 ft) inland.[8] Smaller tsunamis of 11 cm (4.3 in) and 50 cm (20 in) were reported in Vanuatu and New Caledonia, respectively.[13]]]></description>
+			<Point>
+				<coordinates>165.137778,-10.737778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>Are Rogue Waves affected by the Thermohaline Circulation?</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[When I pair up in Google Earth, my map of the Thermohaline Circulation with this map of Giant-Wave Zones, I find that ten of the Rogue Wave situations occurred within 500 miles of the Thermohaline Circulation Surface Current. 
+(http://myreadingmapped.blogspot.com/2013/12/google-map-of-topography-of.html) 
+
+Those involved are...
+
+- The crusie ship MS Prinsendam
+- US Memphis
+- The Florida Beaches
+- The cruise ship Norwegian Dawn
+- Andrea Gail
+- RRS Discovery
+- Draupner
+- HMS Albemarle
+- Buoy K3]]></description>
+			<Point>
+				<coordinates>-108.28125,-43.580391,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>Highest Significant Wave Height as measured by Buoy K3 (60-foot wave)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[mo.asu.edu
+
+18.275 m (59.96 ft), 2054 UTC 8/12//2007,  Buoy K3 (a part of the UK Met Office’s network of Marine Automatic Weather Stations, or MAWS)[52°31'N, 18°28'W, elevation: 0m)]]]></description>
+			<Point>
+				<coordinates>-18.466667,52.516667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>Rogue Wave strikes Florida Beaches</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_rogue_waves)
+
+On July 3, 1992, a 27-mile- (43.5-kilometer-) long rogue wave hit the Volusia County beaches in Florida. The wave's range was from Ormond Beach in the north to New Smyrna Beach on the south. The crest was 18 feet (5.5 meters) high and centered at Daytona Beach. Sailboats crashed ashore onto cars and many people suffered cuts and bruises from glass and debris. Two people required hospitalization and 200 vehicles were damaged. Seventy-five injuries were reported. The prevailing theory is that an underwater landslide caused the rogue wave, making this wave into a type of tsunami, although others have theorized that it was a wind-driven rogue wave resulting from a squall line.]]></description>
+			<Point>
+				<coordinates>-80.914307,29.107776,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>Rogue Wave strikes the Andrea Gail (60-foot wave)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+
+The last reported transmission from Andrea Gail was at about 6:00 p.m. on October 28, 1991. Captain Tyne radioed Linda Greenlaw, Captain of Andrea Gail's sister ship Hannah Boden, and gave his coordinates as 44°00′N 56°40′W,[1] or about 162 mi (261 km) east of Sable Island. 
+
+Junger reported that the storm created waves in excess of 100 ft (30 m) in height, but ocean buoy monitors recorded a peak wave height of 39-foot (12 m), and so waves of 100 ft (30 m) were deemed "unlikely" by Science Daily.[3] However, data from a series of weather buoys in the general vicinity of the vessel's last known location recorded peak wave action exceeding 60 ft (18 m) in height from October 28 through 30, 1991.[1]]]></description>
+			<Point>
+				<coordinates>-56.666667000000004,44.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>Rogue Wave strikes Cypriot liner Louis Majesty</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_rogue_waves)
+
+3 March 2010, off Marseille, the Cypriot liner Louis Majesty was hit by a 26-foot (8-meter) wave which killed two people on board. The height of the wave was reported to be abnormally high with respect to the sea state at the time of the incident.[37]]]></description>
+			<Point>
+				<coordinates>5.169067,43.098977,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>Rogue Wave strikes the Draupner platform 85-foot </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[wikipedia (http://en.wikipedia.org/wiki/Draupner_wave)
+
+The Draupner wave or New Year's wave is often believed to be the first rogue wave to be detected by ameasuring instrument, occurring at the Draupner platform in the North Sea off the coast of Norway on 1 January 1995. Yet, prior to the publicity made about that measurement, other cases such as that of the Weather Reporter[1] had already confirmed that such freak waves did not only exist through anecdotal evidence provided by those who had encountered them at sea.]]></description>
+			<Point>
+				<coordinates>2.175293,57.926517000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Video of the Draupner wave.</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=K_JOBOvJEOg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[YouTube Video ]]></description>
+			<Point>
+				<coordinates>2.988281,56.36525,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>Rogue Wave strikes HMS Albemarle</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_rogue_waves)
+
+On 7 November 1915 at 2:27 a.m., the British battleship HMS Albemarle suffered severe damage during a storm in the Pentland Firth when two large waves struck her in rapid succession. Water rose as high as the bottom of her lower foretop, filling it with water, sweeping her forward deck clear, smashing her forebridge – much of which was found in pieces on her upper deck – wrecking her chart house, shifting the roof of her conning tower, and flooding her forward main gun turret, mess decks, and flats. Five of her crew died, and 17 others suffered serious injuries.[4][5][6]]]></description>
+			<Point>
+				<coordinates>-3.115,58.715999999999994,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>Rogue Wave strikes cruise ship MS Prinsendam</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_rogue_waves)
+
+On February 1, 2007, Holland America's cruise ship MS Prinsendam was hit by two 12-meter (39 ft) tall rogue waves near Cape Horn. There were around 40 injuries, with some requiring hospitalization.[29]]]></description>
+			<Point>
+				<coordinates>-67.181396,-56.093492,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>Rogue Wave strikes cruiser USS Memphis</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_rogue_waves)
+
+On 29 August 1916 at about 4:40 p.m., the United States Navy armored cruiser USS Memphis was wrecked in Santo Domingo harbor in the Dominican Republic when struck in rapid succession by three waves of up to 70 feet (21 meters) in height, losing 40 men killed and 204 injured. The waves also damaged and nearly capsized the U.S. Navy gunboat USS Castine, which also was in the harbor. Once described as a tsunami, the waves have more recently been assessed as exceptionally large, freak wind-driven waves generated by passing hurricanes.[9][10][11]]]></description>
+			<Point>
+				<coordinates>-69.876652,18.449649,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>Rogue Wave: offshore drilling unit, Ocean Ranger, struck and sank</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[wikipedia (http://en.wikipedia.org/wiki/Ocean_Ranger)
+
+Ocean Ranger was a semi-submersible mobile offshore drilling unit that sank in Canadian waters on 15 February 1982. It was drilling an exploration well on the Grand Banks of Newfoundland, 267 kilometres (166 mi) east of St. John's, Newfoundland, for Mobil Oil of Canada, Ltd. (MOCAN) with 84 crew members on board when it sank. There were no survivors.
+
+At about 19:00 local time, the nearby Sedco 706 experienced a large rogue wave which damaged some items on deck and caused the loss of a life raft. Soon after, radio transmissions were heard from Ocean Ranger, describing a broken portlight (a porthole window) and water in the ballast control room, with discussions on how best to repair the damage. Ocean Ranger reported experiencing storm seas of 55 feet (17 m), with the odd wave up to 65 feet (20 m), thus leaving the unprotected portlight at 28 feet (8.5 m) above mean sea level vulnerable to wave damage. Some time after 21:00, radio conversations originating on Ocean Ranger were heard on the Sedco 706 and Zapata Ugland, noting that valves on Ocean Ranger's ballast control panel appeared to be opening and closing of their own accord. The radio conversations also discussed the 100-knot (190 km/h) winds and waves up to 65 feet (20 m) high. Through the remainder of the evening, routine radio traffic passed between Ocean Ranger, its neighbouring rigs and their individual support boats. Nothing out of the ordinary was noted.]]></description>
+			<Point>
+				<coordinates>-48.835869,46.725981,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>Rogue Waves: research vessel RRS Discovery records largest waves in open ocean. </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_rogue_waves)
+
+In February 2000, a British oceanographic research vessel, the RRS Discovery, sailing in the Rockall Trough west of Scotland encountered the largest waves ever recorded by scientific instruments in the open ocean, with a SWH of 18.5 metres (61 ft) and individual waves up to 29.1 metres (95 ft).[22]]]></description>
+			<Point>
+				<coordinates>-14.0,55.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>Rogue Wave strikes research vessel R/V Ballena</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_rogue_waves)
+
+On November 4, 2000, Channel Islands Sanctuary research vessel R/V Ballena was hit by a rogue wave and capsized near Point Conception in Santa Barbara, California. The ship was 56 feet (17 m) long, and the wave estimated at 20 feet (6.1 m) high. Although the two USGS crew members were trapped briefly inside the ship, they were rescued by the captain and all three managed to swim to shore. The Ballena, operated by NOAA at the time, was a total loss and later sank.[23][24]]]></description>
+			<Point>
+				<coordinates>-120.62988299999999,34.361576,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>Rogue Wave hits the SS Arthur M. Anderson</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+
+...the SS Arthur M. Anderson, was hit at a similar time by two rogue waves, and this appeared to coincide with the sinking around ten minutes later — or at least contributed to the sinking if the Edmund Fitzgerald was already in trouble as suggested. A Discovery Channel reconstruction pointed towards freak waves as the cause.]]></description>
+			<Point>
+				<coordinates>-85.11,46.998333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>Rogue Wave strikes cruise ship Norwegian Dawn off Georgia coast</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Norwegian_Dawn#2005_rogue_wave_incident)
+
+On April 16, 2005, after sailing into rough weather off the coast of Georgia, Norwegian Dawn encountered a series of three 70-foot (21.34 m) waves. The third wave damaged several windows on the 9th and 10th decks and several decks were flooded. Damage, however, was not extensive and the ship was quickly repaired.[3] Four passengers were slightly injured in this incident.[4]]]></description>
+			<Point>
+				<coordinates>-79.914551,31.175209999999996,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>Rogue Wave strikes Eagle Island (11 March 1861 )</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[https://en.wikipedia.org/wiki/List_of_rogue_waves
+
+On 11 March 1861 at midday the lighthouse on Eagle Island,[3] off the west coast of Ireland was struck by a large wave that smashed 23 panes, washing some of the lamps down the stairs, and damaging beyond repair the reflectors with broken glass. In order to damage the uppermost portion of the lighthouse, water would have had to surmount a seaside cliff measuring 40 m (133 ft) and a further 26 m (87 ft) of lighthouse structure.]]></description>
+			<Point>
+				<coordinates>-10.090253999999959,54.2828058,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1181</styleUrl>
+			<name>Rogue Wave strikes Flannan Isles (15 December 1900)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[https://en.wikipedia.org/wiki/List_of_rogue_waves
+
+On 15 December 1900, three lighthouse keepers mysteriously disappeared from the Flannan Isles Lighthouse in the Outer Hebrides of Scotland during a storm. Although there were no surviving witnesses, a rogue wave that hit the west side of the island has been hypothesized to be responsible.]]></description>
+			<Point>
+				<coordinates>-7.583333333333371,58.28333333333334,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1181'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1181-crisis-tsunami.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1201'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1201-fac-info-alt.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

@@ -1,0 +1,1472 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Color Coding</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Allied Victories: Red                                                       Axis Victories: Yellow]]></description>
+			<Point>
+				<coordinates>14.853516000000003,57.04073,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>Digitally walk these battlefields in 3D.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[You can digitally walk these battlefields in 3D using this Non-networked Google Earth KML file. (https://docs.google.com/file/d/0B52hHMRyBvEsRUt0S0ZRWVBHQTg/edit)]]></description>
+			<Point>
+				<coordinates>31.464844000000003,42.293564,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Operation Iskra - 12–30 January 1943</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/thumb/1/17/Iskra_german_defences.JPG/794px-Iskra_german_defences.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_Iskra)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>31.047363,59.9416,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Nikolayevka - 13-26 January 1943</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/b/b6/Alpini_in_Russia.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Nikolayevka)
+
+Wikipedia Commons / Noclador]]></description>
+			<Point>
+				<coordinates>38.232422,50.410268,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Ostrogozhsk–Rossosh Offensive - 13-27 January 1943</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Ostrogozhsk-Rossosh_Operation)]]></description>
+			<Point>
+				<coordinates>39.083333,50.866667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Voronezh - 15-25 January 1943</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Voronezh_(1943) ]]></description>
+			<Point>
+				<coordinates>39.214135,51.670544,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Stavropol - 21 January 1943</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Eastern_Front_1942-05_to_1942-11.png/782px-Eastern_Front_1942-05_to_1942-11.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Caucasus#1943)
+
+Wikipedia Commons / Gdr]]></description>
+			<Point>
+				<coordinates>41.983333,45.05,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Armavir - 23 January 1943</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Caucasus#1943)]]></description>
+			<Point>
+				<coordinates>41.116667,45.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Maykop - 29 January 1943</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Caucasus#1943)]]></description>
+			<Point>
+				<coordinates>40.083333,44.6,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Novorossiysk - 5 February 1943</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Caucasus#1943)]]></description>
+			<Point>
+				<coordinates>37.766667,44.716667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Krasny Bor - 10–13 February 1943</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikpedia (http://en.wikipedia.org/wiki/Battle_of_Krasny_Bor)]]></description>
+			<Point>
+				<coordinates>30.669443999999995,59.679722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Operation Polyarnaya Zvezda - 10 February - 3 March 1943 </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_Polyarnaya_Zvezda)]]></description>
+			<Point>
+				<coordinates>32.563477,57.96150299999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Krasnodar - 12 February 1943</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Caucasus#1943)]]></description>
+			<Point>
+				<coordinates>38.966578,45.033874,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Prokhorovka - 12 July 1943</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/9/93/Bundesarchiv_Bild_101I-219-0553A-36%2C_Russland%2C_bei_Pokrowka%2C_russischer_Panzer_T34.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Prokhorovka)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>36.736389,51.036389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Operation Kutuzov - 12 July – 18 August 1943</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Charkov-Belgorod.jpg/800px-Charkov-Belgorod.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_Kutuzov)
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>36.065104,52.966375,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Kursk - 12 July – 23 August 1943</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/a/a0/Bundesarchiv_Bild_101III-Zschaeckel-206-35%2C_Schlacht_um_Kursk%2C_Panzer_VI_%28Tiger_I%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia http://en.wikipedia.org/wiki/Battle_of_Kursk
+
+Wikipedia Commons / Bundesarchiv, Bild 101III-Zschaeckel-206-35 / Zschäckel, Friedrich / CC-BY-SA]]></description>
+			<Point>
+				<coordinates>36.183273,51.716701,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Bombing of Brazi - 1 August 1943</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_Tidal_Wave) ]]></description>
+			<Point>
+				<coordinates>26.0,44.883333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Bombing of Câmpina - 1 August 1943</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_Tidal_Wave)]]></description>
+			<Point>
+				<coordinates>25.737705,45.129863,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Bombing of Ploiești - 1 August 1943</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Operation_Tidal_Wave_in_1943.jpg/250px-Operation_Tidal_Wave_in_1943.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_Tidal_Wave)
+
+Wikipedia Commons /Public Domain]]></description>
+			<Point>
+				<coordinates>26.03096,44.939988,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Second Battle of Smolensk - 7 August–2 October 1943</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/A_destroyed_german_bunker.jpg/300px-A_destroyed_german_bunker.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Smolensk_(1943) 
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>32.05,54.783333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Belgorod-Khar'kov Offensive Operation - 12 August 1943 - 23 August 1943</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/e/ee/Churchill_Mk_IV_Charkov_%C4%8Dervenec_1943.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Fourth_Battle_of_Kharkov)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>36.316667,49.916667000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of the Dnieper - 24 August 1943 — 23 December 1943</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/1/17/Crossing_the_Dnieper.gif</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lower_Dnieper_Offensive)
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>32.333333,46.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Taman Peninsula - 9 October 1943</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Caucasus#1943)]]></description>
+			<Point>
+				<coordinates>36.791111,45.185556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Lenino - 12-13 October 1943</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lenino_1943_en.png/500px-Lenino_1943_en.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Lenino)
+
+Wikipedia Commons / Lonio17]]></description>
+			<Point>
+				<coordinates>31.1228,54.4114,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Kerch–Eltigen Operation - November 1943</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kerch-Eltigen.png/638px-Kerch-Eltigen.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Kerch-Eltigen_Operation)
+
+Wikipedia Commons / W. B. Wilson]]></description>
+			<Point>
+				<coordinates>36.443367,45.316909,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Kiev - November, 1943 — December, 1943</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Zitomir_43-44.jpg/800px-Zitomir_43-44.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Kiev_(1943) 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>30.523642000000002,50.449839,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of the Korsun-Cherkassy Pocket - 24 January 1944 – 16 February 1944</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/cb/Bundesarchiv_Bild_101I-277-0846-13%2C_Russland%2C_Panzer_VI_%28Tiger_I%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Korsun%E2%80%93Shevchenkovsky_Offensive)
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>32.060307,49.444792,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Nikopol - 30 January 1944 – 29 February 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Dnieper%E2%80%93Carpathian_Offensive#Nikopol.E2.80.93Krivoi_Rog_Offensive)
+ ]]></description>
+			<Point>
+				<coordinates>34.394815,47.56746,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Narva - 2 February – 10 August 1944</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Narva_Feb10_Apr23_44.jpg/399px-Narva_Feb10_Apr23_44.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipeda (http://en.wikipedia.org/wiki/Battle_of_Narva_(1944) 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>28.200165,59.383547,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Rakvere - 11 February 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_for_Narva_Bridgehead#First_attack_of_Soviet_main_forces)]]></description>
+			<Point>
+				<coordinates>26.350184,59.349663,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Piirissaar Island - 12 February 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_for_Narva_Bridgehead#Meerapalu_landing_operation)]]></description>
+			<Point>
+				<coordinates>27.516667,58.366667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Operation Margarethe - 15 March 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_Margarethe)]]></description>
+			<Point>
+				<coordinates>18.566895,47.100045,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Kamenets-Podolsky Pocket - 25 March-15 April 1944</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bundesarchiv_Bild_101I-710-0372-17%2C_Ukraine%2C_Ausbildung_an_Panzerabwehrwaffe.jpg/400px-Bundesarchiv_Bild_101I-710-0372-17%2C_Ukraine%2C_Ausbildung_an_Panzerabwehrwaffe.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Kamenets-Podolsky_Pocket)
+
+Wikipedia Commons / Bundesarchiv, Bild 101I-710-0372-17 / Gronefeld, Gerhard / CC-BY-SA]]></description>
+			<Point>
+				<coordinates>26.580725,48.684038,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Uman–Botoşani Offensive - 5 March – 17 April 1944</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Marcia_nel_fango.jpg/800px-Marcia_nel_fango.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Uman%E2%80%93Boto%C5%9Fani_Offensive)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>31.322021,48.603858,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Perekop-Sevastopol Offensive Operation - 8 April 1944 - 12 May 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_the_Caucasus#1944)]]></description>
+			<Point>
+				<coordinates>33.54126,44.60611300000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Khotyn - 5 April 1944</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/c3/Bundesarchiv_Bild_183-J24359%2C_Rum%C3%A4nien%2C_Kolonne_von_Panzer_V_%28Panther%29.2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/First_Jassy%E2%80%93Kishinev_Offensive#Planning)
+
+Wikipedia Commons / Bundesarchiv, Bild 183-J24359 / CC-BY-SA]]></description>
+			<Point>
+				<coordinates>26.5,48.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Dorohoi - 5 April 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/First_Jassy%E2%80%93Kishinev_Offensive#Planning)]]></description>
+			<Point>
+				<coordinates>26.400234,47.959352,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-E6EEA3</styleUrl>
+			<name>First Battle of Târgu Frumos - 9–12 April 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/First_Battle_of_T%C3%A2rgu_Frumos)]]></description>
+			<Point>
+				<coordinates>27.013056,47.209722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Odessa Offensive - 10 April 1944</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/2/22/Sov_Odessa_44.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Dnieper%E2%80%93Carpathian_Offensive#Odessa_Offensive)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>30.734954999999996,46.466565,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Second Battle of Târgu Frumos - 2–8 May 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Second_Battle_of_T%C3%A2rgu_Frumos)]]></description>
+			<Point>
+				<coordinates>27.0401,47.202776,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Babruysk Offensive - 23–28 June 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Bobruysk_Offensive)
+ ]]></description>
+			<Point>
+				<coordinates>29.23397,53.149488,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Vitebsk - 23 June 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Polotsk_Offensive#The_offensive)]]></description>
+			<Point>
+				<coordinates>30.166667,55.183333000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Vyborg Bay - 30 June - 10 July 1944</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/8/86/Wounded_Soldier_Battle_for_Vyborg_June_44.jpeg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_the_Bay_of_Viipuri)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>28.734741,60.70947999999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Polotsk - 1 July 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Polotsk_Offensive#The_offensive)]]></description>
+			<Point>
+				<coordinates>28.795166,55.485079,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Vilnius Offensive - 5-13 July 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Vilnius_Offensive)]]></description>
+			<Point>
+				<coordinates>25.28341,54.682759,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Belostock Offensive -  5–27 July 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Belostock_Offensive)]]></description>
+			<Point>
+				<coordinates>23.172913,53.13359,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Brody - 14 July 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lvov%E2%80%93Sandomierz_Offensive#The_assault_begins)]]></description>
+			<Point>
+				<coordinates>25.150000000000002,50.083333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Kamionka Strumilo - 15 July 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lvov%E2%80%93Sandomierz_Offensive#The_assault_begins)]]></description>
+			<Point>
+				<coordinates>24.35,50.1,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Kovel - 18 July 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lublin%E2%80%93Brest_Offensive#The_offensive:_securing_Lublin_and_Brest)]]></description>
+			<Point>
+				<coordinates>24.716336,51.217205,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Brusk - 18 July 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lvov%E2%80%93Sandomierz_Offensive#Encirclement_at_Brody)]]></description>
+			<Point>
+				<coordinates>24.633333,49.966667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Operation Valkyrie (Wolfs Lair) - 20 July 1944 </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/a/ae/Bundesarchiv_Bild_146-1972-025-12%2C_Zerst%C3%B6rte_Lagerbaracke_nach_dem_20._Juli_1944.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_Valkyrie)
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>21.494295,54.08068600000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Siedlce - 21 July 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lublin%E2%80%93Brest_Offensive#The_offensive:_securing_Lublin_and_Brest)]]></description>
+			<Point>
+				<coordinates>22.266667,52.15,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-DB4436</styleUrl>
+			<name>Liberation of the Majdanek concentration camp - 22 July 1944</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Alians_PL_KL_Majdanek_Lublin%2C10_10_2008%2CPA100059.jpg/450px-Alians_PL_KL_Majdanek_Lublin%2C10_10_2008%2CPA100059.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Maidanek)
+
+Wikipedia Commons / Pulbic Domain]]></description>
+			<Point>
+				<coordinates>22.60007,51.220325,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Mogilev Offensive - 23-28 June 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mogilev_Offensive)]]></description>
+			<Point>
+				<coordinates>30.333168000000004,53.900096,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Lubin 24 July 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lublin%E2%80%93Brest_Offensive#The_offensive:_securing_Lublin_and_Brest)]]></description>
+			<Point>
+				<coordinates>22.548065,51.251601,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Tannenberg Line - 25 July – 10 August 1944</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/e/ef/Bundesarchiv_Bild_101I-734-0019-15%2C_Russland-Nord%2C_Soldaten_mit_Raketen-Panzer-B%C3%BCchse.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Tannenberg_Line)
+
+Wikipedia Commons / Bundesarchiv, Bild 101I-734-0019-15 / Vorpahl / CC-BY-SA]]></description>
+			<Point>
+				<coordinates>27.866667,59.37499999999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Brest - 28 July 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lublin%E2%80%93Brest_Offensive#The_offensive:_securing_Lublin_and_Brest)]]></description>
+			<Point>
+				<coordinates>23.666648,52.133296,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Kaunas Offensive - 28 July - 28 August 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Kaunas_Offensive)]]></description>
+			<Point>
+				<coordinates>23.931917,54.899844,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Vilkaviškis - 30 July 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Kaunas_Offensive#The_offensive)]]></description>
+			<Point>
+				<coordinates>23.03361,54.650358000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Mariampolė - 31 July 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Kaunas_Offensive#The_offensive)]]></description>
+			<Point>
+				<coordinates>23.349875,54.566322,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Warsaw Uprising - 1 August 1944</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/d/df/Warsaw_Uprising_stuka_ju-87_bombing_Old_Town.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Warsaw_Uprising)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>21.049805,52.227799,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Radzymin - 1–10 August 1944</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wolomin_Battlefield.png/800px-Wolomin_Battlefield.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Radzymin_(1944) 
+
+Wikipedia Commons / W. B. Wilson]]></description>
+			<Point>
+				<coordinates>21.183168,52.416431,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Osovets Offensive - 6-14 August 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Osovets_Offensive)]]></description>
+			<Point>
+				<coordinates>18.050786,52.48553,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Studzianki - 9–16 August 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Studzianki)]]></description>
+			<Point>
+				<coordinates>21.326111,51.688333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Sandomierz - 16 August 1944</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/1/12/RKKA_Lviv.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lvov%E2%80%93Sandomierz_Offensive#Renewed_attack:_capture_of_Sandomierz)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>21.750758000000005,50.68331,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Tukums - 18 August 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_Doppelkopf#The_offensive)]]></description>
+			<Point>
+				<coordinates>23.150051,56.966884,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Turda - 5 September-8 October 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Turda)]]></description>
+			<Point>
+				<coordinates>23.866667,46.533333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of the Dukla Pass - 8 September – 28 October 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_the_Dukla_Pass)]]></description>
+			<Point>
+				<coordinates>21.694824,49.420029,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Păuliş - 14-19 September 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_P%C4%83uli%C5%9F)]]></description>
+			<Point>
+				<coordinates>21.583333000000003,46.116667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Tallinn Offensive - 17–26 September 1944</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/WWII._Tallinn_Offensive.JPG/459px-WWII._Tallinn_Offensive.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Tallinn_Offensive)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>24.733311,59.433375000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Riga Offensive - 14 September - 24 October 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Riga_Offensive_(1944) ]]></description>
+			<Point>
+				<coordinates>24.99896,57.024826000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Porkuni - 21 September 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wiikipedia (http://en.wikipedia.org/wiki/Battle_of_Porkuni)]]></description>
+			<Point>
+				<coordinates>26.220245,59.21531199999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Šiauliai - 21 September 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_Doppelkopf#Operation_C.C3.A4sar)]]></description>
+			<Point>
+				<coordinates>23.317071,55.9332,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Tehumardi - 29 September 1944</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/TehumardiMap072709.JPG/500px-TehumardiMap072709.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Tehumardi)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>22.25,58.176389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Moonsund Landing Operation - 29 September - 24 November 1944</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/a/a7/DUKW.image2.army.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Moonzund_Landing_Operation)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>23.390236,58.57237,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Kuressaare - 5 October 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Moonzund_Landing_Operation)]]></description>
+			<Point>
+				<coordinates>22.483721,58.25005300000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Memel - 5–22 October 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Memel_Offensive_Operation)]]></description>
+			<Point>
+				<coordinates>21.131806,55.710803000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Debrecen - 6–29 October 1944</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/6/6a/Bundesarchiv_Bild_101I-244-2324-09%2C_Ungarn%2C_Debrecen%2C_Panzer_V_%22Panther%22.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Debrecen)
+
+Wikipedia Commons / Bundesarchiv, Bild 101I-244-2324-09 / Momber / CC-BY-SA]]></description>
+			<Point>
+				<coordinates>21.639279,47.529951,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Germans take Buda Castle - 15 October 1944</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/9/9a/Bundesarchiv_Bild_101I-680-8282A-38A%2C_Budapest%2C_Panzer_VI_%28Tiger_II%2C_K%C3%B6nigstiger%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_Panzerfaust)
+
+Wikipedia Commons / Bundesarchiv, Bild 101I-680-8282A-38A / Faupel / CC-BY-SA]]></description>
+			<Point>
+				<coordinates>19.039722,47.496111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Gumbinnen Operation - 16-27 October 1944</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Gumbinnen_Operation)]]></description>
+			<Point>
+				<coordinates>22.214355,54.602301,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Siege of Budapest- 29 December 1944 - 13 February 1945</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/43/BUDAPEST_45_VI.jpg/800px-BUDAPEST_45_VI.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Siege_of_Budapest)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>19.050296000000003,47.471984,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Operation Konrad II - 7 January 1945</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_Konrad)]]></description>
+			<Point>
+				<coordinates>18.898852,47.698411,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Operation Konrad I - 1 January 1945</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_Konrad)]]></description>
+			<Point>
+				<coordinates>18.636252,47.49081000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Insterburg Gap - 13 January 1945</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/East_Prussian_Offensive#Opening_of_the_offensive)]]></description>
+			<Point>
+				<coordinates>21.811944,54.634722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of  Heilsberg - 13 January 1945</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/East_Prussian_Offensive#Opening_of_the_offensive)]]></description>
+			<Point>
+				<coordinates>20.58337,54.11932900000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Taking of Kraków - 17 January 1945</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Vistula%E2%80%93Oder_Offensive#Taking_of_Krak.C3.B3w.3B_escape_of_the_XXIV_Panzer_Corps)]]></description>
+			<Point>
+				<coordinates>19.938371,50.061376,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Allenstein - 22 January 1945</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/East_Prussian_Offensive#Opening_of_the_offensive)]]></description>
+			<Point>
+				<coordinates>20.483084,53.783416,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Lötzen - 24 January 1945</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/2/2b/Lodz_liberation2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/East_Prussian_Offensive#Opening_of_the_offensive)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>21.766972,54.050076,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Second Battle of Mermel - 28 January 1945</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia]]></description>
+			<Point>
+				<coordinates>21.165161,55.713187000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Samland - 26 January 1945</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/East_Prussian_Offensive#Opening_of_the_offensive)]]></description>
+			<Point>
+				<coordinates>20.269167,54.832778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-DB4436</styleUrl>
+			<name>Liberation of Auschwitz - 27 January 1945</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/49626093.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Vistula%E2%80%93Oder_Offensive#Liberation_of_Auschwitz)
+
+Wikipedia Commons / Adelaide Machado]]></description>
+			<Point>
+				<coordinates>19.178333,50.035833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Siege of Königsberg - 29 March - 25 April 1945</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Battle_Of_K%C3%B6nigsberg_Begin.png/800px-Battle_Of_K%C3%B6nigsberg_Begin.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/East_Prussian_Offensive#The_Siege_of_K.C3.B6nigsberg_and_the_Heiligenbeil_pocket)
+
+Wikipedia Commons / Matthead]]></description>
+			<Point>
+				<coordinates>20.516369,54.716904,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Siege of Breslau - 13 February - 6 May 1945</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/b/b7/FestungBreslau6V1945.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wiikipedia (http://en.wikipedia.org/wiki/Siege_of_Breslau)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>17.033033,51.116742,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Operation Frühlingserwachen - 6 – 16 March 1945</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/8/84/Bundesarchiv_Bild_146-1989-105-13A%2C_Ungarn%2C_deutscher_R%C3%BCckzug.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_Fr%C3%BChlingserwachen)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>18.35,46.983333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of the Transdanubian Hills - 6–21 March 1945</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Plattensee-op.png/761px-Plattensee-op.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_the_Transdanubian_Hills)
+
+Wikipedia Commons / Gerald Kainberger]]></description>
+			<Point>
+				<coordinates>18.319702,46.16461400000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Zoppot - 15 March 1945</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/East_Pomeranian_Offensive#Siege_of_Danzig)]]></description>
+			<Point>
+				<coordinates>18.554535,54.441697,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Operation Konrad III - 17 January 1945</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_Konrad)]]></description>
+			<Point>
+				<coordinates>18.409047,47.195638,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Poznań - 24 January – 23 February 1945</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/b/b2/Demolished_Town_Hall_in_Poznan.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Pozna%C5%84_(1945) 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>16.916491000000004,52.400079,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Defense of Schwedt Bridgehead - 1 February - 3 March 1945</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Defense_of_Schwedt_Bridgehead)]]></description>
+			<Point>
+				<coordinates>14.266667,53.05,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Operation Solstice - 15- 19 February 1945</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_Solstice)]]></description>
+			<Point>
+				<coordinates>15.020000000000001,53.2,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Kolberg - –18 March 1945</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kolobrzeg1945.JPG/758px-Kolobrzeg1945.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Kolberg_(1945) 
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>15.584603,54.183516,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Gdynia - 26 March 1945</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/East_Pomeranian_Offensive#Siege_of_Danzig)]]></description>
+			<Point>
+				<coordinates>18.551102,54.548571,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Siege of Danzig - 28 March 1945</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Danzigm17.jpg/800px-Danzigm17.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/East_Pomeranian_Offensive#Siege_of_Danzig)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>18.646545,54.356556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Vienna Offensive - 2–13 April 1945</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/7/7e/Vienna_Operations.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Vienna_Offensive)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>16.373043,48.20855,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of the Seelow Heights - 16–19 April 1945</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/b/b2/Bundesarchiv_Bild_183-E0406-0022-012%2C_Sowjetische_Artillerie_vor_Berlin.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_the_Seelow_Heights)
+
+Wikipedia Commons / Bundesarchiv, Bild 183-E0406-0022-012 / CC-BY-SA]]></description>
+			<Point>
+				<coordinates>14.379570000000001,52.51993000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Berlin - 16 April 1945 – 2 May 1945</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bundesarchiv_Bild_183-R77767%2C_Berlin%2C_Rotarmisten_Unter_den_Linden.jpg/800px-Bundesarchiv_Bild_183-R77767%2C_Berlin%2C_Rotarmisten_Unter_den_Linden.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Berlin)
+
+Wikipedia Commons
+ ]]></description>
+			<Point>
+				<coordinates>13.39866,52.50071,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Bautzen - 21–30 April 1945</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Battle_of_Bautzen_1945-a.png/700px-Battle_of_Bautzen_1945-a.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Bautzen_(1945) 
+
+Wikipedia Commons / Lonio17]]></description>
+			<Point>
+				<coordinates>14.423595,51.181356,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Halbe - 24 April – 1 May 1945</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/5/53/Bundesarchiv_Bild_146-1977-120-09%2C_Hans_G%C3%BCnther_v._Kluge%2C_Gotthard_Heinrici.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Halbe)
+
+Wikipedia Commons / Bundesarchiv, Bild 146-1977-120-09 / Bergmann, Johannes / CC-BY-SA]]></description>
+			<Point>
+				<coordinates>13.700670000000002,52.10716,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Prague Offensive - 6–11 May 1945</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/b/be/Prague_liberation_1945_konev.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Prague_Offensive)
+
+Wikipedia Commons / Karel Hájek]]></description>
+			<Point>
+				<coordinates>14.416806000000001,50.083385,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Klagenfurt - 13 May 1945</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Nagykanizsa%E2%80%93Kermend_Offensive)]]></description>
+			<Point>
+				<coordinates>14.300069,46.616761,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps on History</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>36.386719,56.316537,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1037</styleUrl>
+			<name>Other WWII Battle Maps</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- WWII Battles: The Western Front (http://myreadingmapped.blogspot.com/search?updated-max=2012-01-01T06:37:00-05:00&max-results=1&start=42&by-date=false) 
+
+- WWII Battles: The Mediterranean & North African Front (http://myreadingmapped.blogspot.com/search?updated-max=2012-01-01T06:23:00-05:00&max-results=1&start=43&by-date=false)
+
+- WWII Battles: The Eastern Front, German Offensive (http://myreadingmapped.blogspot.com/search?updated-max=2012-01-01T09:57:00-05:00&max-results=1&start=37&by-date=false)       ]]></description>
+			<Point>
+				<coordinates>36.5625,58.585436,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1113</styleUrl>
+			<name>Military Photo Archive 1939-1945</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://vk.com/ww2photo]]></description>
+			<Point>
+				<coordinates>41.308594,57.04073,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1037'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1037-biz-house.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1113'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1113-biz-tv.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1417'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1417-trans-airport.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-E6EEA3'>
+			<IconStyle>
+				<color>ffA3EEE6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-962-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

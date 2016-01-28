@@ -1,0 +1,383 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HAARP",
+                "desc": "<h3><a href=\"http:\/\/climateviewer.com\/haarp\/\">HAARP - High-Frequency Active Auroral Research Program<\/a><\/h3><p>Gakona, Alaska, USA<br> 62.39234958096403, -145.14912226295115<br> <a title=\"https:\/\/web.archive.org\/web\/http:\/\/www.haarp.alaska.edu\/\" href=\"https:\/\/web.archive.org\/web\/20130605024904\/http:\/\/www.haarp.alaska.edu\/\" target=\"_blank\">http:\/\/www.haarp.alaska.edu\/<\/a><\/p><ul><li>Antennas: 180 crossed dipole (12 x 15),&nbsp;1040' x 1280' (about 30.6&nbsp;acres)<\/li><li>Frequency: 2.8&nbsp;- 10&nbsp;MHz<\/li><li>Power: 3,600,000 Watts (3.6 MW)<\/li><li>Effective Radiated Power: 5,000,000,000 Watts (5&nbsp;GW)<\/li><\/ul><a href=\"http:\/\/climateviewer.org\/img\/gallery\/haarp-iri-ionospheric-research-instrument.png\" target=\"_blank\"><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/haarp-iri-ionospheric-research-instrument.png\" \/><\/a><ul><li><strong><a title=\"http:\/\/climateviewer.com\/2014\/04\/23\/birth-haarp-sky-heaters\/\" href=\"http:\/\/climateviewer.com\/2014\/04\/23\/birth-haarp-sky-heaters\/\">The Birth of HAARP<\/a><\/strong><\/li><li><strong><a title=\"http:\/\/climateviewer.com\/2014\/10\/18\/ionospheric-heaters-how-haarp-really-works\/\" href=\"http:\/\/climateviewer.com\/2014\/10\/18\/ionospheric-heaters-how-haarp-really-works\/\">Ionospheric Heaters: How HAARP really works<\/a><\/strong><\/li><li><strong><a title=\"http:\/\/climateviewer.com\/2014\/09\/19\/haarp-worlds-sexiest-energy-weapon\/\" href=\"http:\/\/climateviewer.com\/2014\/09\/19\/haarp-worlds-sexiest-energy-weapon\/\">HAARP:&nbsp;The World\u2019s Sexiest Energy Weapon<\/a><\/strong><\/li><li><strong><a title=\"http:\/\/climateviewer.com\/2014\/09\/22\/history-haarp-heating-holes-heaven\/\" href=\"http:\/\/climateviewer.com\/2014\/09\/22\/history-haarp-heating-holes-heaven\/\">The History of HAARP Heating and Holes in Heaven<\/a><\/strong><\/li><li><strong><a title=\"http:\/\/climateviewer.com\/2014\/10\/04\/haarp-project-nimbus-fire-gods\/\" href=\"http:\/\/climateviewer.com\/2014\/10\/04\/haarp-project-nimbus-fire-gods\/\">Project Nimbus &amp; The Fire of the Gods<\/a><\/strong><\/li><li><strong><a title=\"http:\/\/climateviewer.com\/2014\/10\/05\/haarp-halo-celestial-resonations\/\" href=\"http:\/\/climateviewer.com\/2014\/10\/05\/haarp-halo-celestial-resonations\/\">HAARP, HALO, and Celestial Resonations<\/a><\/strong><\/li><li><strong><a title=\"http:\/\/climateviewer.com\/2014\/04\/01\/atmospheric-armageddon-angels-haarp-methane-lucy-sky-diamonds\/\" href=\"http:\/\/climateviewer.com\/2014\/04\/01\/atmospheric-armageddon-angels-haarp-methane-lucy-sky-diamonds\/\">Atmospheric Armageddon \u2013 ANGELS, HAARP, Methane, and Lucy in the Sky with Diamonds<\/a><\/strong><\/li><li><strong><a title=\"http:\/\/climateviewer.com\/2014\/10\/11\/haarp-elf-generation-mass-mind-control\/\" href=\"http:\/\/climateviewer.com\/2014\/10\/11\/haarp-elf-generation-mass-mind-control\/\">HAARP, ELF Generation, and Mass Mind Control<\/a><\/strong><\/li><\/ul>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -145.127385273,
+                    62.3901828989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HIPAS",
+                "desc": "<p><b>Fairbanks, Alaska<\/b><br>High Power Auroral Stimulation Observatory<br>70 MW - 2.85-4.53 MHz<br><br><a href=\"http:\/\/www.physics.ucla.edu\/plasmalab\/\" target=\"_blank\">UCLA.edu Plasma lab<\/a><\/p><p><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/HIPAS_facility.gif\"\/><br><a href=\"http:\/\/climateviewer.org\/img\/gallery\/HIPAS_site_map.jpg\" target=\"_blank\"><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/HIPAS_site_map.jpg\"\/><\/a><br><br\/><a href=\"http:\/\/climateviewer.org\/img\/gallery\/dipole_array_001.JPG\" target=\"_blank\"><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/dipole_array_001.JPG\"\/><\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -146.838591832,
+                    64.8723147867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HIPAS",
+                "desc": "<p><b>Fairbanks, Alaska<\/b><br>The LIDAR facility consists of a 2.7 meter LMT (Liquid Mirror Telescope) with a 4.5 meter focal length as well as 6 state-of-the-art lasers.<\/p><p><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/HIPAS_LIDAR.jpg\"\/><br><br><a href=\"http:\/\/climateviewer.org\/img\/gallery\/HIPAS_liquid_mercury_mirror.jpg\" target=\"_blank\"><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/HIPAS_liquid_mercury_mirror.jpg\" \/><\/a><br><br><a href=\"http:\/\/www.physics.ucla.edu\/plasmalab\/images\/opalaska.pdf\" target=\"_blank\">UCLA Plasma Lab PDF<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -146.830111223,
+                    64.8721162485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HLMS",
+                "desc": "<p><b>Elmendorf AFB, Anchorage, Alaska<\/b><br>The High Latitude Monitoring Station (HLMS)<br><p>The primary mission of HLMS has been to monitor the earth's ionospheric environment, and to collect and reduce raw geophysical data (including seismological information) for analysis and archiving at the Geophysical Institute and other organizations nationwide.<\/p><p><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/hlms.jpg\" \/><br><br><a href=\"http:\/\/www2.gi.alaska.edu\/dac2\/pfrr\/hlms.htm\" target=\"_blank\">Alaska.edu<\/a><br><a href=\"http:\/\/landau.geo.cornell.edu\/hlms.html\" target=\"_blank\">Cornell.edu<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -149.824931161,
+                    61.2832146459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Poker Flat Research Range",
+                "desc": "<p><b>Poker Flat, Alaska<\/b><br>Poker Flat Research Range (PFRR)<br><br>PFRR is the only non-federal, university owned and operated range in the world and the only high-latitude, auroral-zone rocket launching facility in the United States of America. The name Poker Flat was taken from an old Bret Harte rags-to-riches short story, The Outcasts of Poker Flat; the name may have been suggested by the nearby Poker Creek, or perhaps by the way in which the original launch site was constructed from begged and borrowed materials.<br><br><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/pfrr.jpg\" \/><br><br><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/gatesign.jpg\" \/><br><br><a href=\"http:\/\/www.pfrr.alaska.edu\/pfrr\/index.html\" target=\"_blank\">Alaska.edu<\/a><br><a href=\"http:\/\/www2.gi.alaska.edu\/dac2\/pfrr\/INDEX.HTM\" target=\"_blank\">Poker Flat Research Range<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -147.49804493,
+                    65.1271832228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "PFISR - Poker Flat Incoherent Scatter Radar",
+                "desc": "<p><b>Poker Flat, Alaska<\/b><br>Poker Flat Research Range (PFRR)<br><br>AMISR Advanced Modulator Incoherent Scatter Radar<br> The Advanced Modular Incoherent Scatter Radar (AMISR) is a new ISR that employs modular solid-state and phased-array technologies and will yield measurements of the upper atmosphere and ionosphere with unprecedented versatility and power. AMISR is being deployed at Poker Flat Research Range (PFRR), Chatanika, Alaska (65\u00b0N, 147\u00b0W) to investigate auroral processes. The AMISR facility establishes a new state-of-the-art for IS radar design by implementing fully electronic beam steering with a phased array of 4096 UHF transceivers. This beam pointing capability is available on a pulse-by-pulse basis.  This installation is coordinated by SRI, International.<br> <br> <a href=\"http:\/\/isr.sri.com\/iono\/amisr\/\" target=\"_blank\">SRI.com<\/a><br> <br> <img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/Poker_Flat_ISR.jpg\"\/><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -147.470610235,
+                    65.1298462347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LIDAR - Poker Flats, AK",
+                "desc": "<p><b>Poker Flat, Alaska<\/b><br>Poker Flat Research Range (PFRR)<br><br>The new Lidar Observatory, constructed in 2000, occupies the site of the old Optical Observatory, which was the scientific hub of Poker Flat prior to the construction of the Science Operations Center.<br><br>The lidar is an instrument similar in principle to a radar, but using a laser instead of radio waves. Laser light aimed into the sky is scattered back by fine particles (aerosols), atoms, and molecules at various heights. A small radar operates near the lidar to shut off the laser when aircraft are in the area.<br><br>The Lidar Observatory also provides facilities for other optical equipment and complements the capabilities of the Science Operations Center. The Lidar Observatory is a joint project with Japan's Communications Research Laboratory. <br><br><a href=\"http:\/\/www2.gi.alaska.edu\/dac2\/tour\/lidar.htm\" target=\"_blank\">Poker Flat tour<\/a><br><a href=\"http:\/\/www.pfrr.alaska.edu\/pfrr\/index.html\" target=\"_blank\">Alaska.edu PFRR<\/a><br><br><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/Poker_Flat_LIDAR.jpg\" alt=\"Lidar and weather balloon\"  target=\"_blank\"><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -147.465289305,
+                    65.1164125563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Communications and Surveillance Radar",
+                "desc": "<p><b>Poker Flat, Alaska<\/b><br>Poker Flat Research Range (PFRR)<br><br>The upper range is the top of the hill overlooking Poker Flat, and is the highest ground in the area, providing a nearly unobstructed view of the entire sky. That makes it an excellent home for the digital microwave and surveillance radar facilities.<br><br> The surveillance radar, whose antenna can be seen at the top of the tower, monitors aircraft in the area during launch operations, to insure that the skies are clear before a rocket is launched. The radar equipment is located in the trailer on the left.<br><br>Poker Flat communicates with the outside world primarily by means of a state-of-the-art digital microwave system, located in the trailer on the right in the photo above and using the dish mounted halfway up the tower. The digital microwave has a 45 Mbps (DS3) capacity, and provides most of Poker Flat's data and telephone lines.<br><br>The microwave at Poker Flat communicates via a repeater on Ester Dome with its counterpart on the 8th floor of the Geophysical Institute.<\/p><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/Poker_Flat_comm_mwave.jpg\" \/><br><br><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/Poker_Flat_commpath.gif\" \/><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -147.434732196,
+                    65.1180968249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Telemetry and Tracking Facilities",
+                "desc": "<p><b>Poker Flat, Alaska<\/b><br>Poker Flat Research Range (PFRR)<br><br>The Telemetry facility, known as TM, is located a short distance from the Lidar Observatory on the ridge above Poker Flat&acute;s lower range. The Telemetry facility consists of a building surrounded by transportable satellite tracking dishes, as shown in the image above.<\/p><p><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/Poker_Flat_telemetry.jpg\"\/><br><br>This building is a hub on the Poker Flat fiber optic backbone, as well as having specialized communications links to NASA.  Data from rockets and satellites can be sent almost anywhere from this location.<\/p><p><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/Poker_Flat_tots-van.jpg\"\/><br\/><br><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/Poker_Flat_tots.jpg\"\/><br><br><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/Poker_Flat_tm.jpg\"\/><br><br><a href=\"http:\/\/www2.gi.alaska.edu\/dac2\/tour\/tm.htm\" target=\"_blank\">Alaska.edu<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -147.461947143,
+                    65.1166634729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Poker Flats Imaging Riometer",
+                "desc": "<p><b>Poker Flat, Alaska<\/b><br>Poker Flat Research Range (PFRR)<br><br>A very large imaging riometer at Poker Flat research range, employing a 16x16 antenna array (256 crossed dipole antennas).<br><br><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/Poker_Flat_E1800413-Riometer_information_board-SPL.jpg\"\/><br><br><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/Poker_Flat_E1800415-Riometer_radio_antennae-SPL.jpg\"\/><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -147.454443551,
+                    65.1320064906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Delta Station",
+                "desc": "<p>The Delta station, the second Alaska ITS station, was installed in December 1999 at the Silver Fox Roadhouse.  Initially, there were multiple problems with receiver tuning, antenna cabling and very noisy telephone service.  It took a year and several visits to resolve the problems but, since then, the Delta station has been very reliable.  The Silver Fox Roadhouse is a gas station \/ convenience store with rental cottages, mostly used by recreational hunters.  The receiver is located in a small back room away from activity in the store.  The antenna is mounted on a wooden frame with a mesh ground-plane similar to the one at Gakona.<br><br>Delta is the most RF-quiet location of all the sites.  Moreover, since a fiber-optic telephone cable was installed along the highway outside, communication has been very reliable.  We have the option of installing a DSL Modem but, at present, there is no need for this.  For the occasional service to the system, we have always had the assistance of the owner of the Silver Fox, Mr. Dan Splain.<br><br>Silver Fox Roadhouse<br>1404 Alaska Highway, Delta Junction, AK<br>(907) 895-4157<\/p><p>This page provides links to locations where real-time observations of ionospheric scintillation are available.  Three of the links are to NWRA instruments tracking the VHF and UHF signals from a variety of satellites in low earth orbit from three sites in Alaska.  The fifth  link shows scintillation from a GPS receiver also located in Alaska. The NWRA instrument pages show plots of the relative Total Electron Content (TEC) along the path from the receiver to the satellite and time-series plots of both phase and intensity scintillation (the latter at both UHF and VHF).  The GPS plot shows intensity scintillation (the S4 index) for one of the GPS L-band signals.<\/p><menu><li><a href=\"http:\/\/maestro.haarp.alaska.edu\/cgi-bin\/its10\/plot-tec.cgi?location=cordova\" target=\"_blank\">Data from the NWRA Cordova Receiver<\/a><\/li><li><a href=\"http:\/\/maestro.haarp.alaska.edu\/cgi-bin\/its10\/plot-tec.cgi?location=gakona\" target=\"_blank\">Data from the NWRA Gakona Receiver<\/a><\/li><li><a href=\"http:\/\/maestro.haarp.alaska.edu\/cgi-bin\/its10\/plot-tec.cgi?location=delta\" target=\"_blank\">Data from the NWRA Delta Junction Receiver<\/a><\/li><li><a href=\"http:\/\/maestro.haarp.alaska.edu\/cgi-bin\/its10\/plot-tec.cgi?location=arctiv_village\" target=\"_blank\">Data from the NWRA Arctic Village Receiver<\/a><\/li><li><a href=\"http:\/\/141.154.98.131\/haarp\/\" target=\"_blank\">Data from the AFRL Gakona GPS Receiver<\/a><\/li><\/menu><br><br><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/HAARP_NWRA_alaska-std.gif\" \/><br><br><a href=\"http:\/\/www.nwra.com\/ionoscint\/sp_rtdata.html\" target=\"_blank\">NWRA.com<\/a><br><a href=\"http:\/\/www.nw-re.us\/pixantennas.html\" target=\"_blank\">NW-RE.com<\/a><br><a href=\"ftp:\/\/nwra.com\/outgoing\/jackie\/R376final_11feb09_new.doc\" target=\"_blank\">R376final_11feb09_new.doc<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -145.720321413,
+                    64.0347081367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gakona Station",
+                "desc": "<p>The ITS10 station at the HAARP site, near Gakona, AK, is the first of the ITS stations to be installed as part of the HAARP operation.  This station is the most ideal of all the installations, as RF noise is minimal, a large area is available for a large antenna ground-plane, and the equipment is housed in, and operated from, an equipment shelter specifically designed for scientific observation.  Besides power, the facility provides telephone service and high-speed Internet connectivity.  The on-call availability of HAARP staff personnel to perform occasional jobs that need hands-on operation is a major benefit for this site location.<br><br><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/www.nw-re.us\/ITS10_Gakona_AngGndScreen2.jpg\" \/><br><br><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/www.nw-re.us\/ITS10_Gakona_JohnAtRcvr.jpg\" \/><br><br><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/www.nw-re.us\/ITS10_Gakona_Shelter.jpg\" \/><\/p><p><a href=\"http:\/\/climateviewer.com\/haarp\/" target=\"_blank\">HAARP and the Sky Heaters<\/a><\/p><p>This page provides links to locations where real-time observations of ionospheric scintillation are available.  Three of the links are to NWRA instruments tracking the VHF and UHF signals from a variety of satellites in low earth orbit from three sites in Alaska.  The fifth  link shows scintillation from a GPS receiver also located in Alaska. The NWRA instrument pages show plots of the relative Total Electron Content (TEC) along the path from the receiver to the satellite and time-series plots of both phase and intensity scintillation (the latter at both UHF and VHF).  The GPS plot shows intensity scintillation (the S4 index) for one of the GPS L-band signals.<\/p><menu><li><a href=\"http:\/\/maestro.haarp.alaska.edu\/cgi-bin\/its10\/plot-tec.cgi?location=cordova\" target=\"_blank\">Data from the NWRA Cordova Receiver<\/a><\/li><li><a href=\"http:\/\/maestro.haarp.alaska.edu\/cgi-bin\/its10\/plot-tec.cgi?location=gakona\" target=\"_blank\">Data from the NWRA Gakona Receiver<\/a><\/li><li><a href=\"http:\/\/maestro.haarp.alaska.edu\/cgi-bin\/its10\/plot-tec.cgi?location=delta\" target=\"_blank\">Data from the NWRA Delta Junction Receiver<\/a><\/li><li><a href=\"http:\/\/maestro.haarp.alaska.edu\/cgi-bin\/its10\/plot-tec.cgi?location=arctiv_village\" target=\"_blank\">Data from the NWRA Arctic Village Receiver<\/a><\/li><li><a href=\"http:\/\/141.154.98.131\/haarp\/\" target=\"_blank\">Data from the AFRL Gakona GPS Receiver<\/a><\/li><\/menu><br><br><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/HAARP_NWRA_alaska-std.gif\" \/><br><br><a href=\"http:\/\/www.nwra.com\/ionoscint\/sp_rtdata.html\" target=\"_blank\">NWRA.com<\/a><br><a href=\"http:\/\/www.nw-re.us\/pixantennas.html\" target=\"_blank\">NW-RE.com<\/a><br><a href=\"ftp:\/\/nwra.com\/outgoing\/jackie\/R376final_11feb09_new.doc\" target=\"_blank\">R376final_11feb09_new.doc<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -145.157136276,
+                    62.4071214851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cordova Station",
+                "desc": "<p>The Cordova station was installed in November of 2000.  It was first installed at Cordova High School in the City of Cordova, but the student-teacher activities, local RF interference, and occultation of the horizon by the surrounding mountains led to the abandonment of that site.  The station was moved to Cordova Auto Rental, a small business operating near the Cordova airport, about 12 miles from the town.  Except for a nearby aeronautical navigation beacon, the location is very radio-quiet.  (The navigation beacon interference is removed with an RF filter.)  The horizon is low in all directions so low-elevation satellite passes are obtainable.  The antenna is mounted atop an 8\u2019 x 40\u2019 steel cargo container, which provides a good ground plane.  The receiver and computer are inside the Rental office, inside a TV-enclosure type cabinet.  Communication with the Cordova station is via the local telephone cooperative.  Cordova Telephone, in turn, communicates with the outside world entirely by satellite communication.  There are occasional outages, but they are rarely longer than a few hours.<br><br>Other receiver outages (not caused by the Telephone system) usually require the help of someone on-site.  For several years, the owner of Cordova Auto provided this service.  However, after he sold the operation, a local Cordova resident, Mr. Jim Vansant, has been available to us as the need arises.<br><br><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/www.nw-re.us\/ITS10_CordovaHS_AntOnRoof_small.jpg\" \/><br><br><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/www.nw-re.us\/ITS10_CordovaHS_Rcvr_small.jpg\" \/><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -145.75886843,
+                    60.5402741584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Artic Village Station",
+                "desc": "<p>The station at Arctic Village was installed in March, 2004.  It began as, and continues to be, a difficult environment from which to gather data.  The location of the station is an 8\u2019 x 8\u2019 science experiment shelter located near the Arctic Village airport.  This facility is owned and operated by the University of Alaska, Fairbanks.  Indeed, the actual installation and most subsequent work has been by an employee of UAF, Ms. Kay Lawson.<br><br>The difficulty at Arctic Village is twofold; communication with the outside world, and radio interference.  The facility had (and has) a telephone connection, so initially it was believed that communication would be similar to Cordova.  That is, there is a copper telephone connection from the receiver station to the village, and, then, a satellite link to the rest of the world.  However, the satellite link is vastly far below Cordova in terms of data transmission speed.  The solution was to set up our own link from the station to a second (Internet-only) satellite station within the village.  This was done in concert with an Alaska-wide program to provide Internet access to all Alaskans, regardless of the size of the villages they lived in.  This system, by itself, works adequately, albeit very slowly at times.  The problem is that the Internet connection equipment is, itself, a source of interference to ITS10 operations.  The solution here was to program the Internet connection equipment to power-down during a satellite pass.  This mode of operation did eliminate the equipment interference, but sometime during the setup, testing, and eventual power-on - power-off operating mode, another source of interference has come into being.<br><br>Arctic Village operation remains poor in terms of the amount of useful data obtained from the site.  We are investigating an alternative location for this receiver, perhaps at the Toolik Field Site, operated for the National Science Foundation by the University of Alaska at Fairbanks.  This site is on the main road from Fairbanks to Prudhoe Bay, and would provide better communications and on-site support.<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -145.573824066,
+                    68.1147783104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HAARP Digisonde",
+                "desc": "<p>Digisonde DPS-4 <br><br>The HAARP Digisonde, which was developed and provided by the University of Massachusetts at Lowell, was one of the first instruments installed at the HAARP Research Station. The purposes of this instrument are to support frequency management of the 3600 kilowatt Ionospheric Research Instrument transmitter and to provide real time ionospheric characteristics for guiding experiment selection. The Digisonde data are processed, archived, and are available for post-analysis of experiment results. Various formats of the information derived from the Digisonde are made available on the HAARP web site in chart form in near real time and can be accessed from the Data Index. <br><br><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/HAARP_digisonde_1.jpg\" \/><br><br><img alt=\"\" style=\"max-width:100%\" <a href=\"http:\/\/www.haarp.alaska.edu\/haarp\/dsonde.html\" target=\"_blank\">HAARP's Website<\/a><\/p><p><a href=\"http:\/\/climateviewer.com\/haarp\/" target=\"_blank\">HAARP and the Sky Heaters<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -145.158501415,
+                    62.3978601603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HAARP Optical Shelters",
+                "desc": "<p><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/HAARP_optical_Dome.jpg\" \/><\/p><p><a href=\"http:\/\/climateviewer.com\/haarp\/" target=\"_blank\">HAARP and the Sky Heaters<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -145.157529491,
+                    62.4071284897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HAARP Research Building",
+                "desc": "<p><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/HAARP_research_building.jpg\" \/><br><br><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/HAARP_control_room_Death_Star_1.jpg\" \/><\/p><p><a href=\"http:\/\/climateviewer.com\/haarp\/" target=\"_blank\">HAARP and the Sky Heaters<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -145.130724628,
+                    62.391207492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "(IRI) Ionospheric Research Instrument",
+                "desc": "<a href=\"http:\/\/climateviewer.com\/haarp\/" target=\"_blank\"><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/haarp-iri-ionospheric-research-instrument.png\" \/><\/a><br><br><p><a href=\"http:\/\/climateviewer.com\/haarp\/" target=\"_blank\">HAARP and the Sky Heaters<\/a><\/p><p>2.8 to 10 MHz at 3.6 MW<br><br>Basically, the IRI is what is known as a phased array transmitter. It is designed to transmit a narrow beam of high power radio signals in the 2.8 to 10 MHz frequency range. Its antenna is built on a gravel pad having dimensions of 1000' x 1200' (about 33 acres). There are 180 towers, 72' in height mounted on thermopiles spaced 80' apart in a 12 x 15 rectangular grid. Each tower supports near its top, two pairs of crossed dipole antennas, one for the low band (2.8 to 8.3 MHz), the other for the high band (7 to 10 MHz). The antenna system is surrounded by an exclusion fence to prevent possible damage to the antenna towers or harm to large animals. An elevated ground screen, attached to the towers at the 15' level, acts as a reflector for the antenna array while allowing vehicular access underneath to 30 environmentally-controlled transmitter shelters spaced throughout the array. Each shelter contains 6 pairs of 10 kW transmitters, for a total of 6 x 30 x 2 x 10 kW = 3600 kW available for transmission. The transmitters can be switched to drive either the low or high band antennas. Electric prime power is provided from an on-site power plant housing five, 2500 kW generators, each driven by a 3600 hp diesel engine. Four generators are required for operation of the IRI and the fifth is held as a spare. From a control room within the Operations Center, the transmission from each of the 180 crossed-dipole antennas is adjusted in a precise manner under computer control. In this manner, the complete array of antennas forms a narrow antenna pattern pointed upward toward the ionosphere. The transmitted signal diverges (spreads out) as it travels upward and is partially absorbed, at an altitude which depends on the transmitted HF frequency, in a small volume several tens of miles in diameter and a few hundred meters thick directly over the facility. The remainder of the transmitted signal either reflects back toward the earth or passes through the ionosphere into space, continuing to diverge as it does so. By the time it reaches the ionosphere, the intensity of the HF signal is less than 3 microwatts (0.000003 watt) per cm2, thousands of times less than the Sun's natural electromagnetic radiation reaching the earth and hundreds of times less, even, than the variations in intensity of the Sun's natural ultraviolet (UV) energy which creates the ionosphere.<br><br><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/HAARP_IRI_dipole.jpg\" \/><br><br><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/HAARP_array1.jpg\" \/><br><br><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/HAARP_arrayC.jpg\" \/><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -145.149974883,
+                    62.3924196023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VHF Ionospheric Radar",
+                "desc": "<p><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/HAARP_VHF_Radar.jpg\" \/><\/p><p><a href=\"http:\/\/climateviewer.com\/haarp\/" target=\"_blank\">HAARP and the Sky Heaters<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -145.132132164,
+                    62.3918163727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aircraft Alert Radar",
+                "desc": "<p>60 kW S-Band Aircraft Alert Radar<br>The HAARP Gakona Facility employs a Faruno S-Band radar to detect all aircraft that may be in the vicinity of the facility. The radar is used to alert the control operator during research operations so that any high power transmitters on-site can be shut down. This Aircraft Alert Radar can detect planes at altitudes as low as 500 feet at 8 miles. As a supplement and to improve detection performance, the radar installation uses a modified TCAS system to interrogate planes within range that carry transponders. The resulting automatic replies allow the plane's altitude to be shown on the display console adjacent to the normal radar return.<\/p><p> The radar system was installed by BAE Systems Advanced Technologies and the Naval Air Warfare Center (PAX River) with assistance from Oceantronics Corp. during July and August 2003.<br><br><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/HAARP_aircraft_alert_radar.jpg\" alt=\"The HAARP Aircraft Alert Radar\"  target=\"_blank\"><\/a><br><br><a href=\"http:\/\/www.haarp.alaska.edu\/haarp\/aar.html\" target=\"_blank\">HAARP's Official Website<\/a><\/p><p><a href=\"http:\/\/climateviewer.com\/haarp\/" target=\"_blank\">HAARP and the Sky Heaters<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -145.162663088,
+                    62.3958407518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aircraft Alert Radar",
+                "desc": "<p>60 kW S-Band Aircraft Alert Radar<br>The HAARP Gakona Facility employs a Faruno S-Band radar to detect all aircraft that may be in the vicinity of the facility. The radar is used to alert the control operator during research operations so that any high power transmitters on-site can be shut down. This Aircraft Alert Radar can detect planes at altitudes as low as 500 feet at 8 miles. As a supplement and to improve detection performance, the radar installation uses a modified TCAS system to interrogate planes within range that carry transponders. The resulting automatic replies allow the plane's altitude to be shown on the display console adjacent to the normal radar return.<\/p><p> The radar system was installed by BAE Systems Advanced Technologies and the Naval Air Warfare Center (PAX River) with assistance from Oceantronics Corp. during July and August 2003.<br><br><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/HAARP_aircraft_alert_radar.jpg\" alt=\"The HAARP Aircraft Alert Radar\"  target=\"_blank\"><\/a><br><br><a href=\"http:\/\/www.haarp.alaska.edu\/haarp\/aar.html\" target=\"_blank\">HAARP's Official Website<\/a><\/p><p><a href=\"http:\/\/climateviewer.com\/haarp\/" target=\"_blank\">HAARP and the Sky Heaters<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -145.15739923,
+                    62.3991749704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VHF Classic Riometer Antenna",
+                "desc": "<p>The HAARP VHF Riometer operates at a frequency near 30 MHz. The receiver measures the total power in a bandwidth of 30 kHz and compares the result with quiet day data developed over a long period of riometer operation at the HAARP location. The difference between the current measured noise power and the expected power is converted to ionospheric absorption and plotted on a continually updating chart.<br><br>The HAARP VHF Riometer uses a 2 X 2 array of five element yagi antennas to. The antenna array has a reception pattern that encompasses a fairly large portion of the overhead sky. As a result, the HAARP VHF riometer does not give information on where (in the sky) a particular absorption event may be occurring but, rather, provides an overall or integrated measure of ionospheric absorption above the site.<br><br>The chart below is an example of data obtained using the HAARP VHF Riometer. The chart covers the 36 hour time period from 1200 UTC on 28 January 2007 until 0000 UTC on 30 January 2007. There are three curves on this chart: (1) The green curve is the Quiet Day Curve, (2) The blue curve plots the actual measured data and (3) The red curve is the calculated ionospheric absorption. In the early part of the chart (to the left) the green and blue curves overlap, indicating that the cosmic noise observed by the riometer is very close to the expected value. Beginning at about 1400 UTC on 29 January, however, the measured noise (blue curve) drops below the quiet day curve and the ionospheric absorption (red curve), as calculated by the riometer, begins to rise. After a short time, the measured noise returns to the quiet level (at 1600 UTC) but then drops again in response to another absorption event. (Compare this period of disturbed conditions with the quiet period 24 hours earlier in the chart at 1400 UTC on 28 January.)<br><br><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/HAARP_VHF_riometer.jpg\" \/><br><br><a href=\"http:\/\/www.haarp.alaska.edu\/haarp\/Rio.html\" target=\"_blank\">HAARP's Official Website<\/a><\/p><p><a href=\"http:\/\/climateviewer.com\/haarp\/" target=\"_blank\">HAARP and the Sky Heaters<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -145.157643366,
+                    62.4074737905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Modular UHF Ionospheric Radar",
+                "desc": "<p>The UHF Ionospheric Radar, acquired in conjunction with the University of Alaska, Fairbanks (UAF), is a phased array consisting of 512 antenna elements and operating at a frequency of 446 MHz. This diagnostic radar is particularly useful for the study of ionospheric physical processes during operation of the high power HF transmitter. The instrument installed at HAARP is a small portion of a much larger design developed for the National Science Foundation (NSF) by SRI International. (You can read more about the NSF Advanced Modular Incoherent Scatter Radar or AMISR). At its current level of development, the HAARP UHF radar can readily detect plasma and ion lines and many of their properties during operation of the high power HF transmitter. <br><br><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/HAARP_muir.jpg\" \/><br><br><a href=\"http:\/\/www.haarp.alaska.edu\/haarp\/status.html\" target=\"_blank\">HAARP's Official Website<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -145.137487551,
+                    62.3892828062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Power Plants",
+                "desc": "<p>The HF transmitter system is able to produce approximately 3.6 million Watts of radio frequency power. However, the HAARP transmitters have been designed to operate very linearly (in Class AB mode) so that they will not produce radio interference to other users of the radio spectrum. To achieve that degree of linearity, the transmitters operate at an efficiency of only about 45 %. For every 100 Watts of input power 45 Watts of Radio Frequency power is generated and the rest is lost in the transmitter cabinet as heat. (As an analogy, a 75 Watt light bulb gets quite hot while it&acute;s producing the light you actually see.) In addition, the on-site diesel generators must provide power for other equipment used by the transmitters including the cooling system and low level amplifier stages. As a result, approximately 10 million Watts of prime power will be required when the transmitter system is operating at full power.<br><br><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/HAARP_power_plant.jpg\" \/><br><br><a href=\"http:\/\/www.haarp.alaska.edu\/haarp\/faq.html\" target=\"_blank\">HAARP's Official Website<\/a><\/p><p><a href=\"http:\/\/climateviewer.com\/haarp\/" target=\"_blank\">HAARP and the Sky Heaters<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -145.131256096,
+                    62.390980726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Diagnostic Instrument Pad 1",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -145.137820287,
+                    62.3889063906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Diagnostic Instrument Pad 2",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -145.168904618,
+                    62.3962584819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Diagnostic Instrument Pad 3",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -145.157686104,
+                    62.4077676445
+                ]
+            }
+        }
+    ]
+}

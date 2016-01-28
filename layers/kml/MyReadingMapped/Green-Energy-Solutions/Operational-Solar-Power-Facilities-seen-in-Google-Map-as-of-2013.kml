@@ -1,0 +1,1219 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Sources this map is based on.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- Wikipedia's List of Solar Thermal Power Stations (http://en.wikipedia.org/wiki/List_of_solar_thermal_power_stations) 
+
+- Wikipedia's List of Photovoltaic Power Stations (http://en.wikipedia.org/wiki/List_of_photovoltaic_power_stations)]]></description>
+			<Point>
+				<coordinates>-35.859375,43.834527,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-77</styleUrl>
+			<name>Color Coding By Type of Solar Plant</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Yellow: Concentrated Solar Power (CSP) (http://en.wikipedia.org/wiki/Photovoltaic_power#Concentrating_solar_power)  
+
+ Orange: Photovoltaic Power Stations (http://en.wikipedia.org/wiki/Photovoltaic_power#Photovoltaic_power_systems)
+
+Concentrating Solar Power (CSP) systems use lenses or mirrors and tracking systems to focus a large area of sunlight into a small beam. The concentrated heat is then used as a heat source for a conventional power plant. A wide range of concentrating technologies exists: the most developed are the parabolic trough [discuss], the concentrating linear fresnel reflector, the Stirling dish and the solar power tower. Various techniques are used to track the sun and focus light. In all of these systems a working fluid is heated by the concentrated sunlight, and is then used for power generation or energy storage.[3] Thermal storage efficiently allows up to 24 hour electricity generation.[4]
+
+A solar cell, or photovoltaic cell (PV), is a device that converts light into electric current using the photoelectric effect.]]></description>
+			<Point>
+				<coordinates>-37.617187,22.593726,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>Digitally walk this map in Google Earth 3D</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[You can digitally walk this map in Google Earth 3D using this Non-networked Google Earth KML file. (https://docs.google.com/file/d/0B52hHMRyBvEseXhnenMzWW9wcjQ/edit)]]></description>
+			<Point>
+				<coordinates>-36.914062,33.431441,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other MyReadingMapped Google maps of historic events.</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>-39.375,10.833306,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-B7DBAB</styleUrl>
+			<name>Agua Caliente Solar Project</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Agua_Caliente_Solar_Project)
+
+The Agua Caliente Solar Project is the world's largest photovoltaic solar generating facility,[2] currently being built in Yuma County, Arizona using thin film solar panels manufactured by First Solar. The project is expected to be completed in 2014,[3] when it will reach an installed capacity of 397 MWp.[4]]]></description>
+			<Point>
+				<coordinates>-113.490143,32.969932,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Ain Beni Mathar Integrated Thermo Solar Combined Cycle Power Plant</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Ain_Beni_Mathar_Integrated_Thermo_Solar_Combined_Cycle_Power_Plant)
+
+The Ain Beni Mathar Integrated Thermo Solar Combined Cycle Power Plant (also known as ISCC Ain Beni Mathar or Aïn Beni Mathar ISCC) is a ISCC power station in the commune of Ain Bni Mathar, in the Jerada province, Oriental region, Morocco.                                                                                  
+The plant site, which has a total area of 160 hectares (395 acres), is characterized by a very large solar field, covering about 88 hectares (217 acres). The total capacity of the plant is 472 MWe of which up to 20 MWe may be delivered from solar energy, and can generate an average annual energy production of about 3,538 GW·h. The plant uses natural gas as fuel. It is connected via a 12.6 km long pipe to the Maghreb-Europe (GME) pipeline.]]></description>
+			<Point>
+				<coordinates>-2.104722,34.068333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4B400</styleUrl>
+			<name>Alpine Solar</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[nrgsolar.com (http://www.nrgsolar.com/projects/us-mainland/alpine-solar-project/)
+
+The 66 MW Alpine Solar Project is the first large-scale solar project built in Los Angeles County and is the largest operating photovoltaic (PV) facility in the state. Cost-competitive, renewable power generated by the facility is being sold to Pacific Gas & Electric under a 20-year power purchase agreement.]]></description>
+			<Point>
+				<coordinates>-118.512315,34.796925,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Alvarado I</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Alvarado_I)
+
+Alvarado I is a large solar thermal power station in Alvarado, in Extremadura, Spain. Construction on the plant commenced in December 2007 and was completed in July 2009, when commercial operations began. With an installed capacity of 50 MWe,[1] it is one of the largest solar thermal power stations in the world.[2][3]
+
+The facility is built on a 1 km2 (0.4 sq mi) site with a solar resource of 2,174 KW·h/m3/year, producing an estimated 105,200 MW·h of electricity per year (an average power of 12 MW). The plant uses parabolic trough technology, and is made up of 768 solar thermal collectors, with an output temperature of 393 °C (739 °F), transferred with Biphenyl and Diphenyl oxide heat transfer agents.[1]                                                                                  
+A second 50 MWe facility, Alvarado II, is currently on the proposal stage. It is planned to be constructed in the same area as Alvarado I.[2]]]></description>
+			<Point>
+				<coordinates>-6.826111,38.826944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Andasol Solar Power Station</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikpedia
+
+Andasol is the first parabolic trough power plant in Europe, and Andasol 1 went online in March 2009. Because of the high altitude (1,100 m) and the semi-arid climate, the site has exceptionally high annual direct insolation of 2,200 kWh/m² per year.[3] Each plant has a gross electricity output of 50 megawatts (MWe), producing around 165 gigawatt-hours (GW·h) per year (21 MW·yr per year). The collectors installed have a combined surface area of 51 hectares (equal to 70 soccer fields); it occupies about 200 ha of land.[3]]]></description>
+			<Point>
+				<coordinates>-3.060379,37.228005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Antelope Valley Solar Ranch</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Antelope_Valley_Solar_Ranch)
+
+The Antelope Valley Solar Ranch is a 230 MW (AC) fixed tilt CdTe photovoltaic solar plant under construction within Antelope Valley, in the western Mojave Desert, Southern California.
+Construction is expected to be completed by the end of 2013.[2] On February 20, 2013, the first 100 MW (AC) came online.[3]]]></description>
+			<Point>
+				<coordinates>-118.425751,34.774297,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Archimede solar power plant</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Archimede_solar_power_plant)
+
+Archimede solar power plant is a concentrated solar power plant at Priolo Gargallo near Syracuse in Sicily, Italy. The plant was inaugurated on 14 July 2010.[1][2][3] It is the first concentrated solar power plant to use molten salt for heat transfer and storage which is integrated with a combined-cycle gas facility.[1][3][4][5] It uses technology developed by ENEA and Archimede Solar Energy, a joint venture between Angelantoni Industrie and Siemens Energy. Archimede is owned and operated by Enel.[1]
+
+The existing gas-fired power plant on the site was augmented by Archimede. It produces 5 megawatts of electricity, enough for 4,500 families.[6]]]></description>
+			<Point>
+				<coordinates>15.216110999999998,37.133333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Arlington Valley Solar II</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[avsepublic.com (http://www.avsepublic.com/)
+
+Arlington Valley Solar Energy and Arlington Valley Solar Energy II are each 125-MW solar photovoltaic power project located in Maricopa County, Arizona, approximately 40 miles west of Phoenix]]></description>
+			<Point>
+				<coordinates>-112.835169,33.306573,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Astexol II</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[www.nrel.gov (http://www.nrel.gov/csp/solarpaces/project_detail.cfm/projectID=229)
+
+Technology:Parabolic trough
+ElectricityGeneration:170,000 MWh/yr (Estimated)]]></description>
+			<Point>
+				<coordinates>-7.057085,38.81102200000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Augustin Fresnel 1</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>1.974374,42.502003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Avenal Solar Facility</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Avenal_Solar_Facility)
+
+The Avenal Solar Facility is a 45-megawatt (MW) (AC) photovoltaic power plant in Kings County, California, constructed using 450,900 SHARP 128W thin-film modules (57.7 MWp). At its completion, it was California's largest photovoltaic facility.[4]]]></description>
+			<Point>
+				<coordinates>-120.09999999999998,35.983333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Beijing Badaling CSP Tower Plant</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[en.nafste.org (http://en.nafste.org/index.php?option=com_content&module=22&sortid=0&artid=379)
+
+On August 9, 2012, Badaling CSP power plant was put into full operation at 13:18. With its first successful power generation test, the power plant has met the historic moment over 6 years.
+
+On August 9, 2012, Badaling CSP power plant was put into full operation at 13:18. With its first successful power generation test, the power plant has met the historic moment over 6 years.]]></description>
+			<Point>
+				<coordinates>115.93742300000001,40.382341,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>California Valley Solar Ranch</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/California_Valley_Solar_Ranch)
+
+The California Valley Solar Ranch (CVSR) is a 250- megawatt (MW) solar photovoltaic power plant in the Carrizo Plain, northeast of California Valley. The project is owned by NRG Energy, andSunPower is the EPC contractor and technology provider. The project is being constructed on 1,966 acres (796 ha) of a 4,365-acre (1,766 ha) site of former grazing land.[1] It is utilizing high-efficiency, crystalline PV panels designed and manufactured by SunPower. The project will include up to 88,000 SunPower solar tracking devices to hold PV panels that will track the sun across the sky.]]></description>
+			<Point>
+				<coordinates>-119.91,35.33,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Catalina Solar Project</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Catalina_Solar_Project)
+
+The Catalina Solar Project is a 143.2 megawatts photovoltaic power station[1] located near Bakersfield, Kern County, California, owned by enXco, an EDF Énergies Nouvelles Company. It covers area of 445 hectares (1,100 acres).
+Construction began in May, 2012 and was fully completed in August, 2013.[2] It use thin-film PV panels bought from Solar Frontier (CIGS type) and First Solar (CdTe type).[1]
+Phase 1 had a nameplate capacity of 60 MW and was connected to the grid in December, 2012.]]></description>
+			<Point>
+				<coordinates>-118.333333,34.933333000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Copper Mountain Solar Facility</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Copper_Mountain_Solar_Facility)
+
+The Copper Mountain Solar Facility is a 150 MWp[1] solar photovoltaic power plant in Boulder City, Nevada.[2] Sempra Generation announced on December 1, 2010 that it had finished the project and the facility was generating electricity. When the facility entered service, it was the largest photovoltaic plant in the U.S. at 58 MW.[3][4]
+
+
+The expected output of 100 GW·h/year[5] from Copper Mountain Solar Facility has been sold to Pacific Gas & Electric under a 20-year power purchase agreement (PPA).[2]]]></description>
+			<Point>
+				<coordinates>-114.983333,35.783333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Easthampton, MA </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[mass.gov (http://www.mass.gov/eea/docs/dep/energy/recl3-easthampton.pdf)
+
+borregosolar.com (http://borregosolar.com/solar-projects/landfills-and-brownfields/easthampton-landfill/)
+ 
+Easthampton is a model small city of the 21st century, fostering innovation with a mill-town soul. As one of the Department of Energy Resources (DOER) designated Green Communities, Easthampton has taken great strides towards becoming a clean energy leader in Massachusetts, and with their solar installation, one of the largest and first of its kind in the state, the city is taking advantage of an otherwise unusable landfill resource to add revenue to the municipality’s general fund.]]></description>
+			<Point>
+				<coordinates>-72.701769,42.286516,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Enerstar Villena</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[en.enerstar.es (http://en.enerstar.es/ver/150/Enerstar-Villena.html)
+
+A Solar Thermal Power Plant of 49.9 MW of nominal power, using parabolic trough collector technology, located in Villena (Alicante) Spain. The project was acquired by FCC Energía in 2011 and is in commercial operation since November 2013.]]></description>
+			<Point>
+				<coordinates>-0.920963,38.72851,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Extresol 1 &amp; 2 Solar Power Station</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Extresol_Solar_Power_Station)
+
+The Extresol Solar Power Station is a 150 megawatt (MW) commercial parabolic trough solar thermal power plant, located in Torre de Miguel Sesmero in the province of Badajoz, Extremadura, Spain.]]></description>
+			<Point>
+				<coordinates>-6.743889,38.645635,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Finsterwalde Solar Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Finsterwalde_Solar_Park)
+
+The Finsterwalde Solar Park was, in November 2010, the world’s largest photovoltaic plant with 80.7 MWp.[1] The project is located in Finsterwalde, Germany and is equipped with Q-Cells modules and LDK solar wafers.[2]
+
+The first phase of the project was commissioned in 2009, the second and third in 2010.[3] All phases were developed by Unlimited Energy GmbH. Phase I was sold to LQ Energy GmbH, a joint venture of Q-Cells International and LDK Solar. In 2011, Finsterwalde I was sold to LHI Leasing, a joint venture of Landesbank Baden-Württemberg and Nord/LB.[4]]]></description>
+			<Point>
+				<coordinates>13.75,51.571111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Gabardan Solar Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Gabardan_Solar_Park)
+
+The Gabardan Solar Park is a 67.5 MW solar farm in France. It has about 872,300 thin-film PV panels made by First Solar, and incorporates a 2 MW pilot plant using 11,100 solar trackers.[2][3]]]></description>
+			<Point>
+				<coordinates>-0.010943,44.05558,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Gemasolar Thermosolar Plant (Solar Tres)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Solar_Tres_Power_Tower)
+
+The plant is a 140 m high solar power tower and uses concepts pioneered in the Solar One and Solar Two demonstration projects, using molten salt as its heat transfer fluid and energy storage medium. Originally called Solar Tres, it was renamed Gemasolar.[3]
+
+Gemasolar is the first commercial solar plant with central tower receiver and molten salt heat storage technology. It consists of a 185 ha solar field that has a 140-m high tower receiver, a power island and 2650 heliostats, each 120 m2 and distributed in concentric rings around the tower.[4]
+
+Gemasolar, with its 19.9 MW of power, can supply 110 GWh per year — enough to supply power to 27,500 homes. The plant has been operational since May 2011. Its official launch was held in October 2011.[6]]]></description>
+			<Point>
+				<coordinates>-5.331244,37.560432,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Gansu Dunhuang Solar Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Gansu_Dunhuang_Solar_Park)
+
+The Gansu Dunhuang Solar Park is a 50 MWp photovoltaic power station located in the Gansu Province, in China. All of the modules, which range from 230 to 240 watts, are mounted at a fixed tilt angle of 38°. It is located in the Photoelectricity Park of Dunhuang City.[1] China's first solar power plant, 10 MW, was built here and commissioned on 30 September 2009. An additional 95 MW is expected in 2013, and 5,000 MW by 2020.[2]]]></description>
+			<Point>
+				<coordinates>94.5,40.066667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Godawari Green Energy Limited </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cdmindia.gov.in (http://www.cdmindia.gov.in/project_details_view.php?id=1143)
+
+Godawari Green Energy Limited is implementing large-scale grid connected thermal solar power project (“Project activity”) in Jaisalmer district, Rajasthan, India. Project activity comprises of state-of-the-art, environment friendly, thermal solar power generation using parabolic trough technology. Project activity comes under the purview of large-scale, thermal solar power technology based project to be implemented in India. Electricity generated from the project activity will be sent to Combined Regional grid i.e. Northern, Eastern, Western, and North-Eastern grids(NEWNE) of India. As a result of commissioning the project with the thermal solar power generation technology, project activity supplies 118,866 MWh electricity to the grid and abates 112,803 tonnes of Carbon Dioxide emissions, in the project boundary, during the crediting period.]]></description>
+			<Point>
+				<coordinates>72.223611,27.600278,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Gujarat Solar Park - Jafrabad</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Charanka_Solar_Park#Charanka_Solar_Park)
+
+Gujarat Solar Park is the name used for a group of solar parks being constructed in Gujarat, India. This makes Gujarat as Asia's largest solar park hub .Certificates of completion were issued on April 19, 2012, for a total of 605 MW, which included some sections that were already operational, and 856.81 MW had been completed by March 31, 2013. One is the Charanka Solar Park, a group of 17 thin-film photovoltaic (PV) power systems, on a 2,000-hectare (4,900-acre) site in the district of Patan.[1]]]></description>
+			<Point>
+				<coordinates>71.280091,20.877859,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name> Gujarat Solar Park - Bitta</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Bitta_Solar_Power_Plant)
+
+Bitta Shekel Solar Power Plant is a 40-megawatt solar power plant located in Bitta village, Gujarat, in west India. When it was commissioned in early January 2012, it was India's largest photovoltaic power plant.]]></description>
+			<Point>
+				<coordinates>69.024167,23.262778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name> Gujarat Solar Park - Dhank</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>70.077689,21.776797,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name> Gujarat Solar Park - Dhank 2</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>70.103245,21.741483,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name> Gujarat Solar Park - Khirsara</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>70.0543,23.358302,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name> Gujarat Solar Park - Khirsara II</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>70.054167,23.360278,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name> Gujarat Solar Park - Mervadar</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>70.116763,21.736699000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name> Gujarat Solar Park - Nani Naroli</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>73.126738,21.423688,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name> Gujarat Solar Park - Pratapgarh</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>70.744969,23.368043,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name> Gujarat Solar Park - Shivlakha</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>70.626597,23.3656,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name> Gujarat Solar Park - ?</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>70.06505,21.778431,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name> Gujarat Solar Park - ?</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>70.621834,23.358646,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Haixi Power Supply Company Delingha Branch</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[adb.org (https://maps.google.com/?vector=0)
+
+The proposed Qinghai Delinha Solar Thermal Plant Project (the Project) will construct 50 megawatt (MW) concentrating solar thermal power (CSP) plant in Qinghai Province. The Project is the first-of-its-kind utility scale CSP plant in the People s Republic of China (PRC). A project preparatory technical assistance (TA) will be undertaken for the due diligence of the Project.]]></description>
+			<Point>
+				<coordinates>97.222824,37.359106,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hassi R'Mel integrated solar combined cycle power station</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Hassi_R%27Mel_integrated_solar_combined_cycle_power_station)
+
+The Hassi R'Mel integrated solar combined cycle power station is a hybrid power station near Hassi R'Mel in Algeria. The plant combines a 25 MW parabolic trough concentrating solar power array, covering an area of over 180,000 m2, in conjunction with a 130 MW combined cycle gas turbine plant, so cutting carbon emissions compared to a traditional power station.[1] The output from the solar array will be used in the steam turbine.
+
+The construction contract was signed on January 5, 2007[1] and the plant is to be developed by New Energy Algeria (NEAL),[2] a joint venture between Sonatrach Sonelgaz and SIM.
+
+The station began producing electricity in June 2011. It was inaugurated July 14, 2011.[3]]]></description>
+			<Point>
+				<coordinates>3.352847,33.126015,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Helios 1 and Helios 2</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[habengoasolar.com (http://www.abengoasolar.com/web/en/nuestras_plantas/plantas_en_operacion/espana/)
+
+The Castilla-La Mancha Solar Complex is composed of two 50 MW parabolic trough plants. Both plants, Helios 1 and Helios 2, went into commercial operation during the summer of 2012.]]></description>
+			<Point>
+				<coordinates>-3.4758,39.239699,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hickory Ridge Landfill </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Hickory_Ridge_Landfill)
+
+The site was opened in 1993 and closed in 2006; it contains nearly 9,000,000 cubic yards of waste. 
+
+The Hickory Ridge Landfill was formerly capped in October 2011 with an innovative patent-pending, dual-purpose landfill closure system referred to as an Exposed Geomembrane Solar Cover (EGSC).
+
+...the closure system, branded the Spectro PowerCap(R), provides both long-term environmental benefits with integrated solar cells (photovoltaics) that generate clean, renewable electricity.]]></description>
+			<Point>
+				<coordinates>-84.335,33.665,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Holaniku at Keahole Point</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Holaniku_at_Keahole_Point)
+
+Holaniku at Keahole Point is a micro-scaled concentrated solar power plant in the Kona District (west coast) of the island of Hawaiʻi. It is located in the Natural Energy Laboratory of Hawaii at Keahole Point. According to different sources its installed capacity is in range of 0.1–2  MW.[2]]]></description>
+			<Point>
+				<coordinates>-156.035031,19.713803,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Hongsibao Solar Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Hongsibao_Solar_Park)
+
+The Hongsibao Solar Park is a 50 MWp photovoltaic power station located in the Ningxia region, in China. Most of it uses fixed tilt arrays, but a 2 MW tracker section was completed in 2011.[1][2] The first stage, 20 MWp, was completed in 2010.[3]]]></description>
+			<Point>
+				<coordinates>106.734722,39.346944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Huaneng Geermu Solar Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Huaneng_Geermu_Solar_Park)
+
+The Huaneng Geermu Solar Park is a 50 MWp photovoltaic power station located in the Qinghai Province, in China. Most of it uses fixed tilt arrays, but has a 0.25 MW and a 5 MW single axis tracking section. Phase I is 5 MW, Phase II of the first section is 15 MW. 2 MW are amorphous silicon GS-50 modules from GS Solar rated 50 Watts each. The remaining 18 MW is polycrystalline silicon TW230(28)B modules from Tianwei New Energy PV Module rated 230 Watts each.[1] A second section, called the Huaneng Geermu Phase II Solar Power Generation Project, 30 MWp, includes a 5 MW tracking section. The remaining 25 MW is fixed tilt. 15 MW uses TW235P60-FA2 modules from Tianwei New Energy PV Module, 10 MW uses YL235PT-29b modules from Yingli, and 5 MW uses TSM-235PC05 modules from Trina Solar. All of the modules are rated 235 Watts.[2]]]></description>
+			<Point>
+				<coordinates>95.100961,36.386742,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Huanghe Hydropower Golmud Solar Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+ (http://en.wikipedia.org/wiki/Huanghe_Hydropower_Golmud_Solar_Park)
+
+Huanghe Hydropower's Golmud Solar park is a 200 MWp photovoltaic power station located in Golmud, Qinghai Province, China.[1] Construction began in the August of 2009,[2] and it was commissioned on October 29, 2011.[3][4] 80 MW was provided by Yingli.[5] The project won the 2012 China Quality Power Project Award. Output is expected to be 317.2 GWh/year.[6]]]></description>
+			<Point>
+				<coordinates>95.125,36.4,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Ibersol Ciudad Real Puertollano Solar Thermal Power Plant (shown under construction)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Puertollano_Solar_Thermal_Power_Plant)
+
+The Puertollano Solar Thermal Power Plant is a parabolic trough solar thermal power plant, located near Puertollano in the Province of Ciudad Real, Spain. It is owned 90% by Iberdrola and 10% by IDEA. It uses 352 parabolic-cylinder collectors, with 120,000 parabolic mirrors and 13,000 absorber tubes.[1] Three additional sections are planned for operation beginning in 2013, Puertollano 2, 72 MW,[2] Puertollano 3, 12.4 MW,[3] and Puertollano 4, 50 MW.[4]]]></description>
+			<Point>
+				<coordinates>-3.9680600000000004,38.644579,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>ISCC Kuraymat</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[nem-group.com (http://www.nem-group.com/EN/projects/solar_power/6/al_kuraymat/8/)
+
+The plant near Kuraymat catches solar radiation with a field of parabolic troughs concentrating the heat into a tube system filled with oil. This 'solar field' takes up more than 13 acres and has a thermal capacity of 60 MW. The solar collectors are connected in series and parallel to produce the required heat energy by tracking the sun from east to west, rotating on a north-south axis.
+
+The plant has a total installed generating capacity of about 135 MWe.]]></description>
+			<Point>
+				<coordinates>31.248889,29.278611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Jülich Solar Tower</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/J%C3%BClich_Solar_Tower)
+
+Jülich Solar Tower is a 60-metre (200 ft) high experimental concentrated solar power tower. In September 2008 the plant was put into operation on a trial basis.[1] Over 2,000 dual-axis sun-tracking mirrors heat air to 700 °C, which is used to generate steam which flows through a turbine to generate electricity. Insulated steel tanks allow storage of heat for 1.5 hours in the event of clouds passing over.[2] In 2011 it was sold to the German Aerospace Center.[3]]]></description>
+			<Point>
+				<coordinates>6.387778,50.915,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Karadzhalovo Solar Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Karadzhalovo_Solar_Park)
+
+The Karadzhalovo Solar Park is a 60.4 MW solar farm, the largest in Bulgaria. It has 214,000 photovoltaic panels,[1] and cost 350 million Bulgarian lev[2] (approximatively $248 million).[3] It has been completed in March 2012 after 4 month of construction.[2]]]></description>
+			<Point>
+				<coordinates>25.321667,42.104722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Kimberlina Solar Thermal Energy Plant</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Kimberlina_Solar_Thermal_Energy_Plant)
+
+The 5 megawatt (MW) Kimberlina Solar Thermal Energy Plant in Bakersfield, California is the first commercial solar thermal power plant to be built by Areva Solar. Completed in 2008, he Kimberlina renewable energy solar boiler usesCompact Linear Fresnel Reflector (CLFR) technology to generate superheated steam. Each solar boiler has a group of 13 narrow, flat mirrors, that individually track and focus the sun's heat onto overhead pipes carrying water. The water boils directly into steam. The steam can then spin a turbine to generate electricity or be used as industrial steam for food, oil and desalination processes. The Kimberlina solar boiler currently achieves 750-degree F superheated steam. The next generation solar boiler under construction is designed to achieve 900-degree F superheated steam.]]></description>
+			<Point>
+				<coordinates>-119.20166699999999,35.56833300000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>La Dehesa</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[greenpeace.org (http://photo.greenpeace.org/C.aspx?VP3=ViewBox_VPage&VBID=27MZVNA8RRPPI&IT=ZoomImageTemplate01_VForm&IID=27MZIFITW7AC&STID=27MZIFITV6Z3&PN=101&CT=Story)
+
+A 50 MW parabolic through solar thermal power plant with an annual production of 160 million kwh.]]></description>
+			<Point>
+				<coordinates>-6.461592,38.957407,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>La Florida</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[smartplanet.com (http://www.smartplanet.com/blog/smart-takes/spain-overtakes-us-in-solar-power-with-la-florida-plant/)
+
+SAMCA's new La Florida parabolic trough solar plant in Alvarado, Badajoz brings Spain's national solar output to 432 megawatts, exceeding America's national total of 422 megawatts, reports The Guardian.]]></description>
+			<Point>
+				<coordinates>-6.835899,38.816773,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Liddell Power Station</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Liddell_Power_Station,_New_South_Wales#Alternative_fuel_sources)
+
+In 2007 a project commenced at Liddell to replace some of the station's boiler feed-water by hot water from a solar thermal array.[5] As of March 2007, the project was at a second-stage prototype but had not been connected to the power station.]]></description>
+			<Point>
+				<coordinates>150.980043,-32.375413,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Lieberose Photovoltaic Park </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lieberose_Photovoltaic_Park)
+
+The Lieberose Photovoltaic Park is a 70.8 megawatt (MW) [1] solar photovoltaic power plant in Lieberose, Brandenburg, Germany. The solar park with 900,000 solar panels which went fully on line in October 2009, is the world's third-largest, and will supply electricity for 15,000 households a year while reducing the use of pollution-generating fossil fuels. The Lieberose Solar Park cost $238-million and is operated by the Juwi Group, which has a 20-year contract on the land.[2]]]></description>
+			<Point>
+				<coordinates>14.407222000000003,51.931944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Manchasol-1</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.309364,39.188078,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Manchasol-2</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.313322,39.180211,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Martin Next Generation Solar Energy Center</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Martin_Next_Generation_Solar_Energy_Center)
+
+The ISCC plant is part of Martin Plant site which consists of 5 units. Unit 1 & Unit 2 are 800 MW steam electric generating units that use natural gas and low-sulfur residual oil. Unit 3 & Unit 4 are 500 MW natural gas-fired combined cycle units. Unit 8 is a natural gas fired 4-on-1 combined cycle unit with a nominal capacity of 1150 MW. Light oil is used as backup. Unit 8, placed into commercial operation in 2005, is integrated with the solar plant. Unit 8 features four 170 MW gas turbines, one 470 MW steam turbine, and a single condenser and cooling tower[1] .[2] The single solar field circuit heats 4 steam generators, after each gas turbine. The Martin solar thermal facility is designed to provide steam for FPL's existing Martin Unit 8 combined cycle unit, thus reducing FPL's use of natural gas. No additional capacity (MW) will result from the operation of the solar thermal facility. The Solar Energy Center has an array of approximately 190,000-mirrorparabolic troughs on about 500 acres (202 ha) of the Martin County plant.[3] The solar collectors feed heat to the existing steam plant, generating electricity at a rate of 155,000 MW·h per year.[4] The 2012 solar derived production was about 89,000 MW·h of power, according to records filed with the state’s Public Service Commission. That’s 42% less than what was projected when the plant got approval.[5]Lauren Engineers & Constructors (Abilene, TX) was the EPC contractor for the project.[6] Construction began in 2008[7] and was completed by the end of 2010.[8]]]></description>
+			<Point>
+				<coordinates>-80.55,27.053056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Majadas I</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[acciona.com (http://www.acciona.com/news/acciona-opens-its-second-concentrated-solar-power-(csp)-plant-in-the-spanish-region-of-extremadura,-an-investment-of-237-million-euros)
+ 
+At a ceremony attended by the President of the Regional Government of Extremadura, Guillermo Fernández Vara, ACCIONA today opened its CSP plant at Majadas de Tiétar (Cáceres), in which it has invested 237 million euros. The 50 MW capacity facility will produce clean energy equivalent to the consumption of 30,000 homes in the region, and has created 31 jobs in the plant and an average of over 350 in the construction phase. ACCIONA was represented by the President of its Energy Division Carmen Becerril and Managing Director Rafael Mateo.]]></description>
+			<Point>
+				<coordinates>-5.742222,39.968056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Mesquite Solar project</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mesquite_Solar_project)
+
+Mesquite Solar 1 uses 800,000 solar panels from Suntech Power.[4][5] The EPC contractor is Zachry Holdings.[6] Construction began in 2011 and was completed in 2013.[4] Mesquite 1 is projected to generate more than 350 gigawatt-hours of electricity annually (an average of about 40 MW), and will offset roughly 200,000 tons of carbon emissions each year.[6]
+
+Phase 1 cost about $600 million.[7] Sempra Generation has signed a 20-year Power Purchase Agreement (PPA) with Pacific Gas and Electric Company (PG&E) for the 150 MW from Mesquite 1.[1]]]></description>
+			<Point>
+				<coordinates>-112.916965,33.341141,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Morón</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[nrel.gov (http://www.nrel.gov/csp/solarpaces/project_detail.cfm/projectID=227)
+
+Technology: Parabolic trough
+
+Electricity Generation: 100,000 MWh/yr (Estimated)"]]></description>
+			<Point>
+				<coordinates>-5.471111,37.139722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Nevada Solar One and Two</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Nevada Solar One is a solar power plant located in Eldorado Valley, near Boulder City. The 75 megawatt maximum capacity is distributed over 400 acres and it officially went into operation in the June of 2007. It is the largest solar thermal energy plant built in the world in the last two decades and the carbon dioxide emissions it avoids in a year are equal to 20,000 cars. The initial investment was $266 million. A number of companies combined their resources to bring the project to fruition, but the Spanish company Acciona soon brought a controlling stake in Solargenix, the company formerly known as Duke Solar and now owns 95% of the project.]]></description>
+			<Point>
+				<coordinates>-114.98153699999999,35.799576,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Nellis Air Force Base, NV</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[nellis.af.mil (http://www.nellis.af.mil/news/story.asp?id=123079933)
+
+More than 72,000 solar panels, which contain nearly 6 million solar cells, were constructed by Sunpower Corp. on 140 acres of Nellis land. Many of the panels, which track the sun across the sky, were constructed on top of a capped landfill.]]></description>
+			<Point>
+				<coordinates>-115.05415000000002,36.257321000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Olmedilla Photovoltaic Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Olmedilla_Photovoltaic_Park)
+
+The Olmedilla Photovoltaic Park is a large photovoltaic power plant in Olmedilla de Alarcón, Spain. When completed in July 2008, it was the world's largest photovoltaic power plant.[1][2] The plant uses more than 270,000 solar photovoltaic panels to generate 60-85 megawatts (peak).[3] It produces enough electricity to power more than 40,000 homes.[4]]]></description>
+			<Point>
+				<coordinates>-2.078733,39.626912,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Olivenza 1</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[solar.energy-business-review.com (http://solar.energy-business-review.com/news/siemens-to-supply-equipment-for-50mw-solar-power-plant-in-spain-060711)
+ 
+Siemens Energy has secured an order from UTE Termosolar Olivenza to supply equipment for a 50MW concentrated solar power plant in Extremadura, Spain.
+
+The Termosolar Olivenza 1 parabolic trough power plant will be built in the town of Olivenza (Badajoz) and includes 123 loops of parabolic trough collectors.]]></description>
+			<Point>
+				<coordinates>-7.134762,38.722483,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Palma del Río I &amp; II CSP Plant</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[acciona-energia.com (http://www.acciona-energia.com/activity_areas/csp/installations/plants-in-spain/planta-termosolar-palma-del-r%C3%ADo-ii.aspx?desde=4162)
+ 
+- Technology: CSP; parabolic trough
+- Capacity: 50 MW.
+- Estimated average production: 114 GWh/year.
+- Equivalent consumption: 35,000 households.
+- Solar field surface area: 135 hectares.
+- Length of troughs: 76 kilometers.
+- Total nº of mirrors: 190,080.]]></description>
+			<Point>
+				<coordinates>-5.257044,37.642782,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Perovo Solar Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Perovo_Solar_Park)
+
+The Perovo Solar Park is a 100 MWp photovoltaic power station located at Perovo in Crimea, Ukraine. As of July 2012 it is the world's fourth largest solar farm, and is made up of 440,000 solar panels. It is owned by Activ Solar, and the final 20 MW stage was completed on December 29, 2011.]]></description>
+			<Point>
+				<coordinates>33.9314,44.958117,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Pobeda Solar Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pobeda_Solar_Park)
+
+Pobeda Solar Park is a 50.6 MW photovoltaic (PV) plant in Pobeda, in the Pleven Province of Northern Bulgaria.
+ 
+The power plant is monitored from a control center in Sofia, along with three other photovoltaic power plants totaling 85 MW, expected to produce a combined total of 95 GWh/year.[1][2][3]
+ 
+This projects was funded through the E.U and is one more step that Bulgaria is making to modernize and join their fellow E.U. contries with efforts to expand clean energy.
+
+On July 2, 2012 the control module and transformer were damaged by a rocket-propelled grenade, shortly before the power plant was connected to the grid.[4]]]></description>
+			<Point>
+				<coordinates>24.541667,43.521111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>PS10 solar power plant</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/PS10_solar_power_plant)
+
+The PS10 Solar Power Plant (Spanish: Planta Solar 10), is the world's first commercial concentrating solar power tower operating near Seville, in Andalusia, Spain. The 11 megawatt (MW) solar power tower produces electricity with 624 large movable mirrors called heliostats.[2] It took four years to build and so far cost €35 million (US$46 million).[3] PS10 produces about 23,400 megawatt-hours (MW·h) per year, for which it receives €271 (US$360) per MW·h under its power purchase agreement, equating to a revenue of €6.3 million per year.[4]]]></description>
+			<Point>
+				<coordinates>-6.249504,37.44471,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>PS20 solar power plant</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+ (http://en.wikipedia.org/wiki/PS20_solar_power_plant)                                                                                      
+The Planta Solar 20 (PS20) solar power plant is a solar thermal energy plant in Sanlucar la Mayor near Seville in Andalusia, Spain. It is the world's most powerful solar power tower.[1] The 20 megawatt (MW) solar power tower produces electricity with large movable mirrors called heliostats.[2][3]]]></description>
+			<Point>
+				<coordinates>-6.259444,37.443889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Puerto Errado</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Puerto_Errado)
+
+Puerto Errado is a linear fresnel lens solar thermal power plant, located in the Region of Murcia of Spain. Puerto Errado 1 is 1.4 megawatts (MW), and was the first Fresnel-lens, solar power plant connected to the grid, in March 2009.[1] Power is being sold for 26.9375 Euro cents per kWh for the first 25 years, and 21.5495 Euro cents per kWh thereafter. It covers an area of 5 hectares (12 acres).[2]Puerto Errado 2 added 30 megawatts (MW, 40,200 hp), in February, 2012. It covers an area of 70 hectares (173 acres) with 28 rows of mirrors, and has an aperture area of 302,000 square metres (3,250,700 sq ft). Power is being sold for 26.8717 Euro cents per kWh for the first 25 years and 21.5495 Euro cents/kWh thereafter.[3][4]]]></description>
+			<Point>
+				<coordinates>-1.600399,38.283065,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Qinghai Golmud Solar Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Qinghai_Golmud_Solar_Park)
+
+Qinghai Golmud Solar Park is a photovoltaic power station located in Golmud, Qinghai Province, China. It is 20.16 MWp, and was completed in 2011 by Longyuan Power. It uses 18.63079 MW of polycrystalline silicon solar cell modules and 1.530144 MW of amorphous silicon thin film modules. The polysilicon modules are by Yingli, and the amorphous ones are from Golden Sun Solar (GS-Solar). Thecapacity factor is expected to be 0.189.[1]
+There are a total of 570 MW of solar parks in Golmud, among them the 20 MW Astronergy Golmud Solar Park, completed in 2011,[2][3] with 500 MW more expected in 2012.[4]]]></description>
+			<Point>
+				<coordinates>95.221667,36.337778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Rovigo Photovoltaic Power Plant</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Rovigo_Photovoltaic_Power_Plant)
+
+The Rovigo Photovoltaic Power Plant is a 70 MW solar photovoltaic (PV) plant in Northeast Italy. Construction of the plant was started in March 2010 and was completed in November 2010 at a cost of 276 million euro.[1] When completed, it was the largest single-operating PV plant in Europe.[2][3] 
+
+The project, also called the San Bellino PV power plant,[4] was developed by SunEdison and built by Isolux Corsán.[5] In October 2010, SunEdison sold the project to infrastructure investor First Reserve for US$382 million, and remained responsible for operating and maintaining the plant.[6][7][8]]]></description>
+			<Point>
+				<coordinates>11.572222,45.035833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Sarnia Photovoltaic Power Plant</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+ (http://en.wikipedia.org/wiki/Sarnia_Photovoltaic_Power_Plant)                                                                           
+Sarnia Photovoltaic Power Plant near Sarnia, Ontario in Canada, in September 2010 was the world's largest photovoltaic plant with an installed capacity of 97 MWp.[2][3][4] It has since been surpassed by theAgua Caliente Solar Project, with its 247 megawatts (MW, 331,200 hp) installed capacity.]]></description>
+			<Point>
+				<coordinates>-82.339697,42.940591,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>SEGS I–II (44 MW) at Daggett (Solar Energy Generating Systems)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Solar_Energy_Generating_Systems)
+ 
+Solar Energy Generating Systems (SEGS) in California, with the combined capacity from three separate locations at 354 megawatts (MW, 474,700 hp), is the largest[citation needed] solar thermal energy generating facility in the world. It consists of nine solar power plants in California's Mojave Desert, where insolationis among the best available in the United States.]]></description>
+			<Point>
+				<coordinates>-116.829167,34.8625,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>SEGS III–VII (150 MW) at Kramer Junction</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-117.55834600000001,35.014533,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Shams Solar Power Station</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Shams_solar_power_station)
+
+Shams solar power station (شمس /šams/ meaning "Sun" in Arabic) is a concentrating solar power station near Madinat Zayed, Abu Dhabi, the United Arab Emirates. The solar power station is located approximately 120 kilometres (75 mi) southwest of Abu Dhabi and 6 kilometres (4 mi) from Madinat Zayed on the road from Tarif to the Liwa Oasis.[2] It became operational on 17 March 2013.[1]                                                                                              
+The first part, Shams 1, uses parabolic trough technology and has a capacity of 100 megawatts (MW), which makes it among the largest parabolic trough power stations in the world.[3] Shams 1 has been commissioned in early 2013 and will be followed by Shams 2 and Shams 3 stations.[1][4]]]></description>
+			<Point>
+				<coordinates>53.711643,23.57154,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>SEGS VIII–IX (160 MW) at Harper Lake</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-117.348056,35.031667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Sierra SunTower</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Sierra_SunTower)
+
+Sierra SunTower is a 5 MW commercial concentrating solar power (CSP) plant built and operated by eSolar. The plant is located in Lancaster, California.]]></description>
+			<Point>
+				<coordinates>-118.13879700000001,34.730979,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Silver State North Solar Project</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia  (http://en.wikipedia.org/wiki/Silver_State_North_Solar_Project)
+
+Silver State South Solar Project is a 60 MW (50 MW AC)[1] photovoltaic power station near Primm, Nevada.]]></description>
+			<Point>
+				<coordinates>-115.34949300000001,35.623117,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Solarpark Finow Tower </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Solarpark_Finow_Tower)
+
+Solarpark Finow Tower is located in Finowfurth, Northeast of Berlin, Germany and is equipped with Q-Cells modules.
+
+The first phase of the project, FinowTower I (24.3 MW) was commissioned in 2010, and the second, FinowTower II (60.4 MW) in 2011.[1][2]]]></description>
+			<Point>
+				<coordinates>13.696883,52.822255,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Solnova Solar Power Station</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Solnova_Solar_Power_Station)
+
+The Solnova Solar Power Station is a large CSP power station made up of five separate units of 50 MW each. The facility is part of the Solucar Complex, in Sanlúcar la Mayor, in Spain, the same area where the PS20 solar power tower is also located.[1] With the commissioning of the third 50 MW unit, the Solnova-IV in August 2010, the power station currently ranks as the largest CSP power station in the world.
+
+Solnova-I, Solnova-III, and Solnova-IV[2] were commissioned in mid-2010 and are all rated at 50 MWe in installed capacity each.[1] All five plants are built, owned and operated by Abengoa Solar, a Spanish solar power company.]]></description>
+			<Point>
+				<coordinates>-6.275082,37.420072,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Strasskirchen Solar Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Strasskirchen_Solar_Park)
+
+The Strasskirchen Solar Park is a large photovoltaic power station in Bavaria, with an installed capacity of 54 MW. It was developed by a joint venture of MEMC and Q-Cells in 2009. At this time this Solar Park was the second largest PV Power Plant. Q-Cells also provided the solar modules for the facility which is located in Straßkirchen, Bavaria, Germany.[1][2]]]></description>
+			<Point>
+				<coordinates>12.760278,48.806944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>The Solar Project: Solar One and Two</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/The_Solar_Project#Solar_One)
+
+In 1995 Solar One was converted into Solar Two, by adding a second ring of 108 larger 95 m² (1,000 ft²) heliostats around the existing Solar One, totaling 1926 heliostats with a total area of 82,750 m² (891,000 ft²). This gave Solar Two the ability to produce 10 megawatts—enough to power an estimated 7,500 homes.[1]Solar Two used molten salt, a combination of 60% sodium nitrate and 40% potassium nitrate, as an energy storage medium instead of oil or water as with Solar One. This helped in energy storage during brief interruptions in sunlight due to clouds.[1] The molten salt also allowed the energy to be stored in large tanks for future use such as night time—Solar Two had sufficient capacity to continue running for up to three hours after the sun had set. Solar Two was decommissioned in 1999, and was converted by the University of California, Davis, into an Air Cherenkov Telescope in 2001, measuring gamma rays hitting the atmosphere. Its name is now C.A.C.T.U.S..[2] Solar Two's 3 primary participants were Southern California Edison (SCE), the Los Angeles Department of Water and Power (LADWP), and the U.S. Department of Energy (DOE).
+
+On November 25, 2009, after 10 years of not producing any energy, the Solar Two tower was demolished.[1] The mothballed site was levelled and returned to vacant land by Southern California Edison. All heliostats and other hardware were removed.]]></description>
+			<Point>
+				<coordinates>-116.834167,34.871944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Termosol 1 (shown under construction)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-5.569897,39.189109,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Termosol 2 (shown under construction)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-5.599465,39.179928,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Tutow Solar Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+ (http://en.wikipedia.org/wiki/Tutow_Solar_Park) 
+
+The first phase of the project, Tutow I was commissioned in 2009, using 91,200 First Solar thin film modules, with a total rating of 6782 kWp, and was expected to produce 6.7 GWh per year.[4] The second, Tutow II, brought the total to 25.4 MWp, about four times larger, in 2010,[5] and was expected to produce 26 GWh/year using a total of 335,400 panels, and the third section, Tutow III, making the total 52 MWp, was completed in 2011.[6]]]></description>
+			<Point>
+				<coordinates>13.222561,53.925672000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Valle Solar Power Station (Termesol)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Valle_Solar_Power_Station)
+
+The Valle Solar Power Station is a 100 megawatt (MW) solar thermal power station in the town of San José del Valle, province of Cádiz, Spain. The power station became operational in January 2012.
+
+The power station consists of two adjacent plants, Valle 1 and Valle 2. Each one has a nameplate capacity of 50 MW, using SENER parabolic trough collectors creating solar fields of 510,120 square metres on a total surface area of 460 hectares.[2] Net electrical output for each section is expected to be 160 gigawatt-hours (GW·h) per year. Each plant will have a molten salt thermal storage system containing 28,500 tons of molten salt (60% sodium nitrate / 40% potassium nitrate),[1] capable of storing enough heat to generate 750 MW(e)·h of electricity — enough to operate at full power for 7.5 hours without sunshine.[3]]]></description>
+			<Point>
+				<coordinates>-5.83962,36.66170600000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Waldpolenz Solar Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Waldpolenz_Solar_Park)
+
+Waldpolenz Solar Park, which was the world’s largest thin-film photovoltaic (PV) power system, was built by German developer and operator Juwi at a former military air base to the east of Leipzig inGermany. The power plant was initially 40 MW solar power system using state-of-the-art thin film technology, and was fully operational by the end of 2008.[1] 550,000 First Solar thin-film modules fromcadmium telluride (CdTe) are being used, which supply about 40,000 MWh of electricity per year.[2]
+
+It was extended to 52 MWP in 2011[3] with the addition of a further 153,650 solar modules, also from First Solar.]]></description>
+			<Point>
+				<coordinates>12.656111,51.328333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Xitieshan Solar Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikpedia (http://en.wikipedia.org/wiki/Xitieshan_Solar_Park)
+
+GN's Xitieshan Solar Park is a 100 MWp photovoltaic power station located in the Qinghai Province, China. Construction was completed in three phases, Xitieshan Phase I was 10 MW,[1] Xitieshan Phase II was 30 MW,[2] and Xitieshan Phase III was 60 MW.[3] It was completed on 30 September 2011, and at the time was the largest grid connected photovoltaic power station in the world.[4]]]></description>
+			<Point>
+				<coordinates>95.454712,37.308809,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-7CCFA9</styleUrl>
+			<name>Unknown Solar Plant</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.096157,39.639604,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Unknown Solar Plant</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.083797,39.634911,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-77'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-7CCFA9'>
+			<IconStyle>
+				<color>ffA9CF7C</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-93D7E8'>
+			<IconStyle>
+				<color>ffE8D793</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-B7DBAB'>
+			<IconStyle>
+				<color>ffABDBB7</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4B400'>
+			<IconStyle>
+				<color>ff00B4F4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F8971B'>
+			<IconStyle>
+				<color>ff1B97F8</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Interactive Map of the Ancient and other Ruins of Asia</name>
+  <description><![CDATA[In this documentary, in the form of an interactive Google Map, you can zoom in real close on the ancient ruins of Asia and see the actual forts, shrines, palaces and villages that formed the Asia of the past. Zoom in close and check out the ruins of: Al-Hijr, Angor Wat, Bhambore, Chang'an, Gaochang, Hierapolis, Himeji Castle, Jiaohe, Kafir Kot, Mohenjo-daro, Persepolis, Ratnagiri, The Great Wall of China, Tháp Bánh Ít, Troy, Xiyang Lou and others. Each location is linked to a Wikipedia page describing the location. 
+
+The locations were determined via the following:
+-- Wikipedia's List of World Heritage Sites in Western Asia
+-- Wikipedia's List of World Heritage Sites in Eastern Asia
+A Wikipedia search of Ancient Ruins in Asia
+-- A Wikipedia search of Ancient Ruins in Siberia
+-- And, some were found using Google Maps' Panoramia photo option; where tourists and people who live nearby identified the photos they took of the ruins. In other cases they had better photos than Wikipedia did.]]></description>
+  <NetworkLink>
+    <name>Interactive Map of the Ancient and other Ruins of Asia</name>
+    <Link>
+      <href>http://maps.google.com/maps/ms?authuser=0&amp;vps=3&amp;ie=UTF8&amp;hl=en&amp;oe=UTF8&amp;msa=0&amp;msid=202977755949863934429.0004b9cec41f4693ab775&amp;output=kml</href>
+    </Link>
+  </NetworkLink>
+</Document>
+</kml>

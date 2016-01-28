@@ -1,0 +1,2148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>Walk this map in 3D in Google Earth</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[You can see many of these castles rendered in 3D using this Non-networked Google Earth KML file. (https://docs.google.com/file/d/0B52hHMRyBvEsd3Jmam13UHBUbjQ/edit)]]></description>
+			<Point>
+				<coordinates>-13.974609,53.278353,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Akershus Fortress</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OSLO-NO-02_05_ubt.jpeg/320px-OSLO-NO-02_05_ubt.jpeg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Akershus Fortress on Wikipedia
+ (http://en.wikipedia.org/wiki/Akershus_Castle)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>10.736178,59.906606000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Alcazaba of Almería</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Alcazaba_de_Almer%C3%ADa.jpg/800px-Alcazaba_de_Almer%C3%ADa.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Alcazaba of Almería on Wikipedia (http://en.wikipedia.org/wiki/Alcazaba_of_Almer%C3%ADa)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-2.47083,36.84083,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Alcazaba of Málaga</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Malaga_Alcazaba_25-9-2007a.JPG/300px-Malaga_Alcazaba_25-9-2007a.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Alcazaba of Málaga on Wikipedia
+ (http://en.wikipedia.org/wiki/Alcazaba_of_M%C3%A1laga)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-4.416,36.721,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Alcazaba of Antequera</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Alcazaba_de_Antequera2.jpg/240px-Alcazaba_de_Antequera2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Alcazaba of Antequera on Wikipedia (http://en.wikipedia.org/wiki/Alcazaba_of_Antequera)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-4.5577,37.0141,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Aljafería</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Aljafer%C3%ADa2.JPG/240px-Aljafer%C3%ADa2.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Aljafería on Wikipedia (http://en.wikipedia.org/wiki/Aljafer%C3%ADa)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-0.89675,41.656472,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Almourol Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Almourol_034.jpg/300px-Almourol_034.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Almourol Castle on Wikipedia (http://en.wikipedia.org/wiki/Castle_of_Almourol)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-8.38395,39.46205,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Alnwick Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Alnwick_Castle_02.jpg/800px-Alnwick_Castle_02.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Alnwick_Castle)
+
+
+Wikipedia Commons / Phil Thomas (http://flickr.com/people/34683826@N03)]]></description>
+			<Point>
+				<coordinates>-1.70607,55.41575,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Ansembourg Castle (Private)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Ansembourg_Old1.JPG/220px-Ansembourg_Old1.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Ansembourg Castle on Wikipedia (http://en.wikipedia.org/wiki/Ansembourg_Castle)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>6.037717,49.703112,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Berat Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Berat_Castle%2C_Albania.JPG/800px-Berat_Castle%2C_Albania.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Berat_Castle)
+
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>19.945086,40.70794,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Beaumaris Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/8/84/Beaumaris_aerial.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Beaumaris_Castle)
+
+
+Wikipedia Commons / Cadw]]></description>
+			<Point>
+				<coordinates>-4.0897,53.2648,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Będzin Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Zamek_w_B%C4%99dzinie.jpg/248px-Zamek_w_B%C4%99dzinie.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Będzin Castle on Wikipedia (http://en.wikipedia.org/wiki/B%C4%99dzin_Castle)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>19.129145000000005,50.327217,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Bellver Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Castillo_de_Bellver.jpg/300px-Castillo_de_Bellver.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Bellver Castle on Wikipedia (http://en.wikipedia.org/wiki/Bellver_Castle)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>2.619338,39.56375,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Bled Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Blejski_grad.jpg/248px-Blejski_grad.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Bled Castle on Wikipedia (http://en.wikipedia.org/wiki/Bled_Castle)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>14.100556,46.369722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Bohus Fortress</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bohus_f%C3%A4stning.jpg/250px-Bohus_f%C3%A4stning.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Bohus Fortress on Wikipedia (http://en.wikipedia.org/wiki/B%C3%A5hus_Fortress)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>11.999785,57.86223100000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Bojnice Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Castle_Bojnice_SK.jpg/300px-Castle_Bojnice_SK.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Bojnice Castle on Wikipedia (http://en.wikipedia.org/wiki/Bojnice_Castle)
+ 
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>18.577816,48.780097,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Bourscheid Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/NW_Bastion_Bourscheid.JPG/220px-NW_Bastion_Bourscheid.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Bourscheid Castle on Wikipedia (http://en.wikipedia.org/wiki/Bourscheid_Castle)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>6.079722000000001,49.905278,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Braemar Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Braemar_Castle_1.jpg/300px-Braemar_Castle_1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Braemar Castle on Wikipedia (http://en.wikipedia.org/wiki/Braemar_Castle)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-3.391278,57.014735,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Brest Fortress</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/BrestFortress7.JPG/800px-BrestFortress7.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Brest_Fortress)
+
+
+Wikipedia Commons / Szeder László]]></description>
+			<Point>
+				<coordinates>23.658,52.082,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Burg Eltz</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Wierschem%2C_Burg_Eltz%2C_2012-08_CN-01.jpg/800px-Wierschem%2C_Burg_Eltz%2C_2012-08_CN-01.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Eltz_Castle)
+
+
+Wikipedia Commons / kaʁstn (http://commons.wikimedia.org/wiki/User:Carschten) Disk (http://commons.wikimedia.org/wiki/User_talk:Carschten)/Cat (http://commons.wikimedia.org/wiki/Category:User:Carschten)]]></description>
+			<Point>
+				<coordinates>7.336518000000001,50.205131,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Burg Güssing</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Ruine_der_Festung_G%C3%BCssing.jpg/250px-Ruine_der_Festung_G%C3%BCssing.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Burg Güssing on Wikipedia (http://en.wikipedia.org/wiki/Burg_G%C3%BCssing)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>16.322778,47.056667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Burg Lockenhaus</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/L%C3%A9ka_l%C3%A9gifot%C3%B31.jpg/300px-L%C3%A9ka_l%C3%A9gifot%C3%B31.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Burg Lockenhaus on Wikipedia (http://en.wikipedia.org/wiki/Burg_Lockenhaus)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>16.424583,47.404028,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Butrón Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Butron_Castle.JPG/250px-Butron_Castle.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Butrón Castle on Wikipedia (http://en.wikipedia.org/wiki/Butr%C3%B3n)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-2.914447,43.371683,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Caerlaverock Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/8/8b/Caerlaverock_Castle_from_the_air.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Caerlaverock_Castle)
+
+
+Wikipedia Commons / Simon Ledingham (http://www.geograph.org.uk/profile/2258)]]></description>
+			<Point>
+				<coordinates>-3.524,54.9756,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Caernarfon Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Caernarfon_Castle_1994.jpg/300px-Caernarfon_Castle_1994.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Caernarfon Castle on Wikipedia
+ (http://en.wikipedia.org/wiki/Caernarfon_Castle)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-4.276889,53.139306,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Carew Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/CarewNorthRange.jpg/300px-CarewNorthRange.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Carew Castle on Wikipedia
+ (http://en.wikipedia.org/wiki/Carew_Castle)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-4.830556,51.698333000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Carlisle Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Carlisle_Castle_03.jpg/300px-Carlisle_Castle_03.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Carlisle Castle on Wikipedia (http://en.wikipedia.org/wiki/Carlisle_Castle)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-2.941667,54.897222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Carrickfergus Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/7/7b/Carrickfergus_Castle%2C_reflections_at_sunset_-_geograph.org.uk_-_1098306.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Carrickfergus_Castle)
+
+
+Wikipedia Commons / Stewart (http://www.geograph.org.uk/profile/32818)]]></description>
+			<Point>
+				<coordinates>-5.806446,54.713314,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Castle Fraser</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/d/dd/Castle_Fraser_1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Castle Fraser on Wikipedia (http://en.wikipedia.org/wiki/Castle_Fraser)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-2.460556,57.203,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Castel Nuovo</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Naples-Castel_Nuovo.jpg/250px-Naples-Castel_Nuovo.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Castel Nuovo on Wikipedia (http://en.wikipedia.org/wiki/Castel_Nuovo)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>14.253307,40.838408,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Cité de Carcassonne</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Carcasonneouterwall.jpg/800px-Carcasonneouterwall.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Cit%C3%A9_de_Carcassonne)
+
+Wikipedia Commons / bmsgator]]></description>
+			<Point>
+				<coordinates>2.364872,43.208382,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Castle of Melfi</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Castello_di_melfi1.JPG/800px-Castello_di_melfi1.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Castle of Melfi on Wikipedia (http://en.wikipedia.org/wiki/Castle_of_Melfi)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>15.653039,40.998334,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Castle of São Jorge</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/LisbonCastle.jpg/400px-LisbonCastle.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Castle of São Jorge on Wikipedia (http://en.wikipedia.org/wiki/Castle_of_S%C3%A3o_Jorge)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-9.133611,38.71388900000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Castel Sant'Angelo</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/90/RomaCastelSantAngelo-2.jpg/350px-RomaCastelSantAngelo-2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Castel Sant'Angelo on Wikipedia (http://en.wikipedia.org/wiki/Castel_Sant%27Angelo)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>12.466355,41.903064,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Castle Soroca</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Tower_with_gate_of_the_fortress.jpg/250px-Tower_with_gate_of_the_fortress.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Castle Soroca on Wikipedia (http://en.wikipedia.org/wiki/Soroca)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>28.305336,48.161344,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Castle Tioram</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Tioram_Castle1_%28Dave_Wilkie%29.jpg/800px-Tioram_Castle1_%28Dave_Wilkie%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Castle_Tioram)
+
+
+Wikipedia Commons / Dave Wilkie]]></description>
+			<Point>
+				<coordinates>-5.829041,56.784602,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Castell Coch</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Castell_Coch_frontside_January_midday.jpg/800px-Castell_Coch_frontside_January_midday.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Castell_Coch)
+
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-3.25482,51.53585,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Château de Beynac</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Beynac_chateau_1.jpg/320px-Beynac_chateau_1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Château de Beynac on Wikipedia (http://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Beynac)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>1.145512,44.840313,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Château de Bonaguil</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/9/96/Ch%C3%A2teau_de_Bonagil.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Bonaguil)
+
+
+Wikipedia Commons /  Rinaldum (http://fr.wikipedia.org/wiki/User:Rinaldum)]]></description>
+			<Point>
+				<coordinates>1.0144440000000001,44.538056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Château de Chillon</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Chateau_De_Chillon.JPG/250px-Chateau_De_Chillon.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Château de Chillon on Wikipedia  (http://en.wikipedia.org/wiki/Chillon_Castle)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>6.9275,46.414167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Château de Castelnaud-la-Chapelle</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Castelnaud-la-Chapelle)]]></description>
+			<Point>
+				<coordinates>1.14834,44.815945,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Château de Chinon</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ch%C3%A2teau_de_Chinon_vu_de_la_Vienne.jpg/800px-Ch%C3%A2teau_de_Chinon_vu_de_la_Vienne.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Château de Chinon on Wikipedia (http://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Chinon)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>0.236111,47.168056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Château de Foix</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/3/32/Chateau_Foix.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Foix)
+
+
+Wikipedia Commons / Kim Chevalier]]></description>
+			<Point>
+				<coordinates>1.605,42.96555600000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Château de Sedan</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Chateau_de_Sedan.JPG/250px-Chateau_de_Sedan.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Château de Sedan on Wikipedia (http://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Sedan)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>4.949444,49.701944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Château de Vincennes</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Vincennes_chemise_and_keep.jpg/250px-Vincennes_chemise_and_keep.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Château de Vincennes on Wikipedia (http://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Vincennes)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>2.435833,48.842778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Château de Montbéliard</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Montb%C3%A9-ch%C3%A2teau2.jpg/275px-Montb%C3%A9-ch%C3%A2teau2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Château de Montbéliard on Wikipedia (http://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Montb%C3%A9liard)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>6.800835,47.509563,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Château de Murol</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chateau_de_murol_auvergne.jpg/250px-Chateau_de_murol_auvergne.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Château de Murol on Wikipedia (http://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Murol)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>2.945278,45.578333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Château de Villandraut</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/e/e0/Corps_de_logis.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Villandraut)
+
+Wikipedia Commons / Cobra bubbles]]></description>
+			<Point>
+				<coordinates>-0.372778,44.459722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Château du Fleckenstein</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fleckenstein.jpg/280px-Fleckenstein.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Château du Fleckenstein on Wikipedia
+ (http://en.wikipedia.org/wiki/Ch%C3%A2teau_du_Fleckenstein)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>7.771944000000001,49.04472200000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Conwy Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Conwy_Castle.jpg/800px-Conwy_Castle.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Conwy_Castle)
+
+
+Wikipedia Commons / David Benbennick (http://commons.wikimedia.org/wiki/User:Dbenbenn)]]></description>
+			<Point>
+				<coordinates>-3.8255560000000006,53.28,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Corfe Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Corfe_Castle3.jpg/800px-Corfe_Castle3.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Corfe_Castle)
+
+Wikipedia Commons / Jim Champion (http://www.flickr.com/people/13071852@N00)]]></description>
+			<Point>
+				<coordinates>-2.059239,50.640392,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Corvin Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Hunyad_Castle_TB1.jpg/800px-Hunyad_Castle_TB1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Hunyad_Castle)
+
+Wikipedia Commons  / Todor Bozhinov]]></description>
+			<Point>
+				<coordinates>22.888333,45.749167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Deal Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Deal_Castle_Aerial_View.jpg/800px-Deal_Castle_Aerial_View.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Deal_Castle)
+
+Wikipedia Commons / Lieven Smits (http://commons.wikimedia.org/wiki/User:Lieven_Smits)]]></description>
+			<Point>
+				<coordinates>1.403675,51.219438,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Despot Stefan Tower</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Despotova_kula6.jpg/300px-Despotova_kula6.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Despot Stefan Tower on Wikipedia (http://en.wikipedia.org/wiki/Despot_Stefan_Tower)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>20.45128,44.825184,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Dolbadarn Castle</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (https://en.wikipedia.org/wiki/Dolbadarn_Castle)]]></description>
+			<Point>
+				<coordinates>-4.1141,53.11649,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Drivenik Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://mw2.google.com/mw-panoramio/photos/small/54356703.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Drivenik Castle on Wikipedia (http://en.wikipedia.org/wiki/Drivenik_Castle)
+
+
+©Panoramio]]></description>
+			<Point>
+				<coordinates>14.646667,45.238056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Dubno Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Castle_in_Dubno_Ukraine.jpg/800px-Castle_in_Dubno_Ukraine.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Dubno_Castle)
+
+
+Wikipedia Commons / Pavlo Boyko (http://www.flickr.com/people/78419861@N00)]]></description>
+			<Point>
+				<coordinates>25.747758,50.420297,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Dumbarton Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Scotland_Dumbarton_Castle_bordercropped.jpg/800px-Scotland_Dumbarton_Castle_bordercropped.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Dumbarton_Castle)
+
+Wikipedia Commons / Alan Hughes]]></description>
+			<Point>
+				<coordinates>-4.5628,55.93600000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Dunluce Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/e/e8/Dunluce_Castle.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Dunluce_Castle)
+
+
+Wikipedia Commons / Kenneth Allen (http://www.geograph.org.uk/profile/2282)]]></description>
+			<Point>
+				<coordinates>-6.579167,55.211389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Dunnottar Castle</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Dunnottar Castle (http://www.dunnottarcastle.co.uk/index.cfm)]]></description>
+			<Point>
+				<coordinates>-2.198141,56.946042,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Durrës Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Durr%C3%ABs_Albania_5.jpg/800px-Durr%C3%ABs_Albania_5.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Durr%C3%ABs_Castle)
+
+
+Wikipedia Commons / kopaszsop (http://flickr.com/photos/12523684@N03)]]></description>
+			<Point>
+				<coordinates>19.44685,41.309708,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Egeskov Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Egeskov_Slot_spejling_Edit_2.jpg/350px-Egeskov_Slot_spejling_Edit_2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Egeskov Castle on Wikipedia (http://en.wikipedia.org/wiki/Egeskov_Castle)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>10.489444,55.176389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Eilean Donan Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Eilean_Donan_Castle%2C_Scotland_-_Jan_2011.jpg/800px-Eilean_Donan_Castle%2C_Scotland_-_Jan_2011.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Eilean_Donan)
+
+
+Wikipedia Commons / DAVID ILIFF. License: CC-BY-SA 3.0]]></description>
+			<Point>
+				<coordinates>-5.516111,57.274028,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Făgăraș</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/c9/Fagaras_IMG_5672.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/F%C4%83g%C4%83ra%C5%9F_Castle)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>24.973801,45.845311,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Fénis Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Fenis_Castle1.JPG/300px-Fenis_Castle1.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Fénis Castle on Wikipedia
+ (http://en.wikipedia.org/wiki/F%C3%A9nis_Castle)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>7.489108000000001,45.736942,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Forchtenstein Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/35/BurgForchtenstein2.jpg/300px-BurgForchtenstein2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Forchtenstein Castle on Wikipedia (http://en.wikipedia.org/wiki/Forchtenstein_Castle)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>16.358643,47.717154,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Fortress of Doboj</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Doboj_fortress.JPG/300px-Doboj_fortress.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Fortress of Doboj on Wikipedia (http://en.wikipedia.org/wiki/Fortress_of_Doboj)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>18.088,44.737,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Gjirokastër Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Gjirokaster%2C_castle_5.jpg/800px-Gjirokaster%2C_castle_5.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Gjirokast%C3%ABr_Castle)
+
+
+Wikipedia Commons  / Krzysztof Dudzik]]></description>
+			<Point>
+				<coordinates>20.141111,40.073889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Golubac Fortress</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Golubac.JPG/300px-Golubac.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Golubac Fortress on Wikipedia (http://en.wikipedia.org/wiki/Golubac_Fortress)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>21.677914,44.660717,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Gylen Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Gylen_castle_isle_of_kerrera_scotland_by_day.JPG/800px-Gylen_castle_isle_of_kerrera_scotland_by_day.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Gylen_Castle)
+
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-5.556687,56.379436,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Montemor-o-Velho Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MontemorVelho-CCBY-4.jpg/250px-MontemorVelho-CCBY-4.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Montemor-o-Velho Castle on Wikipedia (http://en.wikipedia.org/wiki/Castle_of_Montemor-o-Velho)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-8.682007,40.175178,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Häme Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Hameen_linna_ja_bastioni.jpg/220px-Hameen_linna_ja_bastioni.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Häme Castle on Wikipedia (http://en.wikipedia.org/wiki/H%C3%A4me_Castle)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>24.45974,61.00368699999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Harlech Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/a/ab/Harlech_Castle_-_Cadw_photograph.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Harlech_Castle)
+
+
+Wikipedia Commons / Cadw]]></description>
+			<Point>
+				<coordinates>-4.10916,52.86,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hermann Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Narva_castle_2008.JPG/220px-Narva_castle_2008.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Hermann Castle on Wikipedia (http://en.wikipedia.org/wiki/Hermann_Castle)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>28.201944,59.37583299999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Herstmonceux Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Herstmonceux_Castle.JPG/220px-Herstmonceux_Castle.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Herstmonceux Castle on Wikipedia (http://en.wikipedia.org/wiki/Herstmonceux_Castle)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>0.338333,50.869722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hohensalzburg Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Salzburg_Festung_Hohensalzburg_vom_M%C3%B6nchsberg.jpg/800px-Salzburg_Festung_Hohensalzburg_vom_M%C3%B6nchsberg.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Hohensalzburg_Castle)
+
+
+Wikipedia Commons / Andreas Praefcke (http://commons.wikimedia.org/wiki/User:AndreasPraefcke)]]></description>
+			<Point>
+				<coordinates>13.046769,47.795187,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hohenwerfen Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Festung_Hohenwerfen.jpg/250px-Festung_Hohenwerfen.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Hohenwerfen Castle on Wikipedia (http://en.wikipedia.org/wiki/Burg_Hohenwerfen)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>13.188239,47.482721,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hohenzollern Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Burg_Hohenzollern_ak.jpg/300px-Burg_Hohenzollern_ak.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Hohenzollern Castle on Wikipedia (http://en.wikipedia.org/wiki/Hohenzollern_Castle)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>8.96833,48.32299,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hutton in the Forest</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hutton-in-the-Forest_02.jpg/220px-Hutton-in-the-Forest_02.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Hutton in the Forest on Wikipedia (http://en.wikipedia.org/wiki/Hutton-in-the-Forest)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-2.839,54.714000000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Ivangorod</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Narva_j%C3%B5gi_1999.jpg/250px-Narva_j%C3%B5gi_1999.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Ivangorod on Wikipedia (http://en.wikipedia.org/wiki/Ivangorod)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>28.207655,59.373966,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Kalmar Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Kalmar_slott.nordostra_sidan.jpg/300px-Kalmar_slott.nordostra_sidan.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Kalmar Castle on Wikipedia (http://en.wikipedia.org/wiki/Kalmar_Castle)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>16.355,56.65800000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Kamianets-Podilskyi Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Kamianets-Podilskyi-2007.jpg/800px-Kamianets-Podilskyi-2007.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Kamianets-Podilskyi_Castle)
+
+
+Wikipedia Commons / Håkan Henriksson (Narking (http://commons.wikimedia.org/wiki/User:Narking))]]></description>
+			<Point>
+				<coordinates>26.5625,48.673333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Khotyn Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Chocim_stronghold_front.jpg/795px-Chocim_stronghold_front.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Khotyn_Fortress)
+
+
+Wikipedia Commons / Galileo01 (http://commons.wikimedia.org/wiki/User:Galileo01)]]></description>
+			<Point>
+				<coordinates>26.498333,48.521944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Kisimul Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/7/72/Kisimul_Castle.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Kisimul_Castle)
+
+
+Wikipedia Commons / Paul Store (http://www.geograph.org.uk/profile/743)]]></description>
+			<Point>
+				<coordinates>-7.487375999999999,56.952139,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Koporye</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Koporye_castle%2C_2009.jpg/800px-Koporye_castle%2C_2009.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Koporye on Wikipedia (http://en.wikipedia.org/wiki/Koporye)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>29.031286,59.709348000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Krujë Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/f/f7/Kruja.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Kruj%C3%AB_Castle)
+
+
+Wikipedia Commons / Stefan Kühn (http://commons.wikimedia.org/wiki/User:Stefan_K%C3%BChn)]]></description>
+			<Point>
+				<coordinates>19.793801,41.506932,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lezhë Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Zadrima.jpg/800px-Zadrima.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lezh%C3%AB_Castle)
+
+
+Wikipedia Commons /  Albinfo (http://de.wikipedia.org/wiki/Benutzer:Albinfo)]]></description>
+			<Point>
+				<coordinates>19.649722,41.783611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Liechtenstein Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Castle_Liechtenstein.jpg/250px-Castle_Liechtenstein.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Liechtenstein Castle on Wikipedia (http://en.wikipedia.org/wiki/Castle_Liechtenstein)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>16.27,48.0925,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Loevestein</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Slotloevestein.jpg/300px-Slotloevestein.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Loevestein on Wikipedia (http://en.wikipedia.org/wiki/Loevestein)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>5.021402,51.816414,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lubart's Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lutsk_castle_tower.jpg/400px-Lutsk_castle_tower.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lutsk_Castle)
+
+
+Wikipedia Commons  / Modulo (http://pl.wikipedia.org/wiki/Wikipedysta:Modulo)]]></description>
+			<Point>
+				<coordinates>25.323787,50.73852600000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Malbork Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Panorama_of_Malbork_Castle%2C_part_4.jpg/800px-Panorama_of_Malbork_Castle%2C_part_4.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Malbork_Castle)
+
+Wikipedia Commons / DerHexer (http://commons.wikimedia.org/wiki/User:DerHexer)]]></description>
+			<Point>
+				<coordinates>19.027778,54.039722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Malmö Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Malm%C3%B6hus_slott_2.jpg/220px-Malm%C3%B6hus_slott_2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Malmö Castle on Wikipedia (http://en.wikipedia.org/wiki/Malm%C3%B6_Castle)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>12.987500000000002,55.605,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Methoni's Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Methoni_castle_Burtzi.jpg/220px-Methoni_castle_Burtzi.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Methoni's Castle on Wikipedia (http://en.wikipedia.org/wiki/Methoni,_Messenia)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>21.704586,36.816826,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mir Castle Complex</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/%D0%9C%D0%B8%D1%80_%28%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA%29.jpg/800px-%D0%9C%D0%B8%D1%80_%28%D0%B7%D0%B0%D0%BC%D0%BE%D0%BA%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mir_Castle_Complex)
+
+
+Wikipedia Commons / Yaroshev Yuryy (http://commons.wikimedia.org/w/index.php?title=User:Yaroshev_Yuryy&action=edit&redlink=1)]]></description>
+			<Point>
+				<coordinates>26.473,53.451239,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Muncaster Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Muncaster_Castle_morris_edited.jpg/300px-Muncaster_Castle_morris_edited.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Muncaster Castle on Wikipedia (http://en.wikipedia.org/wiki/Muncaster_Castle)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-3.3809,54.3547,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Munot</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Munot_Schaffhausen_2004.jpg/250px-Munot_Schaffhausen_2004.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Munot on Wikipedia (http://en.wikipedia.org/wiki/Munot)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>8.639722,47.696944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Nesvizh Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nesvizh_Castle_2011.JPG/800px-Nesvizh_Castle_2011.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Niasvizh_Castle)
+
+
+Wikipedia Commons / Rave]]></description>
+			<Point>
+				<coordinates>26.691736000000002,53.222878,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Neuschwanstein Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Hohenschwangau_-_Schloss_Neuschwanstein1.jpg/248px-Hohenschwangau_-_Schloss_Neuschwanstein1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Neuschwanstein Castle on Wikipedia (http://en.wikipedia.org/wiki/Neuschwanstein_Castle)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>10.74965,47.55773,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Newcastle Keep</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Newcastle_schloss.jpg/514px-Newcastle_schloss.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Newcastle_Keep)
+
+
+
+Wikipedia Commons / Hans Peter Schaefer]]></description>
+			<Point>
+				<coordinates>-1.610556,54.968889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Novgorod Kremlin</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Nowgorod_2005_w.jpg/275px-Nowgorod_2005_w.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Novgorod Kremlin on Wikipedia (http://en.wikipedia.org/wiki/Novgorod)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>31.276016,58.522074999999994,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Old Hrodna Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hrodna_Batory_Old_Castle_cityside_2006-1.jpg/800px-Hrodna_Batory_Old_Castle_cityside_2006-1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Hrodna_Old_Castle)
+
+
+Wikipedia Commons / Yury Tarasievich (http://commons.wikimedia.org/wiki/User:Yury_Tarasievich)]]></description>
+			<Point>
+				<coordinates>23.823000000000004,53.677,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Olyka Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/%D0%9E%D0%BB%D0%B8%D0%BA%D0%B01.jpg/800px-%D0%9E%D0%BB%D0%B8%D0%BA%D0%B01.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Olyka_Castle)
+
+
+ 
+
+Wikipedia Commons / kotykS (http://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87:kotykS)]]></description>
+			<Point>
+				<coordinates>25.808611,50.723333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Örebro Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Orebro_castle_May_2004.jpg/240px-Orebro_castle_May_2004.jpg </value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Örebro Castle on Wikipedia (http://en.wikipedia.org/wiki/%C3%96rebro_Castle)
+
+
+Wikipedia Common]]></description>
+			<Point>
+				<coordinates>15.215278,59.273889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Orava (castle)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Slovakia_Oravsky_Podzamok.jpg/250px-Slovakia_Oravsky_Podzamok.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Orava (castle) on Wikipedia (http://en.wikipedia.org/wiki/Orava_Castle)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>19.359004,49.261706,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Peleș Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Peles-2007-bgiu.jpg/751px-Peles-2007-bgiu.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pele%C5%9F_Castle)
+
+Wikipedia Commons  / Bogdan (http://commons.wikimedia.org/wiki/User:Bogdan)]]></description>
+			<Point>
+				<coordinates>25.54265,45.35984,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pelişor</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Peli%C5%9For_castle.JPG/662px-Peli%C5%9For_castle.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Peli%C5%9For)
+
+Wikipedia Commons / Pudelek (http://commons.wikimedia.org/wiki/User:Pudelek) (Marcin Szala)]]></description>
+			<Point>
+				<coordinates>25.539167,45.360556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pskov Kremlin</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Troizkiy_cathedral_%28Pskov%29.jpg/300px-Troizkiy_cathedral_%28Pskov%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Pskov Kremlin on Wikipedia (http://en.wikipedia.org/wiki/Pskov)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>28.329148,57.822475,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pusłowski palace</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/KosauskiZamak054.JPG/800px-KosauskiZamak054.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons /  Mikola Volkau (http://commons.wikimedia.org/wiki/User:Wouk)]]></description>
+			<Point>
+				<coordinates>25.121741,52.76569,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Reichsburg Cochem</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Reichsburg_Cochem.jpg/310px-Reichsburg_Cochem.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Reichsburg Cochem on Wikipedia (http://de.wikipedia.org/wiki/Reichsburg_Cochem)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>7.166944,50.142222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Rochester Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rochester_Castle_Keep_and_Bailey_0038stcp.JPG/800px-Rochester_Castle_Keep_and_Bailey_0038stcp.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Rochester_Castle)
+
+Wikipedia Commons / Clem Rutter]]></description>
+			<Point>
+				<coordinates>0.501389,51.389444,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Rozafa Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Shkod%C3%ABr-rozafa-2001.jpg/800px-Shkod%C3%ABr-rozafa-2001.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Rozafa_Castle)
+
+
+Wikipedia Commons / Jeroenvrp (http://commons.wikimedia.org/wiki/User:Jeroenvrp)]]></description>
+			<Point>
+				<coordinates>19.4935,42.0465,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Sanok Castle (Chęciny Royal Castle)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Zamek_w_ch%C4%99cinie_panorama.jpg/800px-Zamek_w_ch%C4%99cinie_panorama.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Ch%C4%99ciny_Castle)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>20.460278,50.797222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Schloss Babelsberg</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Babelsberg%2C_Schloss.JPG/290px-Babelsberg%2C_Schloss.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Schloss Babelsberg on Wikipedia (http://de.wikipedia.org/wiki/Schloss_Babelsberg)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>13.093289,52.407639,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Schloss Wernigerode</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/24/WernigerodeCastleWinter.jpg/220px-WernigerodeCastleWinter.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Schloss Wernigerode on Wikipedia (http://de.wikipedia.org/wiki/Schloss_Wernigerode)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>10.79505,51.83026,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Schwerin Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/SchlossSchwerin1900.jpg/220px-SchlossSchwerin1900.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Schwerin Castle on Wikipedia (http://en.wikipedia.org/wiki/Schwerin_Castle)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>11.418889,53.624167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Shlisselburg</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Shlisselburg.jpg/220px-Shlisselburg.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Shlisselburg on Wikipedia (http://en.wikipedia.org/wiki/Oreshek)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>31.038350999999995,59.953678,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Skipton Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Castle_of_Skipton_04.JPG/800px-Castle_of_Skipton_04.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Skipton_Castle)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-2.015326,53.963446,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Skopje Fortress</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/KaleFortress-Skopje1.JPG/300px-KaleFortress-Skopje1.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Skopje Fortress on Wikipedia (http://en.wikipedia.org/wiki/Skopje_Fortress)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>21.4344,42.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Skenfrith Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Great_Tower%2C_Skenfrith_Castle_-_geograph.org.uk_-_714671.jpg/450px-Great_Tower%2C_Skenfrith_Castle_-_geograph.org.uk_-_714671.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Skenfrith_Castle)
+
+Wikipedia Commons / Pauline Eccles (http://www.geograph.org.uk/profile/13903)]]></description>
+			<Point>
+				<coordinates>-2.79022,51.87826,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Slangenburg Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kasteel_slangenburg.jpg/300px-Kasteel_slangenburg.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Slangenburg Castle on Wikipedia (http://en.wikipedia.org/wiki/Slangenburg_Castle)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>6.360833,51.960556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Spiš Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Spisska_nova_ves...castle.jpg/200px-Spisska_nova_ves...castle.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Spiš Castle on Wikipedia (http://en.wikipedia.org/wiki/Spi%C5%A1_Castle)
+
+
+©Panoramio]]></description>
+			<Point>
+				<coordinates>20.768333,49.000556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Steinvikholm Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Steinvikholm_slott.JPG/300px-Steinvikholm_slott.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Steinvikholm Castle on Wikipedia (http://en.wikipedia.org/wiki/Steinvikholm_Castle)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>10.813056,63.543611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Swallow's Nest</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>34.12841100000001,44.430482,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Toompea Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/ToompeaCastle.jpg/250px-ToompeaCastle.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Toompea Castle on Wikipedia (http://en.wikipedia.org/wiki/Toompea_Castle)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>24.737222,59.435556000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Tolquhon Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Tolquhon_Castle%2C_front_and_entrance.jpg/220px-Tolquhon_Castle%2C_front_and_entrance.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Tolquhon Castle on Wikipedia (http://en.wikipedia.org/wiki/Tolquhon_Castle)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-2.213211,57.348136000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Trim Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Ireland.Trim32.jpg/800px-Ireland.Trim32.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Trim_Castle)
+
+
+Wikipedia Commons /  Phouka (http://en.wikipedia.org/w/index.php?title=User:Phouka&action=edit&redlink=1)]]></description>
+			<Point>
+				<coordinates>-6.7897,53.555,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Tsarevets</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/e/ec/Tsarevets-gruev-2.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Tsarevets)
+
+Wikipedia Commons  / Nikola Gruev (http://www.pbase.com/ngruev/profile)]]></description>
+			<Point>
+				<coordinates>25.652081,43.083131,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Visby City Wall</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/c4/Visby_Wall.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/City_wall_of_Visby)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>18.296752,57.63737,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Vyborg Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Vyborg_s_vody.jpg/300px-Vyborg_s_vody.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Vyborg Castle on Wikipedia (http://en.wikipedia.org/wiki/Vyborg_Castle)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>28.729167,60.715833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Wardour Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/c9/OldWardourCastle%28Toby%29Dec2006.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Old_Wardour_Castle)
+
+ 
+
+Wikipedia Commons / Toby (http://www.geograph.org.uk/profile/7646)]]></description>
+			<Point>
+				<coordinates>-2.0888,51.0365,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name> Warkworth Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Warkworth_Castle_interior%2C_2007.jpg/800px-Warkworth_Castle_interior%2C_2007.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Warkworth_Castle)
+
+Wikipedia Commons / Draco2008 (http://www.flickr.com/photos/23448975@N04)]]></description>
+			<Point>
+				<coordinates>-1.611739,55.34562,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Wartburg</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Wartburg_Eisenach_DSCN3512.jpg/230px-Wartburg_Eisenach_DSCN3512.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wartburg on Wikipedia (http://en.wikipedia.org/wiki/Wartburg)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>10.3065,50.9662,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Windsor Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Windsor_Castle_at_Sunset_-_Nov_2006.jpg/300px-Windsor_Castle_at_Sunset_-_Nov_2006.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Windsor Castle on Wikipedia (http://en.wikipedia.org/wiki/Windsor_Castle)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-0.6031,51.484189,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Wray Castle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Wray_Castle.jpg/240px-Wray_Castle.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wray Castle on Wikpedia (http://en.wikipedia.org/wiki/Wray_Castle)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-2.9641520000000003,54.400935,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps on History</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>-16.875,44.840291,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mont Saint-Michel</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Mont_St_Michel_3%2C_Brittany%2C_France_-_July_2011.jpg/800px-Mont_St_Michel_3%2C_Brittany%2C_France_-_July_2011.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia http://en.wikipedia.org/wiki/Mont_Saint-Michel
+
+Wikipedia Commons / Photo by DAVID ILIFF. License: ]]></description>
+			<Point>
+				<coordinates>-1.5113888888888596,48.63611111111111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

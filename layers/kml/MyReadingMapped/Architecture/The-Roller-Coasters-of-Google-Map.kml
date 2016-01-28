@@ -1,0 +1,3724 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Location source information.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- Wikipedia's List of Roller Coaster Rankings (http://en.wikipedia.org/wiki/List_of_roller_coaster_rankings)
+
+- The Rollercoaster Database (http://rcdb.com/tv.htm)]]></description>
+			<Point>
+				<coordinates>-38.671875,40.979898,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Color Coding: Wood vs. Steel and Record Holders</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- Red  Wood Coasters
+- Yellow  Steel Coasters
+- Stars: Record Holders]]></description>
+			<Point>
+				<coordinates>-38.671875,30.448674,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1161</styleUrl>
+			<name>View the ride from the highest point.</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://4.bp.blogspot.com/-rpWks9xqXfI/UneYJ9G_ejI/AAAAAAAAGWU/AMGnck15AjM/s320/Atop+Colossos+Roller+Coaster+in+Google+Earth.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Stand atop the ride in this Google Earth KML file with the Building Layer turned on. (https://docs.google.com/file/d/0B52hHMRyBvEsX3AyV0YtYWNpVzg/edit?usp=drive_web) 
+
+
+Google]]></description>
+			<Point>
+				<coordinates>-22.148437,37.996163,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>4 Ring Roller Coaster</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/26127764.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/8660.htm)
+
+Panoramio / dxj5415]]></description>
+			<Point>
+				<coordinates>102.666936,25.024537,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Adventure Express</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/20086454.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Adventure_Express)
+
+Panoramio / RAVEN I]]></description>
+			<Point>
+				<coordinates>-84.26399400000001,39.344859,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Alpengeist</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Alpengeist_%28Busch_Gardens_Europe%29_04.JPG/450px-Alpengeist_%28Busch_Gardens_Europe%29_04.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Alpengeist)
+
+Wikipedia Commons / Coasterman1234]]></description>
+			<Point>
+				<coordinates>-76.647191,37.232976,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Amerikaskie Gorki</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/60048587.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/2312.htm)
+
+Panoramio / A_Zimovsky]]></description>
+			<Point>
+				<coordinates>30.335897,59.86661900000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Anaconda</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/PKD-Anaconda.jpg/800px-PKD-Anaconda.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Anaconda_(roller_coaster) 
+
+Wikipedia Commons / Hagerman ]]></description>
+			<Point>
+				<coordinates>-77.441361,37.837916,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Anaconda</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/63533558.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/1169.htm)
+
+Panoramio / Lars Schlichting]]></description>
+			<Point>
+				<coordinates>28.011955,-26.235529,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>American Eagle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/American_Eagle_01.JPG/800px-American_Eagle_01.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/American_Eagle_(roller_coaster) 
+
+Wikipedia Commons / Jonrev]]></description>
+			<Point>
+				<coordinates>-87.9336,42.3646,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>American Thunder</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Evel_Knievel_ride.JPG/796px-Evel_Knievel_ride.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia 
+http://en.wikipedia.org/wiki/American_Thunder_(roller_coaster)
+
+
+Wikipedia Commons / MHLU]]></description>
+			<Point>
+				<coordinates>-90.676831,38.512691,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Apocalypse</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/8480382.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Apocalypse_(Six_Flags_Magic_Mountain) 
+
+Panoramio / BVB-Stefan]]></description>
+			<Point>
+				<coordinates>-118.60012300000001,34.421078,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Apocalypse</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Iron_Wolf_%28Six_Flags_Great_America%29_01_cropped.JPG/687px-Iron_Wolf_%28Six_Flags_Great_America%29_01_cropped.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Apocalypse_(Six_Flags_America) 
+
+Wikipedia Commons / Iron_Wolf_(Six_Flags_Great_America)_01.JPG: Jonrev]]></description>
+			<Point>
+				<coordinates>-76.774245,38.908363,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Apollo's Chariot</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Apollos_Chariot_small_drop.jpg/450px-Apollos_Chariot_small_drop.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Apollo%27s_Chariot)
+
+Wikipedia Commons / Jeremy Thompson]]></description>
+			<Point>
+				<coordinates>-76.641827,37.234896,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Avalanche </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/KD_Avalanche.jpg/800px-KD_Avalanche.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Avalanche_(Kings_Dominion) 
+
+Wikipedia Commons  / WillMcC]]></description>
+			<Point>
+				<coordinates>-77.442125,37.84061,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Atlanta</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/3333.htm)]]></description>
+			<Point>
+				<coordinates>77.589776,13.006946,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Backlot Stunt Coaster</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/KD_StuntCoaster.jpg/800px-KD_StuntCoaster.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Backlot_Stunt_Coaster)
+
+Wikipedia Commons / WillMcC]]></description>
+			<Point>
+				<coordinates>-84.266164,39.342082,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Balder</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Balder_rollercoaster.jpg/800px-Balder_rollercoaster.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Balder_(roller_coaster) 
+
+Wikipedia Commons / Lennart Guldbrandsson]]></description>
+			<Point>
+				<coordinates>11.996111,57.693332999999996,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Batman: La Fuga</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/b/b2/Batman%2C_la_fuga.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Batman:_La_Fuga)
+
+Wikipedia Commons / Dariogsp]]></description>
+			<Point>
+				<coordinates>-3.5923680000000004,40.228178,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Batman: The Dark Knight</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Batman_SFNE.jpg/800px-Batman_SFNE.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Batman_%E2%80%93_The_Dark_Knight_(Six_Flags_New_England) 
+
+Wikipedia Commons / Rene Schwietzke]]></description>
+			<Point>
+				<coordinates>-72.612998,42.035253,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Batman: The Ride</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Batman_The_Ride_at_Six_Flags_Great_America_1.jpg/800px-Batman_The_Ride_at_Six_Flags_Great_America_1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Batman:_The_Ride)
+
+Wikipedia Commons / Jeremy Thompson]]></description>
+			<Point>
+				<coordinates>-90.673808,38.513381,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Batman The Ride</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/48360024.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Batman:_The_Ride)
+
+Panoramio / Pablo Costa Tirado]]></description>
+			<Point>
+				<coordinates>-74.443872,40.136101,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Batman: The Ride</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Batman:_The_Ride)]]></description>
+			<Point>
+				<coordinates>-84.546254,33.769551,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Batman The Ride</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/3852480.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Batman:_The_Ride)
+
+Panoramio / Ivanhs]]></description>
+			<Point>
+				<coordinates>-97.066438,32.758145,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Batman: The Ride</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/74662508.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Batman:_The_Ride)
+
+Panoramio / Stefan Grunwald]]></description>
+			<Point>
+				<coordinates>-118.600869,34.425618,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Batwing</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/SFA-Batwing.jpg/800px-SFA-Batwing.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Batwing_(roller_coaster) 
+
+Wikipedia Commons / Hagerman]]></description>
+			<Point>
+				<coordinates>-76.778603,38.910105,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Benghazi Zoo</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/11210.htm)]]></description>
+			<Point>
+				<coordinates>20.096,32.083665,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Big Apple</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/9489.htm)]]></description>
+			<Point>
+				<coordinates>76.891798,30.638411000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Big Apple</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/37453597.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/1388.htm)
+
+Panoramio / Himanshu Krishnakuma]]></description>
+			<Point>
+				<coordinates>72.80543240000002,19.2315117,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Blue Streak</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Blue_streak1_CP.JPG/800px-Blue_streak1_CP.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Blue_Streak_(Cedar_Point) 
+
+Wikipedia Commons / Stratosphere]]></description>
+			<Point>
+				<coordinates>-82.68221,41.479166,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Bizaro</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Six_Flags_New_England_football_field_with_Superman.jpg/800px-Six_Flags_New_England_football_field_with_Superman.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Bizarro_(Six_Flags_New_England) 
+
+Wikipedia Commons / Martin Lewison]]></description>
+			<Point>
+				<coordinates>-72.611749,42.038612,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Bizarro</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bizarro_at_Six_Flags_Great_Adventure.jpg/800px-Bizarro_at_Six_Flags_Great_Adventure.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Bizarro_(Six_Flags_Great_Adventure) 
+
+Wikipedia Commons /  Nappyrootslistener]]></description>
+			<Point>
+				<coordinates>-74.43236,40.138142,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Blue Fire</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Blue_Fire_Megacoaster_-_Europa-Park_-_Durchfahrt_des_Loopings.jpg/450px-Blue_Fire_Megacoaster_-_Europa-Park_-_Durchfahrt_des_Loopings.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Blue_Fire)
+
+Wikipedia Commons / Fritz Spitzkohl]]></description>
+			<Point>
+				<coordinates>7.718276000000001,48.262288000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Boomerang</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/90437304.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/1355.htm)
+
+Panoramio / Mostafa Amer]]></description>
+			<Point>
+				<coordinates>31.477084000000005,30.1718598,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Boomerang Coast to Coaster</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Boomerang_%28Six_Flags_Fiesta_Texas%29.JPG/800px-Boomerang_%28Six_Flags_Fiesta_Texas%29.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Boomerang:_Coast_to_Coaster)
+
+Wikipedia Commons /Pizzacrustman ]]></description>
+			<Point>
+				<coordinates>-122.235531,38.1397,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Boomerang: Coast to Coaster</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/74921767.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Boomerang:_Coast_to_Coaster)
+
+Panoramio / organic_veggie]]></description>
+			<Point>
+				<coordinates>-98.6107569,29.5984012,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Bushwhacker</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/1167.htm)]]></description>
+			<Point>
+				<coordinates>18.508513,-33.897388,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Cat Women's Whip</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Catwoman%27s_Whip)]]></description>
+			<Point>
+				<coordinates>-72.611904,42.037086,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Canobie Corkscrew</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Canobie_Lake_Park_Corkscrew.jpg/800px-Canobie_Lake_Park_Corkscrew.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Canobie_Corkscrew)
+
+Wikipedia Commons /Canobielakepark ]]></description>
+			<Point>
+				<coordinates>-71.24995,42.793453,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Cape Cobras</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/9687727.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/1165.htm)
+
+Panoramio / barryfourie]]></description>
+			<Point>
+				<coordinates>18.507779,-33.898837,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Cheetah Hunt</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Cheetah_Hunt_2.jpg/800px-Cheetah_Hunt_2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Cheetah_Hunt)
+
+Wikipedia Commons / Martin Lewison]]></description>
+			<Point>
+				<coordinates>-82.417827,28.034464,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Coaster Express</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/6/6d/Parquewarnercoasterexpress.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Parque_Warner_Madrid)
+
+Wikipedia Commons / Dariogsp]]></description>
+			<Point>
+				<coordinates>-3.594916,40.227641,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Cobra</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Cobra_(Six_Flags_Discovery_Kingdom) ]]></description>
+			<Point>
+				<coordinates>-122.23297499999998,38.139322,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>Colossos (the tallest wood coaster)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/3/38/Heide_Park_Colossos_Start.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Colossos_(roller_coaster) 
+
+Wikipedia Commons / Schlurcher]]></description>
+			<Point>
+				<coordinates>9.884428,53.023383,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Twisted Colossus</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/20481788.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Colossus_(Six_Flags_Magic_Mountain) 
+
+Panoramio / carlitopolis]]></description>
+			<Point>
+				<coordinates>-118.59637910000001,34.4275338,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Corkscrew</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Corkscrew_%28Cedar_Point%29_01.jpg/800px-Corkscrew_%28Cedar_Point%29_01.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Corkscrew_(Cedar_Point) 
+
+Wikipedia Commons / Coasterman1234]]></description>
+			<Point>
+				<coordinates>-82.685153,41.483536,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Curse of Novgorod</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Fluch_von_Novgorod_1.JPG/450px-Fluch_von_Novgorod_1.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Curse_of_Novgorod)
+
+Wikipedia Commons / Bright86]]></description>
+			<Point>
+				<coordinates>10.780225,54.074166,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>The Cyclone</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Coney_Island_2010_109.JPG/800px-Coney_Island_2010_109.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/The_Cyclone)
+
+Wikipedia Commons / Mttbme]]></description>
+			<Point>
+				<coordinates>-73.977637,40.57464,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Cyclone</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cyclone%2C_Six_Flags_New_England.jpg/800px-Cyclone%2C_Six_Flags_New_England.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Cyclone_(Six_Flags_New_England) 
+
+Wikipedia Commons / jyllish]]></description>
+			<Point>
+				<coordinates>-72.615547,42.04045300000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Cyclone</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Cyclonecoaster.jpg/800px-Cyclonecoaster.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Cyclone_(Dreamworld) 
+
+Wikipedia Commons / Saberwyn]]></description>
+			<Point>
+				<coordinates>153.314857,-27.865283,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Dahlonega Mine Train</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Dahlonega_Mine_Train)]]></description>
+			<Point>
+				<coordinates>-84.552176,33.767945,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Dare Devil Dive</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Dare_Devil_Dive_SFOG.JPG/450px-Dare_Devil_Dive_SFOG.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Dare_Devil_Dive)
+
+Wikipedia Commons / McDoobAU93]]></description>
+			<Point>
+				<coordinates>-84.548598,33.770363,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Diamondback</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Diamondback_back_half.jpg/800px-Diamondback_back_half.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Diamondback_(roller_coaster) 
+
+Wikipedia Commons / Astros4477]]></description>
+			<Point>
+				<coordinates>-84.267438,39.34223,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Diamond Devil Run</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/83194206.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Rollerocaster database (http://rcdb.com/1166.htm)
+
+Panoramio / Danie van der Merwe]]></description>
+			<Point>
+				<coordinates>18.504681,-33.896757,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Dragon</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/51460998.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/2197.htm)
+
+Panoramio / Dr.Walid Reda Ashour]]></description>
+			<Point>
+				<coordinates>31.476811999999995,30.173281000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Dragon</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/3888.htm)]]></description>
+			<Point>
+				<coordinates>3.91018,7.432013,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Dragon Challenge</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/a/a7/DuelingDragonsCS.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Dragon_Challenge)
+
+Wikipedia Commons / Killioughtta ]]></description>
+			<Point>
+				<coordinates>-81.4733,28.473647,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Dragon Coaster</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/thumb/2/20/Dragoncoastertunnel.JPG/800px-Dragoncoastertunnel.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Dragon_Coaster_(Playland) 
+
+Wikipedia Commons / Mttbme]]></description>
+			<Point>
+				<coordinates>-73.673683,40.967306,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Dragon Khan</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Rollercoaster_dragon_khan_universal_port_aventura_spain.jpg/800px-Rollercoaster_dragon_khan_universal_port_aventura_spain.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Dragon_Khan)
+
+Wikipedia Commons / Boris]]></description>
+			<Point>
+				<coordinates>1.160833,41.0875,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Desperado</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/3/3a/Primm_%288%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Desperado_(roller_coaster) 
+
+Wikipedia Commons / Shawn Jipp]]></description>
+			<Point>
+				<coordinates>-115.383857,35.614395,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Dominator</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Dominator_%28Kings_Dominion%29_02_Full_Layout.jpg/800px-Dominator_%28Kings_Dominion%29_02_Full_Layout.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Dominator_(roller_coaster) 
+
+Wikipedia Commons / Coasterman1234]]></description>
+			<Point>
+				<coordinates>-77.443475,37.84129600000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Diving Coaster</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/66411604.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/4224.htm)
+
+Panoramio / allengong98]]></description>
+			<Point>
+				<coordinates>121.21181499999999,31.101764000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Dodonpa</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Dodonpa_rollercoaster_2005-05.JPG/800px-Dodonpa_rollercoaster_2005-05.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Dodonpa)
+
+Wikipedia Commons / Geomr]]></description>
+			<Point>
+				<coordinates>138.782811,35.48793,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Double Loop Roller Coaster</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/37684906.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/3699.htm)
+
+Panoramio / 吴津]]></description>
+			<Point>
+				<coordinates>114.025319,22.54637,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Eejanaika</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Eejanaika_coaster_FujiQ_1024.jpg/800px-Eejanaika_coaster_FujiQ_1024.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Eejanaika_(roller_coaster) 
+
+Wikipedia Commons / Derek F. DiMatteo]]></description>
+			<Point>
+				<coordinates>138.780842,35.48842,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Euro-Mir</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Euro-Mir_in_Europa-Park_Rust.JPG/800px-Euro-Mir_in_Europa-Park_Rust.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Euro-Mir)
+
+Wikipedia Commons / Gabriel Rinaldi]]></description>
+			<Point>
+				<coordinates>7.719722,48.264722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>El Toro (the fastest wood coaster)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/KingdaEltoro.JPG/800px-KingdaEltoro.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/El_Toro_(Six_Flags_Great_Adventure) 
+
+Wikipedia Commons / Paulm27]]></description>
+			<Point>
+				<coordinates>-74.434543,40.138535,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Escape from Madagascar</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Runaway_Reptar_Roller_Coaster.jpg/796px-Runaway_Reptar_Roller_Coaster.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Escape_from_Madagascar)
+
+Wikipedia Commons /  Lakeyboy]]></description>
+			<Point>
+				<coordinates>153.316805,-27.863929,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Firehawk</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Firehawk_5.jpg/800px-Firehawk_5.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Firehawk_(roller_coaster) 
+
+Wikipedia Commons / Uriel 1998]]></description>
+			<Point>
+				<coordinates>-84.26261000000001,39.34304,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Flare Meteor</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/24055948.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/4132.htm)
+
+Panoramio / zhanglurong]]></description>
+			<Point>
+				<coordinates>118.371674,31.382019,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Flight Deck </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/FlightDeckOverviewKI.jpg/800px-FlightDeckOverviewKI.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Flight_Deck_(Kings_Island) 
+
+Wikipedia Commons / Tkexb173]]></description>
+			<Point>
+				<coordinates>-84.265223,39.347615,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-F4EB37</styleUrl>
+			<name>Formula Rossa (the fastest steel coaster)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Formula_Rossa_coaster.jpg/800px-Formula_Rossa_coaster.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Formula_Rossa)
+
+Wikipedia Commons /Jazon88 ]]></description>
+			<Point>
+				<coordinates>54.612778,24.484444,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Fujiyama</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Fujiyama_rollercoaster_2005-05.JPG/800px-Fujiyama_rollercoaster_2005-05.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Fujiyama_(roller_coaster) 
+
+Wikipedia Commons / Geomr]]></description>
+			<Point>
+				<coordinates>138.777006,35.485856,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Furius Baco</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Furius_Baco.jpg/800px-Furius_Baco.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedua (http://en.wikipedia.org/wiki/Furius_Baco)
+
+Wikipedia Commons / Rapha222]]></description>
+			<Point>
+				<coordinates>1.156413,41.084568,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Galaxy</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/4360.htm)]]></description>
+			<Point>
+				<coordinates>49.8954442,40.3801296,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Gemini</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gemini_Cedar_Point.JPG/800px-Gemini_Cedar_Point.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Gemini_(roller_coaster) 
+
+Wikipedia Commons / Stratosphere]]></description>
+			<Point>
+				<coordinates>-82.689382,41.48629,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Georgia Cyclone</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Georgia_Cyclone.jpg/450px-Georgia_Cyclone.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Georgia_Cyclone)
+
+Wikipedia Commons / Mike Gonzalez ]]></description>
+			<Point>
+				<coordinates>-84.55238,33.770131,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Georgia Scorcher</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Georgia_Scorcher_%28Six_Flags_Over_Georgia%29_01.jpg/450px-Georgia_Scorcher_%28Six_Flags_Over_Georgia%29_01.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Georgia_Scorcher)
+
+Wikipedia Commons / Reubot]]></description>
+			<Point>
+				<coordinates>-84.550352,33.77022,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Gwazi</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gwazi_%28Busch_Gardens_Africa%29_01.jpg/800px-Gwazi_%28Busch_Gardens_Africa%29_01.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Gwazi_(roller_coaster) 
+
+Wikipedia Commons / ClaudiaTampa39]]></description>
+			<Point>
+				<coordinates>-82.423331,28.034615,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Gwazi</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/78663030.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/9848.htm)
+
+Panoramio / 林海塔haita]]></description>
+			<Point>
+				<coordinates>25.8162533,-24.785694,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Goliath</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Goliath_at_Six_Flags_Magic_Mountain_%28first_drop%29.jpg/800px-Goliath_at_Six_Flags_Magic_Mountain_%28first_drop%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Goliath_(Six_Flags_Magic_Mountain) 
+
+Wikipedia Commons / Jeff Turner]]></description>
+			<Point>
+				<coordinates>-118.59694400000001,34.426944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Goliath</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/8/8f/Stuntfall.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Giant_Inverted_Boomerang)
+
+Wikipedia Commons / Dariogsp]]></description>
+			<Point>
+				<coordinates>-72.614479,42.039262,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Goliath</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Goliath_%28Six_Flags_Over_Georgia%29_14.jpg/800px-Goliath_%28Six_Flags_Over_Georgia%29_14.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Goliath_(Six_Flags_Over_Georgia) 
+
+Wikipedia Commons / JÄNNICK Jérémy]]></description>
+			<Point>
+				<coordinates>-84.550797,33.76936,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Goliath</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/3/30/Goliath_Fiesta_Texas.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Goliath_(Six_Flags_Fiesta_Texas) 
+
+Wikipedia Commons / Jpp858]]></description>
+			<Point>
+				<coordinates>-98.608523,29.599097999999998,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Goudurix9</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/9680949.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Goudurix)
+
+Panoramio /  iso_59]]></description>
+			<Point>
+				<coordinates>2.571389,49.131389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Great American Scream Machine</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Great_American_Scream_Machine_hill.jpg/800px-Great_American_Scream_Machine_hill.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Great_American_Scream_Machine_(Georgia) 
+
+Wikipedia Commons / CillanXC]]></description>
+			<Point>
+				<coordinates>-84.551143,33.76616,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Great Bear</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/92804933.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Great_Bear_(roller_coaster) 
+
+Panoramio / Adam Elmquist]]></description>
+			<Point>
+				<coordinates>-76.653056,40.286944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Griffon</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/15072866.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Griffon_(roller_coaster) 
+
+Panoramio / ripits]]></description>
+			<Point>
+				<coordinates>-76.647266,37.2344154,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Grizzly </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Grizzly_Lift_and_Switch.jpg/450px-Grizzly_Lift_and_Switch.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Grizzly_(Kings_Dominion) 
+
+Wikipedia Commons / BigThunderMtn]]></description>
+			<Point>
+				<coordinates>-77.448061,37.836969,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Hades 360</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/WisconsinDellsWisconsinRollercoaster.jpg/800px-WisconsinDellsWisconsinRollercoaster.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Hades_360)
+
+Wikipedia Commons / Royalbroil]]></description>
+			<Point>
+				<coordinates>-89.789028,43.616908,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Happy Family Roller Coaster</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/8961.htm)]]></description>
+			<Point>
+				<coordinates>106.4428,29.487359,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Himalayas</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/3527.htm)]]></description>
+			<Point>
+				<coordinates>3.023077,36.733293,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Himalayas</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/3717.htm)]]></description>
+			<Point>
+				<coordinates>50.5471032,26.1980003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hurler</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/769584.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Hurler_(roller_coaster) 
+
+Panoramio / gmgmarshall]]></description>
+			<Point>
+				<coordinates>-77.44621,37.836516,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hydra the Revenge</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/11611181.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Hydra_the_Revenge)
+
+Panoramio / shigatsu]]></description>
+			<Point>
+				<coordinates>-75.5325509,40.5811416,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Intimidator 305</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Intimidator_305_ride_as_seen_from_Eiffel_Tower.jpg/800px-Intimidator_305_ride_as_seen_from_Eiffel_Tower.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Intimidator_305)
+
+Wikipedia Commons / Ben Schumin]]></description>
+			<Point>
+				<coordinates>-77.439569,37.837518,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Italian Double Loop Coaster</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/51103134.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Rollerocaster database (http://rcdb.com/1564.htm)
+
+Panoramio / jay naik]]></description>
+			<Point>
+				<coordinates>73.3656104,22.3709858,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Invertigo</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Invertigo_%28Kings_Island%29.jpg/800px-Invertigo_%28Kings_Island%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Invertigo_(roller_coaster) 
+
+Wikipedia Commons / WillMcC]]></description>
+			<Point>
+				<coordinates>-84.268082,39.346001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Iron Dragon</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Iron_Dragon_Cedar_Point.JPG/800px-Iron_Dragon_Cedar_Point.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Iron_Dragon_(roller_coaster) 
+
+Wikipedia Commons / Stratosphere]]></description>
+			<Point>
+				<coordinates>-82.6862302,41.483025,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Iron Rattler</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/46143438.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Iron_Rattler)
+
+Panoramio /  Detta]]></description>
+			<Point>
+				<coordinates>-98.613209,29.598448999999995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-F4EB37</styleUrl>
+			<name>Kingda Ka (the tallest steel coaster)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/41116621.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Kingda_Ka)
+
+Panoramio / bighandking]]></description>
+			<Point>
+				<coordinates>-74.435436,40.139708,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Kong</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/18610577.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Kong_(Six_Flags_Discovery_Kingdom) 
+
+Panoramio / Miller Lite]]></description>
+			<Point>
+				<coordinates>-122.23372,38.139747,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Kraken</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/13932746.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Kraken_(roller_coaster) 
+
+Panoramio / AcheG]]></description>
+			<Point>
+				<coordinates>-81.458291,28.411431,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Kumba</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Kumbas_vertical_loop_3.jpg/800px-Kumbas_vertical_loop_3.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Kumba_(roller_coaster) 
+
+Wikipedia Commons / Jeremy Thompson]]></description>
+			<Point>
+				<coordinates>-82.4233842,28.040070600000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Le Monstre</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/d/dc/Monstrelaronde.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Le_Monstre)
+
+Wikipedia Commons / Dennin]]></description>
+			<Point>
+				<coordinates>-73.533012,45.524805,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>The Leviathan</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/67079902.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Leviathan_(roller_coaster) 
+
+Panoramio / SergeantSammie]]></description>
+			<Point>
+				<coordinates>-79.540994,43.845038,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Lightning Racer</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Image-Lightning_Racer_at_Hersheypark_station.jpg/800px-Image-Lightning_Racer_at_Hersheypark_station.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lightning_Racer)
+
+Wikipedia Commons / Deron Meranda]]></description>
+			<Point>
+				<coordinates>-76.653171,40.29288400000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Loch Ness Monster</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/BGE-Loch_Ness_Monster.jpg/250px-BGE-Loch_Ness_Monster.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Loch_Ness_Monster_(roller_coaster) 
+
+Wikipedia Commons / Hagerman]]></description>
+			<Point>
+				<coordinates>-76.6459814,37.234179,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Loop and Spiral Coaster</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/58578523.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/1796.htm)
+
+Panoramio / fzwcz]]></description>
+			<Point>
+				<coordinates>118.557619,24.891361,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Maverick</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/4880528.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Maverick_(roller_coaster) 
+
+Panoramio / foto1212]]></description>
+			<Point>
+				<coordinates>-82.6925,41.485556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Magnum XL-200</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/11778282.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Magnum_XL-200)
+
+Panoramio / RCPro21]]></description>
+			<Point>
+				<coordinates>-82.686325,41.48559,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mamba</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/53/MambaLiftHillWOF.jpg/674px-MambaLiftHillWOF.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mamba_(roller_coaster) 
+
+Wikipedia Commons/ Tkexb173]]></description>
+			<Point>
+				<coordinates>-94.490561,39.171979,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mantis</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/85566682.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mantis_(roller_coaster) 
+
+Panoramio / plumgarden]]></description>
+			<Point>
+				<coordinates>-82.686946,41.482577,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Mean Streak</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/11778375.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mean_Streak)
+
+Panoramio / RCPro21]]></description>
+			<Point>
+				<coordinates>-82.692788,41.486736,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Medusa</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Medusa_%28Six_Flags_Discovery_Kingdom%29_01.JPG/450px-Medusa_%28Six_Flags_Discovery_Kingdom%29_01.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Medusa_(Six_Flags_Discovery_Kingdom) 
+
+Wikipedia Commons / Tinned Elk]]></description>
+			<Point>
+				<coordinates>-122.233576,38.140365,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Megafobia</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/60241254.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Megafobia_(roller_coaster) 
+
+Panoramio / Kate Joy]]></description>
+			<Point>
+				<coordinates>-4.806068,51.781067,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Millennium Force</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/40642392.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Millennium_Force)
+
+Panoramio / Eric Marshall]]></description>
+			<Point>
+				<coordinates>-82.687075,41.481624,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mind Bender </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Mind_Bender_%28Six_Flags_Over_Georgia%29_04.jpg/250px-Mind_Bender_%28Six_Flags_Over_Georgia%29_04.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mind_Bender_(Six_Flags_Over_Georgia) 
+
+Wikipedia Commons / hagerman]]></description>
+			<Point>
+				<coordinates>-84.547013,33.770512000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mind Eraser  Six Flags New England</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/SFA-Mind_Eraser_2.jpg/800px-SFA-Mind_Eraser_2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mind_Eraser)
+
+Wikipedia Commons / Hagerman]]></description>
+			<Point>
+				<coordinates>-72.61199,42.036234,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mine Train Coaster</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/40011519.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/4337.htm)
+
+Panoramio / Duyi Han]]></description>
+			<Point>
+				<coordinates>121.20999899999998,31.098198,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Mini Mine Train Six Flags Over Texas</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/SFOT-Mini_Mine_Train.jpg/800px-SFOT-Mini_Mine_Train.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mini_Mine_Train)
+
+Wikipedia Commons / Chris Hagerman]]></description>
+			<Point>
+				<coordinates>-97.068138,32.758191,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Montezum</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/7/7b/Montezum.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Montezum)
+
+Wikipedia Commons / Heitor Carvalho Jorge]]></description>
+			<Point>
+				<coordinates>-47.010926,-23.098682,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mr. Freeze</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Mr._Freeze%2C_Six_Flags_St._Louis.jpg/450px-Mr._Freeze%2C_Six_Flags_St._Louis.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipediia (http://en.wikipedia.org/wiki/Mr._Freeze_(roller_coaster) 
+
+Wikipedia Commons / Andre Engels]]></description>
+			<Point>
+				<coordinates>-90.6775,38.514722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mystery Mine</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/95216739.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mystery_Mine)
+
+Panoramio / Adam Elmquist]]></description>
+			<Point>
+				<coordinates>-83.530059,35.795583,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Ninja Six Flags St. Louis</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/SFSL-Ninja.jpg/800px-SFSL-Ninja.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/The_Ninja_(roller_coaster) 
+
+Wikipedia Commons / Hagerman]]></description>
+			<Point>
+				<coordinates>-90.673846,38.51494300000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Ninja Sixs Flags Over Georgia</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Ninja_%28Six_Flags_Over_Georgia%29_02.jpg/800px-Ninja_%28Six_Flags_Over_Georgia%29_02.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Ninja_(Six_Flags_Over_Georgia) 
+
+Wikipedia Commons / hagerman]]></description>
+			<Point>
+				<coordinates>-84.550288,33.765774,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Nitro Six Flags Great Adventure</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Nitro_coaster.jpg/800px-Nitro_coaster.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Nitro_(roller_coaster)
+
+Wikipedia Commons /   Dusso Janladde]]></description>
+			<Point>
+				<coordinates>-74.444615,40.135767,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Over Water Roller Coaster</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/10415507.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/2980.htm)
+
+Panoramio / hihififi]]></description>
+			<Point>
+				<coordinates>114.0262571,22.5501303,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pandemonium Six Flags New England</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Pandemonium%2C_Six_Flags_New_England.jpg/800px-Pandemonium%2C_Six_Flags_New_England.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pandemonium_(roller_coaster) 
+
+Wikipedia Commons / Rene Schwietzke]]></description>
+			<Point>
+				<coordinates>-72.614572,42.040749,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pandemonium Six Flags Over Texas</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pandemonium_(roller_coaster) ]]></description>
+			<Point>
+				<coordinates>-97.068125,32.757083,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pandemonium Six Flags Fiesta Texas</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Big_Spin_%28Six_Flags_Fiesta_Texas%29.jpg/800px-Big_Spin_%28Six_Flags_Fiesta_Texas%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pandemonium_(roller_coaster) 
+
+Wikipedia Commons / Pooleyusk ]]></description>
+			<Point>
+				<coordinates>-98.607268,29.595155999999996,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Phantom's Revenge</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/94702384.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Phantom%27s_Revenge)
+
+Panoramio / thewatsons]]></description>
+			<Point>
+				<coordinates>-79.86619900000001,40.388241400000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Poltergeist </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Poltergeist.jpg/800px-Poltergeist.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Poltergeist_(roller_coaster) 
+
+Wikipedia Commons / Andre Engels]]></description>
+			<Point>
+				<coordinates>-98.608003,29.596818,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Possessed</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Possessed_%28Back_1%29.jpg/450px-Possessed_%28Back_1%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Possessed_(roller_coaster) 
+
+Wikipedia Commons / Coasterman1234 ]]></description>
+			<Point>
+				<coordinates>-75.5341251,40.5805201,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pteranodon Flyers</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Universal-Islands-of-Adventure-Pteranodon-Flyer-9212.jpg/800px-Universal-Islands-of-Adventure-Pteranodon-Flyer-9212.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Islands_of_Adventure)
+
+Wikipedia Commons / Loadmaster]]></description>
+			<Point>
+				<coordinates>-81.472563,28.470231,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Rage</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Adventure-Island_Rage-1.jpg/800px-Adventure-Island_Rage-1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Rage_(Adventure_island)#Roller_coasters)
+
+Wikipedia Commons / Stefan Scheer]]></description>
+			<Point>
+				<coordinates>0.71759,51.532845,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Raptor</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Raptor_05.JPG/800px-Raptor_05.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Raptor_(Cedar_Point) 
+
+Wikipedia Commons / Coasterman1234]]></description>
+			<Point>
+				<coordinates>-82.681437,41.479466,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Rebel Yell</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/19541587.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Rebel_Yell_(roller_coaster) 
+
+Panoramio / LakeCharlesGuy]]></description>
+			<Point>
+				<coordinates>-77.442246,37.836869,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Revolution</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Revolution_(roller_coaster) ]]></description>
+			<Point>
+				<coordinates>-118.59657220000001,34.4218711,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>ring°racer</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/N%C3%BCrburgring_ring%C2%B0racer.jpg/250px-N%C3%BCrburgring_ring%C2%B0racer.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Ring%C2%B0racer)
+
+Wikipedia Commons / Pitlane02]]></description>
+			<Point>
+				<coordinates>6.943276900000001,50.3321355,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>River King Mine Train</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/River_King_Mine_Train)]]></description>
+			<Point>
+				<coordinates>-90.6733975,38.51539830000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Roar at Six Flags Discovery Kingdom</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/21240714.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+http://en.wikipedia.org/wiki/Roar_(roller_coaster)
+
+Panoramio / Tony Jahguar]]></description>
+			<Point>
+				<coordinates>-122.23170340000001,38.1382741,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Roar at Six Flags America</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Roar_(roller_coaster) ]]></description>
+			<Point>
+				<coordinates>-76.775993,38.907591,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Road Runner Express</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Road_Runner_Express_(Six_Flags_Fiesta_Texas) ]]></description>
+			<Point>
+				<coordinates>-98.61278,29.598956000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Roller Coaster</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/10359.htm)]]></description>
+			<Point>
+				<coordinates>114.13734400000001,22.600273,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Roller Coaster at Dream Park</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/80162075.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/1348.htm)
+
+Panoramio / RAAFAT TAWFEEQ]]></description>
+			<Point>
+				<coordinates>31.061933,29.965940000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Roller Coaster at Fantasy Kingdom</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/47005591.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/1729.htm)
+
+Panoramio / jahirul islam sujun]]></description>
+			<Point>
+				<coordinates>90.291886,23.934609,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Rolling Thunder</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Rolling_Thunder_(roller_coaster) ]]></description>
+			<Point>
+				<coordinates>-74.434208,40.139388000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Runaway Mine Train</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/24194487.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Runaway_Mine_Train_(Six_Flags_Great_Adventure) 
+
+Panoramio / mmatheus5]]></description>
+			<Point>
+				<coordinates>-74.435554,40.13728,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Saw – The Ride</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/EF_Thorpe_Park.jpg/504px-EF_Thorpe_Park.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Saw_%E2%80%93_The_Ride)
+
+Wikipedia Commons / Dr Player]]></description>
+			<Point>
+				<coordinates>-0.5119050000000002,51.402623,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Scream!</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Scream_lift_hill_and_vertical_loop.jpg/800px-Scream_lift_hill_and_vertical_loop.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Scream!_(roller_coaster) 
+
+Wikipedia Commons / Jeremy Thompson]]></description>
+			<Point>
+				<coordinates>-118.598333,34.428611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Scorpion</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Scorpion_%28Busch_Gardens_Africa%29_02.jpg/800px-Scorpion_%28Busch_Gardens_Africa%29_02.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Scorpion_(roller_coaster) 
+
+Wikipedia Commons / Carl F]]></description>
+			<Point>
+				<coordinates>-82.423344,28.037571,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Shambhala: Expedición al Himalaya</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/d/d8/Shambala_%26_Dragon_Khan2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Shambhala:_Expedici%C3%B3n_al_Himalaya)
+
+Wikipedia Commons / Christophe95]]></description>
+			<Point>
+				<coordinates>1.161214,41.087139,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>SheiKra</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/8241280.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SheiKra)
+
+Panoramio / Robert Lam]]></description>
+			<Point>
+				<coordinates>-82.424444,28.036667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Shivering Timbers</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/MichiganAventure_ShiveringTimbers_Dscn8247.jpg/800px-MichiganAventure_ShiveringTimbers_Dscn8247.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Shivering_Timbers)
+
+Wikipedia Commons / Larry Pieniazek]]></description>
+			<Point>
+				<coordinates>-86.276111,43.342222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Shockwave</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/55237717.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Shockwave_(Kings_Dominion) 
+
+Panoramio / dschmitz]]></description>
+			<Point>
+				<coordinates>-77.444319,37.838752,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Shockwave</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/30764232.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Shock_Wave_(Six_Flags_Over_Texas) 
+
+Panoramio / jrlg30]]></description>
+			<Point>
+				<coordinates>-97.070338,32.758755,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Silver Star</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Silverstar_firstdrop.jpg/800px-Silverstar_firstdrop.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Silver_Star_(roller_coaster) 
+
+Wikipedia Commons / Thomaswm]]></description>
+			<Point>
+				<coordinates>7.719788999999999,48.268326,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Looping Coaster in Happy Valley</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/11500021.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Panoramio / Ken Zhao]]></description>
+			<Point>
+				<coordinates>113.976567,22.547775,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Speed: No Limits</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/31276967.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Speed:_No_Limits)
+
+Panoramio / SBC1911]]></description>
+			<Point>
+				<coordinates>-4.806969,51.779092,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Stampida</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Stampida_lift_hill.JPG/800px-Stampida_lift_hill.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Stampida)
+
+Wikipedia Commons / Christophe Badoux]]></description>
+			<Point>
+				<coordinates>1.15658,41.0904,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Steel Force</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/1373823.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Steel_Force)
+
+Panoramio / Mate J Horvath]]></description>
+			<Point>
+				<coordinates>-75.5386124,40.5787857,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-F4EB37</styleUrl>
+			<name>Steel Dragon 2000 (the longest steel coaster)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Steel_dragon_2000.jpg/790px-Steel_dragon_2000.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Steel_Dragon_2000)
+
+Wikipedia Commons / Ivan Lucas]]></description>
+			<Point>
+				<coordinates>136.729188,35.031007,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Steel Hawg</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Steel_Hawg_28.jpg/800px-Steel_Hawg_28.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Steel_Hawg)
+
+Wikipedia Commons / Jeremy Thompson]]></description>
+			<Point>
+				<coordinates>-86.771843,40.790911,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Stinger</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/74763307.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Stinger_(roller_coaster) 
+
+Panoramio / Joel Rogers]]></description>
+			<Point>
+				<coordinates>-75.536692,40.577965,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Storm Runner</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/13332258.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Storm_Runner)
+
+Panoramio / jrranger]]></description>
+			<Point>
+				<coordinates>-76.6529458,40.2898775,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Super Train</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/25416685.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/3894.htm)
+ 
+Panoramio / abcdz2000]]></description>
+			<Point>
+				<coordinates>50.568346,26.221544,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Superman el Último Escape</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/2839986.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Superman_el_%C3%9Altimo_Escape)
+
+Panoramio / rodrigomartinez]]></description>
+			<Point>
+				<coordinates>-99.206001,19.295666,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Superman: Escape from Krypton</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Superman_Escape_from_Krypton.jpg/450px-Superman_Escape_from_Krypton.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Superman:_Escape_from_Krypton)
+
+Wikipedia Commons / Astros4477]]></description>
+			<Point>
+				<coordinates>-118.598018,34.425919,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-F4EB37</styleUrl>
+			<name>Superman: Krypton Coaster (tallest vertical loops)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/58294351.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Boomerang:_Coast_to_Coaster)
+
+Panoramio / Joel Rogers]]></description>
+			<Point>
+				<coordinates>-98.611339,29.595707,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Superman: La Atracción de Acero</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/29_La_espectacular_monta%C3%B1a_rusa_de_Superman.jpg/800px-29_La_espectacular_monta%C3%B1a_rusa_de_Superman.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Superman:_La_Atracci%C3%B3n_de_Acero)
+
+Wikipedia Commons / Miguel303xm]]></description>
+			<Point>
+				<coordinates>-3.5906159999999994,40.227724,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Superman – Ride of Steel</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Superman_-_Ride_of_Steel_%28Six_Flags_America%29_01.jpg/800px-Superman_-_Ride_of_Steel_%28Six_Flags_America%29_01.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Superman_-_Ride_of_Steel)
+
+Wikipedia Commons / Coasterman1234]]></description>
+			<Point>
+				<coordinates>-76.776946,38.908642,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Superman: Ultimate Flight, Six Flags Over Georgia</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/38564090.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Superman:_Ultimate_Flight)
+
+Panoramio / blown428]]></description>
+			<Point>
+				<coordinates>-84.552299,33.766015,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Superman: Ultimate Flight Six Flags Great Adventure</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/41116958.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Superman:_Ultimate_Flight)
+
+Panoramio / bighandking]]></description>
+			<Point>
+				<coordinates>-74.439631,40.139819,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F9F7A6</styleUrl>
+			<name>Superman: Ultimate Flight, Six Flags Great America</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Superman_Ultimate_Flight_at_Six_Flags_Great_America_14.jpg/800px-Superman_Ultimate_Flight_at_Six_Flags_Great_America_14.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Superman:_Ultimate_Flight_(Six_Flags_Discovery_Kingdom) ]]></description>
+			<Point>
+				<coordinates>-122.231042,38.138648,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>T Express (the steepest wood coaster) at Everland</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/86501082.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/T_Express)
+
+Panoramio / 蒂芙尼.林]]></description>
+			<Point>
+				<coordinates>127.20365000000001,37.290238,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-F4EB37</styleUrl>
+			<name>Takabisha (the steepest steel coaster)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Takabisha_roller_coaster.jpg/800px-Takabisha_roller_coaster.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Takabisha)
+
+Wikipedia Commons / Alex Brogan]]></description>
+			<Point>
+				<coordinates>138.779958,35.48534,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Talon</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/74763374.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Talon_(roller_coaster) 
+
+Panoramio / Joel Rogers]]></description>
+			<Point>
+				<coordinates>-75.530099,40.578817,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Tatsu</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Six_Flags_Magic_Mountain_Tatsu2.jpg/800px-Six_Flags_Magic_Mountain_Tatsu2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Tatsu)
+
+Wikipedia Commons / Jeff Turner]]></description>
+			<Point>
+				<coordinates>-118.59749999999998,34.421944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Tennessee Tornado</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/642722.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Tennessee_Tornado)
+
+Panoramio / dollyfanjoie]]></description>
+			<Point>
+				<coordinates>-83.52791000000002,35.79298,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-CDDC39</styleUrl>
+			<name>Texas Giant, Six Flags Over Texas</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/53124550.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Texas_Giant)
+
+Panoramio / Maher Baraket]]></description>
+			<Point>
+				<coordinates>-97.073248,32.756666,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Tree Tops</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Oakwood_Theme_Park)]]></description>
+			<Point>
+				<coordinates>-4.808241,51.779972,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>The Beast (the longest wood coaster)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/31095787.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/The_Beast_(roller_coaster) 
+
+
+Panoramio / tycoonrebel7188]]></description>
+			<Point>
+				<coordinates>-84.2641421,39.3385226,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>The Boss</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Boss_-_Six_Flags_St._Louis.jpg/800px-The_Boss_-_Six_Flags_St._Louis.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/The_Boss_(roller_coaster) 
+
+Wikipedia Commons / Andre Engels]]></description>
+			<Point>
+				<coordinates>-90.679288,38.51604,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>The Flying Ace Aerial Chase</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/PKI-Rugrat%27s_Runaway_Reptar.jpg/250px-PKI-Rugrat%27s_Runaway_Reptar.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Flying_Ace_Aerial_Chase)
+
+Wikipedia Commons / Chris Hagerman]]></description>
+			<Point>
+				<coordinates>-84.269128,39.342011,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>The Incredible Hulk</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/75345001.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Incredible_Hulk_Coaster)
+
+Panoramio / aka4ajax]]></description>
+			<Point>
+				<coordinates>-81.468369,28.471198,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>The Joker's Jinx</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/SFA-Joker%27s_Jinx.jpg/800px-SFA-Joker%27s_Jinx.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/The_Joker%27s_Jinx)
+
+Wikipedia Commons / Chris Hagerman]]></description>
+			<Point>
+				<coordinates>-76.775969,38.909982,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>The Mind Eraser</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/SFA-Mind_Eraser_2.jpg/800px-SFA-Mind_Eraser_2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mind_Eraser)
+
+Wikipedia Commons / Hagerman]]></description>
+			<Point>
+				<coordinates>-76.776023,38.906284,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>The Racer</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/5/51/The_racer_first_drop.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/The_Racer_(Kings_Island) 
+
+Wikipedia Commons / Rcfreak339]]></description>
+			<Point>
+				<coordinates>-84.26437,39.343198,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>The Ultimate</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/24/UltimateLifthills.jpg/800px-UltimateLifthills.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/The_Ultimate_(roller_coaster) 
+
+Wikipedia Commons / Stefan Scheer]]></description>
+			<Point>
+				<coordinates>-1.56987,54.173815,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>The Voyage</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/TheVoyage_From_LiftHill.jpg/300px-TheVoyage_From_LiftHill.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/The_Voyage_(roller_coaster)
+
+Wikipedia Commons / Holiday World & Splashin' Safari]]></description>
+			<Point>
+				<coordinates>-86.91491200000002,38.120576,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>The Wild One</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/The_Wild_One2.jpg/220px-The_Wild_One2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/The_Wild_One_(roller_coaster) 
+
+Wikipedia Commons / John Athayde]]></description>
+			<Point>
+				<coordinates>-76.772906,38.909446,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Thunderbolt</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/77788783.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Thunderbolt_(Six_Flags_New_England) 
+
+Panoramio / Joel Rogers]]></description>
+			<Point>
+				<coordinates>-72.613331,42.038457,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Thunderhead</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Thunderhead_%28Dollywood%29_03.JPG/800px-Thunderhead_%28Dollywood%29_03.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Thunderhead_(roller_coaster) 
+
+Wikipedia Commons / Coasterman1234]]></description>
+			<Point>
+				<coordinates>-83.532159,35.796655,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Thunder Dolphin</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/6365007.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Thunder_Dolphin)
+
+Panoramio / cortez71]]></description>
+			<Point>
+				<coordinates>139.753089,35.706434,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Thunderhawk </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/74763289.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Thunderhawk_(Dorney_Park) 
+
+Panoramio / Joel Rogers]]></description>
+			<Point>
+				<coordinates>-75.5364026,40.5789698,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Titan</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/53163410.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Titan_(roller_coaster) 
+
+Panoramio / Maher Baraket]]></description>
+			<Point>
+				<coordinates>-97.074836,32.755475,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Tonnerre de Zeus</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/24638238.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Tonnerre_de_Zeus)
+
+Panoramio / E-Den]]></description>
+			<Point>
+				<coordinates>2.574111,49.130791,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Top Thrill Dragster</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/38649685.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Top_Thrill_Dragster)
+
+Panoramio / TheKeeper]]></description>
+			<Point>
+				<coordinates>-82.686351,41.483927,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Tower of Terror II</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Tower_of_Terror_II)]]></description>
+			<Point>
+				<coordinates>153.317162,-27.863666,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Trailblazer</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/92793280.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Trailblazer_(roller_coaster) 
+
+Panoramio / Adam Elmquist]]></description>
+			<Point>
+				<coordinates>-76.65290290000002,40.2887947,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>V2: Vertical Velocity</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/3153734.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/V2:_Vertical_Velocity)
+
+Panoramio / RCMTHEii]]></description>
+			<Point>
+				<coordinates>-122.2330126,38.1388408,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Vesuvius Volcano</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/10331868.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/4133.htm)
+
+Panoramio / fenghuanghua41]]></description>
+			<Point>
+				<coordinates>118.37495200000001,31.378052,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Viktor Vandirm</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/78578084.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/BonBon-Land#Roller_Coasters)
+
+Panoramio / nicklasch]]></description>
+			<Point>
+				<coordinates>11.86488,55.262071,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Viper</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/1356447.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Viper_(Six_Flags_Magic_Mountain) 
+
+Panoramio / Migrate Design]]></description>
+			<Point>
+				<coordinates>-118.59529350000001,34.4211497,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Volcano, The Blast Coaster</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Volcano%2C_The_Blast_Coaster_%28Kings_Dominion%29_02.jpg/800px-Volcano%2C_The_Blast_Coaster_%28Kings_Dominion%29_02.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Volcano,_The_Blast_Coaster)
+
+Wikipedia Commons / Coasterman1234]]></description>
+			<Point>
+				<coordinates>-77.440167,37.839361,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Vortex</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Pki-vortex-aerial.jpg/800px-Pki-vortex-aerial.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Vortex_(Kings_Island) 
+
+Wikipedia Commons / WillMcC]]></description>
+			<Point>
+				<coordinates>-84.2643,39.340814,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>White Cyclone</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/WhiteCyclone.jpg/800px-WhiteCyclone.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/White_Cyclone)
+
+Wikipedia Commons / Janma]]></description>
+			<Point>
+				<coordinates>136.735003,35.02994400000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Whirl Wind Looping Coaster</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/88103348.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/2510.htm)
+
+Panoramio / murr]]></description>
+			<Point>
+				<coordinates>30.252664999999997,59.973097,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Wicked Twister</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/37467506.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Wicked_Twister)
+
+Panoramio / J.H.Schaffer]]></description>
+			<Point>
+				<coordinates>-82.6800273,41.482227,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Wild Boar (Vild-Svinet)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Vildsvinet_%28BonBon-Land%29.jpg/800px-Vildsvinet_%28BonBon-Land%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/BonBon-Land#Roller_Coasters)
+
+Wikipedia Commons / Martin Lewison]]></description>
+			<Point>
+				<coordinates>11.863598,55.260917,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Wildcat</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Wildcat_%28Lift%2C_Drop_and_Turn%29.JPG/800px-Wildcat_%28Lift%2C_Drop_and_Turn%29.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Wildcat_(Hersheypark) 
+
+Wikipedia Commons / Coasterman1234]]></description>
+			<Point>
+				<coordinates>-76.655833,40.2925,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Wild Eagle</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Wild_Eagle_Partial_Layout.jpg/800px-Wild_Eagle_Partial_Layout.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Wild_Eagle)
+
+Wikipedia Commons / Whitewolf Photography ]]></description>
+			<Point>
+				<coordinates>-83.53012700000001,35.794675,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Wodan Timbur Coaster</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wodan_et_Whale_Adventures.JPG/800px-Wodan_et_Whale_Adventures.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Wodan_Timbur_Coaster)
+
+Wikipedia Commons / AS]]></description>
+			<Point>
+				<coordinates>7.719167,48.261389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Wooden Coaster - Fireball</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/51125782.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/4150.htm)
+
+Panoramio / kongrui2008]]></description>
+			<Point>
+				<coordinates>121.212673,31.098512,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Woodstock Express</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fairly_Odd_Coaster_overhead.jpg/800px-Fairly_Odd_Coaster_overhead.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Woodstock_Express_(Kings_Island) 
+
+Wikipedia Commons / Andy B]]></description>
+			<Point>
+				<coordinates>-84.269498,39.343217,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Wood Coasters Knight Valley</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/77590575.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/9039.htm)
+
+Panoramio / Fancyui Lee]]></description>
+			<Point>
+				<coordinates>114.29689,22.615076,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Wacky Worm</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/4490.htm)]]></description>
+			<Point>
+				<coordinates>-17.463945,14.676038000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>X2</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/907545.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/X%C2%B2_(roller_coaster) 
+
+Panoramio / tlist]]></description>
+			<Point>
+				<coordinates>-118.59288499999998,34.421005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Yankee Cannonball</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/91271866.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Yankee_Cannonball)
+
+Panoramio / Alex Kopteros]]></description>
+			<Point>
+				<coordinates>-71.247255,42.79443,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Zyklon / Galaxi</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/1548.htm)]]></description>
+			<Point>
+				<coordinates>32.494696,15.613016,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>The Banshee</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Banshee_%28roller_coaster%29.jpg/250px-Banshee_%28roller_coaster%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+http://en.wikipedia.org/wiki/Banshee_(roller_coaster)
+
+Wikipedia Commons / Oldiesmann]]></description>
+			<Point>
+				<coordinates>-84.2639593,39.3459736,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other maps of historic events</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>-33.75,36.879621,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>View this map in Google Earth</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Non-Networked Google Earth KML file:                     (https://docs.google.com/file/d/0B52hHMRyBvEscWswYmVQNVZGMUU/edit) ]]></description>
+			<Point>
+				<coordinates>-58.35937500000001,36.0313318,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mind Eraser Darien Lake</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/SFA-Mind_Eraser_2.jpg/800px-SFA-Mind_Eraser_2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mind_Eraser)Wikipedia Commons / Hagerman]]></description>
+			<Point>
+				<coordinates>-78.382924,42.926161,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mind Eraser Elitch Gardens</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mind_Eraser)
+
+Wikipedia Commons / Hagerman]]></description>
+			<Point>
+				<coordinates>-105.01373899999999,39.749589,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Mini Mine Train  Six Flags Over Georgia</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/SFOT-Mini_Mine_Train.jpg/800px-SFOT-Mini_Mine_Train.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mini_Mine_Train)Wikipedia Commons / Chris Hagerman]]></description>
+			<Point>
+				<coordinates>-84.55185799999998,33.767904,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Screamin Eagle,  Six Flags St. Louis</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/2770490.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia http://en.wikipedia.org/wiki/Screamin%27_Eagle
+
+Panoramio / hairyboy]]></description>
+			<Point>
+				<coordinates>-90.6740928,38.5168607,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pandemonium Six Flags St. Louis</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://en.wikipedia.org/wiki/Pandemonium_(roller_coaster)]]></description>
+			<Point>
+				<coordinates>-90.6748894,38.5165711,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Thunderbolt, Kennywood</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/13300369.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia 
+http://en.wikipedia.org/wiki/Thunderbolt_(Kennywood)
+
+Panoramio / jslim39]]></description>
+			<Point>
+				<coordinates>-79.8645759,40.388785,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Snow Mountain Flying Dragon in Happy Valley</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/25470779.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Rollercoaster database (http://rcdb.com/1681.htm)
+
+Panoramio / 烏湖人]]></description>
+			<Point>
+				<coordinates>113.9776826,22.5469546,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mine Tub in Happy Valley</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/21421058.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Panoramio / qinchunyu]]></description>
+			<Point>
+				<coordinates>113.97568170000001,22.5447474,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Verigo - Skycoaster</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/7/77/Oakwood_Theme_Park%2C_Vertigo_-_geograph.org.uk_-_924085.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipediahttp://en.wikipedia.org/wiki/Oakwood_Theme_Park
+
+ Wikipedia Commons / Ed Andrews]]></description>
+			<Point>
+				<coordinates>-4.8040375,51.7796418,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hydro (Drenched)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/34237154.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Panoramio / filz123]]></description>
+			<Point>
+				<coordinates>-4.8009208,51.7791456,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Comet (Hersheypark)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/b/b2/Comet_008.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+http://en.wikipedia.org/wiki/Comet_(Hersheypark)
+
+Panoramio / Son]]></description>
+			<Point>
+				<coordinates>-76.6556172,40.2864805,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Skyrush</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/100482708.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+http://en.wikipedia.org/wiki/Skyrush
+
+Panoramio / Predador]]></description>
+			<Point>
+				<coordinates>-76.6564661,40.285878,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>SooperDooperLooper</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/3447550.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+http://en.wikipedia.org/wiki/SooperDooperLooper
+
+Panoramio / thresher]]></description>
+			<Point>
+				<coordinates>-76.6551049,40.286325,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Fahrenheit</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/79821593.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+http://en.wikipedia.org/wiki/Fahrenheit_(roller_coaster)
+
+Panoramio / Sridhar Saraf]]></description>
+			<Point>
+				<coordinates>-76.6553986,40.29063180000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Manta  </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/95434194.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+http://en.wikipedia.org/wiki/Manta_(SeaWorld_Orlando)
+
+Panoramio / JoshJett]]></description>
+			<Point>
+				<coordinates>-81.4611822,28.4123326,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Wild Beast </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+http://en.wikipedia.org/wiki/Wild_Beast_(roller_coaster)]]></description>
+			<Point>
+				<coordinates>-79.544422,43.8454845,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Behemoth</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Behemoth4.JPG/800px-Behemoth4.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+http://en.wikipedia.org/wiki/Behemoth_(roller_coaster)
+
+Wikipedia Commons / Kotsy]]></description>
+			<Point>
+				<coordinates>-79.5390522,43.838582,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Vortex</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/13463275.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+http://en.wikipedia.org/wiki/Vortex_(Canada%27s_Wonderland)
+
+Panoramio / e-fox]]></description>
+			<Point>
+				<coordinates>-79.5431185,43.8420565,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>The Fly</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/10767065.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia:
+http://en.wikipedia.org/wiki/Canada%27s_Wonderland#International_Festival
+
+Panoramio / Eric Marshall]]></description>
+			<Point>
+				<coordinates>-79.5435852,43.8428265,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>The Bat</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/95316186.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+http://en.wikipedia.org/wiki/Canada%27s_Wonderland#Medieval_Faire
+Panoramio / Dale Roddick]]></description>
+			<Point>
+				<coordinates>-79.5431238,43.8436815,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>The Mighty Canadian Minebuster</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Minebuster.jpg/800px-Minebuster.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+http://en.wikipedia.org/wiki/Mighty_Canadian_Minebuster
+
+Wikipedia Commons / Mike chernucha]]></description>
+			<Point>
+				<coordinates>-79.5425177,43.83864390000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Green Lantern</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/62693331.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+http://en.wikipedia.org/wiki/Green_Lantern_(Six_Flags_Great_Adventure)
+
+Panoramio /tkraptor]]></description>
+			<Point>
+				<coordinates>-74.4376945,40.1391135,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Batman: The Ride Six Flags Mexico</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/800394.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Panoramio / miguel caro]]></description>
+			<Point>
+				<coordinates>-99.2067522,19.2950967,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Medusa Six Flags Mexico</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/56409238.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Panoramio / Leo.08]]></description>
+			<Point>
+				<coordinates>-99.2112637,19.2946283,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Unknown Roller Coaster at Everland </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/98958903.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Panoramio / quanphe ngoduc]]></description>
+			<Point>
+				<coordinates>127.2010696,37.2931401,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Screaming Squirrel</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/20233948.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[http://rcdb.com/3408.htm
+
+Panoramio / Paparazzi Stas]]></description>
+			<Point>
+				<coordinates>30.252496000000004,59.9722731,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Big Roller Coaster</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/13069697.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[http://rcdb.com/2867.htm
+
+Panoramio / santos08]]></description>
+			<Point>
+				<coordinates>30.2510154,59.973070400000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>The Smiler</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/The_Smiler_on_opening_day.jpg/800px-The_Smiler_on_opening_day.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-1.8952777777777783,52.98722222222222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1161'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1161-crisis-landslide.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-CDDC39'>
+			<IconStyle>
+				<color>ff39DCCD</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F9F7A6'>
+			<IconStyle>
+				<color>ffA6F7F9</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-960-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-960-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

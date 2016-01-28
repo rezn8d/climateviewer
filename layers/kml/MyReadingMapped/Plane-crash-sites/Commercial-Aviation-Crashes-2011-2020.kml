@@ -1,0 +1,1526 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps on History</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>155.742188,31.653381,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1037</styleUrl>
+			<name>More Commercial Aviation Crash Maps</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[90 years of Commercial Aviation Crash Site maps. (http://myreadingmapped.blogspot.com/2011/01/airplane-and-train-crash-maps.html)]]></description>
+			<Point>
+				<coordinates>-37.96875,28.613459,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Kolavia Flight 348 - 1/1/2011</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Kolavia_Tupolev_Tu-154B-2_Osokin.jpg/800px-Kolavia_Tupolev_Tu-154B-2_Osokin.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Kolavia_Flight_348)
+
+Wikipedia Commons / Gleb Osokin]]></description>
+			<Point>
+				<coordinates>73.402778,61.341667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Iran Air Flight 277 - 1/9/2011</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/EP-IRP_Botov.jpg/800px-EP-IRP_Botov.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Iran_Air_Flight_277)
+
+Wikipedia Commons / Bss001-1]]></description>
+			<Point>
+				<coordinates>45.163333,37.620833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Manx2 Flight 7100 - 2/10/2011</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Fairchild_Metro_EC-ITP.jpg/800px-Fairchild_Metro_EC-ITP.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Manx2_Flight_7100)
+
+Wikipedia Commons / Mean as custard]]></description>
+			<Point>
+				<coordinates>-8.491111,51.841389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Central American Airways Flight 731 - 2/14/2011</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Central_American_Airways_Let_L-410_OJEV-1.jpg/800px-Central_American_Airways_Let_L-410_OJEV-1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Central_American_Airways_Flight_731)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record.php?id=20110214-0)
+
+Wikipedia Commons / Oscar Josue Elvir Vasquez]]></description>
+			<Point>
+				<coordinates>-87.883844,14.116433,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Pointe-Noire Trans Air Congo An-12 crash - 3/21/2011</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Trans_Air_Congo_Antonov_An-12_Lebeda-1.jpg/800px-Trans_Air_Congo_Antonov_An-12_Lebeda-1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/2011_Pointe-Noire_Trans_Air_Congo_An-12_crash)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record.php?id=20110321-0)
+
+Wikipedia Commons / Alan Lebeda]]></description>
+			<Point>
+				<coordinates>11.879482,-4.784212,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>United Nations Bombardier CRJ-100 crash - 4/4/2011</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Canadair_CL-600-2B19_Regional_Jet_CRJ-100ER_-_Air_France_%28Brit_Air%29_-_F-GRJB_-_LEMD.jpg/800px-Canadair_CL-600-2B19_Regional_Jet_CRJ-100ER_-_Air_France_%28Brit_Air%29_-_F-GRJB_-_LEMD.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/2011_United_Nations_Bombardier_CRJ-100_crash)
+
+Wikipedia Commons / w:es:Usuario:Barcex]]></description>
+			<Point>
+				<coordinates>15.452141999999998,-4.380901,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Merpati Nusantara Airlines Flight 8968 - 5/7/2011</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/9/9d/PK-MZJ-MA60.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Merpati_Nusantara_Airlines_Flight_8968)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>133.6975,-3.6311110000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Sol Líneas Aéreas Flight 5428 - 5/18/2011</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Sol_bew.jpg/800px-Sol_bew.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Sol_L%C3%ADneas_A%C3%A9reas_Flight_5428)
+
+Wikipedia Commons / Matias 18]]></description>
+			<Point>
+				<coordinates>-67.9425,-41.1019,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>RusAir Flight 9605 - 6/20/2011</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RusAir_Tupolev_Tu-134.jpg/800px-RusAir_Tupolev_Tu-134.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/RusAir_Flight_9605)
+
+Wikipedia Commons / Yevgeny Pashnin]]></description>
+			<Point>
+				<coordinates>34.148158,61.868072000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>2011 Silk Way Airlines Ilyushin Il-76 crash - 7/6/2011</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Silk_Way_Airlines_Il-76TD_4K-AZ55_FRU_May_2007.png/800px-Silk_Way_Airlines_Il-76TD_4K-AZ55_FRU_May_2007.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/2011_Silk_Way_Airlines_Ilyushin_Il-76_crash)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record.php?id=20110706-0)
+
+Wikipedia Commons / Dmitriy Pichugin]]></description>
+			<Point>
+				<coordinates>69.367161,35.176755,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Hewa Bora Airways Flight 952 - 7/8/2011</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hewa_Bora_Airways_Boeing_727-22_Potters-1.jpg/800px-Hewa_Bora_Airways_Boeing_727-22_Potters-1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Hewa_Bora_Airways_Flight_952)
+
+Wikipedia Commons / Guido Potters]]></description>
+			<Point>
+				<coordinates>25.37,0.46944400000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Angara Airlines Flight 5007 - 7/11/2011</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Angara_Airlines_Antonov_An-24RV_Osokin_Feb_2011.jpg/800px-Angara_Airlines_Antonov_An-24RV_Osokin_Feb_2011.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Angara_Airlines_Flight_5007)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record.php?id=20110711-0)
+
+Wikipedia Commons / Gleb Osokin]]></description>
+			<Point>
+				<coordinates>77.593689,60.662415,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Noar Linhas Aéreas Flight 4896 - 7/13/2011</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/39/NOAR_em_Natal.jpg/800px-NOAR_em_Natal.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Noar_Linhas_A%C3%A9reas_Flight_4896)
+
+Wikipedia Commons / Luan David]]></description>
+			<Point>
+				<coordinates>-34.909850000000006,-8.152324,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Asiana Airlines Flight 991 - 7/28/2011</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Asiana_Cargo_Boeing_747-400F_HL7604.jpg/800px-Asiana_Cargo_Boeing_747-400F_HL7604.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Asiana_Airlines_Flight_991)
+
+Wikipedia Commons / Rachel K. So]]></description>
+			<Point>
+				<coordinates>124.833333,33.533333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Caribbean Airlines Flight 523 - 7/30/2011</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Caribbean_Airlines_Boeing_737-800_KvW.jpg/800px-Caribbean_Airlines_Boeing_737-800_KvW.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Caribbean_Airlines_Flight_523)
+
+Wikipedia Commons / Konstantin von Wedelstaedt]]></description>
+			<Point>
+				<coordinates>-58.24536,6.507348000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>IrAero Flight 103 - 8/8/2011</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Polet_Antonov_An-24_Pichugin-2.jpg/800px-Polet_Antonov_An-24_Pichugin-2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/IrAero#Accidents)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record.php?id=20110808-0)
+
+Wikipedia Commons / Dmitriy Pichugin]]></description>
+			<Point>
+				<coordinates>127.40947700000001,50.434876,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Avis Amur Antonov An-12 crash - 8/9/2011</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/KnAAPO_Antonov_An-12_Pichugin.jpg/800px-KnAAPO_Antonov_An-12_Pichugin.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/2011_Avis_Amur_Antonov_An-12_crash)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record.php?id=20110809-0)
+
+Wikipedia Commons / Dmitriy Pichugin]]></description>
+			<Point>
+				<coordinates>154.572144,61.995747,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>First Air Flight 6560 - 8/20/2011</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FAB_B732_C-GNWN_at_Cambridge_Bay_Airport.JPG/800px-FAB_B732_C-GNWN_at_Cambridge_Bay_Airport.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/First_Air_Flight_6560)
+
+Wikipedia Commons / CambridgeBayWeather]]></description>
+			<Point>
+				<coordinates>-94.918056,74.718889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Aerocon Flight 238 - 9/6/2011</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Metroliner_identification_removed.jpg/800px-Metroliner_identification_removed.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Aerocon_Flight_238)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record.php?id=20110906-0)
+
+Wikipedia Commons /  Public Domain]]></description>
+			<Point>
+				<coordinates>-64.978981,-14.759860000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Lokomotiv Yaroslavl air disaster - 9/7/2011</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/f/f8/%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%B5%D0%B2_%D0%BD%D0%B0_%D0%BC%D0%B5%D1%81%D1%82%D0%B5_%D0%BA%D1%80%D1%83%D1%88%D0%B5%D0%BD%D0%B8%D1%8F_%D0%AF%D0%BA-42%D0%94.jpeg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/2011_Lokomotiv_Yaroslavl_air_disaster)
+
+Wikipedia Commons / www.kremlin.ru.]]></description>
+			<Point>
+				<coordinates>40.121212,57.55185300000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Buddha Air Flight 103 - 9/25/2012</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Buddha_Air_9N-AGH.jpg/800px-Buddha_Air_9N-AGH.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Buddha_Air_Flight_103)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record.php?id=20110925-0)
+
+Wikipedia Commons / KongFu Wang]]></description>
+			<Point>
+				<coordinates>85.378404,27.624874000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Airlines PNG Flight 1600 - 10/13/2011</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Airlines_PNG_Dash_8_Mt_Hagen_PNG.jpg/800px-Airlines_PNG_Dash_8_Mt_Hagen_PNG.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Airlines_PNG_Flight_1600)
+
+Wikipedia Commons / Jialiang Gao]]></description>
+			<Point>
+				<coordinates>145.688611,-5.371944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Iran Air Flight 742 - 10/18/2011</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2010-06-15_16-22-32_Tabriz_-_Tehran.jpg/800px-2010-06-15_16-22-32_Tabriz_-_Tehran.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Iran_Air_Flight_742)
+
+Wikipedia Commons / Hansueli Krapf]]></description>
+			<Point>
+				<coordinates>51.315765,35.687697,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>LOT Polish Airlines Flight 16 - 11/1/2011</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/PLL_LOT_Boeing_767-300ER_Poznan_2.jpg/800px-PLL_LOT_Boeing_767-300ER_Poznan_2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/LOT_Polish_Airlines_Flight_16)
+
+Wikipedia Commons / Azymut (Rafał M. Socha)]]></description>
+			<Point>
+				<coordinates>20.969939,52.162508,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>UTair Flight 120 - 4/2/2012</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/UTair_Aviation_ATR-72-201_VP-BYZ.jpg/800px-UTair_Aviation_ATR-72-201_VP-BYZ.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/UTair_Flight_120)
+
+Wikipedia Commons / Konstantin Nikiforov]]></description>
+			<Point>
+				<coordinates>65.248056,57.154444,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Bhoja Air Flight 213 - 4/20/2012</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/GAVRM_%288024480136%29.jpg/800px-GAVRM_%288024480136%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Bhoja_Air_Flight_213)
+
+Wikipedia Commons / Paul Nelhams]]></description>
+			<Point>
+				<coordinates>73.148611,33.5875,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Mount Salak Sukhoi Superjet 100 crash - 5/9/2012</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sukhoi_Superjet_97004_at_Naypyidaw_Lystseva-1.jpg/800px-Sukhoi_Superjet_97004_at_Naypyidaw_Lystseva-1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mount_Salak_Sukhoi_Superjet_100_crash)
+
+Wikipedia Commons / Marina Lystseva]]></description>
+			<Point>
+				<coordinates>106.7447,-6.7102,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Agni Air Flight CHT - 5/14/2012</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Agni_Air_aircraft.JPG/800px-Agni_Air_aircraft.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Agni_Air_Flight_CHT)
+
+Wikipedia Commons / Moralist]]></description>
+			<Point>
+				<coordinates>83.721667,28.781111000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Allied Air Flight 111 - 6/2/2012</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Allied_Air_Cargo_Boeing_727-200F_Iwelumo-1.jpg/800px-Allied_Air_Cargo_Boeing_727-200F_Iwelumo-1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Allied_Air_Flight_111)
+
+Wikipedia Commons / Kenneth Iwelumo]]></description>
+			<Point>
+				<coordinates>-0.16104,5.619872,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Dana Air Flight 992 - 6/3/2012</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dana_Air_McDonnell_Douglas_MD-83_%28DC-9-83%29_Iwelumo-1.jpg/800px-Dana_Air_McDonnell_Douglas_MD-83_%28DC-9-83%29_Iwelumo-1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Dana_Air_Flight_992)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record.php?id=20120603-0)
+
+Wikipedia Commons / Kenneth Iwelumo]]></description>
+			<Point>
+				<coordinates>3.310597,6.67211,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>L-410 near Borodyanka airport - 6/10/2012</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Huffington Post:
+5 dead, 15 injured in small plane crash near Kiev (http://www.huffingtonpost.com/huff-wires/20120610/eu-ukraine-plane-crash/)]]></description>
+			<Point>
+				<coordinates>30.052414,50.364299,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Petropavlovsk-Kamchatsky Air Flight 251 - 9/12/2012</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Petropavlovsk-Kamchatsky_Air_Flight_251_crash_site_%28MAK_photo%29.jpg/800px-Petropavlovsk-Kamchatsky_Air_Flight_251_crash_site_%28MAK_photo%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Petropavlovsk-Kamchatsky_Air_Flight_251)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>159.888333,59.081667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Sita Air Flight 601 - 9/28/2012</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sita_air.png/398px-Sita_air.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Sita_Air_Flight_601)
+
+Wikipedia Commons / Brendan Hickey]]></description>
+			<Point>
+				<coordinates>85.356111,27.680556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>1FlyMontserrat Flight 107 - 10/7/2012</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Britten-Norman_BN-2A-26_Islander%2C_Fly_Montserrat_AN2111680.jpg/800px-Britten-Norman_BN-2A-26_Islander%2C_Fly_Montserrat_AN2111680.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/FlyMontserrat_Flight_107)
+
+Wikipedia Commons / Konstantin von Wedelstaedt]]></description>
+			<Point>
+				<coordinates>-61.793732,17.132845,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Aéro-Service Ilyushin Il-76T crash - 11/30/2012</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Aviacon_Zitotrans_Ilyushin_Il-76_MRD-2.jpg/800px-Aviacon_Zitotrans_Ilyushin_Il-76_MRD-2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/2012_A%C3%A9ro-Service_Ilyushin_Il-76T_crash)
+
+Wikipedia Commons / M Radzi Desa]]></description>
+			<Point>
+				<coordinates>15.238225000000002,-4.261834,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Air Bagan Flight 11 - 12/25/2012</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Air_Bagan_Fokker_100_MRD-1.jpg/800px-Air_Bagan_Fokker_100_MRD-1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Air_Bagan_Flight_11)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record.php?id=20121225-0)
+
+Wikipedia Commons / M Radzi Desa]]></description>
+			<Point>
+				<coordinates>96.792426,20.727142,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Red Wings Airlines Flight 9268 - 12/29/2012</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/24/RA-64047.jpg/800px-RA-64047.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Red_Wings_Airlines_Flight_9268)
+
+Wikipedia Commons / bartusekspotter (Bartek Spurek)]]></description>
+			<Point>
+				<coordinates>37.255,55.583889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>SCAT Airlines Flight 760 - 1/29/2013</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/CRJ-200LR_UP-CJ006_%28cn_7413%29_SCAT_Air.jpg/800px-CRJ-200LR_UP-CJ006_%28cn_7413%29_SCAT_Air.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SCAT_Airlines_Flight_760)
+
+Wikipedia Commons / Александр Залесский]]></description>
+			<Point>
+				<coordinates>77.072525,43.408664,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>South Airlines Flight 8971 - 2/13/2013</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/UR-WRA_by_Volodymyr_Moroz.jpg/800px-UR-WRA_by_Volodymyr_Moroz.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/South_Airlines_Flight_8971)
+
+Wikipedia Commons / Volodymyr Moroz]]></description>
+			<Point>
+				<coordinates>37.731857,48.074122,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1437</styleUrl>
+			<name>Alaska State Trooper Helicopter - 3/30/2013</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Huffington Post:
+Alaska State Troopers Helicopter Crashes; 3 Feared Dead (http://www.huffingtonpost.com/2013/04/01/alaska-troopers-helicopter-crashes_n_2990906.html)
+
+
+Position approximated based on article.]]></description>
+			<Point>
+				<coordinates>-149.92630000000003,62.31405800000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Lion Air Flight 904 - 4/13/2013</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/PK-LKW.jpg/800px-PK-LKW.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lion_Air_Flight_904)
+
+Wikipedia Commons / Sabung.hamster]]></description>
+			<Point>
+				<coordinates>115.14959300000001,-8.750044,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>National Airlines Flight 102 - 4/29/2013</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cargo_Boeing_747-428%28BCF%29_of_National_Airlines_cropped.jpg/800px-Cargo_Boeing_747-428%28BCF%29_of_National_Airlines_cropped.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/National_Airlines_Flight_102)
+
+YouTube video (http://youtu.be/Aj2GS26Imdo)
+
+
+Wikipedia Commons / Sven Manguard (http://commons.wikimedia.org/wiki/User:Sven_Manguard)]]></description>
+			<Point>
+				<coordinates>69.276944,34.96027800000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Nepal Airlines Flight 555 - 5/16/2013</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/9N-ABT.jpg/800px-9N-ABT.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+ (http://en.wikipedia.org/wiki/Nepal_Airlines_Flight_555)
+ 
+
+Wikipedia Commons / Wolfgang Soshin Drechsler (http://de.wikipedia.org/wiki/User:Soshin)]]></description>
+			<Point>
+				<coordinates>83.725314,28.782916,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Asiana Airlines Flight 214 - 7/6/2013</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Asiana_Airlines_Boeing_777-200ER%3B_HL7742%40HKG%3B31.07.2011_614fz_%286052589349%29.jpg/800px-Asiana_Airlines_Boeing_777-200ER%3B_HL7742%40HKG%3B31.07.2011_614fz_%286052589349%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Asiana_Airlines_Flight_214)
+
+Huffington Post (http://www.huffingtonpost.com/2013/07/06/asiana-airlines-plane-cra_n_3555309.html)
+
+
+
+Wikipedia Commons / Aero Icarus (http://www.flickr.com/people/46423105@N03)]]></description>
+			<Point>
+				<coordinates>-122.363566,37.613042,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Southwest Airlines Flight 345 - 7/22/2013</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Huffington Post (http://www.huffingtonpost.com/2013/07/23/southwest-laguardia-airport_n_3637609.html)
+
+Southwest's LaGuardia Airport Landing Gear Collapse Results In Injuries (VIDEO)]]></description>
+			<Point>
+				<coordinates>-73.877962,40.777678,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>LIon Air Flight 892 - 8/7/2013</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[aviationinspector.com (http://www.aviationinspector.com/?p=19418)]]></description>
+			<Point>
+				<coordinates>122.86277399999999,0.635526,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>UPS 1354 - 8/14/2013</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Huffington Post (http://www.huffingtonpost.com/2013/08/14/ups-plane-crash_n_3753963.html)
+
+Wikipedia (http://en.wikipedia.org/wiki/UPS_1354)]]></description>
+			<Point>
+				<coordinates>-86.747704,33.580518,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Associated Aviation Flight 361 - 10/3/2013</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Associated_Aviation_EMB-120.jpg/800px-Associated_Aviation_EMB-120.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Associated_Aviation_Flight_361) 
+
+Wikipedia Commons / Kenneth Iwelumo]]></description>
+			<Point>
+				<coordinates>3.323639,6.563422,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Lao Airlines Flight 301 - 10/16/2013</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Lao_Airlines_ATR_72-212A%3B_RPDL-34173%40BKK%3B30.07.2011_613br_%286041804357%29.jpg/800px-Lao_Airlines_ATR_72-212A%3B_RPDL-34173%40BKK%3B30.07.2011_613br_%286041804357%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lao_Airlines_Flight_301)
+
+
+ 
+
+Wikipedia Commons / Aero Icarus (http://www.flickr.com/people/46423105@N03)]]></description>
+			<Point>
+				<coordinates>105.733056,15.151667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Australia Wildfire: Firefighting Plane Crashes (approximated) - (10/24/2013)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Huffington Post (http://www.huffingtonpost.com/2013/10/24/australia-wildfire_n_4153643.html)
+
+SYDNEY, Oct 24 (Reuters) - A plane dousing wildfires in bushland around the Australia's biggest city, Sydney, crashed into a national park on Thursday, sparking a new fire to add to 55 still burning across the state of New South Wales.
+
+The RFS said it held "grave concerns" for the pilot of a water bomber fixed-wing aircraft that crashed in the Budawang National Park, 270 km (170 miles) southwest of Sydney, a wilderness area of steep mountainsides and forests popular with hikers and campers.]]></description>
+			<Point>
+				<coordinates>150.041656,-35.415915,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Tatarstan Airlines Flight U363  -11/17/2013</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://rt.com (http://rt.com/news/passenger-plane-crash-kazan-866/)
+
+50 dead as passenger jet crashes in central Russia]]></description>
+			<Point>
+				<coordinates>49.27774,55.609171,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>LAM Mozambique Airlines Flight 470 - 11/29/2013 (approximated)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/27/LAM_Mozambique_Airlines_Embraer_190_Volpati.jpg/800px-LAM_Mozambique_Airlines_Embraer_190_Volpati.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/LAM_Mozambique_Airlines_Flight_470)
+
+Wikipedia Commons / Christian Volpati]]></description>
+			<Point>
+				<coordinates>21.783142,-18.08059,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Hageland Aviation Flight 1453 - 12/2/2013 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/2013/12/01/us/alaska-plane-crash-hero-survivor/)
+
+Mother treks through foggy Alaska night to guide rescuers back to plane crash.]]></description>
+			<Point>
+				<coordinates>-163.301811,62.040448,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Antonov An-12 plane - 12/26/2013 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Daily News
+Russian plane crash kills nine in Siberia (http://www.nydailynews.com/news/world/russian-plane-crash-kills-siberia-article-1.1558740)
+
+The cargo plane caught fire after crashing into a military warehouse during a botched landing. Six crew members and three additional passengers died in the blaze. ]]></description>
+			<Point>
+				<coordinates>104.237938,52.311837,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Nepal Airlines Flight RA-183 (approximted) - 2/16/2014</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[avherald.com (http://avherald.com/h?article=47016e9c&opt=1)
+
+A Nepal Airlines de Havilland DHC-6-300 Twin Otter, registration 9N-ABB performing flight RA-183 from Pokhara to Jumla (Nepal) with 15 passengers and 3 crew, departed Pokhara at 12:43L (06:58Z) but radio contact was lost about 30 minutes later while the aircraft attempted to divert to Siddharthanagar's Bhairahawa Airport. The aircraft did not arrive at Jumla at the estimated time of arrival (13:45L) or Bhairahawa Airport, a search was initiated though hampered by weather. Local residents reporting a burning object and a helicopter located the burning wreckage of the aircraft in the jungles near Khidim about 40nm southwest of Pokhara and about 25nm north of Siddharthanagar. All on board were killed.
+
+On Feb 17th 2014 Nepal's Civil Aviation Authority reported that rescue and recovery teams reached the crash site located in the village of Masine Lek, Dhikura VDC in Argakhanchi district (approximate coordinates N28.05 E83.22), the 18 occupants of the aircraft were found all over the hill, there were no survivors. Helicopters have already flown the bodies to Kathmandu.]]></description>
+			<Point>
+				<coordinates>83.22,28.05,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Google adds scans of search areas of missing MH370</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[As you can see Google has added scans of the areas searched to date for the missing MH370 flight.]]></description>
+			<Point>
+				<coordinates>98.613281,-41.902277,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Much MH370 Speculation. Who is right?</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[I decided to show all the various speculation about the missing MH370 flight because many of them use what they consider hard evidence in the form of data from various flight tracking software systems using data they acquired from supposedly reliable sources.]]></description>
+			<Point>
+				<coordinates>109.6875,-18.312811,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Missing Malaysia Airlines Flight MH370 (last known coordinates) - 3/8/2014</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[reuters.com (http://www.reuters.com/article/2014/03/08/us-malaysiaairlines-flight-idUSBREA2701720140308)
+
+VANISHED AFTER REACHING 35,000 FEET
+
+Flight MH370, operating a Boeing 777-200ER aircraft, last had contact with air traffic controllers 120 nautical miles off the east coast of the Malaysian town of Kota Bharu, Malaysia Airlines chief executive Ahmad Jauhari Yahya said in a statement read to an earlier news conference in Kuala Lumpur.
+
+
+Wikipedia (http://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_370)]]></description>
+			<Point>
+				<coordinates>103.579102,6.9237,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Coordinate of Flight MH370 supplied by Chinese satellite scan.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/MH370#Location)
+
+China released satellite images captured three days earlier that show three floating objects measuring up to 24 by 22 metres (79 ft × 72 ft) at 6.7°N 105.63°E.[44][45] It turned out there were no floating objects on the suspected crash area.]]></description>
+			<Point>
+				<coordinates>105.63,6.7,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Last Malaysian military plot</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Source: Stefan Geens]]></description>
+			<Point>
+				<coordinates>96.284286,6.579406,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Evidence suggests MH370 headed in direction of Adman Islands</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[www.huffingtonpost.com (http://www.huffingtonpost.com/2014/03/14/malaysia-airlines-missing-plane-radar-data-andaman-islands_n_4962171.html)
+
+Military radar-tracking evidence suggests a Malaysia Airlines jetliner missing for nearly a week was deliberately flown across the Malay peninsula towards the Andaman Islands, sources familiar with the investigation told Reuters on Friday.
+
+Two sources said an unidentified aircraft that investigators believe was Flight MH370 was following a route between navigational waypoints - indicating it was being flown by someone with aviation training - when it was last plotted on military radar off the country's northwest coast.
+
+The last plot on the military radar's tracking suggested the plane was flying toward India's Andaman Islands, a chain of isles between the Andaman Sea and the Bay of Bengal, they said.]]></description>
+			<Point>
+				<coordinates>92.761002,12.312498000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-FFFF00-5</styleUrl>
+			<name>MH370 Possible Flight Path</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[www.buzzfeed.com (http://www.buzzfeed.com/hunterschwarz/missing-malaysia-airlines-flight-may-have-sent-signals-for-h)
+
+Malaysia Airlines Flight MH370 reportedly sent intermittent signals to a satellite for several hours after its last contact with the ground early Saturday morning, according to an unnamed official who spoke to the Associated Press, indicating the plane may have continued to remain airborne and wasn’t immediately destroyed in a crash.]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>101.70297,2.76061,0.0 103.59008,6.98095,0.0 92.790527,12.46876,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Turkmenistan/Tajikistan Projected Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[www.nytimes.com (http://www.nytimes.com/2014/03/16/world/asia/malaysia-airlines-flight.html?_r=0)
+
+The northern arc described by Mr. Najib passes through or close to some of the world’s most volatile countries that are home to insurgent groups, but also over highly militarized areas with robust air defense networks, some run by the U.S. military. The arc passes close to northern Iran, through Afghanistan and northern Pakistan, and through northern India and the Himalayan mountains and Myanmar. An aircraft flying on that arc would have to pass through air defense networks in India and Pakistan, whose mutual border is heavily militarized, as well as through Afghanistan, where the United States and other NATO countries have operated air bases for more than a decade.]]></description>
+			<Point>
+				<coordinates>91.054688,24.046464,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-FF6600-5</styleUrl>
+			<name>Turkmenistan/Tajikistan Projected Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>101.699066,2.745531,0.0 103.5791,6.98095,0.0 100.78857,3.85329,0.0 97.8408,19.62189,0.0 68.15918,38.27268,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-00CCCC-5</styleUrl>
+			<name>Southern Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>101.70043000000001,2.74415,0.0 103.58734,6.9864,0.0 100.77758,3.8478099999999995,0.0 96.8486,-12.21118,0.0 101.052246,-24.826625,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Southern Route</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[www.nytimes.com (http://www.nytimes.com/2014/03/16/world/asia/malaysia-airlines-flight.html?_r=0)
+
+The southern arc, from Indonesia to the southern Indian Ocean, travels over open water with few islands stretching all the way to Antarctica. If the aircraft took that path, it may have passed near Australia’s Cocos (Keeling) Islands. These remote islands, with a population of fewer than 1,000 people, have a small airport. To the east of that route is Western Australia.]]></description>
+			<Point>
+				<coordinates>97.207031,-9.449062,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>It passed low over Kelantan</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[www.nst.com. (http://www.nst.com.my/nation/general/font-color-red-missing-mh370-font-plane-flew-low-to-avoid-radar-1.516965?cache=03%2F7.203498%2F7.285643%2F7.306627%2F7.321287%2F7.255450%3Fkey%3DKuala+Lumpur%2F7.480850%2F7.480850%2F7.480850%2F7.480850%2F7.502513%2F7.502513%2F7.502513%2F7.502513%2F7.502513%2F7.502513%2F7.502513)
+
+"The person who had control over the aircraft has a solid knowledge of avionics and navigation, and left a clean track. It passed low over Kelantan, that was true," said officials.]]></description>
+			<Point>
+				<coordinates>101.870728,5.107358,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Palau Langkawi Airport</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[wired.com (http://www.wired.com/autopia/2014/03/mh370-electrical-fire/)
+
+The left turn is the key here. Zaharie Ahmad Shaw was a very experienced senior captain with 18,000 hours of flight time. We old pilots were drilled to know what is the closest airport of safe harbor while in cruise. Airports behind us, airports abeam us, and airports ahead of us. They’re always in our head. Always. If something happens, you don’t want to be thinking about what are you going to do–you already know what you are going to do. When I saw that left turn with a direct heading, I instinctively knew he was heading for an airport. He was taking a direct route to Palau Langkawi, a 13,000-foot airstrip with an approach over water and no obstacles. The captain did not turn back to Kuala Lampur because he knew he had 8,000-foot ridges to cross. He knew the terrain was friendlier toward Langkawi, which also was closer.]]></description>
+			<Point>
+				<coordinates>99.728909,6.331337,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-FF99FF-5</styleUrl>
+			<name>Route to Palau Langkawi Airport</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>101.697693,2.744159,0.0 103.583221,6.972776,0.0 100.788574,3.8546629999999995,0.0 100.260372,4.176594,0.0 99.447384,5.725311,0.0 99.619904,6.186977000000001,0.0 99.71981,6.317005,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-33FF33-5</styleUrl>
+			<name>MH370 shadows flight SIA68 </name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>101.70318,2.74278,0.0 103.58596,6.97822,0.0 101.9902,6.75189,0.0 97.585373,6.181516,0.0 98.00148,7.000038,0.0 94.413757,9.722593,0.0 92.45407,11.99633,0.0 85.24704,19.7667,0.0 79.75387,23.92601,0.0 76.63375,24.72687,0.0 73.65234,27.37176,0.0 70.42236,29.38217,0.0 62.177124,35.848987,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>MH370 shadows flight SIA68 to avoid radar</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[keithledgerwood.tumblr.com (http://keithledgerwood.tumblr.com/post/79838944823/did-malaysian-airlines-370-disappear-using-sia68-sq68)
+
+I investigated further and plotted the exact coordinates of Singapore Airlines flight number 68’s location at 1815UTC onto the aviation map.  I quickly realized that SIA68 was in the immediate vicinity as the missing MH370 flight at precisely the same time.  Moreover, SIA68 was en-route on a heading towards the same IGREX waypoint on airway P628 that the Malaysian military radar had shown MH370 headed towards at precisely the same time.]]></description>
+			<Point>
+				<coordinates>86.748047,18.895893,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Last ping received from MH370</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Source: Keith Ledgerwood]]></description>
+			<Point>
+				<coordinates>62.18261700000001,35.85344,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Breaking: Malaysia Airlines Flight MH370 update: Chinese satellite finds object in Indian Ocean, may be possible wreckage</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[salon.com (http://www.salon.com/2014/03/22/breaking_malaysia_airlines_flight_mh370_update_chinese_satellite_finds_object_in_indian_ocean_may_be_possible_wreckage/)
+
+90° 3’ 43” E, 44° 57’ 29” S
+
+China’s State Administration of Science, Technology and Industry for National Defense said on its website that a Chinese satellite took an image of an object 22 meters (72 feet) by 13 meters (43 feet) around noon Tuesday. The image location was about 120 kilometers (75 miles) south of where an Australian satellite viewed two objects two days earlier. The larger object was about as long as the one the Chinese satellite detected.]]></description>
+			<Point>
+				<coordinates>90.061944,-44.958056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>New Satellite Images Show More Than 100 Objects That May Be From Plane</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com (http://www.huffingtonpost.com/2014/03/26/missing-plane_n_5033494.html)
+
+New satellite images have revealed more than 100 objects in the southern Indian Ocean that could be debris from a Malaysian jetliner missing for 18 days with 239 people on board, Malaysia's acting transport minister said on Wednesday.]]></description>
+			<Point>
+				<coordinates>90.109863,-44.684277,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Search area shifted due to credible lead</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[www.huffingtonpost.com (http://www.huffingtonpost.com/2014/03/27/australia-missing-malaysia-plane_n_5046366.html)
+
+Planes are searching a new area of the Indian Ocean for possible signs of the Malaysian airliner after a new analysis of radar data suggests the plane flew faster than thought and used up more fuel, which may have reduced the distance it traveled, Australia said Friday.
+
+Based on the new information, the Australian Maritime Safety Authority said it had shifted the search area for the jet that disappeared nearly three weeks ago to a region 1,100 kilometers (680 miles) to the northeast of where planes and ships had been trying to find any sign of it.]]></description>
+			<Point>
+				<coordinates>94.262695,-32.62087,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Freelance journalist: ‘Hijacked flight 370 passenger sent photo from hidden iPhone tracing back to secret U.S. military base Diego Garcia’</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[intellihub.com (http://intellihub.com/freelance-journalist-hijacked-flight-370-passenger-sent-photo-hidden-iphone-tracing-back-secret-u-s-military-base-diego-garcia/)
+
+INDIAN OCEAN (INTELLIHUB) — According to freelance journalist Jim Stone, one of the American passengers, Phillip Wood, a technical storage executive at IBM, who was aboard the now missing Malaysian Airlines flight, keystered his iPhone 5 in his anus after the Boeing 777 carrying 239 people was hijacked by military personnel while on route to China.
+
+Amazingly, Stone claims that metadata within the photo yields evidence confirming “100 percent” that Phillip Wood sent the photo, along with a brief voice activated text, from GPS coordinates which put Wood only a few miles away from the U.S. controlled Diego Garcia military base which is located on an island south of the Maldives in the Indian Ocean. In his post Stone claims that the coordinates may be off by a few miles (see update below post), proving that the iPhone actually sent the otherwise blank black picture revealing nothing else. Stone speculates the picture was taken in a dark room or in some position in which Wood’s hands were bound.]]></description>
+			<Point>
+				<coordinates>75.585938,-16.804541,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Missing Malaysian Plane Searchers Launch Most Intensive Hunt Yet In Indian Ocean</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com (http://www.huffingtonpost.com/2014/04/04/missing-malaysia-plane-australia_n_5094958.html)
+
+Up to 10 military planes, three civilian jets and 11 ships will scour a 217,000-sq-km (88,000-sq-mile) patch of desolate ocean some 1,700 km (1,060 miles) northwest of Perth near where investigators believe the plane went down on March 8 with the loss of all 239 people on board.]]></description>
+			<Point>
+				<coordinates>95.163574,-28.130128,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Missing Malaysian Plane Searchers Launch Most Intensive Hunt Yet In Indian Ocean</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[HuffingtonPost (http://www.huffingtonpost.com/2014/04/04/missing-malaysia-plane-australia_n_5094958.html)
+
+Up to 10 military planes, three civilian jets and 11 ships will scour a 217,000-sq-km (88,000-sq-mile) patch of desolate ocean some 1,700 km (1,060 miles) northwest of Perth near where investigators believe the plane went down on March 8 with the loss of all 239 people on board.]]></description>
+			<Point>
+				<coordinates>95.273438,-28.226970000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>YouTube video claims radar shows MH370 going down off the coast of Vietnam</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[YouTube Video (https://www.youtube.com/watch?v=hNZtz-HVy6c)
+
+ 
+Flightradar24 indicates MH370 crashed at 17.67° N, 110.32° E.]]></description>
+			<Point>
+				<coordinates>110.32,17.67,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Chinese ship tracks pulsing sounds</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Mh370#Third_phase)
+
+On 6 April, JACC made an initial announcement that Ocean Shield had also picked up a signal, about 300 nautical miles (560 km; 350 mi) from Haixun 01.[143][142] It was announced the next day that the TPL-25 pinger locator towed by Ocean Shield had picked up a signal twice on 6 April.[144][145] The first, in the morning of 6 April at approximately 300 metres (980 ft) depth, lasted 2 hours and 20 minutes; the second episode took place at approximately 3,000 metres (9,800 ft) depth, and lasted 13 minutes. During the second episode, two distinct pinger returns were audible. Both episodes of recorded signals, which took place at roughly the same position (within a 800–2000 yards' distance), were considered to be consistent with the signals emitted by the beacons attached to an aircraft's black boxes under water.[146] The Ocean Shield events were recorded at the northern border of a newly-calculated impact area that was announced on 7 April, while the Haixun 01 events had been recorded at its southern border.[146][147] ADVOcean Shield detected two more signals in the afternoon and evening on 8 April.[148]The first signal was received for five minutes and 32 seconds, and the second for around seven minutes.[149]
+
+On 9 April, JACC announced that Ocean Shield had detected two more signals the day prior. The first signal was acquired at 16:27 AWST and held for around five minutes and 32 seconds. The second signal was acquired 22:17 AWST and held for around seven minutes.[23][148][149] JACC also said that a data analysis conducted by the Australian Joint Acoustic Analysis Centre on the signals detected by Ocean Shield on 6 April had determined that "a very stable, distinct, and clear signal was detected at 33.331 kilohertz and that it consistently pulsed at a 1.106 second interval." The centre assessed that the transmission was not of natural origin and was likely sourced from specific electronic equipment and that the signals were consistent with the specification and description of a flight data recorder.[23]]]></description>
+			<Point>
+				<coordinates>101.0,-25.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Possible debris from Malaysia Airlines flight MH370 found on WA beach</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[theage.com.au
+
+West Australian Police have confirmed officers in the state's South West are in possession of "items" that could possibly be from missing Malaysia Airlines Flight MH370.
+
+The debris washed up on a beach 10 kilometres east of Augusta, about 320 kilometres south of Perth.
+
+A statement from the Joint Agency Coordination Centre, the Australian government agency responsible for organising the search effort, said the Australian Transport Safety Bureau was examining photographs of the material.]]></description>
+			<Point>
+				<coordinates>115.057755,-34.283389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1123</styleUrl>
+			<name>Russian rocket carrying a communications satellite fell back to Earth (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[nst.com. (http://www.nst.com.my/latest/china-says-space-debris-recovered-1.600839)
+
+BEIJING: Objects that crashed to the ground in China have been identified as space debris, state media reported, after a Russian rocket carrying a communications satellite fell back to Earth minutes after lift-off.
+
+Qiqihar city in the northeastern province of Heilongjiang, which borders Russia’s far east, reported that several objects appeared to have fallen from the sky on Friday, the Xinhua news agency said.]]></description>
+			<Point>
+				<coordinates>123.95337600000002,47.303011,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Woman Claims She Saw Missing Malaysian Air Flight While Sailing In Indian Ocean</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[news.yahoo.com (http://news.yahoo.com/woman-claims-she-saw-missing-malaysian-air-flight-173405219.html)
+
+
+British woman Katherine Tee is saying she spotted what she believes is the missing Malaysian Air flight MH370 while she was sailing.
+
+She saw in early March, but is only now coming forward because she did not believe her eyes at the time.
+
+Tee said that while she and her husband Marc Horn were sailing across the Indian Ocean from India to Thailand, she spotted what looked like a plane on fire during the night of March 7. She thought she was hallucinating, but after the media coverage, she looked up the flight plan of the aircraft and discovered their journeys intersected, Business Insider reports.]]></description>
+			<Point>
+				<coordinates>97.141113,7.732764999999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Nairobi cargo plane crash - 7/2/2014 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[allafrica.com (http://allafrica.com/stories/201407030308.html)
+
+Four people died Wednesday (July 2nd) when a cargo plane crashed into a building in Nairobi's Embakasi estate shortly after takeoff from the Jomo Kenyatta International Airport (JKIA), the Kenya National Disaster Operation Centre said.
+
+The centre said the flight engineer, pilot and two crew members had died in the crash, and that two bodies had so far been recovered from the wreckage.
+
+The plane, bound for Mogadishu with a cargo of qat, also known as miraa, crashed before dawn, a time when the building was mostly empty and no other casualties have been reported, AFP reported.
+
+A photographer at the scene said the plane had smashed into a low-rise building containing small stores and shops three kilometres from the airport.]]></description>
+			<Point>
+				<coordinates>36.91778,-1.29559,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>7/17/2014 - Malaysia Airlines Flight MH17 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com (http://www.huffingtonpost.com/2014/07/17/malaysia-airlines-plane-cras_n_5595516.html)
+
+Interfax news agency reports that a Malaysian jet has crashed in eastern Ukraine, near the Russian border. The Malaysian Airlines passenger plane had 295 people on board and was on its way from Amsterdam to Kuala Lumpur.
+
+Anton Gerashenko, an adviser to Ukraine's Interior Minister, wrote on Facebook that the plane was hit by a missile fired from a Buk launcher over the country's east, the Associated Press reports.]]></description>
+			<Point>
+				<coordinates>38.638358,48.137669,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-FF0000-5</styleUrl>
+			<name>MH17 flight path</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>38.63838,48.13779,0.0 38.530769,48.149825,0.0 38.376617,48.20271,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-CC33CC-5</styleUrl>
+			<name>Missile</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>38.742428,48.027591,0.0 38.530716000000005,48.149825,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-FFFF00-3-115</styleUrl>
+			<name>MH17 Debris field</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wall Street Journal (http://graphics.wsj.com/mh17-crash-map/)
+nytimes.com (http://www.nytimes.com/interactive/2014/07/21/world/europe/wreckage-offers-clues-on-why-flight-17-went-down.html)]]></description>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>38.55065499999999,48.12565299999999,0.0 38.55669,48.12233,0.0 38.640976,48.135163,0.0 38.642593,48.140662,0.0 38.537022,48.154578,0.0 38.51839600000001,48.156009,0.0 38.519255,48.151142,0.0 38.52775200000001,48.140547000000005,0.0 38.538223,48.130924,0.0 38.55065499999999,48.12565299999999,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>TransAsia Airways flight GE222 - 7/23/2014</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/TransAsia_Airways_ATR_72-212A_B-22810_Taking_off_from_Taipei_Songshan_Airport_20140718b.jpg/800px-TransAsia_Airways_ATR_72-212A_B-22810_Taking_off_from_Taipei_Songshan_Airport_20140718b.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Flight_GE222)
+ 
+ Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>119.640132,23.579829,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Air Algerie Flight AH5017 - 7/24/2014 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com  (http://www.huffingtonpost.com/2014/07/25/air-algerie-plane-crash_n_5619711.html#32_malian-state-tv-reports-wreckage-found-in-mali)
+
+Investigators at the scene of the crash in northern Mali concluded the McDonnell Douglas MD-83 aircraft broke apart when it smashed into the ground early on Thursday morning, the officials said, suggesting this meant it was unlikely to have been the victim of an attack.]]></description>
+			<Point>
+				<coordinates>-1.219482,15.776395000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>View this map in Google Earth.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Non-networked Google Earth KML file: (https://docs.google.com/file/d/0B52hHMRyBvEsVU1KS1k0MHpjMGc/edit)]]></description>
+			<Point>
+				<coordinates>-159.9609375,10.833306,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Air tanker crashes fighting Yosemite fire (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[(http://blog.sfgate.com/stew/2014/10/07/wildfire-closes-yosemite-road-prompts-evacuations/)
+
+An air tanker battling a fire burning on the west side of Yosemite National Park crashed Tuesday afternoon, authorities said, underscoring the danger of wildfires fueled by the historic drought that have broken out across the state in recent months.
+
+The plane, a Grumman S2 Tracker that is operated by the California Department of Forestry and Fire Protection and is designed to drop flame retardant from its belly, crashed about 4:30 p.m. near Arch Rock, said Ashley Mayer, a Yosemite spokeswoman.
+
+At about 6:45 p.m, Cal Fire reported that rescue teams had reached the crash site in rugged terrain and were working to determine the condition of the pilot.It was not clear whether anyone was on the plane besides the pilot, but the Grumman S2 Tracker is usually flown with only a pilot aboard, said Alyssa √Smith, a Cal Fire spokeswoman.]]></description>
+			<Point>
+				<coordinates>-119.40921730000001,37.4832276,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Total CEO's Falcon 50 business jet collision</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://en.ria.ru/russia/20141024/194527112/Moscow-Court-Arrests-Air-Traffic-Controller-in-Fatal-Plane-Crash.html
+
+Total CEO Christophe de Margerie died in the crash of a Falcon 50 business jet late Monday night at Vnukovo-3 Airport. The incident happened when the aircraft, which was to fly to Paris, hit a snow removal vehicle when taking off. ]]></description>
+			<Point>
+				<coordinates>37.25973270000001,55.5885901,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Nippon Flight NH140 - 9/29/2011</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.flightglobal.com/news/articles/video-ana-737-rolled-near-inverted-after-rudder-trim-362687/]]></description>
+			<Point>
+				<coordinates>137.4307251,34.481656,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Nippon Flight NH140</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=PSGBAs412Lw</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>137.4856567,34.431832500000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Virgin Galactic crash - 10/31/2014</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/SpaceShip_2_VSS_Enterprise.jpg/800px-SpaceShip_2_VSS_Enterprise.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[http://en.wikipedia.org/wiki/2014_Virgin_Galactic_crash
+
+Wikipedia Commons / Steve Jurvetson]]></description>
+			<Point>
+				<coordinates>-117.9666666666667,35.3,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Makani Kai Air commuter flight - 12/11/2013</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://mauinow.com/2013/12/12/investigation-underway-into-cause-of-kalaupapa-plane-crash/]]></description>
+			<Point>
+				<coordinates>-156.9863891,21.2167406,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Air Myflug (Air Ambulance flight) - 8/5/2013</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://theaviationist.com/2014/01/06/iceland-crash-video/]]></description>
+			<Point>
+				<coordinates>-18.072222000000014,65.658611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1037'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1037-biz-house.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1123'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1123-crisis-biohazard.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1417'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1417-trans-airport.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1433'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1433-trans-ferry.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1437'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1437-trans-helicopter.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='line-00CCCC-5'>
+			<LineStyle>
+				<color>ffCCCC00</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-33FF33-5'>
+			<LineStyle>
+				<color>ff33FF33</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-CC33CC-5'>
+			<LineStyle>
+				<color>ffCC33CC</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-FF0000-5'>
+			<LineStyle>
+				<color>ff0000FF</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-FF6600-5'>
+			<LineStyle>
+				<color>ff0066FF</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-FF99FF-5'>
+			<LineStyle>
+				<color>ffFF99FF</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-FFFF00-5'>
+			<LineStyle>
+				<color>ff00FFFF</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='poly-FFFF00-3-115'>
+			<LineStyle>
+				<color>ff00FFFF</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7300FFFF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+	</Document>
+</kml>

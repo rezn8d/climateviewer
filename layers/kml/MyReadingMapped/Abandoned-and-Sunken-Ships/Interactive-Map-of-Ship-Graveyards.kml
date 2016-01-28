@@ -1,0 +1,1864 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>List of Ship Graveyards covered by this map</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The graveyards are plotted in the following order:                                                                                           - Alang, India Ship Breaking Graveyard (partial)
+- Aral Sea (South)
+- Nouadhibou, Mauritania
+- Petropavlovsk-Kamchatsky, Russia
+- Staten Island, New York, USA
+- Suisun Bay, California, USA 
+- Near Chernobyl, Russia - Alang, India (Partial)
+- Chittagong, Bengladesh
+- Gadani Beach, Pakistan
+- Mallows Bay, Maryland, USA 
+- North Aral Sea
+- Sable Island
+- South Georgia Island
+- Berbera, Somaliland
+- Nezametnaya Cove
+- Nargin Island
+- Sovetskaya Gavan
+- Alexandrovsk-Sakhalinsky
+- Gadani Ship Breaking Graveyard, Pakistan
+- Camaret-Sur-Mer, France Gravyard
+- Tangalooma shipwrecks, Australia 
+- Mulkiteo, Washington Graveyard
+- Sao Jacinto Island, India Graveyard ]]></description>
+			<Point>
+				<coordinates>-43.066406,25.482951,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Yukon Paddlewheel Graveyard</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/13865393.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / alf0303 (http://www.panoramio.com/user/1191221?with_photo_id=13865393)]]></description>
+			<Point>
+				<coordinates>-139.442124,64.084319,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Alang Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>72.2088432,21.418485,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name> Aral Sea Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>59.045339,43.772802,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name> Aral Sea Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>59.04496900000001,43.772515,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name> Aral Sea Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>59.045982499999994,43.7727751,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name> Aral Sea Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>59.04507100000001,43.772775,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name> Aral Sea Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>59.04552199999999,43.772581,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nouadhibou Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-17.0447009,20.7710918,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nouadhibou Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-17.0618029,20.7896191,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nouadhibou Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-17.0498374,20.8704511,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nouadhibou Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-17.0494718,20.87016,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nouadhibou Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-17.041415,20.865429,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nouadhibou Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-17.056103,20.882831,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nouadhibou Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-17.0340224,20.9014647,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nouadhibou Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-17.0449664,20.9054737,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nouadhibou Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-17.0463398,20.9063462,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nouadhibou Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-17.0463983,20.9057745,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nouadhibou Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-17.0470043,20.9051137,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nouadhibou Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-17.0504701,20.8705914,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nouadhibou Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-17.0403421,20.902046,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nouadhibou Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-17.0366807,20.9014577,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nouadhibou Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-17.0472511,20.9061853,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nouadhibou Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-17.037863600000005,20.8995059,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nouadhibou Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-17.0340551,20.8990695,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Petropavlovsk-Kamchatsky Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>158.683149,52.956081,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Staten Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.244565,40.529295,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Staten Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.245361,40.527393,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Staten Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.247767,40.53718800000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Staten Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.242795,40.532182,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Staten Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.245997,40.53718,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Staten Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.220618,40.556233,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Staten Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.21784500000001,40.556155,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Staten Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.217308,40.555854,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Staten Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.217442,40.55554,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Staten Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.21631,40.556714,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Staten Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.167918,40.642891,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Staten Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.21674,40.556608,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Staten Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.214916,40.557247,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-49</styleUrl>
+			<name>Staten Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.215023,40.557822,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Staten Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.214143,40.558446,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Staten Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.213923,40.558727,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Staten Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.212834,40.559073,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Staten Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.21579,40.556938,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Staten Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.216267,40.557545,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Staten Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-74.164377,40.644666,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Suisun Bay Gaveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.09909,38.069176,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Suisun Bay Gaveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.085915,38.080257,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Suisun Bay Gaveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.08372599999998,38.084007,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Suisun Bay Gaveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.09102200000001,38.078501,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Suisun Bay Gaveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.093253,38.073366,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Chittagong Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>91.733093,22.427532,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-FFFF00-5</styleUrl>
+			<name>Chittagong Graveyard Area</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>91.83368,22.12476,0.0 91.83403,22.15243,0.0 91.82029,22.21664,0.0 91.708374,22.520169,0.0 91.684771,22.522309,0.0 91.679878,22.514143,0.0 91.698761,22.461802,0.0 91.7942,22.21347,0.0 91.82441,22.12381,0.0 91.83368,22.12476,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Gadani Beach Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>66.710701,25.046337,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-FFFF00-5</styleUrl>
+			<name>Gadani Beach Graveyard Area</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>66.7141344,25.0173292,0.0 66.7135338,25.033350000000002,0.0 66.7136188,25.048825,0.0 66.7100998,25.069506,0.0 66.7044358,25.08622,0.0 66.6985989,25.084666,0.0 66.7069248,25.051857,0.0 66.7062378,25.027751,0.0 66.7067525,25.0177954,0.0 66.7141344,25.0173292,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-0000FF-5-3</styleUrl>
+			<name>The German fleet (WWI)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-3.1307599999999995,58.892585999999994,0.0 -3.138313,58.90092200000001,0.0 -3.1681820000000003,58.905000000000015,0.0 -3.183289,58.90535500000001,0.0 -3.2083510000000004,58.900567,0.0 -3.218651,58.89365000000001,0.0 -3.2231139999999994,58.8862,0.0 -3.2155609999999997,58.8807,0.0 -3.2073210000000003,58.875022,0.0 -3.208652,58.873691,0.0 -3.217664,58.87176100000001,0.0 -3.210915,58.864794,0.0 -3.211827,58.860666,0.0 -3.2106260000000004,58.85891300000001,0.0 -3.2083509999999995,58.85815800000001,0.0 -3.198738,58.85584999999999,0.0 -3.188009,58.857725,0.0 -3.180542,58.866325,0.0 -3.1808849999999995,58.87803799999999,0.0 -3.183289,58.88690999999999,0.0 -3.1771090000000006,58.889571,0.0 -3.1695559999999996,58.8862,0.0 -3.1606289999999997,58.884781000000004,0.0 -3.144493,58.88655500000001,0.0 -3.132133,58.88921599999999,0.0 -3.1307599999999995,58.892585999999994,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>The scuttling of the German fleet (WWI)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/thumb/9/92/Internment_at_Scapa_Flow.svg/800px-Internment_at_Scapa_Flow.svg.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[The scuttling of the German fleet on Wikipedia (http://en.wikipedia.org/wiki/Scuttling_of_the_German_fleet_in_Scapa_Flow)
+
+ 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-3.183333,58.891667000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Mallows Bay</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Mallows Bay is the location of what is regarded as the "largest shipwreck fleet in the Western Hemisphere" and is described as a "ship graveyard."]]></description>
+			<Point>
+				<coordinates>-77.269356,38.471466,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Mallows Bay Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.269962,38.471453,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Mallows Bay Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.270316,38.47317900000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Mallows Bay Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.270451,38.475187,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Mallows Bay Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.268557,38.474977,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Mallows Bay Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.267146,38.47425,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Mallows Bay Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.267361,38.474603,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Mallows Bay Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.268192,38.473171,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Sable Island</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://www.mysteriesofcanada.com/images/sable1583.gif</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Sable Island Background  (http://www.mysteriesofcanada.com/Nova_Scotia/sable_island.htm)
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-59.85260999999999,43.946852,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>South Georgia Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-36.507187,-54.28361700000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>South Georgia Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-36.506184,-54.280347,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>South Georgia Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-36.506351,-54.280322,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>South Georgia Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-36.50855,-54.282057,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Berbera, Somaliland</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>45.001931,10.444761,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Berbera, Somaliland</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>45.001856,10.444619,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Berbera, Somaliland</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>45.001604,10.444519,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Berbera, Somaliland</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>45.002977,10.444835000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Berbera, Somaliland</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>45.001701,10.444176,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Berbera, Somaliland</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>44.97682,10.432184000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Berbera, Somaliland</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>44.972872,10.433355,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>North Aral Sea Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>61.669698,46.787982,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>North Aral Sea Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>61.66991000000001,46.787809,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>North Aral Sea Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>61.669446,46.795056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>North Aral Sea Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>61.66882900000001,46.795214,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>North Aral Sea Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>61.662853000000005,46.794477,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>North Aral Sea Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>61.662802000000006,46.79487,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>North Aral Sea Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>61.18454,46.651450000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>North Aral Sea Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>61.183199,46.64572,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>North Aral Sea Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>61.182641,46.644398,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>North Aral Sea Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>61.18514700000001,46.654573,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>North Aral Sea Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>61.186751,46.653527,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>North Aral Sea Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>61.181617,46.649852,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name> Aral Sea Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>59.02485,43.782725,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name> Aral Sea Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>59.02391900000001,43.7827,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nargin Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Ships graveyard on Nargin island (Boyuk Zirya), Caspian sea, Baku, Azerbaijan (http://www.artificialowl.net/2008/08/ships-graveyard-on-nargin-island-boyuk.html)]]></description>
+			<Point>
+				<coordinates>49.929242,40.296508,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nargin Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>49.93052800000001,40.29678200000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nargin Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>49.92987900000001,40.29645,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nargin Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>49.92836100000001,40.296855,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nargin Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>49.928763,40.297338,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nargin Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>49.927175,40.297031,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nargin Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>49.925791,40.29733,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nargin Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>49.926907,40.297052,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nargin Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>49.928591,40.296516,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nezametnaya Cove Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Submarines graveyard in Nezametnaya Cove, Kola Peninsula, Russia (http://www.artificialowl.net/2008/07/submarine-graveyard-in-nezametnaya-cove.html)]]></description>
+			<Point>
+				<coordinates>33.34701400000001,69.223813,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nezametnaya Cove Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>33.345855,69.223326,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nezametnaya Cove Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>33.347626,69.223646,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nezametnaya Cove Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>33.346124,69.223562,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nezametnaya Cove Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>33.346574,69.223947,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nezametnaya Cove Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>33.347154,69.223182,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nezametnaya Cove Graveyarde</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>33.346177,69.223258,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nezametnaya Cove Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>33.348817,69.22394300000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Alexandrovsk-Sakhalinsky Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Abandoned submarines near Alexandrovsk-Sakhalinsky, western shores of Russia (http://www.artificialowl.net/search/label/Submarine)]]></description>
+			<Point>
+				<coordinates>140.257258,49.025896,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Alexandrovsk-Sakhalinsky Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.257441,49.025558,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Sovetskaya Gavan Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.256389,49.000647,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Sovetskaya Gavan Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.257645,49.000971,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Sovetskaya Gavan Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.257022,49.00066100000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Sovetskaya Gavan Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.256196,49.000915,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Sovetskaya Gavan Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.257452,49.000802,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Sovetskaya Gavan Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.256829,49.000485,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Gadani Ship Breaking Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>66.7064097,25.071518,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Gadani Ship Breaking Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>66.7080507,25.0621984,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Gadani Ship Breaking Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>66.711087,25.045831,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Gadani Ship Breaking Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>66.711044,25.040815,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Gadani Ship Breaking Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>66.7097886,25.0307154,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Gadani Ship Breaking Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>66.7109586,25.0262636,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Gadani Ship Breaking Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>66.711216,25.024912,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Gadani Ship Breaking Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>66.70465,25.076076,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Gadani Ship Breaking Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>66.709499,25.059361,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Gadani Ship Breaking Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>66.710744,25.044354000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Gadani Ship Breaking Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>66.710572,25.038794,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Gadani Ship Breaking Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>66.71113,25.021801,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Camaret-Sur-Mer, France Gravyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-4.594039,48.280719,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Camaret-Sur-Mer, France Gravyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-4.594273,48.280881,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Camaret-Sur-Mer, France Gravyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-4.593854,48.280707,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Camaret-Sur-Mer, France Gravyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-4.593685,48.280589,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other interactive maps of Historic Events</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>-32.34375,37.71859,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Camaret-Sur-Mer, France Gravyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-4.594477,48.280921,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Abandoned Ship Near Chernobyl</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>30.212488,51.284608,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Abandoned Ship Near Chernobyl</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>30.211104,51.284675,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Abandoned Ship Near Chernobyl</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>30.214049300000003,51.2847858,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Abandoned Ship Near Chernobyl</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>30.215234699999996,51.2836419,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Abandoned Ship Near Chernobyl</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>30.21192,51.284944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Babruysk Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>29.254789,53.139486,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Babruysk Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>29.256549,53.139807,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Babruysk Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>29.255840999999997,53.137877,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-49</styleUrl>
+			<name>Babruysk Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>29.252687,53.14009,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Babruysk Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>29.256334000000003,53.13879,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Babruysk Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>29.254627999999997,53.136705,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Garden Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.527995,-34.811161,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Garden Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5278904,-34.8112602,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Garden Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.528459,-34.811264,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Garden Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.5292719,-34.8114006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Garden Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.529564,-34.81157,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Garden Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.529888,-34.81164,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Garden Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.530338,-34.811678,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Garden Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.530523,-34.811717,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Garden Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.530691,-34.811742,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Garden Island Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.541583,-34.810449,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Spithari, Greece Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>23.547317,37.947205,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Spithari, Greece Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>23.54751,37.94688,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Spithari, Greece Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>23.547161,37.947023,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Spithari, Greece Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>23.549489,37.94696400000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Spithari, Greece Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>23.549446,37.946799,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Spithari, Greece Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>23.549983,37.946406,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Spithari, Greece Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>23.550836000000004,37.947946,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Spithari, Greece Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>23.565953,37.947633,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Tangalooma shipwreck </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>153.367778,-27.161865,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Tangalooma shipwreck </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>153.368266,-27.1627,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Tangalooma shipwreck </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>153.368572,-27.16334,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Tangalooma shipwreck </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>153.368245,-27.164037,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Tangalooma shipwreck </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>153.368502,-27.163879,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Tangalooma shipwreck </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>153.368245,-27.163626,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Tangalooma shipwreck </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>153.368636,-27.164419,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Tangalooma shipwreck </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>153.368545,-27.164691,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Tangalooma shipwreck </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>153.36796,-27.161297,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Mulkiteo Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.328579,47.89307500000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Mulkiteo Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.32934100000001,47.892772,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Mulkiteo Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.328955,47.892685,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Mulkiteo Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.328901,47.89233800000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Mulkiteo Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.328971,47.892162,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Sao Jacinto Island, India Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>73.866287,15.402755000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Sao Jacinto Island, India Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>73.868616,15.401969,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Sao Jacinto Island, India Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>73.873014,15.396901000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Sao Jacinto Island, India Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>73.871148,15.398307,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Sao Jacinto Island, India Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>73.874903,15.396694,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Sao Jacinto Island, India Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>73.859807,15.399538000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Sao Jacinto Island, India Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>73.85894900000001,15.398539999999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Sao Jacinto Island, India Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>73.848858,15.400118,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-F4EB37-5-2</styleUrl>
+			<name>Alang Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>72.2222328,21.4458789,0.0 72.1619797,21.3837127,0.0 72.162323,21.3736422,0.0 72.1750259,21.371883800000003,0.0 72.2055817,21.3995365,0.0 72.2296143,21.4276633,0.0 72.2337341,21.4415649,0.0 72.2278976,21.445239800000003,0.0 72.2222328,21.4458789,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-F4EB37-5-2</styleUrl>
+			<name>Petropavlovsk-Kamchatsky Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>158.68068700000003,52.9581913,0.0 158.6808372,52.956847,0.0 158.6819315,52.95529580000001,0.0 158.6807942,52.954015999999996,0.0 158.6809444,52.95349890000001,0.0 158.6818671,52.9534472,0.0 158.68360520000002,52.954365,0.0 158.6841631,52.95546379999999,0.0 158.6837983,52.9565626,0.0 158.6829829,52.9576355,0.0 158.6816525,52.9582688,0.0 158.68068700000003,52.9581913,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#poly-F4EB37-5-2</styleUrl>
+			<name>Mallows Bay Graveyard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-77.2673607,38.4757999,0.0 -77.2696781,38.4760182,0.0 -77.2712016,38.4756655,0.0 -77.2713947,38.47370000000001,0.0 -77.2709656,38.4707097,0.0 -77.2696567,38.4697857,0.0 -77.26654530000002,38.4696009,0.0 -77.2655368,38.4708609,0.0 -77.2657514,38.4737168,0.0 -77.2673607,38.4757999,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>Accuracy of this map.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The intent of this map is for you to zoom in on the vast quantity of abandoned ships in various graveyards around the world. However, some of these graveyards are also disassembly yards, and as a result the plotted ships have a tendency disappear while new ships are abandoned. Thus, it is hard to maintain this map when I don't know when Google last updated the images.]]></description>
+			<Point>
+				<coordinates>-36.5625,13.9234039,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>View this map in Google Earth.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Non-networked Google Earth KML file:   (https://docs.google.com/file/d/0B52hHMRyBvEsY0VockNIUXBLWHM/edit)]]></description>
+			<Point>
+				<coordinates>-21.09375,-4.5654736,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1201'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1201-fac-info-alt.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1433'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1433-trans-ferry.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-49'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='line-FFFF00-5'>
+			<LineStyle>
+				<color>ff00FFFF</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+		<Style id='poly-0000FF-5-3'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color> 3FF0000</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-F4EB37-5-2'>
+			<LineStyle>
+				<color>ff37EBF4</color>
+				<width>5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color> 237EBF4</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+	</Document>
+</kml>

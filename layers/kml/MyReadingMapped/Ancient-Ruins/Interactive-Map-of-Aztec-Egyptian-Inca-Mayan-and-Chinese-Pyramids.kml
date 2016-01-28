@@ -1,0 +1,1978 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>Digitally walk this map in 3D.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[You can digitally walk this map in 3D using this Non-Networked Google Earth KML file. (https://docs.google.com/file/d/0B52hHMRyBvEsU2NzN09GaDJJY1E/edit) 
+ 
+Be sure to turn on the Buildings layer to see those rendered in 3D.]]></description>
+			<Point>
+				<coordinates>-35.859375,31.052934,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps on History</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>-41.484375,14.264383000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Other Ancient Ruins Maps</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- Africa (http://myreadingmapped.blogspot.com/2011/06/interactive-map-of-ancient-african.html)
+
+- Asia (http://myreadingmapped.blogspot.com/2012/01/interactive-map-of-ancient-and-other_2.html) 
+
+- Europe (http://myreadingmapped.blogspot.com/2012/01/interactive-map-of-ancient-and-other_02.html)
+
+- Central and South America (http://myreadingmapped.blogspot.com/2012/01/interactive-map-of-ancient-and-other.html)
+
+- United States (http://myreadingmapped.blogspot.com/2011/06/interactive-map-of-ruins-of-united.html)]]></description>
+			<Point>
+				<coordinates>-54.140625,27.683528,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pyramid Amenemhat III</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Amenemhet_III)
+
+Amenemhat III, also spelled Amenemhet III was a pharaoh of the Twelfth Dynasty of Egypt. He ruled from c.1860 BC to c.1814 BC, the highest known date being found in a papyrus dated to Regnal Year 46, I Akhet 22 of his rule.[2] His reign is regarded as the golden age of the Middle Kingdom.[3] He may have had a long coregency (of 20 years) with his father, Senusret III.[4]]]></description>
+			<Point>
+				<coordinates>30.898962000000004,29.274439,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Buried Pyramid</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://upload.wikimedia.org/wikipedia/commons/2/2f/Sekhemkhet_pyramid_at_Saqqara.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Buried_Pyramid)
+
+The Buried Pyramid (also called the Pyramid of Sekhemkhet) is an unfinished step pyramid constructed ca. 2645 BC for Sekhemkhet Djoserty. The pharaoh was the second of the third dynasty of Ancient Egypt, which was roughly during the years 2686–2613 BC and is usually placed at the beginning of the Old Kingdom of Egypt .[1] Many historians believe that the third dynasty played an important role in the transition from Early Dynastic Period of Egypt  to the Age of the Pyramids.[2]  
+
+ 
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>31.213000000000005,29.865999999999996,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pyramid of Djoser</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/3/3e/Pyramid_of_Djoser_2010.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pyramid_of_Djoser)
+
+The Pyramid of Djoser (or Zoser), or step pyramid (kbhw-ntrw in Egyptian is an archeological remain in the Saqqara necropolis, Egypt, northwest of the city of Memphis. It was built during the 27th century BC for the burial of Pharaoh Djoser by Imhotep, his vizie. It is the central feature of a vast mortuary complex in an enormous courtyard surrounded by ceremonial structures and decoration.
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>31.216394,29.871267000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Layer Pyramid</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/4/42/Khaba_pyramid_at_Zawyet_el%27Aryan.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Layer_Pyramid)
+
+
+The Layer Pyramid (known locally in Arabic as il-haram il-midawwar, Arabic : الهرم المدور‎, meaning 'rubble-hill pyramid') is located in the necropolis of Zawyet el'Aryan  in Egypt. It is thought to be the tomb of pharaoh Khaba of the Third Dynasty, but this is disputed.
+
+
+
+Wikipedia Commons / Pottery Fan (http://commons.wikimedia.org/w/index.php?title=User:Pottery_Fan&action=edit&redlink=1)]]></description>
+			<Point>
+				<coordinates>31.161261999999997,29.932820000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Meidum</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/9/9b/Meidoum_pyramide_003.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Meidum)
+
+The pyramid at Meidum is thought to have been originally built for Huni, the last pharaoh of the Third Dynasty,  and was continued by Sneferu.  The architect was a successor to the famous Imhotep, the inventor of the stone built pyramid. He modified Imhotep's pyramid design in a way, which is likely to have caused the collapse of the pyramid in conjunction with the decision to extend the construction plan two times in a row, while the pyramid was already under construction. Because of its unusual appearance, the pyramid is called el-heram el-kaddaab — (Pseudo Pyramid) in Egyptian Arabic  
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>31.157304000000003,29.388263,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Bent Pyramid</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/e/eb/Snefru%27s_Bent_Pyramid_in_Dahshur.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Bent_Pyramid)
+
+The Bent Pyramid is an ancient Egyptian pyramid located at the royal necropolis of Dahshur, approximately 40 kilometres south of Cairo, built under the Old Kingdom Pharaoh Sneferu  (c. 2600 BC). A unique example of early pyramid development in Egypt,  this was the second pyramid built by Sneferu.
+
+
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>31.20939,29.790465999999995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Red Pyramid</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/3/3b/Snofrus_Red_Pyramid_in_Dahshur_%282%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Red_Pyramid)
+
+The Red Pyramid, also called the North Pyramid, is the largest of the three major pyramids located at the Dahshur necropolis. Named for the rusty reddish hue of its granite stones, it is also the third largest Egyptian pyramid, after those of Khufu and Khafra at Giza. At the time of its completion, it was the tallest man-made structure in the world. It is also believed to be the world's first successful attempt at constructing a "true" smooth-sided pyramid. Local residents refer to the Red Pyramid as el-heram el-watwaat, meaning the Bat Pyramid.
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>31.206091,29.808834000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pyramid of Djedefre</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/1/17/Abu_Rawash_Pyramid.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pyramid_of_Djedefre)
+
+The Pyramid of Djedefre consists today mostly of ruins located at Abu Rawash in Egypt. It is Egypt's most northerly pyramid, and is believed to be built, son and successor to king Khufu. Originally it was thought that this pyramid had never been completed, but the current archaeological consensus is that not only was it completed under Djedefre, but that it was originally about the same size as the Pyramid of Menkaure — the third largest of the Giza pyramids. [1] 
+
+ 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>31.074722,30.032222000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Great Pyramid of Giza</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/e/e3/Kheops-Pyramid.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Great_Pyramid_of_Giza)
+
+The Great Pyramid of Giza (also known as the Pyramid of Khufu or the Pyramid of Cheops) is the oldest and largest of the three pyramids in the Giza Necropolis bordering what is now El Giza.  It is the oldest of the Seven Wonders of the Ancient World, and the only one to remain largely intact.
+
+
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>31.133897,29.979235000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pyramid of Khafre</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Khafre%27s_Pyramid343.jpg/800px-Khafre%27s_Pyramid343.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Khafre%27s_Pyramid)
+
+The Pyramid of Khafre, also known as the Pyramid of Chephren,[1]  is the second-tallest and second-largest of the ancient Egyptian Pyramids of Giza and the tomb of the fourth-dynasty pharaoh Khafre, who ruled from c. 2558 to 2532 BC.[2]  
+
+
+
+Wikipedia Commons /Mgiganteus1 (http://en.wikipedia.org/wiki/User:Mgiganteus1)]]></description>
+			<Point>
+				<coordinates>31.13041,29.976033,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pyramid of Menkaure</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/d/db/Menkaure%27s_pyramid.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Menkaure%27s_Pyramid)
+
+The Pyramid of Menkaure, located on the Giza Plateau in the southwestern outskirts of Cairo, Egypt is the smallest of the three Pyramids of Giza.  It is thought to have been built to serve as the tomb of the fourth dynasty Egyptian Pharaoh Menkaure.
+
+
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>31.128103000000003,29.972548,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mastabet el-Fara'un</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/a/ab/Mastaba-faraoun-3.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mastabet_el-Fara%27un)
+
+
+Mastabat Fara'un, located in south Saqqara, Egyp in the Memphite Necropolis, is the burial place of king Shepseskaf, of the Fourth Dynasty 
+
+
+ 
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>31.215216,29.838917999999996,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pyramid of Userkaf</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Saqqarah_Ouserkaf_06.jpg/800px-Saqqarah_Ouserkaf_06.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pyramid_of_Userkaf)
+
+The Pyramid complex of Userkaf was built c. 2490 BC[1]  for the pharaoh Userkaf (reign 2494–2487 BC), founder of the 5th dynasty of Egypt (c. 2494–2345 BC). It is located in the pyramid field at Saqqara, on the north-east of the Step pyramid of Djoser (reigned ca. 2670 BC). Constructed in dressed stone with a core of rubble, the pyramid is now ruined and resembles a conical hill in the sands of Saqqara.[1] For this reason, it is known locally as El-Haram el-Maharbish, the "Heap of Stone"[2]  and was recognized as a royal pyramid by western archaeologists in the 19th century.
+
+
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>31.218889,29.873611000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pyramid of Sahure</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/a/a9/SahurePyramid.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pyramid_of_Sahure)
+
+
+The Pyramid of Sahure was the first pyramid built in the necropolis of Abusir, Egypt. The pyramid was constructed for the burial of Sahure, second pharaoh of the fifth dynasty c. 2480 BC.[1]  Sahure's pyramid is part of a larger mortuary complex comprising a temple on the shores of Abusir lake, a causeway from this temple to the high temple located against the main pyramid and a separate cult pyramid for the Ka of the king.[2]  The complex was known in ancient Egyptian as Ḫˁj-b3 S3ḥ.w Rˁ, "The Rising of the B Spirit of Sahure".[1]  
+
+ 
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>31.203333000000004,29.897777999999995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pyramid of Neferirkare Kakai</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/0/06/Abousir_Neferirkare_02.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pyramid_of_Neferirkare)
+
+
+The Pyramid of Neferirkare (also known as The Ba of Neferirkare) is the second pyramid to be built at the necropolis site of Abusir, south of the Giza plateau, in Egypt. The pyramid of Neferirkare is the tallest of all pyramids constructed in Ancient Egypt during its Fifth Dynasty.
+
+
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>31.2025,29.895,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pyramid of Neferefre</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/b/b4/Pyramid_of_Neferefre%2C_Abusir%2C_1970ies.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pyramid_of_Neferefre)
+
+The Pyramid of Raneferef, also known as the Pyramid of Neferefre, is an unfinished Egyptian pyramid from the 5th Dynasty, located in the necropolis of Abusir , Egypt. After the early death of Pharaoh Raneferef, the unfinished building was reconstructed into a geometric mastaba, becoming the burial place of the deceased king. Despite the demolition of the actual pyramid, the complex was augmented through extensive construction of temples by Raneferef's successors.[1] 
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>31.201667,29.893806,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pyramid of Djedkare-Isesi</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/0/03/Pyramide_Djedkare_elevation.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pyramid_of_Djedkare-Isesi)
+
+The pyramid of Egyptian  pharaoh Djedkare-Isesi was built at South Saqqara in the fifth dynasty.  The translation of its ancient Egyptian name is Beautiful is Djedkare.[1] The pyramid was the first one to be built south of the main Saquara necropolis. Today, the pyramid is referred to as 'The Sentinel' (el-Shawaf) by the locals.[2]  
+
+
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>31.220832999999995,29.851111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pyramid of Unas</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/1/11/Sakkara_C02-29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pyramid_of_Unas)
+
+The Pyramid Complex of Unas is located in the pyramid field at Saqqara, near Cairo in Egypt. The pyramid of Unas of the Fifth Dynasty (originally known as Beautiful are the places of Unas) is now ruined, and looks more like a small hill than a royal pyramid.
+
+
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>31.214893999999997,29.868261,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pyramid of Teti</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/d/db/Pyramid_of_Teti_2010.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pyramid_of_Teti)
+
+The Pyramid of Teti is a smooth-sided pyramid situated in the pyramid field at Saqqara n Egypt.  It is historically the second known pyramid containing pyramid texts. Excavations have revealed a satellite pyramid, two pyramids of queens accompanied by cult structures, and a funerary temple. The pyramid was opened by Gaston Maspero in 1882 and the complex explored during several campaigns ranging from 1907 to 1965.[1] It was originally called Teti's Places Are Enduring. The preservation above ground is very poor, and it now resembles a small hill. Below ground the chambers and corridors are very well preserved.
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>31.221667,29.875278000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mortuary complex of Pepi I</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pyramid_of_Pepi_I)
+ 
+The mortuary complex of Pepi I is situated in the southern archaeological complex of Saqqara, Egypt. It was excavated in the 1960s by the French Archaeological Mission of Saqqara (MafS) which, all around the main pharaoh's pyramid, discovered about ten new pyramids for the queens and family of this pharaoh.[1  Several have Pyramid Texts (Akhenespepy II, Behenou, Reherichefnakht)]]></description>
+			<Point>
+				<coordinates>31.218907,29.854549,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pyramid of Senusret I</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/d/d6/Licht-senwsPyramids_01.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedi (http://en.wikipedia.org/wiki/Pyramid_of_Senusret_I)a
+
+The Pyramid of Senusret I is an Egyptian Pyramid built to be the buria place of the Pharaoh Senusret I . The pyramid was built during the twelfth dynasty of Egypt at el-Lisht, near the pyramid of his father,Amenemhat I. Its ancient name was Senusret Petei Tawi (Senusret beholds the two lands.  
+
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>31.220945,29.560010000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pyramid of Senusret II at El-Lahun</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/El_Lahun_Pyramid_01.JPG/800px-El_Lahun_Pyramid_01.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Senusret_II)
+
+Khakeperre Senusret II was the fourth pharaoh of the Twelfth Dynasty of Egypt. He ruled from 1897 BC to 1878 BC. His pyramid was constructed at El-Lahun. Senusret II took a great deal of interest in the Faiyum oasis region and began work on an extensive irrigation system from Bahr Yusuf through to Lake Moeris through the construction of a dike at El-Lahun and the addition of a network of drainage canals. The purpose of his project was to increase the amount of cultivable land in that area.[2] The importance of this project is emphasized by Senusret II's decision to move the royal necropolis from Dahshur to El-Lahun where he built his pyramid. This location would remain the political capital for the 12th and 13th Dynasties of Egypt. The king also established the first known workers' quarter in the nearby town of Senusrethotep (Kahun).[3]
+
+Wikipedia Commons / Einsamer Schütze]]></description>
+			<Point>
+				<coordinates>30.970759,29.236268000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>White Pyramid</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/White_Pyramid)
+ 
+The White Pyramid of Amenemhat II is located in the pyramid field at Dahshur,, Egypt, and is now nothing more than a pile of rubble,  having been heavily quarried for stone. The remaining limestone rubble has given rise to its modern name.]]></description>
+			<Point>
+				<coordinates>31.223123,29.805814,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pyramid of Amenemhat III (Dahshur)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/e/ea/Black_Pyramid_of_Amenemhat_III..JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pyramid_of_Amenemhat_III_(Dahshur))
+
+
+The Black Pyramid was built by King Amenemhat III during the Middle Kingdom of Egypt (2055-1650 BC). It is one of the five remaining pyramids of the original eleven pyramids at Dahshur in Egypt. Originally named Amenemhet is Mighty, the pyramid earned the name "Black Pyramid" for its dark, decaying appearance as a rubble mound. The Black pyramid was the first to house both the deceased pharaoh and his queens. 
+
+
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>31.223611000000002,29.791667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pyramid of Khendjer</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/a/a3/Khendjer-complexe-1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pyramid_of_Khendjer)
+
+The Pyramid of Khendjer was built for the burial of the 13th dynasty pharaoh Khendjer, who ruled Egypt c. 1760 BC during the Second Intermediate Period.  The pyramid, which is part of larger complex comprising a morturary temple, a chapel, two enclosure walls and a subsidiary pyramid, originally stood around 37 m (121 ft) high and is now completely ruined.[1]  The pyramidion was discovered during excavations under the direction of Gustave Jéquier in 1929, indicating that the pyramid was finished during Khendjer's lifetime.[3] It is the only pyramid known to have been completed during the 13th dynasty.
+
+
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>31.223889,29.832222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>Nubian Pyramids of Meroe</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nubian20pyramids.jpg/220px-Nubian20pyramids.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Nubian_pyramids)
+
+Nubian pyramids are pyramids that were built by the rulers of the ancient Kushite kingdoms. Prior to the Kushites building these pyramids, there had been no pyramid construction in Egypt and the Nile Valley for more than 500 years.
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>33.74869,16.938205,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-F4EB37</styleUrl>
+			<name>Germa Pyramids, Libya</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/small/32302593.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[temehu.com (http://www.temehu.com/Cities_sites/germa.htm)
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>12.948836,26.559309,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Altun Ha</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/8/86/Altun_Ha.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Altun_Ha)
+
+Altun Ha  located in the Belize District about 30 miles (50 km) north of Belize City and about 6 miles (10 km) west of the shore of the Caribbean Sea. The site covers an area of about 5 miles (8 km) square. The ruins of the ancient structures had their stones reused for residential construction of the agricultural village of Rockstone Pond in modern times, but the ancient site did not come to the attention of archeologists until 1963. The largest of Altun Ha's temple-pyramids, the "Temple of the Masonry Altars", is 54 feet (16 m) high.
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-88.347061,17.76395,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Becán </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/7/71/Becan_x2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Becan)
+
+(No useful information available specifically about the pyramid)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-89.466195,18.516146,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Becán Structure IX  </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bec%C3%A1n_-_Structure_IX.jpg/479px-Bec%C3%A1n_-_Structure_IX.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Becan)
+Wikipedia Commons / PhilippN]]></description>
+			<Point>
+				<coordinates>-89.466444,18.518089,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Calakmul</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/f/f7/Calakmul2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Calakmul)
+
+There are 6,750 ancient structures identified at Calakmul the largest of which is the great pyramid at the site. Structure 2 is over 45 metres (148 ft) high, making it one of the tallest of the Maya pyramids. Four tombs have been located within the pyramid. Like many temples or pyramids within Mesoamerica the pyramid at Calakmul increased in size by building upon the existing temple to reach its current size. The size of the central monumental architecture is approximately 2 square kilometres (0.77 sq mi) and the whole of the site, mostly covered with dense residential structures, is about 20 square kilometres (7.7 sq mi).
+
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-89.81033,18.105816,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Caracol</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/6/62/Panorama_atop_Caracol.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Caracol)
+
+(No useful information available specifically about the pyramid)
+
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-89.117592,16.763928,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Chichen Itza (view in Street View)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/7/7a/Chichen-Itza-Castillo-Seen-From-East.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Chichen_Itza)
+
+(No useful information available specifically about the pyramid)
+
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-88.56876800000002,20.682914,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Coba (view in Street VIew)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Coba_Nohoch_Mul-27527.jpg/800px-Coba_Nohoch_Mul-27527.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Coba)
+
+(No useful information available specifically about the pyramid)
+
+
+
+
+Wikipedia Commons / Public Domain / Ken Thomas]]></description>
+			<Point>
+				<coordinates>-87.721726,20.493366,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Comalcalco (view in Street View)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/d/d3/Comalcalco.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Comalcalco)
+
+Important architectural features include the northern plaza and two pyramids, the Gran Acropolis and the Acropolis Este.
+
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-93.201753,18.280081,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Copán</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/51742607.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Copan#Main_Group)
+
+(No useful information available specifically about the pyramid)
+
+
+
+
+Google Map / Panoramio / letatehn]]></description>
+			<Point>
+				<coordinates>-89.14202,14.83954,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Dzibilchaltun (view in Street View)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/57279171.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Dzibilchaltun)
+
+(No useful information available specifically about the pyramid)
+ 
+
+Google Map / Panoramio / luislbp]]></description>
+			<Point>
+				<coordinates>-89.596719,21.091527,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>El Mirador</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/3/32/El_Mirador_3.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/El_Mirador)
+
+(No useful information available specifically about the pyramid)
+
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-89.920431,17.75505,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>El Tajín (view in Street View)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/cd/El_Taj%C3%ADn_1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/El_Taj%C3%ADn)
+
+El Tajín is a pre-Columbian archeological site and one of the largest and most important cities of the Classic era of Mesoamerica. A part of the Classic Veracruz culture. El Tajín flourished from 600 to 1200 C.E. and during this time numerous temples, palaces, ballcourts, and pyramids were built.[1] From the time the city fell, in 1230, to 1785, no European seems to have known of its existence, until a government inspector chanced upon the Pyramid of the Niches.[2]  
+ 
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-97.378242,20.448058,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Hormiguero Structure V</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://mw2.google.com/mw-panoramio/photos/medium/5997948.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Hormiguero,_Mexico)
+
+Hormiguero was a Mayan city which was at its peak in the Late Classic Period (650–850). It is located 22 kilometers south of Xpuhil in the Mexican state of Campeche. Only a few of its 84 known structures have been excavated. Nearby is the Central Group, a complex of large temples most of which are not excavated. Of those that are Structure V is the most impressive. It is a towering pyramid with a well preserved Chenes style temple at the top.
+
+
+
+Panoramio/Google Map - by stephanie parker (http://www.panoramio.com/user/169069?with_photo_id=5997948)]]></description>
+			<Point>
+				<coordinates>-89.495176,18.410452,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Lamanai</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Lamanai_High_Temple.jpg/800px-Lamanai_High_Temple.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lamanai)
+
+Lamanai was occupied as early as the 16th century BC.[1]  The vast majority of the site remained unexcavated until the mid-1970s. Archaeological work has concentrated on the investigation and restoration of the larger structures, most notably the Mask Temple ,Structure N10-9 ("Temple of the Jaguar Masks") and High Temple .  
+ 
+
+
+Wikipedia Commons / Bernt Rostad (http://www.flickr.com/people/brostad/)]]></description>
+			<Point>
+				<coordinates>-88.654507,17.752171,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Mayapan (view in Street View)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/b/b6/Mayapan_Castillo.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mayapan)
+
+(No useful information avaliable specifically about the pyramid)
+ 
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-89.46072800000002,20.62933,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Palenque (view in Street View)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/0/01/Temple_of_the_Inscriptions.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Palenque)
+
+The Temple of Inscriptions was begun perhaps as early as 675[10]  as the funerary monument of Hanab-Pakal. The temple superstructure houses the second longest glyphic text known from the Maya world (the longest is the Hieroglyphic Stairway at Copan). The Temple of the Inscriptions records approximately 180 years of the city's history from the 4th through 12th K'atun.
+
+
+
+
+Wikipedia Commons / Ricraider (http://commons.wikimedia.org/w/index.php?title=User:Ricraider&action=edit&redlink=1)]]></description>
+			<Point>
+				<coordinates>-92.04697100000001,17.483555,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Río Azul (approximated)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://mw2.google.com/mw-panoramio/photos/medium/8034207.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/R%C3%ADo_Azul)
+
+Río Azul possesses nine major architectural groups in its site core, each including an elite residential complex and its associated funerary pyramids.
+ 
+Panoramio / Google Map - by Chris Estrada (http://www.panoramio.com/user/1426940?with_photo_id=8034207)]]></description>
+			<Point>
+				<coordinates>-89.172356,17.783691,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>San Bartolo (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/San_Bartolo_(Maya_site))                                                                                             
+petroglyphs.us (http://www.petroglyphs.us/article_mural_reveals_pre-classic_Maya_as_a%20civilized_society.htm) (Illustration of buried pyramid)
+ 
+The Maya site includes an 85-foot pyramid  named "Las Ventanas" (The Windows); the Temple  of "Las Pinturas" (The Paintings); an early royal tomb in the "Tigrillo Complex" (Ocelot Complex); and (in the "Jabalí" [Wild Boar] group some 500 mt. to the east from the central Plaza) a triadic complex similar to the H group in Uaxactún and Tikal's North Acropolis. The pyramid was constructed from ca 300 BC (base rooms) and was completed ca 50 AD.]]></description>
+			<Point>
+				<coordinates>-89.322968,17.619155,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Templo del Sol or Great Pyramid at Cempoalla</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/small/50103750.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Cempoala)
+
+Templo del Sol or Great Pyramid or Sun Temple built on the same platform as the Templo Mayor, separated by an ample square. This is probably the most impressive structure on site.[1] The great temple resembles the Sun Temple in Tenochtitlan. The Quetzalcoatl Temple, the Feathered Serpent God is a square platform, and the Ehécatl Temple, the wind God is round.[1]  
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-96.403916,19.447733,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Tikal North Acropolis</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Tikal#Architectural_groups)
+ 
+The North Acropolis, together with the Great Plaza immediately to the south, is one of the most studied architectural groups in the Maya area; the Tikal Project excavated a massive trench across the complex, thoroughly investigating its construction history. It is a complex group with construction beginning in the Preclassic Period, around 350 BC. It developed into a funerary complex for the ruling dynasty of the Classic Period, with each additional royal burial adding new temples on top of the older structures. After AD 400 a row of tall pyramids was added to the earlier Northern Platform, which measured 100 by 80 metres (330 by 260 ft), gradually hiding it from view. Eight temple pyramids were built in the 6th century AD, each of them had an elaborate roofcomb and a stairway flanked by masks of the gods. By the 9th century AD, 43 stelae and 30 altars had been erected in the North Acropolis; 18 of these monuments were carved with hieroglyphic texts and royal portraits. The North Acropolis continued to receive burials into the Postclassic Period.[83] ]]></description>
+			<Point>
+				<coordinates>-89.62345,17.222698,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Tikal Temple I</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Tikal#Structures)
+ 
+Temple I (also known as the Temple of Ah Cacao or Temple of the Great Jaguar) is a funerary pyramid dedicated to Jasaw Chan K'awil, who was entombed in the structure in AD 734,[83]  the pyramid was completed around 740–750.[104]  The temple rises 47 metres (154 ft) high.[1]  The massive roofcomb that topped the temple was originally decorated with a giant sculpture of the enthroned king, although little of this decoration survives.[105]  The tomb of the king was discovered by Aubrey Trik of the University of Pennsylvania in 1962.[18]  Among items recovered from the Late Classic tomb were a large collection of inscribed human and animal bone tubes and strips with sophisticated scenes depicting deities and people, finely carved and rubbed with vermilion, as well as jade and shell ornaments and ceramic vessels filled with offerings of food and drink.[18]  The shrine at the summit of the pyramid has three chambers, each behind the next, with the doorways spanned by wooden lintels fashioned from multiple beams. The outermost lintel is plain but the two inner lintels were carved, some of the beams were removed in the 19th century and their location is unknown, while others were taken to museums in Europe.[103] ]]></description>
+			<Point>
+				<coordinates>-89.622981,17.22206,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Tikal Temple II</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/0/06/Tikal_Temple1_2006_08_11.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Tikal#Structures)
+
+ 
+Temple II (also known as the Temple of the Mask) in was built around AD 700 and stands 38 metres (125 ft) high. Like other major temples at Tikal, the summit shrine had three consecutive chambers with the doorways spanned by wooden lintels, only the middle of which was carved. The temple was dedicated to the wife of Jasaw Chan K'awil, although no tomb was found. The queen's portrait was carved into the lintel spanning the doorway of the summit shrine. 
+ 
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-89.624131,17.222255,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Tikal Temple III</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Tikal#Structures)
+
+tikal-3d.com (http://www.tikal-3d.com/tikal/temple_3.htm)
+ 
+Temple III (also known as the Temple of the Jaguar Priest) was the last of the great pyramids to be built at Tikal. It stood 55 metres (180 ft) tall and contained an elaborately sculpted but damaged roof lintel, possibly showing Dark Sun engaged in a ritual dance around AD 810.[73]  The temple shrine possesses two chambers.[108]  ]]></description>
+			<Point>
+				<coordinates>-89.62603,17.222048,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Tikal Temple IV</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Tikal#Structures)
+
+Temple IV is the tallest temple-pyramid at Tikal, measuring 70 metres (230 ft) from the plaza floor level to the top of its roof comb.[88]   Temple IV marks the reign of Yik’in Chan Kawil (Ruler B, the son of Ruler A or Jasaw Chan K'awiil I) and two carved wooden lintels over the doorway that leads into the temple on the pyramid’s summit record a long count date (9.15.10.0.0) that corresponds to CE 741 (Sharer 1994:169). Temple IV is the largest pyramid built anywhere in the Maya region in the 8th century,[109]  and as it currently stands is the tallest pre-Columbian structure in the Americas although the Pyramid of the Su at Teotihuacan may originally have been taller, as may have been one of the structures at El Mirador.[110] ]]></description>
+			<Point>
+				<coordinates>-89.629871,17.223795,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Tikal Temple V</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Tikal#Structures)                     
+Temple V stands south of the Central Acropolis and is the mortuary pyramid of an as yet unidentified ruler. The temple stands 57 metres (187 ft) high, making it the second tallest structure at Tikal - only Temple IV is taller.[111]  The temple has been dated to about AD 700, in the Late Classic period, via radiocarbon analysis and the dating of ceramics associated with the structure places its construction during the reign of Nun Bak Chak in the second half of the 7th century.[112]                                                              
+Temple VI is also known as the Temple of the Inscriptions and was dedicated in AD 766. It is notable for its 12-metre (39 ft) high roof-comb. Panels of hieroglyphs cover the back and sides of the roof-comb. The temple faces onto a plaza to the west and its front is unrestored.[79] ]]></description>
+			<Point>
+				<coordinates>-89.62721,17.220001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Tikal Temple VI</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Tikal#Structures)
+
+Temple VI  is also known as the Temple of the Inscriptions and was dedicated in AD 766. It is notable for its 12-metre (39 ft) high roof-comb. Panels of hieroglyphs cover the back and sides of the roof-comb. The temple faces onto a plaza to the west and its front is unrestored.[79]  ]]></description>
+			<Point>
+				<coordinates>-89.620028,17.218891,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Tikal Temple ?</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[(No useful information available specifically about the pyramid)]]></description>
+			<Point>
+				<coordinates>-89.621586,17.229152,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Tikal Temple ?</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[(No useful information available specifically about the pyramid)]]></description>
+			<Point>
+				<coordinates>-89.618925,17.225135,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Tikal Temple ?</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[(No useful information available specifically about the pyramid)]]></description>
+			<Point>
+				<coordinates>-89.623654,17.219673,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>The Lost World Pyramid of Mundo Perdido complex</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Tikal#Architectural_groups)
+ 
+The Mundo Perdido is to the west of the Plaza of the Seven Temples.[98]  It is the largest ceremonial complex dating from the Preclassic period at Tikal.[99]  The complex was organised as a large E-Group consisting of a pyramid aligned with a platform to the east that supported three temples.[99]  The Mundo Perdido complex was rebuilt many times over the course of its history. By AD 250–300 its architectural style was influenced by the great metropolis of Teotihuacan in the Valley of Mexico, including the use of the talud-tablero  form.[100]  During the Early Classic period (c. 250–600) the Mundo Perdido became one of the twin foci of the city, the other being the North Acropolis.[101]  From AD 250 to 378 it may have served as the royal necropolis.[101]  The Mundo Perdido complex was given its name by the archaeologists of the University of Pennsylvania; it is centred upon the Lost World Pyramid and a small platform to the west of it.[98]  ]]></description>
+			<Point>
+				<coordinates>-89.62801,17.220674,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Tulum</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tulum_sverzel.jpg/800px-Tulum_sverzel.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Tulum)
+
+Also in the central precinct is the Castillo, which is 7.5 m (25 ft) tall. The Castillo was built on a previous building that was colonnaded and had a beam and mortar roof. The lintels in the upper rooms have serpent motifs carved into them. The construction of the Castillo appears to have taken place in stages. A small shrine appears to have been used as a beacon for incoming canoes. This shrine marks a break in the barrier reef that is opposite the site. ]  
+
+
+
+Wikipedia Commons / Sverzel (http://commons.wikimedia.org/w/index.php?title=User:Sverzel&action=edit&redlink=1)]]></description>
+			<Point>
+				<coordinates>-87.42886900000002,20.21454,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Uxmal Pyramid of the Magician</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/0073_Uxmal.JPG/800px-0073_Uxmal.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pyramid_of_the_Magician)
+
+The Adivino (a.k.a. the Pyramid of the Magician  or the Pyramid of the Dwarf), is a stepped pyramid structure, unusual among Maya structures in that its layers' outlines are oval or elliptical in shape, instead of the more common rectilinear plan. It was a common practice in Mesoamerica to build new temple pyramids atop older ones, but here a newer pyramid was built centered slightly to the east of the older pyramid, so that on the west side the temple atop the old pyramid is preserved, with the newer temple above it. In addition, the western staircase of the pyramid is situated so that it faces the setting sun on the summer solstice.
+
+
+
+
+
+Wikipedia Commons / tato grasso (http://commons.wikimedia.org/wiki/User:Esculapio)]]></description>
+			<Point>
+				<coordinates>-89.769609,20.360867,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Uxmal La Gran Pirámide</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/La_Gran_Pyramide.jpg/800px-La_Gran_Pyramide.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[http://en.wikipedia.org/wiki/Uxmal
+
+(No useful information available specifically about the pyramid)
+
+
+
+Wikipedia Commons / Keith Pomakis]]></description>
+			<Point>
+				<coordinates>-89.772028,20.358418,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Xultun Pyramid</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://mw2.google.com/mw-panoramio/photos/small/6175121.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Xultun)
+
+The site contains a 35 m tall pyramid, two ballcourts , 24 stele (the last of which, Stele 10, dates to 889), several plazas, and five aguadas (water reservoirs). Xultún is the largest-known Classic Maya site that has yet to be archaeologically investigated.[1]  Nearby sites include Chaj K’e’k Cué, a site believed to be the residential area of the Xultún elite, containing an 8 meter tall palace, Isla Oasis, and Las Minas. These later sites contain large limestone quarries.
+
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-89.629394,17.391566,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Yaxha</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/8/8d/Yaxhatemplo216.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Yaxha)
+
+Structure 216 is a large pyramid on the east side of Plaza A upon the East Acropolis. The remains of the temple shrine still stand upon the pyramidal base and the total height of the structure is over 30 metres (100 ft), making it the tallest structure at Yaxha.[40]  
+ 
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-89.383736,17.058021,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Aztec Pyramid at Cholula (view in Street View)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/8/8b/Mexico.Pue.Cholula.Pyramid.01.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Great_Pyramid_of_Cholula) 
+
+The Great Pyramid of Cholula, also known as Tlachihualtepetl (Nahuatl for "artificial mountain"), is a huge complex located in Cholula, Puebla, Mexico. It is the largest archaeological site of a pyramid (temple) in the New World. The pyramid stands 55 metres (180 ft) above the surrounding plain,[2]  and in its final form it measured 400 by 400 metres (1,300 by 1,300 ft).[3]  The pyramid is a temple that has traditionally been viewed as having been dedicated to the god Quetzalcoat.[2]  The architectural style of the building was closely linked to that of Teotihuacan  in the Valley of Mexico, although influence from the Gulf Coast is also evident, especially from El Tajín.. {3} 
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-98.303237,19.058683,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Cuicuilco (the circular pyramid)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Cuicuilco)
+ 
+At the site are 8 of the many housing and religious buildings that once existed, and the remains of a hydraulic system that supplied water the city. One of the pyramids was built in a strategic position, representing early prehispanic attempts to link religious concepts with cosmic events through building construction.[1]  ]]></description>
+			<Point>
+				<coordinates>-99.181667,19.301667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Pyramid of the Sun (view in Street View)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/e/e0/Piramide_del_Sol_072006.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pyramid_of_the_Sun) 
+
+
+The name Pyramid of the Sun comes from the, who visited the city of Teotihuacan centuries after it was abandoned; the name given to the pyramid by the Teotihuacanos is unknown. It was constructed in two phases. The first construction stage, around 100 A.D., brought the pyramid to nearly the size it is today. The second round of construction resulted in its completed size of 738 feet (224.942 meters) across and 246 feet (75 meters) high, making it the third largest pyramid in the world, [1]  but being much shorter than the Great Pyramid of Giza (146 metres). The second phase also saw the construction of an altar atop of the pyramid, which has not survived into modern times. The Adosada platform was added to the pyramid in the early third century, at around the same time that the Ciudadela and Temple of the Feathered Serpent, Teotihuacan Pyramid of the Feathered Serpent were constructed.
+
+
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-98.843544,19.692435,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Tenochtitlan Templo Mayor</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/9/9d/TenochtitlanModel.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Tenochtitlan on Wikipedia (http://en.wikipedia.org/wiki/Tenochtitlan)
+
+Destroyed by Cortés. In the center of the city were the public buildings, temples and prostis. Inside a walled square, 300 meters to a side, was the ceremonial center. There were about 45 public buildings including: the Templo Mayor, which dedicated to the Aztec patron deity Huitzilopochtli and the Rain God Tlaloc, the temple of Quetzalcoatl, the tlachtli (ball game with the tzompantli or rack of skulls, the Sun Temple, which was dedicated to Tonatiuh, the Eagle's House, which was associated with warriors and the ancient power of rulers, the platforms for the gladiatorial sacrifice, and some minor temples.[8]  
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-99.133372,19.41969,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Tula, Hidalgo (view in Street View)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/cd/Pir%C3%A1mide_tula.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Tula_(Hidalgo)) 
+
+Tula Grande contains pyramids, Mesoamerican ball courts and other buildings but its most distinctive characteristics are the Atlantean figures, columns in the shape of warriors and the “Serpent Wall,” a wall with reliefs that serve as a predecessor to similar constructions in later cultures.[4]  
+
+ 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-99.340495,20.063339,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Tzintzuntzan (view in Street VIew)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/e/e4/4thYacatatztztz.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Tzintzuntzan_(Mesoamerican_site) 
+
+The Tzintzuntzan archeological site is mostly what was the ceremonial center. It is situated on a large artificial platform excavated into Yahuarato hill overlooking Lake Pátzcuaro from the northeast shore. The ceremonial center contains a large plaza and several buildings known to house priests and nobility but the main attraction is the five yácatas or semi-circular pyramids that face out over the lake area.[1]  This ceremonial center was called Taríaran or “House of the Wind.”[12]  The archeological site was also a defensive fortification as well as a religious center.[4] 
+
+ 
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-101.574167,19.623611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Xochicalco (view in Street View)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/2/20/Mexico_xochicalco_pyramids.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Xochicalco)
+
+The Temple of the Feathered Serpent has fine stylized depictions of that deity in a style which includes apparent influences of Teotihuacan and Maya art. The high taluds of the pyramid bear relief carvings that depict towns that paid tribute to Xochicalco as well as several seated figures that look Mayan.[1]  It has been speculated that Xochicalco may have had a community of artists from other parts of Mesoamerica.
+
+Other monuments at the site include several other step-pyramid temples, palaces, three ballcourts, sweat-baths...
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-99.2963,18.803339,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-D698AD</styleUrl>
+			<name>Monte Albán (view in Street View)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/b/bb/Monte_Alban_West_Side_Platform.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Monte_Alb%C3%A1n)
+
+To the north and south the Main Plaza is delimited by large platforms accessible from the plaza via monumental staircases. On its eastern and western sides the plaza is similarly bounded by a number of smaller platform mounds on which stood temples and elite residences...
+ 
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-96.768222,17.044312,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-D698AD</styleUrl>
+			<name>Túcume (Inca Brick Pyramid)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Pir%C3%A1midesT%C3%BAcume_lou.jpg/250px-Pir%C3%A1midesT%C3%BAcume_lou.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/T%C3%BAcume)
+
+Túcume is a pre-Hispanic site in Peru, south of the La Leche River on a plain around La Raya Mountain. It covers an area of over 540 acres (220 ha) and encompassing 26 major pyramids and mounds.[1 The area is referred to as Purgatorio (purgatory by local people.
+
+
+
+
+Wikipedia Commons
+
+
+An eroded brick pyramid at Túcume]]></description>
+			<Point>
+				<coordinates>-79.844255,-6.515236,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-D698AD</styleUrl>
+			<name>Caral Piramde Mayor</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/30/PeruCaral01.jpg/800px-PeruCaral01.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Caral#Main_Pyramid)
+
+The main pyramid (Spanish: Pirámide Mayor) covers an area nearly the size of four football fields and is 60 feet (18 m) tall. Caral is the largest recorded site in the Andean region with dates older than 2000 BCE and appears to be the model for the urban design adopted by Andean civilizations that rose and fell over the span of four millennia. It is believed that Caral may answer questions about the origins of Andean civilizations and the development of the first cities.
+
+
+
+Wikipedia Commons / Håkan Svensson Xauxa (http://commons.wikimedia.org/wiki/User:Xauxa)]]></description>
+			<Point>
+				<coordinates>-77.521205,-10.890288,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-D698AD</styleUrl>
+			<name>Piramide de la Cantera</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Caral spawns 19 other pyramid complexes scattered across the 35 square mile (80 km²) area of the Supe Valley.
+
+
+See Caral-Supe civilization  at  monografias.com (http://www.monografias.com/trabajos94/civilizacion-caral-supe/civilizacion-caral-supe.shtml)]]></description>
+			<Point>
+				<coordinates>-77.523372,-10.891837,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-D698AD</styleUrl>
+			<name>Caral Piramide Central</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Caral spawns 19 other pyramid complexes scattered across the 35 square mile (80 km²) area of the Supe Valley. 
+
+
+See Caral-Supe civilization  at  monografias.com (http://www.monografias.com/trabajos94/civilizacion-caral-supe/civilizacion-caral-supe.shtml)]]></description>
+			<Point>
+				<coordinates>-77.523048,-10.890981,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-D698AD</styleUrl>
+			<name>Caral Piramide de la Galeria</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Caral spawns 19 other pyramid complexes scattered across the 35 square mile (80 km²) area of the Supe Valley.
+
+
+See Caral-Supe civilization  at  monografias.com (http://www.monografias.com/trabajos94/civilizacion-caral-supe/civilizacion-caral-supe.shtml)]]></description>
+			<Point>
+				<coordinates>-77.519242,-10.893206,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-D698AD</styleUrl>
+			<name>Caral Piramide de la Huanca</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Caral spawns 19 other pyramid complexes scattered across the 35 square mile (80 km²) area of the Supe Valley.
+
+
+See Caral-Supe civilization  at  monografias.com (http://www.monografias.com/trabajos94/civilizacion-caral-supe/civilizacion-caral-supe.shtml)]]></description>
+			<Point>
+				<coordinates>-77.520379,-10.893449,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-D698AD</styleUrl>
+			<name>Caral Piramide Menor</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Caral spawns 19 other pyramid complexes scattered across the 35 square mile (80 km²) area of the Supe Valley.
+
+
+See Caral-Supe civilization  at  monografias.com (http://www.monografias.com/trabajos94/civilizacion-caral-supe/civilizacion-caral-supe.shtml)]]></description>
+			<Point>
+				<coordinates>-77.520154,-10.8917,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-EE9C96</styleUrl>
+			<name>Cahuachi Piramide Mayor</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cahuachi_14.jpg/300px-Cahuachi_14.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Cahuachi)
+
+(No useful information available specifically about the pyramid)
+ 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-75.117972,-14.819434999999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-EE9C96</styleUrl>
+			<name>Cahuachi Gran Piramide </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[(No useful information available specifically about the pyramid)]]></description>
+			<Point>
+				<coordinates>-75.116272,-14.818676999999997,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-EE9C96</styleUrl>
+			<name>Huaca Huallamarca (Inca Pyramid)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[limaeasy.com (http://www.limaeasy.com/culture-guide/huacas-adobe-pyramids/the-adobe-pyramid-huallamarca-pan-de-azucar)
+
+ 
+(No useful information available specifically about the pyramid)]]></description>
+			<Point>
+				<coordinates>-77.040453,-12.097373,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Chinese Pyramid #1</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Maoling)
+  
+Maoling (Chinese 陵: Mào Líng) is the tomb of Emperor Wu of Han (156–87 BCE) located in Xingping, Shaanxi Province, China, about 40 km to the west of the provincial capital of Xi'a. The tomb is the largest of all tombs built during the Han Dynasty. It is a trapezoidal tumulus built from rammed earth with a rectangular base of 222 by 217 meters wide and a height of 47 meters.[1] Construction of the tomb began in 139 BC, the second year in the reign of Emperor Wu[1] [2] and took 53 years until completion upon the emperor's death. About one third of the court's annual revenue from taxes and tributes was used towards construction of the tomb. Maoling is the largest in a group of more than 20 tombs. The smaller tombs surrounding it belong to former members of Emperor Wu's court, such as Lady Li, the emperor's favorite concubine, and the military strategist Huo Qubing  (died 117 BCE).]]></description>
+			<Point>
+				<coordinates>108.569684,34.338085,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Chinese Pyramid #6</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Tomb of Empress Shangguan
+
+ Wikipedia (http://en.wikipedia.org/wiki/Chinese_pyramids)
+ 
+Chinese pyramids are ancient mausoleums and burial mounds built to house the remains of several early emperors of China and their imperial relatives. About 38 of them are located around 25 kilometres (16 mi) - 35 kilometres (22 mi) north-west of Xi'an, on the Qin Chuan Plains in Shaanxi Province. The most famous is the Mausoleum of the First Qin Emperor, northeast of Xi'an and 1.7 km west of where the Terracotta Warriors were found[citation needed. Chinese pyramids were also built during the Han, Tang, Song, and Western Xia dynasties.[citation needed]
+
+They have flat tops, and thus are more similar in shape to the Teotihuacan pyramids north-east of Mexico City, Mexico  than to the pyramids in Giza, Egypt. Although known in the West for at least a century, their existence has been made controversial by sensationalist publicity and the problems of Chinese archaeology in early 20th century.]]></description>
+			<Point>
+				<coordinates>108.630538,34.363135,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Chinese Pyramid #7</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Tomb of Emperor Zhao of Han
+ 
+Wikipedia (http://en.wikipedia.org/wiki/Chinese_pyramids)
+ 
+ ]]></description>
+			<Point>
+				<coordinates>108.64010800000001,34.361753,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Chinese Pryamid #11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Tomb of Emperor Cheng of Han
+ 
+Wikipedia (http://en.wikipedia.org/wiki/Chinese_pyramids)
+  ]]></description>
+			<Point>
+				<coordinates>108.698001,34.374896,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Unknown Chinese Pyramid</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Tomb of Consort Ban
+ 
+Wikipedia (http://en.wikipedia.org/wiki/Chinese_pyramids)
+ ]]></description>
+			<Point>
+				<coordinates>108.704492,34.379801,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Chinese Pyramid #15</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Tomb of Emperor Ping of Han
+ 
+Wikipedia (http://en.wikipedia.org/wiki/Chinese_pyramids)
+
+ ]]></description>
+			<Point>
+				<coordinates>108.712421,34.397774,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Unknown Pyramid #</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Tomb of Emperor Ai of Ha
+ 
+Wikipedia (http://en.wikipedia.org/wiki/Chinese_pyramids)
+ ]]></description>
+			<Point>
+				<coordinates>108.764606,34.400855,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Unknown Chinese Pyramid #</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Tomb of Empress Dou
+ 
+Wikipedia (http://en.wikipedia.org/wiki/Chinese_pyramids)
+
+ ]]></description>
+			<Point>
+				<coordinates>109.118614,34.235825,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F9F7A6</styleUrl>
+			<name>Tomb of Empress Dowager Bo</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Chinese_pyramids)
+
+ ]]></description>
+			<Point>
+				<coordinates>109.096341,34.220993,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pyramid 33</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Tomb of Emperor Xuan of Ha
+
+Wikipedia (http://en.wikipedia.org/wiki/Chinese_pyramids)
+
+ ]]></description>
+			<Point>
+				<coordinates>109.02231200000001,34.181063,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pyramid 33</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Chinese_pyramids)
+
+ ]]></description>
+			<Point>
+				<coordinates>109.028664,34.178755,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pyramid 35</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Chinese_pyramids)
+
+ ]]></description>
+			<Point>
+				<coordinates>109.031625,34.177903,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Shaohao Tomb in Qufu, Shandong</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Shaohao Tomb in Qufu, Shandong.
+(http://en.wikipedia.org/wiki/Shaohao_Tomb) 
+
+ ]]></description>
+			<Point>
+				<coordinates>117.033,35.610802,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>The Nanlianhu Altar (南凉虎台)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Chinese_pyramids)
+ ]]></description>
+			<Point>
+				<coordinates>101.746123,36.632869,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Tomb of Emperor Wen of Sui</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Chinese_pyramids)
+
+ ]]></description>
+			<Point>
+				<coordinates>108.022814,34.288921,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Tomb of Emperor Xiaojing of Tang</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Chinese_pyramids)
+ ]]></description>
+			<Point>
+				<coordinates>112.810986,34.633226,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Tomb of First Emperor in Lintong</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Chinese_pyramids)
+
+ ]]></description>
+			<Point>
+				<coordinates>109.254012,34.381271,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Tomb of Three Kings of Zhou</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Chinese_pyramids)
+
+ ]]></description>
+			<Point>
+				<coordinates>112.38284100000001,34.628326,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Tomb of King Ling of Zhou</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Chinese_pyramids)
+
+ ]]></description>
+			<Point>
+				<coordinates>112.375202,34.625775000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Tomb of King of Zhao state</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Chinese_pyramids)
+
+ ]]></description>
+			<Point>
+				<coordinates>114.418852,36.706705,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-62AF44</styleUrl>
+			<name>Osho Steel Pyramid in India</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Background Info. (http://www.gizapyramid.com/Osho-Pyramids1.htm)]]></description>
+			<Point>
+				<coordinates>73.887042,18.537336,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-62AF44</styleUrl>
+			<name>The Louvre Glass Pyramid</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/800px-Louvre_Museum_Wikimedia_Commons.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[The Louvre Glass Pyramid on Wikipedia (http://en.wikipedia.org/wiki/Louvre_Pyramid)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>2.335812,48.860854,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-62AF44</styleUrl>
+			<name>Roman Pyramid of Cestius</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pyramid_of_cestius.jpg/250px-Pyramid_of_cestius.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Pyramid of Cestius on Wikipedia
+ (http://en.wikipedia.org/wiki/Pyramid_of_Cestius)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>12.480833,41.876389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-62AF44</styleUrl>
+			<name>Gangaikonda Cholapuram Pyramid</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/48/GangaiKonda_Cholapuram%28Front_View%29.JPG/220px-GangaiKonda_Cholapuram%28Front_View%29.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Gangaikonda Cholapuram Pyramid on Wikipedia (http://en.wikipedia.org/wiki/Gangaikonda_Cholapuram)
+ 
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>79.448399,11.206371,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-62AF44</styleUrl>
+			<name>Sri Ranganathaswamy Temple Pyramid</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Sri Ranganathaswamy Temple Pyramid on Wikipedia (http://en.wikipedia.org/wiki/Sri_Ranganathaswamy_Temple_(Srirangam))]]></description>
+			<Point>
+				<coordinates>78.691053,10.862346,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-62AF44</styleUrl>
+			<name>Thanjavur Pyramid</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Thanjavur_-_Brihadisvara_Temple_%2856%29.jpg/554px-Thanjavur_-_Brihadisvara_Temple_%2856%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Thanjavur Pyramid on Wikipedia (http://en.wikipedia.org/wiki/Thanjavur)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>79.131174,10.782584,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-62AF44</styleUrl>
+			<name>Cahokia Mounds State Historic Site</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Monks_Mound_in_July.JPG/284px-Monks_Mound_in_July.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Mounds State Historic Site on Wikipedia
+ (http://en.wikipedia.org/wiki/Cahokia)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-90.063171,38.654514,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-62AF44</styleUrl>
+			<name>Candi Borobudur Pyramid</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Borobudur-Nothwest-view.jpg/248px-Borobudur-Nothwest-view.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Candi Borobudur Pyramid on Wikipedia
+ (http://en.wikipedia.org/wiki/Borobudur)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>110.204,-7.608,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-62AF44</styleUrl>
+			<name>The Pyramids of Güímar</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/G%C3%BC%C3%ADmar_BW_5.JPG/220px-G%C3%BC%C3%ADmar_BW_5.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[The Pyramids of Güímaron Wikipedia
+ (http://en.wikipedia.org/wiki/Pyramids_of_G%C3%BC%C3%ADmar)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-16.414309,28.321623,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-62AF44</styleUrl>
+			<name>Pyramid of Luxor</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Luxor_Hotel.jpg/220px-Luxor_Hotel.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Pyramid of Luxor on Wikipedia
+ (http://en.wikipedia.org/wiki/Luxor_Hotel)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-115.175836,36.095563,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-62AF44</styleUrl>
+			<name>Yonaguni Monument</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Yonaguni_Ruins_Scuba.jpg/220px-Yonaguni_Ruins_Scuba.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Yonaguni Monument on Wikipedia (http://en.wikipedia.org/wiki/Yonaguni_Monument)
+Other information and photos (http://www.world-mysteries.com/mpl_Yonaguni.htm)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>123.011,24.432,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-62AF44</styleUrl>
+			<name>Stanley R. Mickelsen Safeguard Complex</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.356758,48.589553,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-93D7E8'>
+			<IconStyle>
+				<color>ffE8D793</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-D698AD'>
+			<IconStyle>
+				<color>ffAD98D6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-EE9C96'>
+			<IconStyle>
+				<color>ff969CEE</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F9F7A6'>
+			<IconStyle>
+				<color>ffA6F7F9</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-960-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-962-62AF44'>
+			<IconStyle>
+				<color>ff44AF62</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-962-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

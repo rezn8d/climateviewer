@@ -1,0 +1,972 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>The Acres, also known as Galesburg Country Homes</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Eric_and_Pat_Pratt_Residence.jpg/800px-Eric_and_Pat_Pratt_Residence.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[The Acres on Wikipedia (http://en.wikipedia.org/wiki/The_Acres)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-85.411832,42.261099,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>William and Jessie M. Adams House</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/William_M_Adams_House_Front.jpg/800px-William_M_Adams_House_Front.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Adams House on Wikipedia (http://en.wikipedia.org/wiki/William_and_Jessie_M._Adams_House)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-87.6701,41.724,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Andrew O. Anderson House</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/DeKalb_Il_Anderson_House10.jpg/800px-DeKalb_Il_Anderson_House10.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Andrew O. Anderson House on Wikipedia (http://en.wikipedia.org/wiki/Andrew_O._Anderson_House)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-88.7557,41.9347,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Annunciation Greek Orthodox Church</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Annunciation_Church_Apr09.jpg/800px-Annunciation_Church_Apr09.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Annunciation Greek Orthodox Church (http://en.wikipedia.org/wiki/Annunciation_Greek_Orthodox_Church) 
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-88.028875,43.098903,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Aline Barnsdall Hollyhock House</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hollyhock_House.JPG/800px-Hollyhock_House.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Aline Barnsdall Hollyhock House on Wikipedia (http://en.wikipedia.org/wiki/Hollyhock_House)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-118.29453,34.100113,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Beth Sholom Congregation</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/FLW_Beth_Sholom_exterior.jpg/800px-FLW_Beth_Sholom_exterior.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Beth Sholom Congregation on Wikipedia (http://en.wikipedia.org/wiki/Beth_Sholom_Congregation_(Elkins_Park,_Pennsylvania))
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-75.126667,40.082222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Arizona Biltmore Hotel</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Azbiltmore.jpg/450px-Azbiltmore.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Arizona Biltmore Hotel on Wikipedia (http://en.wikipedia.org/wiki/Arizona_Biltmore_Hotel)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-112.023,33.5235,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Gregor S. and Elizabeth B. Affleck House</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Gregor_S_and_Elizabeth_B_Affleck_House_Bloomfield_Hills_MI.JPG/800px-Gregor_S_and_Elizabeth_B_Affleck_House_Bloomfield_Hills_MI.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Affleck House on Wikipedia (http://en.wikipedia.org/wiki/Gregor_S._and_Elizabeth_B._Affleck_House)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-83.249815,42.588048,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>George F. Barton House</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Frank_Lloyd_Wright_-_Barton_House.jpg/800px-Frank_Lloyd_Wright_-_Barton_House.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[George F. Barton House on Wikipedia (http://en.wikipedia.org/wiki/George_Barton_House)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-78.847778,42.936528,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>B. Harley Bradley House</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/B._Harley_Bradley_House_and_Stable.JPG/800px-B._Harley_Bradley_House_and_Stable.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/B._Harley_Bradley_House)                                                                                                                                                                  ]]></description>
+			<Point>
+				<coordinates>-87.861711,41.11179800000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Cedar Rock</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://www.iowadnr.gov/Portals/idnr/uploads/parks/ParkTopBanners/730_cedarrock.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Iowa Department of Natural Resources (http://www.iowadnr.gov/Destinations/StateParksRecAreas/IowasStateParks/ParkDetails.aspx?ParkID=3&idAdminBoundary=176)
+
+Public Domain / State of Iowa ]]></description>
+			<Point>
+				<coordinates>-91.770365,42.406347,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Community Christian Church</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Community_Christian_Church_KCMO.jpg/800px-Community_Christian_Church_KCMO.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Community Christian Church on Wikipedia (http://en.wikipedia.org/wiki/Community_Christian_Church_(Kansas_City,_Missouri))
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-94.586465,39.043161,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Dana-Thomas House</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dana_Thomas_Windows.jpg/800px-Dana_Thomas_Windows.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Dana-Thomas House on Wikipedia (http://en.wikipedia.org/wiki/Dana-Thomas_House)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-89.651389,39.794333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Fabyan Villa</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Fabyan_FLWright_1907.JPG/800px-Fabyan_FLWright_1907.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Fabyan Villa on Wikipedia (http://en.wikipedia.org/wiki/Fabyan_Villa)
+
+Wikipedia Commons  ]]></description>
+			<Point>
+				<coordinates>-88.31225500000001,41.871125,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Fallingwater or Kaufmann Residence</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Fallingwater%2CDec08.jpg/220px-Fallingwater%2CDec08.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Fallingwater on Wikipedia (http://en.wikipedia.org/wiki/Fallingwater)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-79.46799,39.906313,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>First Unitarian Society of Madison</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/8/89/1st-Unitarian.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[First Unitarian Society of Madison on Wikipedia (http://en.wikipedia.org/wiki/First_Unitarian_Society_of_Madison)
+ 
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-89.435181,43.075889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Florida Southern College</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Pfeiffer_Chapel_HABS%2C_FLA%2C53-LAKE%2C1A-14.jpg/295px-Pfeiffer_Chapel_HABS%2C_FLA%2C53-LAKE%2C1A-14.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Florida Southern College on Wikipedia (http://en.wikipedia.org/wiki/Florida_Southern_College)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-81.94745,28.03138,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Foster House and Stable</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Stephen_A._Foster_House_and_Stable.jpg/800px-Stephen_A._Foster_House_and_Stable.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Foster House and Stable on Wikipedia (http://en.wikipedia.org/wiki/S._A._Foster_House_and_Stable)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-87.6306,41.6728,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>George W. Furbeck House</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Oak_Park_Il_G_Furbeck_House3.jpg/800px-Oak_Park_Il_G_Furbeck_House3.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[George W. Furbeck House on Wikipedia (http://en.wikipedia.org/wiki/George_Furbeck_House)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-87.793111,41.891097,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Walter H. Gale House</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Oak_Park_Il_Walter_Gale_House4.jpg/800px-Oak_Park_Il_Walter_Gale_House4.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Walter H. Gale House on Wikipedia (http://en.wikipedia.org/wiki/Walter_Gale_House)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-87.801694,41.893914,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Gordon House</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Gordon_House_southeast_side.jpg/800px-Gordon_House_southeast_side.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Gordon House on Wikipedia (http://en.wikipedia.org/wiki/Gordon_House_(Oregon))
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-122.79172999999999,44.99633200000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Graycliff </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Isabelle_R._Martin_House.JPG/800px-Isabelle_R._Martin_House.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Graycliff on Wikipedia (http://en.wikipedia.org/wiki/Graycliff)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-78.972908,42.713609,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Solomon R. Guggenheim Museum</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/NYC_-_Guggenheim_Museum.jpg/800px-NYC_-_Guggenheim_Museum.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Solomon R. Guggenheim Museum on Wikipedia (http://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-73.958992,40.782975,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hanna–Honeycomb House</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/1/1b/Hanna_House_10.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Hanna–Honeycomb House on Wikipedia (http://en.wikipedia.org/wiki/Hanna-Honeycomb_House)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-122.163666,37.416046,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Isidore H. Heller House</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Isidore_Heller_House_-_East_%28front%29_and_North_elevations_-_HABS_ILL%2C16-CHIG%2C48-1.jpg/756px-Isidore_Heller_House_-_East_%28front%29_and_North_elevations_-_HABS_ILL%2C16-CHIG%2C48-1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Isidore H. Heller House on Wikipedia (http://en.wikipedia.org/wiki/Heller_House)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-87.597089,41.801333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>F.B. Henderson House</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Frank_B._Henderson_House_%28Elmhurst%2C_Illinois%29_01.JPG/800px-Frank_B._Henderson_House_%28Elmhurst%2C_Illinois%29_01.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[F.B. Henderson House on Wikipedia (http://en.wikipedia.org/wiki/F.B._Henderson_House)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-87.938058,41.892128,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Arthur B. Heurtley House</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Oak_Park_Il_Heurtley_House4.jpg/800px-Oak_Park_Il_Heurtley_House4.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Arthur B. Heurtley House (http://en.wikipedia.org/wiki/Arthur_Heurtley_House)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-87.799822,41.892722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Warren Hickox House</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Warren_Hickox_House.JPG/800px-Warren_Hickox_House.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Warren Hickox House on Wikipedia (http://en.wikipedia.org/wiki/Warren_Hickox_House)
+
+ Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-87.861606,41.112282,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hillside Home School</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/3/34/Taliesin600.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Background information and virtual tour (http://www.taliesinpreservation.org/visitors-guide/our-tours/virtual-tour)
+
+©Talisin Preservation, Inc. ]]></description>
+			<Point>
+				<coordinates>-90.073085,43.134048,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Kalita Humphreys Theater</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/61/KHTPre62-1.jpg/606px-KHTPre62-1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Kalita Humphreys Theater on Wikipedia (http://en.wikipedia.org/wiki/Kalita_Humphreys_Theater)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-96.800668,32.810815,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Herbert and Katherine Jacobs First House</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/First_Jacobs_House_front.jpg/800px-First_Jacobs_House_front.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Herbert and Katherine Jacobs First House (http://en.wikipedia.org/wiki/Herbert_and_Katherine_Jacobs_First_House)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-89.4415,43.058612,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Jiyu Gakuen Girls' School Myonichikan</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Jiyu_gakuen_myonichikan.JPG/800px-Jiyu_gakuen_myonichikan.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Jiyu Gakuen Girls' School Myonichikan on Wikipedia (http://en.wikipedia.org/wiki/Jiyu_Gakuen_Girls%E2%80%99_School)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>139.707229,35.726635,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Johnson Wax Headquarters</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/a/a4/Johnsonwax01.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Johnson Wax Headquarters (http://en.wikipedia.org/wiki/S.C._Johnson_Wax_Research_Tower)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-87.790965,42.713597,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Marin County Civic Center </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Marin_Civic_Center.jpg/800px-Marin_Civic_Center.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Marin County Civic Center on Wikipedia (http://en.wikipedia.org/wiki/Marin_County_Civic_Center)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-122.531354,37.999139,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Meyer May House</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Meyer_May_House%2C_south_side%2C_2009.JPG/799px-Meyer_May_House%2C_south_side%2C_2009.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Meyer May House on Wikipedia (http://en.wikipedia.org/wiki/Meyer_May_House)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-85.658748,42.954263,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Darwin D. Martin House Complex</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/58/D._D._Martin_House_-_West_side_elevation_and_porte_cochere_-_HABS_NY%2C15-BUF%2C5-7.jpg/800px-D._D._Martin_House_-_West_side_elevation_and_porte_cochere_-_HABS_NY%2C15-BUF%2C5-7.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Darwin D. Martin House on Wikipedia (http://en.wikipedia.org/wiki/Darwin_D._Martin_House)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-78.848131,42.936161,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Robert P. Parker House</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Oak_Park_Il_Parker_House1.jpg/800px-Oak_Park_Il_Parker_House1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Robert P. Parker House on Wikipedia (http://en.wikipedia.org/wiki/Robert_P._Parker_House)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-87.800556,41.893889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pettit Memorial Chapel</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Belvidere_Il_Pettit_Chapel1.jpg/800px-Belvidere_Il_Pettit_Chapel1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Pettit Memorial Chapel on Wikipedia (http://en.wikipedia.org/wiki/Pettit_Memorial_Chapel)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-88.849611,42.268441,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pope-Leighey House</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Pope-Leighey_House_-_North_east_facade_-_HABS_VA%2C30-FALCH%2C2-10.jpg/800px-Pope-Leighey_House_-_North_east_facade_-_HABS_VA%2C30-FALCH%2C2-10.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Pope-Leighey House on Wikipedia (http://en.wikipedia.org/wiki/Pope-Leighey_House)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-77.135981,38.719431,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Price Tower</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/c5/Price_tower.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Price Tower on Wikipedia (http://en.wikipedia.org/wiki/Price_Tower)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-95.976144,36.747911,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Frederick C. Robie House</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/5/54/Robie_House_HABS1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Frederick C. Robie House on Wikipedia (http://en.wikipedia.org/wiki/Robie_House)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-87.595917,41.789833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Rayward-Shepherd House</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Rayward-Shepherd House on Wikipedia (http://en.wikipedia.org/wiki/Rayward-Shepherd_House)]]></description>
+			<Point>
+				<coordinates>-73.5124,41.134525,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Roland Reisley House</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Roland Reisley House in Wikipedia (http://en.wikipedia.org/wiki/Roland_Reisley_House)]]></description>
+			<Point>
+				<coordinates>-73.745347,41.122869,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Roloson Houses</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/9/9e/Robert_W_Roloson_Houses_%28Adjusted%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Roloson Houses on Wikipedia (http://en.wikipedia.org/wiki/Roloson_Houses)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-87.618,41.836056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Rosenbaum House</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Rosenbaum_House_Front_Pano.jpg/800px-Rosenbaum_House_Front_Pano.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Rosenbaum House on Wikipedia (http://en.wikipedia.org/wiki/Rosenbaum_House)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-87.680485,34.793068,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Samara</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Samara_%28John_E_Christian_House%29_Entrance.jpg/800px-Samara_%28John_E_Christian_House%29_Entrance.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Samara on Wikipedia (http://en.wikipedia.org/wiki/Samara_(house))
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-86.916556,40.438556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Frank S. Sander House</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Frank S. Sander House on Wikipedia (http://en.wikipedia.org/wiki/Frank_Sander_Residence)]]></description>
+			<Point>
+				<coordinates>-73.581424,41.119949,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Edward Serlin House</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Edward Serlin House on Wikipedia (http://en.wikipedia.org/wiki/Edward_Serlin_House)]]></description>
+			<Point>
+				<coordinates>-73.746089,41.126189,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>George W. Smith House</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Oak_Park_Il_Smith_House1.jpg/800px-Oak_Park_Il_Smith_House1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[George W. Smith House on Wikipedia (http://en.wikipedia.org/wiki/George_W._Smith_House_(Oak_Park,_Illinois))
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-87.799559,41.88118,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Suntop Homes</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Suntop_Houses%2C_cropped%2C_%28HABS%2C_PA%2C46-ARD%2C2-1%29.jpg/800px-Suntop_Houses%2C_cropped%2C_%28HABS%2C_PA%2C46-ARD%2C2-1%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Suntop Homes on Wikipedia (http://en.wikipedia.org/wiki/Suntop_Homes)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-75.292183,39.999917,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Taliesin West</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TaliesinWest03_gobeirne.jpg/800px-TaliesinWest03_gobeirne.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Taliesin West on Wikipedia (http://en.wikipedia.org/wiki/Taliesin_West)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-111.845978,33.606328,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Frank W. Thomas House </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oak_Park_Il_Thomas_House4.jpg/800px-Oak_Park_Il_Thomas_House4.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Frank W. Thomas House on Wikipedia (http://en.wikipedia.org/wiki/Frank_Thomas_House)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-87.8,41.890556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Unity Temple</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Oak_Park_Il_Unity_Temple9.jpg/800px-Oak_Park_Il_Unity_Temple9.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Unity Temple on Wikipedia (http://en.wikipedia.org/wiki/Unity_Temple)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-87.796745,41.888435,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Usonia Homes</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Usonia Homes on Wikipedia (http://en.wikipedia.org/wiki/Usonia_Homes)]]></description>
+			<Point>
+				<coordinates>-73.747337,41.125538,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Edward C. Waller Apartments</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Edward_C_Waller_Apts_East_End.jpg/800px-Edward_C_Waller_Apts_East_End.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Waller Apartments on Wikipedia (http://en.wikipedia.org/wiki/Waller_Apartments)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-87.69821800000001,41.885632,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Ward W. Willits House</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Willits_House.jpg/800px-Willits_House.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Ward W. Willits House on Wikipedia (http://en.wikipedia.org/wiki/Willits_House)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-87.78694400000002,42.178789,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Weltzheimer/Johnson House</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/a/a5/Weltzheimer_Johnson_House_2010.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Weltzheimer/Johnson House on Wikipedia (http://en.wikipedia.org/wiki/Weltzheimer/Johnson_House)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-82.23689,41.287449,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Westcott House</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Westcott_house.jpg/800px-Westcott_house.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Westcott House on Wikipedia (http://en.wikipedia.org/wiki/Westcott_House_(Springfield,_Ohio))
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-83.78915,39.921494,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Wingspread</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/WingspreadFrankLloydWrightKenoshaWisconsin.jpg/800px-WingspreadFrankLloydWrightKenoshaWisconsin.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wingspread on Wikipedia (http://en.wikipedia.org/wiki/Wingspread)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-87.770761,42.780378,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Chauncey L. Williams House</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Chauncey_L_Williams_House_Front.jpg/800px-Chauncey_L_Williams_House_Front.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Chauncey L. Williams House on Wikipedia (http://en.wikipedia.org/wiki/Chauncey_L._Williams_House)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-87.8277,41.8893,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Winslow House</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Entrance_Hall_-_William_H._Winslow_House%2C_Chicago%2C_IL_.jpg/250px-Entrance_Hall_-_William_H._Winslow_House%2C_Chicago%2C_IL_.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Winslow House on Wikipedia (http://en.wikipedia.org/wiki/William_H._Winslow_House)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-87.82874900000002,41.888645,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Frank Lloyd Wright Home and Studio</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Frank_LLoyd_Wright_Studio_Chicago_Frontage.jpg/800px-Frank_LLoyd_Wright_Studio_Chicago_Frontage.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Frank Lloyd Wright Home and Studio on Wikipedia (http://en.wikipedia.org/wiki/Frank_Lloyd_Wright_Home_and_Studio)
+
+©Google Street ]]></description>
+			<Point>
+				<coordinates>-87.799781,41.894128,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Yodokō Guest House</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Yamamura_house06s3200.jpg/800px-Yamamura_house06s3200.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Yodokō Guest House on Wikipedia (http://en.wikipedia.org/wiki/Yodok%C5%8D_Guest_House)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>135.299898,34.739825,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other interactive maps of Historic Events</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>-105.820312,43.834527,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>View this map in Google Earth.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Non-networked Google Earth KML file: (https://docs.google.com/file/d/0B52hHMRyBvEsTFp6VDhpMFdKUms/edit)]]></description>
+			<Point>
+				<coordinates>-70.1367187,30.4486737,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

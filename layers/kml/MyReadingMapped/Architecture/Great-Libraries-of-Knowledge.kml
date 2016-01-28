@@ -1,0 +1,1722 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Color-Coding and Sourcing Information</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- Red  represent those libraries on Wikipedia's List of Largest Libraries by content.
+(http://en.wikipedia.org/wiki/List_of_largest_libraries)
+
+- Purple represent those libraries on LibrarySpot's Nation's Largest Libraries by Volumes Held.  (5+ million volumes).
+(http://www.libraryspot.com/lists/listlargestlibs.htm)
+
+- Yellow represent those libraries on The Best Colleges' Best Libraries in The World based on a balance between architecturally interesting libraries and libraries with interesting collections.
+(http://www.thebestcolleges.org/amazing-libraries/) 
+
+- Aqua represent those libraries on BuzzFeed's 49 Breathtaking Libraries From All Over The World that are architecturally interesting.
+(http://www.buzzfeed.com/mattortile/49-breathtaking-libraries-from-all-over-the-world)
+
+- Green are ones I added that should have been on the above lists.]]></description>
+			<Point>
+				<coordinates>-30.937500000000004,45.336702,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1199</styleUrl>
+			<name>Continual library growth quickly makes this map outdated.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Please keep in mind that the quantity of volumes in each library are constantly increasing, thus the quantity of volumes at the time this map was created (September 2013) instantly became out of date and inaccurate.]]></description>
+			<Point>
+				<coordinates>-52.734375,21.616579,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>Digitally walk this map in 3D.</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://1.bp.blogspot.com/-_yz37NuJrJI/UkOYI14CQKI/AAAAAAAAGEQ/Etx-Go9wGRE/s320/Library+of+the+Canadian+Parliment+in+Google+Earth.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[You can walk this map in 3D using this Non-networked Google Earth KML file. (https://docs.google.com/file/d/0B52hHMRyBvEsNnZJS2taX3Fzb00/edit)
+
+Be sure to turn on the Buildings Layer.
+ 
+
+Goolge]]></description>
+			<Point>
+				<coordinates>-32.695312,25.482951,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps on History</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com) ]]></description>
+			<Point>
+				<coordinates>-32.34375,11.867351,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Abbey Library of Saint Gall</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/BibliothekSG.jpg/800px-BibliothekSG.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Abbey_library_of_Saint_Gall)
+
+Abbey library of Saint Gall (http://www.stibi.ch/)
+
+The library collection is the oldest in Switzerland, and is one of earliest and most important monastic libraries in the world. It holds 2,100 manuscripts dating back to the 8th through the 15th centuries, 1,650 incunabula (printed before 1500), and old printed books. The library holds almost 160,000 volumes. The manuscript B of the Nibelungenlied is kept here.
+
+Wikipedia Commons / Stiftsbibliothek St. Gallen]]></description>
+			<Point>
+				<coordinates>9.3764,47.4228,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Austrian National Library</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/61/State_Hall_of_the_Austrian_National_Library_NightFall404_1.jpg/394px-State_Hall_of_the_Austrian_National_Library_NightFall404_1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Austrian_National_Library)
+
+The Austrian National Library (http://www.onb.ac.at/)
+
+The Austrian National Library (German: Österreichische Nationalbibliothek, abbreviated "ÖNB" and formerly Hof-Bibliothek) is the largest library in Austria with 7.4 million items in its various collections. The library is located in the Hofburg Palace in Vienna. Since 2005, some of the collections have been relocated within the baroque structure of the Palais Mollard-Clary. Founded by the Habsburgs, the library was originally called the 'Hof-Bibliothek' ("Imperial Library"); the change to the current name occurred in 1920.[1] The library complex includes four museums, as well as multiple special collections and archives.
+
+Wikipedia Commons / Richard Hopkins]]></description>
+			<Point>
+				<coordinates>16.366496,48.206157,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Balme Library at the University of Ghana</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/University_of_Ghana#The_Balme_Library)
+
+Balme Library (http://www.ug.edu.gh/index1.php?linkid=190)
+ 
+It consists of six departments and one special library for the physically handicapped. The library's collections include more than 100 thousand books, 500 microfilms, CDs, tapes and impressive holdings of rare books, prints and archives. The library also offers access to extensive electronic resources.
+
+Wikipedia Commons /Rtevels]]></description>
+			<Point>
+				<coordinates>-0.18695,5.652031000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Beinecke Rare Book and Manuscript Library at Yale University</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Yale_University%27s_Beinecke_Rare_Book_and_Manuscript_Library.jpg/800px-Yale_University%27s_Beinecke_Rare_Book_and_Manuscript_Library.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Beinecke_Rare_Book_and_Manuscript_Library)
+
+Beinecke Rare Book and Manuscript Library (http://beinecke.library.yale.edu/)
+
+It is one of the largest buildings in the world devoted entirely to rare books and manuscripts. The library has room in the central tower for 180,000 volumes and room for over 600,000 volumes in the underground book stacks. The library contains roughly 500,000 volumes and several million manuscripts[3]. The library is open to all Yale University students and faculty, and visiting researchers whose work requires use of its special collections. In order to access materials, there are a few forms and policies that users must read, located here
+
+Wikipedia Commons / Lauren Manning]]></description>
+			<Point>
+				<coordinates>-72.927329,41.311633,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Berlin State Library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Berlin_State_Library)
+
+Berlin State Library (http://staatsbibliothek-berlin.de/en/)
+ 
+Consists of 12.3 million books; 206,700 rare books; 60,100 manuscripts; music autographs; 1,600 estate archives; 25,000 periodicals; 180,000 newspaper volumes; 4,300 databases; 2.7 million microfilms; 13.5 million images at the bpk. 
+
+Wikipedia Commons / Manfred Brückels]]></description>
+			<Point>
+				<coordinates>13.370278,52.506389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Bibliotheca Alexandrina</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/CW_BibliotechaAlexandrina_Inside.jpg/800px-CW_BibliotechaAlexandrina_Inside.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Bibliotheca_Alexandrina)
+
+Bibliotheca Alexandrina (http://www.bibalex.org/Home/Default_EN.aspx)
+
+The Bibliotheca Alexandrina is trilingual, containing books in Arabic, English and French. In 2010, the library received a generous donation of 500,000 books from the National Library of France, Bibliothèque nationale de France (BnF). The gift makes the Bibliotheca Alexandrina the sixth-largest Francophone library in the world. The BA also is now the largest depository of French books in the Arab world, surpassing those of Tunisia, Algeria, and Morocco, in addition to being the main French library in Africa.
+
+Wikipedia Commons / Carsten Whimster]]></description>
+			<Point>
+				<coordinates>29.909167,31.208889000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Biblioteca Marciana</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Biblioteca_Marciana)
+
+Biblioteca Marciana (http://marciana.venezia.sbn.it/)
+
+Today, besides about a million printed books, the Biblioteca Marciana contains about 13,000 manuscripts and 2883 incunabula and 24,055 works printed between 1500 and 1600. There are many illuminated manuscripts. Among the irreplaceable treasures are unique scores of operas by Francesco Cavalli and sonatas by Domenico Scarlatti.
+
+Wikipedia Commons / Maria Schnitzmeier]]></description>
+			<Point>
+				<coordinates>12.339154,45.433418,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Biblioteca Nacional de España</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Biblioteca_Nacional_de_Espa%C3%B1a)
+
+Biblioteca Nacional de España (http://www.bne.es/es/Inicio/index.html)
+
+26,000,000 items, including 15,000,000 books and other printed materials, 30,000 manuscripts, 143,000 newspapers and serials, 4,500,000 graphic materials, 510,000 music scores, etc.
+
+Wikipedia Commons / Luis García]]></description>
+			<Point>
+				<coordinates>-3.692147,40.419769,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Bibliothèque Nationale de France</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/59/France%2C_Paris%2C_Biblioth%C3%A8que_nationale_de_France%2C_site_Richelieu%2C_salle_ovale.jpg/800px-France%2C_Paris%2C_Biblioth%C3%A8que_nationale_de_France%2C_site_Richelieu%2C_salle_ovale.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/National_Library_of_France)                                                                                    
+The national Library of France (http://www.bnf.fr/en/tools/a.welcome_to_the_bnf.html)
+ 
+Greek manuscripts. 
+The library holds about 5,000 Greek manuscripts, which are divided into three fonds: Ancien fonds grec, fonds Coislin, and Fonds du Supplément grec.Gallica                                                                              
+Gallica, the digital library for online users, was established in 1997. As of January 2012, Gallica made available on the Web about:
+- 1 600 000 documents
+- 320 000 books,
+- 36 000 maps,
+- 19 462 manuscripts,
+- 410 000 images,
+- 830 000 newspapers and magazines,
+- 7 000 sheets music
+
+Wikipedia Commons / Vincent Desjardins]]></description>
+			<Point>
+				<coordinates>2.375833,48.833611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Bodleian Library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Bodleian_Library)
+
+Bodleian Library (http://www.bodleian.ox.ac.uk/bodley)
+
+The Bodleian Library (/ˈbɒdliən/ or /bɒdˈliːən/), the main research library of the University of Oxford, is one of the oldest libraries in Europe, and in Britain is second in size only to the British Library with over 11 million items.[1] Known to Oxford scholars as "Bodley" or simply "the Bod", under the Legal Deposit Libraries Act 2003 it is one of six legal deposit libraries for works published in the United Kingdom[2][3] and under Irish Law it is entitled to request a copy of each book published in the Republic of Ireland.[4] The Bodleian operates principally as a reference library and in general documents may not be removed from the reading rooms.]]></description>
+			<Point>
+				<coordinates>-1.255139,51.753972,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Boston Public Library</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Boston_Public_Library_Reading_Room.jpg/800px-Boston_Public_Library_Reading_Room.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Boston_Public_Library)
+
+Boston Public Library (http://www.bpl.org/)
+
+According to its website, the collection of the Boston Public Library has grown to 23.6 million materials, which makes it one of the largest municipal public library systems in the United States. However, a vast majority of the collection is held in the library's central research library, which has 21.9 million volumes.[7] Between July 2010 and June 2011, the annual circulation of the BPL was 3,534,412.[8] Because of the strength and importance of its research collection, the Boston Public Library is a member of the Association of Research Libraries (ARL), a not-for-profit organization comprising the research libraries of North America. The New York Public Library is the only other public library that is a member of the ARL. The library has special strengths in art and art history (available on the third floor of the McKim building) and American history (including significant research material), and maintains a depository of government documents.
+
+Wikipedia Commons / Brian Johnson]]></description>
+			<Point>
+				<coordinates>-71.07819,42.349344,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>British Library</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/BritishLibraryInterior02.jpg/800px-BritishLibraryInterior02.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/British_Library)
+
+British Library (http://www.bl.uk/)
+
+The British Library is the national library of the United Kingdom.[2] The library is a major research library, holding over 150 million items from many countries, in many languages[3] and in many formats, both print and digital: books, manuscripts, journals, newspapers, magazines, sound and music recordings, videos, play-scripts, patents, databases, maps, stamps, prints, drawings. The Library's collections include around 14 million books,[4] along with substantial holdings of manuscripts and historical items dating back as far as 2000 BC. British Library is one of the two largest libraries in the world, the other being the Library of Congress of the United States.
+
+Wikipedia Commons / © Andrew Dunn]]></description>
+			<Point>
+				<coordinates>-0.126944,51.529444,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-C6A4CF</styleUrl>
+			<name>Brooklyn Public Library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Brooklyn_Public_Library)
+
+Brooklyn Public Library (http://www.bklynpubliclibrary.org/)
+
+The Brooklyn Collection holds the manuscripts and archives for the Brooklyn Public Library and is located at the Central Branch.[2] The Brooklyn Collection, holds over a million individual items including photographs, maps, manuscripts, Brooklyn Dodgers memorabilia and other ephemeral items.]]></description>
+			<Point>
+				<coordinates>-73.968611,40.672222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-C6A4CF</styleUrl>
+			<name>Carnegie Library of Pittsburgh</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Carnegie_Library_of_Pittsburgh_-_IMG_1162.JPG/800px-Carnegie_Library_of_Pittsburgh_-_IMG_1162.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Carnegie_Library_of_Pittsburgh)
+
+Carnegie Library of Pittsburgh (http://www.carnegielibrary.org/)
+
+The Carnegie Library of Pittsburgh is the public library system in Pittsburgh, Pennsylvania. Its main branch is located in the Oakland neighborhood of Pittsburgh, and it has 19 branch locations throughout the city. Like hundreds of other Carnegie libraries, the construction of the main library, which opened in 1895, and several neighborhood branches, was funded by industrialist Andrew Carnegie.
+
+The Pittsburgh Photographic Library is a photography repository held by the Carnegie Library of Pittsburgh of over 50,000 prints and negatives relating to history of Pittsburgh.
+
+Wikipedia Commons / Daderot]]></description>
+			<Point>
+				<coordinates>-79.950833,40.442778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Central Library (UNAM Biblioteca Central)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Central_Library_(UNAM) 
+
+Central Library (UNAM Biblioteca Central) (http://bc.unam.mx/)
+ 
+428,000 book volumes in general collection, reference collection and special collection.
+
+70,000 volumes in historical collection (1450-1950). 3507 periodical titles.]]></description>
+			<Point>
+				<coordinates>-99.187274,19.333377000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Chateau de Chantilly Library</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Chantilly3_tango7174.jpg/600px-Chantilly3_tango7174.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Ch%C3%A2teau_de_Chantilly#Mus.C3.A9e_Cond.C3.A9)
+
+Chateau de Chantilly Library (http://www.museevivantducheval.fr/en/domaine-de-chantilly/library-and-archives-ch%C3%A2teau)
+ 
+The library of the Petit Château contains over 1300 manuscripts and 12,500 printed volumes, including a Gutenberg Bible that is part of the collection of over 700 incunabula), and some 200 medieval manuscripts, including one page of the Registrum Gregorii (c. 983), the Les très riches heures du Duc de Berry, theIngeborg Psalter and 40 miniatures from Jean Fouquet's Book of Hours of Etienne Chevalier.
+
+Wikipedia Commons / Tango7174]]></description>
+			<Point>
+				<coordinates>2.485313,49.193919,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-C6A4CF</styleUrl>
+			<name>Chicago Public Library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Chicago_Public_Library)
+
+Chicago Public Library (http://www.chipublib.org/)
+
+The American Library Association reports that the library holds 5,721,334 volumes, making it the 9th largest public library in the United States by volumes held, and the 30th largest academic or public library in the United States by volumes held. The Chicago Public Library is the second largest library system in Chicago by volumes held (the largest is the University of Chicago Library). The library is the second largest public library system in the Midwest, after the Detroit Public Library.]]></description>
+			<Point>
+				<coordinates>-87.628273,41.876217,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Codrington Library at Oxford University</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/All_Souls_College,_Oxford#The_Codrington_Library)
+
+Codrington Library (http://www.all-souls.ox.ac.uk/content/The_Codrington_Library)
+
+The All Souls library (formally known as the Codrington Library) was founded through a bequest from Christopher Codrington (1668–1710), a Fellow of the College. Christopher Codrington bequeathed books worth £6,000, in addition to £10,000 in currency. This bequest allowed the library to be built and endowed. Christopher Codrington was born in Barbados, and amassed his fortune from plantation slavery.[8] The library was completed in 1751, and has been in continuous use since then. The modern library comprises some 187,000 items, about a third of which were published before 1800. The collections are particularly strong in Law and History (especially Military History).]]></description>
+			<Point>
+				<coordinates>-1.253367,51.75352300000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-C6A4CF</styleUrl>
+			<name>Columbia University Libraries</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Library_of_Columbia_University)
+
+Columbia University Libraries (http://library.columbia.edu/)
+
+The Columbia library system contains over 65,000 serial subscriptions, nearly six million microfilms, 26 million manuscripts, over 600,000 rare books, over 100,000 videos and DVDs, and nearly 200,000 government documents. The library's collection would stretch 174 miles end-to-end, and is growing at a pace of 140,000 items per annum. The system attracts over three million visitors a year.[1]
+
+The system is participating in the Google Books Library Project.]]></description>
+			<Point>
+				<coordinates>-73.963138,40.806465,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Connemara Public Library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Connemara_Public_Library)
+
+Connemara Public Library
+ (http://www.connemarapubliclibrarychennai.com/)                                                                                            
+The library, along with the Madras museum, benefited greatly from the effects of the Madras Literary Society, the Oriental Manuscripts Library and the Records Office.[5] Under the provision of Delivery of Books and Newspapers (Public Libraries) Act 1954, every publisher in India has to compulsorily send a copy of each publication to the library. Apart from this a good number of publications and periodicals of UN and its specialized organs and Asian Development Bank were also received. Furthermore, several books were added every year by purchasing from the funds made available by the state government budget.[6]
+
+Some of the rarest collections at the library include the Bible (published in 1608), Rheed et al.'s 12-volume Hourtus Indicus Malabaricus (published in 1678-1703), J. Ovington's A Voyage to Suratt in the years 1689 (published in 1696), Charles Lockyer's An account of the Trade in India (published in 1711), An Account of the Religion and Government, Learing and Economy, etc. of the Malabarians (published in 1717), and Nicolai Laverrntii Burmanni's Flora Indica (published in 1768)]]></description>
+			<Point>
+				<coordinates>80.256667,13.070556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-C6A4CF</styleUrl>
+			<name>Cornell University Library</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ADWhiteReadingRoom%2C_CornellUniversity.jpg/800px-ADWhiteReadingRoom%2C_CornellUniversity.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Cornell_University_Library)
+
+Cornell University Library (http://www.library.cornell.edu/)
+
+The Cornell University Library is the library system of Cornell University. In 2010 it held 8 million printed volumes in open stacks, 8.5 million microfilms and microfiches, more than 71,000 cubic feet (2,000 m3) of manuscripts, and close to 500,000 other materials, including motion pictures, DVDs, sound recordings, andcomputer files in its collections, in addition to extensive digital resources and the University Archives.[1] It is the sixteenth largest library in North America, ranked by number of volumes held.[2]
+
+Wikipedia Commons / eflon]]></description>
+			<Point>
+				<coordinates>-76.482021,42.446206,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-62AF44</styleUrl>
+			<name>Delhi Public Library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+(http://en.wikipedia.org/wiki/Delhi_Public_Library)
+
+Delhi Public Library
+(http://dpl.gov.in/)
+
+As a depository library it receives a copy of all books, newspapers and periodicals published in India. The users are free to use the library and books upon one time subscription. The library has a network of branches in Delhi as well as mobile branches with following free to use facilities upon refundable security deposit.
+
+- Collection of more than 18 Lakh books in English, Hindi, Urdu, Punjabi and other languages
+- All main branches has children section with an exclusive branch for children
+- Braille library for the visually impaired
+- Prison library for Tihar Central Prison
+- Free internet service
+- DVD media collection]]></description>
+			<Point>
+				<coordinates>77.221549,28.660909,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-62AF44</styleUrl>
+			<name>Delhi University library system (DULS)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/University_of_Delhi#Delhi_University_library_system_.28DULS.29)
+
+Delhi University library system (DULS) (http://crl.du.ac.in/)
+
+DULS has 34 libraries with web activity and a subscription to 29 electronic databases. In addition to this 20 more databases are also accessible through UGC-INFONET Digital Library Consortium. DULS also promotes Open Access e-resources. DULS is regularly conducting Information Literacy Programs (ILP) for the benefit of students, researchers and Faculty members .[20]
+
+Selected libraries
+
+- University Library
+- Deptt.of Library Sciences[21]
+- Central Science Library[22]
+- DUCC Library[23]
+- Arts Library[24]
+- Law Faculty Library[25]
+- Ratan Tata Library[26]
+- South Campus Library[27]
+- FMS Library[28]
+- East Asian Studies Library[29]]]></description>
+			<Point>
+				<coordinates>77.166501,28.591338,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-C6A4CF</styleUrl>
+			<name>Free Library of Philadelphia</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Free_Library_of_Philadelphia)
+
+Free Library of Philadelphia (http://www.freelibrary.org/)
+
+The Free Library of Philadelphia houses several rare and unique special collections. The Rare Book Department at Parkway Central Library features one of the world’s most renowned Charles Dickens collections, featuring first editions, personal letters, and Dickens’s stuffed pet raven Grip, as well as the largest Beatrix Potter collection outside of the United Kingdom. The Department also houses robust collections of cuneiform tablets, medieval and Oriental manuscripts, and Pennsylvania German fraktur.
+In addition to the collections housed in the Rare Book Department, the Free Library also features the Edwin A. Fleisher Collection of Orchestral Music, which is the largest lending library of orchestral performance sets in the world. The Library’s Automobile Reference Collection is one of the most extensive public resources of its kind, and the Print and Picture Collection houses roughly half-a-million circulating pictures in the largest public picture lending library in the nation, in addition to thousands of fine art prints, drawings, and photographs. The Free Library also has an extensive special collection devoted to maps.
+Many of the items in the Free Library of Philadelphia’s special collections have been digitized and can be viewed online.]]></description>
+			<Point>
+				<coordinates>-75.170946,39.959614,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Frederick Thompson Memorial Library at Vassar College </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Vassar_Library_Study_Area.jpg/800px-Vassar_Library_Study_Area.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Thompson_Memorial_Library)
+
+Frederick Thompson Memorial Library (http://library.vassar.edu/)
+
+Archives & Special Collections holds the rare book, manuscript, and archival collections of the college. It collects, preserves, and makes available rare and unique collections, and also engages in teaching and outreach activities. It is located on the ground floor of the Ingram Addition (north end) of the Library.
+
+Among the rare books, particular strengths exist in women's history, first editions of English and American literary and historical works, examples of fine printing, collections of courtesy and cookbooks, children's books, and rare maps and atlases. Important manuscript holdings document topics such as literature, politics, and women’s history.
+
+Wikipedia Commons / Jim Mills ]]></description>
+			<Point>
+				<coordinates>-73.897702,41.686346,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Geisel Library at University of California, </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Geisel_Library)
+
+Geisel Library (http://libraries.ucsd.edu/)
+
+The Geisel Library building contains materials and services related to: Arts, Area Studies, Engineering, Humanities, Marine Sciences, Physical Sciences, and Social Sciences. It also contains the Mandeville Special Collections & Archives, which houses the Dr. Seuss Collection. The Dr. Seuss Collection contains original drawings, sketches, proofs, notebooks, manuscript drafts, books, audio- and videotapes, photographs, and memorabilia. The approximately 8,500 items in the collection document the full range of Dr. Seuss's creative achievements, beginning in 1919 with his high school activities and ending with his death in 1991.]]></description>
+			<Point>
+				<coordinates>-117.2375,32.8812,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>George Peabody Library</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/George-peabody-library.jpg/800px-George-peabody-library.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/George_Peabody_Library)
+
+George Peabody Library (http://guides.library.jhu.edu/content.php?pid=205178&sid=1712833)
+
+The main collection reflects scholarly interests and fads of the 19th century. The library's 300,000 volume collection is particularly strong in religion, British art, architecture, topography and history; American history, biography, and literature; Romance languages and literature; history of science; and geography, exploration and travel.[4] While the majority of titles date to the 19th century, the library also has a strong assortment of early printed books, cuneiform tablets, and a marquee collection of Don Quixote editions.
+
+Wikipedia Commons / Matthew Petroff]]></description>
+			<Point>
+				<coordinates>-76.615,39.297354,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>German National Library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipeda (http://en.wikipedia.org/wiki/German_National_Library)
+
+German National Library (http://www.dnb.de/EN/Home/home_node.html)
+
+Total: 27.7 million items
+Leipzig: 16.7 million items
+Frankfurt am Main: 10.3 million items
+online publications: 719,000 items]]></description>
+			<Point>
+				<coordinates>8.683153,50.131106,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-62AF44</styleUrl>
+			<name>Google Books Library Project (Digital)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Google Books Library Project (http://www.google.com/googlebooks/library/) 
+
+Google Books Library Project Partners (http://www.google.com/googlebooks/library/partners.html)
+
+Google Books Library Project – An enhanced card catalog of the world's books.
+
+We're working with several major libraries to include their collections in Google Books and, like a card catalog, show users information about the book, and in many cases, a few snippets – a few sentences to display the search term in context.]]></description>
+			<Point>
+				<coordinates>-122.08553900000001,37.422541,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Harvard University Library</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Reading_Room%2C_Langdell_Hall%2C_Harvard_University%2C_Cambridge_MA.jpg/800px-Reading_Room%2C_Langdell_Hall%2C_Harvard_University%2C_Cambridge_MA.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Harvard_University_Library)
+
+Harvard University Library (http://hul.harvard.edu/)
+
+The Harvard University Library system comprises about 90 libraries, with more than 16 million volumes. It is the oldest library system in the United States, the largest academic and the largest private library system in the world.[6][7] Based on the number of volumes in the collection, it is the third largest library collection in the US, after the Library of Congress, and Boston Public Library.
+
+Wikipedia Commons / John Phelan]]></description>
+			<Point>
+				<coordinates>-71.11849,42.373591,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Herzog August Library</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/b/b1/Wolfenbuettel_Herzog_August_Bibliothek_Innen2_%282006%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Herzog_August_Library)
+
+Herzog August Library (http://www.hab.de/)
+
+The library was founded by Julius, Duke of Brunswick-Lüneburg, in 1572.[1] In the 17th century it was the largest library north of the Alps.
+
+In 2006 the library housed around 900,000 books, 350,000 of them were printed from the 15th to the 18th century.
+
+Wikipedia Commons / Brunswyk]]></description>
+			<Point>
+				<coordinates>10.530288,52.164301,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-62AF44</styleUrl>
+			<name>Hong Kong Central Library</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hong_Kong_Central_Library4.jpg/800px-Hong_Kong_Central_Library4.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Hong_Kong_Central_Library)
+
+Hong Kong Central Library (http://www.hkcl.gov.hk/)
+
+The Library's collections include around 2.3 million items. It is the main library facility along with the Hong Kong Public Libraries System, which has collections of over 12.1 million items.
+
+Wikipedia Commons / K.C. Tang]]></description>
+			<Point>
+				<coordinates>114.189528,22.279964,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-C6A4CF</styleUrl>
+			<name>Houston Public Library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Houston_Public_Library)
+
+Houston Public Library (http://www.houstonlibrary.org/home)
+
+HPL links people to the world, through a broadly defined platform of educational, recreational and cultural programs and services for persons of all ages, ethnicities, and life stages throughout Houston and the surrounding region. Houston Public Library holds 3.6 million items, and in the past year served 7.2 million in-person and online visitors, answered over 667,546 reference questions, circulated more than 6.9 million books, magazines, and audio-visual materials and attracted nearly 189,050 participants to our programs. Notably, all services and privileges that accompany the Houston Public Library card are free to all residents in the state of Texas.]]></description>
+			<Point>
+				<coordinates>-95.36912000000001,29.758916000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-C6A4CF</styleUrl>
+			<name>Indiana University Library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/IUPUI_University_Library)
+
+IUPUI University Library (http://www.ulib.iupui.edu/)
+
+The library’s holdings include more than 1,338,889 volumes, 36,000 current periodicals and journals, 1,197,000 microforms, and 152,400 government documents and audiovisual materials. Services are available to university students, faculty and staff, as well as individual citizens, businesses, professional firms, and public agencies. The libraries' holdings are accessed through a computer network linking Indiana University libraries state wide, and an interlibrary loan system makes available additional local, state and national academic library resources.]]></description>
+			<Point>
+				<coordinates>-86.172057,39.773124,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-62AF44</styleUrl>
+			<name>Joe &amp; Rika Mansueto Library at the University of Chicago </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Joe & Rika Mansueto Library (http://mansueto.lib.uchicago.edu/)
+ 
+"The University of Chicago Library is the 9th largest research library in North America; it provides 10.7 million volumes in print and electronic form, 48,252 linear feet of archives and manuscripts, and 107.6 TB of University electronic archives and research data. These figures impressed my new-found friends. But more impressive were numbers that convey the magnitude of services we offer: 333,630 volumes circulated to 14,414 unique individuals; 12,359 Scan & Deliver requests; 5.6 million successful responses to full-text article requests; 21,248 questions to reference librarians; 4,000+ attendees at training sessions." Judith Nadler, Director and University Librarian]]></description>
+			<Point>
+				<coordinates>-87.600866,41.792024,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>José Vasconcelos Library</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ballena_de_Gabriel_Orozco.jpg/800px-Ballena_de_Gabriel_Orozco.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Jos%C3%A9_Vasconcelos_Library)
+
+José Vasconcelos Library (http://www.bibliotecavasconcelos.gob.mx/)
+ 
+Composed of more than 575,000 books, placed on more than 40 thousand linear feet of shelf hanging open to the public, comprising 10 titles of knowledge areas according to the international classification system Dewey.
+
+Wikipedia Commons / Gwolf]]></description>
+			<Point>
+				<coordinates>-99.150861,19.447442,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Library and Archives Canada</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Library_and_Archives_Canada)
+
+Library and Archives Canada (http://www.lac-bac.gc.ca/)
+
+LAC's holdings include the archival records of the Government of Canada, representative private archives, 20 million books acquired largely through legal deposit, 24 million photographs, and more than a petabyte of digital content.[4][18] Some of this content, primarily the book collection, university theses and census material, is available online.[19] Many items have not been digitized and are only available in physical form.[20] As of May 2013 only about 1% of the collection had been digitized, representing "about 25 million of the more popular and most fragile items".[21][22][23]
+
+The collection includes:[24]
+
+- the proclamation of the Canadian Constitution Act, which bears marks left by raindrops during a ceremony on Parliament Hill in April 1982 when Queen Elizabeth II signed it;[25]
+- the British North America Act, which features editing changes made by the first Prime Minister of Canada, Sir John A. Macdonald;[26][27]
+- the oldest book in the collection, De antiquitate Judaica: De bello Judaico (Antiquities of the Jews and the Judean War), written by first-century historian Flavius Josephus and printed in 1470;[28][29][30]
+- the chair used by world renowned pianist Glenn Gould while he played and recorded.]]></description>
+			<Point>
+				<coordinates>-75.707917,45.419722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Library at the Benedictine Monastery of Admont</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/1/1f/Bibliothek.Admont_gesamt.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Admont_Abbey)
+
+Library at the Benedictine Monastery of Admont (http://www.stiftadmont.at/english/museum/bibliothek/stiftsbibliothek.php)
+
+The library hall, built in 1776 to designs by the architect Joseph Hueber, is 70 metres long, 14 metres wide and 13 metres high, and is the largest monastery library in the world. It contains c. 70,000 volumes of the monastery's entire holdings of c. 200,000 volumes. The ceiling consists of seven cupolas, decorated with frescoes by Bartolomeo Altomonte showing the stages of human knowledge up to the high point of Divine Revelation. Light is provided by 48 windows and is reflected by the original colour scheme of gold and white. The architecture and design express the ideals of the Enlightenment, against which the sculptures by Joseph Stammel of "The Four Last Things" make a striking contrast.
+
+The abbey possesses over 1,400 manuscripts, the oldest of which, from St. Peter's Abbey in Salzburg, were the gift of the founder, Archbishop Gebhard, and accompanied the first monks to settle here, as well as over 900 incunabulae.
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>14.460658,47.575837,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Library at the Pontifical Lateran University </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pontifical_Lateran_University#Library)
+
+The library of the Pontifical Lateran University - "Library of Blessed Pius IX", known originally as the "Biblioteca Pia" - was founded by Pope Pius IX in 1854. The history of the library is connected directly to the foundation of the university at its original seat at St. Apollinare in Rome. The library is in fact a collection of smaller libraries from various ecclesial and academic institutes in Rome which have been amalgamated to form the present library. The library consists of collections from the private libraries of Pope Gregory XIII, Pope Pius IX, Pope Pius XII, the German College,the monastery of SS. Bonifacio and Alessio on the Aventine, and the library of the Geronimiani fathers. Successively various ex-alumni have contributed to the library. A new building for the housing of the library and reading room was built and officially inaugurated by Pope Benedict XVI on 21 October 2007. Presently the library consists of some 600,000 books. There is also a collection of 40,000 rare and antique volumes.]]></description>
+			<Point>
+				<coordinates>12.484722,41.898889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Library at the Royal Seat of San Lorenzo de El Escorial </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/EscorialBiblioteca.jpg/800px-EscorialBiblioteca.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/El_Escorial#Library)
+
+Library at the Royal Seat of San Lorenzo de El Escorial (http://www.monasteriodelescorial.com/biblioteca.html)
+
+The library’s collection consists of more than 40,000 volumes, located in a great hall fifty-four meters in length, nine meters wide and ten meters tall with marble floors and beautifully carved wood shelves.
+
+Wikipedia Commons / Xauxa Håkan Svensson]]></description>
+			<Point>
+				<coordinates>-4.14765,40.588993,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>Library of Congress</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Library_of_Congress)
+
+The Library of Congress (http://www.loc.gov/index.html)
+
+22,765,967 catalogued books in the Library of Congress Classification system; 5,600 incunabula (books printed before 1500), monographs and serials, music, bound newspapers, pamphlets, technical reports, and other printed material; and 109,029,796 items in the nonclassified (special) collections:151,785,778 total Items.]]></description>
+			<Point>
+				<coordinates>-77.004722,38.888611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Library of the Canadian Parliament </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/d/d3/LibraryReadingRoom.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Library_of_Parliament)
+
+Library of the Canadian Parliament (http://www.parl.gc.ca/About/Library/VirtualLibrary/index-e.asp)
+
+The library's collection comprises 600,000 items, covering hundreds of years of history and tended by a staff of 300.[3] Access to the facility is generally restricted to those on parliamentary business, but research publications are produced by the library and are available to the public. The main branch on Parliament Hill is only the central hub of a larger complex that spreads to other parliamentary buildings, where services are offered in a number of branch libraries and reading rooms.
+
+Wikipedia Commons / Alejandro Erickson]]></description>
+			<Point>
+				<coordinates>-75.700296,45.425466,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Library of the Russian Academy of Sciences</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Library_of_the_Russian_Academy_of_Sciences)
+
+Library of the Russian Academy of Sciences
+ (http://www.rasl.ru/)
+
+20.5 million (central collection) The Library of the Russian Academy of Sciences (Russian: Библиотека Российской академии наук (БАН)) is a large state-owned Russian library based in Saint Petersburg on Vasilievsky Island and open to employees of institutions of the Russian Academy of Sciences and scholars with higher education. It is a part of the academy and includes, besides the central collection, the library collections housed by specialized academic institutions in Saint Petersburg and other cities.]]></description>
+			<Point>
+				<coordinates>30.297,59.944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-C6A4CF</styleUrl>
+			<name>Library of the University of California - Berkeley</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/University_of_California,_Berkeley#Library_system)
+
+University of California - Berkeley (http://lib.berkeley.edu/)
+
+As of 2006, Berkeley's library system contains over 11 million volumes and maintains over 70,000 serial titles.[99] The libraries together cover over 12 acres (4.9 ha) of land and form one of the largest library complexes in the world.[100] Doe Library serves as the library system's reference, periodical, and administrative center, while most of the main collections are housed in the subterranean Gardner Main Stacks and Moffitt Undergraduate Library. The Bancroft Library, with holdings of over 400,000 printed volumes, maintains a collection that documents the history of the western part of North America, with an emphasis on California, Mexico and Central America.]]></description>
+			<Point>
+				<coordinates>-122.25937800000001,37.872253,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-C6A4CF</styleUrl>
+			<name>Library of the University of California-Los Angeles</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia http://en.wikipedia.org/wiki/University_of_California,_Los_Angeles#Library_system
+
+Library of the University of California-Los Angeles (http://www.library.ucla.edu/)
+
+UCLA's library system has over eight million books and 70,000 serials spread over twelve libraries and eleven other archives, reading rooms, and research centers. It is the nation's 14th largest library in number of volumes.[74]
+The first library, University Library (presently Powell Library), was founded in 1884. In 1910, Elizabeth Fargo became the university's first librarian. Lawrence Powell became librarian in 1944, and began a series of system overhauls and modifications, and in 1959, he was named Dean of the School of Library Service.[75] More libraries were added as previous ones filled. Page Ackerman became University Librarian in 1973, and was the nation's first female librarian of a system as large as UCLA's. She oversaw the first coordinations between other UC schools, and formed a new administrative network that is still in use today.[76] Since her retirement, the system has seen steady growth and improvement under various Librarians. The present University Librarian is Gary E. Strong, who has been in office since September 1, 2003.[77]]]></description>
+			<Point>
+				<coordinates>-118.442037,34.071564,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-C6A4CF</styleUrl>
+			<name>Library of the University of Illinois at Urbana</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/University_of_Illinois_at_Urbana%E2%80%93Champaign#Libraries)
+
+Library of the University of Illinois at Urbana (http://www.library.illinois.edu/)
+
+The campus library system is one of the largest public academic collections in the world.[87] Among universities in North America, only the collections of Harvard are larger.[88] Currently, the University of Illinois' 20+ departmental libraries and divisions hold more than 24 million items, including more than 12 million print volumes.[87] As of 2012, it had also the largest "browsable" university library in the United States, with 5 million volumes directly accessible in stacks in a single location.[89] University of Illinois also has the largest public engineering library (Grainger Engineering Library) in the country.[]]></description>
+			<Point>
+				<coordinates>-88.226802,40.112444,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Los Angeles Central Library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Los_Angeles_Central_Library)
+
+Los Angeles Central Library (http://www.lapl.org/)
+
+The Library's Rare Books Department is located in its downtown Los Angeles location. There is also an extensive selection of databases covering a wide variety of topics, many of which are available to remote users who hold an LAPL library card. Examples include full-text databases of periodicals, business directories, and language learning tools. The Central Library at 630 West 5th Street, between Grand Avenue and Flower Street in Downtown Los Angeles, remains an important research library, despite the development of accessible databases and public access to the Internet.]]></description>
+			<Point>
+				<coordinates>-118.25527,34.050553,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Melk Monastery Library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Melk Monastery Library (http://www.stiftmelk.at/englisch/pages_melk/library.html)
+
+Melk Monastery
+ (http://www.stiftmelk.at/englisch/)
+
+The library of the Melk abbey consists of a total of twelve rooms containing about 1.888 manuscripts, 750 incunabula (printed works before 1500), 1700 works from the 16th, 4500 from the 17th, and 18.000 from the 18th century; together with the newer books, approximately 100.000 volumes in total. About 16.000 of these are found in this library room. They are organized by topics: beginning with editions of the Bible in row I, theology (rows II to VII), jurisprudence (row VIII), geography and astronomy (row VIIII), history (rows X to XV), and ending with the baroque lexica in row XVI.]]></description>
+			<Point>
+				<coordinates>15.332108,48.228382,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Misr University for Science and Technology Library </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Misr University for Science and Technology Library (http://www.must.edu.eg/library.php)
+
+Besides its general collection, the library is building up specialized collections in specific areas such as medical and biological sciences, engineering, mass communication, business, languages, archeology and information technology. The library uses an on-line catalogue accessed all over the campus through the university's local network, ie MUST LAN, and nearly through the internet.]]></description>
+			<Point>
+				<coordinates>30.963416,29.995637,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Morgan Library &amp; Museum</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/The_Morgan_Library_%26_Museum)
+
+Morgan Library & Museum (http://www.themorgan.org/)
+
+The most internationally significant part of the collection is its relatively small but very select collection of illuminated manuscripts, and medieval artworks such as the Stavelot Triptych and the metalwork covers of the Lindau Gospels. Among the most important manuscripts are the Morgan Bible, Morgan Beatus, Hours of Catherine of Cleves, Farnese Hours, Morgan Black Hours, and Codex Glazier. The manuscript collection also includes authors' original manuscripts, including some by Sir Walter Scott and Honoré de Balzac, as well as the scraps of paper on which Bob Dylan jotted down "Blowin' in the Wind" and "It Ain't Me Babe".
+It also contains a large collection of incunabula, prints, and drawings of European artists—Leonardo, Michelangelo, Raphael,Rembrandt, Rubens, Gainsborough, Dürer, and Picasso, early printed Bibles, amongst them, three Gutenberg Bibles, and many examples of fine bookbinding. Other holdings include material from ancient Egypt and medieval liturgical objects (including Coptic literature examples),[8] Émile Zola, William Blake's original drawings for his edition of the Book of Job; concept drawings for The Little Prince by Antoine de Saint-Exupéry; a Percy Bysshe Shelley notebook; originals of poems byRobert Burns; a Charles Dickens manuscript of A Christmas Carol; a journal by Henry David Thoreau...]]></description>
+			<Point>
+				<coordinates>-73.981571,40.74908800000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-62AF44</styleUrl>
+			<name>Nanjing Library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Nanjing_Library#cite_note-1
+)
+Nanjing Library (http://www.jslib.org.cn/njlib_Englishversion/)
+
+Nanjing Library (Simplified Chinese: 南京图书馆 Pinyin: Nánjīng Túshūguǎn) is the third largest library in China with over 7 million items. It houses important scientific, cultural and arts literature relating to Jiangsu province and other national historical records such as ancient Chinese and foreign publications. The library contains 1.6 million ancient books and 100,000 volumes of books, documents and manuscripts (including Buddhist scriptures) dating from the Tang Dynasty to the Ming Dynasty.[]]></description>
+			<Point>
+				<coordinates>118.79000000000002,32.0439,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>National Library of Belarus</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/National_Library_of_Belarus)
+
+National Library of Belarus (http://www.nlb.by/portal/page/portal/index)
+
+The National Library of Belarus (Belarusian: Нацыянальная бібліятэка Беларусі,Russian: Национальная библиотека Беларуси), founded on 15 September 1922, is a copyright library of the Republic of Belarus. It houses the largest collection of Belarusian printed materials and the third largest collection of books in Russian behind the Russian State Library (Moscow) and the Russian National Library (St Petersburg).]]></description>
+			<Point>
+				<coordinates>27.646354,53.931575,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>National Diet Library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/National_Diet_Library)
+National Diet Library (http://www.ndl.go.jp/en/index.html)
+
+34.7 million items. Publications issued in Japan, statutes and parliamentary documents, publications on Japan, reference material, material on science and technology, publications of international organizations and foreign governments, children's literature and related material, Asian works]]></description>
+			<Point>
+				<coordinates>139.744286,35.678534,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>National Library of China</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikiepdia (http://en.wikipedia.org/wiki/National_Library_of_China)
+
+National Library of China (http://www.nlc.gov.cn/)
+
+The National Library of China (simplified Chinese: 中国国家图书馆;traditional Chinese: 中國國家圖書館; pinyin: Zhōngguó Guójiā Túshūguǎn) orNLC in Beijing is the largest library in Asia,[3][4][5] and one of the largest in the world with a collection of over 26.3 million volumes of books by 2007.[1][6][7][8]It holds the largest and among the richest worldwide collections of Chinese literature and historical documents.[4]]]></description>
+			<Point>
+				<coordinates>116.3225,39.945833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-62AF44</styleUrl>
+			<name>National Library of India</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/National_Library_of_India)
+
+National Library of India (http://www.nationallibrary.gov.in/)
+
+The National Library of India (Bengali: ভারতের জাতীয় গ্রন্থাগার) at Belvedere,Kolkata, is the largest library in India by volume and India's library of public record. It is under the Department of Culture, Ministry of Tourism & Culture, Government of India. The library is designated to collect, disseminate and preserve the printed material produced in India. The library is situated on the scenic 30 acre (120,000 m²) Belvedere Estate, in Kolkata (formerly Calcutta). The Library is the largest in India, with a collection in excess of 2.2 million books.[1] It is India's only Category 6 library and is one of the four depository libraries in the country where publishers are required, under The Delivery of Books And Newspapers (Public Libraries) Act, 1954, "to supply books published in India, by Indians abroad or any title that might be of interest to Indians".[2] It is also India's sole repository library where all books, publications and official documents in its custody have to be stored in perpetuity.]]></description>
+			<Point>
+				<coordinates>88.333318,22.533206,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>National Library of Russia</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/National_Library_of_Russia)
+
+National Library of Russia (http://www.nlr.ru/eng/)
+
+By 1970, the Library contained more than 17,000,000 items. The modern building for the book depository was erected on Moskovsky Prospekt in the 1980s and 1990s.]]></description>
+			<Point>
+				<coordinates>30.335633999999995,59.933516,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>National Library of Singapore</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/National_library_interior.jpg/450px-National_library_interior.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/National_Library,_Singapore)
+
+National Library of Singapore (http://www.nl.sg/)
+
+The only public lending library in the building and located in Basement One with an area of 6,407 square metres. It has a collection of over 200,000 books, and has the largest collection of fiction books on the island. Almost half its collection are fiction titles. It has a children's section and special rooms for events and functions in the library. It also has a collection of 726 magazines, 74 newspapers as well as audio books on CDs. Central Lending Library has the largest number of foreign newspaper titles in her collection of newspapers. It also has Chinese, Malay and Tamil books.
+
+Wikipedia Commons / Calvin Teo]]></description>
+			<Point>
+				<coordinates>103.854222,1.297778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>National Library of Sweden</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/National_Library_of_Sweden)
+
+National Library of Sweden (http://www.kb.se/hjalp/english/?lang=en)
+
+The collections of the National Library consist of more than 18 million objects,[1] including books, posters, pictures, manuscripts, newspapers and much more. The audio-visual collection consists of more than 7 million hours of recorded material.
+
+The National Library is also a humanities research library, with collections of foreign literature in a wide range of subjects including archeology, history, literature studies, and art history.[citation needed] The library holds a collection of 850 broadsides of Sweden dating fro 1852.]]></description>
+			<Point>
+				<coordinates>18.072067,59.338105,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>New York Public Library</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/USA-NYC-New_York_Public_Library9.jpg/800px-USA-NYC-New_York_Public_Library9.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/New_York_Public_Library)
+
+New York Public Library (http://www.nypl.org/)
+
+The New York Public Library (NYPL) is a public library system in New York City. With nearly 53 million items, the New York Public Library is the second largest public library in the United States (and third largest in the world), behind only the Library of Congress. It is an independently managed, nonprofit corporation operating with both private and public financing. The library has branches in the boroughs of Manhattan, The Bronx and Staten Island and it has affiliations with academic and professional libraries in the metropolitan area of New York State. 
+
+Wikipedia Commons / Ingfbruno]]></description>
+			<Point>
+				<coordinates>-73.98192,40.753036,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>New York State Library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/New_York_State_Library)
+
+New York State Library (http://www.nysl.nysed.gov/)
+
+The Research Library, which was established in 1818, collects, preserves and makes available materials that support State government work. The Library's collections, now numbering over 20 million items, may also be used by other researchers on-site, online and via interlibrary loan.]]></description>
+			<Point>
+				<coordinates>-73.761284,42.64837,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-C6A4CF</styleUrl>
+			<name>Ohio State University Libraries</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/OSU_William_Oxley_Thompson_Memorial_Library_East_Atrium.JPG/800px-OSU_William_Oxley_Thompson_Memorial_Library_East_Atrium.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Ohio_State_University#Campus)
+
+Ohio State University Libraries (http://library.osu.edu/)
+
+Overall, Ohio State operates the 18th largest university research library in North America with a combined collection of over 5.8 million volumes. Additionally, the libraries receive approximately 35,000 serial titles on a regular basis. Its recent acquisitions were 16th among university research libraries in North America.[7] Ohio State's library system encompasses twenty-one libraries located on its Columbus campus. An additional eight branches are located at off-campus research facilities, regional campuses, and a book storage depository near campus. In all, the Ohio State library system encompasses fifty-five branches and specialty collections. Some of the more significant collections include The Byrd Polar Research Center Archival Program, which contains the archives of Admiral Richard E. Byrd as well as a significant collection of polar research materials; The Hilandar Research Library, which contains the world's largest collection of medieval Slavic manuscripts on microform; The Ohio State Cartoon Library & Museum, the world's largest repository of original cartoons; The Lawrence and Lee Theatre Research Institute; and the archives of Senator John Glenn."
+
+Wikipedia Commons / Ibagli]]></description>
+			<Point>
+				<coordinates>-83.014777,39.999331,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Phillips Exeter Academy Library</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Phillips_Exeter_-_library_3.JPG/450px-Phillips_Exeter_-_library_3.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Phillips_Exeter_Academy_Library)
+
+Phillips Exeter Academy Library (http://www.exeter.edu/libraries/553.aspx)
+
+The Phillips Exeter Academy Library in Exeter, New Hampshire, U.S., with 160,000 volumes on nine levels and a shelf capacity of 250,000 volumes, is the largest secondary school library in the world.[1] It is part of the Phillips Exeter Academy, an independent boarding school.
+
+Wikipedia Commons / Daderot]]></description>
+			<Point>
+				<coordinates>-70.949444,42.978889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Philological “Brain” Library at the Free University</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/a/af/Giraffe_Skeleton_%22Rieke%22_%28Veterinary_Library%2C_FU_Berlin%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Free_University_of_Berlin#Libraries)
+
+Philological “Brain” Library (http://www.fu-berlin.de/en/sites/philbib/index.html)
+
+With an inventory of over 8.5 million volumes and over 20,000 journals distributed in the central university library (UB)[7] and 49 specialized libraries of the institutes, the library system of the FU is the biggest in Germany. Items published since 1990 are fully digitalized and accessible through an OPAC. The UB is granted the status United Nations Depository Library and is linked to the global library system of the UN under direction of the Dag Hammarskjöld Library in New York. The European Union also uses the UB as a European Documentation Center. As part of the library of the UN and the EU, it contains all publications of the UN General Assembly, the UN Security Council, the International Court of Justice as well as publications from the Council of Europe and the Organization for Security and Co-operation in Europe.
+
+Wikipedia Commons / César]]></description>
+			<Point>
+				<coordinates>13.288168,52.451946,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-C6A4CF</styleUrl>
+			<name>Princeton University Library</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/0/00/Firestone-interior.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Princeton_University_Library)
+
+Princeton University Library (http://library.princeton.edu/)
+
+Princeton University Library is the main library system of Princeton University. With holdings of more than 7 million books, 6 million microforms, and 48,000 linear feet of manuscripts,[1] it is headquartered in the Harvey S. Firestone Memorial Library building, named after tire magnate Harvey Firestone.
+
+Wikipedia Commons / © 2005 Joseph Barillari.]]></description>
+			<Point>
+				<coordinates>-74.657426,40.34944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-C6A4CF</styleUrl>
+			<name>Public Library of Cincinnati and Hamilton County</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Carnegie_lib_interior.jpg/400px-Carnegie_lib_interior.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Public_Library_of_Cincinnati_and_Hamilton_County)
+
+Public Library of Cincinnati and Hamilton County (http://www.cincinnatilibrary.org/)
+
+As of 2010, the PLCH's collection holds about nine million volumes, making it the 12th-largest library in the U.S.[4] In 2008, PLCH had an annual circulation of over fifteen million items.[2] The downtown location alone circulates over four million items annually, the most of any single library location in the country.[5] Hennen's American Public Library Ratings 2008 places PLCH tenth among libraries that serve populations of over 500,000.[6] PLCH's various locations had 5,661,940 visitors in 2008.[2]
+
+Wikipedia Commons / Rick Dikeman]]></description>
+			<Point>
+				<coordinates>-84.513333,39.105,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-D698AD</styleUrl>
+			<name>Queens Borough Public Library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Queens_Library)
+
+Queens Borough Public Library (http://www.queenslibrary.org/)
+
+The Queens Library, also known as the Queens Borough Public Library, is the public library for the Borough of Queens and one of three library systems serving New York City. It is one of the largest library systems in the world by circulation, having loaned 17.5 million items in the 2013 fiscal year. It was named “2009 Library of the Year” by Library Journal. According to its website, the library holds about 7.5 million items, of which 1.4 million are at its central library in Jamaica, Queens.]]></description>
+			<Point>
+				<coordinates>-73.795,40.707778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Real Gabinete Português de Leitura</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[realgabinete.com (http://www.realgabinete.com.br/portalWeb/)
+
+ 
+350,000 volumes.]]></description>
+			<Point>
+				<coordinates>-43.182107,-22.905370000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-62AF44</styleUrl>
+			<name>Reading Room at La Sorbonne University of Paris</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Paris-Sorbonne Libraries (http://www.english.paris-sorbonne.fr/libraries/)
+ 
+- a wide range of printed and online documents. It covers all fields in Literature and Humanities Studies, and it contains
+-470,000 books
+-1,100 current periodicals, half of them being in foreign languages
+-10,000 music scores
+-4,000 maps and 800 audiovisual documents via the E- Library ("Bibliothèque Electronique"), more than 150 e-resources to which the university subscribes (bibliographies, periodicals, corpora, monograph and joint collections), accessible from the Library webpages and also from the staff and student gateway.]]></description>
+			<Point>
+				<coordinates>2.3426310000000004,48.84837,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-62AF44</styleUrl>
+			<name>Regenstein Library at University of Chicago </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Regenstein_Library)
+
+Regenstein Library (http://www.lib.uchicago.edu/e/reg/)
+
+The Joseph Regenstein Library is the main library of the University of Chicago, named after industrialist and philanthropist Joseph Regenstein. Holding 10.7 million volumes, it is one of the largest repositories of books in the world, and is noted for itsbrutalist architecture.]]></description>
+			<Point>
+				<coordinates>-87.599982,41.792365,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Rijksmuseum Research Library</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Interieur_overzicht_bibliotheekzaal_-_Amsterdam_-_20321545_-_RCE.jpg/753px-Interieur_overzicht_bibliotheekzaal_-_Amsterdam_-_20321545_-_RCE.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Rijksmuseum_Research_Library)
+
+Rijksmuseum Research Library (http://library.rijksmuseum.nl/)
+
+The Rijksmuseum Research Library is the largest public art history research library in the Netherlands. The library is part of the Rijksmuseum in Amsterdam.
+
+The online web catalogue contains about 300,000 monographs, 3,400 periodicalsand 40,000 art sales catalogues. About 50,000 art sales catalogues published before 1989 are not yet entered in the online catalogue.
+
+Wikipedia Commons / A.J. (Ton) van der Wal]]></description>
+			<Point>
+				<coordinates>4.884281,52.360139,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Royal Library of Denmark</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Danish_Royal_Library)
+
+Royal Library of Denmark (http://www.kb.dk/en/index.html)
+
+The library holds treasures which are inscribed on UNESCO's Memory of the World Register: A collection of about 2,000 books by and about Carl Linné(1997);[3] the manuscripts and correspondence of Hans Christian Andersen(1997);[4] the Søren Kierkegaard Archives (manuscripts and personal papers) (1997); Guamán Poma de Ayala's El Primer Nueva Coronica y Buen Gobierno, an autographed manuscript of 1,200 pages including 400 full-page drawings depicting the indigenous point of view on pre-conquest Andean life and Inca rule, the Spanish conquest in 1532, early Spanish colonial rule, and the systematic abuse of the rights of the indigenous populationt (2007).[5] Biblia Latina. Commonly called the Hamburg Bible or the Bible of Bertoldus (MS. GKS 4 2°), a richly illuminated Bible in three very large volumes made for the Cathedral of Hamburg in 1255. The 89 illuminated initials in the book are unique both as expressions of medieval art and as sources to the craft and history of the medieval book.]]></description>
+			<Point>
+				<coordinates>12.582393,55.673616,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Russian State Library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Russian_State_Library)
+
+Russian State Library (http://www.rsl.ru/en)
+ 
+The Russian State Library (Russian: Российская государственная библиотека) is the national library of Russia, located in Moscow. It is the largest in the country and thefourth largest in the world for its collection of books (17.5 million).[2] It was named the V. I. Lenin State Library of the USSR from 1925 until it was renamed in 1992 as the Russian State Library.]]></description>
+			<Point>
+				<coordinates>37.609366,55.751753,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Salt Lake City Public Library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Salt_Lake_City_Public_Library)
+
+Salt Lake City Public Library (http://www.slcpl.lib.ut.us/)
+
+The Salt Lake City main library has an area of 240,000 square feet (22,000 m2) and is a five-story tall, wedge-shaped building. The library has a collection of over 500,000 books as well as subscriptions to over 60 newspapers and magazines and 163 internet capable computers.]]></description>
+			<Point>
+				<coordinates>-111.88439,40.76001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>State Library of Victoria</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/State_Library_of_Victoria_La_Trobe_Reading_room_5th_floor_view.jpg/424px-State_Library_of_Victoria_La_Trobe_Reading_room_5th_floor_view.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/State_Library_of_Victoria)
+
+State Library of Victoria (http://www.slv.vic.gov.au/)
+
+The State Library of Victoria is the central library of the state of Victoria, Australia, located in Melbourne. It is on the block bounded by Swanston, La Trobe, Russell, andLittle Lonsdale streets, in the northern centre of the central business district. The library holds over 2 million books and 16,000 serials, including the diaries of the city's founders, John Batman and John Pascoe Fawkner, and the folios of Captain James Cook, R.N.. It also houses the original armour of Ned Kelly.
+
+Wikipedia Commons / Photo by DAVID ILIFF. License: CC-BY-SA 3.0]]></description>
+			<Point>
+				<coordinates>144.964814,-37.809911,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Seattle Central Library </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/1/13/Seattle_library_main_branch_overhead.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Seattle_Central_Library)
+
+Seattle Central Library (http://www.spl.org/)
+ 
+The 362,987 square foot (34,000 m²) public library can hold about 1.45 million books and other materials, features underground public for 143 vehicles, and includes over 400 computers open to the public. Over 2 million individuals visited the new library in its first year.  
+
+Wikipedia Commons / Rex Sorgatz]]></description>
+			<Point>
+				<coordinates>-122.33253800000001,47.60696600000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-62AF44</styleUrl>
+			<name>Smithsonian Libraries</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Library%2C_Lower_Main_Hall%2C_Smithsonian_Institution_Building.jpg/750px-Library%2C_Lower_Main_Hall%2C_Smithsonian_Institution_Building.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[library.si.edu (http://library.si.edu/)
+
+Wikipedia (http://en.wikipedia.org/wiki/Smithsonian_libraries)
+
+The Smithsonian Institution Libraries (SIL) system comprises 20 branch libraries serving the various Smithsonian Institution museums and research centers, as well as central support services which include a Book Conservation Laboratory and an Imaging Center. The Libraries serve Smithsonian Institution staff as well as the scholarly community and general public with information and reference support. Its collections number over 1.5 million volumes including 40,000 rare books and 2,000 manuscripts. The Libraries also holds the nation's largest trade literature collection, which includes over 300,000 commercial catalogs dating from the early nineteenth century and representing more than 30,000 companies.
+
+The Libraries' collections focus primarily on science, art, history and culture, and museology.[4] SIL is continuously analyzing its mission and goals in order to best meet the information and knowledge needs of new generations of users, to strengthen research, and to reach through cyberspace those unable to visit the Smithsonian museums and research centers in person.
+
+
+Disclaimer: The Smithsonian Libraries Unbound on September 30, 2013, listed MyReadingMapped's Livingstone's Trans-African Expedition (http://myreadingmapped.blogspot.com/2013/02/livingstones-trans-african-expedition.html) Google Map as citation #4 in it's David Livingstone and the Other Slave Trade, Part 1 (http://blog.library.si.edu/2013/09/david-livingstone-and-the-other-slave-trade-part-i/#.Ul5YKlCThZg) article with a link to the map's blog page on MyReadingMapped.
+
+
+
+Source: http://blog.library.si.edu (http://blog.library.si.edu/)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-77.026034,38.888789,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-62AF44</styleUrl>
+			<name>Shanghai Library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Shanghai_Municipal_Library)
+
+Shanghai Library (http://www.library.sh.cn/web/index.html)
+
+The first large municipal public library was founded in Shanghai on July 22, 1952. The library had a collection of more than 700,000 volumes. Shanghai Library merged with the Shanghai Municipal Library of Science and Technology, the Shanghai Municipal Library of Historical Documents and the Shanghai Newspaper Library in October 1958. It was the second largest comprehensive public library in China, in terms of collection, services and professional expertise.]]></description>
+			<Point>
+				<coordinates>121.44,31.209167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-C6A4CF</styleUrl>
+			<name>Stanford University Libraries</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Stanford_University_Libraries)
+
+Stanford University Libraries (http://library.stanford.edu/)
+
+The libraries hold a collection of nearly 9 million volumes, 260,000 rare or special books, 1.5 million e-books, 1.5 million audiovisual materials, 75,000 serials, 6 million microform holdings, and thousands of other digital resources, making it one of the largest and most diverse academic library systems in the world.[13] Starting in 2004 the Stanford libraries have collaborated with Google in digitizing hundreds of thousands of books from the Stanford collections and making them available to readers worldwide at no charge.]]></description>
+			<Point>
+				<coordinates>-122.16707,37.42678,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Stockholm Public Library</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/OdenplanBiblioteket.jpg/800px-OdenplanBiblioteket.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Stockholm_Public_Library)
+
+Stockholm Public Library (https://biblioteket.stockholm.se/)
+
+Stockholm Public Library includes more than 2 million volumes and 2.4 million audio tapes, CDs and audio books.
+
+The "international library" is the section for foreign languages, housed in two floors of an annex behind the main building, close to Odenplan. Its holdings comprise more than 100 languages with 17,000 volumes in Persian, 15,800 in Arabic, and 14,500 in Spanish. In 2007 the most borrowed languages were Russian (19,300 loans), Thai, Spanish, Persian, Chinese, Arabic, Polish and Japanese.[6] For some of these languages, Stockholm serves public libraries in the rest of Sweden through interlibrary loans.
+
+Wikipedia Commons / Andrea Serio]]></description>
+			<Point>
+				<coordinates>18.054268,59.343382,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Strahov Monastery Library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[www.prague.cz (http://www.prague.cz/strahov-library/)
+
+Strahov Monastery Library (http://www.strahovskyklaster.cz/strahovska-knihovna-archiv-a-dalsi-sbirky)
+
+The library in the Strahov Monastery in Prague played an important role in Czech history. There are about 200 000 old prints, mostly from the period between the 16 th and the 18 th century, around 3000 manuscripts and 1500 first prints. One of the most precious items is the Strahov Evangeliary from the 9 th century, with Romanesque and Gothic decoration. There are two splendidly decorated halls: the Theological Hall and the Philosophical Hall.]]></description>
+			<Point>
+				<coordinates>14.390000000000002,50.086,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-62AF44</styleUrl>
+			<name>Suzzallo Library at University of Washington</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Suzzallo_Reading_Room_04.jpg/800px-Suzzallo_Reading_Room_04.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Suzzallo_Library)
+
+Suzzallo Library (http://www.lib.washington.edu/suzzallo/)
+
+Of the 6 million volumes that make up the University of Washington Libraries collection, approximately 1.6 million are housed in Suzzallo/Allen Library. Along with the Main Collection, Suzzallo/Allen Library also has a Children's Literature, Government Publications, Natural Sciences, and Periodicals collections. The Special Collections contains a Rare Book Collection with books printed before 1801. The Microforms/Newspapers collection is the largest collection of microform materials in any Association of Researches Library.[5] Suzzallo Library also houses the main technical services units of the UW Libraries, including the Monographic Services Division and the Serials Services Division.
+
+Wikipedia Commons / Joe Mabel]]></description>
+			<Point>
+				<coordinates>-122.3084,47.6557,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>The Library of the History of Human Imagination (Private &amp; approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/The_Library_of_the_History_of_Human_Imagination)
+
+The Library of the History of Human Imagination (http://www.walkerdigital.com/the-walker-library_welcome.html)
+
+The Walker Library of the History of Human Imagination is a private library and collection of artistic, scientific and historical artifacts. The Library was founded by American inventor and entrepreneur Jay Walker, who remains its owner and curator.
+
+The 3,600 sq. ft. facility is a specially designed wing of Walker’s home in Ridgefield, CT. It contains about 30,000 books as well as maps, charts, artworks and a wide variety of museum-level artifacts. It is not open to the public.]]></description>
+			<Point>
+				<coordinates>-73.501196,41.288134,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Thomas Fisher Rare Book Library at University of Toronto </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Seminar_room_and_mezzanine.jpg/613px-Seminar_room_and_mezzanine.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Thomas_Fisher_Rare_Book_Library)
+
+Thomas Fisher Rare Book Library (http://fisher.library.utoronto.ca/)
+ 
+The Department of Rare Books and Special Collections was founded in November 1955 by the Chief Librarian, Robert H. Blackburn. Blackburn hired Marion E. Brown who was working in the special collections department at Brown University. Brown's first responsibility was to deal with the items that had been accumulating since 1890. Some of these items in the collection included medieval manuscripts, early printed books, and special volumes of later periods that had been presented by Queen Victoria to the University. Between the accumulated items and items found in the stacks of the main library, there was enough to open up the Rare Book Room in 1957.
+
+Wikipedia Commons / Thomas Fisher Rare Book Library]]></description>
+			<Point>
+				<coordinates>-79.398972,43.664028,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Trinity College Library</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Trinity_College_Library_02.JPG/800px-Trinity_College_Library_02.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Trinity_College_Library)
+
+Trinity College Library (http://www.tcd.ie/Library/)
+
+5,000,000 volumes. The Library proper occupies several buildings, four of which in Trinity College itself and another at St. James's Hospital, Dublin:
+
+The original (Old) Library is Thomas Burgh’s masterpiece. A huge building, it originally towered over the university and city after its completion. Even today, surrounded by similarly scaled buildings, it is imposing and dominates the view of the university from Nassau Street. The Book of Kells is located in the Old Library, along with the Book of Durrow, the Book of Howth and other ancient texts. Also incorporating the Long Room, the Old Library is one of Ireland's biggest tourist attractions, and holds thousands of rare, and in many cases very early, volumes. In the 18th century, the college received the Brian Boru harp, one of the three surviving medieval Gaelic harps, and a national symbol of Ireland, which is now housed in the library.. Incorporating:
+
+
+- the Early Printed Books Reading Room
+- the Manuscripts Reading Room
+- The Berkeley/Lecky/Ussher (BLU) Arts Libraries complex, incorporating:
+- The Berkeley Library, in Fellows Square
+- The Lekcy Library, attached to the Arts Building
+- The Ussher Library, overlooking College Park.
+- The Glucksman Map Library and Conservation Department.
+- The Long Roothe Berkeley Library (including the Multimedia Area) in Fellows Squarthe Lecky Library, attached to the Arts Building.
+- The Hamilton Science and Engineering Library.
+- The 1937 Reading Room (for graduate use).
+- The Stearne Medical Library, housed at St James's Hospital.
+
+Wikipedia Commons / Superchilum]]></description>
+			<Point>
+				<coordinates>-6.25684,53.343928,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>University of Coimbra General Library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/University_of_Coimbra_General_Library)
+
+University of Coimbra General Library (http://www.uc.pt/bguc)
+
+The current designation of the library, Biblioteca Geral da Universidade de Coimbra, came in 1924, and its current main building is from 1962. The library is divided in two buildings:
+
+The Biblioteca Joanina (books before 1800)
+The main centre Edifício Novo (the New Building, 1962) with over a million books ranging almost every possible field of study, 4 floors and over 7000 m2.]]></description>
+			<Point>
+				<coordinates>-8.42653,40.207203,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-C6A4CF</styleUrl>
+			<name>University of Michigan Library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/University_of_Michigan_Library)
+
+University of Michigan Library (http://www.lib.umich.edu/)
+
+The University of Michigan Library ranks in the top ten largest libraries in the United States. As of 2011-12, the University Library contained more than 12.25 million volumes, while all campus library systems combined held more than 13.36 million volumes. The Library also held 136,810 current serials, and over 4.42 million annual visits.[1]]]></description>
+			<Point>
+				<coordinates>-83.738201,42.276213,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-C6A4CF</styleUrl>
+			<name>University of Minnesota Libraries</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/University_of_Minnesota_Libraries)
+
+University of Minnesota Libraries (https://www.lib.umn.edu/)
+
+he University of Minnesota Libraries is the library system of the University of Minnesota Twin Cities campus, operating at 14 facilities in and around Minneapolis–Saint Paul. It has over 7 million volumes and 109,000 serial titles that are collected, maintained and made accessible.[1] The system is the 17th largest academic library in North America[2] and the 22nd largest library in the United States.]]></description>
+			<Point>
+				<coordinates>-93.243114,44.97327,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-C6A4CF</styleUrl>
+			<name>University of Texas Libraries' Perry-Castañeda Library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[University of Texas Libraries' Perry-Castañeda Library (http://www.lib.utexas.edu/)
+
+The collections of the University of Texas Libraries are the result of more than one hundred years of commitment to build one of the great library collections in the world. Containing more than ten million volumes and providing access to the latest electronic research materials, the library collects the products of human knowledge in all formats. The library directly supports the research and instruction needs of The University of Texas at Austin while also serving as a custodian of human culture and as a gateway to human possibility. The Libraries is composed of the Perry-Castañeda Library, the Collections Deposit Library, four special collections, and its nine branch libraries: Architecture and Planning, Chemistry, Classics, Engineering, Fine Arts, Geology, Physics-Mathematics-Astronomy, Life Science, and the library at the University of Texas at Austin Marine Science Institute at Port Aransas. 
+
+
+Disclaimer: The University of Texas Libraries' Perry-Castañeda Library Map Collection lists MyReadingMapped, the creator of this map, as a resource in its Social and Economic section called Topical: Cartographic Resources, Maps and Spatial Data (http://guides.lib.udel.edu/content.php?pid=201543&sid=1684356).]]></description>
+			<Point>
+				<coordinates>-97.738274,30.282927,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-C6A4CF</styleUrl>
+			<name>University of Wisconsin–Madison Library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/University_of_Wisconsin%E2%80%93Madison#Libraries)
+
+University of Wisconsin–Madison Library (http://www.library.wisc.edu/#books)
+
+The University of Wisconsin–Madison has the 12th largest research library collection in North America.[95] More than 40 professional and special-purpose libraries serve the campus.[96] The campus library collections include more than 8.3 million volumes representing human inquiry through all of history.[95] In addition, the collections comprised more than 101,000 serial titles, 6.4 million microform items, and over 8.2 million items in other formats, such as government documents, maps, musical scores, and audiovisual materials.]]></description>
+			<Point>
+				<coordinates>-89.39779,43.075502,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Vancouver Public Library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Vancouver_Public_Library)
+
+Vancouver Public Library (http://www.vpl.ca/)
+
+he Vancouver Public Library (VPL) is the second largest public library system in Canada, with more than 2.8 million items in its collections, 22 branches, approximately 375,000 cardholders, and nearly nine million item borrowings annually.[3] The administration centre, and also the largest branch, known as the Central Branch, is located at Library Square in downtown Vancouver]]></description>
+			<Point>
+				<coordinates>-123.11562500000001,49.279705,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Vatican Library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Vatican_Library)
+
+Vatican Library (http://www.vatican.va/library_archives/)
+
+Today, the library holds some 75,000 manuscripts and over 1.1 million printed books, which include some 8,500 incunabula. The Vatican Secret Archives were separated from the library at the beginning of the 17th century; they contain another 150,000 items.]]></description>
+			<Point>
+				<coordinates>12.454444,41.904722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Vernadsky National Library of Ukraine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Vernadsky_National_Library_of_Ukraine)
+
+Vernadsky National Library of Ukraine (http://www.nbuv.gov.ua/eng/)
+
+Vernadsky National Library of Ukraine, VNLU (Ukrainian: Національна бібліотека України імені В.І. Вернадського) is the main academic library and main scientific information centre in Ukraine, one of theworld's largest(top twenty) national libraries. It is located in the capital of the country – Kiev. The library contains about 15 million items. This unique collection includes books, magazines, serials, maps, sheet music, fine arts materials, manuscripts, rare printed books and incunabula, newspapers, and documents of untraditional materials. The library has the most complete collection of Slavic writing, archives of outstanding world and Ukrainian scientists and cultural persons. The holdings include the collection of the Presidents of Ukraine, archive copies of Ukrainian printed documents from 1917, and archives of theNational Academy of Sciences of Ukraine.]]></description>
+			<Point>
+				<coordinates>30.518611,50.40388900000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1199'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1199-fac-help.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-62AF44'>
+			<IconStyle>
+				<color>ff44AF62</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-93D7E8'>
+			<IconStyle>
+				<color>ffE8D793</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-C6A4CF'>
+			<IconStyle>
+				<color>ffCFA4C6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-D698AD'>
+			<IconStyle>
+				<color>ffAD98D6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-960-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

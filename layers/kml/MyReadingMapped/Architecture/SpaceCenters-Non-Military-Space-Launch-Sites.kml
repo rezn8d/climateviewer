@@ -1,0 +1,456 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Source of information used in this map.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[This map used coordinates and data obtained online from the following source(s):
+
+- Wikipedia's List of Rocket Launch Sites (http://en.wikipedia.org/wiki/List_of_rocket_launch_sites)]]></description>
+			<Point>
+				<coordinates>-34.101562,41.508577,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Color Coding of Launch of Humans vs. Satellites</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- Red are associated with the launch of Humans into space.
+- Yellow are associated with the launch of Satellites into space.]]></description>
+			<Point>
+				<coordinates>-34.101562,28.304381,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>Digitally walk this map in 3D.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[You can digitally walk this map in 3D using this  Nonnetworked Google Earth KML file (https://docs.google.com/file/d/0B52hHMRyBvEsaVhpMG1PcGFTOUk/edit).]]></description>
+			<Point>
+				<coordinates>-34.804687,12.21118,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps on History</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com) ]]></description>
+			<Point>
+				<coordinates>-34.101562,-3.162456,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Baikonur Cosmodrome</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/14724456.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Baikonur_Cosmodrome)
+ 
+The Baikonur Cosmodrome (Russian: космодром «Байконур»; Kazakh: Байқоңыр ғарыш айлағы), also called Tyuratam,[1]  is the world's first and largest operational space launch facility.
+
+Panoramio / Dmitri Alexeev]]></description>
+			<Point>
+				<coordinates>63.305154,45.964806,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Broglio Space Centre</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/San_Marco_launch_platform.jpg/800px-San_Marco_launch_platform.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Broglio_Space_Centre)
+ 
+The Luigi Broglio Space Centre (BSC) is an Italian spaceport near Malindi, Kenya, named after its founder and Italian space pioneer Luigi Broglio. [1] Developed in the 1960s through a partnership between the University of Rome La Sapienza's Aerospace Research Centre and NASA, the BSC served as a spaceport for the launch of both Italian and international satellites.
+
+Wikipedia Commons/ Public Domain        ]]></description>
+			<Point>
+				<coordinates>40.2134,-2.9408,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Cape Canaveral Space Launch Complex 17</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/View_over_Launch_Complex_17.jpg/800px-View_over_Launch_Complex_17.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_17)
+
+Among the major NASA missions launched from the complex were the Explorer and Pioneer space probes, all of the Orbiting Solar Observatories, Solar Maximum, Biological Satellites (BIOS), Television Infrared Observations Satellites (TIROS, Geostationary Operational Environmental Satellites (GOES), and GRAIL spacecraft.
+
+
+Wikipedia Commons / NASA / George Shelton]]></description>
+			<Point>
+				<coordinates>-80.566111,28.446667000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Dombarovsky Cosmodrome</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/15812384.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Dombarovsky_(air_base) 
+
+As of October 1, 2008 three spacecraft have been launched from Dombarovskiy using Dnepr-1 rockets.[4] They are:
+
+- July 12, 2006, Genesis I spacecraft launched for Bigelow Aerospace into a 550 km, 64.5 degree inclination orbit.
+- June 28, 2007, Genesis II spacecraft, also launched for Bigelow Aerospace into a near-identical orbit.
+- October 1, 2008, THEOS satellite launched for GISTDA.[4]
+
+Panoramio / Badger-16]]></description>
+			<Point>
+				<coordinates>59.508734,50.79948000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Guiana Space Centre (Ariane Launch Zone)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/CSG_Ariane_4_Launch_Site.JPG/800px-CSG_Ariane_4_Launch_Site.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+ (http://en.wikipedia.org/wiki/Guiana_Space_Centre)
+
+The European Space Agency, the French space agency CNES, and the commercial Arianespace company conduct launches from Kourou.[1][2][3] This is the spaceport used by the ESA to send supplies to the International Space Station using the Automated Transfer Vehicle.
+
+Wikipedia Commons  / Jef-Infojef]]></description>
+			<Point>
+				<coordinates>-52.769072,5.239330000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Guiana Space Centre (Vega Launch Zone)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-52.774801,5.236008,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Guiana Space Centre (Decommissioned Ariane 4 Zone)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/9/9f/Ariane42P_rocket.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons /  NASA]]></description>
+			<Point>
+				<coordinates>-52.775574,5.23152,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Guiana Space Centre (Soyouz launch facilities)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Guiana_Space_Centre#ELS_.2F_Soyuz_at_CSG)
+
+ELS is located on the territory of Sinnamary commune, 27 km (17 mi) from Kourou harbor.[12] It is 10 km (6.2 mi) north of the site used for the Ariane 5 launches. Under the terms of the Russo-European joint venture, ESA will augment its own launch vehicle fleet with Soyuz rockets—using them to launch ESA or commercial payloads—and the Russians will get access to the Kourou spaceport for launching their own payloads with Soyuz rockets. Russia will use the Guiana Space Centre in addition to Baikonur Cosmodrome.]]></description>
+			<Point>
+				<coordinates>-52.871361,5.3178,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Jiuquan Satellite Launch Center</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Long_March_2D_launching_off_pad_with_VRSS-1.jpg/408px-Long_March_2D_launching_off_pad_with_VRSS-1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Jiuquan_Satellite_Launch_Center)
+ 
+Jiuquan Satellite Launch Center (JSLC) is a People's Republic of China space vehicle launch facility (spaceport.)
+
+Wikipedia Commons / Cristóbal Alvarado Minic]]></description>
+			<Point>
+				<coordinates>100.278611,40.9675,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Kapustin Yar</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Kapustin_Yar_open_street_map.png/766px-Kapustin_Yar_open_street_map.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Kapustin_Yar)
+
+Wikipedia Commons/ Oaktree b]]></description>
+			<Point>
+				<coordinates>45.90414,48.571155,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Kennedy Space Center</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/STS-36_Rollout_-_GPN-2000-000680.jpg/750px-STS-36_Rollout_-_GPN-2000-000680.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Kennedy_Space_Center)
+
+The John F. Kennedy Space Center (KSC) is the United States launch site that has been used for every NASA human space flight since 1968. Although such flights are currently on hiatus, KSC continues to manage and operate unmanned rocket launch facilities for the U.S. government's civilian space program from three pads at the adjoining Cape Canaveral Air Force Station. Its Vehicle Assembly Building (VAB) is the fourth-largest structure in the world by volume[2] and was the largest when completed in 1965.
+
+Wikipedia Commons / NASA]]></description>
+			<Point>
+				<coordinates>-80.620079,28.625816,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mid-Atlantic Regional Spaceport</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Mid-Atlantic_Regional_Spaceport_-_aerial_photo.jpg/800px-Mid-Atlantic_Regional_Spaceport_-_aerial_photo.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mid-Atlantic_Regional_Spaceport)
+
+The Mid-Atlantic Regional Spaceport (MARS) is a commercial space launch facility located at the southern tip of NASA's Wallops Flight Facility on the Delmarva Peninsula south of Chincoteague, Virginia.
+
+Wikipedia Commons / NASA Wallops Flight Facility]]></description>
+			<Point>
+				<coordinates>-75.491237,37.831228,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mojave Air and Space Port</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kluft-photo-aerial-Mojave-Spaceport-Sept-2009-Img_0227.jpg/800px-Kluft-photo-aerial-Mojave-Spaceport-Sept-2009-Img_0227.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mojave_Air_%26_Space_Port)
+
+Beginning with the Rotary Rocket program, Mojave became a focus for small companies seeking a place to develop space access technologies. Mojave Spaceport has been a test site for several teams in the Ansari X Prize, most notably the Scaled Composites SpaceShipOne, which conducted the first privately funded human sub-orbital flight on June 21, 2004. Other groups based at the Mojave Spaceport include XCOR Aerospace, Masten Space Systems, and Firestar Technologies[3] Other companies at Mojave include Orbital Sciences Corporationand Interorbital Systems.[citation needed]
+
+Wikipedia Commons / Ikluft]]></description>
+			<Point>
+				<coordinates>-118.15587800000002,35.060862,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Naro Space Center</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/37223419.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Naro_Space_Center)
+ 
+Naro Space Center is a South Korean spaceport in Goheung County, South Jeolla operated by the state-run Korea Aerospace Research Institute.
+
+Panoramio / changwon city]]></description>
+			<Point>
+				<coordinates>127.535069,34.431867,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Salto di Quirra</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Salto_di_Quirra)
+
+Salto di Quirra primarily launches military rockets, but civilian rockets, such as the Skylark, have occasionally been launched for the study of the upper atmosphere.]]></description>
+			<Point>
+				<coordinates>9.632778,39.527222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Satish Dhawan Space Centre</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/46240414.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia. (http://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre)
+ 
+The Satish Dhawan Space Centre is the launch centre for the Indian Space Research Organisation (ISRO).
+
+Panoramio / RamaReddy Vogireddy]]></description>
+			<Point>
+				<coordinates>80.230278,13.72,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Sonmiani (space facility)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Sonmiani)
+ 
+Sonmiani Termial Launch is a launch site (spaceport) approximately 145 kilometres northwest of Karachi, Pakistan. The facility became operational in late 1962. Sonmiani Satellite Launch Center was planned and constructed by U.S's space agency, NASA in the early 1962s when a team of NASA's engineers visited Pakistan.]]></description>
+			<Point>
+				<coordinates>66.750205,25.194297,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Taiyuan Satellite Launch Center</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/1449252.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Taiyuan_Satellite_Launch_Center)
+ 
+The Taiyuan Satellite Launch Center (TSLC) also known as Base 25 (Chinese: 二十五基地), is a People's Republic of China space and defence launch facility (spaceport). It is situated in Kelan Count, Xinzhou, Shanxi Province and is the second of three launch sites having been founded in March 1966 and coming into full operation in 1968.
+
+Panoramio / Jan Balaz]]></description>
+			<Point>
+				<coordinates>111.608069,38.848841,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Tanegashima Space Center</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Global_Precipitation_Measurement_%28GPM%29_pre-launch.jpg/600px-Global_Precipitation_Measurement_%28GPM%29_pre-launch.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Tanegashima_Space_Center)
+ 
+The Tanegashima Space Center (種子島宇宙センター Tanegashima Uchū Sentā?) (TNSC) is a Japanese space development facility. It is located on Tanegashima, an island located 115 km south of Kyushu. It was established in 1969 when the National Space Development Agency of Japan (NASDA) was formed, and is now run by JAXA.
+
+Wikipedia Commons / NASA/Bill Ingalls]]></description>
+			<Point>
+				<coordinates>130.97,30.4,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Uchinoura Space Center</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/M-V_with_Astro-E_satellite.jpg/450px-M-V_with_Astro-E_satellite.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Uchinoura_Space_Center)
+ 
+The Uchinoura Space Center (内之浦宇宙空間観測所 Uchinoura Uchū Kūkan Kansokusho? is a space launch facility close to the Japanese town of Kimotsuki , in Kagoshima Prefecture. 
+
+Wikipedia Commons / NASA]]></description>
+			<Point>
+				<coordinates>131.082129,31.251231000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Vikram Sarabhai Space Centre</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Vikram_Sarabhai_Space_Centre#cite_note-1)
+ 
+The Vikram Sarabhai Space Centre (VSSC)(Hindi विक्रम साराभाई अंतरिक्ष केंद्र, Malayalam: വിക്രം സാരാഭായ് ബഹിരാകാശകേന്ദ്രം) is a major space research centre of the Indian Space Research Organisation (ISRO), focusing on rocket and space vehicles for India's satellite programme.]]></description>
+			<Point>
+				<coordinates>76.869836,8.530229,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Wallops Flight Facility</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/24/NASA_Wallops_Flight_Facility%2C_2010.jpg/800px-NASA_Wallops_Flight_Facility%2C_2010.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Wallops_Flight_Facility)
+
+Wallops Flight Facility (WFF) (IATA: WAL, ICAO: KWAL, FAA LID: WAL), located on the Eastern Shore of the U.S. state ofVirginia, is operated by NASA's Goddard Space Flight Center, primarily as a rocket launch site to support science and exploration missions for NASA and other U.S. government agencies.
+
+
+Wikipedia Commons / NASA]]></description>
+			<Point>
+				<coordinates>-75.466182,37.941135,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Xichang Satellite Launch Center</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/3/3d/Xichang_launch_center_4.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Xichang_Satellite_Launch_Center)
+ 
+Wikipedia Commons / CGWIC (http://www.cgwic.com/index1.html)]]></description>
+			<Point>
+				<coordinates>102.026821,28.245586,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

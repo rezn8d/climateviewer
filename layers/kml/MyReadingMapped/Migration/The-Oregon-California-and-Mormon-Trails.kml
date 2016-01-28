@@ -1,0 +1,1627 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Sources this map is based on</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- The Oregon Trail Map found at the U.S. National Park Service (http://www.nps.gov/oreg/planyourvisit/upload/HFC%20OREG_map2007a.pdf)
+
+- The California Trail Map found at the U.S. National Park Service (http://www.nps.gov/cali/planyourvisit/upload/CALImap1-web.pdf)
+
+- Wikipedia's web page on the Oregon Trail (http://en.wikipedia.org/wiki/Oregon_Trail)
+
+- Map titled, "Line of Original Emigration to the Pacific Northwest commonly known as the Old Oregon Trail" (http://en.wikipedia.org/wiki/File:Oregontrail_1907.jpg)
+
+- The Native American Tribes Map (http://images4.wikia.nocookie.net/__cb20081206231539/oraltradition/images/0/09/Native_American_Tribes_Map_1.jpg)]]></description>
+			<Point>
+				<coordinates>-113.225098,39.300299,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>Digitally walk this map in 3D.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[You can digitally walk this map in 3D using this Non-Networked Google Earth KML file. (https://docs.google.com/file/d/0B52hHMRyBvEsU3ZEUGNDNWtMX3c/edit)]]></description>
+			<Point>
+				<coordinates>-109.907227,38.030786,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#1 = Independence, MO </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[National Park Service Map of the Oregon Trail:
+
+"INDEPENDENCE was the preferred jumping off point for the Oregon and Santa Fe Trails in the 1840s and early 1850s."]]></description>
+			<Point>
+				<coordinates>-94.406509,39.079699,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-F4EB37</styleUrl>
+			<name>#1A-= St Joseph, MO</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Oregon_Trail#Missouri)
+ 
+"Another busy "jumping off point" was St. Joseph, Missourui —established in 1843."]]></description>
+			<Point>
+				<coordinates>-94.836667,39.758049,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-93D7E8</styleUrl>
+			<name>#1C = Start of the Mormon Trail</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Next, Fort Kearney (#6)]]></description>
+			<Point>
+				<coordinates>-95.869446,41.257162,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#2 = Lawrence, KS</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Oregon_Trail#Kansas)
+
+"After crossing Mount Oread at Lawrence, the trail crosses the Kansas River by ferry or boats near Topeka, and crossed the Wakarusa and Vermillion River rivers by ferries. After the Vermillion River the trail angles north west to Nebraska paralleling the Little Blue River until reaching the south side of the Platte River. Travel by wagon over the gently rolling Kansas countryside was usually unimpeded except where streams had cut steep banks. There a passage could be made with a lot of shovel work to cut down the banks or the travelers could find an already established crossing."]]></description>
+			<Point>
+				<coordinates>-95.249405,38.979695,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#3 = Topeka, KS</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Oregon_Trail#Missouri):
+
+"After following the Santa Fe trail to near present day Topeka, Kansas they ferried across the Kansas River to start the trek across Kansas and points west."]]></description>
+			<Point>
+				<coordinates>-95.689512,39.055682,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#4 = Alcove Springs, KS</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.67213400000001,39.744946,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#5 = Rock Creek Station State Historical Park, NE</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-97.059255,40.113041,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#6 = Fort Kearny, NE</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[National Park Service Map of the Oregon Trail:
+
+FORT KEARNY: the U.S. Army established the fort in 1848 to provide protection for emigrants. All trails from jumping off points along the Missouri River met here, at the “Gateway to the
+Great Plains.”]]></description>
+			<Point>
+				<coordinates>-99.005556,40.643056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#7 = Fort McPherson, NE</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Oregon_Trail#Nebraska)
+
+"In the spring in Nebraska and Wyoming the travelers often encountered fierce wind, rain and lightning storms. Until about 1870 travelers encountered hundreds of thousands of bison migrating through Nebraska on both sides of the Platte River, and most travelers killed several for fresh meat and to build up their supplies of dried jerky for the rest of the journey. The prairie grass in many places was several feet high with only the hat of a traveler on horseback showing as they passed through the prairie grass."]]></description>
+			<Point>
+				<coordinates>-100.525782,41.024949,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#8 = Julesburg, CO</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Oregon_Trail#Nebraska)
+
+"In many years the Indians fired much of the dry grass on the prairie every fall so the only trees or bushes available for firewood were on islands in the Platte river. Travelers gathered and ignited dried buffalo chips to cook their meals. These burned fast in a breeze, and it could take two or more bushels of chips to get one meal prepared."]]></description>
+			<Point>
+				<coordinates>-102.266452,40.988121,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1205</styleUrl>
+			<name>Cholera on the Platte River</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia:
+
+"Because of the Platte's brackish water, the preferred camping spots were along one of the many fresh water streams draining into the Platte or the occasional fresh water spring found along the way. These preferred camping spots became sources of cholera in the epidemic years (1849–1855) as many thousands of people used the same camping spots with essentially no sewage facilities or adequate sewage treatment. One of the side effects of cholera is acute diarrhea which helps contaminate even more water unless it is isolated and/or treated. "]]></description>
+			<Point>
+				<coordinates>-101.66748,41.335576,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#9 = Ash Hollow, NE</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/8/86/Ash_Hollow_Nebraska.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[National Park Service Map of the Oregon Trail:
+
+"ASH HOLLOW was the entry to the North Platte River Valley. Ample supplies of wood, water, and grass made this a sought after camping area."
+
+
+Wikipedia (http://en.wikipedia.org/wiki/Ash_Hollow_State_Historical_Park)
+
+Wikipedia Commons: Chris Light (http://en.wikipedia.org/wiki/User:Chris_Light)]]></description>
+			<Point>
+				<coordinates>-102.12,41.298056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#10 = Courthouse and Jail Rocks, NE</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Darton_1897_JailRock.jpg/800px-Darton_1897_JailRock.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Courthouse_and_Jail_Rocks)
+
+
+
+Public Domain]]></description>
+			<Point>
+				<coordinates>-103.116042,41.597197,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#11 = Chimney Rock, NE</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/47/%22Chimney_Rock%2C_Nebraska.%22_-_NARA_-_294354.tif/lossy-page1-788px-%22Chimney_Rock%2C_Nebraska.%22_-_NARA_-_294354.tif.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Chimney_Rock_National_Historic_Site)
+
+Wikipedia Commons: National Archives ]]></description>
+			<Point>
+				<coordinates>-103.348217,41.703678,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#12 = Scotts Bluff, NE</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Covered_Wagon_In_Scotts_Bluff_National_Monument%2C_Nebraska.jpg/800px-Covered_Wagon_In_Scotts_Bluff_National_Monument%2C_Nebraska.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[National Park Service Map of the Oregon Trail:
+
+"SCOTTS BLUFF was one of the major landmarks on the trail, and, with Chimney Rock 35 miles east, it signaled that almost one-third of the trail had been traversed."
+
+
+Wikipedia (http://en.wikipedia.org/wiki/Scotts_Bluff_National_Monument)
+
+Public Domain ]]></description>
+			<Point>
+				<coordinates>-103.700833,41.835556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#13 = Fort Laramie, WY</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[National Park Service Map of the Oregon Trail:
+
+"FORT LARAMIE: this early Indian trading post quickly developed into the major resupply point for emigrants and a major military post. Old Bedlam, on the fort grounds, is the oldest structure in Wyoming."]]></description>
+			<Point>
+				<coordinates>-104.535861,42.209167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#14 = Register Cliff, WY</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ONHT_Register-Cliff.jpg/800px-ONHT_Register-Cliff.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Register_Cliff)
+
+Wikipedia Commons: National Park Service ]]></description>
+			<Point>
+				<coordinates>-104.708889,42.248889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#15 = Ayres Natural Bridge, WY</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Ayres_Natural_Bridge_Park%2C_Wyoming.jpg/800px-Ayres_Natural_Bridge_Park%2C_Wyoming.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Ayres_Natural_Bridge_Park)
+
+Public Domain ]]></description>
+			<Point>
+				<coordinates>-105.612353,42.734264,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#16 = Fort Casper Historical Grounds, WY</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-106.370401,42.836765,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#17 = Independence Rock, WY</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/b/b5/Oregon_Trail%27s_Indepedence_Rock_1870.gif</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[National Park Service Map of the Oregon Trail:
+
+"INDEPENDENCE ROCK: fur trappers named this formation on July 4, 1824. Many emigrants later carved or painted their names on the rock."
+
+
+Wikipedia (http://en.wikipedia.org/wiki/Independence_Rock_(Wyoming))
+
+Wikipedia Commons: National Archives]]></description>
+			<Point>
+				<coordinates>-107.129444,42.493611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#18 = South Pass, WY</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[National Park Service Map of the Oregon Trail:
+ 
+"SOUTH PASS: here the emigrants crossed the Continental Divide and passed into the Oregon
+Country. The Pass is so broad and so level that many did not realize they had passed into the Paciﬁc watershed."]]></description>
+			<Point>
+				<coordinates>-108.913611,42.37,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#19 = Big Sandy Creek, WY</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Oregon_Trail#Wyoming)
+ 
+"After crossing the South Platte the trail continues up the North Platte River, crossing many small swift flowing creeks. As the North Platte veers to the south the trail crosses the North Platte to the Sweetwater River  valley which heads almost due west. Independence Rock (Wyoming) is located on the Sweetwater River. The Sweetwater would have to be crossed up to nine times before the trail crosses over the Continental Divide  at South Pass, Wyoming. From South Pass the trail continues southwest crossing Big Sandy Creek (about 10 feet (3.0 m) wide and 1 foot (0.30 m) deep) before hitting the Green River."]]></description>
+			<Point>
+				<coordinates>-109.519958,42.054136,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#20 = Lombard Ferry Crossing</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-109.793243,41.84092,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#21 = Church Butte, WY</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-110.134873,41.50551,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#23 = Fort Bridger, WY</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[National Park Service Map of the Oregon Trail:
+ 
+"FORT BRIDGER was a major supply point on the trail. Here the Mormon Trail veered off
+to the southwest and into Utah."]]></description>
+			<Point>
+				<coordinates>-110.384325,41.316617,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#24 = Emigrant Trail</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-110.66803,41.580525,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-0000FF-5</styleUrl>
+			<name>Bear River Sublette Cutoff</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Oregon_Trail#Wyoming)
+
+"From Fort Bridger, the main trail, comprising several variants, veered northwest over the Bear River Divide and descended to the Bear River Valley. The trail turned north following the Bear River past the terminus of the Sublette-Greenwood Cutoff at Smiths Fork and on to the Thomas Fork Valley at the present Wyoming-Idaho border."]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-110.668888,41.58014,0.0 -110.676227,41.58595,0.0 -110.67798600000002,41.589449,0.0 -110.678415,41.5933,0.0 -110.680175,41.593782000000004,0.0 -110.68180600000001,41.593782000000004,0.0 -110.683951,41.595162,0.0 -110.683436,41.596381,0.0 -110.683694,41.597312,0.0 -110.685196,41.59943,0.0 -110.687728,41.600939,0.0 -110.689616,41.602704,0.0 -110.691977,41.604148,0.0 -110.693908,41.607517,0.0 -110.695753,41.609859,0.0 -110.698156,41.610565,0.0 -110.704465,41.614063,0.0 -110.708628,41.616886,0.0 -110.709615,41.6208,0.0 -110.709357,41.6225,0.0 -110.708499,41.62404,0.0 -110.707598,41.625773,0.0 -110.70837,41.627377,0.0 -110.707426,41.630167,0.0 -110.708113,41.633247,0.0 -110.708842,41.637128,0.0 -110.710773,41.641201,0.0 -110.71794,41.645178,0.0 -110.725451,41.647519,0.0 -110.731716,41.648481,0.0 -110.735364,41.651655,0.0 -110.743346,41.652746,0.0 -110.75102800000002,41.652746,0.0 -110.757895,41.654253,0.0 -110.763988,41.658742,0.0 -110.761199,41.663198,0.0 -110.762143,41.666821,0.0 -110.766177,41.668424,0.0 -110.768709,41.670924,0.0 -110.778666,41.676246,0.0 -110.780811,41.677303,0.0 -110.782957,41.678169,0.0 -110.788922,41.679803,0.0 -110.792141,41.684483,0.0 -110.80214,41.687175,0.0 -110.810251,41.688553,0.0 -110.822525,41.689739,0.0 -110.826945,41.69179,0.0 -110.836859,41.692559,0.0 -110.845013,41.694418,0.0 -110.850677,41.695603,0.0 -110.85558,41.69803,0.0 -110.85549,41.70028,0.0 -110.856428,41.701531,0.0 -110.855999,41.703165,0.0 -110.8542,41.70425,0.0 -110.85275,41.70624,0.0 -110.851665,41.707523,0.0 -110.84931,41.70809,0.0 -110.84674,41.70893,0.0 -110.84382,41.710150000000006,0.0 -110.840228,41.711736,0.0 -110.83927,41.71386,0.0 -110.84227000000001,41.71437,0.0 -110.84562,41.71444,0.0 -110.84871,41.71527,0.0 -110.85257,41.7161,0.0 -110.8566,41.716429,0.0 -110.861278,41.717358,0.0 -110.86514,41.716941,0.0 -110.86857300000001,41.718799,0.0 -110.872521,41.71992,0.0 -110.876083,41.716941,0.0 -110.884023,41.717966,0.0 -110.89166200000001,41.7196,0.0 -110.899343,41.718703,0.0 -110.901833,41.718735,0.0 -110.905609,41.720145,0.0 -110.90985800000001,41.719568,0.0 -110.912046,41.717326,0.0 -110.91870000000002,41.71546,0.0 -110.924234,41.713546,0.0 -110.926938,41.713161,0.0 -110.93329,41.712072,0.0 -110.93633700000001,41.713161,0.0 -110.942817,41.711944,0.0 -110.94603500000001,41.710887,0.0 -110.95521900000001,41.707106,0.0 -110.96461800000002,41.702268,0.0 -110.968008,41.701211,0.0 -110.971527,41.70198,0.0 -110.973458,41.704831,0.0 -110.97337200000001,41.70826,0.0 -110.982471,41.714122,0.0 -110.98749200000002,41.716909,0.0 -110.994444,41.71851100000001,0.0 -110.99968,41.722067,0.0 -110.998907,41.730426,0.0 -111.001654,41.738721,0.0 -111.00513,41.743588,0.0 -111.00659,41.74826,0.0 -111.00968,41.75517,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Digitally walk the Bear River Sublette Cutoff</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://2.bp.blogspot.com/-FNvvTSFaHsI/UHqbSt_vfKI/AAAAAAAAB8o/flkFOMO-euo/s320/NPS+map+close+up+of+Bear+River+Cutoff+Segment.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[You can digitally walk this path in  (https://docs.google.com/file/d/0B52hHMRyBvEsZnVKakxEZF9jZlU/edit)this Google Earth KML file.  (https://docs.google.com/file/d/0B52hHMRyBvEsaV9UQnVjV2ZMaW8/edit)Just find the blue line and zoom all the way to the ground.
+
+
+National Park Service]]></description>
+			<Point>
+				<coordinates>-110.854797,41.622629,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Bear River Divide</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-110.87368,41.711111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#26 = Near Routes 30 and 89</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-111.00997900000002,41.755947,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#27 = Cokeville, WY 83114</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Oregon_Trail#Wyoming)
+
+"From there the Sublette-Greenwood Cutoff trail had to cross a mountain range to connect with the main trail near Cokeville, Wyoming in the Bear River valley."]]></description>
+			<Point>
+				<coordinates>-110.955187,42.082437,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#28 = Thomas Fork Crossing</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-111.070215,42.34397,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#29 = Montpelier, ID</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-111.31073,42.311847,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#30 = Soda Springs, ID</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Oregon_Trail#Idaho)
+
+"At Soda Springs was one branch of Lander Road (established and built with government contractors in 1858), which had gone west from near South Pass, over the Salt River Mountains and down Star Valley before turning west near present-day Auburn, Wyoming, and entering Idaho. From there it proceeded northwest into Idaho up Stump Creek canyon for about ten miles (16 km). One branch turned almost 90 degrees and proceeded southwest to Soda Springs. Another branch headed almost due west past Gray's Lake to rejoin the main trail about 10 miles (16 km) west of Fort Hall."]]></description>
+			<Point>
+				<coordinates>-111.596091,42.658975,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#31 = Pocatello, ID</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Oregon_Trail#Idaho)
+
+"West of Fort Hall the main trail traveled about 40 miles (64 km) on the south side of the Snake River southwest past American Falls, Massacre Rocks, Register Rock, and Coldwater Hill near present-day Pocatello, Idaho."]]></description>
+			<Point>
+				<coordinates>-112.447148,42.87535,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#32N = Fort Hall, ID (northern route)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-112.634709,43.020192,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#32S = Burley, ID (southern route)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Oregon_Trail#Idaho)
+ 
+"Today's Idaho Interstate 84 roughly follows the Oregon Trail until it leaves the Snake River near Burley, Idaho. "]]></description>
+			<Point>
+				<coordinates>-113.792842,42.536129,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#33N = Arco, ID (northern route)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Oregon_Trail#Idaho)
+
+"Goodale's Cutoff, established in 1862 on the north side of the Snake River, formed a spur of the Oregon Trail. This cutoff had been used as a pack trail by Indians and fur traders, and emigrant wagons traversed parts of the eastern section as early as 1852. After crossing the Snake River the 230 miles (370 km) cutoff headed north from Fort Hall toward Big Southern Butte following the Lost River part of the way. It passed near the present-day town of Arco, Idaho, and wound through the northern part of what is now Craters of the Moon National Monument. "]]></description>
+			<Point>
+				<coordinates>-113.301047,43.634451,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#33S = Twin Falls, ID (southern route)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Oregon_Trail#Idaho)
+
+"From the present site of Pocatello the trail proceeded almost due west on the south side of the Snake River for about 180 miles (290 km). This route passed Cauldron Linn rapids, Shoshone Falls, two falls near the present city of Twin Falls, Idaho, and Upper Salmon Falls on the Snake River."]]></description>
+			<Point>
+				<coordinates>-114.45694,42.570276,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#34N = Craters of the Moon National Monument. (northern route)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Oregon_Trail#Idaho)
+ 
+"This journey typically took two to three weeks and was noted for its very rough lava terrain and extremely dry climate, which tended to dry the wooden wheels on the wagons, causing the iron rims to fall off the wheels. Loss of wheels caused many wagons to be abandoned along the route. It rejoined the main trail east of Boise. Goodale's Cutoff is visible at many points along U.S. Highway 20 , U.S. Highway 26, and U.S. Highway 93  between Craters of the Moon National Monument and Carey, Idaho."]]></description>
+			<Point>
+				<coordinates>-113.56271,43.46167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#35N = West of Carey, ID (northern route)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Oregon_Trail#Idaho)
+ 
+"From there it went southwest to Camas Prairie and ended at Old Fort Boise on the Boise River."]]></description>
+			<Point>
+				<coordinates>-114.664307,43.317185,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#35S = Glenns Ferry, ID (southern route)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Oregon_Trail#Idaho)
+ 
+"At Salmon Falls there were often a hundred or more Indians fishing who would trade for their salmon, a welcome treat. The trail continued west to Three Island Crossing (near present-day Glenns Ferry, Idaho).[67]  Here most emigrants used the divisions of the river caused by three islands to cross the difficult and swift Snake River by ferry or by driving or sometimes floating their wagons and swimming their teams across. The crossings were doubly treacherous because there were often hidden holes in the river bottom which could overturn the wagon or ensnarl the team, sometimes with fatal consequences. Before ferries were established there were several drownings here nearly every year."]]></description>
+			<Point>
+				<coordinates>-115.32692000000002,42.954412,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-F4EB37</styleUrl>
+			<name>Three Island Crossing</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[National Park Service Map of the Oregon Trail:
+ 
+"THREE ISLAND CROSSING: if the water was low this was the best place to cross to the north bank of the Snake River to a route that offered better travel conditions and ample drinking water."]]></description>
+			<Point>
+				<coordinates>-115.33412900000002,42.93531200000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#36N = Mountain Home, ID (northern route)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-115.718994,43.149094,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#36S = C.J. Strike Ruts, ID (southern route)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Oregon_Trail#Idaho)
+
+"Starting in about 1848 the South Alternate of Oregon Trail (also called the Snake River Cutoff) was developed as a spur off the main trail. It bypassed the Three Island Crossing and continued traveling down the south side of the Snake River. It rejoined the trail near present-day Ontario, Oregon. It hugged the southern edge of the Snake River canyon and was a much rougher trail with poorer water and grass, requiring occasional steep descents and ascents with the animals down into the Snake River canyon to get water. Travellers on this route avoided two dangerous crossings of the Snake River.[70] Today's Idaho State Route 78 roughly follows the path of the South Alternate route of the Oregon Trail."]]></description>
+			<Point>
+				<coordinates>-115.964813,42.934307,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#37N = Boise, ID (northern route)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-116.224365,43.592328,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#37S = Givens Hot Springs, ID (southern route)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-116.70701300000002,43.415975,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#38 = Old Fort Boise, ID</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Oregon_Trail#Idaho)
+
+"The usually lush Boise River valley was a welcome relief. The next crossing of the Snake River was near Old Fort Boise."]]></description>
+			<Point>
+				<coordinates>-117.018363,43.821678,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#39 = Ontario, OR</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-116.968495,44.026966,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#40 = Farewell Bend, OR</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Oregon_Trail#Oregon)
+ 
+"Once across the Snake River ford near Old Fort Boise the weary travelers traveled across what would become the state of Oregon. The trail then went to the Malheur River and then past Farewell Bend on the Snake River, up the Burnt River canyon and northwest to the La Grande valley before coming to the Blue Mountains."]]></description>
+			<Point>
+				<coordinates>-117.22347699999999,44.307816,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#41 = Flagstaff Hill, OR</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[National Park Service Map of the Oregon Trail:
+
+"FLAGSTAFF HILL: travelers caught their ﬁrst glimpses of the Blue Mountains from this point—an indication their trip was nearing the end."]]></description>
+			<Point>
+				<coordinates>-117.79815700000002,44.805224,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#42 = La Grande, OR </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Oregon_Trail#Oregon)
+ 
+" In 1843 settlers cut a wagon road over these mountains making them passable for the first time to wagons. The trail went to the Whitman Mission near Fort Nez Perces in Washington until 1847 when the Whitmans were killed by Native Americans. "]]></description>
+			<Point>
+				<coordinates>-118.09300000000002,45.327352,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#43 = Pendleton, OR</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Oregon_Trail#Oregon)
+ 
+"After 1847 the trail bypassed the closed mission and headed almost due west to present day Pendleton, Oregon, crossing the Umatilla River, John Day River, and Deschutes River before arriving at The Dalles. Interstate 84 in Oregon roughly follows the original Oregon Trail from Idaho to The Dalles."]]></description>
+			<Point>
+				<coordinates>-118.791666,45.67017,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#43A = Whitman Mission</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[National Park Service map of the Oregon Trail: 
+ 
+"WHITMAN MISSION: Marcus and Narcissa Whitman, who helped blaze the route of the
+Oregon Trail, established a mission to Christianize the Indians here in 1836."]]></description>
+			<Point>
+				<coordinates>-118.46138900000001,46.04,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#44 = John Day River Crossing</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Oregon_Trail#Oregon)
+
+"Arriving at the Columbia at The Dalles and stopped by the Cascade Mountains and Mount Hood, some gave up their wagons or disassembled them and put them on boats or rafts for a trip down the Columbia River. Once they transited the Cascade's Columbia River Gorge with its multiple rapids and treacherous winds they would have to make the 1.6 miles (2.6 km) portage around the Cascade Rapids before coming out near the Willamette River where Oregon City, Oregon was located. The pioneer's livestock could be driven around Mount Hood on the narrow, crooked and rough Lolo Pass.."]]></description>
+			<Point>
+				<coordinates>-120.40329,45.576201,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#45 = The Dalles, OR</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[National Park Service Map of the Oregon Trail:
+
+"THE DALLES: before the opening of the Barlow Road in 1846, emigrants had no choice but to build rafts and ﬂoat down the treacherous Columbia."]]></description>
+			<Point>
+				<coordinates>-121.182786,45.600908,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#45A = Tygh Valley, OR</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-121.17312,45.247341,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#45B = Barlow Road</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Oregon_Trail#Oregon)
+ 
+"Several Oregon Trail branches and route variations led to the Willamette Valley. The most popular was the Barlow Road , which was carved though the forest around Mount Hood from The Dalles in 1846 as a toll road at $5.00 per wagon and 10 cents per head of livestock. It was rough and steep with poor grass but still cheaper and safer than floating goods, wagons and family down the dangerous Columbia River."]]></description>
+			<Point>
+				<coordinates>-121.68543000000001,45.28386,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#46 = Fort Vancouver</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.65789000000001,45.626404,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F9F7A6</styleUrl>
+			<name>#47 =Oregon City, OR</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[National Park Service Map of the Oregon Trail:
+ 
+"OREGON CITY: the Oregon Trail ended here. Fort Vancouver, a Hudson’s Bay Company trading post, is across the Columbia in Washington."]]></description>
+			<Point>
+				<coordinates>-122.60700700000001,45.35714,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#48 = Santiam Wagon Road </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Oregon_Trail#Oregon)
+
+"In Central Oregon there was the Santiam Wagon Road (established 1861), which roughly parallels Oregon Highway 20 to the Willamette Valley. The Applegate Trail (established 1846) cutting off the California Trail from the Humboldt River in Nevada crossed part of California before cutting north to the south end of the Willamette Valley. U.S. Route 99 and Interstate 5  through Oregon roughly follow the original Applegate Trail."]]></description>
+			<Point>
+				<coordinates>-121.84559,44.42471,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Arapaho</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.710937,40.963308,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Crows</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-110.36865200000001,42.609706,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Blackfeet</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-111.489258,43.802819,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>La Barge, WY (alternate route: the Sublette-Greenwood Cutoff )</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Oregon_Trail#Wyoming)
+
+"Over time, two major heavily used cutoffs were established in Wyoming. The Sublette-Greenwood Cutoff was established in 1844 and cut about 70 miles (110 km) off the main route. It leaves the main trail about 10 miles (16 km) west of South Pass and heads almost due west crossing Big Sandy Creek and then about 45 miles (72 km) of waterless of very dusty desert before reaching the Green River near the present town of La Barge. Ferries here transferred them across the Green River. From there the Sublette-Greenwood Cutoff trail had to cross a mountain range to connect with the main trail near Cokeville, Wyoming in the Bear River valley."]]></description>
+			<Point>
+				<coordinates>-110.197425,42.261108,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Big Piney, WY (Lander Road)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Oregon_Trail#Wyoming)
+ 
+"The Lander Road departs the main trail at Burnt Ranch near South Pass, crosses the Continental Divide north of South Pass and reaches the Green River near the present town of Big Piney, Wyoming.  ]]></description>
+			<Point>
+				<coordinates>-110.115361,42.540006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Thompson Pass (Lander Road))</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+ 
+"From there[Big Piney] the trail followed Big Piney Creek west before passing over the 8,800 feet (2,700 m) Thompson Pass in the Wyoming Range."]]></description>
+			<Point>
+				<coordinates>-110.607948,42.469818,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Smiths Fork (Lander Road)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Oregon_Trail#Wyoming)
+ 
+"It then crosses over the Smith Fork of the Bear River before ascending and crossing another 8,200 feet (2,500 m) pass on the Salt River Range of mountains and then descending into Star Valley Wyoming."]]></description>
+			<Point>
+				<coordinates>-110.730343,42.572172,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Smiths Fork (Lander Road)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-110.760727,42.514626,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Smiths Fork (Lander Road)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-110.834198,42.477668,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Smoot (Lander Road)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Oregon_Trail#Wyoming)
+ 
+" It exited the mountains near the present Smith Fork road about 6 miles (9.7 km) south of the town of Smoot, Wyoming, The road continued almost due north along the present day Wyoming-Idaho western border through Star Valley. To avoid crossing the Salt Rive (which drains into the Snake River which runs down Star Valley the Lander Road crossed the river when it was small and stayed west of the Salt River."]]></description>
+			<Point>
+				<coordinates>-110.938911,42.705398,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Auburn (Lander Road)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Oregon_Trail#Wyoming)
+ 
+"After traveling down the Salt River valley (Star Valley) about 20 miles (32 km) north the road turned almost due west near the present town of Auburn, Wyoming, and entered into the present state of Idaho along Stump Creek."]]></description>
+			<Point>
+				<coordinates>-110.996075,42.794645,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Stump Creek valley </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Oregon_Trail#Wyoming)
+ 
+"In Idaho it followed the Stump Creek valley northwest till it crossed the Caribou Mountain and proceeded past the south end of Grays Lake."]]></description>
+			<Point>
+				<coordinates>-111.107483,42.827639,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Caribou Mountains (Lander Road)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-111.201897,42.880493,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Grey's Lake (Lander Road)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[From Grey's Lake they traveledNorthwest to Fort Hall, ID #32N]]></description>
+			<Point>
+				<coordinates>-111.417847,43.003141,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>C1= From Soda Springs (California Trail)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-112.026901,42.622339,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>C1A = Register Rock (California Trail)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/California_Trail#Main_trail_through_Fort_Bridger_to_the_Humboldt_River)
+
+"West of Fort Hall, the trail traveled about 40 miles (64 km) on the south side of the Snake River southwest towards present day Lake Walcott (reservoir) on the Snake River."]]></description>
+			<Point>
+				<coordinates>-112.993698,42.658202,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>C2 = Parting of the Ways (California Trail)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/California_Trail#Main_trail_through_Fort_Bridger_to_the_Humboldt_River)
+
+"As found by about 1844, the trail at "parting of the ways" (Idaho) from the Snake River leads along the Raft River about 60 miles (97 km) southwest to the head of the Raft River and the City of Rocks (now called: City of Rocks National Reserve)."]]></description>
+			<Point>
+				<coordinates>-113.234711,42.597576,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>C3 = Hudspath Cutoff (California  Trail)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-112.93387400000002,42.29185,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>C4 = City of Rocks (California Trail)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-113.702316,42.080897,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>C5 = Goose Creek</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+
+"The Hudspeth Cutoff and the Salt Lake Cutoff all rejoined the California Trail near the City of Rocks (For maps see NPS map California Trail:[74]). The trail then continued west over 7,100 feet (2,200 m) Granite Pass, which involved a steep, treacherous descent. West of Granite Pass, the trail was in the Great Basin drainage. Rainfall in the Great Basin either flowed to the Humboldt River, sank into the ground or evaporated. The trail then jogged northwest until it reached Goose Creek where it headed southwest, nicking the far northwest corner of Utah and on into the future state of Nevada. The trail then headed southwest, down Goose Creek for about 34 miles (55 km) until it hit Thousand Springs Valley's creeks and springs."]]></description>
+			<Point>
+				<coordinates>-113.97558,42.00423200000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>C6 = Goose Creek</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-114.158936,41.861379,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>C7 = A Thousand Spring Valley (California Trail)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-114.543457,41.516804,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>C8 = Wells (California Trail)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/California_Trail#Across_the_Great_Basin_on_the_Humboldt_River)
+
+"The trail followed Thousand Springs Valley until it intercepted West Brush Creek and Willow Creek, which run into the Humboldt River. This about 160 miles (260 km) trail through Idaho and Nevada connecting the Snake River to the Humboldt River passed enough springs and creeks to provide the necessary feed and water for the California bound emigrants. The trail hit the Humboldt River in northeastern Nevada near present day Wells, Nevada."]]></description>
+			<Point>
+				<coordinates>-114.963341,41.108847,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>C9 = Beowawe, Nevada</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/California_Trail#Across_the_Great_Basin_on_the_Humboldt_River)
+
+"West of Carlin Canyon, the trail climbed through Emigrant Gap (Nevada) and then descended again to rejoin the Humboldt at Gravelly Ford (near today’s Beowawe, Nevada). "]]></description>
+			<Point>
+				<coordinates>-116.47565199999998,40.592182,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>C10 = Winnemucca (California Trail)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-117.72674600000002,40.984045,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>C11 = Willow Springs (California Trail)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-118.20739700000001,40.605612,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>C12 = Humboldt Sink</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/California_Trail#Across_the_Great_Basin_on_the_Humboldt_River)
+
+"At Gravelly Ford the often muddy Humboldt had a good gravel bottom and was easily forded. There was usually plenty of grass and fresh water springs nearby. Many stayed here a while to rest and recuperate their livestock and themselves. After the ford, the trail divided into two branches, following the north and south banks of the river. The trail on the north side of the river was much better, allowing an easy miss of the Reese River sink. Those who took the south side would have to travel around a big bend in the Humboldt and then cross the usually dry alkali-laden Reese River sink. The two branches of the Trail rejoined at Humboldt Bar (sink)."]]></description>
+			<Point>
+				<coordinates>-118.60750000000002,39.972778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>C13 = Fernley Ruts (California Trail)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-119.22088600000001,39.608862,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>C15 = Reno (California Trail)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-119.80041499999999,39.529467,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>C16 = Nevada City (California Trail)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+
+"Branching off the Truckee Trail was the Nevada City Road (est 1850) to Nevada City. This 25 miles (40 km) cutoff is closely followed today by California State Route 20 from Emigrant Gap on Highway 80 to Nevada City, California."]]></description>
+			<Point>
+				<coordinates>-121.02813699999999,39.257778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>C16B = Aurburn (California Trail)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/California_Trail#Auburn_Emigrant_Road)
+
+"The Auburn Emigrant Road (1852) from the Truckee trail to Auburn was established to bring emigrants to the new gold diggings at Auburn, California. Its thought to have extended from roughly present day Nevada City, California, roughly the end of the Truckee Trail, to Auburn. California State Route 49 from Auburn to Nevada City approximates this path. Later toll roads would be built along the rough pack trail from Auburn to Emigrant Gap (California) where Interstate 80 and the Central Pacific Railroad would later go. In 1852 Auburn was reachable by wagons from Sacramento."]]></description>
+			<Point>
+				<coordinates>-121.05560300000002,38.916682,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>CB16 =Senora (California Trail)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/California_Trail#Sonora_Road)
+
+"In 1852, the Sonora Road was opened from the Carson Trail to Sonora, California by the Clark-Skidmore Company. From the Humboldt Sink it crossed Forty Mile Desert to the Carson River and then went almost due south to the Walker River, which it followed to the Sierras before making the very steep (about 26 degrees in parts) and rugged ascent to 9,625 feet (2,934 m) Sonora Pass.
+
+From there the road drops down twisting forested mountain ridges to Sonora. This was the highest road developed across the Sierras—and still a very scenic drive. (modern Tioga Pass out of Yosemite National Park is slightly higher) California State Route 108 between Sonora and U.S. Highway 395 roughly approximates the route of the Sonora Road over the Sierras. This route was little used after about 1854."]]></description>
+			<Point>
+				<coordinates>-120.37719700000001,37.97018500000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>CC17 = Susanville (California Trail)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/California_Trail#Nobles_Road)
+
+"This reasonably easy wagon route followed the Applegate-Lassen Trail to the Boiling Spring at Black Rock in Black Rock Desert and then went almost due west from there going on to Shasta, California in the Central Valley via Smoke Creek Desert to present day Honey Lake and present day Susanville, California before passing North of Mt. Lassen and on to Shasta (near present day Redding)."]]></description>
+			<Point>
+				<coordinates>-120.66833500000001,40.384213,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>CC18 = Shasta (California Trail)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.33001699999998,40.653555,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-CDDC39</styleUrl>
+			<name>M1 = Evanston (Mormon Trail)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-110.9729,41.265421,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-CDDC39</styleUrl>
+			<name>M2 = (Mormon Trail)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-111.440163,40.970307,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-CDDC39</styleUrl>
+			<name>M3 = Salt Lake City (Carson/Mormon Trail)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-111.903992,40.705628,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-CDDC39</styleUrl>
+			<name>M4 = Great Salt Lake Desert (Carson/Mormon Trail)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-113.356934,40.871988,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-CDDC39</styleUrl>
+			<name>M5 = Silver Zone Pass (Carson/Mormon Trail)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-114.293518,40.903134,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-CDDC39</styleUrl>
+			<name>M6 = Flowerly Lake Springs (Carson/Mormon Trail)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-114.518051,40.73269,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-CDDC39</styleUrl>
+			<name>M7 = Hastings Cutoff (Carson/Mormon Trail)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-115.57342499999999,40.022356,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-CDDC39</styleUrl>
+			<name>M8 = Carlin Canyon (Carson/Mormon Trail)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/California_Trail#Across_the_Great_Basin_on_the_Humboldt_River)
+
+"The trail followed the north banks of the Humboldt west for about 65 miles (105 km) until it encountered the narrow 5 miles (8.0 km) long Carlin Canyon on the Humboldt. Here the meandering river passed through a steep section of mountains, and its river valley became very narrow or only the width of the stream bed. Various trail guides said you would have to ford the Humboldt from four to nine times to get through the canyon. Carlin Canyon became nearly impassable during periods of high water and a cutoff, the Greenhorn Cutoff, was developed to bypass the canyon when flooded. "]]></description>
+			<Point>
+				<coordinates>-116.00978899999998,40.725405,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-CDDC39</styleUrl>
+			<name>M9 = Forty Mile Desert (Carson/Mormon Trail)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/California_Trail#Across_the_Great_Basin_on_the_Humboldt_River)
+
+"Before crossing the Forty Mile Desert, the California main trail splits with one branch going towards the Truckee River Route (or Truckee Trail) (est. 1844) going roughly almost due west where Interstate 80goes today towards the site of modern-day Wadsworth, Nevada."]]></description>
+			<Point>
+				<coordinates>-118.83333299999998,39.566667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-CDDC39</styleUrl>
+			<name>M10 = Carson City (Carson/Mormon Trail)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-119.734497,39.151363,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-CDDC39</styleUrl>
+			<name>M11 = Placerville (Carson/Mormon Trail)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/California_Trail#Carson_Trail)
+
+"They were driving 17 wagons and about 300 head of horse and cattle east to Salt Lake City in 1848. The wagons were veterans of the 1846 or 1847 emigration as California had at that time no facilities for building anything besides simple solid wheeled ox carts.[99] They followed Iron Mountain ridge on the Sierras east of what is now Placerville, California (there were essentially no settlements east of Sutter's Fort in 1848) before hitting Tragedy Spring near Silver Lake."]]></description>
+			<Point>
+				<coordinates>-120.798526,38.729818,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>End of the California Trail</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://1.bp.blogspot.com/-wrnB8vLGvtA/UHtkZaiDXxI/AAAAAAAAB_Y/2Swb0Y7XYrw/s320/End+of+the+California+Trail.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Map of California Trail (http://www.nps.gov/cali/planyourvisit/upload/CALImap1-web.pdf)
+
+ 
+
+National Park Service]]></description>
+			<Point>
+				<coordinates>-122.124023,38.479395,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Brulé Sioux</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-102.689935,42.683059,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Cheyanne</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.512695,41.409776,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Chinook</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.23388700000001,44.824708,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Kansa</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.581055,38.255436,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Maldu</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-120.662842,39.487085,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Nez Perce</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-114.29780800000002,45.889842,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Nisenan</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-120.596924,39.019184,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Northern Paiute</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-119.37744100000002,41.178654,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Oglala Lakota Sioux</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.467222,42.668889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Omaha</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.358446,42.114528,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Ote</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-95.844727,40.346544,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Pawnee</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.657227,39.198205,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Ponca</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-98.0461,42.7717,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Shoshone-Bannock</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-113.620605,41.459195,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Shoeshone</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-116.696777,40.212441,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Sierra Miwok</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-120.09155300000002,38.22955,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Southern Paiute</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-115.861816,39.044786,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Umatilla</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-119.369202,45.981695,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Walla Walla</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-117.79540999999999,45.966425,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Winnebago</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-96.471755,42.237614,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Yakima </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-119.77294899999998,44.902578,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Washoe</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-119.882812,38.80547,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps on History</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>-107.62207,38.513788,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>Other Native American Tribe Oriented Maps</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The following Google Maps have Native American Tribes plotted:
+
+- The conquering of North America by Hernando de Soto (http://myreadingmapped.blogspot.com/2012/01/the-conquering-of-north-america-by.html)                     
+- The Lewis and Clark Expedition 1804 through 1805 (http://myreadingmapped.blogspot.com/2011/06/interactive-map-of-lewis-and-clark.html)                  
+- The Conquering of Mexico by Hernán Cortés (http://myreadingmapped.blogspot.com/2011/06/interactive-map-of-conquering-of-mexico.html)                
+- William Lewis Herndon's exploration of Amazon Valley (http://myreadingmapped.blogspot.com/2011/06/interactive-map-of-exploration-of-amazon.html)             
+- Pizarro's Conquering of Peru (http://myreadingmapped.blogspot.com/2012/01/interactive-map-of-pizarros-conquering.html)                  
+- Santa Fe Trail and El Camino Real Route (http://myreadingmapped.blogspot.com/2012/10/the-santa-fe-trail-and-el-camino-real.html)                       
+- Native American Settlement in Alaska (http://myreadingmapped.blogspot.com/2014/05/native-american-settlement-in-alaska.html)]]></description>
+			<Point>
+				<coordinates>-105.029297,38.341656,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1201'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1201-fac-info-alt.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1205'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1205-fac-medical.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1217'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1217-fac-wc-men.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-93D7E8'>
+			<IconStyle>
+				<color>ffE8D793</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-CDDC39'>
+			<IconStyle>
+				<color>ff39DCCD</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F9F7A6'>
+			<IconStyle>
+				<color>ffA6F7F9</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-960-93D7E8'>
+			<IconStyle>
+				<color>ffE8D793</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-960-CDDC39'>
+			<IconStyle>
+				<color>ff39DCCD</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-960-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-960-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-961-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-962-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='line-0000FF-5'>
+			<LineStyle>
+				<color>ffFF0000</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+	</Document>
+</kml>

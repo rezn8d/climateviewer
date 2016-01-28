@@ -1,0 +1,3658 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Other Ship &amp; Sea Related Maps</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- Sunken Ships of the Atlantic (http://myreadingmapped.blogspot.com/2011/04/interactive-map-of-sunken-ships-of.html)  
+
+- Sunken Ships of the North, Baltic and Mediterranean Seas. (http://myreadingmapped.blogspot.com/2011/06/interactive-map-of-sunken-ships-of.html)
+
+- Sunken Ships of the Great Lakes (http://myreadingmapped.blogspot.com/2011/12/interactive-map-of-sunken-ships-of.html) 
+
+- Sunken Ships of the Indian Ocean and Red Sea (http://myreadingmapped.blogspot.com/2011/12/interactive-map-of-sunken-ships-of-th.html)  
+
+- Ship Grave Yards (http://myreadingmapped.blogspot.com/2012/01/interactive-map-of-ship-graveyards.html)
+
+- Historic Ships Preserved in Google Map (http://myreadingmapped.blogspot.com/2012/01/historic-ships-preserved-in-google-map.html)  
+
+- Oldest Lighthouses (http://myreadingmapped.blogspot.com/2012/11/the-oldest-lighthouses.html)
+
+- Oceanic Trenches and Other Undersea Phenomena (http://myreadingmapped.blogspot.com/2011/09/interactive-map-of-oceanic-trenches_02.html)]]></description>
+			<Point>
+				<coordinates>-127.617187,-13.239945,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps on History</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/)]]></description>
+			<Point>
+				<coordinates>-143.789062,3.513421,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Aarhus Historic Shipwreck</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[24 February 1894, hit Smith's Rock, which lies about two nautical miles (4 km) north-east of Cape Moreton, and sank.
+
+Aarhus Historic Shipwreck on Wiki. (http://en.wikipedia.org/wiki/Aarhus_Historic_Shipwreck)]]></description>
+			<Point>
+				<coordinates>153.370201,-27.082705,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Ann Alexander (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Ann_Alexander_(ship) ]]></description>
+			<Point>
+				<coordinates>-102.0,-5.833333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Auxilliary Submarine Chaser (Saipan)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.pacificmaritimeheritagetrail.com (http://www.pacificmaritimeheritagetrail.com/wp-content/uploads/2012/09/POSSIBLE-AUXILIARY-SUBMARINE-CHASER_Dive-Guide_web.pdf)
+
+Photos (http://www.pacificmaritimeheritagetrail.com/the-wrecks/ships/possible-subchaser/)]]></description>
+			<Point>
+				<coordinates>145.721775,15.232533,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Bareli</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: http://en.wikipedia.org/wiki/List_of_shipwrecks_in_2012
+
+March 15, 2012. The container ship ran aground in the East China Sea 2 nautical miles (3.7 km) off Fuqing, China and broke in two. All 21 crew were rescued.]]></description>
+			<Point>
+				<coordinates>119.503784,25.647097,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Belitung shipwreck</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Belitung_shipwreck)]]></description>
+			<Point>
+				<coordinates>107.595183,-2.760833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Cataraqui (ship)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/9/91/Cataraqui_wreck.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Cataraqui (ship) on Wiki. (http://en.wikipedia.org/wiki/Cataraqui_(ship) 
+
+4 August, 1845, storm ran the ship on rocks.
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>143.880444,-40.027139,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Cherry Venture (Viewable on the beach)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/7/71/Cherry_Venture_Teewah_Beach.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Cherry Venture on Wiki (http://en.wikipedia.org/wiki/Cherry_Venture).          
+6 July 1973, ran aground. 
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>153.173928,-25.961667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Chinese cruiser Jingyuan (1887)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/a/a5/Jingyuan_%28King_Yuan%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Chinese_cruiser_Jingyuan_(1887) 
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>123.126389,39.213889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Chinese cruiser Jiyuan</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/76/IJN_Saien_in_1895.jpg/800px-IJN_Saien_in_1895.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Chinese_cruiser_Jiyuan)
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>121.083333,38.85,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Chinese cruiser Laiyuan</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/5/5b/LaiYuen.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Chinese_cruiser_Laiyuan)
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>122.17100000000002,37.497,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Chinese turret ship Dingyuan</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/6/6d/ChineseTing-yuen.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Chinese_turret_ship_Dingyuan)
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>122.180146,37.500432,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Daihatsu Class Landing Craft (Saipan)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.pacificmaritimeheritagetrail.com (http://www.pacificmaritimeheritagetrail.com/wp-content/uploads/2012/09/DAIHATSU-LANDING-CRAFT_Dive-Guide-Web.pdf)
+
+Photos (http://www.pacificmaritimeheritagetrail.com/the-wrecks/ships/daihatsu/)]]></description>
+			<Point>
+				<coordinates>145.721931,15.231338999999998,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Derry Castle (barque)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/2/24/%22Derry_Castle%22_figurehead_Enderby_Island.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Derry Castle (barque) on Wiki. (http://en.wikipedia.org/wiki/Derry_Castle_(barque) 
+ 
+20 March 1887, ran aground off of Enderby Island
+
+
+Wikipedia Commons   ]]></description>
+			<Point>
+				<coordinates>166.302761,-50.484323,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Diamond Knot (Approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Saltwater People Historical Society (http://saltwaterpeoplehistoricalsociety.blogspot.com/2011/12/salvage-of-diamond-knots-cargo-by-r-h.html)
+ 
+Caught in these vicious waters, the mortally wounded ship rolled over on her side and disappeared in 135 feet of water, only half a mile from the shores of Crescent Bay, at 8:55 a.m. On that 13th day of August 1947, the tired and anxious crews of the MATHILDA FOSS and FOSS 21 watched the sturdy freighter go to her death.]]></description>
+			<Point>
+				<coordinates>-123.707256,48.17329800000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Diosa del Mar</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Diosa_Del_Mar_1979.jpg/800px-Diosa_Del_Mar_1979.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Diosa del Mar on Wiki. (http://en.wikipedia.org/wiki/Diosa_del_Mar) 
+ 
+1990, crashed against Ship Rock during Firemen's Race. 
+
+
+Wikipedia Commons    ]]></description>
+			<Point>
+				<coordinates>-118.49174600000002,33.462526,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Ehime Maru and USS Greeneville collision</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/4/45/EhimeMaru.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Ehime Maru on Wiki. (http://en.wikipedia.org/wiki/Ehime_Maru)
+
+9 February 2001 collided with submarine USS Greeneville (SSN-772) and sunk, raised October 2001.
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-157.818333,21.091667000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Betsy</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_(B)#Empire_Betsy)]]></description>
+			<Point>
+				<coordinates>116.55,-2.6,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Dragon</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_(D)#Empire_Dragon)]]></description>
+			<Point>
+				<coordinates>123.933333,31.066666999999995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Lantern</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_(L)#Empire_Lantern)]]></description>
+			<Point>
+				<coordinates>124.39999999999999,35.083333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Newfoundland</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_(N)#Empire_Newfoundland)]]></description>
+			<Point>
+				<coordinates>119.38333300000001,3.8833329999999995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Mayport</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_(M)#Empire_Mayport)]]></description>
+			<Point>
+				<coordinates>109.15,15.533333000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Pagoda</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_(P)#Empire_Pagoda)]]></description>
+			<Point>
+				<coordinates>149.466667,8.066667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Perlis </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_(P)#Empire_Perlis)]]></description>
+			<Point>
+				<coordinates>119.38333300000001,3.8833329999999995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Seabright</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_(Sa-Sh)#Empire_Seabright)]]></description>
+			<Point>
+				<coordinates>107.883333,0.9333330000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Tintagel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_(Th-Ty)#Empire_Tintagel)]]></description>
+			<Point>
+				<coordinates>109.016667,2.316667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>FV Alaska Ranger</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Alaska_Ranger.jpeg/300px-Alaska_Ranger.jpeg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[FV Alaska Ranger on Wikipedia
+ (http://en.wikipedia.org/wiki/FV_Alaska_Ranger)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-169.966667,53.883333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Grace Roberts</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Saltwater People Historical Society (http://saltwaterpeoplehistoricalsociety.blogspot.com/2013/01/wrecks-ships-g-through-m.html)]]></description>
+			<Point>
+				<coordinates>-124.07266400000002,46.625274,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>George Rennie (ship)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/George_Rennie.JPG/300px-George_Rennie.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[George Rennie (ship) on Wiki. (http://en.wikipedia.org/wiki/George_Rennie_(ship) 
+ 
+1902, scuttled in Picnic Bay, Magnetic Island.
+
+
+Wikipedia Commons  ]]></description>
+			<Point>
+				<coordinates>146.833794,-19.180867,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Geltwood</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/3/3c/Geltwood.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Geltwood on Wiki. (http://en.wikipedia.org/wiki/Geltwood) 
+ 
+14 June 1876, shipwrecked.
+
+
+Wikipedia Commons     ]]></description>
+			<Point>
+				<coordinates>140.180833,-37.626667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>German cruiser Prinz Eugen (Viewable in water)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/e/e8/PE_Atomtest_1.jpg http://farm1.staticflickr.com/33/35376216_6d6eb1de27_z.jpg?zz=1</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[German cruiser Prinz Euge on Wiki. (http://en.wikipedia.org/wiki/German_cruiser_Prinz_Eugen)
+ 
+December 1946, towed to Kwajalein Atoll after nuclear weapons test, capsized.
+
+
+Wikipedia Commons     ]]></description>
+			<Point>
+				<coordinates>167.682813,8.752801,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMAS Armidale (J240) (approximated)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/e/e0/HMAS_Armidale_%28AWM_026612%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMAS_Armidale_(J240) 
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>125.73698,-9.182261,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMAS Canberra (D33)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/e/ea/HMAS_Canberra_1_2-100605.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[HMAS Canberra (D33) on Wiki. (http://en.wikipedia.org/wiki/HMAS_Canberra_(D33) 
+ 
+ August 1942, sunk in battle.
+
+
+Wikipedia Commons    ]]></description>
+			<Point>
+				<coordinates>159.912778,-9.208056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMAS Voyager (D31)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/f/f8/HMAS_Voyager_%28AWM_301643%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMAS_Voyager_(D31) 
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>125.74999999999999,-9.25,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMCS Huron (DDG 281)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/2/22/HMCS_Huron_being_towed_to_sinking.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[HMCS Huron (DDG 281) on Wiki. (http://en.wikipedia.org/wiki/HMCS_Huron_(DDG_281) 
+ 
+14 May 2007, sank during Operation TRIDENT FURY, a live-fire exercise conducted by MARPAC 100 km (54.0 nmi) west of Vancouver Island.
+
+
+Wikipedia Commons  ]]></description>
+			<Point>
+				<coordinates>-127.966844,48.966798,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMNZS Puriri (T02)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Puriri_(T02) 
+ 
+HMNZS Puriri (T02) was a coastal cargo boat which was requisitioned by the Royal New Zealand Navy (RNZN) and converted into a minesweeper. She was sunk by a German mine 25 days after she was commissioned.]]></description>
+			<Point>
+				<coordinates>174.716667,-35.770833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMNZS Thomas Currell (T11) (viewable in water)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Minesweepers_of_the_Royal_New_Zealand_Navy#Converted_trawlers)
+ 
+Functioned throughout World War II as a minesweeper vessel. Currently beached and deteriorating on the coast of Chatham Island.]]></description>
+			<Point>
+				<coordinates>-176.708704,-43.81451,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>HMS Bounty</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Yasmina.Bounty.JPG/250px-Yasmina.Bounty.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[HMS Bounty on Wikipedia (http://en.wikipedia.org/wiki/HMS_Bounty)
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-130.09524800000003,-25.067641000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Good Hope (1901)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/0/0f/HMS_Good_Hope.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[HMS Good Hope (1901) on Wiki. (http://en.wikipedia.org/wiki/HMS_Good_Hope_(1901) 
+ 
+1 November 1914, sunk at the battle of Coronel.
+
+
+Wikipedia Commons          ]]></description>
+			<Point>
+				<coordinates>-73.813611,-36.983611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Monmouth (1901)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/c8/HMS_Monmouth.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[HMS Monmouth (1901) on Wiki. (http://en.wikipedia.org/wiki/HMS_Monmouth_(1901) 
+ 
+1 November 1914, sunk at the Battle of Coronel.
+
+
+Wikipedia Commons    ]]></description>
+			<Point>
+				<coordinates>-73.845833,-36.898056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>HMS Pandora (1779)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[She is best known as the ship sent in 1790 to search for the Bounty and the mutineers who had taken her. She was wrecked on the return voyage in 1791.
+
+ HMS Pandora (1779) on Wiki. (http://en.wikipedia.org/wiki/HMS_Pandora_(1779) ]]></description>
+			<Point>
+				<coordinates>143.983333,-11.383333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Prince of Wales (53)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/2/28/Prince_of_Wales-1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[HMS Prince of Wales (53) on Wiki. (http://en.wikipedia.org/wiki/HMS_Prince_of_Wales_(53) 
+ 
+10 December 1941, sunk by Japanese air attack off Kuantan, South China Sea. 
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>104.47833300000002,3.56,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>HMS Orpheus (1860)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/1/18/HMS_Orpheus.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[HMS Orpheus (1860) on Wiki. (http://en.wikipedia.org/wiki/HMS_Orpheus_(1860) 
+ 
+7 February 1863, wrecked.
+
+
+Wikipedia Commons  ]]></description>
+			<Point>
+				<coordinates>174.471667,-37.068333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Repulse (1916)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/9/97/HMS_Repulse_1920s.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Repulse_(1916) 
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>104.433333,3.566667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>HMS Stratagem (P234)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/b/b7/HMS_Stratagem.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Stratagem_(P234) 
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>102.883333,1.6,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Honda Point Disaster</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/7/7d/NH_66721_Honda_Point.gif</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Honda Point Disaster on Wiki. (http://en.wikipedia.org/wiki/Honda_Point_Disaster)
+ 
+8 September 1923, seven destroyers ran aground at Honda Point. Photographed from a plane assigned to USS Aroostook. The ships are Nicholas and S. P. Le at the top left.                                                                                                     Delphy, capsized and broken in the small cove at left; Young, capsized in left center; Chauncey, upright ahead of Young; Woodbury on the rocks in the right center; and Fuller on the rocks at right. 
+
+
+Wikipedia Commons         ]]></description>
+			<Point>
+				<coordinates>-120.64410899999999,34.602067,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Huaguangjiao One</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Chinese sunken ship built during the Southern Song Dynasty (1127-1279) that sank off the coast of Xinsha Islands.  
+ 
+Huaguangjiao One on Wiki. (http://en.wikipedia.org/wiki/Huaguangjiao_One)]]></description>
+			<Point>
+				<coordinates>111.5675,16.271111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Jabez Howes</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Saltwater People Hstorical Society (http://saltwaterpeoplehistoricalsociety.blogspot.com/2013/01/wrecks-ships-g-through-m.html)]]></description>
+			<Point>
+				<coordinates>-158.404741,56.296158000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>James Rolph (ship)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/7/71/MBNMSjrolph.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[James Rolph (ship) on Wiki. (http://en.wikipedia.org/wiki/James_Rolph_(ship) 
+ 
+2 August 2 1910 ran aground in the fog.
+
+
+Wikipedia Commons  ]]></description>
+			<Point>
+				<coordinates>-122.51760000000002,37.5834,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Japanese battleship Hiei</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/8/8c/Hiei1942.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Japanese battleship Hiei on Wiki. (http://en.wikipedia.org/wiki/Japanese_battleship_Hiei)
+ 
+14 November 1942, sunk following the Naval Battle of Guadalcanal.
+
+
+Wikipedia Commons    ]]></description>
+			<Point>
+				<coordinates>158.999722,-9.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Japanese cruiser Chishima</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/3/34/Chishima.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Japanese_cruiser_Chishima)
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>132.65,33.916667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Japanese cruiser Chiyoda</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/5/5c/HIJMS_Chiyoda.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Japanese_cruiser_Chiyoda)
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>132.25,32.909,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Japanese corvette Kaimon</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/59/IJN_Kaimon.jpg/800px-IJN_Kaimon.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Japanese_corvette_Kaimon)
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>121.833333,38.833333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Japanese cruiser Kashii</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/IJN_Kashii_1941.jpg/800px-IJN_Kashii_1941.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Japanese_cruiser_Kashii)
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>109.235076,13.78127,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Japanese cruiser Kuma</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/27/IJN_Kuma_in_1935_off_Tsingtao.jpg/800px-IJN_Kuma_in_1935_off_Tsingtao.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Japanese_cruiser_Kuma)
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>99.866667,5.433333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Japanese cruiser Niitaka</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Japanese_cruiser_Niitaka_in_1922.jpg/799px-Japanese_cruiser_Niitaka_in_1922.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Japanese_cruiser_Niitaka)
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>156.483333,51.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Japanese destroyer Amagiri</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Amagiri_1930.jpg/800px-Amagiri_1930.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Japanese_destroyer_Amagiri)
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>116.74999999999999,-2.1666670000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Japanese destroyer Amatsukaze</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Amatsukaze_II.jpg/800px-Amatsukaze_II.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Japanese_destroyer_Amatsukaze)
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>118.196926,24.498865,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Japanese destroyer Akatsuki</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/b/b1/Akatsuki_II.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Japanese destroyer Akatsuki on Wiki. (http://en.wikipedia.org/wiki/Japanese_destroyer_Akatsuki)
+ 
+13 November 1942, sunk in action off Guadalcanal.                                                                                                                                                             Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>159.933333,-9.283333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Japanese destroyer Asagumo (1938)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Asagumo.jpg/800px-Asagumo.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Japanese_destroyer_Asagumo_(1938) 
+ 
+Wikipedia Commons/ Public Domain]]></description>
+			<Point>
+				<coordinates>104.933333,-1.9833330000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Japanese destroyer Ayanami (1929)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/6/62/Ayanami_II.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Japanese destroyer Ayanami (1929 on Wiki. (http://en.wikipedia.org/wiki/Japanese_destroyer_Ayanami_(1929) 
+ 
+15 November 1942, sunk by gunfire from the USS Washington (BB-56).
+
+
+Wikipedia Commons             ]]></description>
+			<Point>
+				<coordinates>159.866667,-9.166667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Japanese destroyer Fubuki (1927)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/e/e0/Fubuki.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Japanese destroyer Fubuki (1927) on Wiki. (http://en.wikipedia.org/wiki/Japanese_destroyer_Fubuki)
+ 
+11 October 1942, sunk in the Battle of Cape Esperance. 
+
+
+Wikipedia Commons   ]]></description>
+			<Point>
+				<coordinates>159.633333,-9.1,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Japanese destroyer Hayate (1925)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/d/d3/Japanese_destroyer_Hayate_Taisho_14.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Japanese destroyer Hayate (1925 on Wiki. (http://en.wikipedia.org/wiki/Japanese_destroyer_Hayate)
+ 
+11 December 1941, sunk. 
+
+
+Wikipedia Commons  ]]></description>
+			<Point>
+				<coordinates>166.366667,19.166667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Japanese destroyer Hatsushimo</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/c1/Hatsushimo-1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Japanese_destroyer_Hatsushimo)
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>135.2,35.55,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Japanese destroyer Makigumo (1942)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/9/94/Makigumo_II.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Makigumo on Wiki. (http://en.wikipedia.org/wiki/Japanese_destroyer_Makigumo_(1942) 
+ 
+1 February 1943, scuttled.
+
+
+Wikipedia Commons  ]]></description>
+			<Point>
+				<coordinates>159.783333,-9.25,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Japanese destroyer Kisaragi (1925)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/4/45/Kisaragi_II.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Japanese destroyer Kisaragi (1925) on Wiki. (http://en.wikipedia.org/wiki/Japanese_destroyer_Kisaragi)
+ 
+11 December 1941, sunk.
+
+
+Wikipedia Commons          ]]></description>
+			<Point>
+				<coordinates>-177.011719,-2.284551,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Japanese destroyer Nenohi</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Nenohi_II.jpg/800px-Nenohi_II.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Japanese_destroyer_Nenohi)
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>173.85,52.25,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Japanese destroyer Nokaze</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/9/96/IJN_Nokaze.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Japanese_destroyer_Nokaze)
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>109.633333,12.8,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Japanese destroyer Oboro (1930)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Oboro_II.jpg/800px-Oboro_II.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Japanese_destroyer_Oboro_(1930) 
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>178.133333,52.283333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Japanese gunboat Ōshima</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/c1/IJN_Oshima_in_1892.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Japanese_gunboat_%C5%8Cshima)
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>121.133333,39.016667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Japanese minelayer Hatsutaka</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/8/82/IJN_Hatsutaka_1939.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Japanese_minelayer_Hatsutaka)
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>103.516667,4.816667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>Japanese submarine I-1</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Japanese_submarine_I-1.jpg/800px-Japanese_submarine_I-1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Japanese_submarine_I-1)                                                                                          
+Map that identifies Kamimbo Bay (http://upload.wikimedia.org/wikipedia/commons/a/ad/NavalGuadalcanal1.gif)
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>159.665455,-9.26623,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>Japanese Submarine I-3</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Pacific Wrecks (http://www.pacificwrecks.com/ships/subs/I-3.html)]]></description>
+			<Point>
+				<coordinates>159.70462,-9.25015,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>Japanese submarine I-17</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Japanese_submarine_I-17) ]]></description>
+			<Point>
+				<coordinates>166.833333,-23.433333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>Japanese submarine I-24</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Japanese_submarine_I-24)]]></description>
+			<Point>
+				<coordinates>174.4,53.266667000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>Japanese submarine I-31</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Japanese_submarine_I-31)]]></description>
+			<Point>
+				<coordinates>172.177,52.542,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>Japanese submarine I-124</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>130.1,-12.083333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Japanese battleship Nagato</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Japanese_Battleship_Nagato_1944.jpg/300px-Japanese_Battleship_Nagato_1944.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Japanese_battleship_Nagato)
+ 
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>165.166667,11.666667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Japanese destroyer Takanami (1942) </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[30 November 1942, sunk.
+
+ Japanese destroyer Takanami (1942) on Wiki. (http://en.wikipedia.org/wiki/Japanese_destroyer_Takanami_(1942) ]]></description>
+			<Point>
+				<coordinates>159.82000000000002,-9.23,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Japanese "Tsunami Ghost Ship" Ryou-Un Maru</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Japanese "Ghost Ship" was spotted March 23 off the southern tip of Haida Gwaii, B.C., and is believed to be at the leading edge of a field of debris weighing millions of tonnes and expected to hit the West Coast starting later this year and through 2013.
+(http://www.calgaryherald.com/news/Japanese+ghost+ship+lost+tsunami+found+coast/6354593/story.html) (http://www.abc.net.au/news/2012-03-25/japanese-fishing-ship-spotted-off-canada/3911012) 
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-130.737305,51.179343,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>King Philip</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/King_Philip_stern_at_Ocena_Beach.jpg/800px-King_Philip_stern_at_Ocena_Beach.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/King_Philip_shipwreck)
+ 
+Wikipedia Commons / Brocken Inaglory (https://sites.google.com/site/thebrockeninglory/)]]></description>
+			<Point>
+				<coordinates>-122.50980299999999,37.751522,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Khrabryy (viewable in water)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Ghost looking shipwreck of the Khrabryy, Russian destroyer, near Vladivostok, Sea of Japan, Russia (http://www.artificialowl.net/2008/06/shipwreck-of-khrabryy-russian-destroyer.html)]]></description>
+			<Point>
+				<coordinates>132.436203,42.928783,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Kolskaya (a jack rig ship)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/thumb/6/63/Kolskaya.jpg/300px-Kolskaya.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Kolskaya on Wikipedia
+ (http://en.wikipedia.org/wiki/Kolskaya_(oil_platform) 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>148.233333,49.516667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Kublai Khan's lost fleet in 1281</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Approximate location of where remains of Kublai Khan's lost fleet of 1281 were found. 70,000 died in a typhoon.
+
+Background Info. (http://www.thehistoryblog.com/archives/13295)
+ 
+The Asahi Shimbun / Wreck thought to be from Mongol invasion attempt found near Nagasaki(http://ajw.asahi.com/article/behind_news/social_affairs/AJ201410030034)]]></description>
+			<Point>
+				<coordinates>129.7724823,33.4279317,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Lamma IV (2012 Lamma Island Boat Disaster)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[2012 Lamma Island Boat Disaster on Wikipedia (http://en.wikipedia.org/wiki/2012_Lamma_Island_ferry_disaster)]]></description>
+			<Point>
+				<coordinates>114.103889,22.235556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Lisbon Maru</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/8/82/Lisbon-maru.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lisbon_Maru)
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>122.765,30.230000000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>LVT (A)-4 (Saipan)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.pacificmaritimeheritagetrail.com (http://www.pacificmaritimeheritagetrail.com/wp-content/uploads/2012/09/LVTA-4_Dive-Guide_web.pdf)
+ 
+Photos (http://www.pacificmaritimeheritagetrail.com/the-wrecks/assault-vehicles/lvta-4/) ]]></description>
+			<Point>
+				<coordinates>145.736328,15.240161,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Mighty Servant 2</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/0/0c/MightyServantRoberts19882turned.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Mighty Servant 2 on Wiki. (http://en.wikipedia.org/wiki/Mighty_Servant_2)
+ 
+2 November 1999 , the vessel tipped onto its side in 35 meters of water in reportedly calm seas. A hydrographic survey of the area later discovered an unmarked single isolated pinnacle of granite directly on the ship's course. 
+
+
+Wikipedia Commons            ]]></description>
+			<Point>
+				<coordinates>104.2,-0.48,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MS Mikhail Lermontov</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/a/aa/Mikhail_Lermontov_at_Tilbury_-_geograph.org.uk_-_1548525.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[MS Mikhail Lermontov on Wiki. (http://en.wikipedia.org/wiki/MS_Mikhail_Lermontov)
+ 
+16 February 1986, sank near Marlborough Sounds.
+
+
+Wikipedia Commons     ]]></description>
+			<Point>
+				<coordinates>174.219496,-41.04208700000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MS Prinsendam (1973)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/MS_Prisendam_sinking_off_Alaska_with_USCG_HH-3F_1980.jpeg/800px-MS_Prisendam_sinking_off_Alaska_with_USCG_HH-3F_1980.jpeg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/MS_Prinsendam_(1973)
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-136.45,55.883,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MV Derbyshire</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://news.bbc.co.uk/olmedia/1010000/images/_1012825_derby300.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[MV Derbyshire on Wiki. (http://en.wikipedia.org/wiki/MV_Derbyshire)
+ 
+9 September 1980, lost during Typhoon Orchid.
+
+
+Wikipedia Commons                 ]]></description>
+			<Point>
+				<coordinates>130.5,25.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MV Iron Baron</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[MV Iron Baron on Wikipedia (http://en.wikipedia.org/wiki/MV_Iron_Baron)]]></description>
+			<Point>
+				<coordinates>149.13,-39.22,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MV Jessica (approximated)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/9/9e/Jessica-side.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/MV_Jessica)
+ 
+Wikipedia Commons / Public Domain ]]></description>
+			<Point>
+				<coordinates>-89.61638,-0.898911,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MV Lake Illawarra</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[5 January 1975, collided with Tasman Bridge in Hobart, Tasmania, Australia on at 9:27 p.m. and sank in 35 m (115 ft) of water.                                               
+ MV Lake Illawarra on Wiki. (http://en.wikipedia.org/wiki/MV_Lake_Illawarra)]]></description>
+			<Point>
+				<coordinates>147.345355,-42.864758,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MV Neptuna</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/5/50/Darwin_Harbour_%28AWM_027334%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[MV Neptuna on Wiki. (http://en.wikipedia.org/wiki/MV_Neptuna)
+ 
+19 February 1942, Japanese air raid in which bombs exploded in Neptuna's saloon and engine room.                                                                                                                                                                           Wikipedia Commons     ]]></description>
+			<Point>
+				<coordinates>130.849167,-12.471667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MV Princess of the Stars (approximate)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Princess_of_the_Stars_August_2008.jpg/275px-Princess_of_the_Stars_August_2008.jpg http://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Ship%27s_rendezvous_with_Princess_of_the_Stars.jpg/200px-Ship%27s_rendezvous_with_Princess_of_the_Stars.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[MV Princess of the Stars
+ (http://en.wikipedia.org/wiki/MV_Princess_of_the_Stars)
+ 
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>122.446747,12.254128,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MV Queen of the North</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/MV_Queen_of_the_North)]]></description>
+			<Point>
+				<coordinates>-129.245483,53.33195,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MV Rabaul Queen</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rabaul_Queen.JPG/220px-Rabaul_Queen.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Background Info (http://en.wikipedia.org/wiki/MV_Rabaul_Queen)
+ 
+MV Rabaul Queen went down 2 February 2012 while traveling from Kimbe on the island of New Britain to the coastal city of Lae on the main island. The ferry sank 50 miles (80 kilometers) east of Lae, the South Pacific country's second-largest city, and 10 miles (16 kilometers) from shore.                                                                              
+
+ Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>147.757874,-6.87462,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MV Rena (1/8/2012)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rena_ship_04.jpg/250px-Rena_ship_04.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Cargo Ship Rena on Wikipedia (http://en.wikipedia.org/wiki/Rena_oil_spill)                                          
+Video of the break up of the ship 1/8/2012 (http://youtu.be/2m4JGoJZESs)
+
+
+Wikipeda Commons ]]></description>
+			<Point>
+				<coordinates>176.429167,-37.540278,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MV Shen Neng 1 </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Great_barrier_oil_spill_march_2010_%28cropped%29.jpg/300px-Great_barrier_oil_spill_march_2010_%28cropped%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[MV Shen Neng 1 on Wikipedia (http://en.wikipedia.org/wiki/MV_Shen_Neng_1)
+ 
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>151.649167,-23.101667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MV Thomas Aquinas</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/MV_Thomas_Aquinas)                                                                                                    
+Huffington Post (http://www.huffingtonpost.com/2013/08/16/philippines-ferry-crash_n_3768060.html)]]></description>
+			<Point>
+				<coordinates>123.84321199999998,10.216105,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MV Queen of the North</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[22 March 2006 sank.
+ MV Queen of the North on Wiki. (http://en.wikipedia.org/wiki/MV_Queen_of_the_North)]]></description>
+			<Point>
+				<coordinates>-129.245483,53.33195,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MY Ady Gil (from the TV show Whale Wars)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Earthrace-2.jpg/300px-Earthrace-2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[MY Ady Gil on Wikipedia (http://en.wikipedia.org/wiki/Earthrace)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>143.089722,-64.030556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Nanhai One</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/c2/%E5%8D%97%E6%B5%B7%E4%B8%80%E5%8F%B7.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Nanhai One on Wiki. (http://en.wikipedia.org/wiki/Nanhai_One)
+
+Nanhai One is a Chinese merchant ship which sank off the south China coast during the Southern Song Dynasty between 1127 and 1279.
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>111.868889,21.576111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Nan'ao One</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Nan'ao One is currently considered the first late Ming dynasty (1368–1644) ship.                                           
+ Nan'ao One on Wiki. (http://en.wikipedia.org/wiki/Nan%27ao_One)]]></description>
+			<Point>
+				<coordinates>117.333333,23.666667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Neptune</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Neptune Boat Rescue: 22 Saved From Sinking Boat In San Francisco Bay (VIDEO) (http://www.huffingtonpost.com/2012/10/13/neptune-boat-rescue_n_1963831.html)]]></description>
+			<Point>
+				<coordinates>-122.410934,37.812284,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>New Carissa </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/7/7f/NewCarissaOnBeach.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[New Carissa on Wiki. (http://en.wikipedia.org/wiki/New_Carissa)
+ 
+February 1999, ran aground near Coos Bay, Oregon and broke apart on beach.
+
+
+Wikipedia Commons            ]]></description>
+			<Point>
+				<coordinates>-124.31204100000001,43.398332,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>The Northern Belle</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Northern Belle on Wikipedia (http://en.wikipedia.org/wiki/FV_Northern_Belle)]]></description>
+			<Point>
+				<coordinates>-146.783333,59.166667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Peter Iredale (Viewable in sand)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/0/00/Conwell_peter_iredale.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Peter Iredale (ship) on Wiki. (http://en.wikipedia.org/wiki/Peter_Iredale)
+ 
+26 September 1906, a heavy northwest squall grounded the Peter Iredale.
+
+
+Wikipedia Commons  ]]></description>
+			<Point>
+				<coordinates>-123.981082,46.178386,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Point Loma (approximated/viewable?)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Saltwater People Historical Society (http://saltwaterpeoplehistoricalsociety.blogspot.com/2013/01/wrecks-ships-n-through-s.html)]]></description>
+			<Point>
+				<coordinates>-124.071063,46.31445,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Princess May</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Saltwater People Historical Society (http://saltwaterpeoplehistoricalsociety.blogspot.com/2013/01/wrecks-ships-n-through-s.html)]]></description>
+			<Point>
+				<coordinates>-134.926958,58.549671999999994,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Motor Torpedo Boat PT-109</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/PT-109_crew.jpg/300px-PT-109_crew.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Motor_Torpedo_Boat_PT-109)
+ 
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>161.25,-12.25,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Queen Bee (ship)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[6 August 1877, ran aground on Farewell Spit (http://en.wikipedia.org/wiki/Farewell_Spit) at about midnight  and subsequently broke up.
+
+ Queen Bee (ship) on Wiki. (http://en.wikipedia.org/wiki/Queen_Bee_(ship))]]></description>
+			<Point>
+				<coordinates>172.866667,-40.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Rainbow Warrior (1955)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Rainbow Warrior (1955) on Wiki. (http://en.wikipedia.org/wiki/Rainbow_Warrior_(1955) 
+
+10 July 1985, sunk.
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>173.9349,-34.9748,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>RMS Niagara</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/7/7c/Niagara.gif</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[RMS Niagara on Wiki. (http://en.wikipedia.org/wiki/RMS_Niagara)
+ 
+19 June 1940, sunk by sea mine). 
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>174.943889,-35.863889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>RMS Queen Elizabeth</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Seawise_University_wreck.jpg/800px-Seawise_University_wreck.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/RMS_Queen_Elizabeth)
+ 
+Wikipedia Commons / Barry Loigman, M.D.]]></description>
+			<Point>
+				<coordinates>114.112759,22.325703,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>RMS Queen Mary (hotel/viewable ship)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/RMS_Queen_Mary_Long_Beach_January_2011_view.jpg/300px-RMS_Queen_Mary_Long_Beach_January_2011_view.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[RMS Queen Mary on Wikipedia (http://en.wikipedia.org/wiki/RMS_Queen_Mary)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-118.1898,33.7531,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>ROKS Cheonan (PCC-772)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/US_Navy_100913-N-4366B-501_Rear_Adm._Hyun_Sung_Um%2C_commander_of_Republic_of_Korea_%28ROK%29_Navy_2nd_Fleet%2C_and_Rear_Adm._Seung_Joon_Lee%2C_deputy_comman.jpg/300px-US_Navy_100913-N-4366B-501_Rear_Adm._Hyun_Sung_Um%2C_commander_of_Republic_of_Korea_%28ROK%29_Navy_2nd_Fleet%2C_and_Rear_Adm._Seung_Joon_Lee%2C_deputy_comman.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[ROKS Cheonan on Wikipedia
+ (http://en.wikipedia.org/wiki/ROKS_Cheonan_(PCC-772) 
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>124.600556,37.929167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Rosecrans</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Saltwater People Historical Society (http://saltwaterpeoplehistoricalsociety.blogspot.com/2013/01/wrecks-ships-n-through-s.html)]]></description>
+			<Point>
+				<coordinates>-124.07723999999999,46.269621,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Russian Admiral Ushakov</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/AdmiralUshakov1897Kronstadt.jpg/800px-AdmiralUshakov1897Kronstadt.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Russian_battleship_Admiral_Ushakov)
+
+
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>129.533333,34.566667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Japanese "Tsunami Ghost Ship" Ryou-Un Maru</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/120405-G-ZZ999-The_sinking_of_the_Japanese_fishing_vessel_Ryou-un_Maru.jpg/800px-120405-G-ZZ999-The_sinking_of_the_Japanese_fishing_vessel_Ryou-un_Maru.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Ry%C5%8D_Un_Maru)
+
+Ryou-Un Maru (漁運丸? , Fishing Luck) (also Ryō Un Maru) was a Japanes fishing boat that washed away from its mooring in Aomori Prefecture by the March 2011 Tōhoku earthquake and tsunami and drifted across the Pacific Ocean.  It was spotted a year later by a routine Royal Canadian Air Force air patrol about 150 nautical miles (280 km; 170 mi) off the coast of Haida, British Columbia. The unmanned hulk entered U.S. waters on 1 April 2012 and was fired upon and sunk on 5 April 2012.
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-138.8,55.016667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Sakai-ura (viewable in water)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>142.206548,27.084117,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Santa Leonra</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://mw2.google.com/mw-panoramio/photos/medium/18453019.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Shipwreck of the Santa Leonora, in the Smyth Channel, Shoal isle, the Magellan Strait, Chile (http://www.artificialowl.net/2008/08/shipwreck-of-santa-leonora-in-smyth.html)
+ 
+Google Map / by agalleguillos (http://www.panoramio.com/user/344318?with_photo_id=18453019)]]></description>
+			<Point>
+				<coordinates>-73.61372,-52.536795,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Sausalito (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Saltwater People Historical Society (http://saltwaterpeoplehistoricalsociety.blogspot.com/2013/01/wrecks-ships-n-through-s.html)]]></description>
+			<Point>
+				<coordinates>-124.601634,48.386383,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Shell Oil Barge Kulluk</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Huffington Post
+Shell Ship In Alaska Faces Challenges After Grounding Near Kodiak Island (http://www.huffingtonpost.com/2013/01/05/shell-ship-alaska-kodiak-island_n_2416736.html)
+
+"Royal Dutch Shell PLC will try to move its grounded drill ship out of the worst of the North Pacific's fury with a towing attempt when conditions allow.
+
+Shell incident commander Sean Churchfield said at a press conference Saturday that naval architects have pronounced the Kulluk fit to be towed. The attempt will depend on weather, tides and readiness, he said."]]></description>
+			<Point>
+				<coordinates>-153.106499,57.09094,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Shoan Maru (Japanese Frieghter battle of Saipan)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.pacificmaritimeheritagetrail.com (http://www.pacificmaritimeheritagetrail.com/wp-content/uploads/2012/09/JAPANESE-FREIGHTER_Dive-Guide_web.pdf)
+ 
+Photos (http://www.pacificmaritimeheritagetrail.com/the-wrecks/ships/japanese-freighter/)
+ 
+Wikipedia: World War II: The cargo ship was torpedoed and sunk in the Pacific Ocean by USS Whale (http://en.wikipedia.org/wiki/USS_Whale_(SS-239) ]]></description>
+			<Point>
+				<coordinates>145.724306,15.234392000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Shockwave</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Shockwave on Wikipedia (http://en.wikipedia.org/wiki/Shockwave_(yacht) ]]></description>
+			<Point>
+				<coordinates>150.931,-34.4572,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>Sibyl Marston (partially viewable in sand)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/d/d6/Sibmar.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Sibyl Marston (ship) on Wiki. (http://en.wikipedia.org/wiki/Sybil_Marston_(ship) 
+ 
+12 January 1909, sank.
+
+
+Wikipedia Commons         ]]></description>
+			<Point>
+				<coordinates>-120.61747,34.653474,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Sir Jamsetjee Family approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Saltwater People Historical Society (http://saltwaterpeoplehistoricalsociety.blogspot.com/2013/01/wrecks-ships-n-through-s.html)]]></description>
+			<Point>
+				<coordinates>-124.24026499999998,47.281558000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SMS Cormoran (1909)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/7/7c/SMS_Cormoran_%281909%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SMS Cormoran (1909) on Wiki. (http://en.wikipedia.org/wiki/SMS_Cormoran_(1909) 
+ 
+7 April 1917, scuttled at Apra Harbor, Guam.
+
+
+Wikipedia Commons                    ]]></description>
+			<Point>
+				<coordinates>144.654167,13.459167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SMS Dresden (1907)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/2/28/SMS_Dresden_German_Cruiser_LOC_16727.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SMS Dresden (1907) on Wiki. (http://en.wikipedia.org/wiki/SMS_Dresden_(1907) 
+ 
+ 14 March 1915, scuttled off Robinson Crusoe Island.
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-78.825,-33.601667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>South Korean Ferry, Sewol,  - April 16, 2014 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[straitstimes.com (http://www.straitstimes.com/news/asia/east-asia/story/south-korea-ferry-sinking-2-dead-107-missing-368-rescued-20140416)
+
+SEOUL (AFP/The Korea Herald/Asia News Network) - South Korea said on Wednesday that two people were killed and 368 rescued from a ferry that capsized off the coast of Jindo Island, in South Korea's South Jeolla province, with 477 people on board - mostly high-school students - as divers searched for scores still missing.
+
+The passengers are reported to include 324 students and 14 staff of Danwon High School in Ansan, Gyeonggi Province, who were traveling on a school trip to Jeju Island.
+
+Officials voiced concern over the fate of the 107 people unaccounted for, fearing that many may have been trapped as the vessel listed sharply before capsizing.]]></description>
+			<Point>
+				<coordinates>125.979538,35.015939,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>Soviet submarine K-129 (1960)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/6/6b/Image_Submarine_Golf_II_class.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Soviet submarine K-129 (1960 on Wiki. (http://en.wikipedia.org/wiki/Soviet_submarine_K-129_(Golf_II) 
+ 
+8 March 1968, sank approximately 1,560 nautical miles (2,890 km) northwest of Oahu in the Pacific Ocean  with all hands. 98 crewmen died.
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-178.95,38.083333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>SS Admella</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/f/f5/Admella_painting.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SS Admella on Wiki. (http://en.wikipedia.org/wiki/SS_Admella)
+ 
+5th August 1859, wrecked off Carpenter Rocks, South Australia.
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>140.35083300000002,-37.879722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Avalon (1891)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SS_Avalon_(1891) ]]></description>
+			<Point>
+				<coordinates>-118.35400000000001,33.726,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Catala (approximated)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/6/61/Catala_wrecked_on_Sparrowhawk_Reef_1927.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SS_Catala)
+ 
+Wikipedia Commons / Public Domain (http://upload.wikimedia.org/wikipedia/commons/9/9b/Catala_at_Union_Steamship_dock_in_Vancouver_BC.jpg)]]></description>
+			<Point>
+				<coordinates>-124.11521,46.940213,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS City of Chester (aproximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[washingtonpost.com
+
+Here’s what happened: The City of Chester — a passenger steamer built in 1875, according to the California State Lands Commission’s shipwreck database – departed San Francisco in a dense fog on the morning of Aug. 22, 1888. The ship was heading for Eureka, Calif., a town about 270 miles up the state’s coast, when it collided with the Oceanic, a much larger steamer.]]></description>
+			<Point>
+				<coordinates>-122.47326900000002,37.81690400000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Dominator</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/6505-ShipWreck-PalosVerdesPeninsula-1965.jpg/450px-6505-ShipWreck-PalosVerdesPeninsula-1965.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SS Dominatoron Wiki (http://en.wikipedia.org/wiki/SS_Dominator)
+ 
+1961, ran ashore on the Palos Verdes Peninsula.
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-118.4283754,33.7740735,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Elingamite</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[5 November 1902, the vessel foundered and sank within 20 minutes 
+
+ SS Elingamite on Wiki. (http://en.wikipedia.org/wiki/SS_Elingamite)]]></description>
+			<Point>
+				<coordinates>172.03159,-34.186047,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>SS Ellengowan</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[1881, she struck a sandbar on the Daly River and sank.
+
+ SS Ellengowan on Wiki. (http://en.wikipedia.org/wiki/SS_Ellengowan)]]></description>
+			<Point>
+				<coordinates>130.52,-12.32,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Emidio</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SS_Emidio)]]></description>
+			<Point>
+				<coordinates>-124.196588,41.750516,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>SS Gothenburg</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/5/5f/SS_Gothenburg.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SS Gothenburg on Wiki. (http://en.wikipedia.org/wiki/SS_Gothenburg)
+ 
+24 February 1875, the ship was wrecked
+on the Great Barrier Reef north-west of Holbourne Island.
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>148.055833,-19.368333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Great Republic (1866)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/2/2a/SS_Great_Republic_under_construction%2C_1866.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SS Great Republic (1866) on Wiki. (http://en.wikipedia.org/wiki/Great_Republic_(steamboat)  
+
+Wrecked on Sand Island, 19 April 1879.
+
+
+Wikipedia Commons    ]]></description>
+			<Point>
+				<coordinates>-124.02400000000002,46.278,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Islander</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/cb/SS_Islander.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SS Islander on Wiki. (http://en.wikipedia.org/wiki/SS_Islander)
+ 
+15 August 1901, sank. 
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-134.7885,58.3765,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Kiangya</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/8/88/Sunk_of_SS_Kiangya.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SS_Kiangya)
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>121.533508,31.404051999999997,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Masaya (USS Dale DD-290) (Approximated)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/USS_Dale_%28DD-290%29.jpg/300px-USS_Dale_%28DD-290%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SS_Masaya)
+ 
+Wikipedia Commons / Public Domain ]]></description>
+			<Point>
+				<coordinates>148.502111,-8.888888,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Mauna Loa</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/2/22/SS_West_Conob.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SS Mauna Loa on Wiki. (http://en.wikipedia.org/wiki/SS_Mauna_Loa)
+ 
+19 February 1942, bombed and sunk in the Bombing of Darwin. 
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>130.819333,-12.497667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Norwich City</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SS_Norwich_City)]]></description>
+			<Point>
+				<coordinates>-174.544444,-4.660833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Palo Alto (viewable ship)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[SS Palo Alto on Wikipedia (http://en.wikipedia.org/wiki/SS_Palo_Alto)]]></description>
+			<Point>
+				<coordinates>-121.91410800000001,36.969548,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Princess Sophia</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/0/09/Princess_Sophia_%28steamship%29_ca_1912%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SS_Princess_Sophia)
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-135.0236,58.6022,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Springfjord (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SS_Springfjord)]]></description>
+			<Point>
+				<coordinates>-90.787411,13.909907,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Victory</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/9/9a/SS_Victory_flywheel%2C_Victory_Beach%2C_Otago%2C_New_Zealand.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SS Victory on Wiki. (http://en.wikipedia.org/wiki/Victory_Beach#Victory_wreck)
+  
+3 July 1861, ran aground.
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>170.7321,-45.8425,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Yongala</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/6/6a/SS_Yongala_2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SS Yongala on Wiki. http://en.wikipedia.org/wiki/SS_Yongala
+ 
+23, March 1911, sunk by cyclone.
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>147.625278,-19.3075,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Zealandia (1910)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/0/0b/SSZealandia.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SS Zealandia (1910) on Wiki. (http://en.wikipedia.org/wiki/SS_Zealandia_(1910) 
+ 
+ 19 February 1942, sunk in air raids on Darwin.
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>130.846758,-12.47146,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>Sub Marine Explorer (viewable in water)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sub_Marine_Explorer_Wreck.jpg/800px-Sub_Marine_Explorer_Wreck.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Sub_Marine_Explorer)
+ 
+Wikipedia Commons / James P. Delgado (http://en.wikipedia.org/wiki/User:James_P._Delgado)]]></description>
+			<Point>
+				<coordinates>-78.8459,8.28158,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SuperFerry 9</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/28/SFERRY_9.jpg/300px-SFERRY_9.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SuperFerry 9 on Wikipedia
+ (http://en.wikipedia.org/wiki/SuperFerry_9)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>121.9,7.46,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Sygna (Viewable in the water)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/b/b4/Sygna_%281974%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Sygna on Wiki. (http://en.wikipedia.org/wiki/Sygna)
+
+26 May 1974, ran aground on Stockton Beach, New South Wales,Australia during a storm.
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>151.844711,-32.85915,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Takuo (Viewable on the beach)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/small/43587048.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[©Panoramio]]></description>
+			<Point>
+				<coordinates>-174.804293,-20.279724,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Tek Sing (Chinese Junk)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Tek Sing on Wikipedia (http://en.wikipedia.org/wiki/Tek_Sing)]]></description>
+			<Point>
+				<coordinates>107.069492,-2.415075,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>TEV Wahine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Wahine_disaster)]]></description>
+			<Point>
+				<coordinates>174.838889,-41.347222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Tōya Maru</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[26 September 1954, sank during a typhoon in the Tsugaru Strait between the Japanese islands of Hokkaidō and Honshū.
+
+ Tōya Maru on Wiki. (http://en.wikipedia.org/wiki/Toya_Maru)]]></description>
+			<Point>
+				<coordinates>140.152,41.1932,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Unknown ship (viewable in water)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://mw2.google.com/mw-panoramio/photos/medium/12037081.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Panoramio / by Larry Mulvehill (http://www.panoramio.com/user/121869?with_photo_id=12037081)]]></description>
+			<Point>
+				<coordinates>160.037142,-9.406999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USAT Meigs</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/e/e0/Usat_meigs.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USAT Meigs on Wiki. (http://en.wikipedia.org/wiki/USAT_Meigs)
+
+19 February 1942, sunk by Japanese air attack.
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>130.818333,-12.487667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USC&amp;GS Carlile P. Patterson</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/2/20/Patterson_Cape_Fairweather.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USC%26GS_Carlile_P._Patterson)
+ 
+
+Wikipedia Commons  / Public Domain]]></description>
+			<Point>
+				<coordinates>-137.928886,58.829916000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Aaron Ward (DD-483)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/0/09/USS_Aaron_Ward_%28DD-483%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_Aaron_Ward_(DD-483) 
+
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>160.2,-9.175,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Atlanta (CL-104)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/6/6f/USS_Atlanta_%28CL-104%29_June_1948.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS Atlanta on Wiki (http://en.wikipedia.org/wiki/USS_Atlanta_(CL-104) 
+
+1970, sunk as a target
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-118.5081,32.8796,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Atlanta (CL-51)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/3/31/USS_Atlanta_%28CL-51%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS Atlanta (CL-51) on Wiki. (http://en.wikipedia.org/wiki/USS_Atlanta_(CL-51) 
+
+13 November 1942, sunk, Naval Battle of Guadalcanal.
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>159.979,-9.39,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Astoria (CA-34)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/0/06/USS_Astoria_%28CA-34%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS Astoria (CA-34) on Wiki. (http://en.wikipedia.org/wiki/USS_Astoria_(CA-34) 
+ 
+9 August 1942, sunk in Battle of Savo Island.
+
+
+Wikipedia Commons  ]]></description>
+			<Point>
+				<coordinates>159.8675,-9.209167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Arizona (Viewable in water)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/4/43/Uss_arizona.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS Arizona (BB-39) (http://en.wikipedia.org/wiki/USS_Arizona_(BB-39) 
+.
+7 December 1941, sunk. 
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-157.950112,21.364775,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Astoria (CA-34)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/0/06/USS_Astoria_%28CA-34%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_Astoria_(CA-34) 
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>159.8675,-9.209167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Bates (DE-68)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_Bates_(DE-68) ]]></description>
+			<Point>
+				<coordinates>127.78333299999998,26.683333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Brownson (DD-518)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/2/20/USS_Brownson_%28DD-518%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_Brownson_(DD-518) 
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>148.416667,-5.3333330000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Bush (DD-529)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/c2/USS_Bush-cropped-%3B0552905.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_Bush_(DD-529) 
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>127.79999999999998,27.266667000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Chicago (CA-29) </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/5/5b/USS_Chicago_%28CL-29%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_Chicago_(CA-29) 
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>160.933333,-11.416667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Cooper (DD-695)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/2/2d/USS_Cooper_%28DD-695%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS Cooper (DD-695) on Wiki. (http://en.wikipedia.org/wiki/USS_Cooper_(DD-695) 
+
+3 December 1944, Cooper was torpedoed by the Japanese destroyer Take.
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>124.599895,10.900402,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Corry (DD-334) (viewable)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/1/10/USS_Corry_%28DD-334%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_Corry_(DD-334) 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-122.28754699999999,38.16694,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS De Haven (DD-469)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/ce/USSDehavenDD469.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS De Haven (DD-469) on Wiki. (http://en.wikipedia.org/wiki/USS_De_Haven_(DD-469) 
+
+1 February 1943, sunk in action. 
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>159.866667,-9.15,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Delphy (DD-261)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/d/d8/USS_Delphy_%28DD-261%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_Delphy_(DD-261) 
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-120.64410899999999,34.602067,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Emmons (DD-457)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_Emmons_(DD-457)                                                                                  
+
+
+Wikipedia Commons   ]]></description>
+			<Point>
+				<coordinates>128.066667,26.8,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Gambier Bay (CVE-73)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/f/f4/CVE_73_Gambier_Bay_underway.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS Gambier Bay (CVE-73 on Wiki. (http://en.wikipedia.org/wiki/USS_Gambier_Bay_(CVE-73) 
+ 
+ 25 October 1944, sunk. 
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>126.15000000000002,11.766667000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS George F. Elliott (AP-13)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/5/5d/USS_George_F_Elliott_%28AP-13%29_off_Norfolk_VA_Jan_1942.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SS George F. Elliott (AP-13) on Wiki. (http://en.wikipedia.org/wiki/USS_George_F._Elliott_(AP-13) 
+
+8 August 1942, lost to enemy action. 
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>160.137222,-9.345833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS General M. C. Meigs (AP-116)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/9/9b/USS_General_M._C._Meigs_AP-116.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_General_M._C._Meigs_(AP-116) 
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-124.687566,48.286095,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>USS Grunion (SS-216)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/1/11/USS_Grunion%3B0821602.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS Grunion (SS-216) on Wiki. (http://en.wikipedia.org/wiki/USS_Grunion_(SS-216) 
+ 
+30 July 1942, sunk off of Kiska, cause unknown.
+
+
+Wikipedia Commons    ]]></description>
+			<Point>
+				<coordinates>177.418056,52.237778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Helena (CL-50)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/3/37/USS_Helena_CL-50-700px.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_Helena_(CL-50) 
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>157.183333,-7.766667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Henley (DD-391)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/7/73/USS_Henley_%28DD-391%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_Henley_(DD-391) 
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>148.1,-7.666667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Hoel (DD-533)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/ca/Hoel.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS Hoel (DD-533) on Wiki. (http://en.wikipedia.org/wiki/USS_Hoel_(DD-533) 
+  
+25 October 1944, sunk in Battle off Samar.
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>126.55,11.766667000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Hornet (CV-8)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/d/d4/USS_Hornet_%28CV-8%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS Hornet (CV-8) on Wiki. (http://en.wikipedia.org/wiki/USS_Hornet_(CV-8) 
+ 
+27 October 1942, sunk in the Battle of the Santa Cruz Islands.
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>166.709444,-8.639722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Hovey (DD-208)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/f/f2/USS_Hovey_%28DD-208%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS Hovey (DD-208) on Wiki. (http://en.wikipedia.org/wiki/USS_Hovey_(DD-208) 
+ 
+7 January 1945, sunk in battle.
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>120.166667,16.333333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Houston (CA-30)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/6/60/USS_Houston.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_Houston_(CA-30) 
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>106.131944,-5.8125,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Indianapolis (CA-35)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/1/1a/USS_Indianapolis_CA-35.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS Indianapolis (CA-35) on Wiki. (http://en.wikipedia.org/wiki/USS_Indianapolis_(CA-35) 
+ 
+30 July 1945, sunk by Japanese submarine I-58. 317 of 1,196 crewmen survived.
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>134.8,12.033333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Jarvis (DD-393)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/2/2e/USS_Jarvis_%28DD-393%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS Jarvis (DD-393) on Wiki. (http://en.wikipedia.org/wiki/USS_Jarvis_(DD-393) 
+ 
+9 August 1942, sunk by Japanese aircraft off Guadalcanal. 
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>158.983333,-9.7,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS John Penn (APA-23) (approximated)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/c/cf/USS_John_Penn_AP-51.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_John_Penn_(APA-23) 
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>160.026083,-9.401053,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Kanawha (AO-1) (approximated)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/e/ee/Kanawaha_AO-1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_Kanawha_(AO-1) 
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>160.151879,-9.100921,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Lexington (CV-2)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/2/2b/USS_Lexington.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS Lexington (CV-2) on Wiki. (http://en.wikipedia.org/wiki/USS_Lexington_(CV-2) 
+ 
+8 May 1942, sunk by Japanese at the Battle of the Coral Sea.
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>155.456389,-15.199167000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Liscome Bay (CVE-56)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/USS_Liscome_Bay_CVE56.jpg/800px-USS_Liscome_Bay_CVE56.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_Liscome_Bay_(CVE-56) 
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>172.5,2.566667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Magnet (YDG-9)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://www.shipscribe.com/usnaux/ADG/ydg11c-05.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS Magnet (YDG-9) on Wiki. (http://en.wikipedia.org/wiki/USS_Magnet_(YDG-9) 
+ 
+4 March 1976, sunk as target.
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-117.666667,31.266667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Magpie (AMS-25)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_Magpie_(AMS-25) ]]></description>
+			<Point>
+				<coordinates>129.5,36.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Mahan (DD-364)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/6/65/USSMahanDD364.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS Mahan (DD-364) on Wiki. (http://en.wikipedia.org/wiki/USS_Mahan_(DD-364) 
+
+7 December 1944, sunk by kamikazes. 
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>124.49999999999999,10.833333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Mississinewa (AO-59) (approximated)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/d/d5/USS_Mississinewa_091905902.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_Mississinewa_(AO-59) 
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>139.786091,10.031231,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Mount Hood (AE-11)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/4/41/USS_Mount_Hood_%28AE-11%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_Mount_Hood_(AE-11) 
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>147.355,-2.0283300000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Northampton (CA-26)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/6/60/USS_Northampton_%28CA-26%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS Northampton (CA-26) on Wiki (http://en.wikipedia.org/wiki/USS_Northampton_(CA-26)  
+ 
+30 November 1942, sunk Battle of Tassafaronga.
+
+
+Wikipedia Commons         ]]></description>
+			<Point>
+				<coordinates>159.833333,-9.200000000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Ommaney Bay (CVE-79)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cve79a.jpg/300px-Cve79a.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS Ommaney Bay (CVE-79) on Wiki. (http://en.wikipedia.org/wiki/USS_Ommaney_Bay_(CVE-79) 
+
+4 January 1945, struck by kamikaze aircraft, and scuttled.
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>121.31666699999998,11.416667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Peary (DD-226)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/8/85/USS-Peary-DD226.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS Peary (DD-226) on Wiki. (http://en.wikipedia.org/wiki/USS_Peary_(DD-226) 
+
+19 February 1942, sunk in battle.
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>130.829167,-12.475,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Perry (DD-340)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/6/62/USS_Perry_%28DD-340%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS Perry (DD-340) on Wiki. (http://en.wikipedia.org/wiki/USS_Perry_(DD-340) 
+ 
+13 September 1944, sunk by enemy action.
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>134.166667,6.883333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Seminole (AT-65)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/6/62/Seminole_%28AT-65%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS Seminole (AT-65) on Wiki. (http://en.wikipedia.org/wiki/USS_Seminole_(AT-65) 
+
+25 October 1942, sunk during action off Tulagi.
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>160.220556,-9.383333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>USS Pilotfish (SS-386)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/1/1e/USS_Pilotfish%3B0838603.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS Pilotfish (SS-386) on Wiki. (http://en.wikipedia.org/wiki/USS_Pilotfish_(SS-386) 
+ 
+25 July 1946, and sunk as a target for the Operation Crossroads atomic bomb test. 
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>140.883333,30.433333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Pope (DD-225)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/0/04/USS_Pope_%28DD-225%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_Pope_(DD-225) 
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>111.5,-4.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Princeton (CVL-23)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/0/09/USS_Princeton_%28CVL-23%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS Princeton (CVL-23) on Wiki (http://en.wikipedia.org/wiki/USS_Princeton_(CVL-23) 
+ 
+24 October 1944, sunk in the Battle of Leyte Gulf. 
+
+
+Wikipedia Commons  ]]></description>
+			<Point>
+				<coordinates>123.516667,15.35,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Quincy (CA-39)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/5/50/USS_Quincy_CA-39_1937.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS Quincy (CA-39) on Wiki. (http://en.wikipedia.org/wiki/USS_Quincy_(CA-39) 
+ 
+9 August 1942, sunk in Battle of Savo Island.
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>159.975,-9.075556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Salute (AM-294)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/e/eb/Salute_%28AM-294%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_Salute_(AM-294) 
+ 
+Wikipedia Commons / unknown]]></description>
+			<Point>
+				<coordinates>115.083333,5.133333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Samuel B. Roberts (DE-413)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/b/b5/USS_Samuel_B._Roberts_%28DE-413%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Samuel B. Roberts (DE-413) on Wiki. (http://en.wikipedia.org/wiki/USS_Samuel_B._Roberts_(DE-413) 
+
+25 October 1944, sunk during the Battle off Samar. 
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>126.333333,11.666667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Saratoga (CV-3)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/USS_Saratoga_versinkt_im_Pazifik.jpg/220px-USS_Saratoga_versinkt_im_Pazifik.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_Saratoga_(CV-3) 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>165.49855,11.581481,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Serpens (AK-97) (approximated)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/e/e6/Serpens_%28AK-97%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_Serpens_(AK-97) 
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>160.029173,-9.401307,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Utah</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/2/23/USSutah2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS Utah (BB-31) on Wiki. (http://en.wikipedia.org/wiki/USS_Utah_(BB-31) 
+
+13 November 1944. Sunk during Attack on Pearl Harbor.
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-157.962405,21.369081,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Vincennes (CA-44)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/cc/USS_Vincennes_%28CA-44%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS Vincennes (CA-44) on Wiki. (http://en.wikipedia.org/wiki/USS_Vincennes_(CA-44) 
+ 
+9 August 1942, sunk in Battle of Savo Island.
+
+
+Wikipedia Commons   ]]></description>
+			<Point>
+				<coordinates>159.88,-9.121389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Wasp (CV-7)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/c9/USS_Wasp_%28CV-7%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS Wasp (CV-7) on Wiki. (http://en.wikipedia.org/wiki/USS_Wasp_(CV-7) 
+ 
+15 September 1942, sunk by IJN. 
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>164.133333,-12.416111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Ward (DD-139) (approximated)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/f/f5/USS_Ward_%28DD-139%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_Ward_(DD-139) 
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>124.59999999999998,10.95,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Yorktown (CV-5)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/5/57/USS_Yorktown.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS Yorktown (CV-5) on Wiki. (http://en.wikipedia.org/wiki/USS_Yorktown_(CV-5) 
+ 
+7 June 1942, sunk. 
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-176.567778,30.599722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Vazlav Vorovsky</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Saltwater People Historical Society (http://saltwaterpeoplehistoricalsociety.blogspot.com/2013_01_01_archive.html)
+ ]]></description>
+			<Point>
+				<coordinates>-124.041975,46.275695,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Venezuelan fishing boat </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com  (http://www.huffingtonpost.com/2014/05/04/air-force-rescues-chinese_n_5264996.html?utm_hp_ref=mostpopular)
+
+Two Chinese sailors died and six are believed to be missing after their boat sank in the Pacific Ocean, an official at Davis-Monthan Air Force Base said Sunday.
+
+Airmen from the 563rd Rescue Group parachuted into the water Saturday afternoon and used inflatable boats to reach the Venezuelan vessel, which is 1,100 nautical miles west of Cabo San Lucas, Mexico, Schwennesen said. They treated the injured sailors Saturday and into Sunday morning.]]></description>
+			<Point>
+				<coordinates>-129.924316,22.71539,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Wanjiao One</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wanjiao One is an ancient Chinese merchant ship that sank off the coast of Pingtan of Fujian Province, China. Loaded with more than 10,000 pieces of blue-and-white porcelain dating back to the reign of Kangxi (1654-1722) of the Qing Dynasty (1644-1911),
+ 
+Wanjiao One on Wiki. (http://en.wikipedia.org/wiki/Wanjiao_One)]]></description>
+			<Point>
+				<coordinates>111.067835,22.260355,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Whidby (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Saltwater People Historical Society (http://saltwaterpeoplehistoricalsociety.blogspot.com/2013_01_01_archive.html)]]></description>
+			<Point>
+				<coordinates>-122.639265,48.280051,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>World Discoverer (Viewable in the water)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/c9/World_Discoverer_wreck.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[World Discoverer on Wiki. (http://en.wikipedia.org/wiki/World_Discoverer)
+
+30 April 2000, struck an uncharted reef in the Sandfly Passage. 
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>160.123031,-9.023103,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Viewable Unknown Ship</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>169.522444,10.079108,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Viewable unknown sunken ship</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>136.75557,-11.007705,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Unknown shipwreck in Aleutian Islands</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>177.45606400000003,51.93462100000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Zhong Xing 2</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[in.reuters.com (http://in.reuters.com/article/2014/05/05/hongkong-ship-crash-idINL3N0NR18Z20140505)
+
+The cargo ship Zhong Xing 2 sank after the collision with the 300-m- (984-ft-) long Marshall Islands-registered MOL Motivator about two nautical miles southwest of Po Toi Island, a spokeswoman of the Hong Kong Maritime Department said.]]></description>
+			<Point>
+				<coordinates>114.218845,22.146072,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Unknown shipwreck on Iwo Jima (viewable) </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/47066308.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / JohnnyHN (http://www.panoramio.com/user/2601759?with_photo_id=47066308)]]></description>
+			<Point>
+				<coordinates>141.291878,24.778667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Concrete ship on Iwo Jima Island (viewable)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/39641927.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / fumifumi]]></description>
+			<Point>
+				<coordinates>141.293136,24.782444,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Unknown shipwreck on Iwo Jima Island (viewable) </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>141.292457,24.781085,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Unknown shipwreck on Iwo Jima Island  (viewable)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>141.291942,24.77787,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Unknown shipwreck on Iwo Jima Island (viewable)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/22037734.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / dmitri_paul]]></description>
+			<Point>
+				<coordinates>141.291797,24.776214,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Unknown shipwreck on Iwo Jima Island  (viewable)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>141.291856,24.774227000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Unknown shipwreck on Iwo Jima Island  (viewable)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>141.291432,24.77508,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Unknown shipwreck off Lanai, Hawaii</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/17156906.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / ilbcnu10]]></description>
+			<Point>
+				<coordinates>-157.000718,20.929361,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Tangalooma wrecks</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/16760022.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / pcwiles]]></description>
+			<Point>
+				<coordinates>153.368121,-27.163913,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Pacific Queen and other shipwrecks</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/49385452.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / tophermueller (http://www.panoramio.com/user/5656910?with_photo_id=49385452)]]></description>
+			<Point>
+				<coordinates>-122.328579,47.893104,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Mohena Wreck, Fraser Island (viewable)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/39201858.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google map / Panoramio / Howie60]]></description>
+			<Point>
+				<coordinates>153.238522,-25.266955,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Ship wreck at Motueka NZ (viewable)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/1200205.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / roy.cornelissen (http://www.panoramio.com/user/248940?with_photo_id=1200205)]]></description>
+			<Point>
+				<coordinates>173.025865,-41.123635,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Abandoned trawler near Bisbane, Australia</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/41484052.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / BONKERS (http://www.panoramio.com/user/5032835?with_photo_id=41484052)]]></description>
+			<Point>
+				<coordinates>153.170612,-27.422543,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Unknown abandoned wooden tugboat</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/86164206.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Savitskiy Igor]]></description>
+			<Point>
+				<coordinates>142.514471,59.217039,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>View this map in Google Earth </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Non-networked Google Earth KML file: (https://docs.google.com/file/d/0B52hHMRyBvEsR2MxT0MyTlFqTWc/edit)]]></description>
+			<Point>
+				<coordinates>-145.1953125,-13.5819209,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Shinkoku Maru</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michaelmcfadyenscuba.info/viewpage.php?page_id=242]]></description>
+			<Point>
+				<coordinates>151.7791111111111,7.40011111111111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Hanakawa Maru</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michaelmcfadyenscuba.info/viewpage.php?page_id=230]]></description>
+			<Point>
+				<coordinates>151.64394400000003,7.334472000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Rio de Janeiro Maru</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michaelmcfadyenscuba.info/viewpage.php?page_id=239]]></description>
+			<Point>
+				<coordinates>151.8946666666667,7.304388888888889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Fujikawa Maru</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michaelmcfadyenscuba.info/viewpage.php?page_id=226]]></description>
+			<Point>
+				<coordinates>151.88486111111115,7.3446388888888885,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Heian Maru</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michaelmcfadyenscuba.info/viewpage.php?page_id=229]]></description>
+			<Point>
+				<coordinates>151.85574999999994,7.382861111111111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS President Coolidge</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://upload.wikimedia.org/wikipedia/en/thumb/d/db/The_Beached_Transport_SS_President_Coolidge%E2%80%94October_1942.jpg/800px-The_Beached_Transport_SS_President_Coolidge%E2%80%94October_1942.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[https://en.wikipedia.org/wiki/SS_President_Coolidge
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>167.2352166666667,-15.524199999999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1363'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1363-rec-fish.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1387'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1387-rec-sailing.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1433'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1433-trans-ferry.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

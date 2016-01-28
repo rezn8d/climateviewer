@@ -1,0 +1,2023 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>Digitally walk this map in Google Earth 3D.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[You can digitally walk the battle sites in this map, and view the painting at the same time, by downloading this Non-networked Google Earth KML file. (https://docs.google.com/file/d/0B52hHMRyBvEsQzloWng2cVRnNEk/edit)
+
+ 
+Be sure to turn on the buildings layer to check for any related ruins.]]></description>
+			<Point>
+				<coordinates>-41.132812,15.284184999999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps on History</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the manyother Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>-31.289062,3.162456,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Other Painting Oriented Google Maps</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- The Life and Art of Vincent van Gogh (http://myreadingmapped.blogspot.com/2012/01/interactive-map-of-life-and-art-vincent.html)
+
+- The Life and Art of Paul Cézanne (http://myreadingmapped.blogspot.com/2012/01/the-life-and-art-of-paul-cezanne-1839.html)
+
+- Landscape painting locations of impressionist Claude Monet (http://myreadingmapped.blogspot.com/2014/01/landscape-painting-locations-of.html)
+
+- The World as seen in Famous Landscape Paintings (http://myreadingmapped.blogspot.com/2012/01/the-world-in-as-seen-in-landscape.html)
+
+- Le Train: The Rescuing of the German-Looted French Art Train (1944) Fact vs. Fiction. (http://myreadingmapped.blogspot.com/2012/01/le-train-rescuing-of-german-looted.html)]]></description>
+			<Point>
+				<coordinates>-25.3125,14.944785000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Acosta Ñu (or Compo Grande)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/5/58/Batalha_de_Campo_Grande_-_1871.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Acosta Ñu (or Compo Grande)
+Battle of Campo Grande, by Pedro Américo (http://en.wikipedia.org/wiki/Pedro_Am%C3%A9rico).
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Batalha_de_Campo_Grande_-_1871.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-56.515833,-24.840278,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of the Alamo</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/d/de/FalloftheAlamo.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of the Alamo (http://en.wikipedia.org/wiki/Battle_of_the_Alamo)
+ 
+The Fall of the Alamo (1903) by Robert Jenkins Onderdonk, depicts Davy Crockett wielding his rifle as a club against Mexican troops who have breached the walls of the mission.
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:FalloftheAlamo.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-98.486111,29.425556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Anghiari</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Peter_Paul_Ruben%27s_copy_of_the_lost_Battle_of_Anghiari.jpg/800px-Peter_Paul_Ruben%27s_copy_of_the_lost_Battle_of_Anghiari.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Anghiari (http://en.wikipedia.org/wiki/Battle_of_Anghiari_(1440))                                                                                           
+Peter Paul Ruben's copy of Leonardo da Vinci  The Battle of Anghiari  
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Peter_Paul_Ruben%27s_copy_of_the_lost_Battle_of_Anghiari.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>12.060556,43.475556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Antietam (plotted exactly where Burnside's Bridge was)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/4/4f/Battle_of_Antietam.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Antietam (http://en.wikipedia.org/wiki/Battle_of_Antietam)                                                           
+The Battle of Antietam, by Kurz & Allison, depicting the scene of action at Burnside's Bridge
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Battle_of_Antietam.png)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-77.733164,39.451852,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Arica (approximated)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/c1/Arica_battle.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Arica (http://en.wikipedia.org/wiki/Battle_of_Arica) 
+
+The Battle of Arica by Juan Lepiani depicts Bolognesi's final moments. Oil on canvas, Lima, Peru.
+
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Arica_battle.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-70.275249,-18.445253,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Berezina</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/d/d9/Berezyna.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Berezina (http://en.wikipedia.org/wiki/File:Berezyna.jpg)  
+
+Napoleon's crossing of the Berezina
+an 1866 painting by January Suchodolski, oil on canvas, National Museum in Poznań
+
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Berezyna.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>28.360517000000005,54.325833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of the Bridge of Arcole</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/La_Bataille_du_Pont_d%27Arcole.jpg/790px-La_Bataille_du_Pont_d%27Arcole.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of the Bridge of Arcole (http://en.wikipedia.org/wiki/Battle_of_the_Bridge_of_Arcole)                                                                       
+Napoleon Bonaparte leading his troops over the bridge of Arcole, by Horace Vernet.
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:La_Bataille_du_Pont_d%27Arcole.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>11.283333,45.35,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Atlanta</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Battle_of_Atlanta.png/800px-Battle_of_Atlanta.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Atlanta (http://en.wikipedia.org/wiki/Battle_of_Atlanta)
+
+Battle of Atlanta, by Kurz and Allison (1888).
+ 
+(Enlarged (http://en.wikipedia.org/wiki/File:Battle_of_Atlanta.png))
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-84.3488,33.7459,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Austerlitz</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Austerlitz-baron-Pascal.jpg/800px-Austerlitz-baron-Pascal.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Austerlitz (http://en.wikipedia.org/wiki/Battle_of_Austerlitz)
+
+Napoléon at the Battle of Austerlitz, by François Gérard (Galerie des Batailles, Versailles.
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Austerlitz-baron-Pascal.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>16.766667,49.133333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Balaclava (Charge of the Light Brigade)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/1/18/Charge_of_the_Light_Brigade.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Balaclava (http://en.wikipedia.org/wiki/Battle_of_Balaklava)
+
+Charge of the Light Brigade by Richard Caton Woodville, Jr.  
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Charge_of_the_Light_Brigade.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>33.595505,44.52392700000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Siege of Belgrade (1456)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/6/60/Siegebelgrade.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Siege of Belgrade (1456) (http://en.wikipedia.org/wiki/Siege_of_Belgrade_(1456))
+
+
+(Enlarge) (http://en.wikipedia.org/wiki/File:Siegebelgrade.jpg)
+
+Wikipedia Commons /Public Domain]]></description>
+			<Point>
+				<coordinates>20.466667,44.81666700000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Bladensburg</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/2/21/Lithograph_of_painting_byThomas_Ruckle.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Bladensburg (http://en.wikipedia.org/wiki/Battle_of_Bladensberg)                                                                                        
+The Battle of North Point, painted by Thomas Ruckle.
+
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Lithograph_of_painting_byThomas_Ruckle.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-76.9376,38.936647,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Borodino</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Battle_of_Borodino_1812.png/751px-Battle_of_Borodino_1812.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Borodino (http://en.wikipedia.org/wiki/Battle_of_Borodino)
+
+"Battle of Moscow, 7th September 1812", 1822 by Louis Lejeune.
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Battle_of_Borodino_1812.png)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>35.81666700000001,55.516667000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Battle of Bosphorus (approximated)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aivazovsky%2C_Brig_Mercury_Attacked_by_Two_Turkish_Ships_1892.jpg/800px-Aivazovsky%2C_Brig_Mercury_Attacked_by_Two_Turkish_Ships_1892.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Bosphorus (http://en.wikipedia.org/wiki/Russian_brig_Mercury)                                                                                                  
+Brig "Mercury" Attacked by Two Turkish Ships, Ivan Aivazovsky, on-canvas, 1892
+
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Aivazovsky,_Brig_Mercury_Attacked_by_Two_Turkish_Ships_1892.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>29.134369,41.253032,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Bunker Hill</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/The_death_of_general_warren_at_the_battle_of_bunker_hill.jpg/800px-The_death_of_general_warren_at_the_battle_of_bunker_hill.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Bunker Hill (http://en.wikipedia.org/wiki/Battle_of_Bunker%27s_Hill)                                                                                       
+The Death of General Warren at the Battle of Bunker Hill by John Trumbull  
+
+
+(Enlarge) (http://en.wikipedia.org/wiki/File:The_death_of_general_warren_at_the_battle_of_bunker_hill.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-71.060778,42.376361,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Battle of Cádiz (1669)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/9/90/Van_de_Velde_the_Younger_-_Mary_Rose.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Cádiz (1669) (http://en.wikipedia.org/wiki/Battle_of_C%C3%A1diz_(1669))                                                                                        
+Van de Velde's drawing of the battle, based on Hollar's eyewitness engraving
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Van_de_Velde_the_Younger_-_Mary_Rose.png)
+
+Wikipedia Commons /Public Domain]]></description>
+			<Point>
+				<coordinates>-6.28006,36.551569,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Battle of Camperdown</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Thomas-Whitcombe-Battle-of-Camperdown.jpg/800px-Thomas-Whitcombe-Battle-of-Camperdown.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Camperdown (http://en.wikipedia.org/wiki/Battle_of_Camperdown)                                                                                                 
+The Battle of Camperdown, 11 October 1797, Thomas Whitcombe, 1798, National Maritime Museum. The painting shows the British flagship Venerable engaged with the Dutch flagship Vrijheid.
+
+
+(Enlarge) (http://en.wikipedia.org/wiki/File:Thomas-Whitcombe-Battle-of-Camperdown.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>4.2,52.75,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Battle of Cape St. Vincent (1780)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Holman%2C_Cape_St_Vincent.jpg/800px-Holman%2C_Cape_St_Vincent.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Cape St. Vincent (1780) (http://en.wikipedia.org/wiki/Battle_of_Cape_St._Vincent_(1780   
+
+The moonlight Battle off Cape St Vincent, 16 January 1780 by Francis Holman, painted 1780, shows the Santo Domingo exploding, with Rodney's flagship Sandwic in the foreground.
+ 
+
+(Enlarge) (http://en.wikipedia.org/wiki/File:Holman,_Cape_St_Vincent.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-8.563611,36.818056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Castillon</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/5/5c/Battle_of_Castillon.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Castillon (http://en.wikipedia.org/wiki/Battle_of_Castillon)
+
+Painting depicting the Battle of Castillon (1453) by the French painter Charles-Philippe Larivière (1798–1876). 
+ 
+
+(Enlarge) (http://en.wikipedia.org/wiki/File:Battle_of_Castillon.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-0.040693,44.85557,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Cầu Giấy (Paper Bridge)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Riviere_pushing_the_cannon_forward_at_Sontay.jpg/800px-Riviere_pushing_the_cannon_forward_at_Sontay.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Cầu Giấy (Paper Bridge) (http://en.wikipedia.org/wiki/Battle_of_Paper_Bridge)                                                                                       
+Commandant Henri Rivière attempts to rescue a bogged French cannon at Paper Bridge.
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Riviere_pushing_the_cannon_forward_at_Sontay.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>105.761476,21.041489,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Second Carnatic War (1748–1754)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Death_of_the_Nabob_of_the_Carnatic_by_Paul_Philipoteaux.jpg/417px-Death_of_the_Nabob_of_the_Carnatic_by_Paul_Philipoteaux.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Second Carnatic War (1748–1754) (http://en.wikipedia.org/wiki/Carnatic_Wars#Second_Carnatic_War_.281748.E2.80.931754.29)                                                                                                                 
+Death of the Nawab Anwaruddin Muhammed Khan in a battle against the French in 1749 (by Paul Philipoteaux).
+ 
+
+(Enlarge) (http://en.wikipedia.org/wiki/File:Death_of_the_Nabob_of_the_Carnatic_by_Paul_Philipoteaux.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>79.830146,11.929946000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Caseros</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/7/77/Caseros.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Caseros http://en.wikipedia.org/wiki/Battle_of_Caseros
+
+
+(Enlarge) http://upload.wikimedia.org/wikipedia/commons/7/77/Caseros.jpg
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-58.612222,-34.602778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Chapultepec</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Chapultepec.jpg/800px-Chapultepec.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Chapultepec (http://en.wikipedia.org/wiki/Battle_of_Chapultepec)                                                                                          
+A Lithograph depicting American victory at Chapultepec.
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Chapultepec.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-99.182,19.421000000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Battle of Cherbourg</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/8/87/USS_Kearsarge_CSS_Alabama.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Cherbourg (http://en.wikipedia.org/wiki/Battle_of_Cherbourg_(1864))                                                                              
+Sinking of the CSS Alabama. by Xanthus Smith 
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:USS_Kearsarge_CSS_Alabama.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-1.695,49.7525,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Battle of Chesma</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Chios_aivaz.jpg/563px-Chios_aivaz.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Battle_of_Chesma)                      
+Painting depicts the Battle of Chesma by Ivan Konstantinovich Aivazovsky (1848). 
+
+Enlarge http://en.wikipedia.org/wiki/File:Chios_aivaz.jpg
+ 
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>26.205482,38.334655,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Churubusco</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Battle_of_Churubusco2.jpg/800px-Battle_of_Churubusco2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Churubusco (http://en.wikipedia.org/wiki/Battle_of_Churubusco)                                                                                          
+"Battle of Churubusco" by J. Cameron, published by Nathaniel Currier .
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Battle_of_Churubusco2.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-99.149116,19.356282,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Battle of Clontarf</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/%27Battle_of_Clontarf%27%2C_oil_on_canvas_painting_by_Hugh_Frazer%2C_1826.jpg/800px-%27Battle_of_Clontarf%27%2C_oil_on_canvas_painting_by_Hugh_Frazer%2C_1826.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Clontarf (http://en.wikipedia.org/wiki/Battle_of_Clontarf) 
+
+Battle of Clontarf, oil on canvas painting by Hugh Frazer, 1826, Isaacs Art Center  
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:%27Battle_of_Clontarf%27,_oil_on_canvas_painting_by_Hugh_Frazer,_1826.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-6.187019,53.353933,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Battle of Colberger Heide</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/5/5f/Christian_IV_by_Vilhelm_Marstrand.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Colberger Heide (http://en.wikipedia.org/wiki/Battle_of_Colberger_Heide)                                                                                             
+Christian IV of Denmark, Battle of Kolberg Heath, by Vilhelm Marstrand 
+ 
+(Enlarge) (http://upload.wikimedia.org/wikipedia/commons/5/5f/Christian_IV_by_Vilhelm_Marstrand.png)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>10.997314,54.654769,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Battle of Copenhagen</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/9/9b/PocockBattleOfCopenhagen.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Copenhagen (http://en.wikipedia.org/wiki/Battle_of_Copenhagen_(1801))                                                                                
+The Battle of Copenhagen, as painted by Nicholas Pocock.
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:PocockBattleOfCopenhagen.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>12.613333,55.702778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Five Forks</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Battle_of_Five_Forks_Kurz_%26_Allison.jpg/800px-Battle_of_Five_Forks_Kurz_%26_Allison.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Five Forks (http://en.wikipedia.org/wiki/Battle_of_Five_Forks)
+
+Sheridan's charge at Five Forks
+(lithograph published c.1886)
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Battle_of_Five_Forks_Kurz_%26_Allison.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-77.622778,37.139444,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Fombio</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Battaglia_di_Fombio.jpg/800px-Battaglia_di_Fombio.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Fombio
+ (http://en.wikipedia.org/wiki/Battle_of_Fombio)
+
+The Battle of Fombio Giuseppe Pietro Bagetti  
+
+
+(Enlarged) (http://en.wikipedia.org/wiki/File:Battaglia_di_Fombio.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>9.700082,45.149882,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Battle of Fuzhou</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/5/5c/BattleFoochow.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Fuzhou (http://en.wikipedia.org/wiki/Battle_of_Fuzhou)  
+
+The Battle of Fuzhou, 23 August 1884 (19th century painting)
+ 
+
+(Enlarge) (http://en.wikipedia.org/wiki/File:BattleFoochow.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>119.451111,25.976944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Gaugamela</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/d/d9/Battle_of_Gaugamela.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Gaugamela (http://en.wikipedia.org/wiki/Battle_of_Gaugamela#Location)                                                                                      
+By Jan Brueghel the Elder 
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Battle_of_Gaugamela.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>43.25,36.36,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Gettysburg</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Thure_de_Thulstrup_-_L._Prang_and_Co._-_Battle_of_Gettysburg_-_Restoration_by_Adam_Cuerden.jpg/800px-Thure_de_Thulstrup_-_L._Prang_and_Co._-_Battle_of_Gettysburg_-_Restoration_by_Adam_Cuerden.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Gettysburg (http://en.wikipedia.org/wiki/Battle_of_Gettysburg)
+
+The Battle of Gettysburg, by Thure de Thulstrup  
+
+
+(Enlarge) (http://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Thure_de_Thulstrup_-_L._Prang_and_Co._-_Battle_of_Gettysburg_-_Restoration_by_Adam_Cuerden.jpg/800px-Thure_de_Thulstrup_-_L._Prang_and_Co._-_Battle_of_Gettysburg_-_Restoration_by_Adam_Cuerden.jpg)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-77.2336,39.817,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Grunwald</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Grunwald_bitwa.jpg/800px-Grunwald_bitwa.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Grunwald (http://en.wikipedia.org/wiki/Battle_of_Grunwald)
+
+Battle of Grunwald by Jan Matejko (1878)
+
+
+
+(Enlarge): (http://en.wikipedia.org/wiki/File:Grunwald_bitwa.jpg)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>20.124722,53.486111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Hakodate</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Land_And_Naval_Battle_of_Hakodate.JPG/800px-Land_And_Naval_Battle_of_Hakodate.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Hakodate (http://en.wikipedia.org/wiki/Battle_of_Hakodate)
+
+A Japanese rendition of the Battle of Hakodate (函館戦争の図), circa 1880.
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Land_And_Naval_Battle_of_Hakodate.JPG)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>142.0,43.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Hanau </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Vernet-Battle_of_Hanau.jpg/800px-Vernet-Battle_of_Hanau.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Hanau (http://en.wikipedia.org/wiki/Battle_of_Hanau) 
+
+Horace Vernet's painting "Battle of Hanau", held at the National Gallery.
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Vernet-Battle_of_Hanau.jpg)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>8.91661,50.13321,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of the Hydaspes</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Le_Brun%2C_Alexander_and_Porus.jpg/800px-Le_Brun%2C_Alexander_and_Porus.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of the Hydaspes (http://en.wikipedia.org/wiki/Battle_of_the_Hydaspes)                                                                                     
+A painting by Charles Le Brun depicting Alexander and Porus during the Battle of the Hydaspes.
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Le_Brun,_Alexander_and_Porus.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>73.5167,32.65,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Indus (1221)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/During_the_battle_of_Indus.jpg/200px-During_the_battle_of_Indus.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Indus (1221) (http://en.wikipedia.org/wiki/Battle_of_Indus)
+
+By Mas'ud b. Osmani Kuhistani
+ 
+
+(Enlarge) (http://en.wikipedia.org/wiki/File:During_the_battle_of_Indus.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>67.763672,24.312059,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Isandlwana</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Isandhlwana.jpg/800px-Isandhlwana.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Isandlwana (http://en.wikipedia.org/wiki/Battle_of_Isandlwana)                                                                                         
+The Battle of Isandlwana (Charles Edwin Fripp 
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Isandhlwana.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>30.652500000000003,-28.358889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Issus</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/a/ae/Battle_of_Issus.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Issus (http://en.wikipedia.org/wiki/Battle_of_Issus) 
+
+Alexander battling Darius at the Battle of Issus (Naples National Archaeological Museum  
+
+(Enlarge) (http://en.wikipedia.org/wiki/File:Battle_of_Issus.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>36.211109,36.837894,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Jersey - The Death of Major Peirson</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/John_Singleton_Copley_001.jpg/800px-John_Singleton_Copley_001.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/The_Death_of_Major_Peirson)                                                                               
+The Death of Major Peirson, 6 January 1781, oil on canvas, by John Singleton Copley 
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-2.107,49.187000000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Siege of Jerusalem (1099)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Counquest_of_Jeusalem_%281099%29.jpg/800px-Counquest_of_Jeusalem_%281099%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Siege of Jerusalem (1099)
+
+Capture of Jerusalem by the Crusaders by Émile Signol (http://en.wikipedia.org/wiki/%C3%89mile_Signol) 
+ 
+
+(Enlarge)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>35.208778,31.768748000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>First Campaign Against Jinchuan</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Reconquer_the_little_Goldstreamland.jpg/800px-Reconquer_the_little_Goldstreamland.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: First Campaign Against Jinchuan (http://en.wikipedia.org/wiki/Ten_Great_Campaigns#Suppression_of_the_Jinchuan_hill_peoples_.281747.E2.80.931749.2C_1771.E2.80.931776.29)
+
+Depiction of Qing troops campaigning in the land of the Jinchuan "the Little Gold Stream"
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Reconquer_the_little_Goldstreamland.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>103.472843,31.309208,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Karbala</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/e/e9/Brooklyn_Museum_-_Battle_of_Karbala_-_Abbas_Al-Musavi_-_overall.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Karbala (http://en.wikipedia.org/wiki/Battle_of_Karbala)
+                
+Abbas Al-Musavi - Battle of Karbala - Brooklyn Museum
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Brooklyn_Museum_-_Battle_of_Karbala_-_Abbas_Al-Musavi_-_overall.jpg)
+
+Wikipedia Commons / Pulbic Domain
+gift of K. Thomas Elghanayan in honor of Nourollah Elghanayan]]></description>
+			<Point>
+				<coordinates>44.033333,32.616667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Battle of the Kentish Knock</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/0/08/Abraham_Willaerts%2C_First_Dutch_War.jpeg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of the Kentish Knock (http://en.wikipedia.org/wiki/Battle_of_the_Kentish_Knock)                                                                              
+This painting, Action between ships in the First Dutch War, 1652–1654 by Abraham Willaerts, may depict the Battle of the Kentish Knock. 
+ 
+
+(Enlarge) (http://en.wikipedia.org/wiki/File:Abraham_Willaerts,_First_Dutch_War.jpeg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>1.198883,51.49763,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Khotyn (1621)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/5/57/Jan_Karol_Chodkiewicz_in_Chocim_1621.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Khotyn (1621) (http://en.wikipedia.org/wiki/Battle_of_Khotyn_(1621))                                                                                                
+Battle of Chocim, by Józef Brandt 
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Jan_Karol_Chodkiewicz_in_Chocim_1621.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>26.49353,48.418264,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Kircholm</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Kirholm_1605_I.JPG/800px-Kirholm_1605_I.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Kircholm (http://en.wikipedia.org/wiki/Battle_of_Kircholm)
+             
+A 1630 painting by Pieter Snayers
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Kirholm_1605_I.JPG)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>24.342785,56.85122500000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Kolding (1658) (Sønderborg)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Brandt_Czarniecki_at_Kolding.jpg/800px-Brandt_Czarniecki_at_Kolding.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Kolding (1658) (http://en.wikipedia.org/wiki/Battle_of_Kolding_(1658))                                                                                         
+Stefan Czarniecki of the Polish-Lithuanian Commonwealth during the Battle of Kolding (1658). In fact the painting depicts Stefan Czarniecki during the battle of Sønderborg, not Kolding. by Józef Brandt
+ 
+
+(Enlarge) (http://en.wikipedia.org/wiki/File:Brandt_Czarniecki_at_Kolding.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>9.78899,54.903955,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of La Higueruela</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Battle_of_Higueruela.jpg/800px-Battle_of_Higueruela.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of La Higueruela (http://en.wikipedia.org/wiki/Battle_of_La_Higueruela)                                                                                                
+The Battle of Higueruela as depicted in the Gallery of Battles at the Royal Monastery of San Lorenzo de El Escorial, Spain.
+
+(Enlarge) (http://en.wikipedia.org/wiki/File:Battle_of_Higueruela.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-3.598557,37.177336,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Battle of Lake Maracaibo</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Acci%C3%B3n_del_castillo_de_Maracaibo.jpg/800px-Acci%C3%B3n_del_castillo_de_Maracaibo.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Lake Maracaibo (http://en.wikipedia.org/wiki/Battle_of_Lake_Maracaibo)                                                                                       
+Painting by José María Espinosa Prieto (1796-1883)
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Acci%C3%B3n_del_castillo_de_Maracaibo.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-71.543655,10.655884,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Lawfeld</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/1/1c/Bataille_de_Lawfeld%2C_2_juillet_1747.jpeg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Lawfeld (http://en.wikipedia.org/wiki/Battle_of_Lawfeld)                                      
+Louis XV pointing out the village of Lawfeld to Maurice de Saxe, Auguste Couder, Galerie des Batailles 
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Bataille_de_Lawfeld,_2_juillet_1747.jpeg)
+
+Wikipedia Commons /Public Domain]]></description>
+			<Point>
+				<coordinates>5.599689,50.800287,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Battle of Lepanto</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Battle_of_Lepanto_1571.jpg/800px-Battle_of_Lepanto_1571.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Lepanto (http://en.wikipedia.org/wiki/Battle_of_Lepanto) 
+
+National Maritime Museum painting. 
+
+(Enlarge) (http://en.wikipedia.org/wiki/File:Battle_of_Lepanto_1571.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>21.3,38.2,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Battle of Lissa (1811)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/5/50/Battle_of_Lissa.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Lissa (1811) (http://en.wikipedia.org/wiki/Battle_of_Lissa_(1811))                                                                                           
+Battle of Lissa, 13 March 1811
+Engraved by Henri Merke after a painting by George Webster  
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Battle_of_Lissa.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>16.171667,43.089167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of the Little Bighorn</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Charles_Marion_Russell_-_The_Custer_Fight_%281903%29.jpg/800px-Charles_Marion_Russell_-_The_Custer_Fight_%281903%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of the Little Bighorn (http://en.wikipedia.org/wiki/Battle_of_the_Little_Bighorn)                                                                                   
+"The Custer Fight" by Charles Marion Russell.
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Charles_Marion_Russell_-_The_Custer_Fight_(1903).jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-107.42888900000001,45.565,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Loano</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/d/d6/Battle_of_Loano.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Loano (http://en.wikipedia.org/wiki/Battle_of_Loano)
+
+Battle of Loano, by Hippolyte Bellangé  
+ 
+(Enlarged) (http://en.wikipedia.org/wiki/File:Battle_of_Loano.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>8.224812,44.119634,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Lodi</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/General_Bonaparte_giving_orders_at_the_Battle_of_Lodi.jpg/797px-General_Bonaparte_giving_orders_at_the_Battle_of_Lodi.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Lodi (http://en.wikipedia.org/wiki/Battle_of_Lodi)
+
+General Bonaparte gives his orders, in The Battle of Lodi, byLouis-François, Baron Lejeune 
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:General_Bonaparte_giving_orders_at_the_Battle_of_Lodi.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>9.508066,45.318931,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Marignano</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/8/88/Francis_at_Marignan.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Marignano (http://en.wikipedia.org/wiki/Battle_of_Marignano)
+
+Francis I Orders His Troops to Stop Pursuing the Swiss, a Romantic 19th century work by Alexandre-Évariste Fragonard (Galerie des Batailles).
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Francis_at_Marignan.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>9.317271,45.367078,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Battle of Mobile Bay</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/4/48/Bataille_de_la_baie_de_Mobile_par_Louis_Prang_%281824-1909%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Mobile Bay (http://en.wikipedia.org/wiki/Battle_of_Mobile_Bay)                                                                                            
+Battle of Mobile Bay, by Louis Prang.
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Bataille_de_la_baie_de_Mobile_par_Louis_Prang_(1824-1909).jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-88.053017,30.240976,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Mohács (1687)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/a/ae/Battle_of_Moh%C3%A1cs_1687.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Mohács (1687) (http://en.wikipedia.org/wiki/Battle_of_Moh%C3%A1cs_(1687))                                                                             
+Ludwig Wilhelm and Charles of Lorraine  at the Battle of Mohács. Painting by Wilhelm Camphausen, 19th century
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Battle_of_Moh%C3%A1cs_1687.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>18.409444000000004,45.85125000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Fire of Moscow (1812)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/f/f3/Fireofmoscow.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Fire of Moscow (1812)
+ (http://en.wikipedia.org/wiki/Fire_of_Moscow_(1812))                                                                                          
+Napoleon retreating from the burning Moscow by Viktor Mazurovsky
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Fireofmoscow.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>37.612038,55.751161,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Battle of Navarino</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/ce/Naval_Battle_of_Navarino_by_Garneray.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Navarino (http://en.wikipedia.org/wiki/Battle_of_Navarino)
+
+The Naval Battle of Navarino (1827). Oil painting by Garneray  
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Naval_Battle_of_Navarino_by_Garneray.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>21.687778,36.935833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Nicopolis</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/c6/Nicopol_final_battle_1398.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Nicopolis (http://en.wikipedia.org/wiki/Battle_of_Nicopolis) 
+
+Battle of Nicopolis
+(Note the counterfactual depiction of siege weapons)
+ 
+
+(Enlarge) (http://en.wikipedia.org/wiki/File:Nicopol_final_battle_1398.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>24.895833,43.705833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle at Nzera Kum </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://2.bp.blogspot.com/-8s956Fl1634/TnhsidXHanI/AAAAAAAAAak/9BgfACUYluE/s400/Stanley+at+Nzera+Kum+Hill.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Book: In darkestAfrica / Page 309
+
+“From the crest of Nzera Kum we could command a view east and west of all the northern face of the high range, and away over the summit lines of the horse-shoe ridge across the Ituri branch. Fifty rifles could hold a camp on such a position against a thousand.”
+ 
+Public Domain]]></description>
+			<Point>
+				<coordinates>30.084257,1.405251,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Battle of Öland</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/0/07/Slaget_ved_oland_maleri_av_claus_moinichen_1686.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Öland (http://en.wikipedia.org/wiki/Battle_of_%C3%96land)                                                                                       
+Oil painting by Claus Møinichen showing how Kronan founders and explodes while Svärdet is surrounded by the allied admirals
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Slaget_ved_oland_maleri_av_claus_moinichen_1686.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>17.127686,56.695458,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Oltenița</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Battle_of_Oltenitza.jpg/790px-Battle_of_Oltenitza.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Oltenița (http://en.wikipedia.org/wiki/File:Battle_of_Oltenitza.jpg)
+
+
+(Enlarge) (http://en.wikipedia.org/wiki/File:Battle_of_Oltenitza.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>26.636509,44.086745,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Omdurman</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/8/8e/Omdurman2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Omdurman (http://en.wikipedia.org/wiki/Battle_of_Omdurman)
+
+The Battle of Omdurman, 1898, from the Purton Museum, England. 
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:21lancers.JPG)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>32.506142,15.766979,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Siege of Orléans</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Lenepveu%2C_Jeanne_d%27Arc_au_si%C3%A8ge_d%27Orl%C3%A9ans.jpg/432px-Lenepveu%2C_Jeanne_d%27Arc_au_si%C3%A8ge_d%27Orl%C3%A9ans.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Siege of Orléans (http://en.wikipedia.org/wiki/Siege_of_Orl%C3%A9ans)                                                                                           
+Joan of Arc at the Siege of Orléans by Jules Eugène Lenepveu, painted 1886–1890
+
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Lenepveu,_Jeanne_d%27Arc_au_si%C3%A8ge_d%27Orl%C3%A9ans.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>1.904197,47.897988,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Oriskany</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Herkimer_at_oriskany.jpg/800px-Herkimer_at_oriskany.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Oriskany (http://en.wikipedia.org/wiki/Battle_of_Oriskany)
+
+Herkimer at the Battle of Oriskany
+Painting by F.C. Yohn, c. 1901,
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Herkimer_at_oriskany.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-75.37,43.176667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Ostia</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Raphael_Ostia.jpg/800px-Raphael_Ostia.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Ostia (http://en.wikipedia.org/wiki/Battle_of_Ostia)                      
+Raphael's fresco The Battle of Ostia, an indication of the battle's legendary fame
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Raphael_Ostia.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>12.282359,41.750442,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Palo Alto</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/6/64/Palo_Alto_nebel.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Palo Alto (http://en.wikipedia.org/wiki/Battle_of_Palo_Alto)
+
+Painting by Carl Nebel                                                            
+(Enlarge) (http://en.wikipedia.org/wiki/File:Palo_Alto_nebel.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-97.46538,26.02007,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Battle of Punta Malpelo (approximated)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/9/91/Combat_de_Malpelo..jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Punta Malpelo (http://en.wikipedia.org/wiki/Battle_of_Punta_Malpelo)                                                                                          
+A painting depicting the naval battle of Malpelo, from the pictoric collection of the Peruvian Naval Museum 
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Combat_de_Malpelo..jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-80.495453,-3.479153,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Quatre Bras</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Butler_Lady_Quatre_Bras_1815.jpg/800px-Butler_Lady_Quatre_Bras_1815.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Quatre Bras (http://en.wikipedia.org/wiki/Battle_of_Quatre_Bras)                                                                                           
+"The 28th Regiment at Quatre Bras" by Elizabeth Thompson
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Butler_Lady_Quatre_Bras_1815.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>4.452961,50.57113,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Quebec</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Death_of_Montgomery.jpg/800px-Death_of_Montgomery.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Quebec (http://en.wikipedia.org/wiki/Battle_of_Quebec_(1775))                                                                                  
+The Death of Montgomery in the Attack on Quebec  by John Trumbell (1787)
+
+
+(Enlarge) (http://en.wikipedia.org/wiki/File:Death_of_Montgomery.jpg)
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-71.262817,46.80241,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Battle of Quiberon Bay</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Quibcardinaux2.jpg/800px-Quibcardinaux2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Quiberon Bay (http://en.wikipedia.org/wiki/Battle_of_Quiberon_Bay#Battle)                                                                          
+The Battle of Quiberon Bay, Nicholas Pocock,1812. National Maritime Museum 
+
+
+(Enlarge) (http://en.wikipedia.org/wiki/File:Quibcardinaux2.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-3.0000000000000004,47.516667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Raszyn (1809)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/1/14/Raszyn_1809.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Raszyn (1809) (http://en.wikipedia.org/wiki/Battle_of_Raszyn_(1809))                                                                                   
+Death of Cyprian Godebski in the Battle of Raszyn
+1855 painting by January Suchodolski. oil on canvas, National Museum in Warsaw 
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Raszyn_1809.JPG)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>20.926321,52.158834,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Rorke's Drift</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Alphonse_de_Neuville_-_The_defence_of_Rorke%27s_Drift_1879_-_Google_Art_Project.jpg/800px-Alphonse_de_Neuville_-_The_defence_of_Rorke%27s_Drift_1879_-_Google_Art_Project.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Rorke's Drift (http://en.wikipedia.org/wiki/Battle_of_Rorke%27s_Drift)                                                                                     
+The Defence of Rorke's Drift, by Alphonse de Neuville (1882)
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Alphonse_de_Neuville_-_The_defence_of_Rorke%27s_Drift_1879_-_Google_Art_Project.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>30.534166999999997,-28.349167000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of San Jacinto</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/The_Battle_of_San_Jacinto_%281895%29.jpg/800px-The_Battle_of_San_Jacinto_%281895%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikpedia: Battle of San Jacinto (http://en.wikipedia.org/wiki/Battle_of_San_Jacinto)                                                                                                  
+The Battle of San Jacinto-1895 painting by Henry Arthur McArdle  (1836–1908)
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:The_Battle_of_San_Jacinto_(1895).jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-95.081424,29.749253,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of San Lorenzo</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/2/25/San_Lorenzo.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikpedia: Battle of San Lorenzo (http://en.wikipedia.org/wiki/Battle_of_San_Lorenzo)                                                                                      
+Painting of the battle by Ángel della Valle.
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:San_Lorenzo.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-60.72881700000001,-32.745992,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of San Pasqual</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/5/50/SanPasqual.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of San Pasqual (http://en.wikipedia.org/wiki/Battle_of_San_Pasqual)                                                                                            
+Battle of San Pasqual painting Colonel Charles Woodhouse, US Marine Corp Reserves
+(see in terrain mode)
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:SanPasqual.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-116.999588,33.079172,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Poltava</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/e/e9/Marten%27s_Poltava.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Poltava (http://en.wikipedia.org/wiki/Battle_of_Poltava)
+
+By Pierre-Denis Martin
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Marten%27s_Poltava.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>34.586334,49.573294,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Battle of Salvore</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Domenico_Tintoretto_-_Battle_of_Salvore_-_WGA19632.jpg/800px-Domenico_Tintoretto_-_Battle_of_Salvore_-_WGA19632.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wiikipedia: Battle of Salvore (http://en.wikipedia.org/wiki/Battle_of_Salvore)
+
+Painting of the battle by Domenico Tintoretto.
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Domenico_Tintoretto_-_Battle_of_Salvore_-_WGA19632.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>13.51181,45.516452,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of San Romano</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Uccello_Battle_of_San_Romano_Uffizi.jpg/800px-Uccello_Battle_of_San_Romano_Uffizi.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of San Romano
+ (http://en.wikipedia.org/wiki/Battle_of_San_Romano)                                                                                       
+Paolo Uccello Painting: Niccolò da Tolentino leading the Florentine cavalry;
+ 
+
+(Enlarge) (http://en.wikipedia.org/wiki/File:Uccello_Battle_of_San_Romano_Uffizi.jpg)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>10.94101,43.416021,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Battle of the Spanish Armada</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Senyeres-Invencible-Plymouth.jpg/1050px-Senyeres-Invencible-Plymouth.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Spanish Armada (http://en.wikipedia.org/wiki/Spanish_Armada)
+
+Elizabeth I and the Spanish Armada; the Apothecaries painting,[32] sometimes attributed to Nicholas Hilliard. A stylised depiction of key elements of the Armada story: the alarm beacons, Queen Elizabeth at Tilbury, and the sea battle at Gravelines.
+
+
+(Enlarge) (http://en.wikipedia.org/wiki/File:Senyeres-Invencible-Plymouth.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-4.261667,50.166667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Siege of Sevastopol (1854–55)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/75/William_Simpson_-_Attack_on_the_Malakoff.jpg/800px-William_Simpson_-_Attack_on_the_Malakoff.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Siege of Sevastopol (1854–55) (http://en.wikipedia.org/wiki/Siege_of_Sevastopol_(1854%E2%80%9355)
+
+Attack on the Malakoff by William Simpson 
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:William_Simpson_-_Attack_on_the_Malakoff.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>33.54789,44.604631,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Russian conquest of Siberia (approximated)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Surikov_Pokoreniye_Sibiri_Yermakom.jpg/800px-Surikov_Pokoreniye_Sibiri_Yermakom.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Russian conquest of Siberia (http://en.wikipedia.org/wiki/Russian_conquest_of_Siberia)                                                                             
+Yermak's Conquest of Siberia, a painting by Vasily Surikov 
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>68.322601,58.17721999999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle for Sơn Tây </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Prise_de_Son_Tay.jpg/507px-Prise_de_Son_Tay.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle for Sơn Tây (http://en.wikipedia.org/wiki/Son_Tay_Campaign#The_battle_for_Son_Tay)
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Prise_de_Son_Tay.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>105.500906,21.140822,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Battle of Svolder</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Svolder%2C_by_Otto_Sinding.jpg/800px-Svolder%2C_by_Otto_Sinding.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Svolder (http://en.wikipedia.org/wiki/Battle_of_Svolder)
+
+The Battle of Svolder, by Otto Sinding  
+
+
+(Enlarge) (http://en.wikipedia.org/wiki/File:Svolder,_by_Otto_Sinding.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>12.75,55.75,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle at Tápióbicske</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Than_tapiobicskei_utk%C3%B6zet2_1849_aprilis_4.jpg/800px-Than_tapiobicskei_utk%C3%B6zet2_1849_aprilis_4.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Than_tapiobicskei_utk%C3%B6zet2_1849_aprilis_4.jpg/800px-Than_tapiobicskei_utk%C3%B6zet2_1849_aprilis_4.jpg)
+ 
+Battle at Tápióbicske, watercolor on paper, by Mór Than between 1849 and 1850.
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>19.684039,47.367266,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Tétouan</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/MARIANO_FORTUNY_-_La_Batalla_de_Tetu%C3%A1n_%28Museo_Nacional_de_Arte_de_Catalu%C3%B1a%2C_1862-64._%C3%93leo_sobre_lienzo%2C_300_x_972_cm%29.jpg/800px-MARIANO_FORTUNY_-_La_Batalla_de_Tetu%C3%A1n_%28Museo_Nacional_de_Arte_de_Catalu%C3%B1a%2C_1862-64._%C3%93leo_sobre_lienzo%2C_300_x_972_cm%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Commons: Battle of Tétouan (http://en.wikipedia.org/wiki/Battle_of_T%C3%A9touan)                                                                                     
+The battle painted by Mariano Fortuny - a collection of Morohashi Modern Art Museum
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:MARIANO_FORTUNY_-_La_Batalla_de_Tetu%C3%A1n_(Museo_Nacional_de_Arte_de_Catalu%C3%B1a,_1862-64._%C3%93leo_sobre_lienzo,_300_x_972_cm).jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-5.366821,35.58752700000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Tours</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Steuben_-_Bataille_de_Poitiers.png/729px-Steuben_-_Bataille_de_Poitiers.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Tours (http://en.wikipedia.org/wiki/Battle_of_Tours)
+
+Charles de Steuben's Bataille de Poitiers en octobre 732 depicts a triumphant Charles Martel (mounted) facing ‘Abdul Rahman Al Ghafiqi (right) at the Battle of Tours.
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Steuben_-_Bataille_de_Poitiers.png)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>0.521851,46.720799,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Battle of Trafalgar</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Joseph_Mallord_William_Turner_027.jpg/800px-Joseph_Mallord_William_Turner_027.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Trafalgar (http://en.wikipedia.org/wiki/Battle_of_Trafalgar)
+
+The Battle of Trafalgar, as seen from the mizzen
+starboard shrouds of the Victory by J. M. W. Turner (oil on canvas, 1806 to 1808)
+
+
+(Enlarge) (http://en.wikipedia.org/wiki/File:Joseph_Mallord_William_Turner_027.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-6.25534,36.29299,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Siege of Tripoli (1551)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/3/3f/Capture_of_Tripoli_by_the_Ottomans_1551.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Siege of Tripoli (1551) (http://en.wikipedia.org/wiki/Siege_of_Tripoli_(1551))                                                                                           
+Attack on Tripoli by the Ottomans.
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Capture_of_Tripoli_by_the_Ottomans_1551.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>13.185833,32.902222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-71</styleUrl>
+			<name>Battle of Tunis (1569)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Ottoman_Army_Marching_On_The_City_Of_Tunis_In_1569_Ce.jpg/426px-The_Ottoman_Army_Marching_On_The_City_Of_Tunis_In_1569_Ce.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Tunis (1569) (http://en.wikipedia.org/wiki/Tunisia#Ottoman_Tunisia)                                                                                   
+The Ottoman Army marching on Tunis in 1569
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:The_Ottoman_Army_Marching_On_The_City_Of_Tunis_In_1569_Ce.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>10.178833,36.813683,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Battle of Vicksburg</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/VicksburgBlockade.jpg/800px-VicksburgBlockade.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Vicksburg (http://en.wikipedia.org/wiki/Vicksburg_Campaign)
+
+Lithograph of the Mississippi River Squadron running the Confederate blockade at Vicksburg on April 16, 1863.
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:VicksburgBlockade.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-90.904312,32.320214,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Vienna</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Battle_of_Vienna_1683_11.PNG/800px-Battle_of_Vienna_1683_11.PNG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Vienna (http://en.wikipedia.org/wiki/Battle_of_Vienna)  
+
+Battle of Vienna on 12 September 1683
+
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Battle_of_Vienna_1683_11.PNG)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>16.379929,48.211405,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Waterloo</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Battle_of_Waterloo_1815.PNG/800px-Battle_of_Waterloo_1815.PNG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Waterloo (http://en.wikipedia.org/wiki/Battle_of_Waterloo) 
+
+Battle of Waterloo by William Sadler  
+
+
+(Enlarge) (http://en.wikipedia.org/wiki/File:Battle_of_Waterloo_1815.PNG)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>4.413242,50.681232,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Battle of Valcour Island</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/ce/BattleOfValcourIsland_watercolor.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Valcour Island (http://en.wikipedia.org/wiki/Battle_of_Valcour_Island)                                                                                          
+Royal Savage is shown run aground and burning, while British ships fire on her (watercolor by unknown artist, ca. 1925)
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:BattleOfValcourIsland_watercolor.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-73.430386,44.61039,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Valmy</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Valmy_Battle_painting.jpg/800px-Valmy_Battle_painting.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Valmy (http://en.wikipedia.org/wiki/Battle_of_Valmy) 
+
+Painting of the battle of Valmy by Horace Vernet from 1826. The white uniformed infantry to the right are regulars while the blue coated ranks to the left are from the citizen volunteers of 1791.
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Valmy_Battle_painting.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>4.765556,49.079444,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Yesil Kol Nor (approximated)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Yesil-kol-nor.jpg/800px-Battle_of_Yesil-kol-nor.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Yesil Kol Nor (http://en.wikipedia.org/wiki/Battle_of_Yesil_Kol_Nor)                                                                                             
+Part of the Ten Great Campaigns  
+ 
+Location: somewhere east of Yarkland, west of the Black (Ejin) River that has mountains like shown in the painting. (see terrain mode)
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Battle_of_Yesil-kol-nor.jpg)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>86.132813,42.252918,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Surrender of Lord Cornwallis (Siege at Yorktown)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/800px-Surrender_of_Lord_Cornwallis.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Surrender of Lord Cornwallis (http://en.wikipedia.org/wiki/Siege_of_Yorktown)
+ 
+(Enlarge) (http://en.wikipedia.org/wiki/File:Surrender_of_Lord_Cornwallis.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-76.506042,37.228552,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Zorndorf</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/9/98/Battle_of_Zorndorf.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Battle of Zorndorf (http://en.wikipedia.org/wiki/Battle_of_Zorndorf) 
+
+Painting by Alexander Kotzebue   
+
+
+(Enlarge) (http://en.wikipedia.org/wiki/File:Battle_of_Zorndorf.jpg)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>14.666667000000002,52.65,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1387'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1387-rec-sailing.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1433'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1433-trans-ferry.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-71'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

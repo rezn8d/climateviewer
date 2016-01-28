@@ -1,0 +1,2206 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1471</styleUrl>
+			<name>Apply today's weather to this climate map!</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://2.bp.blogspot.com/-oShT9KIy0Yw/UWRS926maJI/AAAAAAAAEsg/o5OVB7wZ3qY/s320/Climate+close+up.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Unfortunately Google discontinued the weather option in Google Map. However, the weather layer is still available in this Google Earth KML file. (https://docs.google.com/file/d/0B52hHMRyBvEsbnBTUEJ1RW50TGc/edit)
+
+
+
+(C) Google]]></description>
+			<Point>
+				<coordinates>-124.10156200000002,-66.3727547,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Source of Information</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: Köppen climate classification (http://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification)]]></description>
+			<Point>
+				<coordinates>-152.929687,-60.586967,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Köppen climate classifications map</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Koppen_World_Map_%28retouched_version%29.png/800px-Koppen_World_Map_%28retouched_version%29.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/File:Koppen_World_Map.png)
+
+Wikipedia Commons / World_Koppen_Map.png (http://commons.wikimedia.org/wiki/File:World_Koppen_Map.png): Peel, M. C., Finlayson, B. L., and McMahon, T. A.(University of Melbourne)]]></description>
+			<Point>
+				<coordinates>-166.289062,-60.586967,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Visual Library of Climate Classifications</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[To make it easier to understand the climate classifications, I made a visual library of each classification terminology in this map. (http://myreadingmapped.blogspot.com/2013/08/a-visual-library-of-climate.html) 
+
+
+For example:
+Group C: Mild Temperate/mesothermal climates: (http://en.wikipedia.org/wiki/Climate_zone#GROUP_C:_Mild_Temperate.2Fmesothermal_climates)
+
+
+(Cfc) = Maritime Subarctic climates or
+Subpolar Oceanic climates
+.
+©Google and MyReadingMapped]]></description>
+			<Point>
+				<coordinates>-165.7617185,11.523087600000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>Digitally walk this map in Google Earth 3d</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Non-Networked Google Earth KLM file. (https://docs.google.com/file/d/0B52hHMRyBvEsd2QxSXI4aEZuT2s/edit)]]></description>
+			<Point>
+				<coordinates>-133.59375,-5.266008,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps on History</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>-124.10156200000002,-60.413852,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>Disclaimer: accuracy of identifying the various classifications</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Note: In the process of making my Google Map of the above Köppen Climate Classification map, I found it difficult at times to discern one color from the other when one color impacts on an other and altering the subtle differences in shade or hue. The colors are very distinct when shown in the legend at the bottom against a white background, but are not so distinct when applied to the map itself where the colors touch each other making them brighter or darker depending on the surrounding colors. For example, telling the difference between a Dwa and a Dwb is not so easy in all areas, so I did the best I could to be accurate.]]></description>
+			<Point>
+				<coordinates>-140.273437,-66.51326,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Human related climate issues</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-167.34375,-66.51326,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1469</styleUrl>
+			<name>Environmental Migrations</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-155.742187,-66.51326,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Other Google Maps on Climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- Google Map of Climate Change (2000 - 2012) (http://myreadingmapped.blogspot.com/2012/12/google-map-of-climate-change-2000-2012.html)]]></description>
+			<Point>
+				<coordinates>-139.570312,-60.413852,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1151</styleUrl>
+			<name>View a Cyclone in Google Earth</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://2.bp.blogspot.com/-zovS-W3G3c8/UmpPkugACaI/AAAAAAAAGO0/HCUx7kdf__I/s400/Inside+the+eye+of+a+cyclone+in+Google+Earth.JPG http://2.bp.blogspot.com/-7NJbga_f67Y/UmpTlrG7vsI/AAAAAAAAGO8/UDI7rIxHvLI/s400/Under+a+cyclone+in+Google+Earth.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Cyclone southwest of Japan on 10/25/2013 in
+Google Earth with the Weather layer turned on.
+
+
+
+Under the same Cyclone.]]></description>
+			<Point>
+				<coordinates>144.253597,26.334439000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-4186F0</styleUrl>
+			<name>(Am) = Tropical Monsoon Climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Tropical_monsoon_climate)
+ 
+Tropical monsoon climate, occasionally also known as a tropical wet climate or tropical monsoon and trade-wind littoral climate in climate classification, is a relatively rare type of climate that corresponds to the Köppen climate classification category "Am."                                                    
+Tropical monsoon climates have monthly mean temperatures above 18°C in every month of the year and feature wet  and dry  seasons, as Tropical savanna climates do. Unlike tropical savanna climates however, a tropical monsoon climate's driest month sees less than 60 mm of precipitation but more than (100 − [total annual precipitation {mm}/25]). Also a tropical monsoon climate tends to see less variance in temperatures during the course of the year than a tropical savanna climate. This climate has a driest month which nearly always occurs at or soon after the "winter" solstice for that side of the equator.                                                                                                       More... (http://en.wikipedia.org/wiki/Tropical_monsoon_climate)]]></description>
+			<Point>
+				<coordinates>-169.101562,-42.55308,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>(Aw) = Tropical wet and dry or savanna climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Tropical_savanna_climate)                                                                                       
+Tropical savanna climate or tropical wet and dry climate is a type of climate that corresponds to the Köppen climate classification categories "Aw" and '"As. "                                                                               
+Tropical savanna climates have monthly mean temperature above 18 °C (64°F) in every month of the year and typically a pronounced dry season, with the driest month having precipitation less than 60 mm and also less than (100 − [total annual precipitation {mm}/25]).This latter fact is in direct contrast to a tropical monsoon climate, whose driest month sees less than 60 mm of precipitation but has more than (100 – [total annual precipitation {mm}/25]). In essence, a tropical savanna climate tends to either see less rainfall than a tropical monsoon climate or have more pronounced dry seasons. 
+Sometimes As is used in place of Aw if the dry season occurs during the time of higher sun and longer days. This is the case in parts of Hawaii, East Africa (Mombasa, Kenya) and Sri Lanka  (Trincomalee, for instance. In most places that have tropical wet and dry climates, however, the dry season occurs during the time of lower sun and shorter days because of rain shadow effects during the 'high-sun' part of the year.                                                                                                                                                                             More... (http://en.wikipedia.org/wiki/Tropical_savanna_climate)]]></description>
+			<Point>
+				<coordinates>-169.101562,-50.958427,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-F8971B</styleUrl>
+			<name>Dry (arid and semiarid) Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Climate_zone#GROUP_B:_Dry_.28arid_and_semiarid.29_climates)                             
+These climates are characterized by the fact that actual precipitation is less than a threshold value set equal to the potential evapotranspiration. The threshold value (in millimeters) is determined as follows:                                                                                    
+- Multiply the average annual temperature in °C by 20, then add (a) 280 if 70% or more of the total precipitation is in the high-sun half of the year (April through September in the Northern Hemisphere, or October through March in the Southern), or (b) 140 if 30%–70% of the total precipitation is received during the applicable period, or (c) 0 if less than 30% of the total precipitation is so received.                                                    
+- If the annual precipitation is less than 50% of this threshold, the classification is BW (desert climate); if it is in the range of 50%-100% of the threshold, the classification is BS (steppe climate).   
+- A third letter can be included to indicate temperature. Originally, h signified low latitude climate (average annual temperature above 18 °C) while k signified middle latitude climate (average annual temperature below 18 °C/64 °F), but the more common practice today (especially in the United States) is to use h to mean that the coldest month has an average temperature that is above 0 °C (32 °F), with k denoting that at least one month averages below 0 °C.
+ 
+- Desert areas situated along the west coasts of continents at tropical or near-tropical locations are characterized by cooler temperatures than encountered elsewhere at comparable latitudes (due to the nearby presence of cold ocean currents) and frequent fog and low clouds, despite the fact that these places rank among the driest on earth in terms of actual precipitation received. This climate is sometimes labelled BWn and examples can be found at Lima, Peru, and Walvis Bay, Namibia. The BSn category can be found in foggy coastal steppes.                                                      
+- On occasion, a fourth letter is added to indicate if either the winter or summer is "wetter" than the other half of the year. To qualify, the wettest month must have at least 60 mm (2.4 in) of average precipitation if all twelve months are above 18 °C (64 °F), or 30 mm (1.2 in) if not; plus at least 70% of the total precipitation must be in the same half of the year as the wettest month — but the letter used indicates when the dry season occurs, not the "wet" one. This would result in Khartoum, Sudan, being reckoned as BWhw; Niamey, Niger, as BShw; El Arish, Egypt, as BWhs, Asbi'ah, Libya, as BShs; Ömnögovi Province, Mongolia, as BWkw; and Xining, Qinghai, China, as BSkw (BWks and BSks do not exist if 0 °C in the coldest month is recognized as the h/k boundary). If the standards for neither w nor s are met, no fourth letter is added.]]></description>
+			<Point>
+				<coordinates>-156.8847656,-31.653381499999995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F8971B</styleUrl>
+			<name>(BW) = Dry (arid and semiarid) Desert Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification#GROUP_B:_Dry_.28arid_and_semiarid.29_climates)
+
+If the annual precipitation is less than 50% of this threshold, the classification is BW (desert climate).]]></description>
+			<Point>
+				<coordinates>-156.796875,-43.068888,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BS) = Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification#GROUP_B:_Dry_.28arid_and_semiarid.29_climates)
+
+If the annual precipitation is in the range of 50%-100% of the threshold, the classification is BS (steppe climate).]]></description>
+			<Point>
+				<coordinates>-157.148437,-51.399206,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-F4EB37</styleUrl>
+			<name>Mild Temperate/mesothermal climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Climate_zone#GROUP_C:_Mild_Temperate.2Fmesothermal_climates)
+ 
+These climates have an average temperature above 10 °C (50 °F) in their warmest months(April to September in northern hemisphere), and a coldest month averagebetween −3 °C (27 °F) and 18 °C (64 °F).                                                                               
+Some climatologists, particularly in the United States, however, prefer to observe 0 °C (32 °F) rather than −3 °C (27 °F) in the coldest month as the boundary between this group and the colder Group D (Humid Continental).This is also done to prevent certain mild headland locations on the upper East Coast of the USA and Japan from fitting into the C group.                                                             
+When the boundary between C (Mild Temperate/mesothermal climates)and D (Cold winter/microthermal climates) is increased to 32 F (not the 27 F suggested by Koppen), this creates a smaller C zone located further southward.In the USA, areas from the NYC metropolitan area (NYC/New Jersey/southern Connecticut) southward, as well as the lower Ohio Valley, lower Midwest, and southern Plains are located in the mild C group...while locations to the north of these regions (Northern Plains, Great Lakes, Midwest, upper Ohio Valley and upper East Coast (Boston northward), are located in the cooler D group. Using 32 Falso pushes parts of the northeast and north central Asia (northern Japan,northern China, and northern Korea) into the colder D/microthermal group (aka known as humid continental).                                                                                 
+The second letter indicates the precipitation pattern — w indicates dry winters(driest winter month average precipitation less than one-tenth wettest summer month average precipitation; one variation also requires that the driest winter month have less than 30 mm average precipitation), s indicates dry summers (June, July and August in northern hemisphere?) (driest summer month less than 30 mm (Koeppen) or 40 mm(Koeppen-Geiger) average precipitation and less than one-third wettest winter month precipitation) and f means significant precipitation in all seasons(neither above mentioned set of conditions fulfilled).                                                                   
+The third lette rindicates the degree of summer heat — a indicates warmest month average temperature above 22 °C (72 °F) with at least 4 months averaging above 10 °C (50 °F), b indicates warmest month averaging below 22 °C, but with at least 4 months averaging above 10 °C, while c means 3 or fewer months with mean temperatures above 10 °C.                                                     
+The order of these two letters is sometimes reversed, especially by climatologists in the United States. ]]></description>
+			<Point>
+				<coordinates>-145.195312,-31.578535,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>(Csa) = Dry-summer subtropical or Mediterranean climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Climate_zone#GROUP_C:_Mild_Temperate.2Fmesothermal_climates)
+ 
+These climates usually occur on the western sides of continents between the latitudes of 30° and 45°. These climates are in the polar front region in winter, and thus have moderate temperatures and changeable, rainy weather. Summers are hot and dry, due to the domination of the subtropical high pressure systems, except in the immediate coastal areas, where summers are milder due to the nearby presence of cold ocean currents that may bring fog but prevent rain.
+
+Under the Köppen-Geiger classification, dry-summer subtropical (Csb) extends to additional areas not typically associated with a typical Mediterranean climate, such as much of the Pacific Northwest, much of southern Chile, parts of west-central Argentina, and areas of northern Spain and Portugal. Many of these areas would be Oceanic (Cfb), except dry-summer patterns meet Köppen's Cs minimum thresholds.]]></description>
+			<Point>
+				<coordinates>-145.195312,-42.811522,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>(Csb) = Dry-summer subtropical or Mediterranean climates </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Climate_zone#GROUP_C:_Mild_Temperate.2Fmesothermal_climates)
+ 
+Under the Köppen-Geiger classification, dry-summer subtropical (Csb) extends to additional areas not typically associated with a typical Mediterranean climate, such as much of the Pacific Northwest, much of southern Chile, parts of west-central Argentina, and areas of northern Spain and Portugal. Many of these areas would be Oceanic (Cfb), except dry-summer patterns meet Köppen's Cs minimum thresholds. Additional highland areas in the subtropics also meet Cs requirements, although they too are not normally associated with Mediterranean climates.]]></description>
+			<Point>
+				<coordinates>-145.54687500000003,-51.835778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-009D57</styleUrl>
+			<name>(Cfa, Cwa) = Humid subtropical climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification#GROUP_C:_Mild_Temperate.2Fmesothermal_climates)
+ 
+These climates usually occur on the eastern coasts and eastern sides of continents, mainly in the high 20s and 30s latitude. Unlike the Mediterranean climates where summers are dry, Humid Subtropical have a warm and wet flow from the tropics that create warm and moist conditions in the summer months. As such, summer (not winters as is the case in Mediterranean climates) is often the wettest season. The flow out of the subtropical Highs and the summer monsoon creates a southern flow from the tropics that bring warm and moist air to the lower east sides of continents. This flow is often what brings the frequent but short lived summer thundershowers so typical of subtropical east coast climates. East Asia has the worlds best developed subtropical monsoons, and the classic dry winter/wet summer is characteristic of the region. In other eastern subtropical areas like the USA and South America, mobile weather fronts/mid latitude storms tend to disrupt the normal dry winter/wet summer monsoon pattern.]]></description>
+			<Point>
+				<coordinates>-133.5058594,-32.1011901,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-009D57</styleUrl>
+			<name>(Cfa) = Humid subtropical climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification#GROUP_C:_Mild_Temperate.2Fmesothermal_climates)
+
+f means significant precipitation in all seasons (neither above mentioned set of conditions fulfilled).]]></description>
+			<Point>
+				<coordinates>-133.5058594,-43.325178,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-009D57</styleUrl>
+			<name>(Cwa) = Humid subtropical climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification#GROUP_C:_Mild_Temperate.2Fmesothermal_climates)
+
+w indicates dry winters (driest winter month average precipitation less than one-tenth wettest summer month average precipitation; one variation also requires that the driest winter month have less than 30 mm average precipitation)]]></description>
+			<Point>
+				<coordinates>-133.945312,-51.835778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>(Cwb, Cwc) = Temperate highland tropical climate with dry winters</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification#GROUP_C:_Mild_Temperate.2Fmesothermal_climates)
+ 
+A type of climate characteristic of the highlands inside the tropics of Mexico, Peru, Bolivia,Madagascar, Zambia, Zimbabwe and South Africa but it is also found in central Argentina, outside the tropics. Winters are noticeable and dry and summers can be very rainy. In the tropics the rainy season is provoked by the tropical air masses and the dry winters by subtropical high pressure.]]></description>
+			<Point>
+				<coordinates>-133.9453125,-57.704147400000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-9FC3FF</styleUrl>
+			<name>(Cfb, Cfc, Cwb, Cwc) = Maritime Temperate climates or Oceanic climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification#GROUP_C:_Mild_Temperate.2Fmesothermal_climates)
+ 
+Cfb climates usually occur on the western sides of continents between the latitudes of 45° and 55°; they are typically situated immediately poleward of the Mediterranean climates, although in Australia and extreme southern Africa this climate is found immediately poleward of the humid subtropical climate, and at a somewhat lower latitude. In western Europe, this climate occurs in coastal areas up to 63°N latitude in Norway. These climates are dominated all year round by the polar front, leading to changeable, often overcast weather. Summers are cool due to cool ocean currents, but winters are milder than other climates in similar latitudes but usually very cloudy.
+
+Cfb climates are also encountered at high elevations in certain subtropical and tropical areas, where the climate would be that of a subtropical/tropical rain forest if not for the altitude. These climates are called "Highlands".]]></description>
+			<Point>
+				<coordinates>-120.41015619999999,-31.877558,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-9FC3FF</styleUrl>
+			<name>(Cfc) = Maritime Subarctic climates or Subpolar Oceanic climates </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification#GROUP_C:_Mild_Temperate.2Fmesothermal_climates)
+ 
+Maritime Subarctic climates or Subpolar These climates occur poleward of the Maritime Temperate climates, and are confined either to narrow coastal strips on the western poleward margins of the continents, or, especially in the Northern Hemisphere, to islands off such coasts.]]></description>
+			<Point>
+				<coordinates>-120.234375,-42.9403387,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-CDDC39</styleUrl>
+			<name>Continental/microthermal climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification#GROUP_D:_Continental.2Fmicrothermal_climate)                                                                   
+Continental/microthermal climates have an average temperature above 10 °C (50 °F) in their warmest months,and a coldest month average below −3 °C (or 0 °C in some versions, as noted previously). These usually occur in the interiors of continents and on their upper east coasts, normally north of 40° North latitude. In the Southern Hemisphere,Group D climates are extremely rare due to the smaller land masses in the middle latitudes and the almost complete absence of land at 40°–60° South latitude, existing only in some highland locations.                                  
+· The second and third letters are used as for Group C climates, while a third letter of d indicates 3 or fewer months with mean temperatures above 10 °C and a coldest month temperature below −38 °C (−36 °F).                                                                           
+· Group D climates are subdivided as follows:
+Lettering                                                                                       
+· The second letter indicates the precipitation pattern — w indicates dry winters(driest winter month average precipitation less than one-tenth wettest summer month average precipitation; one variation also requires that the driest winter month have less than 30 mm average precipitation), s indicates dry summers (June, July and August in northern hemisphere?) (driest summer month less than 30 mm average precipitation and less than one-third wettest winter month precipitation) and f means significant precipitation in all seasons (neither above mentioned set of conditions fulfilled).                              
+· The third letter indicates the degree of summer heat — a indicates warmest month average temperature above 22 °C (72 °F) with at least 4 months averaging above 10 °C (50 °F), b indicates warmest month averaging below 22 °C,but with at least 4 months averaging above 10 °C, while c means 3 or fewer months with mean temperatures above 10 °C.]]></description>
+			<Point>
+				<coordinates>-108.7207026,-31.8775577,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-CDDC39</styleUrl>
+			<name> (Dfa, Dwa, Dsa) = Hot Summer Continental climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification#GROUP_D:_Continental.2Fmicrothermal_climate)
+
+
+Dfa climates usually occur in the high 30s and low 40s latitudes, with a qualifying average temperature in the warmest month of >22°C. In Europe these climates tend to be much drier than in North America. 
+
+
+In eastern Asia,Dwa climates extend further south due to the influence of the Siberian high pressure system, which also causes winters there to be dry, and summers can be very wet because of monsoon circulation.
+
+Dsa exists only at higher elevations adjacent to areas with hot summer Mediterranean (Csa) climates; Examples include: Saqqez in IranianKurdistan, Lytton, British Columbia, Canada, and Spokane, Washington, United States.]]></description>
+			<Point>
+				<coordinates>-108.4570312,-43.4529191,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-CDDC39</styleUrl>
+			<name>(Dfb, Dwb, Dsb) = Warm Summer Continental or Hemiboreal climates </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification#GROUP_D:_Continental.2Fmicrothermal_climate)                                                           
+Dfb and Dwb climates are immediately north of Hot Summer Continental climates, generally in the high 40s and low 50s in latitude in North America and Asia, and also in central and eastern Europe and Russia, between the Maritime Temperate and Continental Subarctic climates, where it extends up to high 50s and even low 60 degrees latitude.
+Dsb arises from the same scenario as Dsa, but at even higher altitudes or higher latitudes, and chiefly in North America since here the Mediterranean climates extend further poleward than in Eurasia; Examples: Flagstaff, Arizona, United States and South Lake Tahoe, California, United States.]]></description>
+			<Point>
+				<coordinates>-108.3691401,-51.6180162,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-E6EEA3</styleUrl>
+			<name>(Dfc, Dwc, Dsc) = Continental Subarctic or Boreal (taiga) climates </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification#GROUP_D:_Continental.2Fmicrothermal_climate)                                                             
+Dfc and Dwc climates occur poleward of theother Group D climates, mostly in the 50s and low 60s North latitude, althoughit might occur as far north as 70° latitude.                                                                                                                                                         Examples - Tromso, Arkhangelsk  (Dfc) and Okhotsk (Dwc).                                                                          
+Dsc, like Dsa and Dsb, is confined exclusively to highland locations near areas that have Mediterranean climates, and is the rarest of the three as a still higher altitude is needed to produce this climate;                                                                                                                                                              Examples: Sierra Nevada (Dsc — Mediterranean mountain climate), Zubački kabao, Montemegro  (Dsc — perhumid Mediterranean snow climate), Galena Summit, Idaho and the upper portions of the Massif Central in France .]]></description>
+			<Point>
+				<coordinates>-108.3449294,-58.0017107,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-E6EEA3</styleUrl>
+			<name>(Dfd, Dwd, Dsd): = Continental Subarctic climates with extremely severe winters </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification#GROUP_D:_Continental.2Fmicrothermal_climate)                                                                        
+Places with this climate have the temperature in their coldest month lower than −38 °C (−36 °F) These climates occur only in eastern Siberia. The names of some of the places that have this climate — most notably Verkhoyansk  (Dfd) and Oymyakon (Dfd)— have become veritable synonyms for extreme, severe winter cold.]]></description>
+			<Point>
+				<coordinates>-107.5781245,-66.6529771,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-FFDD5E</styleUrl>
+			<name>Polar climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification#GROUP_E:_Polar_climates)                          
+Polar climates are characterized by average temperatures below 10 °C (50 °F) in all twelve months of the year:]]></description>
+			<Point>
+				<coordinates>-96.328125,-31.8775578,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-FFDD5E</styleUrl>
+			<name>(ET) = Tundra climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification#GROUP_E:_Polar_climates)                         
+These climates are characterized by average temperatures below 10 °C (50 °F) in all twelve months of the year:                                                                    
+Tundra climate (ET):[2]  Warmest month has an average temperature between 0 °C (32 °F) and 10 °C (50 °F). These climates occur on the northern edges of the North American and Eurasian landmasses, and on nearby islands. It also occurs on some islands near the Antarctic Convergence.]]></description>
+			<Point>
+				<coordinates>-96.679687,-43.3890821,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>(EF) = Ice Cap climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification#GROUP_E:_Polar_climates)                         
+All twelve months have average temperatures below 0 °C (32 °F). This climate is dominant in Antarctica (e.g., Scott Base) and in inner Greenland (e.g., Eismitte or North Ice).
+Occasionally,a third, lower-case letter is added to ET climates if either the summer or winter is clearly drier than the other half of the year; thus Herschel Island  ('Qikiqtaruk', in Inuvialuit) off the coast of Canada's Yukon Territory,  becomes ETw, with Pic du Midi de Bigorre in the French Pyrenees acquiring an ETs designation. If the precipitation is more o rless evenly spread throughout the year, ETf may be used, such as for Hebron, Labrador. When the option to include this letter is exercised, the same standards that are used for Groups C and D apply, with the additional requirement that the wettest month must have an average of at least 30 mm precipitation (Group E climates can be as dry or even drier than Group B climates based on actual precipitation received, but their rate of evaporation is much lower). Seasonal precipitation letters are almost never attached to EF climates, mainly due to the difficulty in distinguishing between falling and blowing snow, as snow is the sole source of moisture in these climates.]]></description>
+			<Point>
+				<coordinates>-95.625,-51.5634118,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-4186F0</styleUrl>
+			<name>(Af) Tropical Rainforest Climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The length and severity of the dry season diminishes inland (southward); at the latitude of the Amazon river — which flows eastward, just south of the equatorial line  — the climate is Af]]></description>
+			<Point>
+				<coordinates>-58.62304700000001,-2.635789,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-4186F0</styleUrl>
+			<name>(Af) Tropical Rainforest Climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Some of the places that have this climate are indeed uniformly and monotonously wet throughout the year (e.g., the northwest Pacific coast of South  and Central America to Costa Rica, see for instance, Andagoya, Colombia).]]></description>
+			<Point>
+				<coordinates>-76.694441,5.096074,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-4186F0</styleUrl>
+			<name>(Af) Tropical Rainforest Climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The period of higher sun and longer days is distinctly wettest at Palembang, Indonesia.]]></description>
+			<Point>
+				<coordinates>104.79824100000002,-2.842233,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-4186F0</styleUrl>
+			<name>(Af) Tropical Rainforest Climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Or, the time of lower sun and shorter days may have more rain as at Sitiawan, Malaysia.]]></description>
+			<Point>
+				<coordinates>100.736389,4.427198,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-4186F0</styleUrl>
+			<name>(Af) Tropical Rainforest Climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>142.470703,-5.441022,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-4186F0</styleUrl>
+			<name>(Af) Tropical Rainforest Climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>24.916992,0.307616,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-4186F0</styleUrl>
+			<name>(Am) Tropical Monsoon Climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>145.68386100000004,-16.973726,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-4186F0</styleUrl>
+			<name>(Am) Tropical Monsoon Climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-49.21875,21.125498,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>(Aw) Tropical wet and dry or savanna climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>130.862103,-12.449987000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>(Aw) Tropical wet and dry or savanna climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.619755,6.183222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>(Aw) Tropical wet and dry or savanna climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-69.677803,11.40281,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>(Aw) Tropical wet and dry or savanna climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.035088,21.983492,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>(Aw) Tropical wet and dry or savanna climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.520483,11.354774,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>(Aw) Tropical wet and dry or savanna climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.16748,49.866317,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>(Aw) Tropical wet and dry or savanna climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-54.975586,-11.049038,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>(Aw) Tropical wet and dry or savanna climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-60.95695500000001,14.0037,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>(Aw) Tropical wet and dry or savanna climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>16.171875,6.83917,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>(Aw) Tropical wet and dry or savanna climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-0.878906,9.102097,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-4186F0</styleUrl>
+			<name>(As) Tropical wet and dry or savanna climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Sometimes As is used in place of Aw if the dry season occurs during the time of higher sun and longer days.]]></description>
+			<Point>
+				<coordinates>39.668206,-4.043477,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-4186F0</styleUrl>
+			<name>(As) Tropical wet and dry orsavanna climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Sometimes As is used in place of Aw if the dry season occurs during the time of higher sun and longer days.]]></description>
+			<Point>
+				<coordinates>-155.448303,19.686556000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-4186F0</styleUrl>
+			<name>(As) Tropical wet and dry or savanna climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Sometimes As is used in place of Aw if the dry season occurs during the time of higher sun and longer days.]]></description>
+			<Point>
+				<coordinates>81.142273,8.640765,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F8971B</styleUrl>
+			<name>(BWh) Dry (arid and semiarid) Desert Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>12.98584,24.7144,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F8971B</styleUrl>
+			<name>(BWh) Dry (arid and semiarid) Desert Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>128.067627,-24.527135,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F8971B</styleUrl>
+			<name>(BWh) Dry (arid and semiarid) Desert Cimates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>49.943848,10.228437,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F8971B</styleUrl>
+			<name>(BWh) Dry (arid and semiarid) Desert Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>48.515625,24.287027,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F8971B</styleUrl>
+			<name>(BWh) Dry (arid and semiarid) Desert Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>21.291504,-27.916767,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F8971B</styleUrl>
+			<name>(BWh) Dry (arid and semiarid) Desert Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>62.523193,29.621221000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F8971B</styleUrl>
+			<name>(BWh) Dry (arid and semiarid) Desert Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>72.663574,28.265682,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F8971B</styleUrl>
+			<name>(BWh) Dry (arid and semiarid) Desert Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-69.591522,-31.461468,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F8971B</styleUrl>
+			<name>(BWh) Dry (arid and semiarid) Desert Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-114.458313,32.103516,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F8971B</styleUrl>
+			<name>(BWh) Dry (arid and semiarid) Desert Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-103.095016,27.177691,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F8971B</styleUrl>
+			<name>(BWh) Dry (arid and semiarid) Desert Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-80.779724,-5.725311,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F8971B</styleUrl>
+			<name>(BWhs) Dry (arid and semiarid) Desert Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>33.803397,31.132035,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F8971B</styleUrl>
+			<name>(BWk) Dry (arid and semiarid) Desert Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>21.09375,13.11158,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F8971B</styleUrl>
+			<name>(BWk) Dry (arid and semiarid) Desert Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-68.071289,-18.812718,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F8971B</styleUrl>
+			<name>(BWk) Dry (arid and semiarid) Desert Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-67.236328,-43.004647,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F8971B</styleUrl>
+			<name>(BWk) Dry (arid and semiarid) Desert Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-116.76269499999998,37.09024,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F8971B</styleUrl>
+			<name>(BWk) Dry (arid and semiarid) Desert Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>56.337891,41.771312,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F8971B</styleUrl>
+			<name>(BWk) Dry (arid and semiarid) Desert Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>81.914063,38.822591,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F8971B</styleUrl>
+			<name>(BWn) Dry (arid and semiarid) Desert Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Desert areas situated along the west coasts of continents at tropical or near-tropical locations are characterized by cooler temperatures than encountered elsewhere at comparable latitudes (due to the nearby presence of cold ocean currents) and frequent fog and low clouds, despite the fact that these places rank among the driest on earth in terms of actual precipitation received. This climate is sometimes labelled BWn and examples can be found at Lima (http://en.wikipedia.org/wiki/Lima), Peru (http://en.wikipedia.org/wiki/Peru), and Walvis Bay (http://en.wikipedia.org/wiki/Walvis_Bay), Namibia (http://en.wikipedia.org/wiki/Namibia). The BSn category can be found in foggy coastal steppes.]]></description>
+			<Point>
+				<coordinates>-77.043085,-12.01229,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F8971B</styleUrl>
+			<name>(BWn)  Dry (arid and semiarid) Desert Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Desert areas situated along the west coasts of continents at tropical or near-tropical locations are characterized by cooler temperatures than encountered elsewhere at comparable latitudes (due to the nearby presence of cold ocean currents) and frequent fog and low clouds, despite the fact that these places rank among the driest on earth in terms of actual precipitation received. This climate is sometimes labelled BWn and examples can be found at Lima (http://en.wikipedia.org/wiki/Lima), Peru (http://en.wikipedia.org/wiki/Peru), and Walvis Bay (http://en.wikipedia.org/wiki/Walvis_Bay), Namibia (http://en.wikipedia.org/wiki/Namibia). The BSn category can be found in foggy coastal steppes.]]></description>
+			<Point>
+				<coordinates>14.569931,-22.967877,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F8971B</styleUrl>
+			<name>(BWkw) Dry (arid and semiarid) Desert Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>104.25,43.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BSh) Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-110.302734,30.221102,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BSh) Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-37.463379,-7.645665000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BSh) Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>22.456055,-20.303418,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BSh) Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>29.047852,13.325485,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BSh) Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>42.692871,36.031332,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BSh) Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>72.861328,24.766785,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BSh) Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>64.335938,34.885931,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BSh) Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>44.516602,8.494105,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BSh) Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.229492,-19.601194,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BSh) Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>129.726563,-17.14079,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BSh) Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.6875,-27.683528,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BShs) Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>13.166667000000002,32.516667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BSk) Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.777344,35.924645,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BSk) Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-107.490234,48.107431,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BSk) Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-117.597656,43.644026,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BSk) Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.160156,-39.774769000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BSk) Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-65.786133,-20.13847,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BSk) Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>25.751953,-30.297018,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BSk) Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-2.504883,38.307181,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BSk) Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>31.948242,38.754083,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BSk) Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>57.480469,32.361403,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BSk) Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>63.457031,48.458352,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BSk) Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>92.548828,46.437857,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BSk) Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>143.085938,-34.885931,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BSk) Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>113.37890600000001,42.875964,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BSkw) Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>101.766747,36.635877,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BShw) Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>2.105278,13.521389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>(BSh)  Dry (arid and semiarid) Steppe Climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.777344,30.107118,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>(Csa) Dry-summer subtropical or Mediterranean climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-121.99218699999999,38.530979,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>(Csa) Dry-summer subtropical or Mediterranean climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-8.393555,38.341656,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>(Csa) Dry-summer subtropical or Mediterranean climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-5.273437,33.431441,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>(Csa) Dry-summer subtropical or Mediterranean climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>12.392578,42.423457,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>(Csa) Dry-summer subtropical or Mediterranean climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>21.708984,39.368279,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>(Csa) Dry-summer subtropical or Mediterranean climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>28.125,38.341656,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>(Csa) Dry-summer subtropical or Mediterranean climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>116.32324199999998,-30.164126,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>(Csb) Dry-summer subtropical or Mediterranean climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-122.87109399999999,43.675818,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>(Csb) Dry-summer subtropical or Mediterranean climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.729492,-37.701207,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>(Csb) Dry-summer subtropical or Mediterranean climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-7.207031,42.423457,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>(Csb) Dry-summer subtropical or Mediterranean climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>117.77343800000001,-34.016242,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-009D57</styleUrl>
+			<name>(Cfa) Humid subtropical climates </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-51.32812500000001,-24.126702000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-009D57</styleUrl>
+			<name>(Cfa) Humid subtropical climates </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>112.148438,27.994401,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-009D57</styleUrl>
+			<name>(Cfa) Humid subtropical climates </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>151.765137,-27.215556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-009D57</styleUrl>
+			<name>(Cfb) Dry-summer subtropical or Mediterranean climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>2.988281,48.458352,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-009D57</styleUrl>
+			<name>(Cfb) Dry-summer subtropical or Mediterranean climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-1.582031,53.22576800000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-9FC3FF</styleUrl>
+			<name>(Cfc) Maritime Subarctic climates or Subpolar Oceanic climates </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.081593,49.37969,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-9FC3FF</styleUrl>
+			<name>(Cfc) Maritime Subarctic climates or Subpolar Oceanic climates </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-124.99738800000002,54.002619,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-9FC3FF</styleUrl>
+			<name>(Cfc) Maritime Subarctic climates or Subpolar Oceanic climates </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>146.07421900000003,-37.439974,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-009D57</styleUrl>
+			<name>(Cwa) = Humid subtropical climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>26.806641,-13.496473000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-009D57</styleUrl>
+			<name>(Cwa) = Humid subtropical climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-81.210937,36.315125,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>(Cwb)  Temperate highland tropical climate with dry winters</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-70.224609,-15.458975,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>(Cwb, Cwc)  Temperate highland tropical climate with dry winters</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>46.801758,-19.248922,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>(Cwb, Cwc)  Temperate highland tropical climate with dry winters</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>29.091796999999996,-27.44979,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>(Cwb, Cwc)  Temperate highland tropical climate with dry winters</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>30.498047,-19.68397,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-E6EEA3</styleUrl>
+			<name>(Dfb) = Warm Summer Continental or Hemiboreal climates </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>24.609375,51.069017,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-E6EEA3</styleUrl>
+			<name>(Dfd) Continental Subarctic climates with extremely severe winters</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>86.835938,63.860036,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-E6EEA3</styleUrl>
+			<name>(Dfd) Continental Subarctic climates with extremely severe winters</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-123.39843700000002,61.93895,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-E6EEA3</styleUrl>
+			<name>(Dfd) Continental Subarctic climates with extremely severe winters</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-66.445312,52.908902,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-E6EEA3</styleUrl>
+			<name>(Dsa) Hot Summer Continental climates </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>46.266389,36.246389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-E6EEA3</styleUrl>
+			<name>(Dsa) Hot Summer Continental climates </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>43.0,37.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-E6EEA3</styleUrl>
+			<name>(Dsa) Hot Summer Continental climates </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>68.422852,40.913513,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-E6EEA3</styleUrl>
+			<name>(Dsa) Hot Summer Continental climates </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>74.311523,42.585444,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-E6EEA3</styleUrl>
+			<name>(Dsa) Hot Summer Continental climates </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-121.576667,50.225,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-E6EEA3</styleUrl>
+			<name>(Dsb) Warm Summer Continental or Hemiboreal climates </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-111.63103,35.199132,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-E6EEA3</styleUrl>
+			<name>(Dsb) = Warm Summer Continental or Hemiboreal climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>38.671875,39.639538,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-CDDC39</styleUrl>
+			<name>(Dsb) = Warm Summer Continental or Hemiboreal climates </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>101.777344,18.479609,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-CDDC39</styleUrl>
+			<name>(Dsb) = Warm Summer Continental or Hemiboreal climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-119.97721100000001,38.940003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-CDDC39</styleUrl>
+			<name>(Dsb) = Warm Summer Continental or Hemiboreal climates </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>79.628906,18.646245,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-E6EEA3</styleUrl>
+			<name>(Dsc) = Continental Subarctic or Boreal (taiga) climates (mountain)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.3,37.05,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-E6EEA3</styleUrl>
+			<name>(Dsc) = Continental Subarctic or Boreal (taiga) climates (mountains)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>18.533333,42.56666700000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-E6EEA3</styleUrl>
+			<name>(Dsc) = Continental Subarctic or Boreal (taiga) climates (mountain)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-114.71333300000002,43.870278,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-E6EEA3</styleUrl>
+			<name>(Dsc) = Continental Subarctic or Boreal (taiga) climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>75.366211,38.13455700000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-E6EEA3</styleUrl>
+			<name> (Dwa) = Hot Summer Continental climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>46.582031,45.95115,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-E6EEA3</styleUrl>
+			<name> (Dwa) = Hot Summer Continental climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.93359400000001,41.771312,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-E6EEA3</styleUrl>
+			<name>(Dwc) = Continental Subarctic or Boreal (taiga) climates</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>122.280579,53.054422,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-FFDD5E</styleUrl>
+			<name>(ETw) Ice Cap climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-139.083333,69.583333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-FFDD5E</styleUrl>
+			<name>(ET) Ice Cap Climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-85.429687,72.073911,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-FFDD5E</styleUrl>
+			<name>(ET) Ice Cap Climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-20.390625,81.255032,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-FFDD5E</styleUrl>
+			<name>(ET) Ice Cap Climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>102.65625000000001,75.408854,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-FFDD5E</styleUrl>
+			<name>(ET) Ice Cap Climate (mountain top)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>8.366667,61.50000000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-FFDD5E</styleUrl>
+			<name>(ET) Ice Cap Climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>176.484375,68.269387,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-FFDD5E</styleUrl>
+			<name>(ET) Ice Cap Climate (mountain top)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>138.730545,35.364976,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>(EF) Ice Cap climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-62.626111,58.2,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>(EF) Ice Cap Climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-39.726562,76.434604,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>(EF) Ice Cap Climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>4.21875,-74.307353,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-FFDD5E</styleUrl>
+			<name>ETs) Ice Cap Climate (mountain top)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>0.140789,42.937002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Man's modification of a rural climate to an urban climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+
+
+"Urban climate refers to climatic conditions in an urban area that differ from neighboring rural areas and are attributable to urban development. Urbanization tremendously changes the form of the landscape and also produces changes in an area's air."
+
+
+Also see www.eolss.net: Urban Climate: Most important Modified (http://www.eolss.net/Sample-Chapters/C01/E4-03-07-02.pdf)]]></description>
+			<Point>
+				<coordinates>116.38916,39.901309,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Roman Impact on Climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.sciencedirect.com (http://www.sciencedirect.com/science/article/pii/S03418162110)            
+Climate change and human impact in central Spain during Roman times: High-resolution multi-proxy analysis of a tufa lake record (Somolinos, 1280 m asl)  
+
+"The multi-proxy data reveal substantial climate variability during this period. More humid conditions prevailed from 700 to 250 cal BC, while the climate became more arid during the Roman Period (50 cal BC to 70 cal AD). Later on, increased humidity characterized the period from 100 cal AD to 400 cal AD, followed by a progressive arid phase (400 to 715 cal AD) that culminated in total desiccation of the lake.
+
+During this time the Romans introduced a new and complex system of resource management in the area, including large-scale farming, grazing, forestry and mining. A strong shift in land use occurred after 80 cal BC, resulting in extensive woodland clearing throughout the range, and in an enhancement of soil erosion and lake productivity. The high-resolution analysis indicates that the peak in Roman impact occurred one century later than the climate changed towards drier conditions. In contrast, social–economical decline and aridification were synchronous in Visigothic times (from 5th to 8th centuries AD)."]]></description>
+			<Point>
+				<coordinates>-3.295898,40.946714,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Man's Shrinking of the Aral Sea created dust storms</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Aral_Sea_1989-2008.jpg/706px-Aral_Sea_1989-2008.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[According to Wikipedia, Formerly one of the four largest lakes (http://en.wikipedia.org/wiki/Largest_lakes) in the world with an area of 68,000 square kilometres (26,300 sq mi), the Aral Sea has been steadily shrinking since the 1960s after the rivers that fed it were diverted by Soviet (http://en.wikipedia.org/wiki/Soviet_Union) irrigation projects. By 2007, it had declined to 10% of its original size, splitting into four lakes – the North Aral Sea (http://en.wikipedia.org/wiki/North_Aral_Sea), the eastern and western basins of the once far larger South Aral Sea (http://en.wikipedia.org/wiki/South_Aral_Sea) and one smaller lake between North and South Aral Seas.
+
+
+
+According to  (http://www.columbia.edu/~tmt2120/environmental%20impacts.htm)http://www.columbia.edu (http://www.columbia.edu/~tmt2120/environmental%20impacts.htm), the desiccation of the Aral Sea greatly increased the number of dust and salt storms in the area. Satellite images have revealed that there are up to ten major dust storms occurring annually in the region, most of them occurring between the months of April and July (Glantz 1999). While before, the pressure from the water surface dampened the strength of the northerly and north-easterly winds, the loss of the sea meant that it's protective action from the wind was significantly reduced. The receding sea left behind large amount of salt, and groundwater evaporation further increased the amount of salt from the exposed sea bed. The strong north-easterly winds now pick up the sand, salt, and dust, creating strong dust storms. The salt content in the dust made up about 30–40% of the volume in the summer, and was as high as 90% in the winter (Hydrometeorological Center of Uzbekistan). The storms are often between 150 and 300 km wide. The dust was distributed in areas far beyond the region - the dust from the Aral Sea region was found as far as 500km away from the original source (Micklin 2007). Some of the salt reached the intensively irrigated and cultivated soils, which even ruined the soil far away from the Aral Sea region. It was estimated that the average amount of salt removed from the entire dried seabed was about 43 million metric tons between 1960 and 1984 (Glantz 1999).
+(source:eol.jsc.nasa.gov)
+
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>59.567871000000004,45.644768000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Darvaza</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Burning_Crater_of_Darvaza#.22Door_to_Hell.22_gas_deposit)
+
+The Derweze area is rich in natural gas. While drilling in 1971, Soviet geologists tapped into a cavern filled with natural gas.[2] The ground beneath the drilling rig collapsed, leaving a large hole with a diameter of 70 metres (230 ft) at 40°15′10″N 58°26′22″E. To avoid poisonous gas discharge, it was decided the best solution was to burn it off.[3] Geologists had hoped the fire would use all the fuel in a matter of days, but the gas is still burning today. Locals have dubbed the cavern "The Door to Hell".[4]]]></description>
+			<Point>
+				<coordinates>58.439466,40.252583,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1469</styleUrl>
+			<name>Australia Environmental Migration</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.lowyinstitute.org
+Environmental Change and Migration: implications for Australia (http://www.lowyinstitute.org/publications/environmental-change-and-migration-implications-australia)
+
+"In the Pacific Islands region, climate change and natural disasters could displace potentially  thousands of people in coming years.  A significant number of these people could end up as environmental migrants to Australia.  In this Lowy Institute Analysis, Dr Khalid Koser argues that Australia needs a national policy framework on environmental migration to manage the new flow of migrants in ways that maximise the benefits, but also minimise the costs to the country, including any increase in irregular migration."]]></description>
+			<Point>
+				<coordinates>144.492188,-25.482951,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1469</styleUrl>
+			<name>Belarusian Environmental Migration</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.ehs.unu.edu (http://www.ehs.unu.edu/file/get/3811)
+Qualitative Research Methods in Environmental Migration Research in the Example of Belarusian Environmental Migrants 
+
+ 
+"In Belarus, the cause of environmental migration was the Chernobyl nuclear power plant disaster that led to contamination of land and damage of environment in large parts of Belarus. As a consequence, many people had to move/migrate voluntarily or involuntary from the heavily polluted areas. Many migrants were resettled by the government resettlement program. The purpose of the field research was to find out the present socioeconomic situation of environmental migrants."]]></description>
+			<Point>
+				<coordinates>25.620117,52.855864,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1469</styleUrl>
+			<name>Climate Related Migration</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Human_migration#Climate_cycles)
+The modern field of climate history suggests that the successive waves of Eurasian nomadic movement throughout history have had their origins in climatic cycles (http://en.wikipedia.org/wiki/Climate_change), which have expanded or contracted pastureland in Central Asia, especially Mongolia (http://en.wikipedia.org/wiki/Mongolia) and the Altai. People were displaced from their home ground by other tribes trying to find land that could be grazed by essential flocks, each group pushing the next further to the south and west, into the highlands ofAnatolia (http://en.wikipedia.org/wiki/Anatolia), the Pannonian Plain (http://en.wikipedia.org/wiki/Pannonian_Plain), into Mesopotamia (http://en.wikipedia.org/wiki/Mesopotamia) or southwards, into the rich pastures of China (http://en.wikipedia.org/wiki/China). Bogumil Terminski uses the term "migratory domino effect" to describe this process in the context of Sea People invasion.]]></description>
+			<Point>
+				<coordinates>94.921875,46.920255,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1469</styleUrl>
+			<name>Ethiopian Environmental Migration</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.princeton.edu (http://www.princeton.edu/~pcglobal/conferences/environment/papers/bkss.pdf)
+Environmental Degradation and Migration (http://www.princeton.edu/~pcglobal/conferences/environment/papers/bkss.pdf)
+
+ 
+"For instance, Ezra and Kiros (2001) examine migration flows in the drought prone regions of Ethiopia in the period 1984-1994. They find that migration rates were highest during the year of the drought (1984), which suggests a strong immediate impact of 6 environmental factors on out-migration. They conclude that drought, by increasing vulnerability to food shortages, led to migration.7 Ezra (2001) also reports that migration was used as an adaptation strategy by a considerable number of households in northern Ethiopia during the largescale famines of the 1980s. Similar results are reported by Morrisey (2008) for migration flows due to droughts in the highlands of Ethiopia."]]></description>
+			<Point>
+				<coordinates>39.199219,8.841651,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1469</styleUrl>
+			<name>European Environmental Migrations</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.sciencedaily.com
+New Evidence for Climate Impacts On Ancient Societies (http://www.sciencedaily.com/releases/2011/01/110113082627.htm)
+
+"The new study also revealed that humid and mild summers paralleled the rapid cultural and political growth of Medieval Europe, whereas unfavorable climate may have played a role in the underlying health conditions that contributed to the devastating economic crisis that arose in connection with the Black Death plague pandemic in the 14th century. More recently, temperature minima in the early 17th and 19th centuries coincided with large-scale settlement abandonment during the Thirty Years' War and the modern mass migrations from Europe to America."]]></description>
+			<Point>
+				<coordinates>6.767578,45.767523,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1469</styleUrl>
+			<name>Syrian Environmental Migration</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.trust.org (http://www.trust.org/alertnet/blogs/climate-conversations/syrias-woes-paint-picture-of-environmental-migration-to-come)
+Climate Conversations - Syria’s woes paint picture of environmental migration to come (http://www.trust.org/alertnet/blogs/climate-conversations/syrias-woes-paint-picture-of-environmental-migration-to-come)
+
+ 
+"Compounding the problem are the country’s so-called market reforms that have resulted in cutbacks in subsidies for food and fuel. Even as the political future of Syria and its President Bashar al-Assad remain uncertain, what is arguably a source of greater political instability in the long-term are the problems associated with drought and resource scarcity-induced migration that show no signs of abating."]]></description>
+			<Point>
+				<coordinates>38.847656,33.578015,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1469</styleUrl>
+			<name>U.S. Environmental Migration</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.ehs.unu.edu (http://www.ehs.unu.edu/file/get/5405)
+
+United States Environmental Migration: Vulnerability, Resilience, and Policy Options for Internally Displaced Persons  (http://www.ehs.unu.edu/file/get/5405)
+
+ 
+"But many disasters in the U.S. have induced large-scale and permanent migration. For example, Levine, Esnard, and Sapat (2007) identified five disasters besides Hurricane Katrina causing large, forced and sometimes permanent migration: Hurricane Andrew (Florida 1992), the Mississippi River Floods (Iowa, Illinois, and Missouri 1993), the Loma Prieta and Northridge Earthquakes (California 1989 and 1994), and Hurricane Floyd (North Carolina, South Carolina, and Virginia 1999). Rivera and Miller (2007) also noted large, permanent migrations from the 1927 Louisiana flood and the 1948 Portland, Oregon flood, and Gutmann and Field (2010) included the San Francisco earthquake (California 1999). Permanent migration even occurs in many small disasters, such as a tornado that caused a two percent permanent out-migration from a town of 3,000 (Gutmann and Field 2010). "]]></description>
+			<Point>
+				<coordinates>-91.845703,30.751278,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1477</styleUrl>
+			<name>Does the Pacific Ocean Garbage Patch affect the climate?</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://1.bp.blogspot.com/-76djgsbiXzE/UWfqotGANtI/AAAAAAAAEvU/M_LSrpyPUYM/s320/Weather+pattern+over+the+Pacific+Garbage+Patch+and+the+Japanese+tusami+waste.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Interesting weather pattern over the the Pacific Ocean Garbage Patch (beige area) and the Japanese tsunami waste (blue area). Does this show how thermoplastic particles in our oceans affects the climate?  To see if it also affects the Atlantic Ocean Garbage Patch, go to my map on Environmental Disasters. (http://myreadingmapped.blogspot.com/2011/06/interactive-map-of-environmental.html)
+
+
+(c) Google]]></description>
+			<Point>
+				<coordinates>-150.46875,32.249974,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1477</styleUrl>
+			<name>Does the Atlantic Ocean Garbage Patch affect the weather?</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://2.bp.blogspot.com/-6Vgx-TO8G_g/UWqj3Wur_uI/AAAAAAAAEv0/8q7ZDUI7rzc/s320/cloud+pattern+around+the+Atlanitc+Ocean+Gabage+Patch.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Weather around the Atlantic Ocean Garbage Patch as seen in my map of Environmental Disasters. (http://myreadingmapped.blogspot.com/2011/06/interactive-map-of-environmental.html)
+
+ 
+
+(C) Google]]></description>
+			<Point>
+				<coordinates>-60.46875,26.115986,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Video showing the impact of global warming on glaciers</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Check out this Google video showing evidence of how humans affect the planet and the climate.
+(http://i.huffpost.com/gadgets/slideshows/296488/slide_296488_2429282_free.gif?1368111839081) ]]></description>
+			<Point>
+				<coordinates>-147.068481,61.114059,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Video showing the impact of Brazilian deforrestation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Check out this Google video showing evidence of how humans affect the planet and the climate.
+(http://i.huffpost.com/gadgets/slideshows/296488/slide_296488_2429277_free.gif?1368111839075) ]]></description>
+			<Point>
+				<coordinates>-56.975098,-11.630716000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Video of the impact of urban spread</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Check out this Google video 1368111839078) showing evidence of how humans affect the planet and the climate.
+ (http://i.huffpost.com/gadgets/slideshows/296488/slide_296488_2429278_free.gif?]]></description>
+			<Point>
+				<coordinates>-115.180664,36.1534,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Video of coastal expansion in Dubai</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Check out this Google video showing evidence of how humans affect the planet and the climate.
+(http://i.huffpost.com/gadgets/slideshows/296488/slide_296488_2429281_free.gif?1368111839080) ]]></description>
+			<Point>
+				<coordinates>55.06485,25.050769,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Video of the drying up of Lake Urmia</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Check out this Google video showing evidence of how humans affect the planet and the climate.
+(http://i.huffpost.com/gadgets/slideshows/296488/slide_296488_2429283_free.gif?1368111839081) ]]></description>
+			<Point>
+				<coordinates>45.488892,37.544577,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Video showing the impact of coal mining</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Check out this Google video showing evidence of how humans affect the planet and the climate.
+(http://i.huffpost.com/gadgets/slideshows/296488/slide_296488_2429279_free.gif?1368111839079) ]]></description>
+			<Point>
+				<coordinates>-105.514069,44.396995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>See the Biomes these climate classifications represent.</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Subtropical_semi-evergreen_seasonal_forest_in_Northern_Thailand.JPG/1200px-Subtropical_semi-evergreen_seasonal_forest_in_Northern_Thailand.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[To see the Biomes these climate classifications represent, go to the Google Map of Biomes.. (https://maps.google.com/maps/ms?msid=202977755949863934429.0004f8e1fd4ffad9b37b7&msa=0&ll=34.016242,-61.523437&spn=135.114786,346.289063)
+
+
+
+Wikipedia Commons / Adbar]]></description>
+			<Point>
+				<coordinates>-148.183594,-66.652977,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-4186F0</styleUrl>
+			<name>(Af) = Tropical Rainforest Climate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Tropical_rainforest_climate)                                                                                                                                                                     Tropical rainforests is a type of tropical climate in which there is no dry season – all months have mean precipitation values of at least 60 mm (2.36 inches). Tropical rainforest climates have no pronounced summer or winter; it is typically hot and wet throughout the year and rainfall is both heavy and frequent. One day in an equatorial climate can be very similar to the next, while the change in temperature between day and night may be larger than the average change in temperature between "summer" and "winter".                                                                                                 More... (http://en.wikipedia.org/wiki/Tropical_rainforest_climate)]]></description>
+			<Point>
+				<coordinates>-169.1894531,-31.4286631,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Video: Climate Classification</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=GBuQc1OL1xE</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>165.234375,-53.330873,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1151'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1151-crisis-hurricane-strong.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1201'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1201-fac-info-alt.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1217'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1217-fac-wc-men.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1469'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1469-trans-walking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1471'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1471-weather-chance-rain.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1477'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1477-weather-partly-cloudy.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-E6EEA3'>
+			<IconStyle>
+				<color>ffA3EEE6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-009D57'>
+			<IconStyle>
+				<color>ff579D00</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-4186F0'>
+			<IconStyle>
+				<color>ffF08641</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-CDDC39'>
+			<IconStyle>
+				<color>ff39DCCD</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-E6EEA3'>
+			<IconStyle>
+				<color>ffA3EEE6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F8971B'>
+			<IconStyle>
+				<color>ff1B97F8</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-FFDD5E'>
+			<IconStyle>
+				<color>ff5EDDFF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-960-009D57'>
+			<IconStyle>
+				<color>ff579D00</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-960-4186F0'>
+			<IconStyle>
+				<color>ffF08641</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-960-E6EEA3'>
+			<IconStyle>
+				<color>ffA3EEE6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-960-FFDD5E'>
+			<IconStyle>
+				<color>ff5EDDFF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-961-009D57'>
+			<IconStyle>
+				<color>ff579D00</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-961-4186F0'>
+			<IconStyle>
+				<color>ffF08641</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-961-9FC3FF'>
+			<IconStyle>
+				<color>ffFFC39F</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-961-CDDC39'>
+			<IconStyle>
+				<color>ff39DCCD</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-961-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-961-F8971B'>
+			<IconStyle>
+				<color>ff1B97F8</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-961-FFDD5E'>
+			<IconStyle>
+				<color>ff5EDDFF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-962-009D57'>
+			<IconStyle>
+				<color>ff579D00</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-962-4186F0'>
+			<IconStyle>
+				<color>ffF08641</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-962-9FC3FF'>
+			<IconStyle>
+				<color>ffFFC39F</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-962-CDDC39'>
+			<IconStyle>
+				<color>ff39DCCD</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-962-E6EEA3'>
+			<IconStyle>
+				<color>ffA3EEE6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-962-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-962-F8971B'>
+			<IconStyle>
+				<color>ff1B97F8</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-962-FFDD5E'>
+			<IconStyle>
+				<color>ff5EDDFF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-993'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/993-biz-camera.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

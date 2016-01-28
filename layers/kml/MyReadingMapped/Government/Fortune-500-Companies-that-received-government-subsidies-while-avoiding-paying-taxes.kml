@@ -1,0 +1,545 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Information this map is based on</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[This map obtained its data from the U.S. USIRG document ""Representation Without Taxation: Fortune 500 Companies that spend big on lobbying and avoid taxes", Page 5, Table called "The Dirty Thirty." The figures represent Three year totals (2008-2010).                                                             (http://www.uspirg.org/sites/pirg/files/reports/USPIRG_Representation_Without_Taxation.pdf) ]]></description>
+			<Point>
+				<coordinates>-97.734375,39.842286,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>American Electric Power</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+Domestic Profit: $5,899.0 Million
+Tax Subsidies: $2,609.7 Million
+Lobbying Expenses: $28.8 Million
+Federal Taxes: –$545.0 Million]]></description>
+			<Point>
+				<coordinates>-83.00516000000002,39.965932,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Baxter Healthcare Corporation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $926.1 Million
+Tax Subsidies: $390.0 Million
+Lobbying Expenses: $10.5 Million
+Federal Taxes: –$65.9 Million]]></description>
+			<Point>
+				<coordinates>-87.883187,42.160031000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Boeing</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $9,735.5 Million
+Tax Subsidies: $3,585.0 Million
+Lobbying Expenses: $52.3 Million
+Federal Taxes: –$177.6 Million]]></description>
+			<Point>
+				<coordinates>-87.638671,41.883359000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>CenterPoint Energy</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $1,931.0 Million
+Tax Subsidies: $959.9 Million
+Lobbying Expenses: $2.7 Million
+Federal Taxes: –$284.0 Million]]></description>
+			<Point>
+				<coordinates>-95.368518,29.757066000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>CMS Energy</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $1,292.0 Million
+Tax Subsidies: $481.2 Million
+Lobbying Expenses: $3.5 Million
+Federal Taxes: –$29.0 Million]]></description>
+			<Point>
+				<coordinates>-84.402378,42.246594,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F9F7A6</styleUrl>
+			<name>Computer Sciences Corporation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $1,665.8 Million
+Tax Subsidies: $888.2 Million
+Lobbying Expenses: $4.4 Million
+Federal Taxes: –$305.1 Million]]></description>
+			<Point>
+				<coordinates>-81.202762,28.573865,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Corning</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $1,977.0 Million
+Tax Subsidies: $696.0 Million
+Lobbying Expenses: $2.8 Million
+Federal Taxes: –$4.0 Million]]></description>
+			<Point>
+				<coordinates>-77.054726,42.151219,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Consolidated Edison</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $4,263.0 Million
+Tax Subsidies: $1,619.1 Million
+Lobbying Expenses: $1.8 Million
+Federal Taxes: -$127.0 Million]]></description>
+			<Point>
+				<coordinates>-73.988552,40.734065,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Con-way</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $286.4 Million
+Tax Subsidies: $126.3 Million
+Lobbying Expenses: $2.3 Million
+Federal Taxes: –$26.0 Million]]></description>
+			<Point>
+				<coordinates>-83.684106,42.305594,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Duke Energy Corporation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $5,475.5 Million
+Tax Subsidies: $2,132.4 Million
+Lobbying Expenses: $17.5 Million
+Federal Taxes: –$216.0 Million]]></description>
+			<Point>
+				<coordinates>-80.849314,35.224739,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>DuPont</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $2,124.0 Million
+Tax Subsidies: $815.4 Million
+Lobbying Expenses: $13.8 Million
+Federal Taxes: –$72.0 Million]]></description>
+			<Point>
+				<coordinates>-75.548166,39.746273,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>DTE Energy Company</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $2,551.0 Million
+Tax Subsidies: $909.9 Million
+Lobbying Expenses: $4.4 Million
+Federal Taxes: –$17.0 Million]]></description>
+			<Point>
+				<coordinates>-83.05667,42.334727,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>El Paso</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $4,105.0 Million
+Tax Subsidies: $1,477.8 Million
+Lobbying Expenses: $2.9 Million
+Federal Taxes: –$41.0 Million]]></description>
+			<Point>
+				<coordinates>-95.367387,29.75788,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>FedEx Corporation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $4,246.6 Million
+Tax Subsidies: $1,449.3 Million
+Lobbying Expenses: $50.8 Million
+Federal Taxes: $37.0 Million]]></description>
+			<Point>
+				<coordinates>-89.85853800000001,35.105609,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>General Electric</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $10,459.7 Million
+Tax Subsidies: $8,397.9 Million
+Lobbying Expenses: $84.4 Million
+Federal Taxes: –$4,737.0 Million]]></description>
+			<Point>
+				<coordinates>-73.253682,41.219921,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Honeywell</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $4,903.1 Million
+Tax Subsidies: $1,750.0 Million
+Lobbying Expenses: $18.3 Million
+Federal Taxes: -$33.9 Million]]></description>
+			<Point>
+				<coordinates>-74.444027,40.792241000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Integrys Energy Group Inc</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $818.4 Million
+Tax Subsidies: $378.8 Million
+Lobbying Expenses: $0.7 Million
+Federal Taxes: –$92.3 Million]]></description>
+			<Point>
+				<coordinates>-87.616801,41.884656,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Interpublic Group</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $570.9 Million
+Tax Subsidies: $214.8 Million
+Lobbying Expenses: $1.3 Million
+Federal Taxes: -$15.0 Million]]></description>
+			<Point>
+				<coordinates>-73.975495,40.749751,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mattel Inc</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $1,019.8 Million
+Tax Subsidies: $366.1 Million
+Lobbying Expenses: $0.8 Million
+Federal Taxes: –$9.2 Million]]></description>
+			<Point>
+				<coordinates>-118.391424,33.920785,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Navistar International</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $896.0 Million
+Tax Subsidies: $331.6 Million
+Lobbying Expenses: $6.3 Million
+Federal Taxes: –$18.0 Million]]></description>
+			<Point>
+				<coordinates>-88.110779,41.81045,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Next Era Energy Resources LLC</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $6,403.0 Million
+Tax Subsidies: $2,380.1 Million
+Lobbying Expenses: $10.0 Million
+Federal Taxes: –$139.0 Million]]></description>
+			<Point>
+				<coordinates>-80.060892,26.859778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>NiSource</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $1,384.6 Million
+Tax Subsidies: $711.9 Million
+Lobbying Expenses: $1.8 Million
+Federal Taxes: –$227.3 Million]]></description>
+			<Point>
+				<coordinates>-87.327035,41.461419,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Paccar</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $365.5 Million
+Tax Subsidies: $239.5 Million
+Lobbying Expenses: $0.8 Million
+Federal Taxes: –$111.6 Million]]></description>
+			<Point>
+				<coordinates>-122.19893500000002,47.615635,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>PepsiCo Holdings</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $882 Million
+Tax Subsidies: $818 Million
+Lobbying Expenses: $3.8 Million
+Federal Taxes: -$508 Million]]></description>
+			<Point>
+				<coordinates>-73.693444,41.034589,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>PG&amp;E Corp.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $4,855.0 Million
+Tax Subsidies: $2,726.3 Million
+Lobbying Expenses: $79.0 Million
+Federal Taxes: –$1,027.0 Million]]></description>
+			<Point>
+				<coordinates>-122.396481,37.793175,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Ryder</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $627.0 Million
+Tax Subsidies: $265.3 Million
+Lobbying Expenses: $1.0 Million
+Federal Taxes: –$45.8 Million]]></description>
+			<Point>
+				<coordinates>-80.385329,25.868163000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Tenet Healthcare Corporation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $415.0 Million
+Tax Subsidies: $193.3 Million
+Lobbying Expenses: $3.4 Million
+Federal Taxes: –$48.0 Million]]></description>
+			<Point>
+				<coordinates>-96.802597,32.784371,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Verizon</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $32,518.0 Million
+Tax Subsidies: $12,332.3 Million
+Lobbying Expenses: $52.3 Million
+Federal Taxes: -$951.0 Million]]></description>
+			<Point>
+				<coordinates>-74.013378,40.713766,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Wells Fargo</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $49,370.0 Million
+Tax Subsidies: $17,960.3 Million
+Lobbying Expenses: $11.0 Million
+Federal Taxes: –$680.8  Million]]></description>
+			<Point>
+				<coordinates>-122.40273,37.79312,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Wisconsin Energy</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Three year totals (2008-2010):
+
+Domestic Profit: $1,724.9 Million
+Tax Subsidies: $688.8 Million
+Lobbying Expenses: $2.5 Million
+Federal Taxes: –$85.0 Million]]></description>
+			<Point>
+				<coordinates>-87.913826,43.037407,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other maps of historic events</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>-107.490234,35.46067,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Corporate inversions</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Huffingtonpost: (http://www.huffingtonpost.com/2014/07/31/jon-stewart-corporate-taxes_n_5636469.html)
+
+It's the corporate tax loophole that could be costing you billions. American companies are quietly changing their paperwork to make it seem as if they're no longer U.S. companies but instead owned by one of their overseas subsidiaries.
+
+
+Includes a Daily Show Video]]></description>
+			<Point>
+				<coordinates>-69.082031,35.46067,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>View this map in Google Earth.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Non-networked KML file: (https://docs.google.com/file/d/0B52hHMRyBvEsbGxlendRUFZtNE0/edit)]]></description>
+			<Point>
+				<coordinates>-97.734375,37.2303284,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F9F7A6'>
+			<IconStyle>
+				<color>ffA6F7F9</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

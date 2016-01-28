@@ -1,0 +1,1702 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Color Coding</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- German victories =  Yellow  
+- German victories involving the mass murder of the local Jewish population = Yellow Diamond
+- Polish victories = Orange 
+- Finish victories = Green 
+- Allies, annexations, occupations and/or neutrality =   "i" symbol:  ]]></description>
+			<Point>
+				<coordinates>6.503906,49.95122,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>Digitally walk these battlefields in 3D.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[You can digitally walk these battlefields in 3D using this Non-networked Google Earth KML file. (https://docs.google.com/file/d/0B52hHMRyBvEsaUFPdGFOdFczLVk/edit)]]></description>
+			<Point>
+				<coordinates>57.128906,54.977614,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Austria's annexation.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Anschluss) 
+
+Austria was annexed into the German Third Reich on 12 March 1938.]]></description>
+			<Point>
+				<coordinates>14.326172,46.679594,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hungary joins the Axis Powers</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mikl%C3%B3s_Horthy_and_Adolf_Hitler_1938.jpg/434px-Mikl%C3%B3s_Horthy_and_Adolf_Hitler_1938.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Hungary_during_World_War_II)
+
+Hungary during World War II was a member of the Axis powers.
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>19.248047,45.95115,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Bulgaria joins the Axis Powers</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Military_history_of_Bulgaria_during_World_War_II#Axis_Powers_.281941.E2.80.931944.29)                                                                                                                                     Bulgaria joined the Axis Powers in 1941, when German troops preparing to invade Yugoslavia and Greece reached the Bulgarian borders and demanded permission to pass through Bulgarian territory. On 1 March 1941, Bulgaria signed the Tripartite Pactand officially joined the Axis bloc. With the Soviet Union in a non-aggression pact with Germany, there was little popular opposition to the decision.]]></description>
+			<Point>
+				<coordinates>24.609375,41.771312,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Romania in World War II</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bundesarchiv_Bild_183-B03212%2C_M%C3%BCnchen%2C_Staatsbesuch_Jon_Antonescu_bei_Hitler.jpg/455px-Bundesarchiv_Bild_183-B03212%2C_M%C3%BCnchen%2C_Staatsbesuch_Jon_Antonescu_bei_Hitler.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Romania_in_World_War_II)
+
+Following the outbreak of World War II on 1 September 1939, the Kingdom of Romania under King Carol II officially adopted a position of neutrality. However, the rapidly changing situation in Europe during 1940, as well as domestic political upheaval, undermined this stance. Fascist political forces such as the Iron Guard rose in popularity and power, urging an alliance with Nazi Germany and its allies.
+
+Wikipedia Commons / Bundesarchiv, Bild 183-B03212 / CC-BY-SA]]></description>
+			<Point>
+				<coordinates>24.873047,45.089036,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>German occupation of Czechoslovakia</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/9/9c/Bundesarchiv_Bild_183-R69173%2C_M%C3%BCnchener_Abkommen%2C_Staatschefs.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/German_occupation_of_Czechoslovakia) 
+
+Hitler persuaded Hácha to order the capitulation of the Czechoslovak army.
+
+Wikipedia Commons / Bundesarchiv, Bild 183-R69173 / CC-BY-SA]]></description>
+			<Point>
+				<coordinates>17.666016,48.224673,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Bombing of Wieluń - 1 September 1939</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Zniszczenia1939_0.jpg/800px-Zniszczenia1939_0.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Bombing_of_Wielu%C5%84)
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>18.566798,51.216646,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Westerplatte - 1–7 September 1939</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/d/d2/Bundesarchiv_Bild_183-2008-0513-500%2C_Danzig%2C_Westerplatte%2C_Wald.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Westerplatte)
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>18.671389,54.4075,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Mokra - 1 September 1939</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Polish_cavalry_in_Sochaczew%281939%29a.jpg/800px-Polish_cavalry_in_Sochaczew%281939%29a.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Mokra)
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>18.916667,50.966667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Polish Post Office in Danzig - - 1 September 1939</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/e/e2/Defenders_of_the_Polish_Post_Office%2C_Gdansk%2C_1939.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Defense_of_the_Polish_Post_Office_in_Danzig)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>18.656852,54.35511,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle at Krojanty - 1 September 1939</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Charge_at_Krojanty.svg/604px-Charge_at_Krojanty.svg.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Charge_at_Krojanty)
+
+Wikipedia Commons / Lonio17]]></description>
+			<Point>
+				<coordinates>17.631944,53.725556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Grudziądz - 1 September 1939</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Bundesarchiv_Bild_183-E10600%2C_Graudenz%2C_jubelnde_Menschen_neben_Panzer_IV.jpg/790px-Bundesarchiv_Bild_183-E10600%2C_Graudenz%2C_jubelnde_Menschen_neben_Panzer_IV.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Grudzi%C4%85dz)
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>18.765927,53.483777,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Lasy Królewskie - 1 September 1939 </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Lasy_Kr%C3%B3lewskie)]]></description>
+			<Point>
+				<coordinates>20.8,53.1667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Battle of the Danzig Bay - 1 September 1939</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mina_morska_typu_M_1908-39.jpg/693px-Mina_morska_typu_M_1908-39.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_the_Danzig_Bay)
+
+Wikipedia Commons / Topory]]></description>
+			<Point>
+				<coordinates>18.958611,54.483056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Mikołów - 1-2 September 1939</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Miko%C5%82%C3%B3w)]]></description>
+			<Point>
+				<coordinates>18.900074,50.166636,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Mława - 1-3 September 1939</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/2/26/Polish_bunkers.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_M%C5%82awa)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>20.378968,53.129258,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Węgierska Górka - 1-3 September 1939</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_W%C4%99gierska_G%C3%B3rka)]]></description>
+			<Point>
+				<coordinates>19.129257,49.601254,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Pszczyna  - 1-4 September 1939</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Pszczyna)]]></description>
+			<Point>
+				<coordinates>18.95,49.966667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Tuchola Forest - 1-5 September 1939</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Tuchola_Forest)]]></description>
+			<Point>
+				<coordinates>18.0,53.6,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Jordanów - 2 September 1939</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Jordan%C3%B3w)]]></description>
+			<Point>
+				<coordinates>19.833333,49.666667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Borowa Góra - 2-6 September 1939</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Gory_borowskie_1939.png/800px-Gory_borowskie_1939.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Borowa_G%C3%B3ra)
+
+Wikipedia Commons / Lonio17]]></description>
+			<Point>
+				<coordinates>19.417992,51.37671,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Różan - 4-6 September 1939</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Radom)]]></description>
+			<Point>
+				<coordinates>21.396669,52.890018,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Tomaszów Mazowiecki - 6 September 1939</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Tomasz%C3%B3w_Mazowiecki)]]></description>
+			<Point>
+				<coordinates>20.014949,51.533634,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Wizna - 7-10 September 1939</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/POL_Strekowa_G%C3%B3ra2.jpg/800px-POL_Strekowa_G%C3%B3ra2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Wizna)
+
+Wikipedia Commons  / Hiuppo]]></description>
+			<Point>
+				<coordinates>22.489657,53.212484,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Battle of Piotrków Trybunalski - 6 September 1939</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Piotrk%C3%B3w_Trybunalski)]]></description>
+			<Point>
+				<coordinates>19.6818,51.399816,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Łódź - 6-8 September 1939</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_%C5%81%C3%B3d%C5%BA_(1939) ]]></description>
+			<Point>
+				<coordinates>19.467451,51.783883,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Iłża - 8-9 September 1939</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Radom)]]></description>
+			<Point>
+				<coordinates>21.249645,51.165943,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Battle of Wola Cyrusowa - 8 September 1939</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Wola_Cyrusowa)]]></description>
+			<Point>
+				<coordinates>19.766667,51.883333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Gdynia - 8-14 September 1939</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Gdynia)]]></description>
+			<Point>
+				<coordinates>18.541832,54.531442,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Siege of Warsaw - 8-28 September 1939</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/1/1e/P%C5%82on%C4%85ca_obl%C4%99%C5%BCona_Warszawa.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Siege_of_Warsaw_(1939) 
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>21.011004,52.229857,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Hel - 9 September - 2 October 1939</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/2/2b/Soldier_of_Polish_Infantry_1939.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Hel)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>18.781389,54.641667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of the Bzura - 9-22 September 1939</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Polish_cavalry_in_Sochaczew%281939%29a.jpg/800px-Polish_cavalry_in_Sochaczew%281939%29a.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_the_Bzura)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>19.365945,52.233509,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Battle of Jarosław - 10-11 September 1939</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Jaros%C5%82aw)]]></description>
+			<Point>
+				<coordinates>22.666952,50.016728,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Battle of Kałuszyn - 11-12 September 1939</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Ka%C5%82uszyn)]]></description>
+			<Point>
+				<coordinates>21.811868000000004,52.20825,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Wilno - 18-19 September 1939</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Wilno_(1939) ]]></description>
+			<Point>
+				<coordinates>25.283333,54.683333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Lwó - 12-22 September 1939</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/8/88/Obrona_Lwowa.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Lw%C3%B3w_(1939) 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>24.018092,49.849845,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Modlin - 13-29 September 1939</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Modlin)]]></description>
+			<Point>
+				<coordinates>20.685535,52.436329,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Kobryń - 14-18 September 1939</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Kobry%C5%84)]]></description>
+			<Point>
+				<coordinates>24.367242,52.217459,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Brześć Litewski - 14–17 September 1939</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/c2/Bundesarchiv_Bild_101I-121-0007-24%2C_Polen%2C_polnische_Panzer_Renault_FT-17.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Brze%C5%9B%C4%87_Litewski)
+
+Wikipedia Commons / Bundesarchiv, Bild 101I-121-0007-24 / CC-BY-SA]]></description>
+			<Point>
+				<coordinates>23.666648,52.133296,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Kępa Oksywska - 10 – 19 September 1939 </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_K%C4%99pa_Oksywska)]]></description>
+			<Point>
+				<coordinates>18.549385,54.55116,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Sarny Fortified Area - 17 September 1939</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Sarny_Fortified_Area)]]></description>
+			<Point>
+				<coordinates>26.652575,51.339218,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Tomaszów Lubelski - -   17-26 September 1939</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Tomasz%C3%B3w_Lubelski)]]></description>
+			<Point>
+				<coordinates>23.416677,50.450465,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Battle of Wólka Węglowa - 19 September 1930</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_W%C3%B3lka_W%C4%99glowa)]]></description>
+			<Point>
+				<coordinates>20.947495,52.23558,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Kampinos Forest -  9-20 September 1939</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Kampinos_Forest)]]></description>
+			<Point>
+				<coordinates>20.598333,52.323611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Grodno - 20-22 September 1939</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Grodno_(1939) ]]></description>
+			<Point>
+				<coordinates>23.833333000000003,53.666667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Battle of Krasnobród - 23 September 1939</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Krasnobr%C3%B3d)]]></description>
+			<Point>
+				<coordinates>23.218295,50.545182,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>Battle of Szack - 28 September 1939</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Szack)]]></description>
+			<Point>
+				<coordinates>23.929722,51.487778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Wytyczno - 1 October 1939</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Wytyczno)]]></description>
+			<Point>
+				<coordinates>23.266667,51.433333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Kock - 2–5 October 1939</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Bitwa_kock_1939_1.png/798px-Bitwa_kock_1939_1.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Kock_(1939) 
+
+Wikipedia Commons / Lonio17]]></description>
+			<Point>
+				<coordinates>22.433333,51.633333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Shelling of Mainila - 26 November 1939</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mainila)]]></description>
+			<Point>
+				<coordinates>29.853333,60.252222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Bombing of Helsinki - 26 November 1939</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HU-main-building-1944b.jpg/800px-HU-main-building-1944b.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Bombing_of_Helsinki_in_World_War_II#Winter_War)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>24.938409,60.170849,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-62AF44</styleUrl>
+			<name>Battle of Salla - 30 November 1939 to 28 February 1940</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/e/e8/Salla_Phase1.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Salla_(1939) 
+
+Wikipedia Commons / Jniemenmaa]]></description>
+			<Point>
+				<coordinates>28.666256000000004,66.83325,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Petsamo - 30 November 1939 to 12 March 1940</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/OsastoPennanen.png/507px-OsastoPennanen.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Petsamo_(1939) 
+
+Wikipedia Commons / Jniemenmaa]]></description>
+			<Point>
+				<coordinates>31.191559,69.546038,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-62AF44</styleUrl>
+			<name>Battle of Kollaa - 7 December 1939 to 13 March 1940</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/d/d6/Kollaan-taistelut-maalis-1940.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Kollaa)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>32.255556,62.027778000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-62AF44</styleUrl>
+			<name>Battle of Suomussalmi - 7 December 1939 to 8 January 1940</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/e/e5/Battle_suomussalmi.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Suomussalmi)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>28.888928,64.888255,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-62AF44</styleUrl>
+			<name>Battle of Taipale - 6.-27. December 1939</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Taipale)]]></description>
+			<Point>
+				<coordinates>30.443115,60.623366,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-62AF44</styleUrl>
+			<name>Battle of Tolvajärvi - 12 December 1939</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Neuvostopanssariauto.jpg/800px-Neuvostopanssariauto.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Tolvaj%C3%A4rvi)
+
+Wikipedia Commons / SA-kuvat]]></description>
+			<Point>
+				<coordinates>31.490000000000002,62.288056000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Lieksa - 14 December 1939</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/9/99/Winterwar-december1939-karelianisthmus.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Winter_War#First_battles)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>30.018125,63.316782,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-62AF44</styleUrl>
+			<name>First Battle of Summa - 16th December – 22nd December 1939</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Summa#First_battle_in_December)]]></description>
+			<Point>
+				<coordinates>29.042358,60.511343,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Kuhmo - December 1939</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Winter_War#First_battles)]]></description>
+			<Point>
+				<coordinates>29.51641,64.125096,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-62AF44</styleUrl>
+			<name>Battle of Raate Road - 1-7 January 1940</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/0/02/Raate_road.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Raate_Road)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>29.325633,64.848144,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Second Battle of Summa - 2 February 1940</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Summa#Second_battle_in_February)]]></description>
+			<Point>
+				<coordinates>29.001159999999995,60.523509,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Gulf of Viipuri - 5 March 1940</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Winter_War#Last_days_of_war)]]></description>
+			<Point>
+				<coordinates>28.718262,60.65972300000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Operation Renntier - 22 June 1941</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/7/73/Finn_ski_troops.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_Renntier)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>30.311279,69.275597,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Białystok–Minsk - 22 June–3 July 1941 </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/1/15/Eastern_Front_1941-06_to_1941-09.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Bia%C5%82ystok%E2%80%93Minsk)
+
+Wikipedia Commons / Gdr]]></description>
+			<Point>
+				<coordinates>27.566674,53.899843,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Raseiniai - 23 June 1941 – 27 June 1941</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/6/68/Bundesarchiv_Bild_101I-209-0091-11%2C_Russland-Nord%2C_russischer_Panzer_KW-2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Raseiniai)
+
+Wikipedia Commons / Bundesarchiv, Bild 101I-209-0091-11 / Nägele / CC-BY-SA]]></description>
+			<Point>
+				<coordinates>23.116667,55.366667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Brody - 23–30 June 1941</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Battle_of_Dubno.svg/800px-Battle_of_Dubno.svg.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Brody_(1941) 
+
+Wikipedia Commons / Beringar]]></description>
+			<Point>
+				<coordinates>25.150000000000002,50.083333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Operation Platinum Fox - 29 June - 21 September, 1941</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/6/6b/Bundesarchiv_Bild_101I-103-0943-13%2C_Nordeuropa%2C_Soldaten_mit_MP.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_Platinum_Fox)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>31.926270000000002,69.209404,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Operation München - 2-24 July 1941</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/4/4c/Bess7.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_M%C3%BCnchen)
+
+Wikipedia Commons / CaptainFugu]]></description>
+			<Point>
+				<coordinates>29.000000000000004,46.833333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Smolensk - 6 July to 5 August 1941</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Smolensk_1941_Diagram.jpg/752px-Smolensk_1941_Diagram.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Smolensk_(1941) 
+
+Wikipedia Commons / Livedawg]]></description>
+			<Point>
+				<coordinates>32.05,54.783333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lepiel - 6 July 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Smolensk_(1941)#The_operation)]]></description>
+			<Point>
+				<coordinates>28.666667,54.866667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Käyrälä - 9 July 1941</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/cf/Silverfox1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_Arctic_Fox#Arctic_Fox)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>23.900302,61.10798700000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Vitebsk - 11 July 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Smolensk_(1941)#The_operation)]]></description>
+			<Point>
+				<coordinates>30.166667,55.183333000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mogilev - 13 July 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Smolensk_(1941)#The_operation)]]></description>
+			<Point>
+				<coordinates>30.333168000000004,53.900096,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Polotsk - 14 July 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Smolensk_(1941)#The_operation)]]></description>
+			<Point>
+				<coordinates>28.8,55.483333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Yelnya - 14 July 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Smolensk_(1941)#The_operation)]]></description>
+			<Point>
+				<coordinates>33.166667,54.566667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>Lyakhavichy - 19 July 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pripyat_swamps_(punitive_operation)#The_first_stage)]]></description>
+			<Point>
+				<coordinates>26.266517,53.033509,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>Hancavičy - 19 July 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pripyat_swamps_(punitive_operation)#The_first_stage)]]></description>
+			<Point>
+				<coordinates>26.432795,52.752199,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>Baranavichy -  19 July 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pripyat_swamps_(punitive_operation)#The_first_stage)]]></description>
+			<Point>
+				<coordinates>26.017126,53.133752,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>Ivatsevichy - 19 July 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pripyat_swamps_(punitive_operation)#The_first_stage)]]></description>
+			<Point>
+				<coordinates>25.333333,52.716667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>Biaroza - 19 July 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pripyat_swamps_(punitive_operation)#The_first_stage)]]></description>
+			<Point>
+				<coordinates>24.966785,52.549777,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>Pružany - 19 July 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pripyat_swamps_(punitive_operation)#The_first_stage)]]></description>
+			<Point>
+				<coordinates>24.465913,52.55742,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>Drahičyn - 19 July 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pripyat_swamps_(punitive_operation)#The_first_stage)]]></description>
+			<Point>
+				<coordinates>25.151807,52.183149,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>Ivanava - 19 July 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pripyat_swamps_(punitive_operation)#The_first_stage)]]></description>
+			<Point>
+				<coordinates>25.55,52.133333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>Sarny - 19 July 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pripyat_swamps_(punitive_operation)#The_first_stage)]]></description>
+			<Point>
+				<coordinates>26.605833,51.337222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name> Luninyet - 19 July 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pripyat_swamps_(punitive_operation)#The_first_stage)]]></description>
+			<Point>
+				<coordinates>26.800748,52.250375,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>Pinsk - 19 July 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pripyat_swamps_(punitive_operation)#The_first_stage)]]></description>
+			<Point>
+				<coordinates>26.099816000000004,52.116222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>Lyuban - 19 July 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pripyat_swamps_(punitive_operation)#The_second_stage)]]></description>
+			<Point>
+				<coordinates>31.250000000000004,59.349999999999994,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>Ptsich - 19 July 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pripyat_swamps_(punitive_operation)#The_second_stage)]]></description>
+			<Point>
+				<coordinates>28.866667,52.15,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Defense of Brest Fortress - 22–29 June, 1941 </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Defense_of_Brest_Fortress)]]></description>
+			<Point>
+				<coordinates>23.672619,52.136649,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Uman - 15 July–8 August 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Uman)]]></description>
+			<Point>
+				<coordinates>30.216289,48.750112,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Slutsk—Babruysk - 27 July 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pripyat_swamps_(punitive_operation)#The_first_stage)]]></description>
+			<Point>
+				<coordinates>27.567598000000004,53.03362,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Siege of Odessa - 8 August – 16 October 1941</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Odessa_Soviet_artilery.JPG/800px-Odessa_Soviet_artilery.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Siege_of_Odessa_(1941))
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>30.734954999999996,46.466565,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Soviet evacuation of Tallinn - 27–31 August 1941</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/f/fe/Kirov_1941.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Evacuation_of_Tallinn_(1941) 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>24.745338,59.437112,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Kiev - 23 August – 26 September 1941</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/5/51/Bundesarchiv_Bild_183-L19885%2C_Russland%2C_Heinz_Guderian_vor_Gefechtsstand.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Kiev_(1941) 
+
+Wikipedia Commons / Bundesarchiv, Bild 183-L19885 / Huschke / CC-BY-SA]]></description>
+			<Point>
+				<coordinates>30.523642000000002,50.449839,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Yelnya Offensive - 30 August to 8 September 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Yelnya_Offensive)]]></description>
+			<Point>
+				<coordinates>33.321533,54.508327,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Siege of Leningrad - 8 September 1941 – 27 January 1944</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/e/e0/RIAN_archive_5634_Antiaircrafters_guarding_the_sky_of_Leningrad.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Siege_of_Leningrad)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>30.319129,59.930183,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Nevsky Pyatachok 20 September 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Nevsky_Pyatachok)]]></description>
+			<Point>
+				<coordinates>30.953333,59.84361100000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Moscow - 2 October 1941 – 7 January 1942</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Battle_of_Moscow.jpg/800px-Battle_of_Moscow.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Moscow) 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>37.633291,55.750288,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle at Borodino Field - 13 October 1941 – 18 January 1942</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_at_Borodino_Field)]]></description>
+			<Point>
+				<coordinates>35.821167,55.5085,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Bryansk - 6 October 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Moscow#Vyazma_and_Bryansk_pockets)]]></description>
+			<Point>
+				<coordinates>34.367579,53.250354,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mtsensk - 23 October 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Moscow#Vyazma_and_Bryansk_pockets)]]></description>
+			<Point>
+				<coordinates>36.55,53.266667000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Maloyaroslavets - 18 October 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Moscow#Mozhaisk_defense_line_.2813_October_.E2.80.93_30_October.29)]]></description>
+			<Point>
+				<coordinates>36.466667,55.016667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>First Battle of Kharkov - 20–24 October 1941</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/a/a8/Bundesarchiv_Bild_183-L20582%2C_Charkow%2C_Strassenk%C3%A4mpfe.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/First_Battle_of_Kharkov)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>36.221924,49.965356,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Naro-Fominsk - 21 October 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Moscow#Mozhaisk_defense_line_.2813_October_.E2.80.93_30_October.29)]]></description>
+			<Point>
+				<coordinates>36.73273,55.383582,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1483</styleUrl>
+			<name>Rasputitsa</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/4/4a/Bundesarchiv_Bild_183-B15500%2C_Russland%2C_Dorf_vor_Moskau.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/Rasputitsa) 
+
+The rasputitsa refers to the biannual seasons when unpaved roads become difficult to traverse in parts of Belarus, Russia, and Ukraine. During the Second World War the month-long muddy period slowed down the German advance during the Battle of Moscow, and may have helped save the Soviet capital, as well as the presence of "General Winter", that followed the autumn rasputitsa period.
+
+
+
+Wikipedia Commons / Bundesarchiv, Bild 183-B15500 / Britting / CC-BY-SA]]></description>
+			<Point>
+				<coordinates>40.34179700000001,55.17886800000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Volokolamsk - 27 October 1941</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Soldiers_on_guard_in_December_1941_to_the_west_of_Moscow.jpg/800px-Soldiers_on_guard_in_December_1941_to_the_west_of_Moscow.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Moscow#Mozhaisk_defense_line_.2813_October_.E2.80.93_30_October.29)
+
+Wikipedia Commons / Wilhelm Gierse]]></description>
+			<Point>
+				<coordinates>35.949858,56.033342,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Murmansk - 30 October 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_Arctic_Fox#Arctic_Fox)]]></description>
+			<Point>
+				<coordinates>33.07379,68.941624,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Rostov - 21–27 November 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Rostov_(1941) ]]></description>
+			<Point>
+				<coordinates>39.7,47.233333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Stalinogorsk - 22 November 1941</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Moscow#Mozhaisk_defense_line_.2813_October_.E2.80.93_30_October.29)]]></description>
+			<Point>
+				<coordinates>38.266667,54.033333000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Sukhumi - 23 July 1942 </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_Edelwei%C3%9F#Operation)]]></description>
+			<Point>
+				<coordinates>41.01622400000001,43.000094,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Zugdid  - 23 July 1942</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_Edelwei%C3%9F#Operation)]]></description>
+			<Point>
+				<coordinates>41.84748700000001,42.502997,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Kutaisi - 23 July 1942</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_Edelwei%C3%9F#Operation)]]></description>
+			<Point>
+				<coordinates>42.699981,42.251508,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>T'bilisi - 23 July 1942</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_Edelwei%C3%9F#Operation)]]></description>
+			<Point>
+				<coordinates>44.784563,41.71523,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Elbrus - 23 July 1942</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_Edelwei%C3%9F#Operation)]]></description>
+			<Point>
+				<coordinates>42.439167000000005,43.355,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle of Stalingrad - 23 August 1942 – 2 February 1943</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/3/31/Bundesarchiv_Bild_183-B0130-0050-004%2C_Russland%2C_Kesselschlacht_Stalingrad.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Stalingrad_front)
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>44.517158,48.700318,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battles of Rzhev - 25 November - 20 December 1942</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/0/0d/Bundesarchiv_Bild_101I-269-0240-11A%2C_Russland%2C_Panzer_mit_aufgesesssener_Infanterie.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battles_of_Rzhev)
+
+Wikipedia Commons / Bundesarchiv, Bild 101I-269-0240-11A / Böhmer / CC-BY-SA]]></description>
+			<Point>
+				<coordinates>34.31667,56.250027,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Velikie Luki - 25 November - 20 December 1942</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/RIAN_archive_87961_Collective_farmers_from_the_Moscow_suburbs_handing_over_tanks_to_Soviet_servicemen.jpg/800px-RIAN_archive_87961_Collective_farmers_from_the_Moscow_suburbs_handing_over_tanks_to_Soviet_servicemen.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_Mars)
+
+Wikipedia Commons / RIA Novosti archive, image #87961 / Shagin / CC-BY-SA 3.0]]></description>
+			<Point>
+				<coordinates>30.533333000000002,56.333333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Second Battle of Kharkov - 12–28 May 1942</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/9/91/Kharkov2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Second_Battle_of_Kharkov)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>36.316667,49.916667000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Siege of Sevastopol - 30 October 1941 – 4 July 1942</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/a/aa/Krasnaya_Ukraina.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Siege_of_Sevastopol_(1941%E2%80%931942) 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>33.541531,44.604751,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Battle of Someri - 8–10 July 1942</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/5/52/Uusimaa.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Someri)
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>27.65,60.20000000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Toropets–Kholm Offensive - 9 January-6 February 1942 </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Toropets-Kholm_Operation)]]></description>
+			<Point>
+				<coordinates>32.266667,56.65,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Battle of Voronezh - 28 June - 24 July 1942</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/2/2a/Bundesarchiv_Bild_101I-216-0412-07%2C_Russland%2C_brennender_russischer_Panzer_KW_1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_of_Voronezh_(1942) 
+
+Wikipedia Commoms / Bundesarchiv, Bild 101I-216-0412-07 / Klintzsch / CC-BY-SA]]></description>
+			<Point>
+				<coordinates>39.214135,51.670544,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Operation Uranus - 19–23 November 1942</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/f/f9/Bundesarchiv_Bild_101III-Bueschel-090-39%2C_Russland%2C_Grenadiere_der_Waffen-SS_beim_Vorgehen.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_Uranus)
+
+Wikipedia Commons / Bundesarchiv, Bild 101III-Bueschel-090-39 / Büschel / CC-BY-SA]]></description>
+			<Point>
+				<coordinates>44.219971,48.770672,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Battle for Velikiye Luki - 19 November 1942 - 16 January 1943</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Battle_for_Velikiye_Luki_(1943) ]]></description>
+			<Point>
+				<coordinates>30.533333000000002,56.333333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Tatsinskaya Raid - 16–28 December 1942</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ww2_map25_Dec42_Feb43.jpg/788px-Ww2_map25_Dec42_Feb43.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Tatsinskaya_Raid)
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>41.277778,48.167222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Operation Winter Storm - 12–23 December 1942</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/8/89/Bundesarchiv_Bild_101I-457-0065-36%2C_Russland%2C_Panzer_VI_%28Tiger_I%29_und_T34.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Operation_Wintergewitter)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>43.884888,48.327039,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps on History</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>48.867188,55.776573,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1037</styleUrl>
+			<name>Other WWII Battle Maps</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- WWII Battles: The Western Front (http://myreadingmapped.blogspot.com/search?updated-max=2012-01-01T06:37:00-05:00&max-results=1&start=42&by-date=false)
+
+- WWII Battles: The Mediterranean& North African Front (http://myreadingmapped.blogspot.com/search?updated-max=2012-01-01T06:23:00-05:00&max-results=1&start=43&by-date=false)
+
+- WWII Battles: The Eastern Front, Soviet Offensive (http://myreadingmapped.blogspot.com/b/post-preview?token=P-Z0ljgBAAA.IZTFx6tvUQ9ppww7BKo3GQ.vvglyPUHFEi06BxXRI9anQ&postId=3386872041836832047&type=POST)]]></description>
+			<Point>
+				<coordinates>39.375,58.995311,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1037'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1037-biz-house.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1417'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1417-trans-airport.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1433'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1433-trans-ferry.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1483'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1483-weather-snow.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-62AF44'>
+			<IconStyle>
+				<color>ff44AF62</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F8971B'>
+			<IconStyle>
+				<color>ff1B97F8</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-962-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

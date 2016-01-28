@@ -1,0 +1,1933 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1037</styleUrl>
+			<name>More Commercial Aviation Crash Site Maps</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[90 years of Commercial Aviation Crash Site maps. (http://myreadingmapped.blogspot.com/2011/01/airplane-and-train-crash-maps.html)]]></description>
+			<Point>
+				<coordinates>170.507813,25.165173,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps on History</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped (http://myreadingmapped.blogspot.com/p/site-map-of-myreadingmapped.html). ]]></description>
+			<Point>
+				<coordinates>85.782623,-10.155450000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Hughes Airwest Flight 706 - 6/6/71</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Hughesairwest705.png/260px-Hughesairwest705.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Hughes_Airwest_Flight_706)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-118.00000000000001,34.175,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Toa Domestic Airlines Flight 533 - 7/3/71</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/53/YS-11_JA8717.jpg/260px-YS-11_JA8717.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Toa_Domestic_Airlines_Flight_533)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>140.7833,41.93333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>All Nippon Airways Flight 58 - 7/30/71</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Boeing_727-2S7_Advanced_Champion_LAX.jpg/300px-Boeing_727-2S7_Advanced_Champion_LAX.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/All_Nippon_Airways_Flight_58)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>140.983333,39.683333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Alaska Airlines Flight 1866 - 9/4/71</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Boeing_727-2S7_Advanced_Champion_LAX.jpg/300px-Boeing_727-2S7_Advanced_Champion_LAX.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Alaska_Airlines_Flight_1866)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-135.4669,58.93840000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Paninternational Flight 112 - 9/6/71</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Paninternational_BAC-111_D-ALAR.jpg/260px-Paninternational_BAC-111_D-ALAR.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Paninternational_Flight_112)
+
+Location on Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19710906-0)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>9.94606,53.688931,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>British European Airways Flight 706 - 10/2/71</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bea_vickers_vanguard_g-apec_arp.jpg/260px-Bea_vickers_vanguard_g-apec_arp.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/British_European_Airways_Flight_706)
+
+Location on Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19711002-1)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>3.440609,50.992258,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Indian Ocean Vickers Viscount crash - 11/10/71</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Cambrian_viscount_g-amon_in_1963_arp.jpg/230px-Cambrian_viscount_g-amon_in_1963_arp.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1971_Indian_Ocean_Vickers_Viscount_crash)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19711110-0)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>100.16922,-1.056001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>D. B. Cooper Extortion Hijacking - 11/24/74</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Boeing_727-2S7_Advanced_Champion_LAX.jpg/300px-Boeing_727-2S7_Advanced_Champion_LAX.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/D._B._Cooper)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-122.55510100000001,45.956779,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>LANSA Flight 508 - 12/24/71</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/81/NWT_Air_Lockheed_Electra_at_Vancouver_Airport_in_August_1983.jpg/300px-NWT_Air_Lockheed_Electra_at_Vancouver_Airport_in_August_1983.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/LANSA_Flight_508)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19711224-0)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-74.966666,-9.366685,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Iberia Airlines Flight 602 - 1/7/72</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Finnair_Caravelle_Basle_Airport_-_April_1976.jpg/300px-Finnair_Caravelle_Basle_Airport_-_April_1976.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Iberia_Airlines_Flight_602)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19720107-1)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>1.326572,38.909369000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>JAT Flight 367 - 1/26/72</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/New_York_Air_DC-9_Detroit_-_16_August_1983.jpg/300px-New_York_Air_DC-9_Detroit_-_16_August_1983.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/JAT_Flight_367)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>14.346389,50.826944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Mohawk Airlines Flight 405 - 3/3/72</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mohawk_N7823M.png/260px-Mohawk_N7823M.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mohawk_Airlines_Flight_405)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19720303-0)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-73.800571,42.674146,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Sterling Airways Flight 296 - 3/14/72</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Sterling_Caravelle_in_Basel.jpg/260px-Sterling_Caravelle_in_Basel.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Sterling_Airways_Flight_296)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>56.355278,25.074167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>EgyptAir Flight 763 - 3/19/72</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/New_York_Air_DC-9_Detroit_-_16_August_1983.jpg/300px-New_York_Air_DC-9_Detroit_-_16_August_1983.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/EgyptAir_Flight_763)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>45.0169,12.7656,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Alitalia Flight 112 - 5/5/72</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Air_Jamaica_McDonnell_Douglas_DC-8-62H_Fitzgerald.jpg/300px-Air_Jamaica_McDonnell_Douglas_DC-8-62H_Fitzgerald.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Alitalia_Flight_112)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19720505-0)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>13.132267,38.140734,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Cathay Pacific Flight 700Z - 6/15/72</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DAL-Convair-880inflight.jpg/300px-DAL-Convair-880inflight.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Cathay_Pacific_Flight_700Z)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19720615-1)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>107.584326,13.679525,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>British European Airways Flight 548 - 6/18/72</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Trident_62.jpg/300px-Trident_62.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/British_European_Airways_Flight_548)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-0.508889,51.439167000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Prinair Flight 191 - 6/24/72</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/DH.114_Heron_2_Cambrian_04.58.jpg/300px-DH.114_Heron_2_Cambrian_04.58.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Prinair_Flight_191)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-66.57217,18.011059,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Lake Winnebago mid-air collision - 6/29/72</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/North_Central_Airlines_CV-580_N4825C.jpg/799px-North_Central_Airlines_CV-580_N4825C.jpg http://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Twin_Otter_4_1997-08-02.jpg/800px-Twin_Otter_4_1997-08-02.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1972_Lake_Winnebago_mid-air_collision)
+
+
+ Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-88.4,44.183333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Königs Wusterhausen air disaster - 8/14/72</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Interavia_Ilyushin_Il-62M.jpg/300px-Interavia_Ilyushin_Il-62M.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1972_K%C3%B6nigs_Wusterhausen_air_disaster)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>13.688611,52.306389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Thandwe crash - 8/16/72</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/020903-o-9999b-048.jpg/300px-020903-o-9999b-048.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1972_Thandwe_crash)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19720816-1)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>94.296684,18.447207,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Japan Airlines Flight 472 - 9/24/72</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/DC-8_Japan_Airlines.JPG/260px-DC-8_Japan_Airlines.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Japan_Airlines_Flight_472_(1972))
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>72.839098,19.099106,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Uruguayan Air Force Flight 571 - 10/13/72</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/76/FokkerAnde1972.jpg/260px-FokkerAnde1972.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Uruguayan_Air_Force_Flight_571)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-70.286389,-34.765,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>United Airlines Flight 553 - 12/8/72</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/737-100_N73700.jpg/300px-737-100_N73700.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/United_Airlines_Flight_553)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-87.716025,41.765358,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>1972 Chicago-O'Hare runway collision - 12/20/72</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Douglas_DC-9-31_N960N_N.Central_TOR_26.03.71l_edited-2.jpg/800px-Douglas_DC-9-31_N960N_N.Central_TOR_26.03.71l_edited-2.jpg http://upload.wikimedia.org/wikipedia/commons/9/90/DAL-Convair-880inflight.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1972_Chicago-O%27Hare_runway_collision)
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-87.901397,41.968808,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Braathens SAFE Flight 239 - 12/23/72</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Piedmont_F-28-1000.jpg/300px-Piedmont_F-28-1000.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Braathens_SAFE_Flight_239)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>10.339167000000002,59.865833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Eastern Air Lines Flight 401 - 12/29/72</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ea401.png/260px-Ea401.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Eastern_Air_Lines_Flight_401)
+
+
+Rendering of N310EA as it enters the swamp.
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-80.595278,25.864722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Kano air disaster - 1/22/73</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Boeing_707-138B_Qantas_Jett_Clipper_Ella_N707JT.jpg/300px-Boeing_707-138B_Qantas_Jett_Clipper_Ella_N707JT.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Kano_air_disaster)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19730122-0)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>8.521035,12.049016,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>1973 EgyptAir Ilyushin Il-18 crash - 1/29/73</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/IL-18-700px.jpg/260px-IL-18-700px.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1973_EgyptAir_Ilyushin_Il-18_crash)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19730129-0)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>33.239012,35.306992,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Libyan Arab Airlines Flight 114 -  2/21/73</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/727-f4-3.png/260px-727-f4-3.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Approximated location.
+
+Wikipedia (http://en.wikipedia.org/wiki/Libyan_Arab_Airlines_Flight_114)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>32.809982,30.413743,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Balkan Bulgarian Airlines Flight LZ307 - 3/3/73</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rossiya_Ilyushin_Il-18.jpg/300px-Rossiya_Ilyushin_Il-18.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Balkan_Bulgarian_Airlines_Flight_LZ307)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19730303-1)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>37.416,55.973222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Invicta International Airlines - 4/10/73</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bea_vickers_vanguard_g-apec_arp.jpg/300px-Bea_vickers_vanguard_g-apec_arp.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Invicta_International_Airlines_Flight_435)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>7.623173,47.454318,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Aeroméxico Flight 229 - 6/20/73</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/New_York_Air_DC-9_Detroit_-_16_August_1983.jpg/300px-New_York_Air_DC-9_Detroit_-_16_August_1983.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Aerom%C3%A9xico_Flight_229)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19730620-1)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-105.014411,20.494984,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Varig Flight 820 - 7/11/73</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Boeing_707-138B_Qantas_Jett_Clipper_Ella_N707JT.jpg/300px-Boeing_707-138B_Qantas_Jett_Clipper_Ella_N707JT.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Varig_Flight_820)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>2.4,48.75,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Pan Am Flight 816 - 7/22/73</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Boeing_707-138B_Qantas_Jett_Clipper_Ella_N707JT.jpg/300px-Boeing_707-138B_Qantas_Jett_Clipper_Ella_N707JT.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pan_Am_Flight_816)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19730722-0)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-149.587784,-17.528657,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Ozark Air Lines Flight 809 - 7/23/73</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Fairchild-Hil_FH.227B_PP-BUH_Congonhas_06.05.72_edited-2.jpg/300px-Fairchild-Hil_FH.227B_PP-BUH_Congonhas_06.05.72_edited-2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Ozark_Air_Lines_Flight_809)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-90.308333,38.718611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Delta Air Lines Flight 723 - 7/31/73</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/New_York_Air_DC-9_Detroit_-_16_August_1983.jpg/300px-New_York_Air_DC-9_Detroit_-_16_August_1983.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Delta_Air_Lines_Flight_723)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-71.012519,42.349833000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Aviaco Flight 118 - 8/13/73</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Finnair_Caravelle_Basle_Airport_-_April_1976.jpg/300px-Finnair_Caravelle_Basle_Airport_-_April_1976.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Aviaco_Flight_118)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-8.3575,43.329444,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>JAT Airways Flight 769 - 9/11/73</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Finnair_Caravelle_Basle_Airport_-_April_1976.jpg/300px-Finnair_Caravelle_Basle_Airport_-_April_1976.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/JAT_Airways_Flight_769)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>19.380278,42.863611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Texas International Airlines Flight 655 - 9/27/73</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Convair-240-color.jpg/300px-Convair-240-color.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Texas_International_Airlines_Flight_655)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-94.333333,34.701389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Turkish Airlines Izmir crash - 1/26/74</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Piedmont_F-28-1000.jpg/300px-Piedmont_F-28-1000.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1974_Turkish_Airlines_Izmir_crash)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>27.155000000000005,38.289167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Pan Am Flight 806 - 1/30/74</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Boeing_707-138B_Qantas_Jett_Clipper_Ella_N707JT.jpg/300px-Boeing_707-138B_Qantas_Jett_Clipper_Ella_N707JT.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pan_Am_Flight_806)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19740130-0)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-170.735371,-14.346127999999998,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Turkish Airlines Flight 981 - 3/3/74</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Dc10-ta3a.png/260px-Dc10-ta3a.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Turkish_Airlines_Flight_981)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>2.633333,49.141667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Court Line Flight 95 - 4/18/74</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/59/British_Island_Airways_at_Basle_-_1985.jpg/300px-British_Island_Airways_at_Basle_-_1985.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Court_Line_Flight_95)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-0.36899,51.87468,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Pan Am Flight 812 - 4/22/74</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Boeing_707-138B_Qantas_Jett_Clipper_Ella_N707JT.jpg/300px-Boeing_707-138B_Qantas_Jett_Clipper_Ella_N707JT.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pan_Am_Flight_812)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19740422-0)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>114.764686,-8.269932,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Eastern Air Lines Flight 212 - 9/11/74</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/New_York_Air_DC-9_Detroit_-_16_August_1983.jpg/300px-New_York_Air_DC-9_Detroit_-_16_August_1983.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Eastern_Air_Lines_Flight_212)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-80.926111,35.153889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Air Vietnam Flight 706 - 9/15/74</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Boeing_727-2S7_Advanced_Champion_LAX.jpg/300px-Boeing_727-2S7_Advanced_Champion_LAX.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Air_Vietnam_Flight_706)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19740915-0)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>108.933434,11.629917,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Lufthansa Flight 540 - 11/20/74</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Ba_b747-400_g-bnle_arp.jpg/300px-Ba_b747-400_g-bnle_arp.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lufthansa_Flight_540)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19741120-0)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>36.905243,-1.335147,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>TWA Flight 514 -12/1/74</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Boeing_727-2S7_Advanced_Champion_LAX.jpg/300px-Boeing_727-2S7_Advanced_Champion_LAX.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/TWA_Flight_514)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19741201-0)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-77.869034,39.067747,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Martinair Flight 138 - 12/4/74</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Air_Jamaica_McDonnell_Douglas_DC-8-62H_Fitzgerald.jpg/300px-Air_Jamaica_McDonnell_Douglas_DC-8-62H_Fitzgerald.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Martinair_Flight_138)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>80.56666700000001,6.833333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Avensa Flight 358 - 12/22/74</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/New_York_Air_DC-9_Detroit_-_16_August_1983.jpg/300px-New_York_Air_DC-9_Detroit_-_16_August_1983.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Avensa_Flight_358)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19741222-1)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-62.877502,9.841009,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Golden West Airlines Flight 2611/9/75</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WinAir_De_Havilland_Canada_DHC-6-300_Twin_Otter_Breidenstein.jpg/300px-WinAir_De_Havilland_Canada_DHC-6-300_Twin_Otter_Breidenstein.jpg http://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Cessna.fa150k.g-aycf.arp.jpg/300px-Cessna.fa150k.g-aycf.arp.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Golden_West_Airlines_Flight_261)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-118.066665,33.983199,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Turkish Airlines Flight 345 - 1/30/75</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Piedmont_F-28-1000.jpg/300px-Piedmont_F-28-1000.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Turkish_Airlines_Flight_345)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>28.66608,40.74726,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Western Airlines Flight 470 - 3/31/75</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/737-100_N73700.jpg/300px-737-100_N73700.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Western_Airlines_Flight_470)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19750331-0)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-106.462541,42.907751,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Tan Son Nhut C-5 accident - 4/4/75</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Usaf.c5.galaxy.750pix.jpg/260px-Usaf.c5.galaxy.750pix.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1975_Tan_Son_Nhut_C-5_accident)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>106.6975,10.840278,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Eastern Air Lines Flight 66 - 6/24/75</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Boeing_727-2S7_Advanced_Champion_LAX.jpg/300px-Boeing_727-2S7_Advanced_Champion_LAX.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Eastern_Air_Lines_Flight_66)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19750624-1)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-73.752551,40.649192,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Agadir air disaster - 8/3/75</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Boeing_707-138B_Qantas_Jett_Clipper_Ella_N707JT.jpg/300px-Boeing_707-138B_Qantas_Jett_Clipper_Ella_N707JT.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Agadir_air_disaster)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19750803-1)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-9.8238,30.707024,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Wien Air Alaska Flight 99 - 8/30/75</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Fairchild-Hil_FH.227B_PP-BUH_Congonhas_06.05.72_edited-2.jpg/300px-Fairchild-Hil_FH.227B_PP-BUH_Congonhas_06.05.72_edited-2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Wien_Air_Alaska_Flight_99)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-171.708333,63.765,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Garuda Indonesia Flight 150 - 9/24/75</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Piedmont_F-28-1000.jpg/300px-Piedmont_F-28-1000.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Garuda_Indonesia_Flight_150)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19750924-2)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>104.71344,-2.86735,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Inex-Adria Aviopromet Flight 450 - 10/30/75</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/New_York_Air_DC-9_Detroit_-_16_August_1983.jpg/300px-New_York_Air_DC-9_Detroit_-_16_August_1983.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Inex-Adria_Aviopromet_Flight_450)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19751030-0)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>14.354668000000002,50.168102,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Middle East Airlines Flight 438 - 1/1/76</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Trans_Polar_Boeing_720_S%C3%B6derstr%C3%B6m.jpg/300px-Trans_Polar_Boeing_720_S%C3%B6derstr%C3%B6m.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Middle_East_Airlines_Flight_438)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19760101-1)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>45.91684300000001,28.57216,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>American Airlines Flight 625 - 4/27/76</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Boeing_727-2S7_Advanced_Champion_LAX.jpg/300px-Boeing_727-2S7_Advanced_Champion_LAX.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/American_Airlines_Flight_625)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19760427-1)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-64.960785,18.341124,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Aeroflot Flight 418 - 6/1/76</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tupolev_Tu-154M_Slovak_Republic.jpg/300px-Tupolev_Tu-154M_Slovak_Republic.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Aeroflot_Flight_418)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19760601-2)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>8.540497,3.303679,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>ČSA Flight 001 - 7/28/76</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rossiya_Ilyushin_Il-18.jpg/300px-Rossiya_Ilyushin_Il-18.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/%C4%8CSA_Flight_001)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>17.19,48.181944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>SAETA Flight 232 - 8/15/76</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/G-arir.jpg/300px-G-arir.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SAETA_Flight_232)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19760815-0)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-78.824158,-1.482989,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Zagreb mid-air collision - 9/10/76</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Zagrebcoll.png/260px-Zagrebcoll.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1976_Zagreb_mid-air_collision)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>16.310556,45.8925,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Turkish Airlines Flight 452 - 9/19/76</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Boeing_727-2S7_Advanced_Champion_LAX.jpg/300px-Boeing_727-2S7_Advanced_Champion_LAX.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Turkish_Airlines_Flight_452)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>30.500239999999998,37.892548,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Cubana Flight 455 - 10/6/76</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Air_Jamaica_McDonnell_Douglas_DC-8-62H_Fitzgerald.jpg/300px-Air_Jamaica_McDonnell_Douglas_DC-8-62H_Fitzgerald.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Cubana_Flight_455)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19761006-0)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-59.521865999999996,13.013255,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>EgyptAir Flight 864 - 12/25/76</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Boeing_707-138B_Qantas_Jett_Clipper_Ella_N707JT.jpg/300px-Boeing_707-138B_Qantas_Jett_Clipper_Ella_N707JT.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/EgyptAir_Flight_864)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19761225-0)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>100.622921,13.945563,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Linjeflyg Flight 618 - 1/15/77</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/G-arir.jpg/300px-G-arir.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Linjeflyg_Flight_618)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19770115-1)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>17.86525,59.381649,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Tenerife airport disaster - 3/27/77</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/18/KLM_747_%287491686916%29.jpg/800px-KLM_747_%287491686916%29.jpg http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Pan_American_World_Airways_Boeing_747_N750PA_01.jpg/800px-Pan_American_World_Airways_Boeing_747_N750PA_01.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Tenerife_airport_disaster)
+
+
+Wikipedia Commons / clipperarctic and Piergiuliano Chesi]]></description>
+			<Point>
+				<coordinates>-16.3384,28.48165,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Southern Airways Flight 242 - 4/4/77</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Sa242.png/260px-Sa242.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Southern_Airways_Flight_242)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-84.786944,33.9625,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Dan-Air Boeing 707 crash - 5/14/77</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Boeing_707-138B_Qantas_Jett_Clipper_Ella_N707JT.jpg/300px-Boeing_707-138B_Qantas_Jett_Clipper_Ella_N707JT.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1977_Dan-Air_Boeing_707_crash)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19770514-0)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>28.292241,-15.425923,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Aeroflot Ilyushin 62 crash - 5/27/77</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Interavia_Ilyushin_Il-62M.jpg/300px-Interavia_Ilyushin_Il-62M.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1977_Aeroflot_Ilyushin_62_crash)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-82.409167,22.989167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Japan Airlines Flight 715 - 9/27/77</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Air_Jamaica_McDonnell_Douglas_DC-8-62H_Fitzgerald.jpg/300px-Air_Jamaica_McDonnell_Douglas_DC-8-62H_Fitzgerald.jpg </value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Japan_Airlines_Flight_715)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19770927-0)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>101.493416,3.189879,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>31Convair CV-300 crash - 10/20/77</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Convair-240-color.jpg/300px-Convair-240-color.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1977_Convair_CV-300_crash)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-90.59916700000001,31.071944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>TAP Portugal Flight 425 - 11/19/77</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Boeing_727-2S7_Advanced_Champion_LAX.jpg/300px-Boeing_727-2S7_Advanced_Champion_LAX.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/TAP_Portugal_Flight_425)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-16.774444,32.697778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Malaysia Airlines Flight 653 - 12/4/77</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MAS_Boeing_737-200_Wallner.jpg/260px-MAS_Boeing_737-200_Wallner.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_653)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>103.576012,1.443176,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>United Airlines Flight 2860 - 12/17/77</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/United_Airlines_Flight_2860)]]></description>
+			<Point>
+				<coordinates>-111.875,41.028056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>SA de Transport Aérien Flight 730 - 12/18/77</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Finnair_Caravelle_Basle_Airport_-_April_1976.jpg/300px-Finnair_Caravelle_Basle_Airport_-_April_1976.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SA_de_Transport_A%C3%A9rien_Flight_730)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19771218-1)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-16.720333,32.665246,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Air India Flight 855 - 1/1/78</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Air_India_Old.jpg/260px-Air_India_Old.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Air_India_Flight_855)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>72.1592,18.975,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Pacific Western Airlines Flight 314 - 2/11/78</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/737-100_N73700.jpg/300px-737-100_N73700.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pacific_Western_Airlines_Flight_314)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-115.78747,49.610821,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Balkan Bulgarian Tupolev Tu-134 crash - 3/16/78</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/MAGAS_Kosmos_Tupolev_Tu-134_Misko.jpg/300px-MAGAS_Kosmos_Tupolev_Tu-134_Misko.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1978_Balkan_Bulgarian_Tupolev_Tu-134_crash)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19780316-0)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>23.918524,43.317872,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Korean Air Lines Flight 902 - 4/20/78</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/707_kal905.png/260px-707_kal905.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Korean_Air_Lines_Flight_902)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>33.072017,66.048217,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>National Airlines Flight 193 - 5/8/78</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Boeing_727-2S7_Advanced_Champion_LAX.jpg/300px-Boeing_727-2S7_Advanced_Champion_LAX.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/National_Airlines_Flight_193)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-87.1175,30.485555999999995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Air Canada Flight 189 - 6/26/78</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/New_York_Air_DC-9_Detroit_-_16_August_1983.jpg/300px-New_York_Air_DC-9_Detroit_-_16_August_1983.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Air_Canada_Flight_189)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-79.665213,43.673343,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Air Rhodesia Flight 825 - 9/3/78</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Air_Rhodesia_Vickers_748D_Viscount_Wheatley.jpg/260px-Air_Rhodesia_Vickers_748D_Viscount_Wheatley.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Air_Rhodesia_Flight_825)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>29.083333000000003,-16.783333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>PSA Flight 182 - 9/25/78</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Psa182.png/260px-Psa182.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/PSA_Flight_182)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-117.12055600000001,32.743611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Icelandic Airlines Flight LL 001 0 11/15/78</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Air_Jamaica_McDonnell_Douglas_DC-8-62H_Fitzgerald.jpg/300px-Air_Jamaica_McDonnell_Douglas_DC-8-62H_Fitzgerald.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Icelandic_Airlines_Flight_LL_001)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>79.870949,7.163831,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Alitalia Flight 4128 - 12/23/78</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/New_York_Air_DC-9_Detroit_-_16_August_1983.jpg/300px-New_York_Air_DC-9_Detroit_-_16_August_1983.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Alitalia_Flight_4128)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>13.156815,38.19799,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>United Airlines Flight 173 - 12/28/78</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Air_Jamaica_McDonnell_Douglas_DC-8-62H_Fitzgerald.jpg/300px-Air_Jamaica_McDonnell_Douglas_DC-8-62H_Fitzgerald.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/United_Airlines_Flight_173)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-122.499722,45.5225,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>PP-VLU - 1/30/79</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Boeing_707-138B_Qantas_Jett_Clipper_Ella_N707JT.jpg/300px-Boeing_707-138B_Qantas_Jett_Clipper_Ella_N707JT.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/PP-VLU)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19790130-0)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>140.955963,36.305165,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Air Rhodesia Flight 827 - 2/12/79</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/thumb/a/aa/YP-YND.JPG/260px-YP-YND.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Air_Rhodesia_Flight_827)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>29.433333,-16.416667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Aeroflot Flight 1691 - 3/17/79</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Aeroflot_Tupolev_Tu-104B_at_Arlanda%2C_July_1972.jpg/260px-Aeroflot_Tupolev_Tu-104B_at_Arlanda%2C_July_1972.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Aeroflot_Flight_1691)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19790317-1)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>37.256184,55.579897,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Quebecair Flight 255 - 3/29/79</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Horizon_f27.jpg/800px-Horizon_f27.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Quebecair_Flight_255)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-71.341782,46.792891,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>American Airlines Flight 191 - 5/25/79</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ariana_Afghan_Airlines_DC-10_Fitzgerald.jpg/300px-Ariana_Afghan_Airlines_DC-10_Fitzgerald.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/American_Airlines_Flight_191)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-87.93,42.009722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Air New England Flight 248 - 6/17/79</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WinAir_De_Havilland_Canada_DHC-6-300_Twin_Otter_Breidenstein.jpg/300px-WinAir_De_Havilland_Canada_DHC-6-300_Twin_Otter_Breidenstein.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Air_New_England_Flight_248)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-70.241931,41.69045,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Garuda Fokker F28 crash - 7/11/79</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Piedmont_F-28-1000.jpg/300px-Piedmont_F-28-1000.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1979_Garuda_Fokker_F28_crash)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19790711-0)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>98.498611,3.246781,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Dan-Air Flight 0034 - 7/31/79</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/West_Air_Sweden_HS-748.jpg/300px-West_Air_Sweden_HS-748.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Dan-Air_Flight_0034)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19790731-0)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-1.282482,59.88230500000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Dniprodzerzhynsk mid-air collision - 8/11/79</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/MAGAS_Kosmos_Tupolev_Tu-134_Misko.jpg/300px-MAGAS_Kosmos_Tupolev_Tu-134_Misko.jpg http://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/MAGAS_Kosmos_Tupolev_Tu-134_Misko.jpg/300px-MAGAS_Kosmos_Tupolev_Tu-134_Misko.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1979_Dniprodzerzhynsk_mid-air_collision)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19790811-1)
+
+Wikipedia Commons
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>48.491335,48.490786,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Swissair Flight 316 - 10/8/79</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Swissair_DC-8-62_HB-IDE_ZRH_Jun_1977.png/260px-Swissair_DC-8-62_HB-IDE_ZRH_Jun_1977.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Swissair_Flight_316)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19791008-0)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>23.741112,37.873973,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Western Airlines Flight 2605 - 10/31/79</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ariana_Afghan_Airlines_DC-10_Fitzgerald.jpg/300px-Ariana_Afghan_Airlines_DC-10_Fitzgerald.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Western_Airlines_Flight_2605)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19791031-0)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-99.070244,19.436486,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>PIA Flight 740 - 11/26/79</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Boeing_707-138B_Qantas_Jett_Clipper_Ella_N707JT.jpg/300px-Boeing_707-138B_Qantas_Jett_Clipper_Ella_N707JT.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/PIA_Flight_740)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>39.85,21.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Air New Zealand Flight 901 - 11/28/79</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Air_New_Zealand_DC-10-30_ZK-NZP_LHR_Jul_1977.png/800px-Air_New_Zealand_DC-10-30_ZK-NZP_LHR_Jul_1977.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Air_New_Zealand_Flight_901)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>167.458333,-77.425,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Turkish Airlines Ankara crash - 12/23/79</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Piedmont_F-28-1000.jpg/300px-Piedmont_F-28-1000.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1979_Turkish_Airlines_Ankara_crash)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>33.15708,40.32947,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Iran Air Boeing 727 airplane crash - 1/21/80</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Boeing_727-2S7_Advanced_Champion_LAX.jpg/300px-Boeing_727-2S7_Advanced_Champion_LAX.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1980_Iran_Air_Boeing_727_airplane_crash)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19800121-0)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>51.312847,35.946848,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>VH-AAV crash - 2/21/80</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Beechcraft_b200_superkingair_zk453_arp.jpg/300px-Beechcraft_b200_superkingair_zk453_arp.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/VH-AAV_crash)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>151.18148800000003,-33.968064,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>LOT Flight 7 - 3/14/80</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Interavia_Ilyushin_Il-62M.jpg/300px-Interavia_Ilyushin_Il-62M.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/LOT_Flight_7)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>20.949722,52.184722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Dan-Air Flight 1008 - 4/25/80</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Boeing_727-2S7_Advanced_Champion_LAX.jpg/300px-Boeing_727-2S7_Advanced_Champion_LAX.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Dan-Air_Flight_1008)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-16.418056,28.398056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Thai Airways Flight 231 - 4/27/80</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/BKS_Avro_748_at_Manchester_1964.jpg/250px-BKS_Avro_748_at_Manchester_1964.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Thai_Airways_Flight_231)
+
+Location on the Aviation Safety Network (http://aviation-safety.net/database/record_map.php?id=19800427-0)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>100.678368,14.038924,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Aerolinee Itavia Flight 870 - 6/27/80</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/45724_800627_I-TIGI.jpg/260px-45724_800627_I-TIGI.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Aerolinee_Itavia_Flight_870)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>13.425293,38.839494,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Saudia Flight 163 - 8/19/80</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/RSAF_Museum_Lockheed_L-1011_Tristar.jpg/800px-RSAF_Museum_Lockheed_L-1011_Tristar.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Saudia_Flight_163)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>46.726944,24.711667000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Florida Commuter Airlines crash - 9/12/80</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Douglas_DC-3%2C_SE-CFP.jpg/300px-Douglas_DC-3%2C_SE-CFP.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Approximated location.
+
+Wikipedia (http://en.wikipedia.org/wiki/Florida_Commuter_Airlines_crash)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-79.07959,26.689183,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Continental Micronesia Flight 614 - 11/21/80</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Boeing_727-2S7_Advanced_Champion_LAX.jpg/300px-Boeing_727-2S7_Advanced_Champion_LAX.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Continental_Micronesia_Flight_614)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>138.07400000000004,9.496,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>View this map in Google Earth.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Non-networked Google Earth KML file: (https://docs.google.com/file/d/0B52hHMRyBvEsckhRTnF4ZkY0bnM/edit)]]></description>
+			<Point>
+				<coordinates>83.671875,-22.5937261,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>American Airlines Flight 191 (YouTube)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://youtu.be/RpA2CZvb2rs]]></description>
+			<Point>
+				<coordinates>-87.999115,42.0258338,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1037'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1037-biz-house.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1417'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1417-trans-airport.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

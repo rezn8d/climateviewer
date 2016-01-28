@@ -1,0 +1,253 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "EISCAT 3D Array (visual reference)",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            19.6244962251,
+                            67.0685144488
+                        ],
+                        [
+                            19.6628045919,
+                            67.0571320611
+                        ],
+                        [
+                            19.6784293456,
+                            67.0725403651
+                        ],
+                        [
+                            18.972085871,
+                            68.3451032176
+                        ],
+                        [
+                            19.253514379,
+                            69.5743413115
+                        ],
+                        [
+                            23.6022930093,
+                            69.5563580603
+                        ],
+                        [
+                            27.2079280317,
+                            69.3427547813
+                        ],
+                        [
+                            27.2280989568,
+                            69.3482278851
+                        ],
+                        [
+                            27.2139113705,
+                            69.3558793256
+                        ],
+                        [
+                            23.598307632,
+                            69.5782482832
+                        ],
+                        [
+                            19.2188176014,
+                            69.583538668
+                        ],
+                        [
+                            18.9387830091,
+                            68.3442725394
+                        ],
+                        [
+                            19.6244962251,
+                            67.0685144488
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Troms\u00f8 EISCAT 3D Details",
+                "desc": "<p>Upgrade to 100 GW <br><br>The core array will comprise a 120-m diameter filled circular aperture array with \u224816 000 elements, laid out on an equilateral triangular grid, and a number (6\u20269) of smaller outlier receive-only arrays. The core will provide: a half-power beamwidth of \u2248 0.75o, i.e. comparable to that of the EISCAT UHF system, a power-aperture product exceeding 100 GW m2, i.e. an order of magnitude greater than that of the EISCAT VHF system, grating-lobe free pattern out to 40o zenith angle and graceful degradation in case of single-point equipment failure. Each core array element will be made up from a radiator, a dual 300+300 watt linear RF power amplifier, a high performance direct-digitising receiver and support electronics. The recommended radiator is a crossed Yagi antenna with a minimum directivity of about 7 dBi.<br><br>Four filled 8 000-element receive-only arrays will be installed, two on each baseline at distances of respectively \u2248110 and \u2248250 km from the core. Their radiating elements will be 3- or 4-element X Yagis, essentially identical to those used in the core. The Yagis will be directed towards the core field-of-view and elevated to 45o. Outlier arrays for interferometry will also be installed. Advanced digital beam-forming systems will allow the generation of a large number of simultaneous beams from each array, thus eliminating the time\/space ambiguity plaguing all present incoherent scatter systems and making true volumetric imaging of vector quantities possible for the first time. Source: <a href=\"http:\/\/www.eiscat.se\/groups\/EISCAT_3D_info\/Final_Report_Activity_Report_EU-Style.pdf\" target=\"_blank\">eiscat.se (PDF)<\/a><br><br><a href=\"http:\/\/climateviewer.org\/img\/gallery\/EISCAT-3D-Norway-HAARP.jpg\" target=\"_blank\"><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\" src=\"http:\/\/climateviewer.org\/img\/gallery\/EISCAT-3D-Norway-HAARP-sm.jpg\" \/><\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2212934947,
+                    69.5831917739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Troms\u00f8 Receiver Array 1",
+                "desc": "<p>*reference map 68 20.301 N 18 57.864 E<br><br><a href=\"http:\/\/climateviewer.org\/img\/gallery\/EISCAT-3D-Norway-HAARP.jpg\" target=\"_blank\"><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\" src=\"http:\/\/climateviewer.org\/img\/gallery\/EISCAT-3D-Norway-HAARP-sm.jpg\" \/><\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9582741221,
+                    68.3442186005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Troms\u00f8 Receiver Array 2",
+                "desc": "<p>*reference map 67 03.733 N ? E<br><br><a href=\"http:\/\/climateviewer.org\/img\/gallery\/EISCAT-3D-Norway-HAARP.jpg\" target=\"_blank\"><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\" src=\"http:\/\/climateviewer.org\/img\/gallery\/EISCAT-3D-Norway-HAARP-sm.jpg\" \/><\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6628009535,
+                    67.0571274192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Troms\u00f8 Receiver Array 3",
+                "desc": "<p>*reference map 69 31.955 N 23 33.917 E<br><br><a href=\"http:\/\/climateviewer.org\/img\/gallery\/EISCAT-3D-Norway-HAARP.jpg\" target=\"_blank\"><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\" src=\"http:\/\/climateviewer.org\/img\/gallery\/EISCAT-3D-Norway-HAARP-sm.jpg\" \/><\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6137775489,
+                    69.5677735686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Troms\u00f8 Receiver Array 4",
+                "desc": "<p>*reference map 69 21.170 N 27 11.909 E<br><br><a href=\"http:\/\/climateviewer.org\/img\/gallery\/EISCAT-3D-Norway-HAARP.jpg\" target=\"_blank\"><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\" src=\"http:\/\/climateviewer.org\/img\/gallery\/EISCAT-3D-Norway-HAARP-sm.jpg\" \/><\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.2293839401,
+                    69.348160781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HAARP - Ionospheric Research Instrument (IRI)",
+                "desc": "<h3><a href=\"http:\/\/climateviewer.com\/haarp\/\">HAARP - High-Frequency Active Auroral Research Program<\/a><\/h3><p>Gakona, Alaska, USA<br> 62.39234958096403, -145.14912226295115<br> <a title=\"https:\/\/web.archive.org\/web\/http:\/\/www.haarp.alaska.edu\/\" href=\"https:\/\/web.archive.org\/web\/20130605024904\/http:\/\/www.haarp.alaska.edu\/\" target=\"_blank\">http:\/\/www.haarp.alaska.edu\/<\/a><\/p><ul><li>Antennas: 180 crossed dipole (12 x 15),&nbsp;1040' x 1280' (about 30.6&nbsp;acres)<\/li><li>Frequency: 2.8&nbsp;- 10&nbsp;MHz<\/li><li>Power: 3,600,000 Watts (3.6 MW)<\/li><li>Effective Radiated Power: 5,000,000,000 Watts (5&nbsp;GW)<\/li><\/ul><a href=\"http:\/\/climateviewer.org\/img\/gallery\/haarp-iri-ionospheric-research-instrument.png\" target=\"_blank\"><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/haarp-iri-ionospheric-research-instrument.png\" \/><\/a><ul><li><strong><a title=\"http:\/\/climateviewer.com\/2014\/04\/23\/birth-haarp-sky-heaters\/\" href=\"http:\/\/climateviewer.com\/2014\/04\/23\/birth-haarp-sky-heaters\/\">The Birth of HAARP<\/a><\/strong><\/li><li><strong><a title=\"http:\/\/climateviewer.com\/2014\/10\/18\/ionospheric-heaters-how-haarp-really-works\/\" href=\"http:\/\/climateviewer.com\/2014\/10\/18\/ionospheric-heaters-how-haarp-really-works\/\">Ionospheric Heaters: How HAARP really works<\/a><\/strong><\/li><li><strong><a title=\"http:\/\/climateviewer.com\/2014\/09\/19\/haarp-worlds-sexiest-energy-weapon\/\" href=\"http:\/\/climateviewer.com\/2014\/09\/19\/haarp-worlds-sexiest-energy-weapon\/\">HAARP:&nbsp;The World\u2019s Sexiest Energy Weapon<\/a><\/strong><\/li><li><strong><a title=\"http:\/\/climateviewer.com\/2014\/09\/22\/history-haarp-heating-holes-heaven\/\" href=\"http:\/\/climateviewer.com\/2014\/09\/22\/history-haarp-heating-holes-heaven\/\">The History of HAARP Heating and Holes in Heaven<\/a><\/strong><\/li><li><strong><a title=\"http:\/\/climateviewer.com\/2014\/10\/04\/haarp-project-nimbus-fire-gods\/\" href=\"http:\/\/climateviewer.com\/2014\/10\/04\/haarp-project-nimbus-fire-gods\/\">Project Nimbus &amp; The Fire of the Gods<\/a><\/strong><\/li><li><strong><a title=\"http:\/\/climateviewer.com\/2014\/10\/05\/haarp-halo-celestial-resonations\/\" href=\"http:\/\/climateviewer.com\/2014\/10\/05\/haarp-halo-celestial-resonations\/\">HAARP, HALO, and Celestial Resonations<\/a><\/strong><\/li><li><strong><a title=\"http:\/\/climateviewer.com\/2014\/04\/01\/atmospheric-armageddon-angels-haarp-methane-lucy-sky-diamonds\/\" href=\"http:\/\/climateviewer.com\/2014\/04\/01\/atmospheric-armageddon-angels-haarp-methane-lucy-sky-diamonds\/\">Atmospheric Armageddon \u2013 ANGELS, HAARP, Methane, and Lucy in the Sky with Diamonds<\/a><\/strong><\/li><li><strong><a title=\"http:\/\/climateviewer.com\/2014\/10\/11\/haarp-elf-generation-mass-mind-control\/\" href=\"http:\/\/climateviewer.com\/2014\/10\/11\/haarp-elf-generation-mass-mind-control\/\">HAARP, ELF Generation, and Mass Mind Control<\/a><\/strong><\/li><\/ul>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -145.150752458,
+                    62.3927436618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Troms\u00f8 Ionospheric Heater",
+                "desc": "<p>Ramfjordmoen, Near Troms\u00f8, Norway<br> 69.58314833326673, 19.211580995070786<br> <a title=\"https:\/\/www.eiscat.se\/about\/facilities\" href=\"https:\/\/www.eiscat.se\/about\/facilities\" target=\"_blank\">https:\/\/www.eiscat.se\/about\/facilities<\/a><br> <a title=\"http:\/\/www.thelivingmoon.com\/45jack_files\/03files\/EISCAT_Ramfjordmoen_Tromso_Norway.html\" href=\"http:\/\/www.thelivingmoon.com\/45jack_files\/03files\/EISCAT_Ramfjordmoen_Tromso_Norway.html\" target=\"_blank\">http:\/\/www.thelivingmoon.com\/45jack_files\/03files\/EISCAT_Ramfjordmoen_Tromso_Norway.html<\/a><br><a href=\"http:\/\/climateviewer.com\/2014\/10\/18\/ionospheric-heaters-how-haarp-really-works\/\">http:\/\/climateviewer.com\/2014\/10\/18\/ionospheric-heaters-how-haarp-really-works\/<\/a><\/p><ul><li>Antennas: 3 arrays<ul><li>144 crossed dipole (12\u00d712),&nbsp;5.3-8.0 MHz<\/li><li>36 crossed dipole (6\u00d76), 3.8-5.7 MHz<\/li><li>36 crossed dipole (6\u00d76), 5.3-8.0 MHz<\/li><\/ul><\/li><li>Frequency: 3.85&nbsp;\u2013 8&nbsp;MHz<\/li><li>Power: 1,200,000 Watts (12 x 100&nbsp;kW)<\/li><li>Effective Radiated Power:<ul><li>144 crossed dipole,&nbsp;1,200,000,000 Watts (1200&nbsp;MW, 1.2 GW)<\/li><li>36 crossed dipole,&nbsp;300,000,000 Watts (300&nbsp;MW) [8]<\/li><\/ul><\/li><\/ul><b>Tromso Incoherent Scatter Radar<\/b><br>CEDAR: <a href=\"http:\/\/cedarweb.hao.ucar.edu\/wiki\/index.php\/Instruments:eis\" target=\"_blank\">EIS<\/a><br><a href=\"http:\/\/cedarweb.hao.ucar.edu\/wiki\/index.php\/Special:Cedar_Instruments?action=detail&amp;kinst=72\" target=\"_blank\">EIS Instrument Details<\/a><br><br><b>Tromso MF Radar<\/b><br>CEDAR: <a href=\"http:\/\/cedarweb.hao.ucar.edu\/wiki\/index.php\/Instruments:trf\" target=\"_blank\">TRF<\/a><br><a href=\"http:\/\/cedarweb.hao.ucar.edu\/wiki\/index.php\/Special:Cedar_Instruments?action=detail&amp;kinst=1390\" target=\"_blank\">TRF Instrument Details<\/a><br><br><a href=\"https:\/\/r3zn8d.files.wordpress.com\/2014\/10\/tromso-ionospheric-heater.jpg\"><img class=\"alignnone\" src=\"https:\/\/r3zn8d.files.wordpress.com\/2014\/10\/tromso-ionospheric-heater-s.jpg\" alt=\"\" width=\"620\" height=\"349\"><\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2115140572,
+                    69.5833589921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HIPAS - High Power Auroral Stimulation Observatory (closed)",
+                "desc": "<p>30 miles Northeast of Fairbanks Alaska<br> 64.87239299272552, -146.8389785512115<br> <a title=\"http:\/\/www.physics.ucla.edu\/plasmalab\/\" href=\"http:\/\/www.physics.ucla.edu\/plasmalab\/\" target=\"_blank\">http:\/\/www.physics.ucla.edu\/plasmalab\/<\/a><br> <a title=\"http:\/\/www.thelivingmoon.com\/45jack_files\/03files\/HIPAS_HIgh_Power_Auroral_Stimulation_Observatory.html\" href=\"http:\/\/www.thelivingmoon.com\/45jack_files\/03files\/HIPAS_HIgh_Power_Auroral_Stimulation_Observatory.html\" target=\"_blank\">http:\/\/www.thelivingmoon.com\/45jack_files\/03files\/HIPAS_HIgh_Power_Auroral_Stimulation_Observatory.html<\/a><br><a title=\"http:\/\/www.physics.ucla.edu\/plasmalab\/\" href=\"http:\/\/www.physics.ucla.edu\/plasmalab\/\" target=\"_blank\">UCLA Plasma Lab<\/a><br><a href=\"http:\/\/climateviewer.com\/2014\/10\/18\/ionospheric-heaters-how-haarp-really-works\/\">http:\/\/climateviewer.com\/2014\/10\/18\/ionospheric-heaters-how-haarp-really-works\/<\/a><\/p><ul><li>Antennas:&nbsp;circular array of 8 crossed dipoles, copper wire ground-planes and resonant triaxial baluns<\/li><li>Frequency: 2.85&nbsp;\u2013 4.53&nbsp;MHz<\/li><li>Power: 1,200,000 Watts (1.2 MW, 150 kW x 8)<\/li><li>ERP: 70,000,000 Watts&nbsp;(70 MW)<\/li><\/ul>The HIPAS facility was engaged in the study of the ionosphere through the use of high power radio transmission as well as a LIDAR (LIght Detection And Ranging ) instrument. The facility was home to several projects with some interesting equipment, including:<\/p><ul><li>A plasma torch, used for experiments in hazardous waste disposal<\/li><li>A 2.8 meter liquid mercury mirror telescope.<\/li><li>An array of antennae which are used for heating the ionosphere.<\/li><\/ul><p>Some of the research conducted at HIPAS was similar to the controversial HAARP project, and so the staff of the facility sometimes had to answer the same questions from the public. The facility has been shut down and much of the equipment sold off as surplus during the Spring of 2010. Source: <a href=\"http:\/\/en.wikipedia.org\/wiki\/HIPAS_Observatory\" target=\"_blank\">Wikipedia<\/a><br><br\/><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\" src=\"http:\/\/climateviewer.org\/img\/gallery\/HIPAS_facility.gif\" \/><br><a href=\"http:\/\/climateviewer.org\/img\/gallery\/HIPAS_site_map.jpg\" target=\"_blank\"><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\" src=\"http:\/\/climateviewer.org\/img\/gallery\/HIPAS_site_map.jpg\" \/><\/a><br><br><a href=\"http:\/\/www.physics.ucla.edu\/plasmalab\/\" target=\"_blank\">UCLA.edu Plasma lab<\/a><br><br><a title=\"https:\/\/r3zn8d.files.wordpress.com\/2014\/10\/high-power-auroral-stimulation-observatory-hipas-climateviewer-haarp.jpg\" href=\"https:\/\/r3zn8d.files.wordpress.com\/2014\/10\/high-power-auroral-stimulation-observatory-hipas-climateviewer-haarp.jpg\" target=\"_blank\"><img class=\"alignnone\" src=\"https:\/\/r3zn8d.files.wordpress.com\/2014\/10\/high-power-auroral-stimulation-observatory-hipas-climateviewer-haarp-small.jpg\" alt=\"\" width=\"620\" height=\"349\"><\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -146.838591832,
+                    64.8723147867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sura Ionospheric Heating Facility",
+                "desc": "<p>Vasilsursk, Nizhny Novgorod Oblast, Russia<br> 56.14360813018452, 46.09902433603985<br> <a title=\"http:\/\/sura.nirfi.sci-nnov.ru\/indexe.html\" href=\"http:\/\/sura.nirfi.sci-nnov.ru\/indexe.html\" target=\"_blank\">http:\/\/sura.nirfi.sci-nnov.ru\/indexe.html<\/a>&nbsp;(<a title=\"http:\/\/sura.nirfi.sci-nnov.ru\/Photogalery\/Photogalery.html\" href=\"http:\/\/sura.nirfi.sci-nnov.ru\/Photogalery\/Photogalery.html\" target=\"_blank\">Photo&nbsp;Gallery<\/a>)<br> <a title=\"http:\/\/www.thelivingmoon.com\/45jack_files\/03files\/SURA_Radar_Facility.html\" href=\"http:\/\/www.thelivingmoon.com\/45jack_files\/03files\/SURA_Radar_Facility.html\" target=\"_blank\">http:\/\/www.thelivingmoon.com\/45jack_files\/03files\/SURA_Radar_Facility.html<\/a><br><a href=\"http:\/\/climateviewer.com\/2014\/10\/18\/ionospheric-heaters-how-haarp-really-works\/\">http:\/\/climateviewer.com\/2014\/10\/18\/ionospheric-heaters-how-haarp-really-works\/<\/a><\/p><ul><li>Antennas: 144 crossed dipole, 300 x 300 meters<\/li><li>Frequency: 4.5 \u2013 9.3 MHz<\/li><li>Power: 750,000 Watts (750 kW)<\/li><li>Effective Radiated Power: 190,000,000 Watts (190 MW,&nbsp;~83 dbW)<\/li><\/ul>The Sura Ionospheric Heating Facility, located near the small town of Vasilsursk about 100 km eastward from Nizhniy Novgorod in Russia, is a laboratory for ionosphere research. Sura is capable of radiating about 190 MW, effective radiated power (ERP) on short waves. This facility is operated by the radiophysical research institute NIRFI in Nizhny Novgorod. The Sura facility was commissioned in 1981. Using this facility, Russian researchers studied the behaviour of the ionosphere and the effect of generation of low-frequency emission on modulation of ionosphere current. In the beginning, the Soviet Defense Department mostly footed the bill. The American HAARP ionospheric heater is similar to the Sura facility. The HAARP project began in 1993. Source: <a href=\"http:\/\/en.wikipedia.org\/wiki\/Sura_Ionospheric_Heating_Facility\" target=\"_blank\">Wikipedia<\/a><br><br><a href=\"http:\/\/sura.nirfi.sci-nnov.ru\/indexe.html\" target=\"_blank\">Sura website (Russian)<\/a><br><a href=\"http:\/\/sura.nirfi.sci-nnov.ru\/Photogalery\/Photogalery.html\" target=\"_blank\">Photos<\/a><br><br><a title=\"https:\/\/r3zn8d.files.wordpress.com\/2014\/10\/sura-ionospheric-heating-facility-climateviewer-haarp.jpg\" href=\"https:\/\/r3zn8d.files.wordpress.com\/2014\/10\/sura-ionospheric-heating-facility-climateviewer-haarp.jpg\" target=\"_blank\"><img class=\"alignnone\" src=\"https:\/\/r3zn8d.files.wordpress.com\/2014\/10\/sura-ionospheric-heating-facility-climateviewer-haarp-small.jpg\" alt=\"\" width=\"620\" height=\"349\"><\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.0991788928,
+                    56.1434467721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Arecibo Observatory Enhanced HF Ionospheric Heating Instrument",
+                "desc": "<p><span class=\"r_location\">Arecibo Observatory, PR-625, Arecibo, Puerto Rico<\/span><br> 18.34421900121537, -66.75269217609858<br> <a title=\"http:\/\/www.naic.edu\/\" href=\"http:\/\/www.naic.edu\/\" target=\"_blank\">http:\/\/www.naic.edu\/<\/a><br><a href=\"http:\/\/climateviewer.com\/2014\/10\/18\/ionospheric-heaters-how-haarp-really-works\/\">http:\/\/climateviewer.com\/2014\/10\/18\/ionospheric-heaters-how-haarp-really-works\/<\/a><ul><li>Antennas: 6&nbsp;crossed dipoles,&nbsp;5.1 MHz (3 x 25.5 meters) 8.175 MHz (3 x 14.5 meters), 98 meter Cassegrain screen hexagonal sub-reflector, 305 meter dish primary reflector. [4]<\/li><li>Frequency: 5.1&nbsp;\u2013 8.175&nbsp;MHz<\/li><li>Power: 600,000 Watts (600&nbsp;kW, 100 kW x 6)<\/li><li>ERP: 200,000,000 Watts&nbsp;(200 MW)<\/li><\/ul>The new facility will replace an earlier ionospheric heater in Islote, Puerto Rico, that was destroyed by Hurricane Georges in 1998. Rather than rebuild that installation, the new instrument will use the observatory\u2019s 1000 foot dish for its antenna. This will keep all research activities involving ionospheric modification at the observatory proper.<\/p><p>Plans call for a design based on a Cassegrain screen concept of phased array at the bottom of the dish feeding a sub-reflector mesh that hangs above the dish from three support towers. Breakall and his team of graduate students at Penn State have done all of the electrical design and modeling of this new antenna system.<\/p><p>\u201cThere are three crossed-dipoles for 5.1 MHz and another three for 8.175 MHz, forming an array that will beam energy up to a net mesh reflector that will hang from the three big towers,\u201d Breakall explained. \u201cThis Cassegrain screen will then reflect energy back down to the 1000 foot dish and beam an effective radiated power of hundreds of megawatts up to the ionosphere to modify it.\u201d Each dipole is fed from a 100 kW transmitter, yielding a total transmitted power of 600 kW.<\/p><p>An even earlier HF heating antenna system also was suspended from the platform above the dish and driven by a single 100 kW transmitter over a frequency range of 3 to 10 MHz. That design suffered from arcing problems and was taken out of service in the 1970s. <br><br><b>The William E Gordon Telescope<\/b><br><br>Those who see the Arecibo radio telescope for the first time are astounded by the enormousness of the reflecting surface, or radio mirror. The huge \"dish\" is 305 m (1000 feet) in diameter, 167 feet deep, and covers an area of about twenty acres. The surface is made of almost 40,000 perforated aluminum panels, each measuring about 3 feet by 6 feet, supported by a network of steel cables strung across the underlying karst sinkhole. It is a spherical (not parabolic) reflector. Source: <a href=\"http:\/\/www.naic.edu\/general\/index.php?option=com_content&amp;view=article&amp;id=150&amp;Itemid=648\" target=\"_blank\">naic.edu<\/a><br><br><a href=\"http:\/\/www.naic.edu\/\" target=\"_blank\">Arecibo Observatory website<\/a><br><br><b>Arecibo Incoherent Scatter Radar<\/b><br>CEDAR: <a href=\"http:\/\/cedarweb.hao.ucar.edu\/wiki\/index.php\/Instruments:aro\" target=\"_blank\">ARO<\/a><br><a href=\"http:\/\/cedarweb.hao.ucar.edu\/wiki\/index.php\/Special:Cedar_Instruments?action=detail&amp;kinst=20\" target=\"_blank\">Instrument Details<\/a><br><br><b>Arecibo MST Radar<\/b><br>CEDAR: <a href=\"http:\/\/cedarweb.hao.ucar.edu\/wiki\/index.php\/Instruments:arm\" target=\"_blank\">ARM<\/a><br><a href=\"http:\/\/cedarweb.hao.ucar.edu\/wiki\/index.php\/Special:Cedar_Instruments?action=detail&amp;kinst=1040\" target=\"_blank\">Instrument Details<\/a><br><br><a title=\"https:\/\/r3zn8d.files.wordpress.com\/2014\/10\/arecibo-observatory-enhanced-hf-ionospheric-heating-instrument-climateviewer-haarp1.jpg\" href=\"https:\/\/r3zn8d.files.wordpress.com\/2014\/10\/arecibo-observatory-enhanced-hf-ionospheric-heating-instrument-climateviewer-haarp1.jpg\"><img class=\"alignnone\" src=\"https:\/\/r3zn8d.files.wordpress.com\/2014\/10\/arecibo-observatory-enhanced-hf-ionospheric-heating-instrument-climateviewer-haarp-small1.jpg\" alt=\"\" width=\"620\" height=\"349\"><\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.7526250847,
+                    18.3440844043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NMRF - National MST Radar Facility",
+                "desc": "<p>Gadanki, Andra Pradesh, India<br>2.5 MW - 53 MHz<br><br>The Indian MST Radar is a highly sensitive VHF phased array radar operating at 53 MHz with an peak power aperture productof 3 x 10<sup>10<\/sup> Wm 2<sup> .<\/sup>The system design specifications, including that of theintermediate stage of ST mode , are presented below :<br><br>The phased array consists of 1024 crossed three-element Yagi antennas occupying an area of 130m x 130m. It generates a radiation pattern with a main beam of 3 deg , gain of 36 dB and a side lobe level of -20 dB.The main beam can, in principle, be positioned at 82 different look angles in NS and EW plane. Source: <a href=\"http:\/\/www.vigyanprasar.gov.in\/comcom\/develop73.htm\" target=\"_blank\">vigyanprasar.gov.in<\/a><br><br><a href=\"http:\/\/www.thelivingmoon.com\/45jack_files\/03files\/National_MST_Radar_Facility.html\" target=\"_blank\"><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\" src=\"http:\/\/climateviewer.org\/img\/gallery\/NATIONAL-MST-Radar-Facility-NMRF-01.jpg\" \/><\/a><br><br><a href=\"http:\/\/www.thelivingmoon.com\/45jack_files\/03files\/National_MST_Radar_Facility.html\" target=\"_blank\"><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\" src=\"http:\/\/climateviewer.org\/img\/gallery\/NATIONAL-MST-Radar-Facility-NMRF-02.jpg\" \/><\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    79.1757286361,
+                    13.4570777778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SuperDARN - Jicamarca",
+                "desc": "<p>Lima, Peru<br><a href=\"http:\/\/laroutedegakona.blogspot.com\/2012\/02\/les-rechauffeurs-ionospheriques.html\" target=\"_blank\">4.5 MW<\/a> : 49.92 MHz<\/p><h3>Jicamarca Peru Incoherent Scatter Radar<\/h3><p>CEDAR: <a href=\"http:\/\/cedarweb.hao.ucar.edu\/wiki\/index.php\/Instruments:jro\" target=\"_blank\">JRO<\/a> : <a href=\"http:\/\/cedarweb.hao.ucar.edu\/wiki\/index.php\/Special:Cedar_Instruments?action=detail&amp;kinst=10\" target=\"_blank\">Instrument Details<\/a><\/p><h3>JULIA Jicamarca Peru Coherent Radar<\/h3><p>CEDAR: <a href=\"http:\/\/cedarweb.hao.ucar.edu\/wiki\/index.php\/Instruments:jul\" target=\"_blank\">JUL<\/a> : <a href=\"http:\/\/cedarweb.hao.ucar.edu\/wiki\/index.php\/Special:Cedar_Instruments?action=detail&amp;kinst=840\" target=\"_blank\">Instrument Details<\/a><br><br><a href=\"http:\/\/jicamarca.ece.cornell.edu\/\" target=\"_blank\">Jicamarca Radio Observatory - Cornell University<\/a><br><a href=\"http:\/\/www.kurasc.kyoto-u.ac.jp\/\" target=\"_blank\">Jicamarca Radio Observatory - Japan<\/a><br><a href=\"http:\/\/jro.igp.gob.pe\/english\/database\/database_en.htm\" target=\"_blank\">Station Database<\/a><br><br><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\" src=\"http:\/\/climateviewer.org\/img\/gallery\/JRO.jpg\" \/><br><br><a href=\"http:\/\/jicamarca.ece.cornell.edu\/\" target=\"_blank\"><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\" src=\"http:\/\/climateviewer.org\/img\/gallery\/jicamarca.jpg\" \/><\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.8740779107,
+                    -11.952163461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shigaraki MU Observatory",
+                "desc": "<p>Shigaraki MU observatory, Shigaraki, Japan<br><a href=\"http:\/\/landau.geo.cornell.edu\/papers\/UAFreport.pdf\" target=\"blank\">1 MW: 46.5 MHz<\/a><br>103m circular phased array<br><br>The MU radar uses VHF radio waves with a frequency of 46.5 MHz (3.5 MHz bandwidth and 1 MW peak output power). The antenna area consists of 475 Yagi antennas arranged in a circular array of 103 m diameter. Fast beam steering and flexibility for various observation configurations are the characteristics of MU radar. In 2004, MU radar imaging observation system with ultra multi-channel digital receivers was installed for the study of detailed structures in the atmosphere. Source: <a href=\"http:\/\/www.rish.kyoto-u.ac.jp\/English\/MU\/index.html\" target=\"_blank\">rish.kyoto-u.ac.jp<\/a><br><br>CEDAR: <a href=\"http:\/\/cedarweb.hao.ucar.edu\/wiki\/index.php\/Instruments:mui\" target=\"_blank\">MUI<\/a><br><a href=\"http:\/\/cedarweb.hao.ucar.edu\/wiki\/index.php\/Special:Cedar_Instruments?action=detail&amp;kinst=25\" target=\"_blank\">Instrument Details<\/a><br><a href=\"http:\/\/www.rish.kyoto-u.ac.jp\/mu\/en\/index.html\" target=\"_blank\">Shigaraki MU Observatory website<\/a><br><br><a href=\"http:\/\/climateviewer.org\/img\/gallery\/shigaraki_MUIR.jpg\" target=\"_blank\"><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\" src=\"http:\/\/climateviewer.org\/img\/gallery\/shigaraki_MUIR.jpg\" \/><\/a><br><br><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\" src=\"http:\/\/climateviewer.org\/img\/gallery\/shigaraki_MUIR_antenna.jpg\" ><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.105635234,
+                    34.8540223284
+                ]
+            }
+        }
+    ]
+}

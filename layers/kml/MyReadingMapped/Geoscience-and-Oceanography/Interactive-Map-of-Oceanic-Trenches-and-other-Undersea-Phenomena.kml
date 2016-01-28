@@ -1,0 +1,3052 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Understanding the Ocean Bottom in Google Map: A visual library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[(http://myreadingmapped.blogspot.com/2012/10/understanding-ocean-bottom-in-google-map.html) 
+
+This article in the above link helps you to better understand the color-coded undersea phenomena seen in this Google Map and in its associated Google Earth KML file by matching examples of a top-down 2D Google Map image with a 3D Google Earth image. It also describes the Google Map anomalies in Google Map and Google Earth that can be confusing. For example, why are some areas of the sea floor blurred while others are not? Why are some above sea mountains seen in their entirety underwater? Why is there no North Pole in Google Map or Google Earth, Yet, both have a South Pole.
+ ]]></description>
+			<Point>
+				<coordinates>-126.5625,5.965754,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Video: NOAA: Touring the Ocean Bottom</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=vpyNtxPReaw</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Video: NOAA: Touring the Ocean Bottom  ]]></description>
+			<Point>
+				<coordinates>-62.40234400000001,31.353637000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>Explore these phenomena undersea in 3D</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://4.bp.blogspot.com/-XSCTLdEr97A/UOsHiMcAzdI/AAAAAAAAC8s/p14Qoiy34XE/s320/undersea+mountains+in+Google+Earth.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Using this Non-Networked Google Earth KML ile you can walk the undersea in 3D as shown below. Be sure to turn on the Oceans layer in Google Earth in order to walk undersea.                                 (https://docs.google.com/file/d/0B52hHMRyBvEsMU4zVmY2WHpzODg/edit)                                                    
+©Google]]></description>
+			<Point>
+				<coordinates>-177.890625,11.523088000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1391</styleUrl>
+			<name>Other Oceanic Google Maps</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Check out these other MyReadingMapped Google Maps of ocean related subjects:
+
+- Topography of the Thermohaline Circulation of the Oceans (http://myreadingmapped.blogspot.com/2013/12/google-map-of-topography-of.html)
+
+- Topography of Giant-Wave Zones (http://myreadingmapped.blogspot.com/2014/01/the-topography-of-giant-wave-zones.html) 
+
+- Mass Whale Stranding Sites (http://myreadingmapped.blogspot.com/2013/05/mass-whale-stranding-sites.html)     ]]></description>
+			<Point>
+				<coordinates>-161.71875,9.795678,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps on History</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/)
+ ]]></description>
+			<Point>
+				<coordinates>169.101563,15.284184999999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>Defininitons for Plateaus, Ridges and Selfs</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- Oceanic Plateaus (Orange Squares):
+A large, relatively flat submarine region that rises well above the level of the ambient seabed.[1] While many oceanic plateaus are composed of continental crust, and often form a step interrupting the continental slope, some plateaus are undersea remnants of large igneous provinces.
+ 
+- Mid-Ocean Ridges (Red Stars):
+Underwater mountain system that consists of various mountain ranges (chains), typically having a valley  known as a rift running along its spine, formed by plate tectonics.                                                        
+- Continental Shelf (Blue Squares):
+The extended perimeter of each continent and associated coastal plain. Much of the shelf was exposed during glacial periods, but is now submerged under relatively shallow seas) (known as shelf seas) and gulfs, and was similarly submerged during other interglacial periods.]]></description>
+			<Point>
+				<coordinates>95.273438,-68.269387,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>Definition of Canyons, Basins, Abyssal Plains and Trenchs</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- Submarine Canyons (Green Dot):
+A steep-sided valley cut into the sea floor of the continental slope, sometimes extending well onto the continental shelf.  Some submarine canyons are found as extensions to large rivers, however most of them have no such association.
+ 
+- Oceanic Trenches (Yellow Dots):
+Hemispheric-scale long but narrow topographic depressions of the sea floor. They are also the deepest parts of the ocean floor. Up to 35,000 feet or more.
+ 
+- Oceanic Basins (Blue Dots):
+Hydrologically, oceanic basins include the flanking continental shelves and shallow, epeiric seas.
+ 
+- Abyssal Plains (Green Stars):
+An underwater plain on the deep ocean floor, usually found at depths between 3000 and 6000 meters. (9,842 feet to 19,685 feet)]]></description>
+			<Point>
+				<coordinates>118.828125,-68.39918,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>Definition of Seamount</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Seamount)
+ 
+A seamount is a mountain rising from the ocean seafloor that does not reach to the water's surface (sea level), and thus is not an island. These are typically formed from extinct volcanoes, that rise abruptly and are usually found rising from theseafloor to 1,000-4,000 metres (3,000-13,000 ft) in height. They are defined by oceanographers as independent features that rise to at least 1,000 metres (3,281 ft) above the seafloor.]]></description>
+			<Point>
+				<coordinates>106.875,-71.300793,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>Why so few Abyssal Plains in the Pacific Ocean?</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Abyssal planes are created because sediment buries the otherwise rugged topography of the ocean crust. This sediment is transported largely by things called turbidity currents. The Atlantic basin is ringed primarily by passive continental margins which allow these currents to transport the sediments well out into the basins. However, the Pacific ocean is ringed primarily by subduction zones. Subduction zones are usually marked by features that we call deep ocean trenches. These trenches are the deepest features of the ocean basins. As turbidity currents come off the continental margins in the Pacific, they usually continue down into the trenches where they become trapped. Therefore, the sediment they carry does no make it out into the Pacific basin. This is why there are fewer abyssal plains in the Pacific than there are in the Atlantic.
+
+
+Source. (http://answers.yahoo.com/question/index?qid=20061108111011AAVA6OJ)]]></description>
+			<Point>
+				<coordinates>146.601563,-65.946472,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1391</styleUrl>
+			<name>Major Ocean Currents</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Ocean_surface_currents.jpg/800px-Ocean_surface_currents.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Ocean_current)
+
+(larger image) (http://en.wikipedia.org/wiki/File:Ocean_surface_currents.jpg)
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-146.25,-51.618017,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1391</styleUrl>
+			<name>Ocean Current Thermohaline Circulation</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Thermohaline_Circulation_2.png/800px-Thermohaline_Circulation_2.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Global_conveyor_belt)
+
+(larger image) (http://en.wikipedia.org/wiki/File:Thermohaline_Circulation_2.png)
+
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-132.1875,-51.835778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1391</styleUrl>
+			<name>342-foot tsunami discovered in Google Earth results in the birth of a mountain.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A recent Google Earth update has revealed the that the reported discovery of a 342-foot tsunami in Google Earth has resulted a mountain that replaced the wave. See the images of the undersea eruption, the resulting tsunami, and the resulting mountain in this article about the event.                         (http://myreadingmapped.blogspot.com/2013/01/342-foot-tsunami-found-in-google-earth.html)]]></description>
+			<Point>
+				<coordinates>-70.115558,-55.033072,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1391</styleUrl>
+			<name>Thermohaline Circulation</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://4.bp.blogspot.com/-5GDshjG50ww/UsGD8XPltBI/AAAAAAAAGtQ/BnFhhFuHU7s/s1600/Thermohaline+Circulation+in+Google+map.JPG http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Thermohaline_Circulation_2.png/800px-Thermohaline_Circulation_2.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Check out this Google Map of the Topography of the Thermohaline Circulation (http://myreadingmapped.blogspot.com/2013/12/google-map-of-topography-of.html)
+
+
+
+© Google/MyReadingMapped
+
+
+All the submarine topography that shape the Deep Current that NASA's Thermohaline Circulation map omits.
+
+
+
+Wikipedia Commons / Public Domain / NASA]]></description>
+			<Point>
+				<coordinates>-33.046875,53.330873,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Lucky Strike - Hydrothermal Vent</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[More locations of hydrothermal vents and cold seeps. (http://myreadingmapped.blogspot.com/2014/06/the-submarine-topography-of.html)
+
+
+Wikipedia (http://en.wikipedia.org/wiki/Hydrothermal_vents)
+
+A hydrothermal vent is a fissure in a planet's surface from which geothermally heated water issues. Hydrothermal vents are commonly found near volcanically active places, areas where tectonic plates are moving apart, ocean basins, and hotspots. Hydrothermal vents exist because the earth is both geologically active and has large amounts of water on its surface and within its crust. Common land types include hot springs, fumaroles and geysers. Under the sea, hydrothermal vents may form features called black smokers. Relative to the majority of the deep sea, the areas around submarine hydrothermal vents are biologically more productive, often hosting complex communities fueled by the chemicals dissolved in the vent fluids. Chemosynthetic bacteria and archaea form the base of the food chain, supporting diverse organisms, including giant tube worms, clams, limpets and shrimp. Active hydrothermal vents are believed to exist on Jupiter's moon Europa, and ancient hydrothermal vents have been speculated to exist on Mars.[1]
+
+
+Cited Location Sources:
+
+Williams, 1988; Guinot, 1990; Martin &
+Christiansen, 1995; Chevaldonné & Olu,
+1996; Biscoito, 1997, in Desbruyères &
+Segonzac, 1997; Shank, 1997, in
+Desbruyères & Segonzac, 1997; Martin
+et al., 1998b; Komai & Segonzac, 2003]]></description>
+			<Point>
+				<coordinates>-32.266667,37.283333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1415</styleUrl>
+			<name>Green Canyon - Cold Seep</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[More locations of hydrothermal vents and cold seeps. (http://myreadingmapped.blogspot.com/2014/06/the-submarine-topography-of.html)
+
+ 
+Wikipedia (http://en.wikipedia.org/wiki/Cold_seeps)
+
+A cold seep (sometimes called a cold vent) is an area of the ocean floor wherehydrogen sulfide, methane and other hydrocarbon-rich fluid seepage occurs, often in the form of a brine pool. "Cold" does not mean temperature of seepage is lower than surrounding sea water. On the contrary, its temperature is often slightly higher.[1] Cold seeps constitute a biome supporting several endemic species.Cold seeps develop unique topography over time, where reactions between methane and seawater create carbonate rock formations and reefs. These reactions may also be dependent on bacterial activity. Ikaite, a hydrous calcium carbonate, can be associated with oxidizing methane at cold seeps.
+
+
+Cited Location Sources:
+
+
+Williams, 1988; MacDonald et al., 1989;
+Carney, 1994; Bergquist et al., 2003;
+Felder & Kensley, 2004]]></description>
+			<Point>
+				<coordinates>-91.5,27.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>2 whales can be seen in water in Google Map</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Thanks to bobu9 for finding 2 whales off the coast of Great Sandy National Park, Australia.]]></description>
+			<Point>
+				<coordinates>153.291681,-24.622093000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>Concentrated area of Mass Whale Strandings </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[New Zealand, Chatham Island and Tasmania are a zone where the most mass whale strandings have taken place. More mass strandings have taken place in this zone than any where else on Earth. The undersea geology unique to this zone of plateaus and nearby seamounts may be the reason.
+
+
+See this map of Mass Whale Stranding Sites (http://myreadingmapped.blogspot.com/2013/05/mass-whale-stranding-sites.html)]]></description>
+			<Point>
+				<coordinates>173.847656,-41.376809,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Adare Seamounts</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Adare_Seamounts)]]></description>
+			<Point>
+				<coordinates>171.429291,-69.975963,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Arago Seamount</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Hotspot_(geology)#Pacific_Plate)]]></description>
+			<Point>
+				<coordinates>-150.72967500000001,-23.376296,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Balleny Seamounts</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Balleny_Seamounts)]]></description>
+			<Point>
+				<coordinates>161.5,-61.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Barsukov Seamount</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Barsukov_Seamount)]]></description>
+			<Point>
+				<coordinates>-29.200000000000003,-61.05,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Bear Guyot</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Bear_Seamount)]]></description>
+			<Point>
+				<coordinates>-67.4,39.916667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Belgica Guyot</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Belgica_Guyot)]]></description>
+			<Point>
+				<coordinates>-90.5,-65.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Bowie Seamount</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Bowie_Seamount)]]></description>
+			<Point>
+				<coordinates>-135.659231,53.306925,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Cordell Bank</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://2.bp.blogspot.com/-gQfjtflVm9E/UK-943o4tvI/AAAAAAAACcI/EKfcc6NAVdc/s1600/Cordell+Bank.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Cordell_Bank_National_Marine_Sanctuary)
+Zoom in very close to see mountians.
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-123.39946700000002,38.02727,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Cortes Bank</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Cortes_Bank)]]></description>
+			<Point>
+				<coordinates>-119.21500000000002,32.478056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Crough Seamount</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Hotspot_(geology)#Pacific_Plate)]]></description>
+			<Point>
+				<coordinates>-114.6,-26.9,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Dallmann Seamount</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Dallmann_Seamount)]]></description>
+			<Point>
+				<coordinates>-96.883333,-67.166667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Davidson Seamount</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Davidson_Seamount)]]></description>
+			<Point>
+				<coordinates>-122.716667,35.716667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Dequey submarine volcano</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Information (http://www.enotes.com/topic/Dequey_(submarine_volcano))]]></description>
+			<Point>
+				<coordinates>121.75000000000001,20.33,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Explorer Seamount</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Explorer_Seamount)]]></description>
+			<Point>
+				<coordinates>-130.48,49.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Gascoyne Seamount, 39</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Hotspot_(geology)#Indo-Australian_Plate)]]></description>
+			<Point>
+				<coordinates>157.08252,-40.12009,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Hakurei Seamount</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Hakurei_Seamount)]]></description>
+			<Point>
+				<coordinates>140.816667,-62.866667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Harve Seamount</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://1.bp.blogspot.com/-c0nTMGfC7kw/UI0oZUdT0MI/AAAAAAAACNo/guY0B5ga4ps/s320/Harve+Surmount+in+Google+Earth.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Huffington Post: Pumice 'Raft' Floating Off New Zealand Coast Created By Undersea Volcano Eruption, Researchers Say (http://www.huffingtonpost.com/2012/10/27/pumice-raft-volcano_n_2028058.html?ref=topbar)
+
+ 
+Wikipedia (http://en.wikipedia.org/wiki/2012_Kermadec_Islands_eruption)
+ 
+
+©Google]]></description>
+			<Point>
+				<coordinates>-179.036636,-31.107037000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Hawaiian–Emperor seamount chain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Hawaiian%E2%80%93Emperor_seamount_chain)]]></description>
+			<Point>
+				<coordinates>170.375977,42.391009,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Hunga Tonga-Hunga Ha'apai erupts - 2009 - creating a new island (viewable)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[atlasobscura.com (http://www.atlasobscura.com/places/hunga-ha-apai-new-volcano-island)
+ 
+In March of 2009, Hunga Tonga-Hunga Ha'apai erupted for several days, sending a violent stream of steam, rocks, and ash thousands of feet into the air. For days, huge columns of smoke and ash were seen rising from the Pacific ocean.
+
+Geologists confirmed that the eruption came from two volcanic vents, one that was located on Hunga Ha'apai, and another located 100m (330 ft) offshore. The two vents ejected so much debris, however, that they created a new land mass between them. Though the eruption wiped out all signs of wildlife on the original islet, the "new" island added hundreds of square meters to Hunga Ha'apai.
+ 
+Wikipedia (http://en.wikipedia.org/wiki/Hunga_Tonga)]]></description>
+			<Point>
+				<coordinates>-175.38,-20.57,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Iselin Seamount</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Iselin_Seamount)]]></description>
+			<Point>
+				<coordinates>-178.03894,-70.74076,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Kavachi submarine volcano</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Kavachi on Wikipedia (http://en.wikipedia.org/wiki/Kavachi)]]></description>
+			<Point>
+				<coordinates>157.970551,-8.994167000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Kick-'em-Jenny submarine volcano</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Kick-'em-Jenny on Wikipedia (http://en.wikipedia.org/wiki/Kick-'em-Jenny)]]></description>
+			<Point>
+				<coordinates>-61.64000000000001,12.3,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Kolumbo submarine volcano</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Kolumbo on Wikipedia (http://en.wikipedia.org/wiki/Kolumbo_(volcano))]]></description>
+			<Point>
+				<coordinates>25.491667,36.516667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Lōʻihi Seamount submarine volcano</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Lōʻihi Seamount on Wikipedia (http://en.wikipedia.org/wiki/L%C5%8D%CA%BBihi_Seamount)]]></description>
+			<Point>
+				<coordinates>-155.27,18.92,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Marsili</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Marsili)]]></description>
+			<Point>
+				<coordinates>14.394444,39.25,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Niue Island created by submarine volcano</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Information (http://www.niuetotal.com/location-ing.htm)]]></description>
+			<Point>
+				<coordinates>-169.869819,-19.062149,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Orca Seamount</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Orca_Seamount)]]></description>
+			<Point>
+				<coordinates>-58.400000000000006,-62.433333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Pasco Banks</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pasco_banks)]]></description>
+			<Point>
+				<coordinates>-174.416667,-13.083333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Patton Seamount</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Patton_Seamount)]]></description>
+			<Point>
+				<coordinates>-150.44,54.580000000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Pioneer Seamount</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pioneer_Seamount)]]></description>
+			<Point>
+				<coordinates>-123.435,37.351667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Shatsky Rise submarine super volcano</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Shatsky Rise on Wikipedia (http://en.wikipedia.org/wiki/Shatsky_Rise)
+Supervolcano Shatshy Rise (http://covertress.blogspot.com/2010/04/underwater-supervolcano-shatsky-rise.html)]]></description>
+			<Point>
+				<coordinates>158.0,36.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Vailulu'u Seamount</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Vailulu%27u)]]></description>
+			<Point>
+				<coordinates>-169.058333,-14.215,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Vema Seamount</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/RV_Vema#Seafloor_features)]]></description>
+			<Point>
+				<coordinates>8.333333,-31.633333000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>West Mata submarine volcano</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[West Mata on Wikipedia (http://en.wikipedia.org/wiki/West_Mata)]]></description>
+			<Point>
+				<coordinates>-173.759,-15.100999999999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Galápagos hotspot and hydrothermal vents</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Galapagos_Bathymetric.jpg/776px-Galapagos_Bathymetric.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Galapagos_Rift)
+
+The Galápagos hotspot is a volcanic hotspot in the East Pacific Ocean responsible for the creation of the Galapagos Islands as well as three major aseismic ridge systems, Carnegie, Cocos and Malpelso which are on two tectonic plates. The hotspot is located near the Equator on the Nazca Plate not far from the divergent plate boundary with theCocos Plate. The tectonic setting of the hotspot is complicated by the Galapagos Triple Junction of the Nazca and Cocos plates with the Pacific Plate. The movement of the plates over the hotspot is determined not solely by the spreading along the ridge but also by the relative motion between the Pacific Plate and the Cocos and Nazca Plates.
+
+
+Bathymetric Data for the Galapagos Islands (http://commons.wikimedia.org/wiki/Galapagos_Islands).
+
+Wikipedia Commons / by William Chadwick]]></description>
+			<Point>
+				<coordinates>-90.494385,-1.021674,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Cove Hydrothermal Field</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://knowledgeweb.tk (http://knowledgeweb.tk/Abyssal_plain#Hydrothermal_vents)]]></description>
+			<Point>
+				<coordinates>-12.367,-4.8,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Endeavour Hydrothermal Vents</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/6/63/Main_Endeavour_black_smoker.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Endeavour_Hydrothermal_Vents)
+
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-131.008,46.507,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Logatchev Vent Field</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-45.395508,15.284184999999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Lost City (hydrothermal field)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/4/4d/Lost_City_%28hydrothermal_field%2902.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lost_City_(hydrothermal_field))
+
+Wikipedia Commons / Public Domain
+
+
+
+whoi.edu (http://www.whoi.edu/oceanus/viewArticle.do?id=38007)
+Hydrocarbons—molecules critical to life—areroutinely generated by the simple interaction of seawater with the rocks underthe Lost City hydrothermal vent field in the Atlantic Ocean, according toresearch led by the University of Washington and the Woods Hole OceanographicInstitution (WHOI).]]></description>
+			<Point>
+				<coordinates>-42.140808,30.01322,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Mid Pacific Mountains</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>176.748047,33.50475900000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Red Lion Hydrothermal Field</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://knowledgeweb.tk (http://knowledgeweb.tk/Abyssal_plain#Hydrothermal_vents)]]></description>
+			<Point>
+				<coordinates>-12.383,-4.8,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>Piccard Hydrothermal Vents</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[whoi.edu (http://www.whoi.edu/oceanus/viewArticle.do?id=149269)
+
+The extreme depths and different mineral composition of the seafloor along the Mid- Cayman Rise have produced many different kinds of vents within a relatively short span of seafloor. Researchers on this cruise concentrated their efforts at two sites, one of which, the Piccard vent field, is the deepest known hydrothermal site, at nearly 5,000 meters (3.1 miles) deep. The fluids gushing from some of the vents at this site were found to be just above 400°C (750°F), among the hottest vents known.]]></description>
+			<Point>
+				<coordinates>-81.725,18.55,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>East Flower Garden Bank</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Flower_Garden_Banks_National_Marine_Sanctuary)]]></description>
+			<Point>
+				<coordinates>-93.605576,27.927687,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Rankin Bank</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Flower_Garden_Banks_National_Marine_Sanctuary)]]></description>
+			<Point>
+				<coordinates>-93.44902,27.915705,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Stetson Bank</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Flower_Garden_Banks_National_Marine_Sanctuary)]]></description>
+			<Point>
+				<coordinates>-94.295826,28.165849,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>West Flower Garden Bank</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Flower_Garden_Banks_National_Marine_Sanctuary)]]></description>
+			<Point>
+				<coordinates>-93.836288,27.864574,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Aleutian Trench</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Aleutian Trench on Wikipedia (http://en.wikipedia.org/wiki/Aleutian_Trench)
+
+ 
+Depth: 7,679 metres (25,194 ft)]]></description>
+			<Point>
+				<coordinates>172.0,52.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Calypso Deep</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Calypso Deep on Wikipedia (http://en.wikipedia.org/wiki/Calypso_Deep)]]></description>
+			<Point>
+				<coordinates>21.133333,36.566667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Cayman Trough</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Cayman Trough on Wikipedia (http://en.wikipedia.org/wiki/Cayman_Trench)
+
+ 
+Depth: 7,686 metres (25,217 ft]]></description>
+			<Point>
+				<coordinates>-82.2052,18.760713,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Diamantina Trench</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Diamantina Trench on Wikipedia (http://en.wikipedia.org/wiki/Diamantina_Deep)]]></description>
+			<Point>
+				<coordinates>103.94165,-35.514343,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hellenic Trench</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Hellenic Trench on Wikipedia (http://en.wikipedia.org/wiki/Hellenic_Trench)
+
+
+(See map)]]></description>
+			<Point>
+				<coordinates>22.642822,35.344255,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hikurangi Trench</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Hikurangi Trench on Wikipedia (http://en.wikipedia.org/wiki/Hikurangi_Trench)
+
+ 
+Depth: 3,750 metres (12,300 ft)]]></description>
+			<Point>
+				<coordinates>178.64,-39.74,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Izu-Ogasawara Trench</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Izu-Ogasawara Trench on Wikipedia (http://en.wikipedia.org/wiki/Izu-Ogasawara_Trench)
+
+ 
+Depth: 9,780 metres (32,087 ft)]]></description>
+			<Point>
+				<coordinates>142.683,29.650000000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Japan Trench</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Japan Trench on Wikipedia (http://en.wikipedia.org/wiki/Japan_Trench)
+
+ 
+Depth: 9,000 metres (29,500 ft)]]></description>
+			<Point>
+				<coordinates>144.316667,40.116667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Kermadec Trench</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Kermadec Trench on Wikipedia (http://en.wikipedia.org/wiki/Kermadec_Trench)
+
+ 
+Depth: 10,047 metres (32,963 ft)]]></description>
+			<Point>
+				<coordinates>-175.0,-28.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Kuril–Kamchatka Trench</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Kuril–Kamchatka Trench on Wikipedia (http://en.wikipedia.org/wiki/Kuril%E2%80%93Kamchatka_Trench)
+
+ 
+Depth: 10,542 metres (34,587 ft)]]></description>
+			<Point>
+				<coordinates>155.35,47.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F9F7A6</styleUrl>
+			<name>Litke Deep</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Litke Deep on Wikipedia (http://en.wikipedia.org/wiki/Litke_Deep)]]></description>
+			<Point>
+				<coordinates>18.720703,82.494824,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Manila Trench</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Manila Trench on Wikipedia (http://en.wikipedia.org/wiki/Manila_Trench)]]></description>
+			<Point>
+				<coordinates>119.09728999999999,14.700508000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mariana Trench</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Mariana Trench on Wikipedia (http://en.wikipedia.org/wiki/Mariana_Trench)
+ 
+Mariana Trench Challenger Dive Animation (http://youtu.be/-ahdSPH1LdM)
+
+Trench Depth: 11,033 m (36,198 ft)]]></description>
+			<Point>
+				<coordinates>142.2,11.35,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>Location of the Treiste Deep-sea Dive in 1960</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/3/36/Bathyscaphe_Trieste.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>142.25,11.316667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>New depth found to be 10,000m deeper</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Background found on new depth that is 10,000m deeper. (http://io9.com/5866639/the-deepest-trench-on-earth-is-even-deeper-than-we-thought)]]></description>
+			<Point>
+				<coordinates>142.26470900000004,11.428879000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Middle America Trench</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Middle America Trench on Wikipedia (http://en.wikipedia.org/wiki/Middle_America_Trench)]]></description>
+			<Point>
+				<coordinates>-91.241455,12.811801,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Peru-Chile Trench</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Peru-Chile Trench on Wikipedia (http://en.wikipedia.org/wiki/Peru-Chile_Trench)
+
+ 
+Depth: 8,065 metres (26,460 ft)]]></description>
+			<Point>
+				<coordinates>-71.0,-23.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pliny Trench</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Pliny Trench on Wikipedia (http://en.wikipedia.org/wiki/Hellenic_Trench)
+
+
+(See map)]]></description>
+			<Point>
+				<coordinates>25.488281,34.899448,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Puerto Rico Trench</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Puerto Rico Trench on Wikipedia (http://en.wikipedia.org/wiki/Puerto_Rico_Trench)
+
+Puerto Rico Trench Animation (http://youtu.be/v1OnsuyFdaM)
+
+Trench Depth: 8,800 metres (28,232 ft)]]></description>
+			<Point>
+				<coordinates>-66.754444,19.835833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Romanche Trench</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Romanche Trench on Wikipedia (http://en.wikipedia.org/wiki/Romanche_Trench)]]></description>
+			<Point>
+				<coordinates>-18.325195,-0.340574,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Ryukyu Trench</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Ryukyu Trench on Wikipedia (http://en.wikipedia.org/wiki/Ryukyu_Trench)
+
+
+Depth: 5,212 meters (17,100 ft)]]></description>
+			<Point>
+				<coordinates>128.935547,25.700938,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>South Sandwich Trench</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[South Sandwich Trench on Wikipedia (http://en.wikipedia.org/wiki/South_Sandwich_Trench)
+
+ 
+Depth: 8,428 metres]]></description>
+			<Point>
+				<coordinates>-26.191389,-55.428889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Strabo Trench</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Strabo Trench on Wikipedia (http://en.wikipedia.org/wiki/Hellenic_Trench)
+
+
+(See map)]]></description>
+			<Point>
+				<coordinates>27.251587,34.470335,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Sunda Trench</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Sunda Trench on Wikipedia (http://en.wikipedia.org/wiki/Sunda_Trench)]]></description>
+			<Point>
+				<coordinates>109.966667,-10.316667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Sunda Arc</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Sunda Arc on Wikipedia (http://en.wikipedia.org/wiki/Sunda_Arc)]]></description>
+			<Point>
+				<coordinates>99.580078,-3.6888550000000007,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Tonga Trench</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Tonga Trench on Wikipedia (http://en.wikipedia.org/wiki/Tonga_Trench)
+
+Depth: 10,882 metres (35,702 ft) deep at its deepest point.]]></description>
+			<Point>
+				<coordinates>-174.733056,-22.944722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Yap Trench</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Yap Trench on Wikipedia (http://en.wikipedia.org/wiki/Yap_Trench)
+
+ 
+Depth: 8,527 metres (27,976 ft)]]></description>
+			<Point>
+				<coordinates>138.0,10.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-009D57</styleUrl>
+			<name>Amazon Canyon</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amazon Canyon on Wikipedia (http://en.wikipedia.org/wiki/Amazon_Canyon)]]></description>
+			<Point>
+				<coordinates>-48.4,3.3,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-009D57</styleUrl>
+			<name>Bering Canyon</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Giant submarine canyons:  Is size any clue to their importance in the rock record? / Page 6 (http://walrus.wr.usgs.gov/reports/reprints/Normark_GSA_SP370.pdf#search=%22Bering%20Canyon%22)]]></description>
+			<Point>
+				<coordinates>-168.25,54.133,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-62AF44</styleUrl>
+			<name>Congo (Zaire) Canyon</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Giant submarine canyons:
+Is size any clue to their importance in the rock record? / Page 9 (http://walrus.wr.usgs.gov/reports/reprints/Normark_GSA_SP370.pdf#search=%22Bering%20Canyon%22)]]></description>
+			<Point>
+				<coordinates>11.942139,-6.031311,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-009D57</styleUrl>
+			<name>Ganges Canyon (Swatch of No Ground)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Giant submarine canyons:
+Is size any clue to their importance in the rock record? / Page 4 (http://walrus.wr.usgs.gov/reports/reprints/Normark_GSA_SP370.pdf#search=%22Bering%20Canyon%22)]]></description>
+			<Point>
+				<coordinates>89.121094,20.571082,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-009D57</styleUrl>
+			<name>Hudson Canyon</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Hudson Canyon on Wikipedia (http://en.wikipedia.org/wiki/Hudson_Canyon)]]></description>
+			<Point>
+				<coordinates>-72.114258,39.372526,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-009D57</styleUrl>
+			<name>Indus Canyon</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>67.17041,23.211058,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-009D57</styleUrl>
+			<name> Laurentian Channel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Giant submarine canyons:
+Is size any clue to their importance in the rock record? / Page 10 (http://walrus.wr.usgs.gov/reports/reprints/Normark_GSA_SP370.pdf#search=%22Bering%20Canyon%22)]]></description>
+			<Point>
+				<coordinates>-58.5,46.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-009D57</styleUrl>
+			<name>Monterey Canyon</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Monterey Canyon on Wikipedia (http://en.wikipedia.org/wiki/Monterey_Canyon)]]></description>
+			<Point>
+				<coordinates>-121.83439699999998,36.78329,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-009D57</styleUrl>
+			<name>Mukluk Channel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Geological processes on continental margins: sedimentation, mass-wasting and Stability / Page 46 (http://books.google.com/books?id=hnZEDnYTNDkC&lpg=PA49&ots=SmqGTsZ3jV&dq=Mukluk%20Channel&pg=PA46#v=onepage&q=Mukluk%20Channel&f=false)]]></description>
+			<Point>
+				<coordinates>-135.461426,54.673831,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-009D57</styleUrl>
+			<name>Navarin Canyon</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Navarin Canyon on Wikipedia (http://en.wikipedia.org/wiki/Navarin_Canyon)]]></description>
+			<Point>
+				<coordinates>179.945068,60.73231500000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-009D57</styleUrl>
+			<name>La Jolla and Scripps Canyon</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[La Jolla and Scripps Canyon on Wikipedia (http://en.wikipedia.org/wiki/Scripps_Canyon)]]></description>
+			<Point>
+				<coordinates>-117.287121,32.885786,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-009D57</styleUrl>
+			<name>Pribilof Canyon</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Information - Greenpeace (http://www.greenpeace.org/usa/en/campaigns/oceans/bering-witness/submarine-canyons/)
+
+Pribilof Canyon on Wikipedia (http://en.wikipedia.org/wiki/Pribilof_Canyon)]]></description>
+			<Point>
+				<coordinates>-169.101562,56.072035,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-009D57</styleUrl>
+			<name>Surveyor Channel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Geological processes on continental margins: sedimentation, mass-wasting and Stability / Page 46 (http://books.google.com/books?id=hnZEDnYTNDkC&lpg=PA49&ots=SmqGTsZ3jV&dq=Mukluk%20Channel&pg=PA46#v=onepage&q=Mukluk%20Channel&f=false)]]></description>
+			<Point>
+				<coordinates>-146.755371,56.535258,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-009D57</styleUrl>
+			<name>Zhemchug Canyon</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Zhemchug Canyon on Wikipedia (http://en.wikipedia.org/wiki/Zhemchug_Canyon)]]></description>
+			<Point>
+				<coordinates>-174.902,58.101,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>American-Antarctic Ridge (AAR)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[American-Antarctic Ridge (AAR) on Wikipedia (http://en.wikipedia.org/wiki/American-Antarctic_Ridge)]]></description>
+			<Point>
+				<coordinates>-0.666667,-54.8333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>Alden Ridge</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Alden Ridge on Wikipedia (http://en.wikipedia.org/wiki/Aden_Ridge)]]></description>
+			<Point>
+				<coordinates>50.273438,13.304103000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>Central Indian Ridge</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://images-mediawiki-sites.thefullwiki.org/09/1/2/9/15028053949789413.gif</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Central Indian Ridge on Wikipedia (http://en.wikipedia.org/wiki/Central_Indian_Ridge)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>68.554688,-4.390229,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>East Pacific Rise</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://images-mediawiki-sites.thefullwiki.org/09/1/2/9/15028053949789413.gif</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[East Pacific Rise on Wikipedia (http://en.wikipedia.org/wiki/East_Pacific_Rise)
+]
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-108.632812,-42.293564,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>Explorer Ridge</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Explorer Ridge on Wikipedia (http://en.wikipedia.org/wiki/Explorer_Ridge)]]></description>
+			<Point>
+				<coordinates>-130.344543,49.633841,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>Gorda Ridge</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Gorda Ridge on Wikipedia (http://en.wikipedia.org/wiki/Gorda_Ridge)]]></description>
+			<Point>
+				<coordinates>-127.183228,42.045213,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>Hawaiian Ridge</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-167.958984,25.324167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>Juan de Fuca Ridge</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Juan de Fuca Ridge on Wikipedia (http://en.wikipedia.org/wiki/Juan_de_Fuca_Ridge)]]></description>
+			<Point>
+				<coordinates>-129.79248,46.225453,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>Mid-Atlantic Ridge</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://images-mediawiki-sites.thefullwiki.org/09/1/2/9/15028053949789413.gif</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Mid-Atlantic Ridge on Wikipedia (http://en.wikipedia.org/wiki/Mid-Atlantic_Ridge)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-43.461914,28.806174000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>Mid-Cayman Rise</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Cayman_Islands#Geography)
+
+The Cayman Islands are located in the western Caribbean Sea and are the peaks of a massive underwater ridge, known as the Cayman Ridge (or Cayman Rise). This ridge flanks the Cayman Trough, 6,000 m (20,000 ft) deep[16] which lies 6 km (3.7 mi) to the south.[17]]]></description>
+			<Point>
+				<coordinates>-81.03653,19.331878,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>Nazca Ridge</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Nazca_Ridge)]]></description>
+			<Point>
+				<coordinates>-87.363281,-24.527135,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>Northeast Pacific Basin</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-133.59375,33.578015,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>Norfolk Ridge</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Norfolk Ridge on Wikipedia (http://en.wikipedia.org/wiki/Norfolk_Ridge)]]></description>
+			<Point>
+				<coordinates>167.739258,-28.381735,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>Pacific–Antarctic Ridge</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://images-mediawiki-sites.thefullwiki.org/09/1/2/9/15028053949789413.gif</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Pacific–Antarctic Ridge on Wikipedia (http://en.wikipedia.org/wiki/Pacific-Antarctic_Ridge)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-163.652344,-62.835089,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>Southeast Indian Ridge</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://images-mediawiki-sites.thefullwiki.org/09/1/2/9/15028053949789413.gif</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Southeast Indian Ridge on Wikipedia (http://en.wikipedia.org/wiki/Southeast_Indian_Ridge)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>100.898438,-47.517201,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>Southeast Pacific Basin</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-91.582031,-50.289339,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>Southwest Indian Ridge</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://images-mediawiki-sites.thefullwiki.org/09/1/2/9/15028053949789413.gif</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Southwest Indian Ridge on Wikipedia (http://en.wikipedia.org/wiki/Southwest_Indian_Ridge)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>41.308594,-42.811522,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>Southwest Pacific Basin</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-152.050781,-37.996163,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>Aleutian Basin</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Aleutian Basin on Wikipedia (http://en.wikipedia.org/wiki/Aleutian_Basin)]]></description>
+			<Point>
+				<coordinates>177.0,57.00000000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>Amerasian Basin</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amerasian Basin on Wikipedia (http://en.wikipedia.org/wiki/Amerasian_Basin)]]></description>
+			<Point>
+				<coordinates>-124.804687,84.44010700000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>Blake Basin</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Blake Basin on Wikipedia (http://en.wikipedia.org/wiki/Blake_Basin)]]></description>
+			<Point>
+				<coordinates>-75.234375,33.137551,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>Eurasian Basin</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Eurasian Basin on Wikipedia (http://en.wikipedia.org/wiki/Eurasian_Basin)]]></description>
+			<Point>
+				<coordinates>73.476563,83.480366,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>Fram Basin</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>35.0,83.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>Herodotus Basin</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>28.0,33.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>Peru Basin</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.023437,-11.695273,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>Rhodes Basin</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>28.500000000000004,35.916667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>South China Basin</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>115.0,14.999999999999998,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>Tsushima Basin</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>131.8,36.58333300000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-4186F0</styleUrl>
+			<name>Yamato Basin</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>135.0,37.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Agulhas Bank</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Agulhas Bank on Wikipedia (http://en.wikipedia.org/wiki/Agulhas_Bank)]]></description>
+			<Point>
+				<coordinates>21.0,-35.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Alaskan Abyssal Plain </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-143.756104,55.422779,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Alborán Abyssal Plain </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.8333330000000005,35.916667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Angola Abyssal Plain </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>2.0,-14.999999999999998,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Amundsen Abyssal Plain </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amundsen Plain on Wikipedia (http://en.wikipedia.org/wiki/Amundsen_Plain)]]></description>
+			<Point>
+				<coordinates>-125.00000000000001,-65.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Argentine Abyssal Plain </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Argentine Abyssal Plain  on Wikipedia (http://en.wikipedia.org/wiki/Argentine_Abyssal_Plain)]]></description>
+			<Point>
+				<coordinates>-50.0,-47.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Barracuda Abyssal Plain </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-56.5,17.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Bellingshausen Abyssal Plain </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Bellingshausen Plain on Wikipedia (http://en.wikipedia.org/wiki/Bellingshausen_Plain)]]></description>
+			<Point>
+				<coordinates>-90.0,-64.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Biscay Abyssal Plain </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-7.250000000000001,45.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Boreas Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>1.0,77.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Canada Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-137.8125,76.434604,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Cape Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.000000000000001,-34.75,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Cape Verde Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-26.0,23.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Cascadia Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-127.50000000000001,47.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Ceará Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-36.5,0.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Ceylon Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>82.0,-4.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Chukchi Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-172.0,77.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Colombian Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-76.0,13.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Comoro Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>44.5,-13.75,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Cuvier Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>111.0,-22.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Demerra Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-48.00000000000001,10.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Dumshaf Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>5.712891,69.084257,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Enderby Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>40.0,-59.99999999999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Eratosthenes Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>32.666667,33.666667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Euxine Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Euxine Abyssal Plain on Wikipedia (http://en.wikipedia.org/wiki/Euxine_abyssal_plain)]]></description>
+			<Point>
+				<coordinates>34.541016,43.325178,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Fernando de Noronha Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-31.0,-3.0000000000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Ferradura Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-10.75,36.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Florida Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-86.0,25.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Guinea Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.0000000000000004,1.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Greenland Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-3.0000000000000004,75.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Gambia Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-28.0,12.000000000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Hatteras Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.0,31.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Hispaniola Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.583333,20.3,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Horseshoe Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-12.333333,35.666667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Iberian Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-13.5,43.75,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Mascarene Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>52.0,-19.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Mendeleyev Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-170.0,81.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Gascoyne Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>110.0,-16.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Japan Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>135.0,41.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Madeira AbyssaL Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-21.0,32.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Nares Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-63.0,23.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Northwind Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-161.0,76.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Oman Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>61.0,23.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Panama Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-79.0,11.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Papua Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>151.5,-14.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Pemambuco Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-27.0,-7.499999999999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Perth Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>110.0,-28.500000000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Porcupine Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-16.0,49.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Sardino-Balearic Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>6.333333,39.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Seine Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-12.25,34.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Sicila Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>18.0,36.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Sierra Leone Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-17.0,5.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Sigsbee Deep Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-93.0,23.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Silver Abyssal Plain </name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-69.5,22.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Sohm Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-55.0,36.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Somali Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>51.5,1.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>South Australian Abyssal Plane</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>130.0,-37.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>South Indian Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>125.00000000000001,-59.00000000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Tagus Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-12.000000000000002,37.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Tasman Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>153.25,-34.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Tufts Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-140.0,47.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Tyrrhenian Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>12.75,40.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Valdivia Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>70.0,-62.50000000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Venezuelan Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-67.0,14.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Weddell Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-20.0,-65.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-009D57</styleUrl>
+			<name>Wrangella Terrane Abyssal Plain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>160.0,81.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-F8971B</styleUrl>
+			<name>Campbell Plateau</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Campbell Plateau on Wikipedia (http://en.wikipedia.org/wiki/Campbell_Plateau)]]></description>
+			<Point>
+				<coordinates>171.0,-51.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-F8971B</styleUrl>
+			<name>Challenger Plateau</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Challenger Plateau on Wikipedia (http://en.wikipedia.org/wiki/Challenger_Plateau)]]></description>
+			<Point>
+				<coordinates>169.0,-39.1,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-F8971B</styleUrl>
+			<name>Hikurangi Plateau</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Hikurangi Plateau on Wikipedia (http://en.wikipedia.org/wiki/Hikurangi_Plateau)]]></description>
+			<Point>
+				<coordinates>-179.472656,-41.442726,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-F8971B</styleUrl>
+			<name>Kerguelen Plateau</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Kerguelen Plateau on Wikipedia (http://en.wikipedia.org/wiki/Kerguelen_Plateau)]]></description>
+			<Point>
+				<coordinates>76.1,-55.2,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-F8971B</styleUrl>
+			<name>Manihiki Plateau</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Manihiki Plateau on Wikipedia (http://en.wikipedia.org/wiki/Manihiki_Plateau)]]></description>
+			<Point>
+				<coordinates>-162.55371100000002,-10.833306,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-F8971B</styleUrl>
+			<name>Mascarene Plateau</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Mascarene Plateau on  Wikipedia (http://en.wikipedia.org/wiki/Mascarene_Plateau)]]></description>
+			<Point>
+				<coordinates>56.601563,-5.397273,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-F8971B</styleUrl>
+			<name>Naturaliste Plateau</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Naturaliste Plateau on Wikipedia (http://en.wikipedia.org/wiki/Naturaliste_Plateau)]]></description>
+			<Point>
+				<coordinates>111.3,-34.1,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-F8971B</styleUrl>
+			<name>Ontong Java Plateau</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Ontong Java Plateau on Wikipedia (http://en.wikipedia.org/wiki/Ontong_Java_Plateau)]]></description>
+			<Point>
+				<coordinates>157.587891,-1.757537,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-93D7E8</styleUrl>
+			<name>Continental Shelf</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>135.0,-10.314919,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-0BA9CC</styleUrl>
+			<name>Continental Shelf (Typical)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-78.618164,32.953368,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-4186F0</styleUrl>
+			<name>Continental Shelf</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>106.611328,6.227934000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-4186F0</styleUrl>
+			<name>Continental Shelf</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>124.80468800000001,31.877558,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-4186F0</styleUrl>
+			<name>Continental Shelf</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>149.0625,55.279115,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-4186F0</styleUrl>
+			<name>Continental Shelf</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>166.113281,72.019729,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-4186F0</styleUrl>
+			<name>Continental Shelf</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>39.023438,73.726595,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-4186F0</styleUrl>
+			<name>Continental Shelf</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.671875,59.534318,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-4186F0</styleUrl>
+			<name>Continental Shelf</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-49.921875,47.754098,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-4186F0</styleUrl>
+			<name>Continental Shelf</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-51.32812500000001,83.599031,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-4186F0</styleUrl>
+			<name>Continental Shelf</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-84.287109,27.994401,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-4186F0</styleUrl>
+			<name>Continental Shelf</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-88.681641,22.755921,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-4186F0</styleUrl>
+			<name>Continental Shelf</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-48.076172,1.142502,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-4186F0</styleUrl>
+			<name>Continental Shelf</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-62.57812500000001,-47.517201,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-961-4186F0</styleUrl>
+			<name>Continental Shelf</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>12.832031000000002,34.885931,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1391</styleUrl>
+			<name>Undersea tectonic plate boundaries and movement</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/7/7c/Global_plate_motion_2008-04-17.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[(Enlarge) (http://en.wikipedia.org/wiki/File:Global_plate_motion_2008-04-17.jpg)
+
+
+Wikipedia Commons /Public Domain]]></description>
+			<Point>
+				<coordinates>-45.527344,22.268764000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>Link for the map on Mass Whale Stranding Sites</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Go to Mass Whale Stranding Sites (http://myreadingmapped.blogspot.com/2013/05/mass-whale-stranding-sites.html)]]></description>
+			<Point>
+				<coordinates>-169.453125,-51.399206,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1143</styleUrl>
+			<name>1700 Cascadia undersea earthquake and tsunami ~9.0</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1700_Cascadia_earthquake)]]></description>
+			<Point>
+				<coordinates>-130.12207,44.840291,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1143</styleUrl>
+			<name>1700 Cascadia undersea earthquake generated tsunami</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>140.646973,36.456636,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1143</styleUrl>
+			<name>1896 Meiji-Sanriku undersea earthquake - 8.5</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1896_Meiji-Sanriku_earthquake)]]></description>
+			<Point>
+				<coordinates>144.0,39.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1143</styleUrl>
+			<name>1929 Grand Banks undersea earthquake - 7.2 </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1929_Grand_Banks_earthquake)]]></description>
+			<Point>
+				<coordinates>-56.0,44.69,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1143</styleUrl>
+			<name>1944 Tōnankai undersea earthquake - 8.0</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1944_T%C5%8Dnankai_earthquake)]]></description>
+			<Point>
+				<coordinates>137.1,34.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1143</styleUrl>
+			<name>1946 Nankaidō undersea earthquake - 8.1</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1946_Nankaido_earthquake)]]></description>
+			<Point>
+				<coordinates>135.6,33.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1143</styleUrl>
+			<name>1960 Valdivia land-based earthquake and tsunami - 9.3</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/1960_Valdivia_earthquake)]]></description>
+			<Point>
+				<coordinates>-73.047,-38.235,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1143</styleUrl>
+			<name>1960 Valdvia Earthquake generated Tsunami</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/0/07/1960_Valdivia_earthquake.jpg/496px-1960_Valdivia_earthquake.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[(Enlarge) (http://en.wikipedia.org/wiki/File:1960_Valdivia_earthquake.jpg)
+Wikipedia Common / Public Domain]]></description>
+			<Point>
+				<coordinates>-73.740234,-41.244772,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1143</styleUrl>
+			<name>2004 Indian Ocean undersea earthquake and tsunami - 9.3</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake)]]></description>
+			<Point>
+				<coordinates>95.85400000000001,3.316,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1143</styleUrl>
+			<name>2004 Indian Ocean undersea earthquake generated tsunami </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/4/47/2004_Indonesia_Tsunami_Complete.gif</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[(Enlarge) (http://en.wikipedia.org/wiki/File:2004_Indonesia_Tsunami_Complete.gif)
+
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>98.830261,7.988517999999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Photo of Indian Ocean tsunami</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/2/2d/2004-tsunami.jpg http://upload.wikimedia.org/wikipedia/commons/d/d8/Tsunami2.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[(Enlarge) (http://en.wikipedia.org/wiki/File:2004-tsunami.jpg)
+ 
+Wikipedia Commons / Public Domain
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>98.865967,8.119053,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1143</styleUrl>
+			<name>2006 Hengchun undersea earthquake - 7.1</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/2006_Hengchun_earthquake)]]></description>
+			<Point>
+				<coordinates>120.54,21.830000000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1143</styleUrl>
+			<name>2011 Tōhoku undersea earthquake and tsunami - 9.0</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake)]]></description>
+			<Point>
+				<coordinates>142.36900000000003,38.322,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1143</styleUrl>
+			<name>2011 Tōhoku undersea earthquake generated tsunami</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2011_Tohoku_earthquake_observed_tsunami_heights_en.png/656px-2011_Tohoku_earthquake_observed_tsunami_heights_en.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[(Enlarge) (http://en.wikipedia.org/wiki/File:2011_Tohoku_earthquake_observed_tsunami_heights_en.png)
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>141.503906,38.462192,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1143</styleUrl>
+			<name>August 30, 2012 Undersea Earthquake</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[deafwhale.blogspot.com (http://deafwhale.blogspot.com/2012/10/new-zealand-whale-beaching-due-to-8.html)
+
+EARTHQUAKES CAUSE NEW ZEALAND WHALE BEACHING (see Oct. 16, 2012)
+
+AS PREDICTED ONE MONTH AGO, ON 14 OCTOBER 2012, FIFTY-ONE PILOT WHALES WERE WASHED INTO THE SAND AT EAST CAPE, NORTH ISLAND, NEW ZEALAND! 
+
+This beaching was caused by a cluster of eight earthquakes: 
+
+
+- PDE-Q 2012 08 30 084312.83 -50.42 114.90 10 4.2 mbGS
+- PDE-Q 2012 08 30 105358.42 -50.21 114.11 10 5.4 MwGCMT
+- PDE-Q 2012 08 30 105854.15 -50.26 114.25 10 4.6 mbGS
+- PDE-Q 2012 08 30 121843.09 -50.14 114.08 10 5.6 MwGCMT
+- PDE-Q 2012 08 30 152542.01 -50.30 114.11 10 4.5 mbGS 
+- PDE-Q 2012 08 30 152717.51 -50.40 114.10   9 4.8 mbGS 
+- PDE-Q 2012 08 30 190304.85 -50.35 114.19 10 4.9 mbGS
+- PDE-Q 2012 08 30 190424.31 -50.42 114.40 10 4.9 mbGS
+- PDE-Q 2012 08 31 043745.05 -50.24 114.32 10 4.2 mbGS]]></description>
+			<Point>
+				<coordinates>114.10000000000001,-50.33,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-FFFF00-3</styleUrl>
+			<name>August 30, 2012 undersea Earthquake deafens whales who swim with the current and beach themselves at Whangaparaoa Beach, New Zealand - Oct. 16, 2012</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>105.11718,-47.5172,0.0 169.57397,-47.62097,0.0 176.48437,-41.65649,0.0 178.670654,-37.596824,0.0 178.305359,-37.466139,0.0 177.893372,-37.442155,0.0 177.980576,-37.565263,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>Oct. 16, 2012 Whangaparaoa Beach, New Zealand </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[stuff.co.nz (http://www.stuff.co.nz/national/7823625/Whales-buried-after-East-Cape-stranding)
+
+A group of long-finned pilot whales has been buried after stranding on a remote East Cape beach.
+
+The 51 whales came ashore in two-metre swells at Whangaparaoa Beach, near Cape Runaway, early on Sunday, Department of Conservation Gisborne Whakatane marine ranger Jamie Quirk said.
+
+Forty-four of the whales died relatively quickly from natural causes, while the other seven were injured during the stranding and were euthanised.]]></description>
+			<Point>
+				<coordinates>177.987099,-37.579821,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>Pilot Whale range map</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cetacea_range_map_Pilot_Whale.png/800px-Cetacea_range_map_Pilot_Whale.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[(Enlarge) (http://en.wikipedia.org/wiki/File:Cetacea_range_map_Pilot_Whale.png)
+
+
+
+
+- Short-finned Pilot Whale (http://en.wikipedia.org/wiki/Short-finned_Pilot_Whale) (Globicephala macrorhynchus (http://commons.wikimedia.org/wiki/Globicephala_macrorhynchus)) in blue
+- Long-finned Pilot Whale (http://en.wikipedia.org/wiki/Long-finned_Pilot_Whale) (Globicephala melas (http://commons.wikimedia.org/wiki/Globicephala_melas)) in green
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-172.617187,-27.683528,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1143</styleUrl>
+			<name>Undersea Earthquake - August 11, 2012</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[deafwhale.blogspot.com (http://deafwhale.blogspot.com/2012/09/earthquake-along-northern-mid-atlantic.html)
+
+PILOT WHALES BEACHED IN SCOTLAND WERE INJURED BY UNDERSEA QUAKE (see 9/3/2012)
+
+
+The pod was previously injured by potent pressure changes (seaquakes) induced into the water by the following undersea earthquake:  Magnitude    mb 5.3   NORTHERN MID-ATLANTIC RIDGE (http://www.emsc-csem.org/Earthquake/earthquake.php?id=281355)
+
+Date time: 2012-08-11 17:47:30.0 UTC
+Location 1692 km W of Dublin at 52.21N; 31.46W]]></description>
+			<Point>
+				<coordinates>-31.46,52.21,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-FFFF00-3</styleUrl>
+			<name>August 11, 2012 Undersea Earthquake deafens whales who swim with the current and beach themselves at St. Andrews, Scotland - September 3, 2012</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-37.96875,53.33087,0.0 -6.42974,59.130860000000006,0.0 -1.7715400000000001,59.71209000000001,0.0 -0.71685,57.27904,0.0 -2.777717,56.335311,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>St. Andrews, Scotland - September 3, 2012</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Daily News (http://www.nydailynews.com/news/world/16-whales-die-mass-beaching-scotland-article-1.1150716)16 whales die in mass beaching in Scotland, including 3 calves
+
+
+
+Sixteen whales were killed and ten others saved in a mass beaching on Scotland's east coast on Sunday, authorities said.
+
+
+The 20-foot pilot whales became stranded in a small cove in the county of Fife - home to the famed Old Course at St. Andrew's golf course -- at around 7 a.m. local time, The Scotsman  (http://www.scotsman.com/news/environment/sixteen-whales-die-and-ten-saved-after-beaching-on-east-coast-of-scotland-1-2502755)newspaper reported.]]></description>
+			<Point>
+				<coordinates>-2.777889,56.334966,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1143</styleUrl>
+			<name>Undersea Earthquake - July 28, 2012</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[deafwhale.blogspot.com (http://deafwhale.blogspot.com/2012/09/two-seaquakes-cause-near-beaching-in.html)
+
+
+TWO QUAKES CAUSE NEAR BEACHING IN CAPE VERDE ISLANDS (see 8/24/2012)
+The two quakes that injured this pod occurred along the Central Mid Atlantic Ridge, just north of the equator at: 4:49N; 32:73W. The first event was a shallow, thrusting, magnitude 5.3 event; a quake most likely to injury diving whales.  http://www.emsc-csem.org/Earthquake/earthquake.php?id=279748
+
+The second event was a magnitude 4.9 occurring 17 minutes later. http://www.emsc-csem.org/Earthquake/earthquake.php?id=279750#summary]]></description>
+			<Point>
+				<coordinates>-33.216667,4.816667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-FFFF00-3</styleUrl>
+			<name>July 28, 2012 Undersea Earthquake deafens whales who swim with the current and beach themselves at Santa Maria Beach, Sal Island - August 24, 2012 </name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-35.37597,5.00339,0.0 -19.78912,14.77488,0.0 -22.914734,16.598688,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>Santa Maria Beach, Sal Island - August 24, 2012 </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[deafwhale.blogspot.com (http://deafwhale.blogspot.com/)
+
+
+TWO QUAKES CAUSE NEAR BEACHING IN CAPE VERDE ISLANDS
+
+
+August 2012:  The Cape Verde mass stranding of 17 pilot whales took place on Santa Maria Beach (Sal Island 16.590N; 22.900W) during early morning hours on August 24, 2012.  The rescuers were able to push the whales back into deep water and they swam off with the surface flow.]]></description>
+			<Point>
+				<coordinates>-22.917202,16.590945,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1173</styleUrl>
+			<name>Mendocino Fracture Zone</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mendocino_Fracture_Zone)]]></description>
+			<Point>
+				<coordinates>-151.611328,39.707187,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1173</styleUrl>
+			<name>Murray Fracture Zone</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-147.128906,29.840644000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1173</styleUrl>
+			<name>Molokai Fracture Zone</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-141.59179700000004,23.32208,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1173</styleUrl>
+			<name>Clarion Fracture Zone</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-137.548828,15.453679999999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1173</styleUrl>
+			<name>Clipperton Fracture Zone</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-135.527344,6.577303,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1173</styleUrl>
+			<name>Eltanin Fracture Zone</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-125.15625000000001,-54.876607,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1173</styleUrl>
+			<name>Udintsev Fracture Zone</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-141.503906,-56.656226000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1173</styleUrl>
+			<name>Challenger Fracture Zone</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-119.970703,-32.398516,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1173</styleUrl>
+			<name>Romanche Fracture Zone</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-27.246094,-1.098565,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1173</styleUrl>
+			<name>Chain Fracture Zone</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-23.115234,-2.591889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1173</styleUrl>
+			<name>Boca Verde Fracture Zone</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-18.808594,-13.068777,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1173</styleUrl>
+			<name>Ascension Fracture Zone</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-13.491211,-7.318882,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1143'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1143-crisis-epicenter.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1173'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1173-crisis-power-outage.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1183'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1183-crisis-volcano.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1201'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1201-fac-info-alt.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1363'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1363-rec-fish.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1391'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1391-rec-spa.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1415'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1415-rec-winter-snow.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-009D57'>
+			<IconStyle>
+				<color>ff579D00</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-4186F0'>
+			<IconStyle>
+				<color>ffF08641</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-62AF44'>
+			<IconStyle>
+				<color>ff44AF62</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F9F7A6'>
+			<IconStyle>
+				<color>ffA6F7F9</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-960-009D57'>
+			<IconStyle>
+				<color>ff579D00</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-960-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-961-0BA9CC'>
+			<IconStyle>
+				<color>ffCCA90B</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-961-4186F0'>
+			<IconStyle>
+				<color>ffF08641</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-961-93D7E8'>
+			<IconStyle>
+				<color>ffE8D793</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-961-F8971B'>
+			<IconStyle>
+				<color>ff1B97F8</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/961-wht-square-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-962-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-993'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/993-biz-camera.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='line-FFFF00-3'>
+			<LineStyle>
+				<color>ff00FFFF</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+	</Document>
+</kml>

@@ -1,0 +1,1699 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Air Combat Command (ACC)",
+                "desc": "<p style=\"width:300px\"><a href=\"http:\/\/en.wikipedia.org\/wiki\/Langley_Air_Force_Base\" target=\"_blank\">Joint Base Langley\u2013Eustis<\/a>, Hampton, Virginia, USA<br \/><a href=\"http:\/\/en.wikipedia.org\/wiki\/Air_Combat_Command\">Air Combat Command (ACC)<\/a><br \/><br \/><img src=\"http:\/\/rezn8d.com\/gallery\/Air_Combat_Command.png\" ><br \/><br \/>Sectors (SOCC) reports to Air Combat Command (ACC) and to NORAD headquarters.<br \/>The USAF Air Combat Command portion of the JSS is composed of three Continental United States (CONUS) Sector Operations Control Centers (SOCC) equipped with Battle Control System-Fixed (BCS-F) displays. Three of the SOCCs are located in the Continental United States (CONUS) Source: <a href=\"http:\/\/en.wikipedia.org\/wiki\/Joint_Surveillance_System\">Wikipedia<\/a><\/p><p><img src=\"http:\/\/rezn8d.com\/gallery\/Battle_Control_System_Display.jpg\" width=\"300px\"><\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.344520025,
+                    37.0775603959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rome SOCC",
+                "desc": "<p style=\"width:300px\"><a href=\"http:\/\/en.wikipedia.org\/wiki\/Rome_AFB\" target=\"_blank\">Griffiss AFB<\/a>, Rome, New York, USA<br \/><a href=\"http:\/\/en.wikipedia.org\/wiki\/Eastern_Air_Defense_Sector\">Eastern Air Defense Sector<\/a><br \/><br \/><img src=\"http:\/\/rezn8d.com\/gallery\/Eastern_Air_Defense_Sector_emblem.jpg\" ><br \/><br \/>The USAF Air Combat Command portion of the JSS is composed of three Continental United States (CONUS) Sector Operations Control Centers (SOCC) equipped with Battle Control System-Fixed (BCS-F) displays. Three of the SOCCs are located in the Continental United States (CONUS) Source: <a href=\"http:\/\/en.wikipedia.org\/wiki\/Joint_Surveillance_System\">Wikipedia<\/a><\/p><p><img src=\"http:\/\/rezn8d.com\/gallery\/Battle_Control_System_Display.jpg\" width=\"300px\"><\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4058333315,
+                    43.2166666672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tyndall SOCC",
+                "desc": "<p style=\"width:300px\"><a href=\"http:\/\/www.tyndall.af.mil\/\" target=\"_blank\">Tyndall AFB<\/a>, Parker, Florida, USA<br \/><a href=\"http:\/\/en.wikipedia.org\/wiki\/Southeast_Air_Defense_Sector\">Southeast Air Defense Sector (SEADS)<\/a><br \/><br \/><img src=\"http:\/\/rezn8d.com\/gallery\/Southeast_Air_Defense_Sector_emblem.jpg\" ><br \/><br \/>The USAF Air Combat Command portion of the JSS is composed of three Continental United States (CONUS) Sector Operations Control Centers (SOCC) equipped with Battle Control System-Fixed (BCS-F) displays. Three of the SOCCs are located in the Continental United States (CONUS) Source: <a href=\"http:\/\/en.wikipedia.org\/wiki\/Joint_Surveillance_System\">Wikipedia<\/a><\/p><p><img src=\"http:\/\/rezn8d.com\/gallery\/Battle_Control_System_Display.jpg\" width=\"300px\"><\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.5941666664,
+                    30.0749999995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "McChord SOCC",
+                "desc": "<p style=\"width:300px\"><a href=\"http:\/\/en.wikipedia.org\/wiki\/Joint_Base_Lewis-McChord\">Joint Base Lewis-McChord<\/a>, Tacoma, Washington, USA<br \/><a href=\"http:\/\/en.wikipedia.org\/wiki\/Western_Air_Defense_Sector\">Western Air Defense Sector<\/a><br \/><br \/><img src=\"http:\/\/rezn8d.com\/gallery\/Western_Air_Defense_Sector_emblem.jpg\" ><br \/><br \/>The USAF Air Combat Command portion of the JSS is composed of three Continental United States (CONUS) Sector Operations Control Centers (SOCC) equipped with Battle Control System-Fixed (BCS-F) displays. Three of the SOCCs are located in the Continental United States (CONUS) Source: <a href=\"http:\/\/en.wikipedia.org\/wiki\/Joint_Surveillance_System\">Wikipedia<\/a><\/p><p><img src=\"http:\/\/rezn8d.com\/gallery\/Battle_Control_System_Display.jpg\" width=\"300px\"><\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.503888888,
+                    47.1216666679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SLC",
+                "desc": "<h3>Callsign: SLC<br \/>NORAD ID: Z-213<\/h3><p style=\"width:300px\">Francis Peak, Utah, USA<br \/><br \/>ARSR-1E<br \/>USAF: Western Air Defense Sector<br \/>FAA: ANM Northwest Mountain<br \/><br \/>Opened in 1962 by FAA. Also called \"Salt Lake City\"<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.838407887,
+                    41.0329277308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FTW",
+                "desc": "<h3>Callsign: FTW<br \/>NORAD ID: Z-231<\/h3><p style=\"width:300px\">Keller, Texas, USA<br \/><br \/>ARSR-1D<br \/>USAF: Western Air Defense Sector<br \/>FAA: ASW Southwest<br \/><br \/>Also known as Fort Worth. Opened in 1960s, still using ARSR-1D.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.2200605394,
+                    32.9443224564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QOJ",
+                "desc": "<h3>Callsign: QOJ<br \/>NORAD ID: Z-235<\/h3><p style=\"width:300px\">Joelton, Tennessee, USA<br \/><br \/>ARSR-1E<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: ASO Southern<br \/><br \/>Former ADCOM Joelton AFS closed in 1961 and taken over by FAA.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.8614113739,
+                    36.3359933447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-61",
+                "desc": "<h3>Callsign: J-61<\/h3><p style=\"width:300px\">Trevose, Philadelphia, USA<br \/><br \/>ARSR-1<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: AEA Eastern<br \/><br \/>Temporary data-tie (during the Gibbsboro AFS {Z-63} JSS radar change-out). Then became a 'permanent' replacement for Z-63 until Gibbsboro re-opened with its ARSR-4 and closed in mid 1990s.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.9870230963,
+                    40.1341039707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QJE",
+                "desc": "<h3>Callsign: QJE<\/h3><p style=\"width:300px\">Minneapolis, Minnesota, USA<br \/><br \/>ARSR-1E<br \/>USAF: Western Air Defense Sector<br \/>FAA: AGL Great Lakes<br \/><br \/>Located 10.8 miles (17.4 km) south-southwest of Minneapolis-Saint Paul International Airport in urban area. Address is 13591 Harwell Path Apple Valley, MN 55124<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.2276504627,
+                    44.7523216495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QHN",
+                "desc": "<h3>Callsign: QHN<\/h3><p style=\"width:300px\">Ashburn, Georgia, USA<br \/><br \/>ARSR-1E<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: ASO Southern<br \/><br \/>In rural location, 25.2 miles (40.6 km) east-northeast of Albany, GA<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.7504464994,
+                    31.6957650128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "MGM",
+                "desc": "<h3>Callsign: MGM<\/h3><p style=\"width:300px\">Montgomery, Alabama, USA<br \/><br \/>ARSR-1D<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: ASO Southern<br \/><br \/>In rural area, 13.2 miles (21.2 km) southeast of Montgomery.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.1685466614,
+                    32.2115467822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DNV",
+                "desc": "<h3>Callsign: DNV<br \/>NORAD ID: Z-212<\/h3><p style=\"width:300px\">Denver, Colorado, USA<br \/><br \/>ARSR-1D<br \/>USAF: Western Air Defense Sector<br \/>FAA: ANM Northwest Mountain<br \/><br \/>Opened in 1963 by FAA, was data tied-into the ADCOM SAGE network.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.693329018,
+                    39.593833203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QTZ",
+                "desc": "<h3>Callsign: QTZ<\/h3><p style=\"width:300px\">La Grange, Indiana, USA<br \/><br \/>ARSR-1E<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: AGL Great Lakes<br \/><br \/>Located in suburbs, 1 mile (1.6 km) south of La Grange, IN.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.4147317025,
+                    41.6311433503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IND",
+                "desc": "<h3>Callsign: IND<\/h3><p style=\"width:300px\">Indianapolis, Indiana, USA<br \/><br \/>ARSR-1E<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: AGL Great Lakes<br \/><br \/>In urban area, 2.3 miles (3.7 km) north of Indianapolis International Airport; 7102 Howard St, Indianapolis, IN 46241<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.284694425,
+                    39.7460439323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "STL",
+                "desc": "<h3>Callsign: STL<\/h3><p style=\"width:300px\">St. Louis, Missouri, USA<br \/><br \/>ARSR-1E<br \/>USAF: Western Air Defense Sector<br \/>FAA: ACE Central<br \/><br \/>In urban area, address is 2310 Ashby Rd St Louis, MO 63114<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.3903498394,
+                    38.7009637792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QRL",
+                "desc": "<h3>Callsign: QRL<\/h3><p style=\"width:300px\">Benson, North Carolina, USA<br \/><br \/>ARSR-1E<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: ASO Southern<br \/><br \/>FAA long-range radar site. Also known as Raleigh. Once considered as the JSS replacement for the ADCOM SAGE Fort Fisher AFS, NC (Z-115).<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5490059891,
+                    35.5112282562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QRM",
+                "desc": "<h3>Callsign: QRM<\/h3><p style=\"width:300px\">Charlotte, North Carolina, USA<br \/><br \/>ARSR-1<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: ASO Southern<br \/><br \/>In rural area, 10.2 miles (16.4 km) southeast of Hickory, NC<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.2380903527,
+                    35.6108001732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QWC",
+                "desc": "<h3>Callsign: QWC<br \/>NORAD ID: Z-234<\/h3><p style=\"width:300px\">Mesa Rica, New Mexico, USA<br \/><br \/>ARSR-1E<br \/>USAF: Western Air Defense Sector<br \/>FAA: ASW Southwest<br \/><br \/>Former ADCOM SAGE site Z-234.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.204670211,
+                    35.2374941673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-56",
+                "desc": "<h3>Callsign: J-56<br \/>NORAD ID: Z-309<\/h3><p style=\"width:300px\">Dansville, New York, USA<br \/><br \/>ARSR-1E<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: AEA Eastern<br \/><br \/>Replaced Lockport AFS, NY (Z-21).<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.6529415716,
+                    42.6383020784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CLE",
+                "desc": "<h3>Callsign: CLE<\/h3><p style=\"width:300px\">Cleveland, Ohio, USA<br \/><br \/>ARSR-1E<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: AGL Great Lakes<br \/><br \/>Located 13.7 miles (22.0 km) miles south of Cleveland.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6834737122,
+                    41.3022677963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QWO",
+                "desc": "<h3>Callsign: QWO<br \/>NORAD ID: Z-231<\/h3><p style=\"width:300px\">London, Ohio, USA<br \/><br \/>ARSR-1E<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: AGL Great Lakes<br \/><br \/>Located 3.3 miles (5.3 km) miles southwest of London, OH.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.4818303611,
+                    39.8460402821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QYB",
+                "desc": "<h3>Callsign: QYB<br \/>NORAD ID: Z-233<\/h3><p style=\"width:300px\">Memphis, Tennessee, USA<br \/><br \/>ARSR-1<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: ASO Southern<br \/><br \/>Former ADCOM SAGE Site Z-233.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.7656613005,
+                    34.852541189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QYS",
+                "desc": "<h3>Callsign: QYS<\/h3><p style=\"width:300px\">Rogers, Texas, USA<br \/><br \/>ARSR-1E<br \/>USAF: Western Air Defense Sector<br \/>FAA: ASW Southwest<br \/><br \/>In rural area, 2.7 miles (4.3 km) west-northwest of Rogers, TX<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.2687093647,
+                    30.9432228649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-15",
+                "desc": "<h3>Callsign: J-15<br \/>NORAD ID: Z-240<\/h3><p style=\"width:300px\">Ellington AFB, Texas, USA<br \/><br \/>ARSR-1<br \/>USAF: Western Air Defense Sector<br \/>FAA: ASW Southwest<br \/><br \/>ADCOM SAGE site closed in 1979. FAA took over, closed 1997. Now replaced by new ARSR-4 JSS site at Morales, TX (J-15A).<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.173151163,
+                    29.615978651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GJC",
+                "desc": "<h3>Callsign: GJC<br \/>NORAD ID: Z-215<\/h3><p style=\"width:300px\">Grand Junction, Colorado, USA<br \/><br \/>ARSR-2<br \/>USAF: Western Air Defense Sector<br \/>FAA: ANM Northwest Mountain<br \/><br \/>Opened in 1963 by FAA, was data tied-into the ADCOM SAGE network.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -108.762752461,
+                    39.6386909803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TCO",
+                "desc": "<h3>Callsign: TCO<br \/>NORAD ID: Z-222<\/h3><p style=\"width:300px\">Trinidad, Colorado, USA<br \/><br \/>ARSR-2<br \/>USAF: Western Air Defense Sector<br \/>FAA: ANM Northwest Mountain<br \/><br \/>Opened in 1963 by FAA, was data tied-into the ADCOM SAGE network.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.013874399,
+                    37.5471431159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QVA",
+                "desc": "<h3>Callsign: QVA<\/h3><p style=\"width:300px\">Ashton, Idaho, USA<br \/><br \/>ARSR-2<br \/>USAF: Western Air Defense Sector<br \/>FAA: ANM Northwest Mountain<br \/><br \/>Opened 1963. On mountain peak 2.3 miles (3.7 km) south-southewest of Yellowstone National Park Airport, ID<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.444245683,
+                    44.562322035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BOI",
+                "desc": "<h3>Callsign: BOI<br \/>NORAD ID: Z-223<\/h3><p style=\"width:300px\">Boise, Idaho, USA<br \/><br \/>ARSR-2<br \/>USAF: Western Air Defense Sector<br \/>FAA: ANM Northwest Mountain<br \/><br \/>Opened in 1963 by FAA. Located atop Snowbank Mountain. Began feeding information into the ADCOM SAGE network in 1963.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.137376277,
+                    44.4426008898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GCK",
+                "desc": "<h3>Callsign: GCK<br \/>NORAD ID: Z-226<\/h3><p style=\"width:300px\">Garden City, Kansas, USA<br \/><br \/>ARSR-2<br \/>USAF: Western Air Defense Sector<br \/>FAA: ACE Central<br \/><br \/>FAA site since 1964 in highly agricultural area, , was data tied-into the ADCOM SAGE network. 21.3 miles (34.3 km) south of Garden City, KS.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.871798727,
+                    37.6643541847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QBZ",
+                "desc": "<h3>Callsign: QBZ<\/h3><p style=\"width:300px\">Oskaloosa, Kansas, USA<br \/><br \/>ARSR-2<br \/>USAF: Western Air Defense Sector<br \/>FAA: ACE Central<br \/><br \/>In rural area, 17.3 miles (27.8 km) north of Larwence, KS.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.2462289998,
+                    39.2222891765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QJC",
+                "desc": "<h3>Callsign: QJC<\/h3><p style=\"width:300px\">Tyler, Minnesota, USA<br \/><br \/>ARSR-2<br \/>USAF: Western Air Defense Sector<br \/>FAA: AGL Great Lakes<br \/><br \/>In rural area of southwest Minnesota, 154.7 miles (249.0 km) west-southwest of Minneapolis.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.2038450457,
+                    44.1934448414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NPL",
+                "desc": "<h3>Callsign: NPL<br \/>NORAD ID: Z-217<\/h3><p style=\"width:300px\">North Platte, Nebraska, USA<br \/><br \/>ARSR-2<br \/>USAF: Western Air Defense Sector<br \/>FAA: ASW Southwest<br \/><br \/>FAA site since 1963, Former ADCOM SAGE site Z-217<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.748235834,
+                    40.8326541865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GAL",
+                "desc": "<h3>Callsign: GAL<br \/>NORAD ID: Z-221<\/h3><p style=\"width:300px\">Gallup, Minnesota, USA<br \/><br \/>ARSR-2<br \/>USAF: Western Air Defense Sector<br \/>FAA: ASW Southwest<br \/><br \/>Opened 1963 by FAA. Former ADCOM SAGE site Z-221. Also known as Farmington, NM; located above Washington Pass, north of Gallup.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -108.860576941,
+                    36.0755500753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "BTM",
+                "desc": "<h3>Callsign: BTM<br \/>NORAD ID: Z-214<\/h3><p style=\"width:300px\">Battle Mountain, Nevada, USA<br \/><br \/>ARSR-2<br \/>USAF: Western Air Defense Sector<br \/>FAA: AWP Western Pacific<br \/><br \/>Located on top of Mt. Lewis, south of town. Earlier known as Elko.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.867639508,
+                    40.403103345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CDR",
+                "desc": "<h3>Callsign: CDR<br \/>NORAD ID: Z-216<\/h3><p style=\"width:300px\">Cedar City, Utah, USA<br \/><br \/>ARSR-2<br \/>USAF: Western Air Defense Sector<br \/>FAA: ANM Northwest Mountain<br \/><br \/>Opened in 1962 by FAA<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.863577923,
+                    37.5931694614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QHZ",
+                "desc": "<h3>Callsign: QHZ<\/h3><p style=\"width:300px\">Horicon, Wisconsin, USA<br \/><br \/>ARSR-2<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: AGL Great Lakes<br \/><br \/>In central Wisconsin in primarily agricultural area.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.492200469,
+                    43.4459716807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QSI",
+                "desc": "<h3>Callsign: QSI<br \/>NORAD ID: Z-224<\/h3><p style=\"width:300px\">Lovell, Wyoming, USA<br \/><br \/>ARSR-2<br \/>USAF: Western Air Defense Sector<br \/>FAA: ANM Northwest Mountain<br \/><br \/>Located on Medicine Mountain. Earlier known as Cody.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -107.90211215,
+                    44.8168455907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LSK",
+                "desc": "<h3>Callsign: LSK<br \/>NORAD ID: Z-219<\/h3><p style=\"width:300px\">Lusk, Wyoming, USA<br \/><br \/>ARSR-2<br \/>USAF: Western Air Defense Sector<br \/>FAA: ANM Northwest Mountain<br \/><br \/>Opened in 1963 by FAA<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.588320111,
+                    42.5938059564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "RKS",
+                "desc": "<h3>Callsign: RKS<br \/>NORAD ID: Z-218<\/h3><p style=\"width:300px\">Rock Springs, Wyoming, USA<br \/><br \/>ARSR-2<br \/>USAF: Western Air Defense Sector<br \/>FAA: ANM Northwest Mountain<br \/><br \/>Opened in 1962 by FAA<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.117279665,
+                    41.4347142112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QXP",
+                "desc": "<h3>Callsign: QXP<\/h3><p style=\"width:300px\">Seligman, Arizona, USA<br \/><br \/>ARSR-3<br \/>USAF: Western Air Defense Sector<br \/>FAA: AWP Western Pacific<br \/><br \/>Remote site on top of mountain peak.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.949760204,
+                    35.3527234035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QNK",
+                "desc": "<h3>Callsign: QNK<\/h3><p style=\"width:300px\">Lincolnton, Georgia, USA<br \/><br \/>ARSR-3<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: ASO Southern<br \/><br \/>Replaced ADCOM SAGE site at Aiken AFS, South Carolina (SM-159)<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.4667918174,
+                    33.7597634734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QJO",
+                "desc": "<h3>Callsign: QJO<\/h3><p style=\"width:300px\">Arlington, Iowa, USA<br \/><br \/>ARSR-3<br \/>USAF: Western Air Defense Sector<br \/>FAA: ACE Central<br \/><br \/>In rural location, 41.7 miles (67.1 km) east-northeast of Waterloo, IA<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.6152495659,
+                    42.7682855923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "JOL",
+                "desc": "<h3>Callsign: JOL<\/h3><p style=\"width:300px\">Elwood, Illinois, USA<br \/><br \/>ARSR-3<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: AGL Great Lakes<br \/><br \/>In rural location, 7.2 miles (11.6 km) south of Joilet, IL<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.0582667782,
+                    41.4226680987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QMH",
+                "desc": "<h3>Callsign: QMH<\/h3><p style=\"width:300px\">Newport, Mississippi, USA<br \/><br \/>ARSR-3<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: ASO Southern<br \/><br \/>In very rural area<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.8445245568,
+                    32.9475366134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QVN",
+                "desc": "<h3>Callsign: QVN<\/h3><p style=\"width:300px\">Fossil, Oregon, USA<br \/><br \/>ARSR-3<br \/>USAF: Western Air Defense Sector<br \/>FAA: ANM Northwest Mountain<br \/><br \/>138.3|mi|km} east-southeast of Portland, OR<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.95156386,
+                    44.9603584354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QCF",
+                "desc": "<h3>Callsign: QCF<\/h3><p style=\"width:300px\">Clearfield, Philadelphia, USA<br \/><br \/>ARSR-3<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: AEA Eastern<br \/><br \/>Located 6.1 miles (9.8 km) west of Clearfield, PA in rural area.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5506575856,
+                    41.0700290833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QBN",
+                "desc": "<h3>Callsign: QBN<\/h3><p style=\"width:300px\">Binns Hall, Virginia, USA<br \/><br \/>ARSR-3<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: AEA Eastern<br \/><br \/>Once considered as the JSS replacement for Cape Charles AFS, VA (Z-56).<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.9986146478,
+                    37.3829268533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-50",
+                "desc": "<h3>Callsign: J-50<br \/>NORAD ID: Z-318<\/h3><p style=\"width:300px\">The Plains, Virginia, USA<br \/><br \/>ARSR-3<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: AEA Eastern<br \/><br \/>Opened in 1980. Replaced the ADCOM radar site at Fort Meade, MD (Z-227) and the FAA radar site at Suitland, MD.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.7030885144,
+                    38.8822873492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-01",
+                "desc": "<h3>Callsign: J-01<br \/>NORAD ID: Z-321<\/h3><p style=\"width:300px\">NAS Oceana, Virginia, USA<br \/><br \/>ARSR-4<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: AEA Eastern<br \/><br \/>Former ADCOM SAGE site, now FAA\/USAF\/Navy JSS radar site; replaced Cape Charles AFS, VA (Z-56).<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.0137282262,
+                    36.827446726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-02",
+                "desc": "<h3>Callsign: J-02<br \/>NORAD ID: Z-115<\/h3><p style=\"width:300px\">Fort Fisher, North Carolina, USA<br \/><br \/>ARSR-4<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: ASO Southern<br \/><br \/>Fort Fisher AFS was an active ADCOM site until 1988; FAA site at former GATR faciity.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.9156977264,
+                    33.9773999282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-03",
+                "desc": "<h3>Callsign: J-03<br \/>NORAD ID: Z-324<\/h3><p style=\"width:300px\">Jedburg, South Carplina, USA<br \/><br \/>ARSR-4<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: ASO Southern<br \/><br \/>Replaced North Charleston AFS, SC (Z-113).<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.2206999458,
+                    33.0698902739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-04",
+                "desc": "<h3>Callsign: J-04<br \/>NORAD ID: Z-327<\/h3><p style=\"width:300px\">Whitehouse NOLF, Florida, USA<br \/><br \/>ARSR-4<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: ASO Southern<br \/><br \/>Replaced ADCOM M-114 SAGE site at NAS Jacksonville inactivated 1981.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.8740744352,
+                    30.3458623326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-05A",
+                "desc": "<h3>Callsign: J-05A<\/h3><p style=\"width:300px\">Melbourne, Florida, USA<br \/><br \/>ARSR-4<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: ASO Southern<br \/><br \/>Replaced J-05 with new ARSR-4 installation.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.7980173039,
+                    28.0842577016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-06A",
+                "desc": "<h3>Callsign: J-06A<br \/>NORAD ID: Z-321<\/h3><p style=\"width:300px\">Tamiami, Florida, USA<br \/><br \/>ARSR-4<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: ASO Southern<br \/><br \/>Replaced destroyed J-06 by FAA at new location with ARSR-4 radar.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.505498307,
+                    25.6472682777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-07",
+                "desc": "<h3>Callsign: J-07<br \/>NORAD ID: Z-209<\/h3><p style=\"width:300px\">NAS Key West, Florida, USA<br \/><br \/>ARSR-4<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: ASO Southern<br \/><br \/>ADCOM SAGE site closed 1979, now joint-use Navy\/FAA radar<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6890820004,
+                    24.5846682496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-09A",
+                "desc": "<h3>Callsign: J-09A<\/h3><p style=\"width:300px\">Fort Green, Florida, USA<br \/><br \/>ARSR-4<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: ASO Southern<br \/><br \/>In agricultural area 32.9 miles (52.9 km) east-southeast of Tampa.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.0069886903,
+                    27.7005206647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-10",
+                "desc": "<h3>Callsign: J-10<br \/>NORAD ID: Z-333<\/h3><p style=\"width:300px\">Cross City, Florida, USA<br \/><br \/>ARSR-4<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: ASO Southern<br \/><br \/>New site opened in 1980 replaced ADCOM SAGE Cross City AFS TM-200.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.0009976279,
+                    29.7440161319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-11",
+                "desc": "<h3>Callsign: J-11<br \/>NORAD ID: Z-198<\/h3><p style=\"width:300px\">Tyndall AFB, Florida, USA<br \/><br \/>ARSR-4<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: ASO Southern<br \/><br \/>Opened in 1983, replaced ADCOM TM-198 site on the base.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.6109340232,
+                    30.0761180892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-13",
+                "desc": "<h3>Callsign: J-13<br \/>NORAD ID: Z-246<\/h3><p style=\"width:300px\">Slidell, Louisiana, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: ASW Southwest<br \/><br \/>Former ADCOM SAGE site, on north side of Lake Pontchartrain, 32.5 miles (52.3 km) north-northeast of New Orleans<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.7795355707,
+                    30.3483026763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-14A",
+                "desc": "<h3>Callsign: FTW<br \/>NORAD ID: Z-231<\/h3><p style=\"width:300px\">Lake Charles, Louisiana, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: ASW Southwest<br \/><br \/>New site located in rural area 23.5 miles (37.8 km) east-northeast of former site.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.5112240821,
+                    30.3606410753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-15A",
+                "desc": "<h3>Callsign: J-15A<\/h3><p style=\"width:300px\">Morales, Texas, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: ASW Southwest<br \/><br \/>Replaced Ellington ANGB, TX, radar site (Z-240\/J-15), 111.3 miles (179.1 km) north-northeast of Corpus Christi, TX<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.8717077475,
+                    29.3414484845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-25A",
+                "desc": "<h3>Callsign: J-25A<\/h3><p style=\"width:300px\">Rocksprings, Texas, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: ASW Southwest<br \/><br \/>Replaced JSS Site at Sonora, TX (J-25).<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.267934706,
+                    30.0465130772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-26A",
+                "desc": "<h3>Callsign: J-26A<br \/>NORAD ID: Z-231<\/h3><p style=\"width:300px\">King Mountain, Texas, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: ASW Southwest<br \/><br \/>Replaced JSS site at Odessa \/ Andrews, TX (Z-243\/J-26); located in remote West Texas.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.273498766,
+                    31.2852384042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-27A",
+                "desc": "<h3>Callsign: J-27A<\/h3><p style=\"width:300px\">Eagle Peak, Texas, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: ASW Southwest<br \/><br \/>New site opened in late 1990s replacing J-27, 101.1 miles (162.7 km) SE of El Paso, TX in remote location on top of mountain.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.085858784,
+                    30.9203459443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-28A",
+                "desc": "<h3>Callsign: J-28A<br \/>NORAD ID: Z-231<\/h3><p style=\"width:300px\">Deming, New Mexico, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: ASW Southwest<br \/><br \/>Replaced JSS site at Silver City, NM (Z-245 \/ J-28).<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -107.16662841,
+                    32.4917309431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-29A",
+                "desc": "<h3>Callsign: J-29A<br \/>NORAD ID: Z-231<\/h3><p style=\"width:300px\">Ajo, Arizona, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: ASW Southwest<br \/><br \/>Opened 2000 at former ADCOM Ajo AFS site, replaced J-29 near Phoenix<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.944953057,
+                    32.4306704197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-30",
+                "desc": "<h3>Callsign: J-30<br \/>NORAD ID: Z-76<\/h3><p style=\"width:300px\">Mount Laguna, California, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: AWP Western Pacific<br \/><br \/>Replaced ADCOM Mount Laguna AFS inactivated 1991. Second ARSR-4 installation<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.414994672,
+                    32.8759779049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-32",
+                "desc": "<h3>Callsign: J-32<br \/>NORAD ID: Z-236<\/h3><p style=\"width:300px\">Paso Robles, California, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: AWP Western Pacific<br \/><br \/>FAA site since 1960. Former USAF SAGE site Z-236, replacing Cambria AFS, Became JSS site in 1980<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.354378323,
+                    35.3946308132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-33",
+                "desc": "<h3>Callsign: J-33<br \/>NORAD ID: Z-38<\/h3><p style=\"width:300px\">Mill Valley, California, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: AWP Western Pacific<br \/><br \/>Former ADCOM SAGE Mill Valley AFS, inactivated 1980. Now FAA site.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.597715198,
+                    37.9240032201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-35",
+                "desc": "<h3>Callsign: J-35<br \/>NORAD ID: Z-231<\/h3><p style=\"width:300px\">Vandenburg AFB, Calfornia, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: N\/A<br \/><br \/>USAF JSS site (not used by the FAA)<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.594699011,
+                    34.5874152301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-36A",
+                "desc": "<h3>Callsign: J-36A<br \/>NORAD ID: Z-231<\/h3><p style=\"width:300px\">US Navy San Clemente Island, California, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: AWP Western Pacific<br \/><br \/>New site established in late 1990s located on very remote location.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.4509399,
+                    32.8844615267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-51",
+                "desc": "<h3>Callsign: J-51<br \/>NORAD ID: Z-63<\/h3><p style=\"width:300px\">Gibbsboro, New Jersey, USA<br \/><br \/>ARSR-4<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: AEA Eastern<br \/><br \/>Former ADCOM Gibbsboro AFS. USAF site closed 1984<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.9542306106,
+                    39.8247126081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-52",
+                "desc": "<h3>Callsign: J-52<br \/>NORAD ID: Z-315<\/h3><p style=\"width:300px\">Riverhead, New York, USA<br \/><br \/>ARSR-4<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: AEA Eastern<br \/><br \/>'New' FAA\/USAF JSS radar site; replaced Montauk AFS, LI, NY (Z-45).<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.6870847335,
+                    40.8786753974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-55",
+                "desc": "<h3>Callsign: J-55<br \/>NORAD ID: Z-312<\/h3><p style=\"width:300px\">Remsen, New York, USA<br \/><br \/>ARSR-4<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: AEA Eastern<br \/><br \/>New FAA\/USAF JSS radar site; replaced Watertown AFS, NY (Z-49). Also called 'Starr Hill.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.2490659193,
+                    43.3454941467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-76",
+                "desc": "<h3>Callsign: J-76<br \/>NORAD ID: Z-300<\/h3><p style=\"width:300px\">Watford City, North Dakota, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: AGL Great Lakes<br \/><br \/>New FAA\/USAF JSS radar site; replaced Fortuna AFS, ND (Z-27), Minot AFS, ND (Z-28), & Opheim AFS, MT (Z-26). Site is located at the former Alexander, ND, gap-filler radar site, Z-177B \/ Z-28E.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.781058662,
+                    47.6789186937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-54",
+                "desc": "<h3>Callsign: J-54<br \/>NORAD ID: Z-110<\/h3><p style=\"width:300px\">Bucks Harbor, Maine, USA<br \/><br \/>ARSR-4<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: ANE New England<br \/><br \/>On former ADCOM Bucks Harbor AFS closed in 1979<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67.3954206207,
+                    44.629743651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-58",
+                "desc": "<h3>Callsign: J-58<br \/>NORAD ID: Z-34<\/h3><p style=\"width:300px\">Empire, Minnesota, USA<br \/><br \/>ARSR-4<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: AGL Great Lakes<br \/><br \/>Former ADCOM Empire AFS. Became a USAF-FAA joint-use site in 1964, USAF inactivated 1978<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.0519257298,
+                    44.8017321875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-60",
+                "desc": "<h3>Callsign: J-60<br \/>NORAD ID: Z-306<\/h3><p style=\"width:300px\">Nashwauk, Minnesota, USA<br \/><br \/>ARSR-4<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: AGL Great Lakes<br \/><br \/>New FAA\/USAF JSS radar site; replaced Finland AFS, MN (Z-69) and Baudette AFS, MN (Z-132).<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.1699099818,
+                    47.3976891404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-62",
+                "desc": "<h3>Callsign: J-62<br \/>NORAD ID: Z-397<\/h3><p style=\"width:300px\">Canton, Minnesota, USA<br \/><br \/>ARSR-4<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: AGL Great Lakes<br \/><br \/>First, was a temporary data-tie (Z-61 radar change-out). Now a permanent data-tie site in the JSS, replacing Port Austin AFS (Z-61\/J-57).<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.4742684387,
+                    42.2768039102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-63",
+                "desc": "<h3>Callsign: J-63<\/h3><p style=\"width:300px\">Caribou, Maine, USA<br \/><br \/>ARSR-4<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: ANE New England<br \/><br \/>Former Army Nike IFC L-58C of Loring AFB Defense Area<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67.9716625894,
+                    46.8858979758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-75",
+                "desc": "<h3>Callsign: J-75<br \/>NORAD ID: Z-303<\/h3><p style=\"width:300px\">Finley, North Dakota, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: AGL Great Lakes<br \/><br \/>Opened November 1979 at new JSS site, replacing the original Finley AFS, ND (Z-29). Located at old GATR site, ~ a mile or so WNW of the former USAF radar site.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.9007782817,
+                    47.52844772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-77A",
+                "desc": "<h3>Callsign: J-77A<\/h3><p style=\"width:300px\">Bootlegger Ridge, Montana, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: ANM Northwest Mountain<br \/><br \/>Replacement JSS site for Malmstrom AFB radar site (Z-147 \/ J-77); Bootlegger Ridge ARSR-4 site is about 7 miles northeast of Great Falls.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.290323096,
+                    47.6137904206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-78",
+                "desc": "<h3>Callsign: J-78<br \/>NORAD ID: Z-179<\/h3><p style=\"width:300px\">Lakeside (Kalispell), Montana, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: ANM Northwest Mountain<br \/><br \/>Located at former ADCOM Kalispell AFS.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.364483407,
+                    48.0113273292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-79",
+                "desc": "<h3>Callsign: J-79<br \/>NORAD ID: Z-151<\/h3><p style=\"width:300px\">Mica Peak, Washington, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: ANM Northwest Mountain<br \/><br \/>Former ADCOM Mica Peak AFS (SM-151), deactivated in July 1975. Site transferred to FAA.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.081193853,
+                    47.5742482027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-80",
+                "desc": "<h3>Callsign: J-80<br \/>NORAD ID: Z-44<\/h3><p style=\"width:300px\">Makah, Washington, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: ASW Southwest<br \/><br \/>Former ADCOM Makah AFS (P-44), closed in 1982. Now USAF\/FAA JSS site.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.675417612,
+                    48.3718776724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-81",
+                "desc": "<h3>Callsign: J-81<br \/>NORAD ID: Z-345<\/h3><p style=\"width:300px\">Salem, Oregon, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: ANM Northwest Mountain<br \/><br \/>Former ADCOM SAGE site. Also known as Laurel Mtn. and Dallas, OR. New FAA\/USAF JSS radar site; replaced Mount Hebo AFS, OR (Z-100). FPS-90 came from Keno AFS, OR (Z-180); modified to FPS-116. First operational JSS site in the 25th NORAD Region, 1 May 1979, as OL AJ \/ 25th ADS.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.573609253,
+                    44.923262426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-83A",
+                "desc": "<h3>Callsign: J-83A<br \/>NORAD ID: Z-231<\/h3><p style=\"width:300px\">Rainbow Ridge, California, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: AWP Western Pacific<br \/><br \/>Replaced J-83 and J-34. Remote site on top of mountain peak.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.166116012,
+                    40.3941176941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "OEX",
+                "desc": "<h3>Callsign: OEX<\/h3><p style=\"width:300px\">Oklahoma City, Oklahoma, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: ASW Southwest<br \/><br \/>FAA ARSR-4 Training Site. Located about a mile west of the Will Rogers World Airport.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.6289726223,
+                    35.4031538347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CPV",
+                "desc": "<h3>Callsign: CPV<\/h3><p style=\"width:300px\">Coopersville, Minnesota, USA<br \/><br \/>AN\/FPS-66<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: AGL Great Lakes<br \/><br \/>Using ADCOM SAGE Radar<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.9910830953,
+                    43.0455621616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TXK",
+                "desc": "<h3>Callsign: TXK<\/h3><p style=\"width:300px\">Texarkana, Texas, USA<br \/><br \/>AN\/FPS-67B<br \/>USAF: Western Air Defense Sector<br \/>FAA: ASW Southwest<br \/><br \/>Replaced ADCOM SAGE Texarkana AFS M-91 site<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.9227242171,
+                    33.3596018425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QHA",
+                "desc": "<h3>Callsign: QHA<\/h3><p style=\"width:300px\">Cummington, Maine, USA<br \/><br \/>AN\/FPS-66B<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: ANE New England<br \/><br \/>Located atop Bryant Mountain. Using ADCOM SAGE radar.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.9680687465,
+                    42.4747579329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QPC",
+                "desc": "<h3>Callsign: QPC<\/h3><p style=\"width:300px\">Haleyville, Alabama, USA<br \/><br \/>AN\/FPS-67B<br \/>USAF: Eastern Air Defense Sector<br \/>FAA: ASO Southern<br \/><br \/>Radar developed by Raytheon for SAGE system<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.5399876236,
+                    34.4155075783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "QXR",
+                "desc": "<h3>Callsign: QXR<br \/>NORAD ID: Z-237<\/h3><p style=\"width:300px\">Russellville, Arkansas, USA<br \/><br \/>AN\/FPS-64A<br \/>USAF: Western Air Defense Sector<br \/>FAA: ASW Southwest<br \/><br \/>Former ADCOM SAGE radar site, still uses the FPS-64A.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.9944138898,
+                    35.4026887433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-16",
+                "desc": "<h3>Callsign: J-16<br \/>NORAD ID: Z-242<\/h3><p style=\"width:300px\">Oilton, Texas, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: ASW Southwest<br \/><br \/>Opened in 1972 as part of the Southern Air Defense System (SADS); Later ADCOM site 630th RADS OL-B, inactivated 31 December 1977.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.969359425,
+                    27.4989553444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-26",
+                "desc": "<h3>Callsign: J-26<br \/>NORAD ID: Z-242<\/h3><p style=\"width:300px\">Odessa, Texas, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: ASW Southwest<br \/><br \/>Closed 1995, replaced by new ARSR-4 JSS site at King Mountain, TX (J-26A).<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.427739545,
+                    32.5541906176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-27",
+                "desc": "<h3>Callsign: J-27<br \/>NORAD ID: Z-244<\/h3><p style=\"width:300px\">El Paso, Texas, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: ASW Southwest<br \/><br \/>Located in Horizon City, TX. Activated in 1963 part of Southern Air Defense System. Closed in 1997, replaced by new ARSR-4 JSS sites at Eagle Peak, TX (J-27A) and at Deming, NM (J-28A)<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.197239541,
+                    31.6807193498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-28",
+                "desc": "<h3>Callsign: J-28<br \/>NORAD ID: Z-245<\/h3><p style=\"width:300px\">Silver City, New Mexico, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: ASW Southwest<br \/><br \/>Closed 1990s Located atop Brushy Mountain. Part of the 1972 Southern Air Defense System. Now replaced by new ARSR-4 JSS site at Deming, NM (J-28A).<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -108.960649202,
+                    32.9892058648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-29",
+                "desc": "<h3>Callsign: J-29<br \/>NORAD ID: Z-247<\/h3><p style=\"width:300px\">Humboldt Mountain, Arizona, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: ASW Southwest<br \/><br \/>Opened 1992 at former ADCOM Mount Lemmon AFS site. Closed 2000, replaced by J-29A<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.797925797,
+                    33.981247634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-31",
+                "desc": "<h3>Callsign: J-31<br \/>NORAD ID: Z-39<\/h3><p style=\"width:300px\">San Pedro, California, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: AWP Western Pacific<br \/><br \/>Former ADCOM San Pedro Hill AFS inactivated 1995. JSS site closed, replaced by Navy ARSR-4 site J-36A on San Clemente Island.<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.336131194,
+                    33.7459116718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-34",
+                "desc": "<h3>Callsign: J-34<br \/>NORAD ID: Z-37<\/h3><p style=\"width:300px\">Point Arena, California, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: AWP Western Pacific<br \/><br \/>Former ADCOM SAGE Point Arena AFS, closed 1995. Replaced by J-83A<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.549938116,
+                    38.8892089594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "J-83",
+                "desc": "<h3>Callsign: J-83<br \/>NORAD ID: Z-33<\/h3><p style=\"width:300px\">Crescent City, California, USA<br \/><br \/>ARSR-4<br \/>USAF: Western Air Defense Sector<br \/>FAA: AWP Western Pacific<br \/><br \/>Former ADCOM Klamath AFS, Closed 1995, replaced by J-83A<\/p><h3><a href=\"http:\/\/rezn8d.com\/\" target=\"_blank\">The Radiation Database<\/a><\/h3>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -124.086003466,
+                    41.5589429108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAA Long Range Radar Site",
+                "desc": "Hutchinson FAA Long Range Radar Site<br><br>Latitude:   37.922778<br>Longitude:  -97.887778<br> Exclusion Zone:  10 nautical miles"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.8878571637,
+                    37.9228388351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAA Long Range Radar Site",
+                "desc": "Amarillo FAA Long Range Radar Site<br><br>Latitude:   35.246111<br>Longitude:  -101.654167<br> Exclusion Zone:  10 nautical miles"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.655462647,
+                    35.246746413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAA Long Range Radar Site",
+                "desc": "West Mesa FAA Long Range Radar Site<br><br>Latitude:   35.071667<br>Longitude:  -106.869722<br> Exclusion Zone:  10 nautical miles"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.869732194,
+                    35.0717350536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAA Long Range Radar Site",
+                "desc": "Omaha FAA Long Range Radar Site<br><br>Latitude:   41.360000<br>Longitude:  -96.025278<br> Exclusion Zone:  10 nautical miles"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.0253986625,
+                    41.3601490361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAA Long Range Radar Site",
+                "desc": "Gettysburg FAA Long Range Radar Site<br><br>Latitude:   45.050278<br>Longitude:  -99.955833<br> Exclusion Zone:  10 nautical miles"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.955833,
+                    45.050278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAA Long Range Radar Site",
+                "desc": "Klamath Falls FAA Long Range Radar Site<br><br>Latitude:   42.068889<br>Longitude:  -121.972222<br> Exclusion Zone:  10 nautical miles"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.972222,
+                    42.068889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAA Long Range Radar Site",
+                "desc": "Red Bluff FAA Long Range Radar Site<br><br>Latitude:   40.146111<br>Longitude:  -122.304444<br> Exclusion Zone:  10 nautical miles"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.304444,
+                    40.146111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAA Long Range Radar Site",
+                "desc": "Fallon FAA Long Range Radar Site<br><br>Latitude:   39.405556<br>Longitude:  -118.722500<br> Exclusion Zone:  10 nautical miles"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.7225,
+                    39.405556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAA Long Range Radar Site",
+                "desc": "Boron FAA Long Range Radar Site<br><br>Latitude:   35.082222<br>Longitude:  -117.582222<br> Exclusion Zone:  10 nautical miles"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.582222,
+                    35.082222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAA Long Range Radar Site",
+                "desc": "Alexandria FAA Long Range Radar Site<br><br>Latitude:   31.315000<br>Longitude:  -92.530556<br> Exclusion Zone:  10 nautical miles"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.530556,
+                    31.315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAA Long Range Radar Site",
+                "desc": "Lynch FAA Long Range Radar Site<br><br>Latitude:   36.913333<br>Longitude:  -82.890556<br> Exclusion Zone:  10 nautical miles"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.890556,
+                    36.913333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAA Long Range Radar Site",
+                "desc": "Marietta FAA Long Range Radar Site<br><br>Latitude:   33.894167<br>Longitude:  -84.498056<br> Exclusion Zone:  10 nautical miles"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.498056,
+                    33.894167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAA Long Range Radar Site",
+                "desc": "Kirksville FAA Long Range Radar Site<br><br>Latitude:   40.300000<br>Longitude:  -92.576389<br> Exclusion Zone:  10 nautical miles"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.576389,
+                    40.3
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAA Long Range Radar Site",
+                "desc": "Hanna City FAA Long Range Radar Site<br><br>Latitude:   40.699444<br>Longitude:  -89.825000<br> Exclusion Zone:  10 nautical miles"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.825,
+                    40.699444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAA Long Range Radar Site",
+                "desc": "Oakdale FAA Long Range Radar Site<br><br>Latitude:   40.399167<br>Longitude:  -80.156667<br> Exclusion Zone:  10 nautical miles"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.156667,
+                    40.399167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAA Long Range Radar Site",
+                "desc": "Benton FAA Long Range Radar Site<br><br>Latitude:   41.356944<br>Longitude:  -76.293056<br> Exclusion Zone:  10 nautical miles"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.293056,
+                    41.356944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAA Long Range Radar Site",
+                "desc": "North Truro FAA Long Range Radar Site<br><br>Latitude:   42.033889<br>Longitude:  -70.053889<br> Exclusion Zone:  10 nautical miles"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.053889,
+                    42.033889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAA Long Range Radar Site",
+                "desc": "Melbourne FAA Long Range Radar Site<br><br>Latitude:   28.076389<br>Longitude:  -80.506111<br> Exclusion Zone:  10 nautical miles"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.506111,
+                    28.076389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAA Long Range Radar Site",
+                "desc": "Saint Albans FAA Long Range Radar Site<\/a><br><br>Latitude:   44.781667<br>Longitude:  -73.065833<br> Exclusion Zone:  10 nautical miles"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.065833,
+                    44.781667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FAA Long Range Radar Site",
+                "desc": "Oklahoma City FAA Long Range Radar Site<\/a><br><br>Latitude:   35.402222<br>Longitude:  -97.359444<br> Exclusion Zone:  10 nautical miles"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.359444,
+                    35.402222
+                ]
+            }
+        }
+    ]
+}

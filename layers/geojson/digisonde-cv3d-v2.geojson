@@ -1,0 +1,1237 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DSTO Digisonde DPS-4",
+                "desc": "<p>Darwin, Australia<br><br><b><a href=\"http:\/\/www.ips.gov.au\/\" target=\"_blank\">Ionospheric Prediction Service<\/a><\/b><br><br><a href=\"http:\/\/umlcar.uml.edu\/stationlist-location.html\" target=\"_blank\">Digisonde<\/a> DPS-4 Four-Receiver Digisonde Portable Sounder<br><br>Site Operator:<br><a href=\"http:\/\/www.adfa.oz.au\/DOD\/\" target=\"_blank\">DSTO Defence Science and Technology Organization<\/a><br>Dr. Bruce Ward - bruce.ward@dsto.defence.gov.au<br><br>No Public Remote Acesss<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.955646736,
+                    -12.4432652566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DSTO Digisonde DPS-4",
+                "desc": "<p>Wyndham, Australia<br><br>Location uncertain<br><b><a href=\"http:\/\/www.ips.gov.au\/\" target=\"_blank\">Ionospheric Prediction Service<\/a><\/b><br><br><a href=\"http:\/\/umlcar.uml.edu\/stationlist-location.html\" target=\"_blank\">Digisonde<\/a> DPS-4 Four-Receiver Digisonde Portable Sounder<br><br>Site Operator:<br><a href=\"http:\/\/www.adfa.oz.au\/DOD\/\" target=\"_blank\">DSTO Defence Science and Technology Organization<\/a><br>Dr. Bruce Ward - bruce.ward@dsto.defence.gov.au<br><br>No Public Remote Acesss<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.137164032,
+                    -15.4935286436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DSTO Digisonde DPS-4",
+                "desc": "<p>Derby, Australia<br><br><b><a href=\"http:\/\/www.ips.gov.au\/\" target=\"_blank\">Ionospheric Prediction Service<\/a><\/b><br><br><a href=\"http:\/\/umlcar.uml.edu\/stationlist-location.html\" target=\"_blank\">Digisonde<\/a> DPS-4 Four-Receiver Digisonde Portable Sounder<br><br>Site Operator:<br><a href=\"http:\/\/www.adfa.oz.au\/DOD\/\" target=\"_blank\">DSTO Defence Science and Technology Organization<\/a><br>Dr. Bruce Ward - bruce.ward@dsto.defence.gov.au<br><br>No Public Remote Acesss<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.650587309,
+                    -17.3160258485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DSTO Digisonde DPS-4",
+                "desc": "<p>Elliot, Australia<br><br><b><a href=\"http:\/\/www.ips.gov.au\/\" target=\"_blank\">Ionospheric Prediction Service<\/a><\/b><br><br><a href=\"http:\/\/umlcar.uml.edu\/stationlist-location.html\" target=\"_blank\">Digisonde<\/a> DPS-4 Four-Receiver Digisonde Portable Sounder<br><br>Site Operator:<br><a href=\"http:\/\/www.adfa.oz.au\/DOD\/\" target=\"_blank\">DSTO Defence Science and Technology Organization<\/a><br>Dr. Bruce Ward - bruce.ward@dsto.defence.gov.au<br><br>No Public Remote Acesss<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.533681143,
+                    -17.5528795734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DSTO Digisonde DPS-4",
+                "desc": "<p>Alice Springs, Northern Territory, Australia<br><br><b><a href=\"http:\/\/maps.spench.net\/rf\/#pos=-23.7918645,133.736425&zoom=17\" target=\"_blank\">Joint Space Defence Research Facility<\/a><\/b><br><br><b><a href=\"http:\/\/www.ips.gov.au\/\" target=\"_blank\">Ionospheric Prediction Service<\/a><\/b><br><br><a href=\"http:\/\/umlcar.uml.edu\/stationlist-location.html\" target=\"_blank\">Digisonde<\/a> DPS-4 Four-Receiver Digisonde Portable Sounder<br><br>Site Operator:<br><a href=\"http:\/\/www.adfa.oz.au\/DOD\/\" target=\"_blank\">DSTO Defence Science and Technology Organization<\/a><br>Dr. Bruce Ward - bruce.ward@dsto.defence.gov.au<br><br>No Public Remote Acesss<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.73652114,
+                    -23.7915298644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DSTO Digisonde DPS-4",
+                "desc": "<p>Townsville, Queensland, Australia<br><br><b><a href=\"http:\/\/www.ips.gov.au\/\" target=\"_blank\">Ionospheric Prediction Service<\/a><\/b><br><br><a href=\"http:\/\/umlcar.uml.edu\/stationlist-location.html\" target=\"_blank\">Digisonde<\/a> DPS-4 Four-Receiver Digisonde Portable Sounder<br><br>Site Operator:<br><a href=\"http:\/\/www.adfa.oz.au\/DOD\/\" target=\"_blank\">DSTO Defence Science and Technology Organization<\/a><br>Dr. Bruce Ward - bruce.ward@dsto.defence.gov.au<br><br>No Public Remote Acesss<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.854477059,
+                    -19.6306868501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DSTO Digisonde DPS-4",
+                "desc": "<p>Perth, Western Australia, Australia<br><br><b><a href=\"http:\/\/www.ips.gov.au\/\" target=\"_blank\">Ionospheric Prediction Service<\/a><\/b><br><br><a href=\"http:\/\/umlcar.uml.edu\/stationlist-location.html\" target=\"_blank\">Digisonde<\/a> DPS-4 Four-Receiver Digisonde Portable Sounder<br><br>Site Operator:<br><a href=\"http:\/\/www.adfa.oz.au\/DOD\/\" target=\"_blank\">DSTO Defence Science and Technology Organization<\/a><br>Dr. Bruce Ward - bruce.ward@dsto.defence.gov.au<br><br>No Public Remote Acesss<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.136226045,
+                    -32.0083237163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DSTO Digisonde DPS-4",
+                "desc": "<p>Kingston-Blackmans Bay, Tasmania, Australia<br><br><b><a href=\"http:\/\/www.ips.gov.au\/\" target=\"_blank\">Ionospheric Prediction Service<\/a><\/b><br><br><a href=\"http:\/\/umlcar.uml.edu\/stationlist-location.html\" target=\"_blank\">Digisonde<\/a> DPS-4 Four-Receiver Digisonde Portable Sounder<br><br>Site Operator:<br><a href=\"http:\/\/www.adfa.oz.au\/DOD\/\" target=\"_blank\">DSTO Defence Science and Technology Organization<\/a><br>Dr. Bruce Ward - bruce.ward@dsto.defence.gov.au<br><br>No Public Remote Acesss<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.317608324,
+                    -42.9362412529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DSTO Digisonde DPS-4",
+                "desc": "<p>Canberra, Austrailian Capital Territory, Australia<br><br><b><a href=\"http:\/\/www.ips.gov.au\/\" target=\"_blank\">Ionospheric Prediction Service<\/a><\/b><br><br><a href=\"http:\/\/umlcar.uml.edu\/stationlist-location.html\" target=\"_blank\">Digisonde<\/a> DPS-4 Four-Receiver Digisonde Portable Sounder<br><br>Site Operator:<br><a href=\"http:\/\/www.adfa.oz.au\/DOD\/\" target=\"_blank\">DSTO Defence Science and Technology Organization<\/a><br>Dr. Bruce Ward - bruce.ward@dsto.defence.gov.au<br><br>No Public Remote Acesss<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.999328764,
+                    -35.3184866004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DSTO Digisonde DPS-4",
+                "desc": "<p>Bongaree, Queensland, Australia<br><br><b><a href=\"http:\/\/www.ips.gov.au\/\" target=\"_blank\">Ionospheric Prediction Service<\/a><\/b><br><br><a href=\"http:\/\/umlcar.uml.edu\/stationlist-location.html\" target=\"_blank\">Digisonde<\/a> DPS-4 Four-Receiver Digisonde Portable Sounder<br><br>Site Operator:<br><a href=\"http:\/\/www.adfa.oz.au\/DOD\/\" target=\"_blank\">DSTO Defence Science and Technology Organization<\/a><br>Dr. Bruce Ward - bruce.ward@dsto.defence.gov.au<br><br>No Public Remote Acesss<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.057140224,
+                    -27.0668337163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "JORN Digisonde VIS",
+                "desc": "<p>Gawler, South Australia, Australia<br><a href=\"http:\/\/maps.spench.net\/rf\/#pos=-34.7328052,138.6473035&zoom=16\" target=\"_blank\">JORN Coordination Centre, Edinburgh, SA DSTO, SALISBURY<\/a><br><br><a href=\"http:\/\/umlcar.uml.edu\/stationlist-location.html\" target=\"_blank\">Digisonde<\/a> Standardized DPS-1<br>10.5 MHz Vertical Incidence Sounder (VIS) <br>for Telstra Australia<br><br>Site Operator: RLM (Lockheed Martin)<br>Scott Wood s.wood@rlmsystems.com.au<br><br>No Public Remote Acesss<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.645409388,
+                    -34.7272279492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "JORN Digisonde VIS",
+                "desc": "<p>Kalgoorlie-Boulder, Western Australia<br><a href=\"http:\/\/maps.spench.net\/rf\/#pos=-28.3155424,122.8421522&zoom=17\" target=\"_blank\">Jindalee Project WA Transmit LAVERTON<\/a><br><br><a href=\"http:\/\/umlcar.uml.edu\/stationlist-location.html\" target=\"_blank\">Digisonde<\/a> Standardized DPS-1<br>10.5 MHz Vertical Incidence Sounder (VIS) <br>for Telstra Australia<br><br>Site Operator: RLM (Lockheed Martin)<br>Scott Wood s.wood@rlmsystems.com.au<br><br>No Public Remote Acesss<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.828809595,
+                    -28.3325164025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "JORN Digisonde VIS",
+                "desc": "<p>Geraldton, Western Australia<br><a href=\"http:\/\/maps.spench.net\/rf\/#pos=-27.9426435,114.6858695&zoom=18\" target=\"_blank\">Defence Site, Ajana R\/T, AJANA<\/a><br><br><a href=\"http:\/\/umlcar.uml.edu\/stationlist-location.html\" target=\"_blank\">Digisonde<\/a> Standardized DPS-1<br>10.5 MHz Vertical Incidence Sounder (VIS) <br>for Telstra Australia<br><br>Site Operator: RLM (Lockheed Martin)<br>Scott Wood s.wood@rlmsystems.com.au<br><br>No Public Remote Acesss<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.685894041,
+                    -27.9425870278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "JORN Digisonde VIS",
+                "desc": "<p>Carnarvon, Western Australia<br><a href=\"http:\/\/maps.spench.net\/rf\/#pos=-24.8984609,113.7113428&zoom=17\" target=\"_blank\">Defence Installation, CARNARVON<a\/><br><br><a href=\"http:\/\/umlcar.uml.edu\/stationlist-location.html\" target=\"_blank\">Digisonde<\/a> Standardized DPS-1<br>10.5 MHz Vertical Incidence Sounder (VIS) <br>for Telstra Australia<br><br>Site Operator: RLM (Lockheed Martin)<br>Scott Wood s.wood@rlmsystems.com.au<br><br>No Public Remote Acesss<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.711511958,
+                    -24.898376171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "JORN Digisonde VIS",
+                "desc": "<p>Carnarvon, Western Australia<br><a href=\"http:\/\/maps.spench.net\/rf\/#pos=-22.2246858,114.1027101&zoom=17\" target=\"_blank\">Ionosonde Site, Learmonth Solar Observatory LEARMONTH<a\/><br><br><a href=\"http:\/\/umlcar.uml.edu\/stationlist-location.html\" target=\"_blank\">Digisonde<\/a> Standardized DPS-1<br>11.3 MHz Vertical Incidence Sounder (VIS) <br>for Telstra Australia<br><br>Site Operator: RLM (Lockheed Martin)<br>Scott Wood s.wood@rlmsystems.com.au<br><br>No Public Remote Acesss<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.10252326,
+                    -22.2239853444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "JORN Digisonde VIS",
+                "desc": "<p>Port Hedland, Western Australia<br><a href=\"http:\/\/maps.spench.net\/rf\/#pos=-20.4070653,118.5785016&zoom=18\" target=\"_blank\">Defence Installation South Hedland<\/a><br><br><a href=\"http:\/\/umlcar.uml.edu\/stationlist-location.html\" target=\"_blank\">Digisonde<\/a> Standardized DPS-1<br>10.5 MHz Vertical Incidence Sounder (VIS) <br>for Telstra Australia<br><br>Site Operator: RLM (Lockheed Martin)<br>Scott Wood s.wood@rlmsystems.com.au<br><br>No Public Remote Acesss<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.578537859,
+                    -20.4069526986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "JORN Digisonde VIS",
+                "desc": "<p>Broome, Western Australia<br><a href=\"http:\/\/maps.spench.net\/rf\/#pos=-17.6080427,123.823205&zoom=18\" target=\"_blank\">Curtin RAAF via, DERBY<\/a><br><br><a href=\"http:\/\/umlcar.uml.edu\/stationlist-location.html\" target=\"_blank\">Digisonde<\/a> Standardized DPS-1<br>10.5 MHz Vertical Incidence Sounder (VIS) <br>for Telstra Australia<br><br>Site Operator: RLM (Lockheed Martin)<br>Scott Wood s.wood@rlmsystems.com.au<br><br>No Public Remote Acesss<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.82354289,
+                    -17.6081329396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "JORN Digisonde VIS",
+                "desc": "<p>Kalkaringi, Northern Territory, Australia<br><a href=\"http:\/\/maps.spench.net\/rf\/#pos=-17.4421615,130.8296471&zoom=19\" target=\"_blank\">Telstra Radio Terminal, KALKARINGI<\/a><br><br><a href=\"http:\/\/umlcar.uml.edu\/stationlist-location.html\" target=\"_blank\">Digisonde<\/a> Standardized DPS-1<br>10.5 MHz Vertical Incidence Sounder (VIS) <br>for Telstra Australia<br><br>Site Operator: RLM (Lockheed Martin)<br>Scott Wood s.wood@rlmsystems.com.au<br><br>No Public Remote Acesss<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.830167,
+                    -17.4420059998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "JORN Digisonde VIS",
+                "desc": "<p>Atherton, Queensland, Australia<br><a href=\"http:\/\/maps.spench.net\/rf\/#pos=-18.0231997,144.8716618&zoom=17\" target=\"_blank\">Defence, Lynd River Site, LYND RIVER<\/a><br><br><a href=\"http:\/\/umlcar.uml.edu\/stationlist-location.html\" target=\"_blank\">Digisonde<\/a> Standardized DPS-1<br>10.5 MHz Vertical Incidence Sounder (VIS) <br>for Telstra Australia<br><br>Site Operator: RLM (Lockheed Martin)<br>Scott Wood s.wood@rlmsystems.com.au<br><br>No Public Remote Acesss<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.871641587,
+                    -18.02305257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "JORN Digisonde VIS",
+                "desc": "<p>Daru, Fly River, Papua New Guinea<br><a href=\"http:\/\/maps.spench.net\/rf\/#pos=-12.6559777,142.0877907&zoom=17\" target=\"_blank\">Scherger RAAF Installation, WEIPA (SCH)\/a><br><br><a href=\"http:\/\/umlcar.uml.edu\/stationlist-location.html\" target=\"_blank\">Digisonde<\/a> Standardized DPS-1<br>10.5 MHz Vertical Incidence Sounder (VIS) <br>for Telstra Australia<br><br>Site Operator: RLM (Lockheed Martin)<br>Scott Wood s.wood@rlmsystems.com.au<br><br>No Public Remote Acesss<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.086153772,
+                    -12.6559343568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "JORN Digisonde VIS",
+                "desc": "<p>Groote Eylandt, Arnhem Land, Northern Territory, Australia<br><a href=\"http:\/\/maps.spench.net\/rf\/#pos=-13.8507623,136.4264487&zoom=17\" target=\"_blank\">Defence Installation, GROOTE EYLANDT<\/a><br><br><a href=\"http:\/\/umlcar.uml.edu\/stationlist-location.html\" target=\"_blank\">Digisonde<\/a> Standardized DPS-1<br>10.5 MHz Vertical Incidence Sounder (VIS) <br>for Telstra Australia<br><br>Site Operator: RLM (Lockheed Martin)<br>Scott Wood s.wood@rlmsystems.com.au<br><br>No Public Remote Acesss<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.426465852,
+                    -13.8513257341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "JORN Digisonde VIS",
+                "desc": "<p>Charter Towers, Queensland, Australia<br><a href=\"http:\/\/maps.spench.net\/rf\/#pos=-23.6616653,144.1635665&zoom=15\" target=\"_blank\">Queensland Jindalee Tx Site, via, LONGREACH (LON)<\/a><br><br><a href=\"http:\/\/umlcar.uml.edu\/stationlist-location.html\" target=\"_blank\">Digisonde<\/a> Standardized DPS-1<br>10.5 MHz Vertical Incidence Sounder (VIS) <br>for Telstra Australia<br><br>Site Operator: RLM (Lockheed Martin)<br>Scott Wood s.wood@rlmsystems.com.au<br><br>No Public Remote Acesss<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.177910154,
+                    -23.668729113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HAARP Digisonde",
+                "desc": "<p>Digisonde DPS-4 <br><br>The HAARP Digisonde, which was developed and provided by the University of Massachusetts at Lowell, was one of the first instruments installed at the HAARP Research Station. The purposes of this instrument are to support frequency management of the 3600 kilowatt Ionospheric Research Instrument transmitter and to provide real time ionospheric characteristics for guiding experiment selection. The Digisonde data are processed, archived, and are available for post-analysis of experiment results. Various formats of the information derived from the Digisonde are made available on the HAARP web site in chart form in near real time and can be accessed from the Data Index. <br><br><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/HAARP_digisonde_1.jpg\" \/><br><br><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/HAARP_digisonde_1.jpg\" \/><br><br>*exact location unknown<br><br><a href=\"http:\/\/www.haarp.alaska.edu\/haarp\/dsonde.html\" target=\"_blank\">HAARP's Website<\/a><\/p><p><a href=\"http:\/\/climateviewer.com\/haarp-sky-heater-map.html\" target=\"_blank\">HAARP and the Sky Heaters<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -145.161361055,
+                    62.3984543428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ascension Digisonde",
+                "desc": "<p class=\"rdbc\">Digisonde DPS-4D<br>exact location unknown<br>Owner AFRL<br>URSI ID: AS00Q<br><br><a href=\"http:\/\/ulcar.uml.edu\/stationlist.html\" target=\"_blank\">UMLCAR Station List<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.3907835988,
+                    -7.9176868624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bundoora, Australia",
+                "desc": "<p class=\"rdbc\">Digisonde DPS-4D<br>exact location unknown<br>Owner: LaTrobe University<br>URSI ID: BV53Q<br><br><a href=\"http:\/\/ulcar.uml.edu\/stationlist.html\" target=\"_blank\">UMLCAR Station List<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.050026873,
+                    -37.7194597985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hainan, China",
+                "desc": "<p class=\"rdbc\">Digisonde DPS-4D<br>exact location unknown<br>Owner: CSSAR<br>URSI ID: HA419<br><br><a href=\"http:\/\/ulcar.uml.edu\/stationlist.html\" target=\"_blank\">UMLCAR Station List<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.000063909,
+                    19.399629409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Okinawa, Japan",
+                "desc": "<p class=\"rdbc\">Digisonde DPS-4D<br>exact location unknown<br>Owner: CRL<br>URSI ID: OK426<br><br><a href=\"http:\/\/ulcar.uml.edu\/stationlist.html\" target=\"_blank\">UMLCAR Station List<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.747084511,
+                    26.3537099139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pruhonice, Czech Republic",
+                "desc": "<p class=\"rdbc\">Digisonde DPS-4D<br>exact location unknown<br>Owner: ASU<br>URSI ID: PQ052<br><br><a href=\"http:\/\/ulcar.uml.edu\/stationlist.html\" target=\"_blank\">UMLCAR Station List<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5999056,
+                    49.9992899809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Millstone Hill, MA",
+                "desc": "DPS-4D  042 MHJ45 42.6 , 288.5 UMLCAR Prof. Bodo W. ReinischBodo_Reinisch@uml.edu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.4916804207,
+                    42.6169844569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Irkutsk, Russia",
+                "desc": "DPS-4031152IR35252.4 , 104.3ISTP RASDr. Konstantin Ratovskyratovsky@pochtamt.ru"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.299988553,
+                    52.3985006018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tromso, Norway",
+                "desc": "Tromso, Norway DPS-4 005 070 TR169 69.9 , 19.2 QINETIQ Dr. Paul S. Cannonpcannon@qinetiq.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2183169948,
+                    69.5845935823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Norilsk, Russia",
+                "desc": "DPS-4034169NO36969.4 , 88.1ISTP RASDr. Konstantin Ratovskyratovsky@pochtamt.ru"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.0528000353,
+                    69.3758743572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zhigansk, Russia",
+                "desc": "DPS-4 033 167ZH46666.8 , 123.4ICRA RASDr. Alexander E. Stepanova.e.stepanov@sci.yakutia.ru"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.390577497,
+                    66.766451487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Yakutsk, Russia",
+                "desc": "DPS-4032162YA46262.0 , 129.6ICRA RASDr. Alexander E. Stepanova.e.stepanov@sci.yakutia.ru"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.628549248,
+                    61.9610558148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hanscom AFB, MA",
+                "desc": "DPS-4   42.6 , 288.5 AFRL Kenneth WalkerKenneth.Walker@hanscom.af.mil Depot"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.2885176898,
+                    42.4679338835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Campo Grande, Brazil",
+                "desc": "DPS-4  821 CGK21 -20.5 ,305.3 AFRL  COPEX Campaign"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -54.7000346274,
+                    -20.5001927738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rome, Italy",
+                "desc": "DPS-4 021 142 RO041 41.9 , 12.5 INGV Dr. Bruno Zolesizolesi@ingv.it"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4532812679,
+                    41.9227144956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Athens, Greece",
+                "desc": "DPS-4 026038 AT13838.0 , 23.5 NOA Dr. Anna Belehakibelehaki@creator.space.noa.gr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4998752188,
+                    37.9993530121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Anyang, Korea",
+                "desc": "DPS-4 041037 AN438 37.39 , 126.95 RRL Pyo, Yoo-Surnyspyo@cc.rrl.go.kr"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.949978696,
+                    37.3898893209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kwajalein Island",
+                "desc": "DPS-4 023 009 KJ609 9.4 , 167.4 Kenneth WalkerKenneth.Walker@hanscom.af.mil"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    167.482798718,
+                    9.39486275024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boa Vista, Brazil",
+                "desc": "DPS-4 023 003 BVJ03 2.8 , 299.3 INPE  COPEX campaign"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.6865222922,
+                    2.85212118937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sao Luis, Brazil",
+                "desc": "DPS-4 028b903 SAA0K -2.5 , 315.8 INPE Dr. M.A. Abduabdu@dae.inpe.br"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.1999741923,
+                    -2.50059298249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cachimbo, Brazil",
+                "desc": "DPS-4 028a 809 CAK09 -9.5 , 305.2 INPE Dr. M.A. Abduabdu@dae.inpe.br COPEX campaign"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -54.9340294461,
+                    -9.31310611137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fortaleza, Brazil",
+                "desc": "DPS-4 028a 904 FZA0M -3.8 , 322.0 INPE"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -38.5428472533,
+                    -3.73911056681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Madimbo, South Africa",
+                "desc": "DPS-4 016 MU12K -22.38 , 30.88 Rhodes U. Dr. Lee-Anne McKinnellL.McKinnell@ru.ac.za"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.8803323127,
+                    -22.379721685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Louisvale, South Africa",
+                "desc": "DPS-4 020 929 LV12P -28.51 , 21.24 Rhodes U. Dr. Lee-Anne McKinnellL.McKinnell@ru.ac.za"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2390465994,
+                    -28.4994729385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grahamstown, South Africa",
+                "desc": "DPS-4 019 933 GR13L -33.3 , 26.5 Rhodes U. Dr. Lee-Anne McKinnellL.McKinnell@ru.ac.za"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.4999556672,
+                    -33.300019432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Davis Base, Antarctica",
+                "desc": "DPS-4 008 966 DV36Q-68.5 , 877.97 AAD Dr. Ray Morrisray_mor@antdiv.gov.au"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9687375686,
+                    -68.5788376893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Casey Base, Antarctica",
+                "desc": "DPS-4 008 966 CW46O -66.3 , 110.5 AAD Dr. Ray Morrisray_mor@antdiv.gov.au mov"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    110.52492487,
+                    -66.2817467891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zhong-Shan, Antarctica",
+                "desc": "DPS-4 014 969 ZS36R -69.4 , 76.4 PRIC Prof. Ruiyuan Liuryliu@pric.gov.cn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.3974879556,
+                    -69.3991810323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Jicamarca, Peru",
+                "desc": "DPS-1 002 012 JI91J -12.0 , 283.2 IGP Prof. Bodo W. ReinischBodo_Reinisch@uml.edu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.8737224197,
+                    -11.9536865964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lerwick, Great Britain",
+                "desc": "DPS-1 006 060 LE061 60.1 , 358.8 SERC RAL John SmithJ.A.Smith@rl.ac.uk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.15051250252,
+                    60.1537441187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Juliusruh, Germany",
+                "desc": "DPS-1 018 055 JR055 54.6 , 13.4 IAP Dr. Werner Singersinger@iap-kborn.de"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3805632528,
+                    54.6131488462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chilton, England",
+                "desc": "DPS-1 013 052 RL052 51.5 , 359.4 SERC RAL John SmithJ.A.Smith@rl.ac.uk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.600537805956,
+                    51.4993150632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Okinawa, Japan",
+                "desc": "DPS-1 009 026 OK426 26.3 , 127.8 CRL Dr. Kiyoshi IgarashiIgarashi@crl.go.jp"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.769155133,
+                    26.3429109309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chung-Li, Taiwan",
+                "desc": "DPS-1 015 125 CL424 25.0 , 121.2 ISS-NCU Dr. Jann-Yeng LIUjyLiu@jupiter.ss.ncu.edu.tw"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.185304583,
+                    24.9676279686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pontianak, Indonesia",
+                "desc": "DPS-1 012 900 PK40_ -0.3 , 109.0 NIAS Dr. Bambang Hidayat"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.335404968,
+                    -0.0434229927975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Puerto Madryn, Argentina",
+                "desc": "DPS-1 007 943 PMJ4K -42.7 , 294.7 PRONARP Prof. Bodo W. ReinischBodo_Reinisch@uml.edu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -65.3006751212,
+                    -42.6998266236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Port Stanley, Falkland Islands",
+                "desc": "DPS-1 017 151 PSJ5J -51.6 , 302.1 SERC RAL John SmithJ.A.Smith@rl.ac.uk"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -57.89996018,
+                    -51.6011468498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cachoeira Paulista, Brazil",
+                "desc": "DGS-256 023 CAJ2M -22.7 , 315.0 INPE Dr. M.A. Abduabdu@dae.inpe.br temporarilyNo Public Remote Acesss"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -45.0032425122,
+                    -22.6940385583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dourbes, Belgium",
+                "desc": "DGS-256 049 DB049 50.1 , 4.6 IRM Prof. Ren\u00e9 WarnantRene.Warnant@oma.be"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.59629105293,
+                    50.0981408227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Qaanaaq \/ Thule, Greenland",
+                "desc": "<p class=\"rdbc\">DGS-256 - USAF<br>Prof. Bodo W. Reinisch<br>Bodo_Reinisch@uml.edu<br><img src\"http:\/\/static.panoramio.com\/photos\/original\/10792440.jpg\" \/><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.2145821973,
+                    77.4685480183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Roquetes\/Tortosa, Spain",
+                "desc": "DGS-256 041 EB040 40.8 , 0.5 Obs. Ebre David Altadilldaltadill@obsebre.es"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.500020551984,
+                    40.7997946365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Beijing, China",
+                "desc": "DGS-256 035 BP440 39.9 , 116.5 RIRP Prof. Hao Xiong"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.499748891,
+                    39.8985592229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "El Arenosillo, Spain",
+                "desc": "DGS-256 040 EA036 37.1 , 353.3 INTA Dr. Benito de la Morenamorenacb@inta.es"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.7292718947,
+                    37.0995512392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kokubunji, Japan",
+                "desc": "DGS-256 036 TO535 35.7 , 139.5 CRL Dr. Kiyoshi IgarashiIgarashi@crl.go.jp"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.535636966,
+                    35.6752069217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Islamabad, Pakistan",
+                "desc": "DGS-256 034 IS233 33.8 , 72.9 SUPARCO Muhammad Ayubayubkhan57@yahoo.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.9003075424,
+                    33.7996361921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wuhan, China",
+                "desc": "DGS-256 030 WU430 30.6 , 114.4 WIO Dr. Wan WEIXINGwangx@center.cssar.ac.cn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.400049056,
+                    30.5993735759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Karachi, Pakistan",
+                "desc": "DGS-256 025 KA225 25.0 , 67.1 SUPARCO Muhammad Ayubayubkhan57@yahoo.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.0998011283,
+                    24.999805466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ascension Island",
+                "desc": "DGS-256 908 AS00Q -8.0 , 346.0 USAF Prof. Bodo W. ReinischBodo_Reinisch@uml.edu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.3266595738,
+                    -7.95446386983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bermuda, United Kingdom",
+                "desc": "DISS 089 BJJ32 32.4 , 295.3 USAF Prof. Bodo W. ReinischBodo_Reinisch@uml.edu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -64.6768129895,
+                    32.3858311746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tucuman, Argentina",
+                "desc": "DISS 827 TUJ20 -26.9 , 294.6 USAF Prof. Bodo W. ReinischBodo_Reinisch@uml.edu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -65.3950564032,
+                    -26.9004607617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Learmonth, Australia",
+                "desc": "DISS 097 LM42B -21.8 , 114.0 USAF Prof. Bodo W. ReinischBodo_Reinisch@uml.edu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.102407231,
+                    -22.2207107426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Osan AFB, Korea",
+                "desc": "DISS 096 SN437 37.1 , 127.0 USAF Prof. Bodo W. ReinischBodo_Reinisch@uml.edu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.03185401,
+                    37.0941177891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wallops Island, VA",
+                "desc": "DISS 081 WP937 37.9 , 284.5 USAF Prof. Bodo W. ReinischBodo_Reinisch@uml.edu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5001636301,
+                    37.8997148273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sondrestrom AFB",
+                "desc": "<p class=\"rdbc\">Kellyville - Kangerlussuaq - Greenland<br>Sondrestrom,Greenland LP-DISS 067 SMJ67 67.0 , 309.3 USAF Prof. Bodo W. ReinischBodo_Reinisch@uml.edu<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -50.9466932851,
+                    66.9858702698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "College,AK",
+                "desc": "DISS 082 CO764 64.9 , 212.2 USAF Prof. Bodo W. ReinischBodo_Reinisch@uml.edu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -147.801358979,
+                    64.8995178654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Narssarssuaq, Greenland",
+                "desc": "DISS 061 NQJ61 61.2 , 314.6 USAF Prof. Bodo W. ReinischBodo_Reinisch@uml.edu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -45.4000343953,
+                    61.19721805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "King Salmon, AK",
+                "desc": "DISS  093 KS759 58.7 , 203.4 AFRL Prof. Bodo W. ReinischBodo_Reinisch@uml.edu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -156.751610056,
+                    58.7245834936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Goose Bay, Canada",
+                "desc": "DISS 053 GSJ53 53.3 , 299.7 USAF Prof. Bodo W. ReinischBodo_Reinisch@uml.edu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -60.4602802961,
+                    53.3166345534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fairford, England",
+                "desc": "DISS 083 FF051 51.7 , 358.5 USAF Prof. Bodo W. ReinischBodo_Reinisch@uml.edu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.49977172617,
+                    51.6993704274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Boulder, CO",
+                "desc": "DISS 140 BC840 40.0 , 254.7 USAF Dr. Terence W. BullettBullett@plh.af.mil"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.300263092,
+                    39.9991888198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tobyhanna, PA",
+                "desc": "DISS    depot"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5507087248,
+                    41.1025342849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "San Vito, Italy",
+                "desc": "DISS 088 VT139 40.6 , 17.8 USAF Prof. Bodo W. ReinischBodo_Reinisch@uml.edu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8004466861,
+                    40.599450113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vandenberg AFB, CA",
+                "desc": "Point Arguello, CA DISS 091 PA836 34.7 , 239.4 USAF Prof. Bodo W. ReinischBodo_Reinisch@uml.edu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -120.600078346,
+                    34.6980084861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dyess AFB, TX",
+                "desc": "DISS 098 DS932 32.5 , 260.3 USAF Prof. Bodo W. ReinischBodo_Reinisch@uml.edu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.8236580345,
+                    32.4372621634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eglin AFB, FL",
+                "desc": "DISS 084 EG931 30.4 , 273.2 USAF Prof. Bodo W. ReinischBodo_Reinisch@uml.edu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.5528258028,
+                    30.4703326098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ramey, Puerto Rico",
+                "desc": "DISS 085 PRJ18 18.5 , 292.9 USAF Prof. Bodo W. ReinischBodo_Reinisch@uml.edu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67.1001936383,
+                    18.4984680796
+                ]
+            }
+        }
+    ]
+}

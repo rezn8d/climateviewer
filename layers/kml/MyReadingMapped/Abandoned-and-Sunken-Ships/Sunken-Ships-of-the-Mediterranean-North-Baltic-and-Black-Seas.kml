@@ -1,0 +1,3017 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Other Ship &amp; Sea Related Maps</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- Sunken Ships of the Atlantic (http://myreadingmapped.blogspot.com/2011/04/interactive-map-of-sunken-ships-of.html)
+
+- Sunken Ships of the Pacific (http://myreadingmapped.blogspot.com/2011/04/interactive-map-of-sunken-ships-of_30.html)
+
+- Sunken Ships of the Great Lakes (http://myreadingmapped.blogspot.com/2011/12/interactive-map-of-sunken-ships-of.html) 
+
+- Sunken Ships of the Indian Ocean and Red Sea (http://myreadingmapped.blogspot.com/2011/12/interactive-map-of-sunken-ships-of-th.html)
+
+- Ship Grave Yards (http://myreadingmapped.blogspot.com/2012/01/interactive-map-of-ship-graveyards.html)
+
+- Historic Ships Preserved in Google Map (http://myreadingmapped.blogspot.com/2012/01/historic-ships-preserved-in-google-map.html)
+
+- Oldest Lighthouses (http://myreadingmapped.blogspot.com/2012/11/the-oldest-lighthouses.html)
+
+- Oceanic Trenches and Other Undersea Phenomena (http://myreadingmapped.blogspot.com/2011/09/interactive-map-of-oceanic-trenches_02.html)]]></description>
+			<Point>
+				<coordinates>-13.535156,43.452919,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps on History</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://1.bp.blogspot.com/-Ag6qDYAWE3Y/Tung1DRL2PI/AAAAAAAAAr4/kfqblVInWis/s320/MRM+screen+shot.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/)]]></description>
+			<Point>
+				<coordinates>-13.535156,40.446947,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Antikythera wreck</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Antikythera_wreck)]]></description>
+			<Point>
+				<coordinates>23.3078,35.8897,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Armenia (Soviet hospital ship)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/4/45/Shiparmenian.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Armenia_(ship) 
+ 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>34.283333,44.25,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Adolf Vinnen</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Adolf_Vinnen_-_StateLibQld_70_133022.jpg/250px-Adolf_Vinnen_-_StateLibQld_70_133022.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Adolf Vinnen on Wikipedia
+ (http://en.wikipedia.org/wiki/Adolf_Vinnen_(barquentine) 
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-5.183333,49.964722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>The Aeolian Sky </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Aeolian Sky on Wikipedia (http://en.wikipedia.org/wiki/Aeolian_Sky)]]></description>
+			<Point>
+				<coordinates>-2.138833,50.509167000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Alexander Nevsky</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Alexander-neuski.jpg/330px-Alexander-neuski.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Alexander Nevsky on Wikipedia
+ (http://en.wikipedia.org/wiki/Russian_frigate_Alexander_Neuski)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>8.133333,56.683333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>The Albert C. Field </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Albert C. Field on Wikpedi (http://en.wikipedia.org/wiki/Albert_C._Field) ]]></description>
+			<Point>
+				<coordinates>-1.75,50.466667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Amsterdam</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VOC_ship_Amsterdam2.jpg/300px-VOC_ship_Amsterdam2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Amsterdam on Wikipedia
+ (http://en.wikipedia.org/wiki/VOC_ship_Amsterdam)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>4.9143,52.3725,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Ancient Roman Shipwrecks</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Ancient Roman Shipwrecks: Greece Says Mediterranean's Deepest Rome-Era Wrecks Found. (http://www.huffingtonpost.com/2012/05/29/ancient-roman-shipwrecks-greece_n_1552492.html?ref=world)
+ 
+(Location approximated.)]]></description>
+			<Point>
+				<coordinates>19.802856,39.19182,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Antikythera wreck</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Antikythera wreck on Wikipedia (http://en.wikipedia.org/wiki/Antikythera_wreck)]]></description>
+			<Point>
+				<coordinates>23.3078,35.8897,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Blücher</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Bundesarchiv_DVM_10_Bild-23-63-09%2C_Kreuzer_%22Bl%C3%BCcher%22.jpg/300px-Bundesarchiv_DVM_10_Bild-23-63-09%2C_Kreuzer_%22Bl%C3%BCcher%22.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Blücher on Wikipedia
+ (http://en.wikipedia.org/wiki/German_cruiser_Bl%C3%BCcher)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>10.591667,59.7,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Bouvet</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/0/08/French_battleship_Bouvet.jpg/300px-French_battleship_Bouvet.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Bouvet on Wikipedia
+ (http://en.wikipedia.org/wiki/French_battleship_Bouvet)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>26.275000000000002,40.020833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Cape Gelidonya (120BC) Shipweck</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Cape_Gelidonya)]]></description>
+			<Point>
+				<coordinates>30.557222000000003,36.636111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Cattewater Wreck</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Cattewater Wreck on Wikipedia (http://en.wikipedia.org/wiki/Cattewater_Wreck)]]></description>
+			<Point>
+				<coordinates>-4.128333,50.361944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>City of York (viewable in water)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Shipwreck of the Mediterranean Sky formely known as City of York, Elefsina (Ελευσίνα), near Athens, Greece (http://www.artificialowl.net/2008/09/shipwreck-of-mediterranean-sky-formely.html)]]></description>
+			<Point>
+				<coordinates>23.489531,38.024642,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>CSS Alabama </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/CSSAlabama.jpg/300px-CSSAlabama.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[CSS Alabama on Wikipedia (http://en.wikipedia.org/wiki/CSS_Alabama)
+ 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-1.695,49.7525,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Dannebroge</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Dannebroge)]]></description>
+			<Point>
+				<coordinates>12.502833,55.492167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Dimitrios shipwreck</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nauagio_Dimitrios.jpg/300px-Nauagio_Dimitrios.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Dimitrios shipwreck on Wikipedia (http://en.wikipedia.org/wiki/Dimitrios_shipwreck)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>22.585863,36.789016,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Eden V (viewable in water)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Shipwreck of the Eden V, Marina di lesina, Italy (http://www.artificialowl.net/2008/08/shipwreck-of-eden-v-marina-di-lesina.html)]]></description>
+			<Point>
+				<coordinates>15.385293999999998,41.901367,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Elli</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cruiser_Elli.jpg/300px-Cruiser_Elli.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Elli on Wikipedia
+ (http://en.wikipedia.org/wiki/Greek_cruiser_Elli_(1912) 
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>25.150833,37.535833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Banner</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_(B)#Empire_Banner)]]></description>
+			<Point>
+				<coordinates>1.533333,36.800000000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Beaconsfield</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_(B)#Empire_Beaconsfield)]]></description>
+			<Point>
+				<coordinates>8.633333,44.2,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Beaver</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_(B)#Empire_Beaver)]]></description>
+			<Point>
+				<coordinates>1.553889,51.836667000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Blessing</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_(B)#Empire_Blessing)]]></description>
+			<Point>
+				<coordinates>3.283333,51.400000000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Broadsword</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_(B)#Empire_Broadsword)]]></description>
+			<Point>
+				<coordinates>-0.9,49.416667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Caxton</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_-_Ca_to_Cl#Empire_Caxton)]]></description>
+			<Point>
+				<coordinates>26.95,36.533333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Condor (I)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_(Co%E2%80%93Cy)#Empire_Condor_.28I.29)]]></description>
+			<Point>
+				<coordinates>11.583333,36.666667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Conference</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_(Co%E2%80%93Cy)#Empire_Conference)]]></description>
+			<Point>
+				<coordinates>3.0000000000000004,57.466667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Consort</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_(Co%E2%80%93Cy)#Empire_Consort)]]></description>
+			<Point>
+				<coordinates>24.35,38.583333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Contour</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_(Co%E2%80%93Cy)#Empire_Contour)]]></description>
+			<Point>
+				<coordinates>20.5,58.666667000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Eve</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Empire_Eve)]]></description>
+			<Point>
+				<coordinates>0.7666670000000001,36.616667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Indus</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_(I%E2%80%93J)#Empire_Indus)]]></description>
+			<Point>
+				<coordinates>27.916667,33.25,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Javelin</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Empire_Javelin)]]></description>
+			<Point>
+				<coordinates>-1.0,50.083333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Kestrel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SS_Empire_Kestrel)]]></description>
+			<Point>
+				<coordinates>4.583333,37.166667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Lowlander</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_(L)#Empire_Lowlander)]]></description>
+			<Point>
+				<coordinates>24.033333,37.616667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Melody</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_(M)#Empire_Melody)]]></description>
+			<Point>
+				<coordinates>-4.866667,35.95,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Parsons</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_(P)#Empire_Parsons)]]></description>
+			<Point>
+				<coordinates>-3.1,58.683333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Rupert</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_(R)#Empire_Rupert)]]></description>
+			<Point>
+				<coordinates>1.533333,51.05,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Sambar</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_(Sa-Sh)#Empire_Sambar)]]></description>
+			<Point>
+				<coordinates>1.55,51.833333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Severn</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_(Sa-Sh)#Empire_Severn)]]></description>
+			<Point>
+				<coordinates>9.616667,58.3,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Shoal</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_(Sa-Sh)#Empire_Shoal)]]></description>
+			<Point>
+				<coordinates>5.85,53.583333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Song</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_(Si-Sy)#Empire_Song)]]></description>
+			<Point>
+				<coordinates>11.023333,37.153333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Webster</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_Empire_ships_(U-Z)#Empire_Webster)]]></description>
+			<Point>
+				<coordinates>1.616667,36.783333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire Windrush</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/2/2d/Windrush.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Empire_Windrush)
+
+Wikipedia Commons / Michael A. W. Griffin (http://en.wikipedia.org/wiki/Michael_A._W._Griffin)]]></description>
+			<Point>
+				<coordinates>2.183333,37.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>F174</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Sinking_of_F174)]]></description>
+			<Point>
+				<coordinates>14.909444,36.425278,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>German aircraft carrier Graf Zeppelin</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Graf-Zeppelin-2.jpg/300px-Graf-Zeppelin-2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Graf Zeppelin on Wikipedia (http://en.wikipedia.org/wiki/German_aircraft_carrier_Graf_Zeppelin)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>18.285833,55.5175,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>German cruiser Karlsruhe</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/German_cruiser_Karlsruhe)]]></description>
+			<Point>
+				<coordinates>8.066667,58.066667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>German submarine U-8 (1935)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/German_submarine_U-8_(1935) ]]></description>
+			<Point>
+				<coordinates>8.166667,53.516667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>German submarine U-20 (1936)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/German_submarine_U-20_(1936) ]]></description>
+			<Point>
+				<coordinates>30.783333,41.166667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>German submarine U-23</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/German_submarine_U-23_(1936) ]]></description>
+			<Point>
+				<coordinates>29.999999999999996,41.183333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>German submarine U-77 (1940)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/German_submarine_U-77_(1940) ]]></description>
+			<Point>
+				<coordinates>-0.652864,37.651869,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>German submarine U-103 (1940)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/German_submarine_U-103_(1940) ]]></description>
+			<Point>
+				<coordinates>10.164,54.326,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>German submarine U-235</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/German_submarine_U-235)]]></description>
+			<Point>
+				<coordinates>10.65,57.73333300000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>German submarine U-236</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/German_submarine_U-236)]]></description>
+			<Point>
+				<coordinates>10.05,54.616667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>German submarine U-287</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/German_submarine_U-287)]]></description>
+			<Point>
+				<coordinates>8.833333,53.833333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>German submarine U-301</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/German_submarine_U-301)]]></description>
+			<Point>
+				<coordinates>7.066667,41.45,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>German submarine U-316</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/German_submarine_U-316)]]></description>
+			<Point>
+				<coordinates>10.883333,53.966667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>German submarine U-323 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/German_submarine_U-323)]]></description>
+			<Point>
+				<coordinates>8.503675,53.499279,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>German submarine U-339</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/German_submarine_U-339)]]></description>
+			<Point>
+				<coordinates>8.166667,53.516667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>German submarine U-348 (approximated in sub base)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/German_submarine_U-348)]]></description>
+			<Point>
+				<coordinates>9.942627,53.536813,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>German submarine U-350 (approximated in sub base)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/German_submarine_U-350)]]></description>
+			<Point>
+				<coordinates>9.941597,53.538063,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>German submarine U-371</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/German_submarine_U-371)]]></description>
+			<Point>
+				<coordinates>5.650063,37.817107,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>German submarine U-579</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/German_submarine_U-579)]]></description>
+			<Point>
+				<coordinates>11.066667,56.166667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>German submarine U-580</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/German_submarine_U-580)]]></description>
+			<Point>
+				<coordinates>20.666667,55.75,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>German submarine U-596 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/German_submarine_U-596)]]></description>
+			<Point>
+				<coordinates>23.561983,37.985272,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>German submarine U-652</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/German_submarine_U-652)]]></description>
+			<Point>
+				<coordinates>25.183333,31.916667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>German submarine U-714</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Sunk 14 March 1945.
+
+
+Background Info. (http://en.wikipedia.org/wiki/German_submarine_U-714)]]></description>
+			<Point>
+				<coordinates>-1.569886,55.569999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>German submarine U-755</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/German_submarine_U-755)]]></description>
+			<Point>
+				<coordinates>1.617737,39.882343,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>German submarine U-777</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/German_submarine_U-777)]]></description>
+			<Point>
+				<coordinates>8.166667,53.85,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>German submarine U-864</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[U-864 on Wikipedia (http://en.wikipedia.org/wiki/German_submarine_U-864)]]></description>
+			<Point>
+				<coordinates>4.620833,60.769444,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>German submarine U-870</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/German_submarine_U-870)]]></description>
+			<Point>
+				<coordinates>8.833333,53.066667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>German submarine U-1063</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/German_submarine_U-1063)]]></description>
+			<Point>
+				<coordinates>-3.8900000000000006,50.148333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Girl Rona</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: January 30, 2012. The trawler capsized after hitting a sandbank whilst trying to enter Teignmouth harbour, Devon. All five crew rescued.]]></description>
+			<Point>
+				<coordinates>-3.4902190000000006,50.540108,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Grace Dieu</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Grace_Dieu_(ship) ]]></description>
+			<Point>
+				<coordinates>-1.291185,50.88658,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Greek cruiser Elli (1912)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/4/4b/Cruiser_Elli.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Greek_cruiser_Elli_(1912) 
+
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>25.150833,37.535833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>Aircraft-carrying submarine HMS M2</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/British_Submarine_HMS_M2%2C_2.jpg/300px-British_Submarine_HMS_M2%2C_2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[HMS M2 on Wikipedia
+ (http://en.wikipedia.org/wiki/HMS_M2)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-2.548611,50.576111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS M28</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_M28)]]></description>
+			<Point>
+				<coordinates>25.962778,40.228611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Basilisk (H11)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Basilisk_(H11) 
+ ]]></description>
+			<Point>
+				<coordinates>2.585,51.137778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMHS Britannic</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/48/HMHS_Britannic.jpg/350px-HMHS_Britannic.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[HMHS Britannic on Wikipedia
+ (http://en.wikipedia.org/wiki/HMHS_Britannic)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>24.283889,37.701389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Ark Royal</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/HMS_Ark_Royal_h85716.jpg/300px-HMS_Ark_Royal_h85716.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[HMS Ark Royal on Wikipedia (http://en.wikipedia.org/wiki/HMS_Ark_Royal_(91) 
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-4.75,36.05,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Arno (1915)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/6/62/HMS_Arno.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Arno_(1915) 
+
+
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>26.508333,40.241667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Attack (1911)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/e/e6/HMS_Attack_%281911%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Attack_(1911) 
+
+
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>29.816667,31.3,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Barham (04)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HMS_Barham_%281914%29.jpg/300px-HMS_Barham_%281914%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Barham_(04) 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>26.4,32.566667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Cricket (1915) (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Cricket_(1915) ]]></description>
+			<Point>
+				<coordinates>27.235966,31.366829000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Dainty (H53)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/e/e6/HMS_Dainty.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Dainty_(H53) 
+
+
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>24.078333,32.073333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Defence (1907)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/3/32/HMS_Defence_1907.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Defence_(1907) 
+
+
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>8.1,56.3583,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Defender (H07)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/e/ea/HMS_Defender_Sinking.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Defender_(H07) 
+
+
+Wikipedia Commons / Public Domain ]]></description>
+			<Point>
+				<coordinates>25.516667,31.750000000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Dulverton (L63)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Dulverton_(L63) ]]></description>
+			<Point>
+				<coordinates>27.5,36.833333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS E47</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_E47)]]></description>
+			<Point>
+				<coordinates>4.557778,53.10225,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Elk </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[HMS Elk on Wikipedia (http://en.wikipedia.org/wiki/HMT_Elk_(1902) ]]></description>
+			<Point>
+				<coordinates>-4.176667,50.296667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Empress of India</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/66/HMSEmpressofIndia1897.jpg/300px-HMSEmpressofIndia1897.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[HMS Empress of India on Wikipedia (http://en.wikipedia.org/wiki/HMS_Empress_of_India_(1891) 
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-2.965,50.495000000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Falmouth (1910)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/24/HMS_Falmouth_%281910%29.jpg/300px-HMS_Falmouth_%281910%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Falmouth_(1910) 
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-0.075,53.982167000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Gloucester (62)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/b/bd/HMS_Gloucester.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Gloucester_(62) 
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>23.0,35.833333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Grafton (H89)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/b/b1/Hmsgrafton.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Grafton_(H89) 
+
+
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>2.816667,51.400000000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Grenade (H86)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/4/41/HMS_Grenade_%28H86%29_IWM_FL_13589.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Grenade_(H86) 
+
+
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>2.819444,51.407778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Greyhound (H05)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/0/0f/HMS_Greyhound_WWII_FL_2766.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Greyhound_(H05) 
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>23.166667,36.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Havant (H32)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/2/2c/HMS_Havant_%28H32%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Havant_(H32) 
+
+
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>2.263611,51.133333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Havock (H43)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Havock_(H43) ]]></description>
+			<Point>
+				<coordinates>11.14,36.871667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Hereward (H93)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Hereward_(H93) ]]></description>
+			<Point>
+				<coordinates>26.333333,35.333333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Hostile (H55)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/7/7b/HMS_Hostile_%28H55%29_IWM_FL_013957.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Hostile_(H55) 
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>11.3167,36.8833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Ibis (U99)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HMS_Ibis_IWM_FL_10454.jpg/788px-HMS_Ibis_IWM_FL_10454.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+ (http://en.wikipedia.org/wiki/HMS_Ibis_(U99) 
+
+
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>3.0000000000000004,37.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Inglefield (D02)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Inglefield_(D02) ]]></description>
+			<Point>
+				<coordinates>12.633333,41.433333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Intrepid (D10)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/f/fd/HMS_Intrepid.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Intrepid_(D10) 
+
+
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>26.85,37.116667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Invincible (1907)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/HMS_Invincible_%281907%29_British_Battleship.jpg/800px-HMS_Invincible_%281907%29_British_Battleship.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Invincible_(1907) 
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>6.120833,57.044444,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Janus (F53)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/42/HMS_Janus_%28F53%29_IWM_FL_003695.jpg/764px-HMS_Janus_%28F53%29_IWM_FL_003695.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Janus_(F53) 
+
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>12.633333,41.433333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Jersey (F72)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/HMS_Jersey.JPG/800px-HMS_Jersey.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikpedia (http://en.wikipedia.org/wiki/HMS_Jersey_(F72) 
+
+
+ 
+
+Wikipedia Commons / Arthur Conry]]></description>
+			<Point>
+				<coordinates>14.523333,35.9,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Kashmir (F12)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Kashmir_(F12) ]]></description>
+			<Point>
+				<coordinates>24.166667,34.666667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Kelly (F01)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Kelly_(F01) ]]></description>
+			<Point>
+				<coordinates>24.166667,34.666667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Ladybird (1916)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/1/13/HMS_Ladybird_Port_Said_1917_IWM_SP_000560.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Ladybird_(1916) 
+
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>23.9725,32.075833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Lady Shirley</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/HMS_Lady_Shirley.jpg/800px-HMS_Lady_Shirley.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Lady_Shirley)
+
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-5.283333,35.983333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Lawford</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Sunk June 8th, 1944
+
+Background Info (http://en.wikipedia.org/wiki/HMS_Lawford_(K514) ]]></description>
+			<Point>
+				<coordinates>-0.396389,49.428611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Majestic (1895)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/HMS_Majestic_%28Majestic-class_battleship%29.jpg/800px-HMS_Majestic_%28Majestic-class_battleship%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Majestic_(1895) 
+
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>26.183889,40.041667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Manchester (15)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/HMS_Manchester_%28C15%29_1942.jpg/800px-HMS_Manchester_%28C15%29_1942.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Manchester_(15) 
+
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>11.166667,36.833333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Maori (F24)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/1/1f/HMS_Maori_%28F24%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Maori_(F24) 
+
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>14.518889,35.904722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Odin (N84)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/9/9a/HMSM_Odin_WWII_IWM_FL_3191.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Odin_(N84) 
+
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>17.5,39.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Olympus (N35)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/f/f4/HMS_Olympus.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Olympus_(N35) 
+
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>14.583333000000001,35.916667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Oxley</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Oxley)]]></description>
+			<Point>
+				<coordinates>5.5,58.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Perseus</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[HMS Perseus on Wikipedia (http://en.wikipedia.org/wiki/HMS_Perseus_(N36) ]]></description>
+			<Point>
+				<coordinates>20.9,37.9,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Phoenix (1911)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/b/b6/HMS_Phoenix_%281911%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Phoenix_(1911) 
+
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>19.233333,40.391667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Raglan</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/b/b7/HMS_Raglan_%281915%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Raglan)
+
+
+ 
+
+Wikipedia  Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>25.966667,40.233333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Russell (1901)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/HMS_Russell_LOC_LC-DIG-ggbain-21816.jpg/800px-HMS_Russell_LOC_LC-DIG-ggbain-21816.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Russell_(1901) 
+
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>14.600000000000001,35.9,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Salvia (K97)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/1/1a/HMS_Salvia_FL18637.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Salvia_(K97) 
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>28.0,31.46,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Samphire (K128)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/2/2d/HMS_Samphire_%28K128%29_FL_5741.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Samphire_(K128) 
+
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>5.666667,36.933333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Scylla</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[HMS Scylla on Wikipedia (http://en.wikipedia.org/wiki/HMS_Scylla_(F71) ]]></description>
+			<Point>
+				<coordinates>-4.2527,50.327583,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Sikh (F82)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/c9/HMS_Sikh_%28F82%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Sikh_(F82) 
+
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>24.000000000000004,32.097778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Spartan (95)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/HMS_Spartan.png/800px-HMS_Spartan.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikpedia (http://en.wikipedia.org/wiki/HMS_Spartan_(95) 
+
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>12.683889,41.433889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>HMS Stubborn (P238)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/HMS_Stubborn.jpg/300px-HMS_Stubborn.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Stubborn_(P238) 
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>14.446217,35.9827,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Terror (I03)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/2/2e/HMS_Terror_%28I03%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Terror_(I03) 
+
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>22.533333,32.983333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>HMS Thetis (N25)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/2/27/HMSM_Thunderbolt.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikpedia (http://en.wikipedia.org/wiki/HMS_Thetis_(N25) 
+
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>13.25,38.25,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMT Rohna</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Troopship%2C_the_HMT_Rohna.jpeg/300px-Troopship%2C_the_HMT_Rohna.jpeg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[HMT Rohna on Wikipedia (http://en.wikipedia.org/wiki/HMT_Rohna)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>5.201667,37.02,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HNLMS Johan Maurits van Nassau</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/8/85/HNLMS_Johan_Maurits_van_Nassau.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HNLMS_Johan_Maurits_van_Nassau)
+
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>4.565556,52.836944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Italian battleship Giulio Cesare</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/4/40/Battleship_Giulio_Cesare.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Italian_battleship_Giulio_Cesare)
+
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>33.535556,44.618611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Italian battleship Roma (1940)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Italian_battleship_Roma_%281940%29_starboard_bow_view.jpg/800px-Italian_battleship_Roma_%281940%29_starboard_bow_view.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Italian_battleship_Roma_(1940) 
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>8.293056,41.157778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Italian cruiser Bartolomeo Colleoni</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Italian_cruiser_Bartolomeo_Colleoni)]]></description>
+			<Point>
+				<coordinates>23.720556,35.692778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Italian cruiser Giovanni delle Bande Nere</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/a/a4/Bande_nere_cruiser.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Italian_cruiser_Giovanni_delle_Bande_Nere)
+
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>15.008610999999998,38.708889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Kronan</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Stora_Kronan.jpeg/300px-Stora_Kronan.jpeg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Kronan on Wikipedia (http://en.wikipedia.org/wiki/Kronan_(ship) 
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>16.602785,56.456057,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Ievoli Sun</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Ievoli Sun on Wikipedia (http://en.wikipedia.org/wiki/Ievoli_Sun)]]></description>
+			<Point>
+				<coordinates>-2.4,49.866667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Madrague de Giens (Shipwreck) (approximated)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mosa%C3%AFque_d%27Ulysse_et_les_sir%C3%A8nes.jpg/800px-Mosa%C3%AFque_d%27Ulysse_et_les_sir%C3%A8nes.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Madrague_de_Giens_(Shipwreck) 
+
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>6.094966,43.03218,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MS Zenobia</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Zenobia_(shipwreck) ]]></description>
+			<Point>
+				<coordinates>33.651853,34.89753,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Olympia (viewable in water)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/28802811.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Shipwreck of the Olympia, near the town of Katapola, on Amorgos island (Αμοργός), Cyclades island group, Greece (http://www.artificialowl.net/2008/09/shipwreck-of-olympia-near-town-of.html)
+
+ 
+
+Google Map / Panoramio / ekyklades (http://www.panoramio.com/user/3588205?with_photo_id=28802811)]]></description>
+			<Point>
+				<coordinates>25.757012,36.789023,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>The shipwreck of Mahdia</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Mahdia on Wikipedia (http://en.wikipedia.org/wiki/Mahdia_shipwreck)]]></description>
+			<Point>
+				<coordinates>11.066667,35.531944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>The Mary Rose</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/MaryRose-conservation1.jpg/300px-MaryRose-conservation1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[The Mary Rose on Wikipedia (http://en.wikipedia.org/wiki/Mary_Rose)
+
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-1.106667,50.799722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MFV Bugaled Breizh</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Bugaled_Breizh.JPG/300px-Bugaled_Breizh.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[MFV Bugaled Breizh on Wikipedia
+ (http://en.wikipedia.org/wiki/Bugaled_Breizh)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-5.214,49.952,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MS Costa Concordia</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Collision_of_Costa_Concordia_24.jpg/240px-Collision_of_Costa_Concordia_24.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[MS Costa Concordia on Wikipedia (http://en.wikipedia.org/wiki/Costa_Concordia)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>10.921111,42.364722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MS Estonia</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Estonia_ferry.jpg/300px-Estonia_ferry.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[MS Estonia on Wikipedia (http://en.wikipedia.org/wiki/MS_Estonia)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>21.666667000000004,59.38333300000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MS Express Samina</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[MS Express Samina on Wikipedia (http://en.wikipedia.org/wiki/MS_Express_Samina)]]></description>
+			<Point>
+				<coordinates>25.102215,37.097642,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MS Herald of Free Enterprise</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Herald_of_Free_Enterprise.jpg/800px-Herald_of_Free_Enterprise.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/MS_Herald_of_Free_Enterprise)
+
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>3.190556,51.374583,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>M/S Jan Heweliusz</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[M/S Jan Heweliusz on Wikipedia (http://en.wikipedia.org/wiki/MS_Jan_Heweliusz)]]></description>
+			<Point>
+				<coordinates>14.216667,54.6,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MS Palatia (1928)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/MS_Palatia_(1928) ]]></description>
+			<Point>
+				<coordinates>7.223301,58.030597,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MS Sea Diamond</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/b/b4/Sea_Diamond_and_Sky_Wonder.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/MS_Sea_Diamond)
+
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>25.430833,36.394722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MT Haven</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/MT_Haven)]]></description>
+			<Point>
+				<coordinates>8.460000000000003,44.22,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MV Danny F II (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/MV_Danny_F_II)]]></description>
+			<Point>
+				<coordinates>35.600853,34.427302,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MV Aqueity (1945)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/MV_Aqueity_(1945) ]]></description>
+			<Point>
+				<coordinates>5.033333,53.533333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MV Finnbirch</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/MV_Finnbirch)]]></description>
+			<Point>
+				<coordinates>17.251667,56.750833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MV Goya</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[MV Goya on Wikipedia (http://en.wikipedia.org/wiki/Goya_(ship) ]]></description>
+			<Point>
+				<coordinates>18.3,55.2,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MV Panagiotis "Navagio" (viewable)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/59875987.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Panagiotis_(ship) 
+
+
+ 
+
+Google Map / Panoramio / Cassiopea (http://www.panoramio.com/user/389992?with_photo_id=59875987)]]></description>
+			<Point>
+				<coordinates>20.624861,37.859603,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MV Tricolor</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[MV Tricolor on Wikipedia (http://en.wikipedia.org/wiki/MV_Tricolor)]]></description>
+			<Point>
+				<coordinates>2.201944,51.366667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>MV Wilhelm Gustloff </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bundesarchiv_Bild_183-H27992%2C_Lazarettschiff_%22Wilhelm_Gustloff%22_in_Danzig.jpg/300px-Bundesarchiv_Bild_183-H27992%2C_Lazarettschiff_%22Wilhelm_Gustloff%22_in_Danzig.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[MV Wilhelm Gustloff  on Wikipedia (http://en.wikipedia.org/wiki/MV_Wilhelm_Gustloff)
+wilhelmgustloff.com (http://www.wilhelmgustloff.com/welcome.htm)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>17.4213,55.072900000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>ORP Kujawiak (L72)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/ORP_Kujawiak_(L72) ]]></description>
+			<Point>
+				<coordinates>14.583333000000001,35.883333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>RMS Royal Adelaide</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[RMS Royal Adelaide on Wikipedia (http://en.wikipedia.org/wiki/RMS_Royal_Adelaide_(1838) ]]></description>
+			<Point>
+				<coordinates>1.348333,51.491667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>RMS Viceroy of India </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/RMS_Viceroy_of_India)]]></description>
+			<Point>
+				<coordinates>-0.4,36.433333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>The Rooswijk</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Rooswijk on Wikipedia (http://en.wikipedia.org/wiki/Rooswijk)]]></description>
+			<Point>
+				<coordinates>1.575556,51.274167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Rosehill</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Rosehill on Wikipedia (http://en.wikipedia.org/wiki/Rosehill_(ship) ]]></description>
+			<Point>
+				<coordinates>-4.308667,50.329883,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Semiramis (viewable in water)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Shipwreck of the Semiramis near Vori beach, Andros island, Greece (http://www.artificialowl.net/2008/06/shipwreck-of-semiramis-near-vori-beach.html)]]></description>
+			<Point>
+				<coordinates>24.882264,37.901581,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Sitakund</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Sitakund on Wikipedia (http://en.wikipedia.org/wiki/Sitakund)]]></description>
+			<Point>
+				<coordinates>0.24,50.719,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>SM U-5 (Germany)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SM_U-5_(Germany) ]]></description>
+			<Point>
+				<coordinates>3.183333,51.383333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>SM U-6 (Germany)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SM_U-6_(Germany) ]]></description>
+			<Point>
+				<coordinates>3.515625,56.511018,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>SM U-7 (Germany)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SM_U-7_(Germany) ]]></description>
+			<Point>
+				<coordinates>6.2,53.43000000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>SM U-11 (Germany)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SM_U-11_(Germany) ]]></description>
+			<Point>
+				<coordinates>1.483333,51.1,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>SM U-20</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/thumb/7/73/U20lusitania.jpg/300px-U20lusitania.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SM U-20 on Wikipedia
+ (http://en.wikipedia.org/wiki/SM_U-20)
+
+Wikipedia Commons
+
+
+Postcard depicting U-20 sinking RMS Lusitania.]]></description>
+			<Point>
+				<coordinates>8.133333,56.55,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>SM UB-10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SM_UB-10)]]></description>
+			<Point>
+				<coordinates>3.2,51.35,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>SM UB-17</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SM_UB-17)]]></description>
+			<Point>
+				<coordinates>2.716667,57.116667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>SM UB-59</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SM_UB-59)]]></description>
+			<Point>
+				<coordinates>3.2,51.35,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>SM UB-61</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/1/10/UB_148_at_sea_2.jpeg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SM_UB-61)
+
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>4.933333,53.333333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>SM UC-10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SM_UC-10)]]></description>
+			<Point>
+				<coordinates>3.9,52.033333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SMS Breslau</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/4/49/Bundesarchiv_DVM_10_Bild-23-61-22%2C_Kleiner_Kreuzer_%22SMS_Breslau%22.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SMS_Breslau)
+
+
+ 
+
+Wikipedia Commons / German Federal Archives (http://en.wikipedia.org/wiki/German_Federal_Archives)]]></description>
+			<Point>
+				<coordinates>25.978333,40.061667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SMS Lützow</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Derfflinger_class_battlecruiser_-_Jane%27s_Fighting_Ships%2C_1919_-_Project_Gutenberg_etext_24797.png/300px-Derfflinger_class_battlecruiser_-_Jane%27s_Fighting_Ships%2C_1919_-_Project_Gutenberg_etext_24797.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SMS Lützow on Wikipedia (http://en.wikipedia.org/wiki/SMS_L%C3%BCtzow)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>5.883333,56.25,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SMS Niobe</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/21/SMS_Niobe_%281899%29_2.jpg/493px-SMS_Niobe_%281899%29_2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SMS_Niobe)
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>14.7,44.366667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SMS Seeadler</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SMS_Kaiserin_Augusta_SMS_Seeadler_1890s.jpg/800px-SMS_Kaiserin_Augusta_SMS_Seeadler_1890s.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SMS_Seeadler)
+
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>8.2,53.483333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SMS Szent István</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Szent_Istvan.jpg/300px-Szent_Istvan.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SMS Szent István on Wikipedia (http://en.wikipedia.org/wiki/SMS_Szent_Istv%C3%A1n)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>14.451389,44.201944000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SMS Viribus Unitis</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/SMS_Viribus_Unitis.jpg/300px-SMS_Viribus_Unitis.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SMS Viribus Unitis on Wikipedia
+ (http://en.wikipedia.org/wiki/SMS_Viribus_Unitis)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>13.819167,44.869167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>Spanish submarine C-3</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/7/74/C3y_canguro.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Spanish_submarine_C-3)
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-4.350007,36.666715,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Admiral Nakhimov</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/0/0b/Berlin_%28III%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SS_Admiral_Nakhimov)
+
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>37.876389,44.604167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Cap Arcona</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cap_Arcona_1.JPG/320px-Cap_Arcona_1.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SS Cap Arcona on Wikpedia
+ (http://en.wikipedia.org/wiki/Cap_Arcona)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>10.840833,54.065,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Dia</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SS_Dia)]]></description>
+			<Point>
+				<coordinates>8.633333,44.2,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS City of Venice</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SS_City_of_Venice)]]></description>
+			<Point>
+				<coordinates>1.516667,36.733333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Eastfield</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[SS Eastfield on Wikipedia (http://en.wikipedia.org/wiki/SS_Eastfield)]]></description>
+			<Point>
+				<coordinates>-4.704367,50.237583,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Elbe (Approximate position)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/thumb/a/a7/SS_Elbe_1881.jpg/300px-SS_Elbe_1881.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SS Elbe on Wikipedia
+ (http://en.wikipedia.org/wiki/SS_Elbe_(1881))
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>3.02124,52.261434,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS General von Steuben</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bundesarchiv_N_1572_Bild-1925-079%2C_Polarfahrt_mit_Dampfer_%22M%C3%BCnchen%22%2C_Advent-Bay.jpg/300px-Bundesarchiv_N_1572_Bild-1925-079%2C_Polarfahrt_mit_Dampfer_%22M%C3%BCnchen%22%2C_Advent-Bay.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SS General von Steuben on Wikipedia\
+ (http://en.wikipedia.org/wiki/SS_General_von_Steuben)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>16.85,54.683333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>HMS Keith (1930)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_Keith_(1930))]]></description>
+			<Point>
+				<coordinates>2.446389,51.079444,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS James Eagan Layne</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/thumb/8/8d/SS_James_Eagan_Layne.jpg/300px-SS_James_Eagan_Layne.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SS James Eagan Layne on Wikipedia
+ (http://en.wikipedia.org/wiki/SS_James_Eagan_Layne)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-4.245233,50.3267,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Leopoldville</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[SS Leopoldville on Wikipedia (http://en.wikipedia.org/wiki/SS_Leopoldville_(1929) ]]></description>
+			<Point>
+				<coordinates>-1.566667,49.75,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Louis Sheid </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[SS Louis Sheid on Wikipedia (http://en.wikipedia.org/wiki/SS_Louis_Sheid)]]></description>
+			<Point>
+				<coordinates>-3.8638500000000002,50.260967,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Martti Ragnar (1934)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SS_Martti_Ragnar_(1934) ]]></description>
+			<Point>
+				<coordinates>8.8,58.400000000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Mendi</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SS_Mendi.jpg/300px-SS_Mendi.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SS Mendi on Wikipedia (http://en.wikipedia.org/wiki/SS_Mendi)
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>-1.55,50.466667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Mohegan (approximate location)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/44/SS_Mohegan.jpg/300px-SS_Mohegan.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SS Mohegan on Wikipedia
+ (http://en.wikipedia.org/wiki/SS_Mohegan)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-5.04616,50.04462,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Mopang</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikpedia (http://en.wikipedia.org/wiki/SS_Mopang)]]></description>
+			<Point>
+				<coordinates>27.69475,42.4681,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Rex</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/B-17s_flyby_Rex.jpg/300px-B-17s_flyby_Rex.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SS Rex on Wikipedia (http://en.wikipedia.org/wiki/SS_Rex)
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>13.691944,45.54888900000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Richard Montgomery </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[SS Richard Montgomery on Wikipedia (http://en.wikipedia.org/wiki/SS_Richard_Montgomery)]]></description>
+			<Point>
+				<coordinates>0.786667,51.465833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Shuntien (1934)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/62/SS_Shuntien_%281934%29.jpg/800px-SS_Shuntien_%281934%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SS_Shuntien_(1934) 
+
+
+ 
+
+Wikipedia Commons / RobJ]]></description>
+			<Point>
+				<coordinates>24.46,32.06,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Sirio</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SS_Sirio)]]></description>
+			<Point>
+				<coordinates>-0.652864,37.651869,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Struma </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[SS Struma on Wikipedia (http://en.wikipedia.org/wiki/Struma_(ship) ]]></description>
+			<Point>
+				<coordinates>29.216667000000005,41.383333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Westfalen (1905)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SS_Westfalen_(1905) ]]></description>
+			<Point>
+				<coordinates>11.4561,57.779700000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>St Anthony</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[St Anthony on Wikipedia (http://en.wikipedia.org/wiki/St_Anthony_(ship) ]]></description>
+			<Point>
+				<coordinates>-5.287,50.05,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Thielbek</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Thielbek on Wikipedia (http://en.wikipedia.org/wiki/SS_Thielbek_(1940) ]]></description>
+			<Point>
+				<coordinates>10.84,54.071667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Uluburun shipwreck</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Uluburun1.jpg/744px-Uluburun1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Uluburun_shipwreck)
+ 
+
+Wikipedia Commons / Martin Bahmann]]></description>
+			<Point>
+				<coordinates>29.685832999999995,36.128611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Unknown sunken ship and tugboat  near Genoa (viewable in water)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>8.784428,44.41799600000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Unknown Shipwreck off Atalanti Island, Greece</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/268369.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Antony Milanos (http://www.panoramio.com/user/23094?with_photo_id=268369)]]></description>
+			<Point>
+				<coordinates>23.570993,37.93548200000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Unknown wreck near Southampton (viewable)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-1.381769,50.91565,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>HMS Fearless &amp; Intrepid Shipwrecks</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/3845813.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Panoramio / Graham Till]]></description>
+			<Point>
+				<coordinates>-1.130507,50.811063,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Um El Faroud</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Um_El_Faroud)]]></description>
+			<Point>
+				<coordinates>14.449736000000001,35.819057,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Leedstown (AP-73)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/USS_Leedstown_%28AP-73%29.jpg/727px-USS_Leedstown_%28AP-73%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_Leedstown_(AP-73) 
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>3.165278,36.820278,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS PC-496</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/7/79/USS_PC-496.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_PC-496)
+
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>9.866667,37.383333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Portent (AM-106)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_Portent_(AM-106) ]]></description>
+			<Point>
+				<coordinates>12.733333,41.4,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Redwing (AM-48)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/USS_Redwing_%28AM_48%29.jpg/800px-USS_Redwing_%28AM_48%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_Redwing_(AM-48) 
+
+
+ 
+
+Wikipedia Commons / Naval Historical Center photo #: NH 90492 (http://www.navsource.org/archives/11/02048.htm)]]></description>
+			<Point>
+				<coordinates>9.933333,37.316667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS SC-694</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/6/66/USS_SC-661.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_SC-694)
+
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>13.366667,38.133333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Swerve (AM-121)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/7/7c/Swerve_%28AM_121%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_Swerve_(AM-121) 
+
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>12.466667,41.516667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Zeppelin</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/f/fa/Uss_Zeppelin_1919.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[USS Zeppelin on Wikipedia (http://en.wikipedia.org/wiki/USS_Zeppelin)
+
+ 
+
+Wikipedia Commons ]]></description>
+			<Point>
+				<coordinates>5.314846,59.20312100000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Vasa (or Wasa)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/The_Vasa_from_the_Bow.jpg/300px-The_Vasa_from_the_Bow.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Vasa on Wikipedia
+ (http://en.wikipedia.org/wiki/Vasa_(ship) 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>18.091111,59.327778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Vliegenthart (Flying Hart) (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[3 February 1735 - A Dutch East Indiaman that was lost after striking a sand bank off the coast of Flushing, Zeeland. Every one of the 461 sailors, soldiers and merchants aboard perished. The wreck was discovered in late 1981.]]></description>
+			<Point>
+				<coordinates>3.532319,51.439457,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Ydra (viewable in water)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The remains of a rusted giant off the north coast of Tunisia (http://www.artificialowl.net/2008/11/remains-of-rusted-giant-off-north-coast.html)]]></description>
+			<Point>
+				<coordinates>9.948478,37.252119,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1363</styleUrl>
+			<name>U-13 (1935)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/German_submarine_U-13_(1935) ]]></description>
+			<Point>
+				<coordinates>2.033333,52.433333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Dimitrious II, Paphos, Cyprus (viewable)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/12158998.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / aslanman (http://www.panoramio.com/user/1069062?with_photo_id=12158998)]]></description>
+			<Point>
+				<coordinates>32.386437,34.787563,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Shipwreck at Eparchiaki Odos Agias Pelagias-Kapsaliou, Kithira, Greece (viewable)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/67874547.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / H V Maverick (http://www.panoramio.com/user/3507996?with_photo_id=67874547)]]></description>
+			<Point>
+				<coordinates>23.093873,36.265894,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Ναυάγιο shipwreck, Agiou Spiridonos, Thermaikos, Greece (viewable)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>22.897208,40.375921,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Shipwreck at FÅRÖ NORS, Sweden (viewable)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/812180.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Peter Rinblad (http://www.panoramio.com/user/171109?with_photo_id=812180)]]></description>
+			<Point>
+				<coordinates>19.243836,57.99596600000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Old ship wreck at Loksa, Estonia (viewable)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/88883157.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Anna Grigorjeva (http://www.panoramio.com/user/494892?with_photo_id=88883157)]]></description>
+			<Point>
+				<coordinates>25.706506,59.593652,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>View this map in Google Earth</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Non-networked Google Earth KML file: (https://docs.google.com/file/d/0B52hHMRyBvEsMnZCakkxR3hHckU/edit)]]></description>
+			<Point>
+				<coordinates>-13.7109375,36.8092847,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1363'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1363-rec-fish.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1387'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1387-rec-sailing.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1433'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1433-trans-ferry.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

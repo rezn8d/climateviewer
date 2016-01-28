@@ -1,0 +1,2009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Interactive Map of the Ancient and Other Ruins of South &amp; Central America</name>
+  <description><![CDATA[In this documentary, in the form of an interactive Google Map, you can see the ancient, and other ruins, of  South and Central America. Zoom-in close on the actual ancient Aztec, Inca and Mayan ruins, the ancient Lazca Lines geoglyphs, Portuguese and Spanish forts, Easter Island Moai giant-heads, 15th century cathedrals, and more.
+
+The locations in this map were determined from:
+
+-- Wikipedia's List of World Heritage Sites in the Americas
+-- Various web searches for other ruins not listed in Wikipedia
+-- Google Map's Panoramio photo option
+-- Site suggestions from member participants of Historium's thread "Ancient Cities Above."]]></description>
+  <Style id="style95">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/caution.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style62">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/hiker.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style102">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/homegardenbusiness.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style86">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style126">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style131">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style59">
+    <IconStyle>
+      <Icon>
+        <href>https://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style107">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style40">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style60">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style51">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style55">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style77">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style119">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style80">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style35">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style83">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style125">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style56">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style70">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style63">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style85">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style65">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style90">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style49">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style84">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style114">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style91">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style79">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style127">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style44">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style132">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style103">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style33">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style74">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style94">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style110">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style116">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style120">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style42">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style97">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style45">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style123">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style69">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style87">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style128">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style109">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style68">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style104">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style133">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style47">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style54">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style117">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style112">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style46">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style71">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style101">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style121">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style58">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style43">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style98">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style130">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/caution.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style115">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style122">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style41">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style64">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style106">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style72">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style53">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style73">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style39">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style93">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style88">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style82">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style96">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style50">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style75">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style48">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style61">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style99">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style32">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style118">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style92">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style57">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style52">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style89">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style66">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style76">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style105">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style113">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style129">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style100">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style111">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style81">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style67">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style78">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style124">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style108">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/ylw-pushpin.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Other Ancient Ruins Maps</name>
+    <description><![CDATA[<ul><li><span style="font-size:10pt"><a href="http://myreadingmapped.blogspot.com/2011/06/interactive-map-of-ancient-african.html" target="_blank">Africa</a></span></li><li><span style="font-size:10pt"><a href="http://myreadingmapped.blogspot.com/2012/01/interactive-map-of-ancient-and-other_2.html" target="_blank">Asia</a></span></li><li><span style="font-size:10pt"><a href="http://myreadingmapped.blogspot.com/2012/01/interactive-map-of-ancient-and-other_02.html" target="_blank">Europe</a></span></li><li><span style="font-size:10pt"><a href="http://myreadingmapped.blogspot.com/2011/06/interactive-map-of-ruins-of-united.html" target="_blank">United States</a></span></li><li><a href="http://myreadingmapped.blogspot.com/2011/04/view-interactive-map-on-mayan-vs.html" target="_blank">Aztec, Egyptian, Inca, Mayan and Chinese Pyramids</a></li><li><a href="http://myreadingmapped.blogspot.com/2011/09/interactive-map-of-my-favorite-classic.html" target="_blank">Classic European Castles</a></li><li><a href="http://myreadingmapped.blogspot.com/2011/10/interactive-map-of-ancient-lost-cities.html" target="_blank">Ancient Lost Cities</a></li><li><a href="http://myreadingmapped.blogspot.com/2012/11/the-oldest-lighthouses.html" target="_blank">Oldest Lighthouses: Aged Protectors of Globalization</a></li><li><a href="http://myreadingmapped.blogspot.com/2012/10/american-ghost-towns.html" target="_blank">American Ghost Towns</a></li><li><a href="http://myreadingmapped.blogspot.com/2012/12/the-ghost-towns-of-asia-in-google-map.html" target="_blank">Ghost Towns of Asia</a></li><li><a href="http://myreadingmapped.blogspot.com/2012/11/cities-of-dead-heaven-or-hell.html" target="_blank">Cities of the Dead</a></li></ul>]]></description>
+    <styleUrl>#style95</styleUrl>
+    <Point>
+      <coordinates>-99.140625,-17.644022,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Digitally walk these ruins in 3D.</name>
+    <description><![CDATA[<a href="https://docs.google.com/file/d/0B52hHMRyBvEsbTlIazZweTMtWTA/edit" target="_blank">You can digitally walk these ruins in 3D using this Google Earth KML file</a>. Be sure to turn on the Buildings layer in case any are rendered in 3D.]]></description>
+    <styleUrl>#style62</styleUrl>
+    <Point>
+      <coordinates>-90.703125,-15.792254,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Go to other Historic Maps</name>
+    <description><![CDATA[<div dir="ltr"><span style="font-size:13px"><b><span style="font-weight:normal"><font face="arial" style="font-family:arial;font-size:10pt"><font size="2"><b>Try one of the many other Interactive Maps of Explorers and Historic Events at&nbsp;</b></font></font><b><a href="http://myreadingmapped.blogspot.com/" target="_blank">MyReadingMapped.</a></b></span></b></span></div><div dir="ltr"><span style="font-size:13px"><b><span style="font-weight:normal"><b><br></b></span></b></span></div><div dir="ltr"><img src="http://1.bp.blogspot.com/-Ag6qDYAWE3Y/Tung1DRL2PI/AAAAAAAAAr4/kfqblVInWis/s320/MRM+screen+shot.JPG"></div>]]></description>
+    <styleUrl>#style102</styleUrl>
+    <Point>
+      <coordinates>-91.054688,-5.965754,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Atahualpa&#39;s Ransom Room in Cajamarca</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Ransom_Room" target="_blank">Wikipedia</a><br>&nbsp;<br>The&nbsp;Ransom Room&nbsp;(El Cuarto del Rescate) is a small building located in&nbsp;Cajamarca,&nbsp;Peru. It is considered to be the place where the&nbsp;Inca Empire&nbsp;came to an end with the capture and eventual execution of the&nbsp;Inca&nbsp;Emperor Atahualpa.[1]</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:10pt"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Cajamarca_Cuartorescate_Atahualpa_lou.jpg/220px-Cajamarca_Cuartorescate_Atahualpa_lou.jpg"></div><font size="1" face="arial, sans-serif">Wikipedia Commons</font></div>]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-78.516548,-7.157877,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Band of Holes</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Band_of_Holes" target="_blank">Wikipedia</a><br><br>Band of Holes&nbsp;is the name given to a series of thousands of uniform holes found in the Pisco Valley on the Nazca Plateau in&nbsp;Peru. The holes themselves lie between&nbsp;13°42′59.9″S&nbsp;75°52′28.46″W&nbsp;</font></div><div dir="ltr"><font size="1" face="arial, sans-serif">and&nbsp;13°42′20″S&nbsp;75°52′28.46″W&nbsp;extending for several miles in a basically North-South orientation over uneven mountain surfaces. The highly organized grouping of holes range in size from a yard (a meter) to as much as 20 to 30 feet (6.1 to 9.1&nbsp;m) in diameter and vary in depth from a few inches to 6 to 7 feet (1.8 to 2.1&nbsp;m).[1]&nbsp;The holes are on the same plateau as the&nbsp;Nazca Lines&nbsp;but exhibit a different construction style.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><img src="https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2F4.bp.blogspot.com%2F-74sPVTqluFM%2FUwjoVJEdoUI%2FAAAAAAAAHI0%2FhtzLPyEUNXM%2Fs1600%2FBand%2Bof%2BHoles.JPG&amp;container=blogger&amp;gadget=a&amp;rewriteMime=image%2F*" style="width:244px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map</font></div>]]></description>
+    <styleUrl>#style86</styleUrl>
+    <Point>
+      <coordinates>-75.874573,-13.716639,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Basilica Cathedral of Arequipa</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif">Wikipedia<br><br>1590: It is decided to rebuild again the main church, and this is assigned to Gaspar Báez, who is helped by several Spanish officials and many hundreds of "Mitayo" Indians. The new design would have 3 sections, arcs and vaults of brick.<br>----<br>Since then the church has survived five earthquakes, and a fire.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:10pt"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Basilica_Cathedral_of_Arequipa.jpg/300px-Basilica_Cathedral_of_Arequipa.jpg" style="width:242px"></div><div style="font-family:arial;font-size:10pt"><span style="font-family:arial, sans-serif;font-size:x-small">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style126</styleUrl>
+    <Point>
+      <coordinates>-71.536629,-16.398079,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Basilica Cathedral of Lima </name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Cathedral_of_Lima" target="_blank">Wikipedia</a><br>&nbsp;<br>The&nbsp;Basilica Cathedral of Lima&nbsp;is a&nbsp;Roman Catholic&nbsp;cathedral located in the&nbsp;Plaza Mayor&nbsp;of downtown Lima,&nbsp;Peru. Construction began in 1535, and the building has undergone many reconstructions and transformation since, however it still retains its&nbsp;colonial&nbsp;structure and facade. It is dedicated to St John, Apostle and Evangelist.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Lima.Catedral.JPG/250px-Lima.Catedral.JPG" style="width:242px"></div><div style="font-family:arial;font-size:13px"><span style="font-family:arial, sans-serif;font-size:x-small">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style131</styleUrl>
+    <Point>
+      <coordinates>-77.029800,-12.046665,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Basilica del Sanctísimo Sacramento</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Bas%C3%ADlica_del_Sant%C3%ADsimo_Sacramento,_Colonia_del_Sacramento" target="_blank">Wikipedia</a><br>&nbsp;<br>The parish was established on 2 February 1680, being one of the oldest in the country.[1]&nbsp;The very first temple was a humble mud ranch. It is as old as the city itself (a former Portuguese settlement); but, together with the changing fortunes of this small city, this church suffered many bombings and destructions.</font></div><div dir="ltr"><br>&nbsp;</div><div dir="ltr"><div style="font-family:arial;font-size:13.333333969116211px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Basilica_del_Sanct%C3%ADsimo_Sacramento.jpg/250px-Basilica_del_Sanct%C3%ADsimo_Sacramento.jpg" style="width:242px"></div><div style="font-family:arial;font-size:13.333333969116211px"><span style="font-family:arial, sans-serif;font-size:x-small">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style59</styleUrl>
+    <Point>
+      <coordinates>-57.850990,-34.470936,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Brimstone Hill Fortress</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Brimstone_Hill_Fortress_National_Park" target="_blank">Wikipedia</a><br>&nbsp;<br>Cannon were first mounted on Brimstone Hill in 1690, when the British used them to recapture&nbsp;Fort Charles&nbsp;from the French. The French had not considered it possible to transport cannon up the steep and thickly wooded sides of Brimstone Hill. The construction of the fort then carried on intermittently for just over 100 years.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13.333333969116211px"><a href="http://en.wikipedia.org/wiki/Brimstone_Hill_Fortress_National_Park" target="_blank"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/BrimstoneHill01.jpg/200px-BrimstoneHill01.jpg"></a></div><div style="font-family:arial;font-size:13.333333969116211px"><span style="font-family:arial, sans-serif;font-size:x-small">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>-62.836647,17.346788,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cahuachi</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Cahuachi" target="_blank">Wikipedia</a><br><br>Cahuachi,[1]&nbsp;in&nbsp;Peru, was a major ceremonial center of the&nbsp;Nazca culture, based from 1 CE to about 500 CE in the coastal area of the Central Andes. It overlooked some of the&nbsp;Nazca lines. The Italian archaeologist&nbsp;Giuseppe Orefici&nbsp;has been excavating at the site for the past few decades. The site contains over 40 mounds topped with&nbsp;adobe&nbsp;structures.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><img src="http://static.panoramio.com/photos/large/6376906.jpg" style="width:242px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/25423?with_photo_id=6376906" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">Cocal</a></font></div>]]></description>
+    <styleUrl>#style107</styleUrl>
+    <Point>
+      <coordinates>-75.116669,-14.818611,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Campeche (Fortified Town) </name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Historic_Fortified_Town_of_Campeche" target="_blank">Wikipedia</a><br><br>The city was founded in 1540 by&nbsp;Spanish&nbsp;conquistadores&nbsp;as&nbsp;San Francisco de Campeche&nbsp;atop the pre-existing&nbsp;Maya&nbsp;city of&nbsp;Canpech&nbsp;or&nbsp;Kimpech. The&nbsp;Pre-Columbian&nbsp;city was described as having 3,000 houses and various monuments, of which little trace remains.<br>The city retains many of the old colonial Spanish city walls and fortifications which protected the city (not always successfully) from&nbsp;pirates&nbsp;and&nbsp;buccaneers. The state of preservation and quality of its architecture earned it the status of a&nbsp;UNESCO&nbsp;World Heritage Site&nbsp;in 1999.&nbsp;</font></div><div dir="ltr" style="font-family:arial;font-size:10pt">&nbsp;</div><div dir="ltr" style="font-family:arial;font-size:10pt"><img src="http://static.panoramio.com/photos/large/96171525.jpg" style="width:242px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio / &nbsp;<a href="http://www.panoramio.com/user/5327789?with_photo_id=96171525" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">Sergio Arce G</a></font></div>]]></description>
+    <styleUrl>#style40</styleUrl>
+    <Point>
+      <coordinates>-90.536003,19.841389,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Caral</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Caral" target="_blank">Wikipedia</a><br><br>Caral was inhabited between roughly 2600 BCE and 2000 BCE,[1] enclosing an area of more than 60 hectares.[2] Caral was described by its excavators as the oldest urban center in the Americas, a claim that was later challenged as other ancient sites were found nearby. Accommodating more than 3,000 inhabitants, it is the best studied and one of the largest Norte Chico sites known.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><img src="http://static.panoramio.com/photos/large/61902056.jpg" style="width:242px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/137410?with_photo_id=61902056" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">Javier Cabral</a></font></div>]]></description>
+    <styleUrl>#style60</styleUrl>
+    <Point>
+      <coordinates>-77.520447,-10.892432,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Casa Fuerte de Barcelona</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Barcelona,_Anzo%C3%A1tegui" target="_blank">Wikipedia</a><br><br>This building was a former Franciscan convent transformed into a fortress by the initiative of General Pedro María Freites and Santiago Mariño.<br><br>The Casa Fuerte provided shelter to the people of this area before the invasion in 1817 by royalist Aldana.<br><br>The ruins of this building were seen as a reminder of the slaughter of April 7 of 1817, where old men, women and children were murdered by royalist forces.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:10pt"><img src="http://upload.wikimedia.org/wikipedia/commons/7/72/Casa_Fuerte_de_Barcelona.jpg" style="width:242px"></div><div style="font-family:arial;font-size:10pt"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style51</styleUrl>
+    <Point>
+      <coordinates>-64.686913,10.136862,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Casas Grandes (Paquimé)</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Archaeological_Zone_of_Paquim%C3%A9,_Casas_Grandes" target="_blank">Wikipedia</a><br><br>Casas Grandes&nbsp;(Spanish for&nbsp;Great Houses; also known as&nbsp;Paquimé) is the contemporary name given to a&nbsp;pre-Columbian&nbsp;archaeological zone and its central site, located in northwestern&nbsp;Mexicoin the modern-day&nbsp;Mexican state&nbsp;of&nbsp;Chihuahua. It is one of the largest and most complex sites in the region. Developed as multi-storied dwellings about 1350 CE after earlier settlement beginning after 1130 CE, the community was abandoned approximately 1450 CE.</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><img src="http://static.panoramio.com/photos/large/42472741.jpg" style="width:242px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/408690?with_photo_id=42472741" rel="author" style="color:rgb(90, 123, 243);text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255)" target="_blank">RicardoAguirre</a></font></div>]]></description>
+    <styleUrl>#style55</styleUrl>
+    <Point>
+      <coordinates>-107.947136,30.366173,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Casco Viejo or Casco Antiguo</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Casco_Viejo,_Panama" target="_blank">Wikipedia</a><br>&nbsp;<br>Casco Viejo&nbsp;(Spanish for&nbsp;Old Quarter), also known as&nbsp;Casco Antiguo&nbsp;or&nbsp;San Felipe, is the historic district of Panama City. Completed and settled in 1673, it was built following the near-total destruction of the original Panamá city,&nbsp;Panamá Viejo&nbsp;in 1671, when the latter was attacked by pirates. It was designated a World Heritage Site in 1997.[1]</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><img src="http://static.panoramio.com/photos/large/30090394.jpg" style="width:242px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;</font><span style="font-family:arial, sans-serif;font-size:x-small;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243);line-height:14px">hcvberlin</span></div>]]></description>
+    <styleUrl>#style77</styleUrl>
+    <Point>
+      <coordinates>-79.534447,8.950646,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Castillo de la Pura y Limpia Concepción de Monfort de Lemus (Niebla Fort)</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Valdivian_fort_system#Fortifications" target="_blank">Wikipedia</a><br><br>The fort in&nbsp;Niebla&nbsp;faces Corral Fort and lies at the northern entrance of Valdivia River. The fort was undergoing an enlargement when works stopped in 1810. In 1834, when controlled by Chile it worked as deposit for the whole system.</font></div><div dir="ltr"><img src="http://"><img src="http://static.panoramio.com/photos/large/3223483.jpg" style="width:242px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/653073?with_photo_id=3223483" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">Jorge Vivanco</a></font></div>]]></description>
+    <styleUrl>#style119</styleUrl>
+    <Point>
+      <coordinates>-73.402832,-39.870010,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Castillo de San Cristóbal</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Castillo_de_San_Crist%C3%B3bal_(Puerto_Rico)" target="_blank">Wikipedia</a><br><br>Castillo de San Cristóbal is the largest fortification built by the Spanish in the New World. When it was finished in 1783, it covered about 27&nbsp;acres&nbsp;of land and basically wrapped around the city of San Juan. Entry to the city was sealed by San Cristóbal's double&nbsp;gates. After close to one hundred years of relative peace in the area, part of the fortification (about a third) was demolished in 1897 to help ease the flow of traffic in and out of the walled city.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13.333333969116211px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Aerial_view_of_Castillo_de_San_Cristobal%2C_San_Juan%2C_Puerto_Rico.jpg/275px-Aerial_view_of_Castillo_de_San_Cristobal%2C_San_Juan%2C_Puerto_Rico.jpg" style="width:242px"></div><div style="font-family:arial;font-size:13.333333969116211px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>-66.111115,18.467222,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Castillo de San Pedro de la Roca</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Castillo_de_San_Pedro_de_la_Roca" target="_blank">Wikipedia</a><br>&nbsp;<br>It was designed in 1637 by&nbsp;Giovanni Battista Antonelli&nbsp;(also known as Juan Battista Antonelli), a member of a Milanese family of military engineers, on behalf of the governor of the city,&nbsp;Pedro de la Roca de Borja, as a defense against raiding pirates, although an earlier, smaller, fortification had been built between 1590 and 1610. Antonelli design was adapted to the situation of the fortress on the steep sides of the promontory (the&nbsp;morro&nbsp;from which the fortress gets its name) reaching into the bay.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13.333333969116211px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Castillo_del_Morro_by_Glogg_4.jpg/300px-Castillo_del_Morro_by_Glogg_4.jpg" style="width:242px"></div><div style="font-family:arial;font-size:13.333333969116211px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style80</styleUrl>
+    <Point>
+      <coordinates>-75.870110,19.968645,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Castillo de San Sebastián de la Cruz Fort (Corral Fort)</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Valdivian_fort_system#Fortifications" target="_blank">Wikipedia</a><br><br>San Sebastián de la Cruz Fort in&nbsp;Corral&nbsp;at the southern side of Corral Bay was the headquarters of the coastal defences. It was built in 1645 by order of the viceroy&nbsp;Pedro Álvarez de Toledo y Leiva.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><img src="http://static.panoramio.com/photos/large/543497.jpg" style="width:242px"></font></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/106394?with_photo_id=543497" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">Javier Morales</a></font></div>]]></description>
+    <styleUrl>#style35</styleUrl>
+    <Point>
+      <coordinates>-73.425667,-39.888870,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Castillo San Felipe del Morro</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Castillo_San_Felipe_del_Morro" target="_blank">Wikipedia</a><br><br>Castillo San Felipe del Morro&nbsp;also known as&nbsp;Fort San Felipe del Morro&nbsp;or Morro Castle, is a 16th-century&nbsp;citadel&nbsp;located in&nbsp;San Juan, Puerto Rico.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13.333333969116211px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FortElMorro_SanJuan_PuertoRico.jpg/275px-FortElMorro_SanJuan_PuertoRico.jpg" style="width:242px"></div><div style="font-family:arial;font-size:13.333333969116211px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style83</styleUrl>
+    <Point>
+      <coordinates>-66.124168,18.471111,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cathedral of Santa María la Menor </name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Catedral_de_Santa_Mar%C3%ADa_la_Menor" target="_blank">Wikipedia</a><br>&nbsp;<br>The&nbsp;Cathedral of Santa María la Menor&nbsp;in the&nbsp;Colonial Zone&nbsp;of&nbsp;Santo Domingo&nbsp;is dedicated to St. Mary of the Incarnation. It is the oldest cathedral in the&nbsp;Americas, begun in 1512 and completed in 1540. It is the Cathedral of the&nbsp;Archbishop of Santo Domingo&nbsp;who has the honorary title of Primate&nbsp;of the&nbsp;Americas&nbsp;because Santo Domingo was the first Catholic diocese established in the&nbsp;New World.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13.333333969116211px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Catedral_Primada_-_exterior.jpg/300px-Catedral_Primada_-_exterior.jpg" style="width:242px"></div><div style="font-family:arial;font-size:13.333333969116211px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style125</styleUrl>
+    <Point>
+      <coordinates>-69.883865,18.472990,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Chan Chan</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Chan_Chan" target="_blank">Wikipedia</a><br>&nbsp;<br>The&nbsp;adobe&nbsp;city of Chan Chan, the largest in the world, was built around AD 850 and lasted until its conquest by the&nbsp;Inca Empire&nbsp;in AD 1470. It was the imperial capital where 30,000 people lived.<br>Chan Chan was added as a&nbsp;UNESCO&nbsp;World Heritage Site&nbsp;on November 28 of 1986.[3]</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><img src="http://static.panoramio.com/photos/large/4242090.jpg" style="width:242px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;</font><span style="background-color:rgb(255, 255, 255);color:rgb(90, 123, 243);font-family:arial, sans-serif;font-size:x-small;line-height:14px;text-decoration:underline">Rodolfo Rubio Guarde…</span></div>]]></description>
+    <styleUrl>#style56</styleUrl>
+    <Point>
+      <coordinates>-79.074738,-8.109244,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Chavín de Huántar</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Chav%C3%ADn_de_Huantar" target="_blank">Wikipedia</a><br>&nbsp;<br>Chavín de Huántar&nbsp;is an&nbsp;archaeological site&nbsp;containing ruins and artifacts constructed beginning at least by 1200 BC and occupied by later cultures until around 400-500 BC by the&nbsp;Chavín, a major pre-Inca&nbsp;culture. The site is located 250 kilometers (160&nbsp;mi) north of&nbsp;Lima,&nbsp;Peru, at an elevation of 3,180 meters (10,430&nbsp;ft), east of the&nbsp;Cordillera Blanca&nbsp;at the start of the&nbsp;Conchucos Valley. Chavín de Huántar has been designated a&nbsp;UNESCO&nbsp;World Heritage Site. Some of the Chavín relics from this archaeological site are on display in the&nbsp;Museo de la Nación&nbsp;in Lima and the&nbsp;Museo Nacional de Chavín&nbsp;in Chavin itself.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><img src="http://static.panoramio.com/photos/large/42067460.jpg" style="width:242px"></div><div dir="ltr"><font face="arial, sans-serif" size="1">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/672156?with_photo_id=42067460" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">Roberto Chapilliquén</a></font></div>]]></description>
+    <styleUrl>#style70</styleUrl>
+    <Point>
+      <coordinates>-77.178169,-9.594019,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Choquequirao</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Choquequirao" target="_blank">Wikipedia</a><br>&nbsp;<br>Choquequirao&nbsp;(Southern Quechua:&nbsp;Chuqi K'iraw, "Cradle of Gold" or&nbsp;Choqek'iraw[1]) is a ruined&nbsp;Inca&nbsp;city in south Peru, similar in structure and architecture to&nbsp;Machu Picchu. The ruins are buildings and terraces at levels above and below Sunch'u Pata, the truncated hill top. The hilltop was anciently leveled and ringed with stones to create a 30 by 50&nbsp;m platform.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><img src="http://static.panoramio.com/photos/large/45475944.jpg" style="width:242px"></div><div dir="ltr"><font face="arial, sans-serif" size="1">Google Map /Panoramio /&nbsp;</font><span style="color:rgb(51, 51, 51);line-height:14px;background-color:rgb(255, 255, 255)"><font face="arial, sans-serif" size="1">Knut Céspedes Carras</font></span><span style="color:rgb(51, 51, 51);font-family:Roboto, Arial, Helvetica, sans-serif;font-size:16px;line-height:14px;background-color:rgb(255, 255, 255)">…</span></div>]]></description>
+    <styleUrl>#style63</styleUrl>
+    <Point>
+      <coordinates>-72.873810,-13.392806,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Church and Convent of São Francisco</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/S%C3%A3o_Crist%C3%B3v%C3%A3o" target="_blank">Wikipedia</a><br><br>São Francisco Square, in the town of São Cristovão, is a quadrilateral open space surrounded by substantial early buildings such as São Francisco Church and convent, the Church and Santa Casa da Misericórdia, the Provincial Palace and the associated houses of different historical periods surrounding the Square. This monumental ensemble, together with the surrounding 18th- and 19th- century houses, creates an urban landscape which reflects the history of the town since its origin. The Franciscan complex is an example of the typical architecture of the religious order developed in north-eastern Brazil.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br>In 2010 it was selected as a&nbsp;World Heritage Site&nbsp;by&nbsp;UNESCO.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><img src="http://static.panoramio.com/photos/large/55501793.jpg" style="width:242px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio / &nbsp;<a href="http://www.panoramio.com/user/3627313?with_photo_id=55501793" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">EmanuelAraujo</a></font></div>]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>-37.205231,-11.013018,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Church and Convent of St. Francis</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Church_and_Convent_of_St._Francis" target="_blank">Wikipedia</a><br>&nbsp;<br>The&nbsp;Church and Monastery of St. Francis&nbsp;(Spanish:&nbsp;Iglesia y Monasterio de San Francisco), commonly known as&nbsp;el San Francisco, is a 16th-century&nbsp;Roman Catholic&nbsp;complex in&nbsp;Quito,&nbsp;Ecuador.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13.333333969116211px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/SanFranciscoQuito.jpg/300px-SanFranciscoQuito.jpg" style="width:242px"></div><div style="font-family:arial;font-size:13.333333969116211px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-78.515556,-0.220278,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Church of Saint Francis of Assisi</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Church_of_Saint_Francis_of_Assisi_(Ouro_Preto)" target="_blank">Wikipedia</a><br><br>Its erection began in 1766 after a design by the great&nbsp;Brazilian&nbsp;architect&nbsp;and&nbsp;sculptor&nbsp;Antônio Francisco Lisboa, the so-called&nbsp;Aleijadinho, who also designed the carved decorations inside, which were only finished towards the end of the 19th century. The circular&nbsp;bell towers&nbsp;and the&nbsp;oculus&nbsp;closed by a&nbsp;relief&nbsp;were original features in religious architecture of that time in Brazil.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:10pt"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Ouro_Preto_November_2009-13.jpg/250px-Ouro_Preto_November_2009-13.jpg" style="width:242px"></div><div style="font-family:arial;font-size:10pt"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style85</styleUrl>
+    <Point>
+      <coordinates>-43.502689,-20.386745,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ciudad Perdida</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Ciudad_Perdida" target="_blank">Wikipedia</a><br>&nbsp;<br>Ciudad Perdida&nbsp;(Spanish for "Lost City") is the&nbsp;archaeological site&nbsp;of an ancient city in&nbsp;Sierra Nevada,&nbsp;Colombia. It is believed to have been founded about 800 AD, some 650 years earlier than&nbsp;Machu Picchu. This location is also known as Buritaca and the Native Americans call it Teyuna.</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><br>&nbsp;</div><div dir="ltr"><font size="1" face="arial, sans-serif"><img src="http://static.panoramio.com/photos/large/97565436.jpg" style="width:242px"></font></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/3314747?with_photo_id=97565436" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">Conqueror Lion</a></font></div>]]></description>
+    <styleUrl>#style65</styleUrl>
+    <Point>
+      <coordinates>-73.925270,11.038290,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Citadelle Laferrière</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Citadelle_Laferri%C3%A8re" target="_blank">Wikipedia</a><br>&nbsp;<br>The massive stone structure was built by up to 20,000 workers between 1805 and 1820 as part of a system of fortifications designed to keep the newly independent nation of Haiti safe from French incursions.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13.333333969116211px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Citadelle_Laferri%C3%A8re.jpg/300px-Citadelle_Laferri%C3%A8re.jpg" style="width:242px"></div><div style="font-family:arial;font-size:13.333333969116211px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>-72.243889,19.573610,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cloud People of Peru </name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://www.dailymail.co.uk/news/article-1091550/Ancient-city-discovered-deep-Amazonian-rainforest-linked-legendary-white-skinned-Cloud-People-Peru.html" target="_blank">dailymail.co.uk/news&nbsp;</a></font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif">It is thought this settlement may finally help historians unlock the secrets of the 'white warriors of the clouds'.&nbsp;</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br>The tribe had white skin and blonde hair - features which intrigue historians, as there is no known European ancestry in the region, where most inhabitants are darker skinned.&nbsp;</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br>The citadel is tucked away in one of the most far-flung areas of the Amazon. It sits at the edge of a chasm which the tribe may have used as a lookout to spy on enemies. </font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><img src="http://static.panoramio.com/photos/large/12350914.jpg" style="width:242px"></font></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;</font><span style="font-family:arial, sans-serif;font-size:x-small;color:rgb(90, 123, 243);line-height:14px;text-decoration:underline;background-color:rgb(255, 255, 255)">Jose Sanchez</span></div>]]></description>
+    <styleUrl>#style90</styleUrl>
+    <Point>
+      <coordinates>-78.055885,-5.909580,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Comalcalco</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Comalcalco" target="_blank">Wikipedia</a><br>&nbsp;<br>The site of Comalcalco, whose coordinates are 18°16′N 93°10′W, is notable for two characteristics. First, it is the westernmost known Maya settlement. Second, and due to a dearth of locally available&nbsp;limestone&nbsp;(the primary material used in&nbsp;architecturalconstruction), the city's buildings were made from fired-clay&nbsp;bricks&nbsp;held together with&nbsp;mortar&nbsp;made from oyster shells. The use of bricks at Comalcalco was unique among Maya sites, and many of them are decorated with&nbsp;iconography&nbsp;and/or&nbsp;hieroglyphs. Important architectural features include the northern plaza and two&nbsp;pyramids, the&nbsp;Gran Acropolis&nbsp;and the&nbsp;Acropolis Este.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13.333333969116211px"><font face="arial, sans-serif" size="1"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Comalcalco.jpg/800px-Comalcalco.jpg" style="width:242px"></font></div><div style="font-family:arial;font-size:13.333333969116211px"><font face="arial, sans-serif" size="1">Wikipedia Commons &nbsp;/ Public Domain</font></div></div>]]></description>
+    <styleUrl>#style49</styleUrl>
+    <Point>
+      <coordinates>-93.201752,18.280081,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Copán</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Cop%C3%A1n" target="_blank">Wikipedia</a><br>&nbsp;<br>Copán&nbsp;is an archaeological site of the&nbsp;Maya civilization&nbsp;located in the&nbsp;Copán Department&nbsp;of western&nbsp;Honduras, not far from the border with Guatemala. It was the capital city of a major&nbsp;Classic period&nbsp;kingdom from the 5th to 9th&nbsp;centuries AD.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><img src="http://static.panoramio.com/photos/large/5576144.jpg" style="width:242px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/1045745?with_photo_id=5576144" rel="author" style="color:rgb(90, 123, 243);text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255)" target="_blank">jorge1908</a></font></div>]]></description>
+    <styleUrl>#style84</styleUrl>
+    <Point>
+      <coordinates>-89.142059,14.839586,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Coricancha or Qorikancha</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Coricancha" target="_blank">Wikipedia</a><br><br>Qurikancha[1]&nbsp;(Quechua&nbsp;quri&nbsp;gold,&nbsp;kancha&nbsp;enclosure, enclosed place, yard, a frame, or wall that encloses,[2]&nbsp;hispanicized spelling&nbsp;Coricancha), originally named&nbsp;Inti Kancha&nbsp;(Quechua&nbsp;inti&nbsp;sun) or&nbsp;Inti Wasi&nbsp;(Quechua for "sun house"),[3]&nbsp;was the most important temple in the&nbsp;Inca Empire, dedicated primarily to&nbsp;Inti, the Sun God. It was one of the most revered&nbsp;temples&nbsp;of the capital city of&nbsp;Cusco.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br>The walls and floors were once covered in sheets of solid gold, and its adjacent courtyard was filled with golden statues. Spanish reports tell of its opulence that was "fabulous beyond belief". When the Spanish required the Inca to raise a ransom in gold for the life of the leader&nbsp;Atahualpa, most of the gold was collected from Qurikancha.[4]<br><br></font><img src="http://static.panoramio.com/photos/large/64960148.jpg" style="width:242px"><font size="1" face="arial, sans-serif"><br>Google Map / Panoramio /&nbsp;Yalila</font></div>]]></description>
+    <styleUrl>#style114</styleUrl>
+    <Point>
+      <coordinates>-71.975723,-13.520131,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cuahilama (Petroglyphs)</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Cuahilama" target="_blank">Wikipedia</a><br><br>Cuahilama&nbsp;is a Hill and an archaeological site located south east of Santa Cruz Acalpixca, in the Cuahilama neighborhood, near the Xochimilco Archaeological Museum. It was a ceremonial center, in the hill are prehispanic images engraved in basaltic rock.</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:10pt"><img src="http://static.panoramio.com/photos/large/62952774.jpg" style="width:242px"></div><div><span style="line-height:11.500000953674316px"><font size="1" face="arial, sans-serif">Google Map / Panormio /&nbsp;</font></span><span style="background-color:rgb(255, 255, 255);color:rgb(51, 51, 51);font-family:arial, sans-serif;font-size:x-small;line-height:14px">vjboff</span></div></div>]]></description>
+    <styleUrl>#style91</styleUrl>
+    <Point>
+      <coordinates>-99.070610,19.241655,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cumbe Mayo</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Cumbe_Mayo" target="_blank">Wikipedia</a><br><br>The aqueduct collected water from the Atlantic watershed and redirected it on its way to the Pacific Ocean. It is thought to have been constructed around 1500&nbsp;B.C. and was once thought to be the oldest existing man-made structure in&nbsp;South America. The name Cumbe Mayo may be derived from a&nbsp;Quechua&nbsp;phrase,&nbsp;kumpi mayu, meaning “well-made water channel,” or&nbsp;humpi mayo, meaning “thin river.”</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:10pt"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Cumbe_Mayo_Archaeological_site_-_aqueduct.jpg/800px-Cumbe_Mayo_Archaeological_site_-_aqueduct.jpg" style="width:242px"></div><div><font size="1" face="arial, sans-serif"><span style="line-height:11.500000953674316px">Wikipedia Commons /</span><a href="http://commons.wikimedia.org/wiki/User:AgainErick" title="User:AgainErick" style="text-decoration:none;color:rgb(11, 0, 128);background-color:rgb(249, 249, 249);line-height:19.19999885559082px" target="_blank">AgainErick</a></font></div></div>]]></description>
+    <styleUrl>#style79</styleUrl>
+    <Point>
+      <coordinates>-78.573891,-7.189722,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Devil&#39;s Island penal colony</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Devil%27s_Island" target="_blank">Wikipedia</a><br>&nbsp;<br>The island was a part of the controversial French&nbsp;penal colony&nbsp;of French Guiana for 101&nbsp;years, from 1852 to 1953, but in spite of its being the smallest part of the penal colony, it is the most famous for its use for internal exile of political prisoners.[1]&nbsp;The most famous political prisoner on Devil's Island was Captain&nbsp;Alfred Dreyfus.<br><br>The bestselling memoir by&nbsp;Henri Charrière,&nbsp;Papillon&nbsp;(1969), described the extreme brutality and inhumane treatment of the penal colony. The book was adapted as an American&nbsp;movie of the same name; released in 1973, it starred&nbsp;Steve McQueen&nbsp;and&nbsp;Dustin Hoffman.</font></div><div dir="ltr"><div dir="ltr" style="font-family:arial;font-size:13.333333969116211px"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:10pt"><img src="http://static.panoramio.com/photos/large/36432351.jpg" style="width:242px"></div><div><font size="1" face="arial, sans-serif"><span style="line-height:11px">Google Map / Panoramio /&nbsp;</span></font><span style="font-family:arial, sans-serif;font-size:x-small;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243);line-height:14px">juiceee</span></div></div></div>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>-52.582111,5.294767,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Easter Island Moai</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Moai" target="_blank">Wikipedia</a><br>&nbsp;<br>Moai&nbsp;i/ˈmoʊ.aɪ/, or&nbsp;mo‘ai, are&nbsp;monolithic&nbsp;human figures carved by the&nbsp;Rapa Nui people&nbsp;from rock on the&nbsp;Chilean&nbsp;Polynesian&nbsp;island of&nbsp;Easter Island&nbsp;between the years 1250 and 1500.[1]&nbsp;Nearly half are still at&nbsp;Rano Raraku, the main moai quarry, but hundreds were transported from there and set on stone platforms called&nbsp;ahu&nbsp;around the island's perimeter. Almost all moai have overly large heads three-eighths the size of the whole statue. The moai are chiefly the living faces (aringa ora) of deified ancestors (aringa ora ata tepuna).[2]&nbsp;The statues still gazed inland across their clan lands when Europeans first visited the island, but most were cast down during later conflicts between clans.<br><br></font><img src="http://upload.wikimedia.org/wikipedia/commons/5/50/AhuTongariki.JPG" style="width:242px"><font size="1" face="arial, sans-serif"><br>Wikipedia Commons /&nbsp;</font><span style="background-color:rgb(249, 249, 249);line-height:19.19999885559082px"><font size="1" face="arial, sans-serif">Ian Sewell</font></span></div>]]></description>
+    <styleUrl>#style127</styleUrl>
+    <Point>
+      <coordinates>-109.322403,-27.074465,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>El Fuerte de Samaipata (Fort Samaipata)</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Fuerte_de_Samaipata" target="_blank">Wikipedia</a><br><br>It is not actually a military fortification, but it is generally considered a pre-Columbian religious site, built by the&nbsp;Chané people, a pre-Inca culture of&nbsp;Arawak&nbsp;origin.[2]&nbsp;There are also ruins of an Inca city built near the temple; the city was built during the Inca expansion to the southeast. BothIncas&nbsp;and&nbsp;Chanes&nbsp;suffered several raids from&nbsp;Guarani&nbsp;warriors who invaded the region from time to time. Eventually, the Guarani warriors conquered the plains and valleys of&nbsp;Santa Cruz&nbsp;and destroyed Samaipata. The Guaranis dominated the region well into the Spanish colonial period.[2]</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-size:10pt;font-family:arial"><img src="http://static.panoramio.com/photos/large/3621353.jpg" style="width:242px"></div><div><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/109464?with_photo_id=3621353" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">Ralph Telford</a></font></div></div>]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-63.819538,-18.178963,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>El Paraíso, Peru</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/El_Para%C3%ADso,_Peru" target="_blank">Wikipedia:</a><br><br>El Paraíso (IPA: /el pa.raˈi.so/, "ell pah-rah-EE-so") is the modern name of a Late Preceramic (3500-1800 BC) archaeological site located in the Chillón Valley on the central coast of Peru. The site is situated several kilometers north of Lima, the capital of Peru, in the Ventanilla District in the Province of El Callao. Approximately two kilometers inland on the Rio Chillón flood plain, it is surrounded by over 90 hectares of arable land and 150 hectares of lowlands capable of sustaining irrigation supported agriculture.[1] El Paraíso is one of the largest settlements from this period, encompassing over 58 hectares of land.[2] It is one of six Preceramic sites in the Ancón-Chillón Valley, and just north of other Preceramic and Ceramic sites, such as La Florida, which is situated in the nearby Rimac and Lurin valley river systems [3]). Other major centers from this period include Aspero and Caral on the northern coast in the Supé Valley.[4] Sizable centers can be found in different ecozones, from the coast to inland areas. Stanish[4] concluded that this was a time when settlements were broadly distributed, located at various distances from the coast allowing access to a variety of marine and agricultural resources.[4]</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><img src="http://static.panoramio.com/photos/large/15965147.jpg" style="width:242px"></font></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/2034692?with_photo_id=15965147" rel="author" style="text-decoration:none;line-height:14px;color:rgb(90, 123, 243) !important;background-color:rgb(255, 255, 255)" target="_blank">KmrojasA</a></font></div>]]></description>
+    <styleUrl>#style44</styleUrl>
+    <Point>
+      <coordinates>-77.118362,-11.953827,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>El Tajín</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/El_Tajin" target="_blank">Wikipedia</a><br><br>El Tajín&nbsp;is a&nbsp;pre-Columbian&nbsp;archeological site and one of the largest and most important cities of the&nbsp;Classic era of Mesoamerica. A part of theClassic Veracruz culture, El Tajín flourished from 600 to 1200 C.E. and during this time numerous temples, palaces,&nbsp;ballcourts, and pyramids were built.[1]&nbsp;From the time the city fell, in 1230, to 1785, no European seems to have known of its existence, until a government inspector chanced upon the Pyramid of the Niches.[2]</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><img src="http://static.panoramio.com/photos/large/406134.jpg" style="width:242px"></div><div dir="ltr"><font face="arial, sans-serif" size="1">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/11731?with_photo_id=406134" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">Guillermo Sánchez O.</a></font></div>]]></description>
+    <styleUrl>#style132</styleUrl>
+    <Point>
+      <coordinates>-97.378242,20.448057,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Fortaleza de Humaitá</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Humait%C3%A1" target="_blank">Wikipedia</a><br><br>Ruins of Humaitá. Only a few vestiges survived bombardment by enemy cannons during the war. One of these was San Carlos Borromeo's church. Carlos Antonio López ordered its construction. It was inaugurated on January 1, 1861. At the time, it was considered one of the most beautiful in the&nbsp;Americas.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><img src="http://static.panoramio.com/photos/large/38129241.jpg" style="width:242px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;</font><span style="background-color:rgb(255, 255, 255);color:rgb(90, 123, 243);font-family:arial, sans-serif;font-size:x-small;line-height:14px">Fernando Samaniego</span></div>]]></description>
+    <styleUrl>#style103</styleUrl>
+    <Point>
+      <coordinates>-58.507690,-27.064894,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Fortaleza de San Carlos de la Cabaña</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/La_Caba%C3%B1a" target="_blank">Wikipedia</a><br><br>Fortaleza de San Carlos de la Cabaña, known as&nbsp;La Cabaña&nbsp;(Fort of Saint Charles), is an 18th-century&nbsp;fortress&nbsp;complex, the third biggest in the Americas, located on the elevated eastern side of the harbor entrance in&nbsp;Havana,&nbsp;Cuba. The fort rises above the 200-foot (60 m) hilltop, along with&nbsp;Morro Castle (fortress).</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><img src="http://static.panoramio.com/photos/large/7393260.jpg" style="width:242px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;</font><span style="background-color:rgb(255, 255, 255);color:rgb(51, 51, 51);font-family:arial, sans-serif;font-size:x-small;line-height:14px">IPAAT</span></div>]]></description>
+    <styleUrl>#style33</styleUrl>
+    <Point>
+      <coordinates>-82.349243,23.147257,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Fortín San Juan de la Cruz</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/El_Ca%C3%B1uelo" target="_blank">Wikipedia</a><br>&nbsp;<br>The original fort built on this site in the late 1500s was made of wood. The Fort of San Juan de la Cruz, better known today as El Cañuelo, burned to the ground in 1625 during a&nbsp;Dutch attack. However, the&nbsp;Spaniards replaced it with a stone fort between 1630 and 1660.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13.333333969116211px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Fort%C3%ADn_San_Juan_de_la_Cruz_-_El_Canuelo.jpg/220px-Fort%C3%ADn_San_Juan_de_la_Cruz_-_El_Canuelo.jpg"></div><div style="font-family:arial;font-size:13.333333969116211px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style74</styleUrl>
+    <Point>
+      <coordinates>-66.136391,18.466389,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Garrison Savannah -  &#39;George Washington House&#39;</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Garrison_Historic_Area" target="_blank">Wikipedia</a><br><br>During both the eighteenth and nineteenth centuries the Garrison was the base and headquarters for members of the British&nbsp;West Indies Regiment&nbsp;in Barbados. In 1751, leader of the&nbsp;American Revolution&nbsp;and first president of the&nbsp;United States,&nbsp;George Washington, stayed at the district's Bush Hill section for six weeks with his sick brother. This restored property remains as a fixture at the Garrison where it is simply called the 'George Washington House'.[1]&nbsp;By the middle of the eighteenth century wealthy prominent Barbadians and regiment troops started the sporting tradition of horse racing at the&nbsp;Garrison racetrack.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:10pt"><img src="http://upload.wikimedia.org/wikipedia/commons/b/bb/Main_Guardhouse_Garrison_building_%28bottom%29%2C_Barbados.jpg" style="width:242px"></div><div style="font-family:arial;font-size:10pt"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style94</styleUrl>
+    <Point>
+      <coordinates>-59.606693,13.081947,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Geoglyphs: Boca do Acre</name>
+    <description><![CDATA[<div dir="ltr"><br>&nbsp;</div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-67.176109,-8.720278,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Geogylphs: Cruzeirinho Site</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>-67.253059,-8.843889,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Geogylphs: Mustafa 1 Site</name>
+    <description><![CDATA[<div dir="ltr"><br>&nbsp;</div>]]></description>
+    <styleUrl>#style110</styleUrl>
+    <Point>
+      <coordinates>-67.244743,-8.876358,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Geoglyphs: Duplo</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style116</styleUrl>
+    <Point>
+      <coordinates>-67.598022,-9.932900,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Historic Centre (Salvador, Bahia)</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Historic_Centre_(Neighborhood)" target="_blank">Wikipedia</a><br>&nbsp;<br>The Historic Centre of Salvador da Bahia, frequently called the Pelourinho, is extremely rich in historical monuments dating from the 17th through the 19th centuries. Salvador was the first colonial capital of Brazil and the city is one of the oldest in the&nbsp;New World&nbsp;(founded in 1549 by Portuguese settlers). It was also the first slave market on the continent, with slaves arriving to work on the sugar plantations.[1]</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:10pt"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Salvador-CCBY-2.jpg/800px-Salvador-CCBY-2.jpg" style="width:242px"></div><div style="font-family:arial;font-size:13.333333969116211px"><font face="arial, sans-serif" size="1">Wikipedia Commons</font></div></div>]]></description>
+    <styleUrl>#style120</styleUrl>
+    <Point>
+      <coordinates>-38.508450,-12.971702,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hospicio Cabañas</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Hospicio_Caba%C3%B1as,_Guadalajara" target="_blank">Wikipedia</a><br>&nbsp;<br>The complex was founded in 1791 by the&nbsp;Bishop of Guadalajara&nbsp;in order to combine the functions of a&nbsp;workhouse,&nbsp;hospital,&nbsp;orphanage, and almshouse. It owes its name to&nbsp;Juan Ruiz de Cabañas&nbsp;who was appointed to the&nbsp;see&nbsp;of Guadalajara in 1796 and engaged&nbsp;Manuel Tolsá, a renowned architect from&nbsp;Mexico City, to design the structure.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13.333333969116211px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Hospicio_cabanas_1.jpg/300px-Hospicio_cabanas_1.jpg" style="width:242px"></div><div style="font-family:arial;font-size:13.333333969116211px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-103.337639,20.676888,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Humberstone and Santa Laura Saltpeter Works</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif">Wikipedia&nbsp;<br>&nbsp;<br>In 1872, the Guillermo Wendell Nitrate Extraction Company founded the saltpeter works of Santa Laura, while the region was still a part of Peru. In the same year,&nbsp;James Thomas Humberstone&nbsp;founded the "Peru Nitrate Company", establishing the works of "La Palma". Both works grew quickly, becoming busy towns characterized by lovely buildings in the English style.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:10pt"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Humberstone.jpg/300px-Humberstone.jpg" style="width:242px"></div><div style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><span style="line-height:11.500000953674316px">Wikipedia Commons</span>&nbsp;</font></div></div>]]></description>
+    <styleUrl>#style42</styleUrl>
+    <Point>
+      <coordinates>-69.797798,-20.204344,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Huaca del Sol</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Huaca_del_Sol" target="_blank">Wikipedia</a><br>&nbsp;<br>The&nbsp;Huaca del Sol&nbsp;is an&nbsp;adobe&nbsp;brick temple built by the&nbsp;Moche&nbsp;civilization (100 CE to 800 CE) on the northern coast of what is now&nbsp;Peru. The temple is one of several ruins found near the volcanic peak of&nbsp;Cerro Blanco, in the coastal desert near&nbsp;Trujillo&nbsp;at the Moche Valley. The other major ruin at the site is the nearby&nbsp;Huaca de la Luna, a better-preserved but smaller temple.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><img src="http://static.panoramio.com/photos/large/8288609.jpg" style="width:242px"></div><div dir="ltr"><font face="arial, sans-serif" size="1">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/1462846?with_photo_id=8288609" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">PANCHOSKY</a></font></div>]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>-78.994919,-8.132016,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Huaca Pucllana</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Huaca_Pucllana" target="_blank">Wikipedia</a><br>&nbsp;<br>The&nbsp;Huaca Pucllana, also&nbsp;Pucllana&nbsp;or&nbsp;Huaca Juliana,[1]&nbsp;is a great&nbsp;adobe&nbsp;and clay&nbsp;pyramid&nbsp;located in the&nbsp;Miraflores district&nbsp;of central&nbsp;Lima,&nbsp;Peru, built from seven staggered platforms. It takes its name from the&nbsp;Quechua&nbsp;word “pucllay,” meaning “game,” which in its entirety can be translated as “a place for ritual games.” It served as an important ceremonial and administrative center for the advancement of the&nbsp;Lima Culture, a society which developed in the Peruvian Central Coast between the years of 200 AD and 700 AD.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><img src="http://static.panoramio.com/photos/large/38012252.jpg" style="width:242px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/3608052?with_photo_id=38012252" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank"><font>Omar Gobbi</font></a></font></div>]]></description>
+    <styleUrl>#style97</styleUrl>
+    <Point>
+      <coordinates>-77.033730,-12.111166,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Huanchaca</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif">southamericanpictures.com<br><br>In the late 19th century the mine at Pulacayo&nbsp;near Uyuni in the southern highlands of Bolivia was second only to Broken Hill in Australia for silver production and made a fortune for its owners.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><img src="http://static.panoramio.com/photos/large/26869.jpg" style="width:242px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;</font><span style="background-color:rgb(255, 255, 255);color:rgb(90, 123, 243);font-family:arial, sans-serif;font-size:x-small;line-height:14px;text-decoration:underline">Fernando Varas Van D…</span></div>]]></description>
+    <styleUrl>#style45</styleUrl>
+    <Point>
+      <coordinates>-70.411263,-23.685772,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ingapirca</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Ingapirca" target="_blank">Wikipedia</a><br>&nbsp;<br>These are the largest known Inca ruins in Ecuador. The most significant building is the temple of the sun, an elliptically shaped building constructed around a large rock. The building is constructed in the Inca way without mortar in most of the complex. The stones were carefully chiseled and fashioned to fit together perfectly. The temple of the sun was positioned so that on the&nbsp;solstices, at exactly the right time of day, sunlight would fall through the center of the doorway of the small chamber at the top of the temple. Most of this chamber has fallen down.</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13.333333969116211px"><img src="http://static.panoramio.com/photos/large/5886440.jpg" style="width:242px"></div><div><font size="1" face="arial, sans-serif"><span style="line-height:11px">Google Map / Panoramio /&nbsp;</span></font><span style="font-family:arial, sans-serif;font-size:x-small;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243);line-height:14px">Lightly</span></div></div>]]></description>
+    <styleUrl>#style123</styleUrl>
+    <Point>
+      <coordinates>-78.871880,-2.548588,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Iglesia del Sagrario (Old Cathedral)</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Old_Cathedral_of_Cuenca" target="_blank">Wikipedia</a><br>&nbsp;<br>Planning for the church started in 1557 and construction began ten years later, using stones for the foundation and walls from the ruins of&nbsp;Tomebamba.[1] During the colonial period the church was the main center of worship for the "Parish of the Spaniards"; it was reserved for the people from Spain, while indigenous people had to stay outside or worship elsewhere.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13.333333969116211px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/44/OldCathedral.Cuenca.JPG/250px-OldCathedral.Cuenca.JPG" style="width:242px"></div><div style="font-family:arial;font-size:13.333333969116211px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style69</styleUrl>
+    <Point>
+      <coordinates>-79.003845,-2.897880,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Incallajta </name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Incallajta" target="_blank">Wikipedia</a><br>&nbsp;<br>Inkallaqta&nbsp;(Quechua&nbsp;inka&nbsp;Inca,&nbsp;llaqta&nbsp;place (village, town, city, country, nation),[1]&nbsp;"Inca place", hispanicized spellings&nbsp;Incallacta, Incallajta, Incallakta, Inkallajta, Inkallakta) is a monumental&nbsp;Inca&nbsp;site in central&nbsp;Bolivia.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13.333333969116211px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Incallajta.jpg/220px-Incallajta.jpg"></div><div style="font-family:arial;font-size:13.333333969116211px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style87</styleUrl>
+    <Point>
+      <coordinates>-65.357239,-17.582952,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Iznaga Tower</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Valley_de_los_Ingenios#Overview" target="_blank">Wikipedia</a><br><br>In 1988, Valle de los Ingenios and neighbouring Trinidad were declared a World Heritage Site by&nbsp;UNESCO. Although most of the sugar mills are in ruins, intact structures endure at some sites, including Guachinango, where the plantation house remains, and the plantation of&nbsp;Manaca Iznaga, where the owner's house, a tower and some&nbsp;barracones, the original slave quarters, still stand. Although the&nbsp;barracones&nbsp;are now used as housing and are in poor repair, the house (which has been converted into a restaurant) and the "Iznaga Tower" are well maintained. The 45&nbsp;metre (147&nbsp;ft) tower was constructed sometime in 1816 by the owner, Alejo Maria Iznaga y Borrell.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13.333333969116211px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Manaca_ignaza_torre.jpg/66px-Manaca_ignaza_torre.jpg"></div><div style="font-family:arial;font-size:13.333333969116211px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>-79.866768,21.842455,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ixtlán del Rio</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Ixtl%C3%A1n_del_Rio_(archaeological_site)#The_Site" target="_blank">Wikipedia</a><br><br>It had its heyday as a city during the "Aztatlán Tradition" period, in an area extended over eighty hectares. In the late phase, that corresponds to the period from 1110 to 1525 CE, had artistic red smooth ceramic expressions for home use, vessels and&nbsp;molcajetes&nbsp;tripods with white decor on red. This same period developed the metallurgy used to produce ornamental, ritual objects and obsidian bifacial instruments. On slopes they built extensive terraces, palaces, worship spaces, people’s homes, farmland areas and obsidian carving workshops.[2]</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:10pt"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ixtlan.jpg/300px-Ixtlan.jpg" style="width:242px"></div><div style="font-family:arial;font-size:10pt"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style128</styleUrl>
+    <Point>
+      <coordinates>-104.344719,21.039722,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jesús and Trinidad Jesuit Ruins</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Jes%C3%BAs_and_Trinidad_Jesuit_Ruins" target="_blank">Wikipedia</a><br>&nbsp;<br>The&nbsp;Jesuit Missions of&nbsp;La Santísima Trinidad de Paraná&nbsp;and&nbsp;Jesús de Tavarangue&nbsp;(Spanish:&nbsp;Misiones Jesuíticas de La Santísima Trinidad de Paraná y Jesús de Tavarangue) are located in the&nbsp;Itapúa Department,&nbsp;Paraguay, and are religious mission that are sill preserved and that were founded by the Jesuit missioners during the colonization of&nbsp;South America&nbsp;in the 17th century. These religious missions were created in 1609 and developed for 150 years. Both Jesuit missions were declared World Heritage Site by the&nbsp;UNESCO&nbsp;in 1993.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13.333333969116211px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ruinas_de_Jes%C3%BAs.jpg/350px-Ruinas_de_Jes%C3%BAs.jpg" style="width:242px"></div><div style="font-family:arial;font-size:13.333333969116211px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-55.753040,-27.055704,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Jesuit Block and Estancias of Córdoba</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Jesuit_Block_and_Estancias_of_C%C3%B3rdoba" target="_blank">Wikipedia</a><br><br>The&nbsp;Manzana Jesuítica&nbsp;contains the&nbsp;University of Córdoba, one of the oldest in&nbsp;South America, the Monserrat Secondary School, a church, and residence buildings. To maintain such a project, the Jesuits operated six&nbsp;Estancias&nbsp;(residences) around the&nbsp;province&nbsp;of&nbsp;Córdoba, named Caroya,&nbsp;Jesús María, Santa Catalina,&nbsp;Alta Gracia, Candelaria and San Ignacio.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br>The farm and the complex, started in 1615, had to be left by the Jesuits, following the&nbsp;1767 decree&nbsp;by King&nbsp;Charles III of Spain&nbsp;that expelled them from the continent. They were then run by the&nbsp;Franciscans&nbsp;until 1853, when the Jesuits returned to&nbsp;The Americas. Nevertheless, the university and the high-school were nationalized a year later.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13.333333969116211px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/AltaGracia.jpg/300px-AltaGracia.jpg" style="width:242px"></div><div style="font-family:arial;font-size:13.333333969116211px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>-64.434662,-31.657692,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kuelap</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Kuelap" target="_blank">Wikipedia</a><br><br>The fortress of&nbsp;Kuelap&nbsp;or Cuélap (Chachapoyas, Amazonas, Perú), associated with the&nbsp;Chachapoyas culture, consists of massive exterior stone walls containing more than four hundred buildings. The structure, situated on a ridge overlooking the Utcubamba Valley in northern&nbsp;Peru, is roughly 600 meters in length and 110 meters in width. It could have been built to defend against the&nbsp;Huari&nbsp;or other hostile peoples. However, evidence of these hostile groups at the site is minimal.&nbsp;Radiocarbon dating&nbsp;samples show that construction of the structures started in the 6th century AD and occupied until the Early Colonial period (1532-1570).</font><span style="font-family:arial, sans-serif;font-size:x-small">&nbsp;However, through the pre-Columbian, conquest and colonial periods we have only four brief references to Kuelap. In lieu of newly discovered documents, there exists no other testimony concerning the site until 1843.</span></div><div dir="ltr"><span style="font-family:arial, sans-serif;font-size:x-small"><br></span></div><div dir="ltr"><div style="font-family:arial;font-size:13.333333969116211px"><font size="1" face="arial, sans-serif"><img src="http://upload.wikimedia.org/wikipedia/commons/3/38/Ruins_of_Kuelap.jpg" style="width:242px"></font></div><div style="font-family:arial;font-size:13.333333969116211px"><p><font size="1" face="arial, sans-serif"><span style="line-height:11.500000953674316px">Wikipedia Commons</span></font></p></div></div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>-77.923355,-6.418620,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kuntur Wassi</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Kuntur_Wasi" target="_blank">Wikipedia</a><br><br>Kuntur Wasi is thought to have been constructed around 1000-700&nbsp;BCE, during the Initial Period. The architecture consists of a hill-top temple, quadrangular platforms, a sunken courtyard, and series of rooms.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><img src="http://static.panoramio.com/photos/large/102261308.jpg" style="width:242px"></div><div dir="ltr"><font face="arial, sans-serif" size="1">Google Map / Panoramio /&nbsp;</font><span style="font-family:arial, sans-serif;font-size:x-small;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243);line-height:14px">Raúl Burgos</span></div>]]></description>
+    <styleUrl>#style109</styleUrl>
+    <Point>
+      <coordinates>-78.846245,-7.128733,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>La Fortaleza</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/La_Fortaleza" target="_blank">Wikipedia</a><br><br>La Fortaleza&nbsp;(The Fortress) is the current&nbsp;official residence&nbsp;of the&nbsp;Governor of Puerto Rico. It was built between 1533 and 1540 to defend the harbor ofSan Juan. The structure is also known as&nbsp;Palacio de Santa Catalina&nbsp;(Santa Catalina's Palace). It is the oldest executive mansion in continuous use in the&nbsp;New World. It was listed by&nbsp;UNESCO&nbsp;in 1983 as part of the&nbsp;World Heritage Site&nbsp;"La Fortaleza and&nbsp;San Juan National Historic Site".</font></div><div dir="ltr"><br>&nbsp;</div><div dir="ltr"><div style="font-family:arial;font-size:13.333333969116211px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/LaFortaleza_SanJuan_PuertoRico.jpg/220px-LaFortaleza_SanJuan_PuertoRico.jpg"></div><div style="font-family:arial;font-size:13.333333969116211px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>-66.119347,18.464153,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>La Venta</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/La_Venta" target="_blank">Wikipedia</a><br><br>La Venta&nbsp;is a&nbsp;pre-Columbian&nbsp;archaeological site&nbsp;of the&nbsp;Olmec&nbsp;civilization located in the present-day&nbsp;Mexican&nbsp;state of Tabasco. Some of the artifacts have been moved to the museum&nbsp;"Parque - Museo de La Venta", which is in nearby&nbsp;Villahermosa, the capital of Tabasco.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:10pt"><img src="http://static.panoramio.com/photos/large/22076529.jpg" style="width:242px"></div><div style="font-family:arial;font-size:13.333333969116211px"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<span style="color:rgb(51, 51, 51);line-height:14px;background-color:rgb(255, 255, 255)">Rare_77</span></font></div></div>]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-94.040939,18.103218,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lamanai</name>
+    <description><![CDATA[<div dir="ltr"><font face="arial, sans-serif" size="1"><a href="http://en.wikipedia.org/wiki/Lamanai" target="_blank">Wikipedia</a><br>&nbsp;<br>Lamanai was occupied as early as the 16th century BC.[1]&nbsp;The site became a prominent centre in the&nbsp;Pre-Classic Period, from the 4th century BC through the 1st century CE. In 625 CE, "Stele 9" was erected there in the Yucatec language of the&nbsp;Maya.&nbsp;[2]&nbsp;Lamanai continued to be occupied up to the 17th century AD. During the&nbsp;Spanish conquest of Yucatán&nbsp;Spanish friars established two&nbsp;Roman Catholic&nbsp;churches here, but a Maya revolt drove the Spanish out.[1]&nbsp;The site was subsequently incorporated by the British in British Honduras, passing with that colony's independence to Belize.</font></div><div dir="ltr">&nbsp;</div><div dir="ltr"><div dir="ltr" style="font-family:arial;font-size:13.333333969116211px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Templeofthejaguar.jpg/190px-Templeofthejaguar.jpg"></div><div dir="ltr" style="font-family:arial;font-size:13.333333969116211px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style68</styleUrl>
+    <Point>
+      <coordinates>-88.652267,17.764299,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>La Merced Church</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/La_Merced_Church" target="_blank">Wikipedia</a><br><br>The&nbsp;Mercedarians&nbsp;were the first to establish a male monastery at the former Santiago de Guatemala.[1]&nbsp;The cross in stone at the atrium and the rooms behind the main altar are the oldest structures in La Merced and date from the seventeenth century. In 1749 Juan de Dios Estrada was commissioned with the construction of the luxurious sanctuary and cloister. He erected a building of low height designed to withstand earthquakes based on the experiences of the tremor of 1751. Arches and columns are wider to cope with the quakes. It was opened in 1767.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:10pt"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Nuestra_Se%C3%B1ora_de_la_Merced_2009.JPG/220px-Nuestra_Se%C3%B1ora_de_la_Merced_2009.JPG"></div><div style="font-family:arial;font-size:10pt"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style104</styleUrl>
+    <Point>
+      <coordinates>-90.734337,14.561757,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>La Recolección Architectural Complex</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/La_Recolecci%C3%B3n_Architectural_Complex" target="_blank">Wikipedia</a><br><br>In 1685 two missionaries of the friars of the Recollects arrived, and, with more friars arriving in subsequent years, the City Council was asked for permission to build a monastery. In their 1695 report, the City Council opined that not enough friars were there to support this enterprise and that already enough monasteries been established. Nevertheless, in 1700 a royal decree was issued for the building of the monastery.[1]In 1701 construction of buildings commenced, followed six years later by the laying of the cornerstone for the Church itself. In 1708 the cloisters, library, and infirmary were completed. The church was inaugurated on May 23, 1717.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13.333333969116211px"><img src="http://static.panoramio.com/photos/large/65838941.jpg" style="width:242px"></div><div><span style="line-height:11px"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;</font></span><span style="background-color:rgb(255, 255, 255);color:rgb(90, 123, 243);font-family:arial, sans-serif;font-size:x-small;line-height:14px">powermeerkat</span></div></div>]]></description>
+    <styleUrl>#style133</styleUrl>
+    <Point>
+      <coordinates>-90.741295,14.560386,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lasana Ruins</name>
+    <description><![CDATA[<font size="2" style="font-family:arial"><span style="width:242px"><img src="http://static.panoramio.com/photos/large/39420353.jpg" style="width:242px"></span></font><div><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/4690147?with_photo_id=39420353" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">deglobalnomad</a></font></div>]]></description>
+    <styleUrl>#style47</styleUrl>
+    <Point>
+      <coordinates>-68.646049,-22.310627,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>León Viejo</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Le%C3%B3n_Viejo" target="_blank">Wikipedia</a><br><br>León Viejo&nbsp;is a&nbsp;World Heritage Site&nbsp;in&nbsp;Nicaragua. It was the original location of&nbsp;León. It is the present location of the town of Puerto Momotombo in the Municipality of La Paz Centro of the&nbsp;Department of León. It is administered by the Instituto Nicaragüens</font><span style="font-family:arial, sans-serif;font-size:x-small">e de Cultura (Nicaraguan Institute of Culture).</span></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><font size="1" face="arial, sans-serif">León Viejo was founded on June 15, 1524 by the&nbsp;Spanish&nbsp;conquistador,&nbsp;Francisco Hernández de Córdoba, who was decapitated at the town's Plaza Mayor (Main Square) in 1526 by governor&nbsp;Pedrarias Dávila, his Lieutenant.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13.333333969116211px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Ruinas_leon_viejo36.jpg/250px-Ruinas_leon_viejo36.jpg" style="width:242px"></div><div style="font-family:arial;font-size:13.333333969116211px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style54</styleUrl>
+    <Point>
+      <coordinates>-86.617294,12.400349,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Machu Picchu</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Machu_Picchu" target="_blank">Wikipedia</a><br>&nbsp;<br>Machu Picchu&nbsp;(in hispanicized spelling,&nbsp;Spanish pronunciation:&nbsp;[ˈmatʃu ˈpiktʃu]) or&nbsp;Machu Pikchu&nbsp;(Quechua&nbsp;machu&nbsp;old, old person,&nbsp;pikchu&nbsp;peak; mountain or prominence with a broad base which ends in sharp peaks,[1]&nbsp;"old peak", pronunciation&nbsp;[ˈmɑtʃu ˈpixtʃu]) is a 15th-century&nbsp;Inca&nbsp;site located 2,430 metres (7,970&nbsp;ft)&nbsp;above sea level.[2][3]</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:10pt"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/01/80_-_Machu_Picchu_-_Juin_2009_-_edit.2.jpg/614px-80_-_Machu_Picchu_-_Juin_2009_-_edit.2.jpg" style="width:242px"></div><div style="font-family:arial;font-size:13.333333969116211px"><font face="arial, sans-serif" size="1">Wikipedia Commons</font></div></div>]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>-72.545555,-13.163056,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Monte Albán</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Monte_Alb%C3%A1n" target="_blank">Wikipedia</a><br>&nbsp;<br>Besides being one of the earliest cities of&nbsp;Mesoamerica, Monte Albán's importance stems also from its role as the pre-eminent&nbsp;Zapotec&nbsp;socio-political and economic center for close to a thousand years. Founded toward the end of the Middle Formative period at around 500 BC, by the Terminal Formative (ca.100 BC-AD 200) Monte Albán had become the capital of a large-scale expansionist&nbsp;polity&nbsp;that dominated much of the Oaxacan highlands and interacted with other Mesoamerican regional states such as&nbsp;Teotihuacan&nbsp;to the north (Paddock 1983; Marcus 1983). The city had lost its political pre-eminence by the end of the Late Classic (ca. AD 500-750) and soon thereafter was largely abandoned. Small-scale reoccupation, opportunistic reutilization of earlier structures and tombs, and ritual visitations marked the archaeological history of the site into the Colonial period.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13.333333969116211px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Monte_Alban_West_Side_Platform.jpg/250px-Monte_Alban_West_Side_Platform.jpg" style="width:242px"></div><div style="font-family:arial;font-size:13.333333969116211px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style117</styleUrl>
+    <Point>
+      <coordinates>-96.768402,17.042587,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Morelia Cathedral</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Cathedral_of_Morelia" target="_blank">Wikipedia</a><br><br>Work began on the&nbsp;cathedral&nbsp;on 6 August 1660, and it was completed 84 years later, in 1744. On Saturday nights at 8 p.m., a spectacle including fireworks and music takes places. It is a wonderful view especially on the night of September 15 when the governor of Michoacan gives his annual Grito de Independencia.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:10pt"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Catedral_of_morelia.JPG/220px-Catedral_of_morelia.JPG"></div><div style="font-family:arial;font-size:10pt"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style112</styleUrl>
+    <Point>
+      <coordinates>-101.192413,19.702318,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nazca Lines</name>
+    <description><![CDATA[<div dir="ltr"><a href="http://en.wikipedia.org/wiki/Nazca_Lines" style="font-family:arial, sans-serif;font-size:x-small" target="_blank">Wikipedia</a><br style="font-family:arial, sans-serif;font-size:x-small"><span style="font-family:arial, sans-serif;font-size:x-small">&nbsp;</span><br style="font-family:arial, sans-serif;font-size:x-small"><span style="font-family:arial, sans-serif;font-size:x-small">The&nbsp;Nazca Lines&nbsp;/ˈnæzkə/&nbsp;are a series of ancient&nbsp;geoglyphs&nbsp;located in the&nbsp;Nazca Desert&nbsp;in southern&nbsp;Peru. They were designated as a&nbsp;UNESCOWorld Heritage Site&nbsp;in 1994. The high, arid plateau stretches more than 80 kilometres (50&nbsp;mi) between the towns of&nbsp;Nazca&nbsp;and&nbsp;Palpa&nbsp;on thePampas&nbsp;de Jumana&nbsp;about 400&nbsp;km south of&nbsp;Lima. Although some local geoglyphs resemble&nbsp;Paracas motifs, scholars believe the Nazca Lines were created by the&nbsp;Nazca culture&nbsp;between 400 and 650 AD.[1]&nbsp;The hundreds of individual figures range in complexity from simple lines to stylized&nbsp;hummingbirds,&nbsp;spiders,&nbsp;monkeys,&nbsp;fish,&nbsp;sharks,&nbsp;orcas, and&nbsp;lizards.</span></div>]]></description>
+    <styleUrl>#style46</styleUrl>
+    <Point>
+      <coordinates>-75.177414,-14.695932,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nazca Lines - Arbol</name>
+    <description><![CDATA[<div dir="ltr"><br>&nbsp;</div>]]></description>
+    <styleUrl>#style71</styleUrl>
+    <Point>
+      <coordinates>-75.114639,-14.693794,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nazca Lines - Flamingo</name>
+    <description><![CDATA[<div dir="ltr"><br>&nbsp;</div>]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>-75.100395,-14.680167,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nazca Lines - Huron</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt">&nbsp;<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Lignes_de_Nazca_oiseau.jpg/800px-Lignes_de_Nazca_oiseau.jpg" style="font-size:10pt;width:244px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Wikipedia Commons /&nbsp;<a href="http://commons.wikimedia.org/w/index.php?title=User:Marcito&amp;action=edit&amp;redlink=1" title="User:Marcito (page does not exist)" style="text-decoration:none;color:rgb(165, 88, 88);background-color:rgb(249, 249, 249);line-height:19.19999885559082px" target="_blank">Marcito</a></font></div>]]></description>
+    <styleUrl>#style101</styleUrl>
+    <Point>
+      <coordinates>-75.126213,-14.697400,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nazca Lines - Loro</name>
+    <description><![CDATA[<br>]]></description>
+    <styleUrl>#style121</styleUrl>
+    <Point>
+      <coordinates>-75.107864,-14.689661,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nazca Lines - Monkey</name>
+    <description><![CDATA[<div>&nbsp;<img src="http://upload.wikimedia.org/wikipedia/commons/3/3b/Nazca_monkey.jpg" style="width:242px"></div><div><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div>]]></description>
+    <styleUrl>#style58</styleUrl>
+    <Point>
+      <coordinates>-75.138184,-14.706675,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nazca Lines - Pelican</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nazca-lineas-pelicano-c01.jpg/800px-Nazca-lineas-pelicano-c01.jpg" style="width:244px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Wikipedia Commons</font></div><div dir="ltr" style="font-family:arial;font-size:10pt">&nbsp;</div>]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>-75.111160,-14.685548,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nazca Lines -Spider</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style43</styleUrl>
+    <Point>
+      <coordinates>-75.122383,-14.694173,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nazca Lines - Spiral</name>
+    <description><![CDATA[<br>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-75.123192,-14.688133,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ollantaytambo</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Ollantaytambo" target="_blank">Wikipedia</a><br><br>During the&nbsp;Inca Empire, Ollantaytambo was the royal estate of Emperor&nbsp;Pachacuti&nbsp;who conquered the region, built the town and a ceremonial center. At the time of the&nbsp;Spanish conquest of Peru&nbsp;it served as a stronghold for&nbsp;Manco Inca Yupanqui, leader of the Inca resistance. Nowadays it is an important tourist attraction on account of its Inca buildings and as one of the most common starting points for the three-day, four-night hike known as the&nbsp;Inca Trail.</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><img src="http://static.panoramio.com/photos/large/30741889.jpg" style="width:244px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/4029841?with_photo_id=30741889" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">FLACO KNIGHT</a></font></div>]]></description>
+    <styleUrl>#style98</styleUrl>
+    <Point>
+      <coordinates>-72.267197,-13.256905,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Other Pyramids</name>
+    <description><![CDATA[<a href="http://myreadingmapped.blogspot.com/2011/04/view-interactive-map-on-mayan-vs.html" target="_blank">Click here to see the other pyramids.</a>]]></description>
+    <styleUrl>#style130</styleUrl>
+    <Point>
+      <coordinates>-89.912109,17.382095,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pachacámac</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Pachacamac" target="_blank">Wikipedia</a><br><br>The temple of&nbsp;Pachacamac&nbsp;is an&nbsp;archaeological&nbsp;site 40&nbsp;km southeast of&nbsp;Lima,&nbsp;Peru&nbsp;in the Valley of the&nbsp;Lurín River. Most of the common buildings and temples were built c. 800-1450 CE, shortly before the arrival and conquest by the&nbsp;Inca Empire.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:10pt"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Pachacamac.jpg/250px-Pachacamac.jpg" style="width:242px"></div><div style="font-family:arial;font-size:10pt"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style115</styleUrl>
+    <Point>
+      <coordinates>-76.900963,-12.256382,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Palenque </name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Palenque" target="_blank">Wikipedia</a><br><br>Palenque (Bàak'[pronunciation?] in Modern Maya) was a Maya city state in southern Mexico that flourished in the 7th century. The Palenque ruins date back to 226 BC to around 799 AD. After its decline, it was absorbed into the jungle, which is made up of cedar, mahogany, and sapodilla trees,[1] but has been excavated and restored and is now a famous archaeological site attracting thousands of visitors. </font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><img src="http://upload.wikimedia.org/wikipedia/commons/0/01/Temple_of_the_Inscriptions.jpg" style="width:244px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Wikipedia Commons /&nbsp;<a href="http://commons.wikimedia.org/w/index.php?title=User:Ricraider&amp;action=edit&amp;redlink=1" title="User:Ricraider (page does not exist)" style="text-decoration:none;color:rgb(165, 88, 88);background-color:rgb(249, 249, 249);line-height:19.19999885559082px" target="_blank">Ricraider</a></font></div>]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>-92.046623,17.483999,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Panamá Viejo</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Panam%C3%A1_Viejo" target="_blank">Wikipedia</a><br>&nbsp;<br>A settlement was founded on 15 August 1519 by Pedro Arias Dávila and other 100 inhabitants. At the time, it was the first permanent European settlement on the&nbsp;Pacific Ocean, replacing the two cities of Santa María la Antigüa del Darién and Acla. Two years later, in 1521, the settlement was promoted to the status of city by a royal decree and was given a&nbsp;coat of arms&nbsp;by&nbsp;Charles V of Spain, forming a new&nbsp;cabildo. Shortly after its creation the city became a starting point for various expeditions in&nbsp;Peru&nbsp;and an important base where&nbsp;gold&nbsp;and&nbsp;silver&nbsp;were sent to&nbsp;Spain.</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13px"><img src="http://static.panoramio.com/photos/large/57962708.jpg" style="width:244px"></div><div><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/3646749?with_photo_id=57962708" rel="author" style="color:rgb(90, 123, 243);text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255)" target="_blank">davidzubizarreta</a></font></div></div>]]></description>
+    <styleUrl>#style122</styleUrl>
+    <Point>
+      <coordinates>-79.485329,9.006767,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Paramaribo</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Paramaribo#History" target="_blank">Wikipedia</a><br><br>The area, a trading post started by the Dutch, was taken by the English in 1630, and in 1650 the city became the capital of the new English colony. The area changed hands often between the English and Dutch but it was in Dutch hands again in 1667 and under Dutch rule from 1815 until the independence of Suriname&nbsp;in 1975.</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13px"><img src="http://static.panoramio.com/photos/large/5542100.jpg" style="width:244px"></div><div><font size="1" face="arial, sans-serif"><span style="line-height:11px">Google Map /&nbsp;</span><a href="http://www.panoramio.com/user/1037593?with_photo_id=5542100" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">peacemaker453354</a></font></div></div>]]></description>
+    <styleUrl>#style41</styleUrl>
+    <Point>
+      <coordinates>-55.151905,5.825392,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Palacio de La Moneda</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/La_Moneda_Palace" target="_blank">Wikipedia</a><br>&nbsp;<br>La Moneda, originally a colonial&nbsp;mint&nbsp;(moneda&nbsp;means coin), was designed by&nbsp;Italian&nbsp;architect&nbsp;Joaquín Toesca.[1]&nbsp;Construction began in 1784 and was opened in 1805,[1]&nbsp;while still under construction. The production of coins in Chile took place at La Moneda from 1814 to 1929.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13px"><img src="http://upload.wikimedia.org/wikipedia/en/0/04/La_Moneda_2.jpg" style="width:242px"></div><div style="font-family:arial;font-size:13px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style64</styleUrl>
+    <Point>
+      <coordinates>-70.653870,-33.443020,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Paracas Candelabra</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Paracas_Candelabra" target="_blank">Wikipedia</a><br><br>The&nbsp;Paracas Candelabra, also called the&nbsp;Candelabra of the Andes, is a well-known prehistoric&nbsp;geoglyph&nbsp;found on the northern face of the Paracas Peninsula&nbsp;at&nbsp;Pisco Bay&nbsp;in&nbsp;Peru. Pottery found nearby has been&nbsp;radio carbon dated&nbsp;to 200&nbsp;BCE, the time of the&nbsp;Paracas culture. The design is cut two feet into the soil, with stones possibly from a later date placed around it. The figure is 595 feet tall, large enough to be seen 12 miles at sea.[1]</font></div><div dir="ltr">&nbsp;</div><div dir="ltr"><div style="font-family:arial;font-size:13px"><font size="1" face="arial, sans-serif"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Candelabro_de_Paracas.jpg/800px-Candelabro_de_Paracas.jpg" style="width:242px"></font></div><div style="font-family:arial;font-size:13px"><font size="1" face="arial, sans-serif">Wikipedia Commons /&nbsp;<a rel="nofollow" href="http://www.flickr.com/photos/brunogirin/" style="text-decoration:none;color:rgb(102, 51, 102);background-color:rgb(255, 255, 255);padding-right:13px;line-height:19.1875px" target="_blank">Bruno Girin</a></font></div></div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-76.308701,-13.794583,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Paramonga</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Paramonga" target="_blank">Wikipedia</a><br>&nbsp;<br>Paramonga&nbsp;was an important city constructed at the border of the former&nbsp;Kingdom of Chimor&nbsp;in&nbsp;Peru&nbsp;during the late Intermediate Period (1200 to 1400AD), whose capital was the metropolis of&nbsp;Chan Chan.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><img src="http://static.panoramio.com/photos/large/64174730.jpg" style="width:244px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;</font><span style="background-color:rgb(255, 255, 255);color:rgb(90, 123, 243);font-family:arial, sans-serif;font-size:x-small;line-height:14px">kurt c</span></div>]]></description>
+    <styleUrl>#style106</styleUrl>
+    <Point>
+      <coordinates>-77.841194,-10.653111,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pisac</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Pisac" target="_blank">Wikipedia</a><br><br>According to the scholar Kim MacQuarrie, Pachacuti erected a number of royal estates to memorialize victories over other ethnic groups. Among these royal estates are Písac (victory over the Cuyos), Ollantaytambo (victory over the Tambos), and Machu Picchu (conquest of the Vilcabamba Valley).[6]&nbsp;Other historians suggest that Písac was established to protect Cusco from possible attacks of the Antis nations. It is unknown when Inca Písac was built. Since it does not appear to have been inhabited by any pre-Inca civilization, it was most likely built no earlier than 1440.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:10pt"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Sun_Temple_at_Pisac%2C_Peru.jpg/220px-Sun_Temple_at_Pisac%2C_Peru.jpg"></div><div style="font-family:arial;font-size:10pt"><font face="arial, sans-serif" size="1"><span style="line-height:11.5px">Wikipedia Commons</span></font></div></div>]]></description>
+    <styleUrl>#style72</styleUrl>
+    <Point>
+      <coordinates>-71.844048,-13.414310,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pucará de Tilcara</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Pucar%C3%A1_de_Tilcara" target="_blank">Wikipedia</a><br>&nbsp;<br>Traces of human habitation in the area date back more than 10,000 years. The fortified town was originally built by the Omaguaca tribe,[2]&nbsp;who settled in the area around the 12th century. Experts in agriculture, weaving and pottery, they were also renowned warriors. During their time, the pucará served as an important administrative and military center.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Pucar%C3%A1_de_Tilcara_01.JPG/220px-Pucar%C3%A1_de_Tilcara_01.JPG"></div><div style="font-family:arial;font-size:13px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style53</styleUrl>
+    <Point>
+      <coordinates>-65.403481,-23.586042,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pucara de La Compañia</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Pucar%C3%A1_de_La_Compa%C3%B1%C3%ADa" target="_blank">Wikipedia</a><br>&nbsp;<br>Pukara&nbsp;de La Compañia, is an archaeological site containing the remains of a&nbsp;promaucae&nbsp;fortress, later used by the&nbsp;Incas, located on the large hill overlooking the village of La Compañia, a village in the commune of&nbsp;Graneros, Chile. It is noteworthy as being the southernmost building which remains of the&nbsp;Inca Empire.[1]&nbsp;As such it is an important landmark on what's known as "The Chilean Inca Trail", and has been declared a&nbsp;National Monument&nbsp;by the Chilean government.<br><br></font><img src="http://static.panoramio.com/photos/large/88714456.jpg" style="width:244px"><font size="1" face="arial, sans-serif"><br>Google Map / Panoramio /&nbsp;</font><a href="http://www.panoramio.com/user/5331160?with_photo_id=88714456" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank"><font size="1" face="arial, sans-serif">Kmilorio</font></a></div>]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>-70.682961,-34.068108,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Puca Pucara</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Puca_Pucara" target="_blank">Wikipedia</a><br><br>Puka Pukara[1][2]&nbsp;(Quechua&nbsp;puka&nbsp;red,&nbsp;pukara&nbsp;fortress, "red fortress",[3]&nbsp;hispanicized spellings&nbsp;Pucapucara, Puca Pucara, Puca Pucará) is a site of military ruins in&nbsp;Peru&nbsp;situated in the&nbsp;Cusco Region,&nbsp;Cusco Province,&nbsp;Cusco District, near&nbsp;Cusco. This fort is made of large walls, terraces, and staircases and was part of defense of Cusco in particular and the&nbsp;Inca Empire&nbsp;in general.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><img src="http://static.panoramio.com/photos/large/94027121.jpg" style="width:244px"><font size="1" face="arial, sans-serif"><br>Google Map / Panoramio /&nbsp;</font><a href="http://www.panoramio.com/user/502351?with_photo_id=94027121" rel="author" style="color:rgb(90, 123, 243);text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255)" target="_blank"><font size="1" face="arial, sans-serif">BorinProducoes</font></a></div>]]></description>
+    <styleUrl>#style73</styleUrl>
+    <Point>
+      <coordinates>-71.962090,-13.483223,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Puebla Cathedral</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Puebla_Cathedral" target="_blank">Wikipedia</a><br><br>On January 24, 1557&nbsp;Viceroy&nbsp;Martín Enríquez (1562–80) authorized construction. The design was submitted to the&nbsp;Dean&nbsp;and Cathedral&nbsp;Chapter&nbsp;on November 11, 1557.[2]&nbsp;Construction began in November of 1575, under the direction of architect Francisco Becerra and Juan de Cigorondo. Construction was interrupted in 1626 but in 1634 Juan Gómez de Trasmonte modified the design and construction began again in 1640 when Bishop Juan de Palafox was ordered by&nbsp;King Philip III&nbsp;to complete the building. It was largely completed eight years later and on April 18, 1649, the Cathedral was consecrated to the&nbsp;Virgin Mary.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><font size="1" face="arial, sans-serif">It was not entirely completed until 1690.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:10pt"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Catedral_de_puebla.jpg/220px-Catedral_de_puebla.jpg"></div><div style="font-family:arial;font-size:10pt"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>-98.198364,19.042833,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Puerta de Hayu Marka</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://www.labyrinthina.com/amaru.htm" target="_blank">labyrinthina.com</a><br><br>According to one legend presented in the book,&nbsp;Secret of the Andes&nbsp;by Brother Philip, (as channeled by author/contactee, George Hunt Williamson, "Road in the Sky" -- Markawasi), one Incan priest of the&nbsp;Temple of the Seven Rays&nbsp;named&nbsp;Amaru Meru&nbsp;(Lord Meru, Aramu Muru) fled from his temple with a sacred&nbsp;golden disk&nbsp;known as "the key of the gods of the seven rays", and hid in the mountains of Hayu Marca. He eventually came upon the doorway which was being watched by shamen priests. He showed them the key of the gods and a ritual was performed with the conclusion of a magical occurrence initiated by the golden disk which opened the portal, and according to the legend blue light did emanate from a tunnel inside. The priest Amaru Meru handed the golden disk to the shamen and then passed through the portal "never to be seen again". Archeologists have observed a small hand sized circular depression on the right hand side of the small entranceway, and have theorized that this is where a small disk could be placed and held by the rock.</font></div><div dir="ltr"><div style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><img src="http://static.panoramio.com/photos/large/53713867.jpg" style="width:242px"></font></div><div style="font-family:arial;font-size:10pt"><span style="background-color:rgb(255, 255, 255)"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/5966734" style="color:rgb(51, 51, 51);text-decoration:none;font-weight:bold" target="_blank">chapmoss</a><span style="color:rgb(153, 153, 153)">&nbsp;</span></font></span></div></div>]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>-69.541321,-16.170681,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Pukará de Quitor</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Pucara_de_Quitor" target="_blank">Wikipedia</a><br><br>Pukará de Quitor&nbsp;(also spelled&nbsp;Pucará de Quitor) (From&nbsp;Quechua&nbsp;Pukara:&nbsp;Fortress&nbsp;) is a&nbsp;pre-Columbian&nbsp;archaeological site&nbsp;in northern&nbsp;Chile. This stone fortress is located 3&nbsp;km northwest of the town of&nbsp;San Pedro de Atacama, overlooking the valley of the river&nbsp;San Pedro. It was designated</font><span style="font-family:arial, sans-serif;font-size:x-small">&nbsp;a national monument in 1982.</span></div><div dir="ltr"><span style="font-family:arial, sans-serif;font-size:x-small"><br></span></div><div dir="ltr"><img src="http://static.panoramio.com/photos/large/67461943.jpg" style="width:244px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/71589?with_photo_id=67461943" rel="author" style="color:rgb(90, 123, 243);text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255)" target="_blank">Richard Hidalgo</a></font></div>]]></description>
+    <styleUrl>#style93</styleUrl>
+    <Point>
+      <coordinates>-68.214745,-22.891340,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Puma Punku (part of the Tiwanaku Site)</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Puma_Punku" target="_blank">Wikipedia</a><br><br>Tiwanaku is significant in Inca traditions because it is believed to be the site where the world was created.[1]&nbsp;In&nbsp;Aymara, Puma Punku's name means "The Door of the Puma". The Pumapunku complex consists of an unwalled western court, a central unwalled&nbsp;esplanade, a terraced platform mound that is faced with stone, and a walled eastern court.[2][3][4]<br><br>&nbsp;<br>In assembling the walls of Pumapunku, each stone was finely cut to interlock with the surrounding stones and the blocks fit together like a puzzle, forming load-bearing joints without the use of mortar. One common engineering technique involves cutting the top of the lower stone at a certain angle, and placing another stone on top of it which was cut at the same angle.[4]&nbsp;The precision with which these angles have been utilized to create flush joints is indicative of a highly sophisticated knowledge of stone-cutting and a thorough understanding of&nbsp;descriptive geometry.[6]&nbsp;Many of the joints are so precise that not even a razor blade will fit between the stones.[10]</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><img src="http://static.panoramio.com/photos/large/78827734.jpg" style="width:244px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/570984?with_photo_id=78827734" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">Alexander Naumov</a></font></div>]]></description>
+    <styleUrl>#style88</styleUrl>
+    <Point>
+      <coordinates>-68.679932,-16.561689,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Quilmes - Tucumán</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Quilmes_(tribe)" target="_blank">Wikipedia</a><br><br>On the way to&nbsp;Cafayate, 182&nbsp;km from&nbsp;San Miguel de Tucumán, the&nbsp;Ruins of Quilmes&nbsp;may be seen; this is a fortified citadel which was raised by the Quilmes Indians. One of the most important archaeological locations in Argentina, the ruins were discovered by&nbsp;ethnographer&nbsp;and&nbsp;historian&nbsp;Samuel Lafone Quevedo&nbsp;in 1888 and restored in 1978. As of 2007, this archaeological site is in private hands, and has a private hotel on its territory.</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div dir="ltr"><font size="1" face="arial, sans-serif">&nbsp;<img src="http://static.panoramio.com/photos/large/48385463.jpg" style="width:242px"></font></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/1642686?with_photo_id=48385463" rel="author" style="text-decoration:none;line-height:14px;color:rgb(90, 123, 243) !important;background-color:rgb(255, 255, 255)" target="_blank">Mario Victor</a></font></div></div>]]></description>
+    <styleUrl>#style82</styleUrl>
+    <Point>
+      <coordinates>-66.037071,-26.464373,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Quiriguá</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Archaeological_Park_and_Ruins_of_Quirigua#Early_history" target="_blank">Wikipedia</a><br>&nbsp;<br>There is evidence that Quiriguá was occupied as early as the&nbsp;Late Preclassic&nbsp;(400&nbsp;BC&nbsp;– AD&nbsp;200). Although no structures have been securely dated to this period, a number of Late Preclassic&nbsp;artifacts&nbsp;have been recovered, including 63&nbsp;figurines&nbsp;and a&nbsp;chert&nbsp;blade.[11]&nbsp;Early Classic&nbsp;ceramics&nbsp;from Quiriguá are similar to finds at both Copán and&nbsp;Chalchuapa&nbsp;in&nbsp;El Salvador, while jade hunchback figurines from the same period resemble those found in central Honduras and in the Guatemalan highlands. These early finds demonstrate the participation of Quiriguá in the wider southeastern Maya region from the Late Preclassic onwards.[31]</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><img src="http://static.panoramio.com/photos/large/82423491.jpg" style="width:244px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;</font><span style="background-color:rgb(255, 255, 255);color:rgb(90, 123, 243);font-family:arial, sans-serif;font-size:x-small;line-height:14px">Ana María Ossorio Ló…</span></div>]]></description>
+    <styleUrl>#style96</styleUrl>
+    <Point>
+      <coordinates>-89.040466,15.268800,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Raqchi</name>
+    <description><![CDATA[<div dir="ltr"><font face="arial, sans-serif" size="1"><a href="http://en.wikipedia.org/wiki/Raqchi" target="_blank">Wikipedia</a><br>&nbsp;<br>Raqch'i&nbsp;(Quechua)[1][2]&nbsp;is an&nbsp;Inca&nbsp;archaeological site in&nbsp;Peru&nbsp;located in the&nbsp;Cusco Region,&nbsp;Canchis Province,&nbsp;San Pedro District, near the populated place Raqch'i. It is 3480 meters above sea level and 110 kilometers from the city of Cuzco.[3]&nbsp;It also known as the&nbsp;Temple of&nbsp;Wiracocha, one of its constituents. Both lie along the&nbsp;Willkanuta River.[4]&nbsp;The site has experienced a recent increase in&nbsp;tourism&nbsp;in recent years, with 83,334 visitors to the site in 2006, up from 8,183 in 2000 and 452 in 1996.[5]</font></div><div dir="ltr"><font face="arial, sans-serif" size="1"><br></font></div><div dir="ltr"><div dir="ltr" style="font-family:arial;font-size:13px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Raqchi_02.jpg/220px-Raqchi_02.jpg"></div><div dir="ltr" style="font-family:arial;font-size:13px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style50</styleUrl>
+    <Point>
+      <coordinates>-71.369545,-14.175150,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Reducción de Nuestra Señora de Santa Ana</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Nuestra_Se%C3%B1ora_de_Santa_Ana" target="_blank">Wikipedia</a><br><br>Reducción de Nuestra Señora de Santa Ana&nbsp;(Reduction of Our Lady of Saint Ana) was one of the many&nbsp;missions&nbsp;or&nbsp;reductions&nbsp;founded in the 17th century by the&nbsp;Jesuits&nbsp;in the&nbsp;Americas&nbsp;during the&nbsp;Spanish colonial period. It was within what the Spanish then called the Province of Paraguay.<br><br></font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif">The Spanish relocated Guarani Native Americans from scattered villages to the reductions, where they established mission centers. These generally were modeled on Spanish rural villages, complete with a town square bounded by a church and administrative buildings. Nuestra Señora de Santa Ana was founded in 1633, and is located in the present-day Candelaria Department of the&nbsp;Misiones Province,&nbsp;Argentina.</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13px"><img src="http://static.panoramio.com/photos/large/63024346.jpg" style="width:244px"></div><div><span style="line-height:11px"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;</font></span><span style="background-color:rgb(255, 255, 255);color:rgb(90, 123, 243);font-family:arial, sans-serif;font-size:x-small;line-height:14px">navelinopablo</span></div></div>]]></description>
+    <styleUrl>#style75</styleUrl>
+    <Point>
+      <coordinates>-55.580894,-27.390909,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sacsayhuamán</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Sacsayhuam%C3%A1n" target="_blank">Wikipedia</a><br>&nbsp;<br>Saksaywaman,&nbsp;Sasawaman,&nbsp;Saksawaman,&nbsp;Sasaywaman,&nbsp;Saqsaywaman[1][2]&nbsp;or&nbsp;Saksaq Waman&nbsp;(Quechua&nbsp;waman&nbsp;falcon[3]&nbsp;or&nbsp;variable hawk,[4]&nbsp;hispanicized spellings&nbsp;Sacsayhuamán, Sacsayhuaman, Sacsahuaman, Saxahuaman&nbsp;and others) is a walled complex on the northern outskirts of the city of&nbsp;Cusco, Peru, the former capital of the&nbsp;Inca Empire. Like many Inca constructions, the complex is made of large polished&nbsp;dry stone&nbsp;walls, with boulders carefully cut to fit together tightly without&nbsp;mortar.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sacsayhuaman_%28pixinn.net%29.jpg/220px-Sacsayhuaman_%28pixinn.net%29.jpg"></div><div style="font-family:arial;font-size:13px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>-71.982338,-13.509096,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>San Agustín</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/San_Agust%C3%ADn_Archaeological_Park" target="_blank">Wikipedia</a><br><br>The village was originally founded in 1752 by Alejo Astudillo but attacks by indigenous people destroyed it. The present village was founded in 1790 by Lucas de Herazo and Mendigaña.<br>The area is very well known for its&nbsp;pre-Columbian&nbsp;archaeological sites, which generates significant revenue to the economy due to the high volume of tourists, both Colombian and foreigners. These sites form a&nbsp;UNESCO World Heritage Site.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Parque_Arqueol%C3%B3gico_de_San_Agust%C3%ADn_-_Tumb_with_deity.jpg/300px-Parque_Arqueol%C3%B3gico_de_San_Agust%C3%ADn_-_Tumb_with_deity.jpg" style="width:242px"></div><div style="font-family:arial;font-size:13px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>-76.297173,1.890292,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sanctuary of Atotonilco</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Sanctuary_of_Jes%C3%BAs_Nazareno_de_Atotonilco#History" target="_blank">Wikipedia</a><br><br>The complex was built in the 18th century by Father Luis Felipe Neri de Alfaro who, according to tradition, was called upon by a vision of Jesus with a crown of thorns on his head and carrying a cross. The main feature of the complex is the rich Mexican&nbsp;Baroque&nbsp;mural work that adorns the main&nbsp;nave&nbsp;and chapels. This was chiefly the work of Antonio Martinez de Pocasangre over a period of thirty years. The mural work has led the complex to be dubbed the "Sistine Chapel of Mexico."[1]&nbsp;The complex remains a place of&nbsp;worship&nbsp;and penance to this day, attracting as many as 5,000 visitors every week.</font></div><div dir="ltr">&nbsp;</div><div dir="ltr"><div style="font-family:arial;font-size:10pt"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Santuario_Atotonilco.jpg/220px-Santuario_Atotonilco.jpg"></div><div style="font-family:arial;font-size:10pt"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style48</styleUrl>
+    <Point>
+      <coordinates>-100.794388,21.004965,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>San Ignacio Miní</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/San_Ignacio_Min%C3%AD" target="_blank">Wikipedia</a><br>&nbsp;<br>San Ignacio Miní&nbsp;was one of the many&nbsp;missions&nbsp;founded in 1632 by the&nbsp;Jesuits&nbsp;in what the Spanish called the&nbsp;Province of Paraguay&nbsp;in the Americas&nbsp;during the&nbsp;Spanish colonial period. It is located near present-day San Ignacio valley, some 60&nbsp;km north of&nbsp;Posadas,&nbsp;Misiones Province,Argentina. In 1984 it was one of four&nbsp;reducciones&nbsp;in Argentina to be designated by UNESCO as&nbsp;World Heritage Sites.[1]</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/72/San_Ignacio_Min%C3%AD.jpg/220px-San_Ignacio_Min%C3%AD.jpg"></div><div style="font-family:arial;font-size:13px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style61</styleUrl>
+    <Point>
+      <coordinates>-55.531666,-27.255278,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>San Salvador de la Punta Fortress</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Castillo_de_San_Salvador_de_la_Punta" target="_blank">Wikipedia</a><br><br>La Punta, just like&nbsp;El Morro&nbsp;was designed to protect the entrance to the Havana Bay that became an important and strategic entranceway to the harbor since the settlement of the town. The nonstop landings of&nbsp;corsairs&nbsp;in the area endangered the harbor and the town. That was why in 1559 it was resolved to post lookouts at La Punta.</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><img src="http://static.panoramio.com/photos/large/11789332.jpg" style="width:244px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panormio /&nbsp;<a href="http://www.panoramio.com/user/1957033?with_photo_id=11789332" rel="author" style="color:rgb(90, 123, 243);text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255)" target="_blank">niki baba</a></font></div>]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>-82.357178,23.146210,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sans-Souci Palace</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Sans-Souci_Palace" target="_blank">Wikipedia</a><br><br>The&nbsp;Sans-Souci Palace&nbsp;was the royal residence of King Henri I (better known as&nbsp;Henri Christophe) of&nbsp;Haiti, Queen&nbsp;Marie-Louise&nbsp;and their two daughters. It was the most important of nine palaces built by the king, as well as fifteen châteaux, numerous forts, and sprawling summer homes on his twenty plantations.[1]&nbsp;Construction of the palace started in 1810 and was completed in 1813. It is located in the town of&nbsp;Milot,&nbsp;Nord Department. Its name translated from&nbsp;French&nbsp;means&nbsp;"carefree."</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div dir="ltr" style="font-family:arial;font-size:13px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sans-Souci_Palace_front.jpg/300px-Sans-Souci_Palace_front.jpg" style="width:242px"></div><div dir="ltr" style="font-family:arial;font-size:13px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>-72.218597,19.604692,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Santuário do Bom Jesus do Congonhas</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Sanctuary_of_Bom_Jesus_do_Congonhas" target="_blank">Wikipedia</a><br><br>Congonhas&nbsp;(Congonhas do Campo) is a historical&nbsp;Brazilian&nbsp;city located in the state of&nbsp;Minas Gerais. It is situated 90 kilometres (56&nbsp;mi) south from&nbsp;Belo Horizonte, the capital of state of Minas Gerais, by the highway BR-040. The city has a population of 50,000.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br>The city is notable for its&nbsp;basilica&nbsp;- the&nbsp;Santuário do Bom Jesus do Matosinhos&nbsp;- and associated&nbsp;soapstone&nbsp;sculptures which were commissioned by Portuguese adventurer, Feliciano Mendes in the 18th century. It was created by&nbsp;Aleijadinho, one of the best artists in thebaroque&nbsp;style in the world. The&nbsp;twelve sculptures of old testament prophets&nbsp;around the terrace are considered amongst his finest work.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:10pt"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sanctuary_of_Bom_Jesus_do_Congonhas.jpg/300px-Sanctuary_of_Bom_Jesus_do_Congonhas.jpg" style="width:242px"></div><div style="font-family:arial;font-size:10pt"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style99</styleUrl>
+    <Point>
+      <coordinates>-43.857750,-20.500025,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>São Miguel das Missões</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/S%C3%A3o_Miguel_das_Miss%C3%B5es" target="_blank">Wikipedia</a><br><br>The São Miguel das Missões mission was built between 1735 to around 1745. São Miguel das Missões was one of the many&nbsp;Spanish Colonial&nbsp;Jesuit Reductions&nbsp;in&nbsp;Argentina, Brazil,&nbsp;Paraguay&nbsp;and&nbsp;Bolivia. Spanish&nbsp;Jesuit&nbsp;missionaries&nbsp;founded the mission for Crown mandated&nbsp;Indian Reductions(Christian converting) of the&nbsp;Guaraní&nbsp;Indians; and to protect the natives from the&nbsp;Portuguese&nbsp;slave traders&nbsp;known as the&nbsp;Bandeirantes.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ruinas_de_Sao_Miguel_das_Missoes.jpg/300px-Ruinas_de_Sao_Miguel_das_Missoes.jpg" style="width:242px"></div><div style="font-family:arial;font-size:13px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>-54.555641,-28.548018,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Secure: Metropolitan Cathedral of Sucre</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Cathedral_of_Sucre" target="_blank">Wikipedia</a><br>&nbsp;<br>The&nbsp;Metropolitan Cathedral of&nbsp;Sucre, formerly La Plata,&nbsp;Bolivia&nbsp;is the seat of the&nbsp;Roman Catholic Church&nbsp;in Bolivia. It was built between 1559 to 1712.[1]</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:10pt"><img src="http://upload.wikimedia.org/wikipedia/commons/e/e6/Church_in_Historic_Center_-_Sucre_-_Bolivia.jpg" style="width:242px"></div><div style="font-family:arial;font-size:13px"><font size="1" face="arial, sans-serif">Wikipedia Commons</font></div></div>]]></description>
+    <styleUrl>#style118</styleUrl>
+    <Point>
+      <coordinates>-65.260056,-19.048681,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Serra da Capivara National Park</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Serra_da_Capivara_National_Park" target="_blank">Wikipedia</a><br><br>The park was created to protect the prehistoric artifacts and paintings found there. It became a&nbsp;World Heritage Site&nbsp;in 1991. Its head archaeologist is&nbsp;Niède Guidon. Its best known archaeological site is&nbsp;Pedra Furada.</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13px"><img src="http://static.panoramio.com/photos/large/65296091.jpg" style="width:244px"></div><div><font size="1" face="arial, sans-serif"><span style="line-height:11px">Google Map / Panoramio /&nbsp;</span><a href="http://www.panoramio.com/user/98514?with_photo_id=65296091" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">Zeolithe</a></font></div></div>]]></description>
+    <styleUrl>#style92</styleUrl>
+    <Point>
+      <coordinates>-42.710178,-8.608653,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Shinkal</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://www.igougo.com/journal-j63555-Catamarca-The_City_of_Catamarca_and_its_Surrounding_Areas.html#1339526" target="_blank">igougo.com</a><br><br>There is very little information on the Shinkal ruins, that are probably the oldest Inca ruins in Argentina. The Inca Empire, that had started in year 1197 AD, penetrated in Argentina nearly three centuries later, coming down South as far as Mendoza in Argentina and Santiago in Chile.</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><img src="http://static.panoramio.com/photos/large/3043795.jpg" style="width:244px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;</font><span style="background-color:rgb(255, 255, 255);color:rgb(51, 51, 51);font-family:arial, sans-serif;font-size:x-small;line-height:14px">tanito</span></div>]]></description>
+    <styleUrl>#style57</styleUrl>
+    <Point>
+      <coordinates>-67.179504,-27.687105,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Sillustani</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Sillustani" target="_blank">Wikipedia</a><br><br>Sillustani&nbsp;is a pre-Incan&nbsp;burial ground&nbsp;on the shores of&nbsp;Lake Umayo&nbsp;near&nbsp;Puno&nbsp;in&nbsp;Peru. The tombs, which are built above ground in tower-like structures called&nbsp;chullpas, are the vestiges of the&nbsp;Colla people,&nbsp;Aymara&nbsp;who were conquered by the Inca in the 15th century. The structures housed the remains of complete family groups, although they were probably limited to nobility. Many of the tombs have been dynamited by&nbsp;grave robbers, while others were left unfinished.[1]</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13px"><img src="http://static.panoramio.com/photos/large/5468998.jpg" style="width:244px"></div><div><span style="line-height:11px"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;</font></span><span style="background-color:rgb(255, 255, 255);color:rgb(90, 123, 243);font-family:arial, sans-serif;font-size:x-small;line-height:14px">Patricio de la Manch</span></div></div>]]></description>
+    <styleUrl>#style52</styleUrl>
+    <Point>
+      <coordinates>-70.158447,-15.720562,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tambo Colorado</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Tambo_Colorado" target="_blank">Wikipedia</a><br><br>Tambo Colorado&nbsp;is a well-preserved&nbsp;Inca&nbsp;adobe&nbsp;complex near the coast of&nbsp;Peru, also known under the&nbsp;Quechua&nbsp;names&nbsp;Puka Tampu&nbsp;("red resting place"),&nbsp;Pukallaqta&nbsp;("red place") or&nbsp;Pukawasi&nbsp;("red house").</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TamboColorado-colours.PNG/250px-TamboColorado-colours.PNG" style="width:242px"></div><div style="font-family:arial;font-size:13px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style89</styleUrl>
+    <Point>
+      <coordinates>-75.829170,-13.705278,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tambomachay or Tampumachay</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Tambo_Machay" target="_blank">Wikipedia</a><br>&nbsp;<br>Tambomachay&nbsp;(in hispanicized spelling),&nbsp;Tampu Mach'ay&nbsp;or&nbsp;Tampumach'ay&nbsp;(Quechua&nbsp;tampu&nbsp;inn, guest house,&nbsp;mach'ay&nbsp;cave,[1][2]&nbsp;"guest house cave", other hispanicized and mixed spellings&nbsp;Tambomach'ay, Tambo Mach'ay, Tampumachay, Tanpumachay) is an&nbsp;archaeological&nbsp;site associated with the&nbsp;Inca Empire, located near&nbsp;Cusco,&nbsp;Peru. An alternate&nbsp;Spanish&nbsp;name is&nbsp;El Baño del Inca&nbsp;("the bath of the Inca").</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13px"><img src="http://static.panoramio.com/photos/large/67030808.jpg" style="width:244px"></div><div><font size="1" face="arial, sans-serif"><span style="line-height:11px">Google Map / Panoramio /&nbsp;</span></font><span style="font-family:arial, sans-serif;font-size:x-small;background-color:rgb(255, 255, 255);color:rgb(51, 51, 51);line-height:14px">ogwen</span></div></div>]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>-71.967438,-13.478765,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tastil</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Tastil" target="_blank">Wikipedia</a><br><br>Built by the&nbsp;Atacameño&nbsp;people, a pre-Inca culture, Tastil thrived during the 15th century, and grew to perhaps 400 households and over 2,000 inhabitants prior to a siege by the invading troops of the&nbsp;Inca Empire. Subsisting on&nbsp;quinoa,&nbsp;maize, and&nbsp;llama&nbsp;husbandry, the&nbsp;Tastileños&nbsp;built their community out of&nbsp;sandstone, and without the use of mortar. The labyrinthine layout of Tastil included&nbsp;catacombs&nbsp;and plazas, and the central square was built around a&nbsp;wanka&nbsp;(a sacred stone).[1]</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><img src="http://static.panoramio.com/photos/large/53446196.jpg" style="width:244px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/593991?with_photo_id=53446226" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">navelinopablo</a></font></div>]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>-65.957146,-24.452261,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Templo Seminario de la Santa Cruz</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Historic_Monuments_Zone_of_Quer%C3%A9taro#Notable_sites" target="_blank">Wikipedia</a><br><br>The&nbsp;church and monastery of La Santa Cruz&nbsp;is located on Sangremal Hill, where the appearance of Saint James is said to have occurred at the founding of the city and the cross commemorating the event is kept.[3][4]&nbsp;Both the church and the monastery are Franciscan, and in one of the few monasteries to be in operation in Mexico.[17]&nbsp;This was also the site of the Colegio de la Propagación de la Fe, the first missionary school established in the Americas.&nbsp;</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><img src="http://static.panoramio.com/photos/large/2888898.jpg" style="width:244px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/344302?with_photo_id=2888898" rel="author" style="color:rgb(90, 123, 243);line-height:14px;background-color:rgb(255, 255, 255)" target="_blank">darilogo</a></font></div>]]></description>
+    <styleUrl>#style66</styleUrl>
+    <Point>
+      <coordinates>-100.383591,20.593288,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tierradentro</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Tierradentro" target="_blank">Wikipedia</a><br><br>The typical hypogeum has an entry oriented towards the west, a spiral staircase and a main chamber, usually 5 to 8 meters below the surface, with several lesser chambers around, each one containing a corpse. The walls are painted with geometric,&nbsp;anthropomorphic&nbsp;andzoomorphic&nbsp;patterns in red, black and white. Some statues and remains of pottery and fabrics can be seen scarcely due to&nbsp;grave robberybefore the hypogea were constituted as protected areas.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br>The pre-Columbian culture that created this&nbsp;funeral&nbsp;complex inhabited this area during the first millennium A.C. Tierradentro Archaeological park features hypogea dating from 6th to 9th centuries AD. The details in the sculptures and&nbsp;pictoric&nbsp;patterns are similar to the&nbsp;San Agustín&nbsp;culture.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tombs_in_Tierra_Dentro.jpg/300px-Tombs_in_Tierra_Dentro.jpg" style="width:242px"></div><div style="font-family:arial;font-size:13px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style76</styleUrl>
+    <Point>
+      <coordinates>-76.033867,2.582918,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tikal</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Tikal" target="_blank">Wikipedia</a><br><br>Tikal was the capital of a conquest state that became one of the most powerful kingdoms of the ancient Maya.[3]&nbsp;Though monumental architecture at the site dates back as far as the 4th century BC, Tikal reached its apogee during the&nbsp;Classic Period, ca. 200 to 900 AD.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mexico_SunMoonPyramid.jpg/220px-Mexico_SunMoonPyramid.jpg"></div><div style="font-family:arial;font-size:13px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style105</styleUrl>
+    <Point>
+      <coordinates>-89.623611,17.222094,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tipón</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Tip%C3%B3n" target="_blank">Wikipedia</a><br><br>Tipón, located east of&nbsp;Cusco, are&nbsp;Inca&nbsp;ruins which may have been a park for the upper class or an agricultural centrum. Even today water rushes through the channels, and the wide terraces are in perfect condition. Several surrounding ruins have been excavated, and many more are visible below the soil.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/20090903_Tipon_Terrassen.JPG/400px-20090903_Tipon_Terrassen.JPG" style="width:242px"></div><div style="font-family:arial;font-size:13px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style113</styleUrl>
+    <Point>
+      <coordinates>-71.783058,-13.570833,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tiwanaku</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Tiwanaku" target="_blank">Wikipedia</a><br><br>Tiwanaku&nbsp;(Spanish:&nbsp;''Tiahuanaco&nbsp;and&nbsp;Tiahuanacu'') is a&nbsp;Pre-Columbian&nbsp;archaeological site in western&nbsp;Bolivia, South America. It is the capital of an empire that extended into present-day&nbsp;Peru&nbsp;and&nbsp;Chile, flourishing from AD 300 to AD 1000.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Zonnepoort_tiwanaku.jpg/300px-Zonnepoort_tiwanaku.jpg" style="width:242px"></div><div style="font-family:arial;font-size:13px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>-68.673332,-16.554722,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Túcume</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/T%C3%BAcume" target="_blank">Wikipedia</a><br><br>This site was a major regional center, maybe even the capital of the successive occupations of the area by the&nbsp;Lambayeque/Sican&nbsp;(800-1350 AD),&nbsp;Chimú&nbsp;(1350–1450 AD) and&nbsp;Inca&nbsp;(1450–1532 AD). Local shaman healers (curanderos) invoke power of Tucume and La Raya Mountain in their rituals, and local people fear these sites. Hardly anyone other than healers venture out in this site at night.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Pir%C3%A1midesT%C3%BAcume_lou.jpg/250px-Pir%C3%A1midesT%C3%BAcume_lou.jpg" style="width:242px"></div><div style="font-family:arial;font-size:13px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>-79.844772,-6.513291,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tulor</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Tulor" target="_blank">Wikipedia</a><br><br>The settlement's remains are distributed in an east-west fashion along 2&nbsp;km (1&nbsp;mi).&nbsp;Radiocarbon&nbsp;and&nbsp;thermoluminescence dating&nbsp;date the origin of the settlement sometime between 380 BCE and 200 CE, but most structures are from the period 800 CE - 1200 CE.</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><img src="http://static.panoramio.com/photos/large/19164754.jpg" style="width:244px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;</font><span style="background-color:rgb(255, 255, 255);color:rgb(51, 51, 51);font-family:arial, sans-serif;font-size:x-small;line-height:14px">Renato Antonio Rojas…</span></div>]]></description>
+    <styleUrl>#style129</styleUrl>
+    <Point>
+      <coordinates>-68.242569,-22.968502,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Tulum</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Tulum" target="_blank">Wikipedia</a><br><br>Tulum was one of the last cities inhabited and built by the Mayas; it was at its height between the 13th and 15th centuries and managed to survive about 70 years after the Spanish began occupying Mexico. Old World diseases brought by the Spanish settlers appear to have been the cause of its demise.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tulum_sverzel.jpg/220px-Tulum_sverzel.jpg"></div><div style="font-family:arial;font-size:13px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style100</styleUrl>
+    <Point>
+      <coordinates>-87.428886,20.214722,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Vilcabamba</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Vilcabamba,_Per%C3%BA" target="_blank">Wikipedia</a><br><br>Vilcabamba&nbsp;(in hispanicized spelling),&nbsp;Willkapampa&nbsp;(Aymara[1]&nbsp;and&nbsp;Quechua)[2][3][4][5]&nbsp;or&nbsp;Espíritu Pampa&nbsp;was a city founded by&nbsp;Manco Inca&nbsp;in 1539 and was the last refuge of the&nbsp;Inca Empire&nbsp;until it fell to the&nbsp;Spaniards&nbsp;in 1572, signaling the end of&nbsp;Inca&nbsp;resistance to Spanish rule.</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><img src="http://static.panoramio.com/photos/large/95902932.jpg" style="width:244px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;</font><span style="background-color:rgb(255, 255, 255);color:rgb(90, 123, 243);font-family:arial, sans-serif;font-size:x-small;line-height:14px">jaime vasquez</span></div>]]></description>
+    <styleUrl>#style111</styleUrl>
+    <Point>
+      <coordinates>-73.196243,-12.903829,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Vilcashuamán</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Vilcashuam%C3%A1n" target="_blank">Wikipedia</a><br><br>Vilcashuamán was an Inca administrative center, established after the Incas conquered the&nbsp;Chancas&nbsp;and the&nbsp;Pocras. According to chroniclers, Vilcashuamán was home to 40,000 people. The city was located around a large plaza where ceremonies involving sacrifices were performed. Around this plaza were the city's two most important buildings: the Sun Temple (Templo del Sol) and the&nbsp;Usnu&nbsp;which remain to this day. It is believed that the city had the shape of a falcon, in which the Usnu was located in the head.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13px"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Willkawaman_cathedral.jpg/250px-Willkawaman_cathedral.jpg" style="width:242px"></div><div style="font-family:arial;font-size:13px"><span style="font-family:arial, sans-serif;font-size:x-small;line-height:11px">Wikipedia Commons</span></div></div>]]></description>
+    <styleUrl>#style81</styleUrl>
+    <Point>
+      <coordinates>-73.953674,-13.653720,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Villa Epecuen</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Villa_Epecu%C3%A9n" target="_blank">Wikipedia</a><br><br></font></div><div dir="ltr"><font size="1" face="arial, sans-serif">Villa Epecuén&nbsp;was a tourist village that was located in the&nbsp;Buenos Aires Province,&nbsp;Argentina. Now abandoned, its ruins are found on the eastern shore of the&nbsp;Laguna Epecuén, about 7 kilometres (4.3&nbsp;mi) north of the city of&nbsp;Carhué.<br><br>On 10 November 1985, a&nbsp;seiche&nbsp;caused by a rare weather pattern broke a nearby dam first, then the dike protecting the town. Rapidly made uninhabitable, the town saw the waters rise progressively, reaching up to 10 metres (33&nbsp;ft) at its maximum. The village was never rebuilt.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><img src="http://static.panoramio.com/photos/large/71086137.jpg" style="width:244px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/1847429?with_photo_id=71086137" rel="author" style="text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255);color:rgb(90, 123, 243) !important" target="_blank">Riki Reynold</a></font></div>]]></description>
+    <styleUrl>#style67</styleUrl>
+    <Point>
+      <coordinates>-62.808697,-37.132030,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wari Ruins</name>
+    <description><![CDATA[<div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Wari_ruins" target="_blank">Wikipedia</a><br><br>This capital city covers some 16 square kilometers, and the architecture is aligned to conform to the local topography.[1]&nbsp;This was a highly organized city with residential, administrative, and religious areas. The ruins appear to be in almost the same condition as they were during the days of the powerful Wari empire, from about CE 500 to 900. There are signs that most of the buildings were coated with a layer of white plaster, which must have been a stunning sight in those days.</font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr" style="font-family:arial;font-size:10pt"><img src="http://static.panoramio.com/photos/large/56507244.jpg" style="width:244px"></div><div dir="ltr"><font size="1" face="arial, sans-serif">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/4440172?with_photo_id=56507244" rel="author" style="color:rgb(90, 123, 243);text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255)" target="_blank">Jong Soo Choi</a></font></div>]]></description>
+    <styleUrl>#style78</styleUrl>
+    <Point>
+      <coordinates>-74.199593,-13.059752,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Willemstad</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Willemstad#History" target="_blank">Wikipedia</a><br><br>The Snoga Synagogue in Willemstad was built by&nbsp;Sephardic Portuguese Jews&nbsp;from Amsterdam and Recife, Brazil. It is modeled after the Esnoga in Amsterdam. Congregation Mikvé Israel (now&nbsp;Mikvé Israel-Emanuel) built this synagogue in 1692; it was reconstructed in 1732 and is the oldest surviving synagogue in the western hemisphere.[citation needed]</font><br>&nbsp;</div><div dir="ltr"><img src="http://static.panoramio.com/photos/large/63259632.jpg" style="width:244px"></div><div dir="ltr"><font face="arial, sans-serif" size="1">Google Map / Panoramio /&nbsp;<a href="http://www.panoramio.com/user/636032?with_photo_id=63259632" rel="author" style="color:rgb(90, 123, 243);text-decoration:none;line-height:14px;background-color:rgb(255, 255, 255)" target="_blank">Ronald Weilers</a></font></div>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>-68.932495,12.105066,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wiñay Wayna</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif"><a href="http://en.wikipedia.org/wiki/Wi%C3%B1ay_Wayna" target="_blank">Wikipedia</a><br><br>Wiñay Wayna&nbsp;(Quechua&nbsp;for "forever young", hispanicized spelling&nbsp;Huiñay Huayna) is an&nbsp;Inca&nbsp;ruin along the&nbsp;Inca Trail to Machu Pikchu. It is built into a steep hillside overlooking the&nbsp;Urubamba River. The site consists of upper and lower house complexes connected by a staircase and fountain structures. Above and below the houses the people built areas of&nbsp;agricultural terraces, which are still visible.</font></div><div dir="ltr"><font size="1" face="arial, sans-serif"><br></font></div><div dir="ltr"><div style="font-family:arial;font-size:13px"><img src="http://static.panoramio.com/photos/large/69049551.jpg" style="width:244px"></div><div><span style="line-height:11px"><font face="arial, sans-serif" size="1">Google Map / Panoramio /&nbsp;</font></span><span style="background-color:rgb(255, 255, 255);color:rgb(90, 123, 243);font-family:arial, sans-serif;font-size:x-small;line-height:14px">planetair</span></div></div>]]></description>
+    <styleUrl>#style124</styleUrl>
+    <Point>
+      <coordinates>-72.536026,-13.193101,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Xochicalco</name>
+    <description><![CDATA[<div dir="ltr"><font size="1" face="arial, sans-serif">Wikipedia<br><br>The main ceremonial center is atop an artificially leveled hill, with remains of residential structures, mostly unexcavated, on long terraces covering the slopes. The site was first occupied by 200 BC, but did not develop into an urban center until the Epiclassic period (AD 700 – 900). Nearly all the standing architecture at the site was built at this time. At its peak, the city may have had a population of up to 20,000 people.<br><br></font><img src="http://static.panoramio.com/photos/large/39277094.jpg" style="width:244px"><font size="1" face="arial, sans-serif"><br>Google Map / Panoramaio /&nbsp;ESTEBAN M. LUNA</font></div>]]></description>
+    <styleUrl>#style108</styleUrl>
+    <Point>
+      <coordinates>-99.296539,18.804115,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>

@@ -1,0 +1,623 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>Digitally walk this map in 3D.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[You can digitally walk this map in 3D using this Non-networked Google Earth KML file. (https://docs.google.com/file/d/0B52hHMRyBvEsNXFIRWhsYTAtcnM/edit)]]></description>
+			<Point>
+				<coordinates>71.367188,-11.523088000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>1st Voyage / #1 = Nanjing, Jiangsu, China</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Nanjing#Capital_of_the_Ming)
+
+All 7 of the voyages begin here.]]></description>
+			<Point>
+				<coordinates>118.79687700000001,32.060255,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>1st Voyage / #2 =  Liujiagangzhen, Taicang, Suzhou, Jiangsu, China</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>121.25766,31.55616,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>1st Voyage / #3 = Changle, Fuzhou, Fujian, China</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Changle#Notable_Natives_.26_Residents)]]></description>
+			<Point>
+				<coordinates>119.52338200000001,25.96312,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>1st Voyage / #4 = Quanzhou, Fujian, China</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Quanzhou#Trading_port)]]></description>
+			<Point>
+				<coordinates>118.586812,24.907574,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>1st Voyage / #5 = Qui Nhon, Binh Dinh province, Vietnam</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Qui_Nhon)]]></description>
+			<Point>
+				<coordinates>109.219663,13.782967,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>1st Voyage / #6 = Surabaya, Java, Indonesia</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Surabaya)]]></description>
+			<Point>
+				<coordinates>112.734398,-7.289166000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>1st Voyage / #7 = Palembang, Indonesia</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Palembang)]]></description>
+			<Point>
+				<coordinates>104.756733,-2.991108,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>1st Voyage / #8 = Malacca, Malaysia</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Malacca#Sultanate_of_Malacca)]]></description>
+			<Point>
+				<coordinates>102.250282,2.200258,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>1st Voyage / #9 = Aru, Lubuk Pakam, Indonesia</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://id.wikipedia.org/wiki/Kerajaan_Aru)]]></description>
+			<Point>
+				<coordinates>98.851049,3.552299,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>1st Voyage / #10 = Samudera-Pasai </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Samudera_Pasai)]]></description>
+			<Point>
+				<coordinates>96.377563,5.211306,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>1st Voyage / #11 = Lambri</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Location information (http://www.scribd.com/doc/8410125/A-note-of-LamuriLambri-Sumatra-Straits-of-Melaka-Malay)]]></description>
+			<Point>
+				<coordinates>95.328369,5.528511,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>!st Voyage = Galle, Sri Lanka</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Galle#History)]]></description>
+			<Point>
+				<coordinates>80.215819,6.034511,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>1st Voyage / #13 = Kollam, Kerala, India</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Also called Quilon.
+
+Wikipedia (http://en.wikipedia.org/wiki/Kollam#Kollam_during_Chera_rule)]]></description>
+			<Point>
+				<coordinates>76.60032900000002,8.880687,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>1st Voyage / #14 = Cochin, India</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Cochin#History)]]></description>
+			<Point>
+				<coordinates>76.27,9.977,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>1st Voyage / #15 = Kozhikode (Calicut), Kerala, India</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Calicut#Early_Calicut_in_foreign_accounts)]]></description>
+			<Point>
+				<coordinates>75.771685,11.250655,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>2nd Voyage / #2 = Ayutthaya, Siam (Thailand)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Cruising Thailand's Chao Phraya River with Admiral Zheng He (http://www.perceptivetravel.com/issues/1205/stephens.html)
+
+ 
+Wikipedia (http://en.wikipedia.org/wiki/Ayutthaya_Kingdom#Conquests_and_expansion)]]></description>
+			<Point>
+				<coordinates>100.568161,14.350878,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>3rd Voyage = Taiping, Perak, Malaysia</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Taiping,_Perak)]]></description>
+			<Point>
+				<coordinates>100.737575,4.854099,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>3rd Voyage = Kayalpattinam, Tamil Nadu, India</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Kayalpattinam)]]></description>
+			<Point>
+				<coordinates>78.116073,8.565153,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>3rd Voyage = Coimbatore, India</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Coimbatore,_India)]]></description>
+			<Point>
+				<coordinates>76.9725,11.018333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>3rd Voyage = Puttanpur, India</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Approximated.
+
+Location information. (http://books.google.com/books?id=YoQRAAAAIAAJ&pg=RA3-PA113&dq=Puttanpur&hl=en&sa=X&ei=ItanT9GRFpCC8QT06uDXAw&ved=0CD8Q6AEwAg#v=onepage&q=Puttanpur&f=false)]]></description>
+			<Point>
+				<coordinates>76.970901,12.003391,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>4th Voyage = Pahang, Malaysia</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pahang)]]></description>
+			<Point>
+				<coordinates>103.345642,3.83137,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>4th Voyage = Kelantan, Maylasia</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Kelantan)]]></description>
+			<Point>
+				<coordinates>102.31842,6.17742,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>4th Voyage= Maldive Islands</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Maldive_Islands)]]></description>
+			<Point>
+				<coordinates>73.526001,4.187551,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>4th Voyage = Hormuz, Iran</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Hormuz,_Iran)]]></description>
+			<Point>
+				<coordinates>56.277185,27.188493,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>4th Voyage = Mascat, Oman</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Muscat,_Oman)]]></description>
+			<Point>
+				<coordinates>58.540049,23.610037,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>4th Voyage = Dhofar, Oman</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Dhofar_Governorate)]]></description>
+			<Point>
+				<coordinates>54.0,18.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>4th Voyage = Aden, Yemen</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Aden)]]></description>
+			<Point>
+				<coordinates>45.033333000000006,12.8,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>4th Voyage = Mogadishu, Somalia</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mogadishu,_Somalia)]]></description>
+			<Point>
+				<coordinates>45.35,2.033333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>4th Voyage = Barawa, Somalia</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Barawa,_Somalia)]]></description>
+			<Point>
+				<coordinates>44.033333,1.2,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>4th Voyage = Malindi, Kenya</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Malindi,_Kenya)]]></description>
+			<Point>
+				<coordinates>40.116365,-3.216541,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-93D7E8</styleUrl>
+			<name>5th Voyage = Beruwala, Sri Lanka</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Beruwala)]]></description>
+			<Point>
+				<coordinates>79.986258,6.467762,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-CDDC39</styleUrl>
+			<name>6th Voyage = Lasa, Yemen</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>49.108887,14.647368000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-CDDC39</styleUrl>
+			<name>6th Voyage  = Mecca, Saudi Arabia</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mecca)]]></description>
+			<Point>
+				<coordinates>39.858398,21.371244,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-CDDC39</styleUrl>
+			<name>6th Voyage = Jeddah, Saudi Arabia</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Jeddah,_Saudi_Arabia)]]></description>
+			<Point>
+				<coordinates>39.177246,21.514407,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-CDDC39</styleUrl>
+			<name>6th Voyage = Madinah, Saudi Arabia</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Medina)]]></description>
+			<Point>
+				<coordinates>39.600031,24.466623,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1195</styleUrl>
+			<name>Mindanao Island, Philippines</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mindanao)]]></description>
+			<Point>
+				<coordinates>125.03441,8.010868,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1195</styleUrl>
+			<name>Sulu Archipelago, Philippines</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Sulu_Archipelago)]]></description>
+			<Point>
+				<coordinates>121.0,6.000000000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1195</styleUrl>
+			<name>Semarang, Indonesia</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Semarang,_Indonesia)]]></description>
+			<Point>
+				<coordinates>110.41679,-6.966409,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1195</styleUrl>
+			<name>Chittagong</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Chittagong)]]></description>
+			<Point>
+				<coordinates>91.8,22.366667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1195</styleUrl>
+			<name>Sonaragaon (Sonargaon), Bangladesh</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Sonargaon_Upazila)]]></description>
+			<Point>
+				<coordinates>90.608333,23.658333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1195</styleUrl>
+			<name>Pandua, India</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pandua,_Malda)]]></description>
+			<Point>
+				<coordinates>88.154451,25.131044,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1195</styleUrl>
+			<name>Jaffna, Sri Lanka (Ceylon)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Jaffna,_Sri_Lanka)]]></description>
+			<Point>
+				<coordinates>80.002441,9.676569,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1195</styleUrl>
+			<name>Gujarat, India</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Gujarat)]]></description>
+			<Point>
+				<coordinates>71.531982,20.960157,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1195</styleUrl>
+			<name>Bandar Shahpur, Iran</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Bandar-e_Emam_Khomeyni)]]></description>
+			<Point>
+				<coordinates>49.088287,30.442754,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1195</styleUrl>
+			<name>Mumbai (Bombay), India</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mumbai)]]></description>
+			<Point>
+				<coordinates>72.919006,19.071852,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1195</styleUrl>
+			<name>Karwar, India</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Karwar)]]></description>
+			<Point>
+				<coordinates>74.136429,14.823344999999998,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1199</styleUrl>
+			<name>Cape of Good Hope</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>22.5,-34.161818,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>Links to sources of information</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The locations in this map were determined from the following resources, some of which contradict each other:
+
+- Wikipedia's web page on Zheng-He. (http://en.wikipedia.org/wiki/Zheng-He)
+
+- National Geographic's map of the voyages of Zheng-He. (http://ngm.nationalgeographic.com/ngm/0507/feature2/images/mp_download.2.pdf)
+
+- Google Books Wikipedia Foundation on Famous Eunnuchs (http://books.google.com/books?id=TrK7T1hUhK0C&lpg=PA151&dq=Puttanpur&pg=PA148#v=onepage&q&f=false)
+
+- zhenghe.webs.com (http://zhenghe.webs.com/voyages.htm)
+- in.kunming.cn (http://in.kunming.cn/the-business-cooperation-in-zhenghe-cultural-tour-festival-t3639.html)
+
+- Al Rahalah's Zheng He Amiral of the Treasure Ships (http://www.alrahalah.com/2010/09/zheng-he/)
+
+- Map Illustrations.com (http://www.mapillustrations.com.au/thematic_maps.html)
+
+- Cultural China's Nautical Charts of Zheng-He (http://history.cultural-china.com/en/34H206H769.html)]]></description>
+			<Point>
+				<coordinates>61.34765600000001,-11.350797,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps on History</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/)]]></description>
+			<Point>
+				<coordinates>85.78125,-10.141932,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1195'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1195-fac-flag.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1199'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1199-fac-help.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1201'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1201-fac-info-alt.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1387'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1387-rec-sailing.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F8971B'>
+			<IconStyle>
+				<color>ff1B97F8</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-962-93D7E8'>
+			<IconStyle>
+				<color>ffE8D793</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-962-CDDC39'>
+			<IconStyle>
+				<color>ff39DCCD</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

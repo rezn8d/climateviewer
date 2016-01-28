@@ -282,13 +282,13 @@ function newMarkerLabel(entity, markerLabel) {
 }
 
 function modMarkers(layerId, geoData, markerImg, markerScale, markerLabel) {
-    var layerTarget = $('#' + layerId + ' div.lb');
+    var layerTarget = $('.' + layerId + '-details');
     var markerList = $('<div class="details ' + layerId + '-list marker-list" />').insertAfter(layerTarget);
     var items = [];
 
     var entities = geoData.entities.values; // entities = all points
     for (var i = 0; i < entities.length; i++) {
-      var entity = entities[i]; // entities = single point
+      var entity = entities[i]; // entity = single point
       // console.log(entity);
       // create marker image
       var billboard = new Cesium.BillboardGraphics();
@@ -350,9 +350,17 @@ function modMarkers(layerId, geoData, markerImg, markerScale, markerLabel) {
       billboard.alignedAxis = Cesium.Cartesian3.ZERO;
       billboard.scaleByDistance = defaultScaleByDistance;
       entity.billboard = billboard;
-      console.log(entity.position);
+        //var position = entity.position;
+        //var x = position.getValue().x;
 
-      items.push('<li id="' + entity.id + '">' + entity.title + '</li>');
+        console.log(entity.position);
+        var v = entity.position.getValue();
+        //var xyz = [v.x, v.y, v.z];
+        var xy = [v.x, v.y];
+
+        console.log(xy);
+
+        items.push('<li id="' + entity.id + '">' + entity.title + '</li>');
 
         /*
          var cartographic = Cesium.Cartographic.fromCartesian(entity.position, Ellipsoid.WGS84);
@@ -369,7 +377,7 @@ function modMarkers(layerId, geoData, markerImg, markerScale, markerLabel) {
           entity.label = newMarkerLabel(entity, markerLabel);
       }
     } // end for loop
-    $('<o1/>', {
+    $('<ol/>', {
         'class':'msrkers',
         html:items.join('')
     }).appendTo(markerList);

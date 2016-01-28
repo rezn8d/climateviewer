@@ -1,0 +1,987 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Source &amp; other information</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here to get the Source & other information other information about this map. (http://myreadingmapped.blogspot.com/2012/01/the-worldwide-outbreak-of-sars-2002-2003.html)]]></description>
+			<Point>
+				<coordinates>-163.828125,24.20689,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Other disease related maps</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- The Spread of Ebola Outbreaks (http://myreadingmapped.blogspot.com/2012/01/the-spread-of-ebola-outbreaks-1976-2012.html)                
+- Middle East Respiratory Syndrome (MERS) Outbreaks (http://myreadingmapped.blogspot.com/2013/06/middle-east-respiratory-syndrome-mers.html)                  
+- Mad Cow Disease (https://maps.google.com/maps/ms?msid=202977755949863934429.0004decb447f442ed3edb&msa=0&ll=26.115986,-39.375&spn=133.320024,237.304688)                                                               
+- U.S. Fungal Meningitis Outbreak (http://myreadingmapped.blogspot.com/2012/10/us-meningitis-outbreak-oct-2012.html) ]]></description>
+			<Point>
+				<coordinates>-156.972656,10.660608,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1199</styleUrl>
+			<name>What do SARS, MERS and Ebola, 3 of the worse outbreaks in modern times, have in common?</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Otonycteris_hemprichii.jpg/800px-Otonycteris_hemprichii.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[How bats in remote locations are a threat to globalization's health. (http://myreadingmapped.blogspot.com/2013/06/how-bats-in-remote-locations-are-threat.html)
+
+ 
+
+Wikipedia Commons / Charlotte Roemer]]></description>
+			<Point>
+				<coordinates>163.476563,31.503628999999997,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>SARS linked to Chinese Horseshoe Bats.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[evolution.berkeley.edu (http://evolution.berkeley.edu/evolibrary/news/060101_batsars)
+
+...in the fall of 2005, two teams of researchers independently discovered large reservoirs of a SARS-like virus in Chinese horseshoe bats. The bats now appear to be both culprit and victim in this mystery: they are the carriers of the SARS virus, but the virus is probably only passed to humans through intermediate hosts when bats are captured and brought to market.]]></description>
+			<Point>
+				<coordinates>-169.101562,11.867351,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>Don't confuse with SARS-like Middle East Respiratory Syndrome (MERS) Outbreak</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[According to the CDC, the recent MERS-CoV outbreak is not the same coronavirus that caused severe acute respiratory syndrome (SARS) in 2003. However, like the SARS virus, MERS-CoV is most similar to coronaviruses found in bats. CDC is still learning about MERS.
+
+
+Click here (http://myreadingmapped.blogspot.com/2013/06/middle-east-respiratory-syndrome-mers.html) to go to a Google Map of the recent MERS outbreak.]]></description>
+			<Point>
+				<coordinates>49.570313,22.187405,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps on History</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>-163.476562,-5.266008,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#1 = Outbreak of SARS at Shunde, Foshan, Guangdong - Nov. 16, 2002</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/SARS#Outbreak_in_south_China)
+
+"The epidemic of SARS appears to have started in Guangdong Province, China in November 2002. The first case of SARS was reportedly originated in Shunde, Foshan, Guangdong in Nov 2002."]]></description>
+			<Point>
+				<coordinates>113.2525,22.836389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>#1A = Shunde, Foshan, Guangdong - Nov. 16, 2002</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/James_Earl_Salisbury#November_2002)  
+
+"On November 16, 2002, an outbreak of what is believed to be severe acute respiratory syndrome (SARS), began in the Guangdong province of China, which borders on Hong Kong. The first case of infection was speculated to be a farmer in Foshan County. The People's Republic of China (PRC notified the World Health Organizatio (WHO) about this outbreak on February 10, reporting 305 cases (including 105 health-care workers) and 5 deaths;[1]  it was later reported that the outbreak in Guangdong had peaked in mid-February, but that appears to be false, as later 806 infections and 34 deaths were reported,[2]  "]]></description>
+			<Point>
+				<coordinates>113.27384900000001,22.84011,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#2 = First People's Hospital of Foshan - Nov. 16, 2002</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/SARS#Outbreak_in_south_China)                                                                            
+"The 1st patient, a farmer, was treated in the First People's Hospital of Foshan (Mckay Dennis). The patient died soon after, and no definite diagnosis was made on his cause of death. Despite taking some action to control it, Chinese government officials did not inform the World Health Organization of the outbreak until February 2003.]]></description>
+			<Point>
+				<coordinates>113.25008,22.843625,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Air travel in Asia</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>116.63085900000002,31.952162,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#3 = The French Hospital of Hanoi - Feb. 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/James_Earl_Salisbury#February_2003) 
+
+On February 23,[7] a 47-year-old Chinese-American businessman (Johnny Chen, a Shanghai resident) who had stayed on the 9th floor of the Metropole Hotel (across the hall from the Chinese doctor)[8]  travelled to Hanoi, Vietnam. After his arrival he became ill and was admitted to The French Hospital of Hanoi on February 26. Seven days later, on ventilator support, he was medically evacuated to Hong Kong but by then 7 hospital workers who had cared for him had already developed symptoms of SARS. He died on March 13.[9]  At least 38 health-care workers in Hanoi were infected with SARS.]]></description>
+			<Point>
+				<coordinates>105.8408,21.003564,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>#4 = Global Alert - March 12, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: 
+
+"On 12 March 2003, the WHO issued a global alert, followed by a health alert by the United States Centers for Disease Control and Prevention (CDC). Local transmission of SARS took place in Toronto, Ottawa, San Francisco, Ulan Bator, Manila, Singapore, Taiwan, Hanoi and Hong Kong whereas within China it spread to Guangdong, Jili Hebein, Hebei, Shaanxi,  Jiangsu, Shanxi, Tianjin and Inner Mongolia."]]></description>
+			<Point>
+				<coordinates>105.872498,21.006958,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#5 = Metropark Hotel Kowloon - Feb. 21, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/James_Earl_Salisbury#February_2003)
+
+"On February 21, Liu Jianlu, a 64-year-old Chinese doctor who had treated cases in Guangdong arrived in Hong Kong to attend a wedding. He checked into the Metropole Hotel (the ninth floor - room 911).[5]  Although he had developed symptoms on February 15, he felt well enough to travel, shop, and sight-see with his brother-in-law."]]></description>
+			<Point>
+				<coordinates>114.176188,22.319627000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#6 = Kwong Wah Hospital - Feb. 22, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/James_Earl_Salisbury#February_2003)
+
+"On February 22 he [Liu Jianlun sought urgent care at the Kwong Wah Hospital nd was admitted to the intensive care unit. He died on March 4.[6] About 80% of the Hong Kong cases have been traced back to this doctor."]]></description>
+			<Point>
+				<coordinates>114.172175,22.314974,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#7 = Toronto - Feb. 23, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Centers for Disease Control: (http://www.cdc.gov/mmwr/preview/mmwrhtml/mm5223a4.htm) 
+
+"Severe acute respiratory syndrome (SARS) was first recognized in Toronto in a woman who returned from Hong Kong on February 23, 2003 (1). Transmission to other persons resulted subsequently in an outbreak among 257 persons in several Greater Toronto Area (GTA) hospitals."]]></description>
+			<Point>
+				<coordinates>-79.376221,43.65595,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#8 = Kwong Wah Hospital - Feb. 25, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/James_Earl_Salisbury#February_2003)
+
+
+"On February 25, the 53-year-old brother-in-law of the Guangdong doctor attended the Kwong Wah Hospital. He was not admitted that day but his illness worsened and he was admitted on March 1. He died on March 19."]]></description>
+			<Point>
+				<coordinates>114.17284,22.315004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#9 = Taipei - Feb. 25, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/James_Earl_Salisbury#February_2003)
+
+"On the 25th, a businessman who had travelled in Hong Kong and Guangdong Province returned home to Taipei, the beginning of the outbreak on the island of Taiwan.  Also, another person who was at the Metropole returned to Singapore."]]></description>
+			<Point>
+				<coordinates>121.633703,25.033281,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#9A = Singapore - Feb. 25, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/James_Earl_Salisbury#February_2003) 
+
+"On the 25th, a businessman who had travelled in Hong Kong and Guangdong Province returned home to Taipei,  the beginning of the outbreak on the island of Taiwan. Also, another person who was at the Metropole returned to Singapore."]]></description>
+			<Point>
+				<coordinates>103.874359,1.318243,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#10 = Teaneck, NJ - March 2, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[New Jersey Department of Health (http://www.nj.gov/health/news/p31903a.htm):
+
+"A 36-year-old female complained of fever and cough on February 8, 2003, while still in the U.S. She traveled to Asia on February 19, and about five days later developed worsening fever and cough.
+
+Despite receiving medical attention in Asia, the patient's condition worsened, prompting her to return to the U.S. on March 2. She was admitted to a North Jersey hospital the same day for atypical respiratory illness.                                                    
+Her clinical condition improved sufficiently to allow her to be discharged to home on March 17.]]></description>
+			<Point>
+				<coordinates>-74.011459,40.897944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#11 = Princess Margaret Hospital - March 4, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia:  
+
+"On March 4, a 27-year-old Hong Kong man who had visited a guest in Metropole (on the 9th floor) 11 days earlier was admitted to Prince of Wales Hospital. At least 99 hospital workers (including 17 medical students) were infected while treating him.[10] ."]]></description>
+			<Point>
+				<coordinates>114.134544,22.340341,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#12 = Bangkok - March 11, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/James_Earl_Salisbury#March_2003)
+
+"On March 11 Carlo Urban travels to Bangkok to attend a medical conference. On the flight he falls ill and upon arrival in Bangkok tells an awaiting friend not to touch him and to call an ambulance to take him to a hospital. He is isolated in an intensive care unit."
+ 
+'On March 29, Dr. Urbani died in Bangkok of a massive heart attack. (http://en.wikipedia.org/wiki/Myocardial_infarction)."]]></description>
+			<Point>
+				<coordinates>100.524902,13.774066,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Air Travel to Europe and the Middle East</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>70.3125,35.746512,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#13 = Switzerland - March 17, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 1 case, 0 deaths in Switzerland.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>8.217773,46.860191,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#14 = Ireland - March 21, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 1 case, 0 deaths in Ireland.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>-7.910155999999999,53.067627,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#15 = Amoy Garden, Hong Kong - March 25, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/James_Earl_Salisbury#March_2003) 
+
+"On March 25, Hong Kong authorities said nine tourists came down with the disease when a mainland Chinese man infected them on a March 15 Air China flight to Beijing. SARS starts to hit Amoy Gardens Block E heavily."]]></description>
+			<Point>
+				<coordinates>114.216,22.325465,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#15A = Prince of Wales Hospital 8A Medical - March 25, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Journal of the Royal society of Medicine: (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC539564/) 
+
+"The index patient in this outbreak was a 33-year-old man who lived in Shenzhen and visited his brother in Amoy Gardens regularly. His chronic renal disease was being treated at the Prince of Wales Hospital. SARS symptoms developed on 14 March 2003. On that day and 19 March he visited his brother who owned a flat in Block E of the estate. He had diarrhoea and used the toilet there. His brother, his sister-in-law and 2 nurses who attended to him at Prince of Wales Hospital subsequently developed SARS. By 15 April 2003, there had been 321 SARS cases in Amoy Gardens, with an obvious concentration in Block E (41%)."]]></description>
+			<Point>
+				<coordinates>114.201829,22.379861,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#15B = Outbreak of SARS - Prince of Wales Hospital 8A Medical</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>114.201829,22.379861,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#16 = Romania - March 27, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 1 case, 0 deaths in Romania.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>25.3125,45.151053,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#17 = Russian Federation - March 27, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 1 case, 0 deaths in Russia.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>49.746094,56.36525,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#18 = Lei Yue Mun Park And Holiday Village - March 30, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/James_Earl_Salisbury#March_2003) 
+
+On March 30, Hong Kong authorities quarantined the estate E of the Amoy Gardens Apartment due to a massive (200+ cases) outbreak in the building. The balcony was completely closed of all uses and guarded by the police. The residents of the building were later transferred to the quarantined Lei Yue Mun Holiday Camp and Lady MacLehose Holiday Village on April 1 because the building was deemed a health hazard. Most of the cases were tied to apartment units with a north-western orientation that shared the same sewage pipe. According to government officials, the virus was brought into the estate by an infected kidney patient (type of kidney illness has not been specified) who after he was discharged from Prince of Wales Hospital, visited and thus infected his elder brother living in a flat on the seventh floor. Through excretion the virus spread through plumbing. One speculated theory that supported airborne transmission was that the virus was spread through dried up U-shaped P-traps in the plumbing and was blown by a maritime breeze to the ventilation of the estate's balcony and stairwells. It was confirmed that the virus can spread via droplets, but this latest outbreak made the officials question the possibility of spreading through the air."]]></description>
+			<Point>
+				<coordinates>114.235325,22.27484,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Air travel to Southeast Asia, Australia, and New Zealand</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>132.539063,-6.664608,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#19 = Beijing Military Hospitals - April 2, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/James_Earl_Salisbury#April_2003)                                                                             
+On April 2, Chinese medical officials began reporting the status of the SARS outbreak. China's southern Guangdong province reported 361 new infections and 9 new deaths, increasing the total Mainland China figures previously reported at end-February. The virus was also detected in Beijing and Shanghai.
+ 
+Wikipedia: (http://en.wikipedia.org/wiki/SARS#Outbreak_in_south_China)                                                                              
+"...in early April, accusations emerged regarding the undercounting of cases in Beijing military hospitals."]]></description>
+			<Point>
+				<coordinates>116.474476,39.969095,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#19A = Shanxi - April 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Journal of the Royal Society of Medicine: (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC539564/)                                                                                             
+"Later in April 2003, SARS cases were reported in other provinces and cities of Mainland China including Beijing, Shanxi, Neimonggol, Tianjin and Hebei. Up to 5 June 2003, Mainland China had a total of 5329 cases with 336 reported deaths."]]></description>
+			<Point>
+				<coordinates>112.562569,37.873376,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#19B = Neimonggoll - April 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Journal of the Royal Society of Medicine: (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC539564/)                                                                                          
+"Later in April 2003, SARS cases were reported in other provinces and cities of Mainland China including Beijing, Shanxi, Neimonggol, Tianjin and Hebei. Up to 5 June 2003, Mainland China had a total of 5329 cases with 336 reported deaths."]]></description>
+			<Point>
+				<coordinates>113.3,39.432698,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#19C = Tianjin - April 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Journal of the Royal Society of Medicine: (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC539564/)                                                                                         
+"Later in April 2003, SARS cases were reported in other provinces and cities of Mainland China including Beijing, Shanxi, Neimonggol, Tianjin and Hebei. Up to 5 June 2003, Mainland China had a total of 5329 cases with 336 reported deaths."]]></description>
+			<Point>
+				<coordinates>117.20098300000001,39.084158,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#19D = Hebei - April 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Journal of the Royal Society of Medicine: (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC539564/)                                                                                            
+"Later in April 2003, SARS cases were reported in other provinces and cities of Mainland China including Beijing, Shanxi, Neimonggol, Tianjin and Hebei. Up to 5 June 2003, Mainland China had a total of 5329 cases with 336 reported deaths."]]></description>
+			<Point>
+				<coordinates>114.468665,38.037057,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#20 = Spain - April 2, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 1 case, 0 deaths in Spain.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>-3.515625,40.313043,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#21 = Manila - April 6, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/James_Earl_Salisbury#April_2003)                                                                              
+"On April 6 a SARS case was found in Manila, a person who had returned from Hong Kong."]]></description>
+			<Point>
+				<coordinates>120.96666700000002,14.583333000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#22 = The Lower Ngau Tau Kok Estate - April 8, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/James_Earl_Salisbury#April_2003)                                                                                  
+"On April 8, SARS starts to plague the Lower Ngau Tau Kok Estate near Amoy Gardens in Kowloon. Hong Kong health officials warned that SARS had spread so far domestically and abroad that it was here to stay. Nevertheless, WHO officials remained cautiously optimistic that the disease could still be contained."]]></description>
+			<Point>
+				<coordinates>114.21549800000001,22.321912,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#23 = Kuwait - April 9, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 1 case, 0 deaths in Kuwait.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>47.680664,29.190533,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#24 = South Africa - April 9, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 1 case, 1 deaths in South Africa.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>21.09375,-31.952162,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#25 = Toronto - April 12, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia:
+
+"On April 12,in Toronto three more people die of SARS, bringing the Canadian death toll to 13."]]></description>
+			<Point>
+				<coordinates>-79.343262,43.654956,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#26 = Vietnam - April 14, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 63 cases, 5 deaths in Vietnam.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>108.28125,12.382928,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Air Travel to India and South Africa</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>75.234375,-10.833306,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#27 = Dinnur - April 17, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/James_Earl_Salisbury#April_2003)
+
+"Doctors were surprised to discover the occurrence of at least two cases of SARS in Dinnur, a village near Bangalore, India. Poor hygiene and a lack of adequate trash disposal seemed to have hastened the spread of the deadly disease."]]></description>
+			<Point>
+				<coordinates>77.600555,13.023206,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#28 = Sweden - April 18, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 3 cases, 0 deaths in Sweden.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>15.292969,59.085739,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#29 = Chingeltei District Mongolia - April 19, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Eurasia.net (http://www.eurasianet.org/departments/insight/articles/pp042603.shtml)  
+
+"Health officials initially collected blood samples from five patients under observation at the National Center of Infectious Diseases Research (NCIDR) in the country's capital. However, the sudden 19 April death of a patient in the Chingeltei district hospital led medical personnel to suspect another case of Severe Acute Respiratory Syndrome (SARS) and add another sample to be tested."]]></description>
+			<Point>
+				<coordinates>106.91396,47.925571000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>#30 = Beijing - April 20, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/James_Earl_Salisbury#April_2003)                                                                              
+"On April 20, Beijing mayor Meng Xuenong and health minister of the PRC Zhang Wenkang were replaced respectively by Wang Qishan rom Hainan and the former deputy health minister Gao Qiang. They are the first two high rank officials in the PRC to be dismissed because of the fallout of the epidemic. In the news conference chaired by Gao Qiang several hours earlier, the PRC admitted that in Beijing there are more than 300 cases, as opposed to the previous figure of only 37. One day later the figure has increased to 407. Chinese officials also admitted to major under reporting of cases, which were attributed to bureaucratic ineptitude."]]></description>
+			<Point>
+				<coordinates>117.004395,40.044438,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#31 = Indonesia - April 23, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 2 cases, 0 deaths in Indonesia.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>111.972656,-1.406109,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Air Travel to North and South America</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>152.578125,18.646245,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#32 - New York - April 25, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[DocGuide.com (http://www.docguide.com/new-york-city-reports-18-possible-sars-cases-all-improving)                                                                                                      
+"The New York City Department of Health and Mental Hygiene (DOHMH) announced yesterday that to date, there have been a total of 18 possible cases of Severe Acute Respiratory Syndrome (SARS) in New York City, two of which are classified as probable cases as per new federal guidelines for SARS classification."
+
+
+Wikipedia: (http://en.wikipedia.org/wiki/SARS#United_States)
+"New York City’s Chinatown was particularly affected, as rumors of local infections circulated fear around the community and many Asian Americans felt stigmatized in the general public."]]></description>
+			<Point>
+				<coordinates>-73.996267,40.715842,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#33 = Italy - April 29, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 4 cases, 0 deaths in Italy.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>11.601563,43.004647,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#34 = United Kingdom - April 29, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 4 cases, 0 deaths in United Kingdom.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>-1.757812,52.855864,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#35 = New Zealand - April 30, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 1 case, 0 deaths in New Zealand.
+
+World Health Organization. 
+(http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>171.47460900000002,-43.580391,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#36 = Columbia - May 5, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 1 case, 0 deaths in Columbia.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>-73.300781,2.811371,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#37 = Mongolia - May 6, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 9 cases, 0 deaths in Mongolia.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>100.546875,46.679594,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#38 = Finland - May 7, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 1 case,0 deaths in Finland.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>25.3125,62.34960900000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#39 = France - May 9, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 7 cases, 1 deaths in France
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>2.8125,46.55886,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#40 = Germany - May 9, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 10 cases, 0 deaths in Germany.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>10.634766,51.835778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#41 = Macau, China - May 11, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[2SARS.com (http://www.2sars.com/archives2.htm)
+
+"May 11: Macau has launched an emergency anti-SARS plan after the former Portuguese colony reported its first confirmed SARS case eight weeks after the deadly respiratory disease struck neighbouring Hong Kong."
+
+WHO reported 1 case, 0 deaths.]]></description>
+			<Point>
+				<coordinates>113.550568,22.205206,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#42 = Australia - May 12, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 5 cases, 0 deaths in Australia.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>135.0,-24.846565,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#43 = India - May 13, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 3 cases, 0 deaths in India.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>77.871094,18.979026,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>#48 = Toronto - May 29, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia: (http://en.wikipedia.org/wiki/James_Earl_Salisbury#May_2003)                                                                                      
+"By May 29, more than 5000 people were quarantined in Canada by authorities seeking to control the potential spread of this new SARS outbreak."]]></description>
+			<Point>
+				<coordinates>-79.035645,43.882057,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#49 = Thailand - June 7, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 9 cases, 2 deaths in Thailand.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>101.25,15.538376000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#50 = Brazil - June 9, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 1 cases, 0 deaths in Brazil.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>-53.4375,-8.407168,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#51 = Canada - June 9, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 250 cases, 38 deaths in Canada.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>-93.867187,51.835778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#52 = Hong Kong - June 11, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 1715 cases, 298 deaths in Hong Kong.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>114.288025,22.317049000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#53 = Taiwan - June 19, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 671 cases, 84 deaths in Taiwan.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>121.09130900000001,24.226929,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#54 = United States - June 23, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 75 cases, 0 deaths in the United States.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>-97.382812,38.548165,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#55 = China - June 25, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 5,227 cases, 348 deaths in China.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>103.71093800000001,36.59788900000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#44 = Republic of Korea - May 14, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 3 cases, 0 deaths in Korea.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>127.705078,36.774092,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#45 = Philippines - May 15, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 14 cases, 0 deaths in Philippines.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>123.92578100000001,8.928487,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#46 = Singapore - May 18, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 206 cases, 32 deaths in Singapore.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>101.162109,0.8788720000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#47 = Malaysia - May 20, 2003</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[WHO reported 5 cases, 0 deaths in Malaysia.
+
+World Health Organization. (http://www.who.int/csr/sars/country/2003_07_11/en/)]]></description>
+			<Point>
+				<coordinates>101.601563,6.489983,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1417</styleUrl>
+			<name>Air Travel from Saudia Arabia to England, Germany, Jordan and Quatar</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>35.332031,31.802893,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#56 = Hong Kong - June 2013</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Daily Mail (http://www.dailymail.co.uk/health/article-177554/Hong-Kong-SARS-deaths.html)
+
+Hong Kong: six more SARS deaths
+
+Hong Kong's government today revealed that the SARS virus had killed six more people in the city and infected 22 more...The flu-like disease, which is widely believed to have originated in southern China, hit Hong Kong in March and has been spread around the world by air travellers...
+Meanwhile a British man suspected of having SARS was hospitalised after fleeing to Hong Kong from Indonesia.]]></description>
+			<Point>
+				<coordinates>114.19738800000002,22.334198,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>View this map in Google Earth. </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Non-networked Google Earth KML file: (https://docs.google.com/file/d/0B52hHMRyBvEseTNBYl9jOEREdU0/edit)]]></description>
+			<Point>
+				<coordinates>-146.25,-3.513421,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1199'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1199-fac-help.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1201'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1201-fac-info-alt.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1417'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1417-trans-airport.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-962-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

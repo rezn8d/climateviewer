@@ -1,0 +1,4256 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-991</styleUrl>
+			<name>Government Shutdown Ended, US default avoided after 16 day shutdown.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com (http://www.huffingtonpost.com/2013/10/16/government-shutdown-debt-ceiling_n_4111483.html)
+
+The Senate voted 81 to 18 Wednesday night to reopen the federal government and raise the nation's borrowing limit, hours before the Treasury Department faced the possibility of being unable to pay all of America's bills for the first time in modern history.
+
+The House followed suit, voting 285-144, to end the latest damaging battle of divided government in a polarized Congress.
+
+President Barack Obama signed the legislation early Thursday. He said he would reopen the government immediately to "lift this cloud of uncertainty and unease" that settled on the nation and start fixing the damage.
+
+"There is a lot of work ahead of us, including our need to earn back the trust of the American people that has been lost over the last few weeks," Obama said in a brief speech at the White House.]]></description>
+			<Point>
+				<coordinates>-58.007812,52.268157,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1107</styleUrl>
+			<name>144 Republicans in the House voted to send the nation into default in final vote by 2 to 1.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[NY Times (http://www.nytimes.com/2013/10/17/us/congress-budget-debate.html?_r=0)
+
+With the Treasury Department warning that it could run out of money to pay national obligations within a day, the Senate voted overwhelmingly on Wednesday evening, 81 to 18, to approve a proposal hammered out by the chamber’s Republican and Democratic leaders after the House on Tuesday was unable to move forward with any resolution. The House followed suit a few hours later, voting 285 to 144 to approve the Senate plan, which would fund the government through Jan. 15 and raise the debt limit through Feb. 7.]]></description>
+			<Point>
+				<coordinates>-69.257812,50.401515,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-971</styleUrl>
+			<name>16-Day Government Shutdown Cost the economy $24 Billion, Standard &amp; Poor's Says</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com (http://www.huffingtonpost.com/2013/10/16/government-shutdown-cost_n_4110818.html)
+ 
+WASHINGTON -- The government shutdown has taken at least $24 billion out of the United States economy, the financial ratings agency Standard & Poor's said Wednesday.
+The firm said the shutdown caused it to cut its forecast of gross domestic product growth in the fourth quarter by at least 0.6 percentage point. The agency lowered its estimate for GDP growth to close to 2 percent from 3 percent.
+
+The estimate represents a staggering cost to the economy of a completely self-inflicted political catastrophe. Unlike the 2008 economic crisis and other past recessions, the government shutdown had nothing to do with larger economic trends. The numbers show Washington's brinksmanship caused real damage beyond furloughed government workers and the Washington, D.C., region.]]></description>
+			<Point>
+				<coordinates>-79.804687,56.559482,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1107</styleUrl>
+			<name>The Price of the U.S. Senate's Bipartisanship: A $2.9 billion bribe to conservatives who are supposedly fiscally accountable.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com
+
+[Senate Minority Leader Mitch McConnell (R-Ky.] himself helped craft the budget deal that left Obamacare virtually unscathed. The Senate Conservatives Fund also hammered him over a provision in the legislation boosting funding for the Olmsted Locks and Dam in Kentucky from $775 million to $2.9 billion.]]></description>
+			<Point>
+				<coordinates>-69.257812,53.330873,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1107</styleUrl>
+			<name>How your job is dependent on Government spending and debt.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- Civilian contractors who serve military bases. 
+- Employees of the military equipment manufacturers and their suppliers. 
+- Employees of companies dependent on tourism of the national parks.
+- Employees of companies that service social programs such as Medicare, Unemployment Debt Cards, section 8 housing.
+- Employees of architectural and construction firms, and their suppliers,  involved in construction projects due to billions in government earmarks.
+- Employees of companies that sell product or services to the government.
+- Employees of companies that receive government subsidies, bailouts or tax breaks.
+- Employees of companies that benefit from U.S. foreign aid programs that require the money be spent buying product from American companies. 
+- Employees of the shipping, delivery, retail and manufacturing market that depend on a government funded national highway system, air traffic control, and the dredging of our waterways.
+- Your company's customer is dependent on government funding to purchase their products so they can buy your products.]]></description>
+			<Point>
+				<coordinates>-75.9375,51.618017,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Sources of information this map is based on.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[While I admit to a certain degree of a political agenda in creating this map, I in no way allowed it to determine which states, programs, departments, affluence or funding to include. These are simply any and all the items I could find in the media online.
+
+- CNN: Government shutdown: What's closed, what's open. (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/) 
+
+- The Weather Channel: 25 Awesome Places Closed by the Government Shutdown. (http://www.weather.com/travel/25-awesome-places-closed-federal-government-shutdown-20131001) 
+
+- Huffington Post: What is Open and Closed in Washington, DC During a Government Shutdown. (http://www.huffingtonpost.com/2013/09/30/open-closed-in-dc-government-shutdown_n_4017306.html#slide=2963786)
+
+- Any other articles in the media I could find. 
+
+- My spreadsheet analysis and observations of Federal Aid to States. 
+--(https://docs.google.com/spreadsheet/ccc?key=0Ap2hHMRyBvEsdGVjYWhZZVZ1YVE4ZzFINGR2YUlRa3c&usp=drive_web#gid=0) 
+ 
+(https://docs.google.com/file/d/0B52hHMRyBvEsNXJmTS10dEtfT0U/edit?usp=drive_web) ]]></description>
+			<Point>
+				<coordinates>-70.3125,35.317366,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>See the government office buildings in 3D.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[With this Non-Networked Google Earth KML file you can see the government office buildings in 3D if you turn on the Buildings layer.                         (https://docs.google.com/file/d/0B52hHMRyBvEsMndSdjNXQWhSVzA/edit)          ]]></description>
+			<Point>
+				<coordinates>-70.839844,23.402765,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps of History</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>-119.707031,25.005973,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Color coding explained</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The political coloring was determined by the election results map at 247wallst.com's Money and Politics: Blue States Bad for Business and Employment.(http://247wallst.com/economy/2013/07/11/money-and-politics-blue-states-bad-for-business-and-employment/) 
+
+- Yellow: Washington, DC government offices
+- Blue: Liberal states in the 2012 election
+- Red: Conservative states in the 2012 election]]></description>
+			<Point>
+				<coordinates>-70.3125,29.382174999999997,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1107</styleUrl>
+			<name>How the U.S. Government Shutdown can happen again.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Since the U.S. Senate structure gives 2 seats to each state for terms of six years, the 33 small states, mostly rural states, representing 29.9% of the population, have more power than the 17 large population states representing 70.1% of the population. Thus, a small number of extremist Tea Party conservative U.S. Senators stalemated all 535 members of both houses of Congress on virtually any issue.]]></description>
+			<Point>
+				<coordinates>-64.863281,28.613459,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>House Republicans Changed The Rules So A Majority Vote Couldn't Stop The Government Shutdown</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Huffington Post (http://www.huffingtonpost.com/2013/10/15/eric-cantor-government-shutdown_n_4101592.html?utm_hp_ref=politics):
+
+It's been more than two weeks since the Senate passed a "clean" funding bill to open the government, with no strings attached. Typically, any House member could call up that bill and request a vote. But on Sept. 30, on the eve of the shutdown, Republicans quietly changed the House rules so only one person can bring that bill up: Cantor.
+
+Moran said the rules change was "unprecedented" and has left Virginians, along with every one else, at the hands of Cantor to end the shutdown, even though he refuses to do so. The Senate-passed bill already has the votes to pass in the House and would be signed into law by the president, if it were allowed to get a vote.]]></description>
+			<Point>
+				<coordinates>-95.625,59.175928,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-971</styleUrl>
+			<name>What happens if the government defaults over its debt?</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[upi.com (http://www.upi.com/Top_News/US/2013/10/06/The-Issue-Default-disaster-in-the-making/UPI-42971381048200/)
+
+"Credit markets could freeze, the value of the dollar could plummet, U.S. interest rates could skyrocket, the negative spillovers could reverberate around the world, and there might be a financial crisis and recession that could echo the events of 2008 or worse," the six-page treasury report issued Thursday said.]]></description>
+			<Point>
+				<coordinates>-110.742187,51.069017,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-971</styleUrl>
+			<name>Conservative &amp; Liberal State Government Dependency on Federal Aid</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[wnd.com (http://www.wnd.com/2011/04/280777/)
+
+Already 27 states rely on federal aid as their primary source of funding, but the report by the Wyoming Liberty Group describes this year’s level as a critical breaking point...
+
+Last year, Oklahoma and Louisiana were the most dependent, with federal aid comprising 50 percent or more of their revenue. Ten other states were more than 40-percent dependent, compared to only one state in 2005, Louisiana, at 45 percent...
+
+The rankings also reveal that another 16 states have dependency levels above one-third of their budget.]]></description>
+			<Point>
+				<coordinates>-102.304687,50.958427,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-971</styleUrl>
+			<name>How your job and income are involved in the shutdown.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[It isn't just the 800,000 government employees affected by the shutdown, there are tens of thousands civilian jobs at stake who are employed under contract with the government, and many state budgets depend on federal funding. When all these people whose livelihood depends on government funding can't buy your goods and services, you too may fall victim of the U.S. government shutdown.
+
+Your job and income are entwined in how big government has grown either because your employer intervened in government on your behalf, or because it services a government program, or because your employer sells product and services to the government, or because your customer works for or sells product and services to the government. Or, because your employer receives a government subsidy, bailout or tax break. We have the world's largest economy in part due to the fact that we have the world's largest government.]]></description>
+			<Point>
+				<coordinates>-106.347656,50.958427,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-971</styleUrl>
+			<name>Corporate oligarchy via Supreme Court Decision on Corporate Personhood Rights to fund political activism of the extreme right.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[nytimes.com (http://www.nytimes.com/2013/10/06/us/a-federal-budget-crisis-months-in-the-planning.html?hp&_r=0)
+
+The current budget brinkmanship is just the latest development in a well-financed, broad-based assault on the health law, Mr. Obama’s signature legislative initiative. Groups like Tea Party Patriots, Americans for Prosperity and FreedomWorks are all immersed in the fight, as is Club for Growth, a business-backed nonprofit organization. Some, like Generation Opportunity and Young Americans for Liberty, both aimed at young adults, are upstarts. Heritage Action is new, too, founded in 2010 to advance the policy prescriptions of its sister group, the Heritage Foundation.
+
+The billionaire Koch brothers, Charles and David, have been deeply involved with financing the overall effort. A group linked to the Kochs, Freedom Partners Chamber of Commerce, disbursed more than $200 million last year to nonprofit organizations involved in the fight. Included was $5 million to Generation Opportunity, which created a buzz last month with an Internet advertisement showing a menacing Uncle Sam figure popping up between a woman’s legs during a gynecological exam.
+
+The groups have also sought to pressure vulnerable Republican members of Congress with scorecards keeping track of their health care votes; have burned faux “Obamacare cards” on college campuses; and have distributed scripts for phone calls to Congressional offices, sample letters to editors and Twitter and Facebook offerings for followers to present as their own.]]></description>
+			<Point>
+				<coordinates>-97.734375,51.069017,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1101</styleUrl>
+			<name>Corporate Oligarchy that runs Washington intervenes in shutdown dispute.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[business.financialpost.com/ (http://business.financialpost.com/2012/12/11/more-than-150-ceos-call-on-obama-and-boehner-to-strike-fiscal-deal/)
+
+More than 150 CEOs call on Obama and Boehner to strike fiscal deal.
+
+More than 150 chief executive officers, including JPMorgan Chase & Co.’s Jamie Dimon and Goldman Sachs Group Inc.’s Lloyd Blankfein called on President Barack Obama and House Speaker John Boehner to compromise on a budget deal that would include new tax revenue and spending cuts.]]></description>
+			<Point>
+				<coordinates>-33.398437,59.888937,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-971</styleUrl>
+			<name>Schedule of Revenues vs. Expenses, and the Debt Service Payment Due</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static3.businessinsider.com/image/5252d4e66bb3f78555fdcbbf-960/cotd-56.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[This chart on BusinessInsider.com, provided by Goldman Sachs, shows the true picture of how the financial crisis hits on November 1st that will affect both Social Security and Medicare, and the huge Debt Service payment due on November 15th that could likely put us in default.
+
+
+Click here to enlarge. (http://www.businessinsider.com/chart-of-the-day-this-chart-destroys-the-debt-ceiling-truthers-2013-10)
+
+
+Source: Goldman Sachs]]></description>
+			<Point>
+				<coordinates>-88.59375,51.179343,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-971</styleUrl>
+			<name>Ryan's GOP Budget Reallocates Social Spending Cuts to Increase Military Spending. So, where is the debt reduction?</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Congressman Paul Ryan's budget, the hallmark of the GOP budget planning, cuts social spending to reallocate the funds to military spending. Thus, there is no reduction in spending or debt reduction. Nor does the government get any smaller when he employs the private sector in the military and increases the privatization of government services on the national credit card. Thus a growing amount of the private sector now makes its income on our taxes.
+
+If you truly want better fiscal accountability you must apply the cuts to business interests as well. And, if you truly want smaller government, shutdown the ability of business to intervene in government and limit it's ability to control government and government spending that benefits business. But, in reducing the size and cost of government will cost the private sector lots of jobs and earnings since our economy is so dependent on government spending.]]></description>
+			<Point>
+				<coordinates>-80.859375,50.064192,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1139</styleUrl>
+			<name>Volatility Arbitrage benefits from a stalemated Congress.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Notice how the stock market is going up and down at a rapid pace during the government shutdown due to the news about the shutdown. That is because there is money to be made in Volatility Arbitrage. The more they can keep the economy in a volatile state, the more money is to be made by those who have money.
+
+Wikipedia (http://en.wikipedia.org/wiki/Volatility_arbitrage)
+
+Volatility arbitrage: is not "true economic arbitrage" (in the sense of a risk free profit opportunity). It relies on predicting the future direction of implied volatility. Even portfolio based volatility arbitrage approaches which seek to "diversify" volatility risk can experience "black swan" events when changes in implied volatility are correlated across multiple securities and even markets.
+-----
+
+As I see it, one way to profit from volatility is to control congress and have the two parties opposing and stalemating each other. The exact situation we are experiencing in this government shutdown.]]></description>
+			<Point>
+				<coordinates>-41.484375,51.179343,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1139</styleUrl>
+			<name>Those who profit from the shutdown and the related Volatility Arbitrage.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[motherjones.com (http://www.motherjones.com/mojo/2013/10/who-would-benefit-government-default)
+
+- Stock short sellers
+- Investors in gold and silver
+- Bitcoin investors (maybe)
+- Currency traders
+- Pawn shops
+- Bankruptcy lawyers
+- Mortgage servicers
+- The canned and freeze-dried food industries
+
+I would also add:
+- Gun sellers
+- Repossessors
+- Investors in foreclosed properties
+- High-frequency traders
+- Speculators]]></description>
+			<Point>
+				<coordinates>-27.070312,51.179343,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1101</styleUrl>
+			<name>Most Red States Take More Money From Washington Than They Put In</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[motherjones.com
+(http://www.motherjones.com/politics/2011/11/states-federal-taxes-spending-charts-maps)
+
+Most Red States Take More Money From Washington Than They Put In 
+
+Red states were more likely to get a bigger cut of federal spending. Of the 22 states that went to McCain in 2008, 86 percent received more federal spending than they paid in taxes in 2010. In contrast, 55 percent of the states that went to Obama received more federal spending than they paid in taxes. Republican states, on average, received $1.46 in federal spending for every tax dollar paid; Democratic states, on average, received $1.16.]]></description>
+			<Point>
+				<coordinates>-56.42578100000001,37.300275,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1101</styleUrl>
+			<name>Gross Domestic Product by Population and Political Afillilation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[My own spreadsheet analysis of Federal Aid to States 2009 (https://docs.google.com/spreadsheet/ccc?key=0Ap2hHMRyBvEsdGVjYWhZZVZ1YVE4ZzFINGR2YUlRa3c&usp=drive_web#gid=0)
+
+- The 17 high- population states, representing 70.1% of the national population, contribute 72% of the Gross Domestic Product
+- The 33 low-population states, representing 29.9%% of the national population, contribute 28% of the Gross Domestic Product  
+- The 21 BLUE states, representing 48.72% of the population, contribute 53% of the Gross Domestic Product 
+- The 26 RED states, representing 40.57% of the population, contribute 38% of the Gross Domestic Product
+- The 3 Purple states, representing 10.71% of the population, contribute 10% of the Gross Domestic Product.    
+- The five top state economies, only 10% of the states (CA, TX, NY, FL, and IL), and represent 39.5% of the total US GDP.]]></description>
+			<Point>
+				<coordinates>-59.765625,32.249974,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1101</styleUrl>
+			<name>Amount of Money States Paid in Federal Taxes vs. what they received in Federal Aid  based on Population Density</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[My own spreadsheet analysis of Federal Aid to States 2009 (https://docs.google.com/spreadsheet/ccc?key=0Ap2hHMRyBvEsdGVjYWhZZVZ1YVE4ZzFINGR2YUlRa3c&usp=drive_web#gid=0)
+
+- 17 states (or 34% of the states) with a population of MORE than 6 million, represent 70.1% of the national population, paid 73.1% of all the Federal Taxes, received 67.6% of all the Federal Aid, and got back 18.9% of what they paid in Federal Taxes. (California, Texas, New York, Florida, Illinois, Pennsylvania, Ohio, Michigan, Georgia, North Carolina, New Jersey, Virginia, Washington, Massachusetts, Indiana, Arizona, and Tennessee)
+- 33 states (or 66% of the states) with a population of LESS than 6 million, represent 29.9% of the national population, paid 26.9% of all the Federal Taxes, received 32.4% of all the Federal Aid, got back 24.6% of what they paid in Federal Taxes. (Missouri, Maryland, Wisconsin, Minnesota, Colorado, Alabama, South Carolina, Louisiana, Kentucky, Oregon, Oklahoma, Connecticut, Iowa, Mississippi, Arkansas, Kansas, Utah, Nevada, New Mexico, West Virginia, Nebraska, Idaho, Hawaii, Maine, New Hampshire, Rhode Island, Montana, Delaware, South Dakota, Alaska, North Dakota, Vermont, and Wyoming)]]></description>
+			<Point>
+				<coordinates>-59.589844,26.902477,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1101</styleUrl>
+			<name>Disproportionate balance between what some states pay in Federal Taxes vs. what they receive in Federal Aid</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[My own spreadsheet analysis of Federal Aid to States 2009 (https://docs.google.com/spreadsheet/ccc?key=0Ap2hHMRyBvEsdGVjYWhZZVZ1YVE4ZzFINGR2YUlRa3c&usp=drive_web#gid=0)
+
+Some states receive a very high return from
+their Federal Tax dollar.
+
+- For example South Dakota got 85% of its tax dollar back, New Mexico got 81% back, and Mississippi got 70% back, Wyoming got 63% back, and North Dakota got 60% back, While, Maine got 54% back, Vermont got 44% back, Hawaii got 35% back, and Iowa got 27% back.
+- However the largest states get a much smaller share of their money back. For example, New York got only 21% of its Federal Tax dollar back, California got 20% back, Florida got 17% back, Texas got 16%, back, and Georgia got 15%.]]></description>
+			<Point>
+				<coordinates>-59.414062,20.797201,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1101</styleUrl>
+			<name>Of the 18 states (or 36%) that received MORE than $10 billion in Federal Aid</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[My own spreadsheet analysis of Federal Aid to States 2009 (https://docs.google.com/spreadsheet/ccc?key=0Ap2hHMRyBvEsdGVjYWhZZVZ1YVE4ZzFINGR2YUlRa3c&usp=drive_web#gid=0)
+
+- 6 are RED states with a population of MORE than 6 million (Texas, Georgia, North Carolina, Indiana, Arizona, and Tennessee)
+- 2 are RED states with a population of LESS than 6  million (Louisiana and Missouri)
+- 8 are BLUE states with a population of MORE than 6 million (California, New York, Illinois, Pennsylvania, Michigan, New Jersey, Washington, and Massachusetts)
+- 2 are PURPLE states with a population of MORE than 6 million (Florida and Ohio)]]></description>
+			<Point>
+				<coordinates>-53.085937,32.249974,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1101</styleUrl>
+			<name>Of the 14 states (or 30%) that received BETWEEN $5 billion and $10 billion in Federal Aid</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[My own spreadsheet analysis of Federal Aid to States 2009 (https://docs.google.com/spreadsheet/ccc?key=0Ap2hHMRyBvEsdGVjYWhZZVZ1YVE4ZzFINGR2YUlRa3c&usp=drive_web#gid=0)
+
+- 7 are RED states with a population of LESS than 6 million (Colorado, Alabama, South Carolina, Kentucky, Oklahoma, Mississippi, and Arkansas) 
+- 7 are BLUE states with a population of LESS than 6 million (Maryland, Wisconsin, Minnesota, Oregon, Connecticut, Iowa, and New Mexico)]]></description>
+			<Point>
+				<coordinates>-52.558594,26.74561,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1101</styleUrl>
+			<name>Of the 18 states (or 34%) that received LESS than $5 billion in Federal Aid:</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[My own spreadsheet analysis of Federal Aid to States 2009 (https://docs.google.com/spreadsheet/ccc?key=0Ap2hHMRyBvEsdGVjYWhZZVZ1YVE4ZzFINGR2YUlRa3c&usp=drive_web#gid=0)
+
+- 11 are RED states with a population of LESS than 6 million (Kansas, Utah, West Virginia, Nebraska, Idaho, Montana, South Dakota, Alaska, North Dakota, and Wyoming)
+- 6 are BLUE states with a population of LESS than 6 million (Hawaii, Maine, New Hampshire, Rhode Island, Delaware, and Vermont)
+- 1 is a PURPLE state with a population of LESS than 6 million (Nevada)]]></description>
+			<Point>
+				<coordinates>-52.558594,20.96144,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1199</styleUrl>
+			<name>Patriotism or Financial Treason?</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Depending on you political affiliation, these extreme Tea Party / GOP Congressmen and Congresswomen are either patriots expressing their Constitutional right to challenge their government, or outright traitors for putting their nation at a risk more dangerous than the 911 World Trade Center terrorist attack if they force the nation to default on its debt.
+
+----
+huffingtonpost.com (http://www.huffingtonpost.com/2013/10/12/default-american-revolution-morgan-griffith_n_4089911.html)
+ 
+Rep. Morgan Griffith (R-Va.) compared the looming default to the American Revolution on Saturday after a meeting with House Republicans.
+ 
+“We have to make a decision that’s right long-term for the United States, and what may be distasteful, unpleasant and not appropriate in the short run may be something that has to be done,” Griffith said, according to The Hill. “I will remind you that this group of renegades that decided that they wanted to break from the crown in 1776 did great damage to the economy of the colonies. They created the greatest nation and the best form of government, but they did damage to the economy in the short run.”
+ 
+However, Rep. Griffith fails to understand that the nation and economy were a lot smaller then, so the impact of a government shutdown and default on an economy that was primarily a self-supporting agriculture economy of 2 million people was minimal when compared to an economy of 313 million people that is now an industrialized society.]]></description>
+			<Point>
+				<coordinates>-127.441406,24.367114,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1199</styleUrl>
+			<name>Are crisis management and blackmail now the way to govern?</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[As a former middle-of-the-road GOP elected common councilman, who believes that good government and fiscal responsibility can only come as a result of good management of our social obligations, I consider the actions of my former political party as outright blackmail. This is no way to run a government of the people. Since when does one minor portion of the population get to rule over the majority. But that is where we are right now. The extremists rule and big business, who spend $3 billion a year in lobbying Washington, now rule via a corporate oligarchy. And, its these two factions that are fighting among the GOP that have congress in a state of chaos by creating crisis management. This is no way to govern.]]></description>
+			<Point>
+				<coordinates>-127.617187,31.503628999999997,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Look at how many places are affected in Conservative Tea Party States</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[If you are a Tea Party Conservative, look at how many of your fellow conservatives you put out of work and put in long-term debt if the shutdown lasts more than two weeks to push your political agenda.]]></description>
+			<Point>
+				<coordinates>-65.566406,22.755921,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Risk of another National Credit-Rating Downgrade by Standard &amp; Poor's</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/United_States_federal_government_credit-rating_downgrade#Warnings_of_a_downgrade)
+
+On April 18, 2011, U.S.-based rating agency S&P issued a "negative" outlook on the U.S.'s "AAA" (highest quality) sovereign-debt rating for the first time since the rating agency began in 1860, indicating there was a one-in-three chance of an outright reduction in the rating over the next two years. S&P considered the government budget deficit of more than 11 percent of gross domestic product (GDP), and net government debt rising to about 80 percent or more of GDP by 2013, to be high relative to other "AAA" countries.[9] According to S&P, meaningful progress towards balancing the budget would be required to move the U.S. back to a "stable" outlook.[4] The S&P press release stated:
+ 
+"We believe there is a material risk that U.S. policymakers might not reach an agreement on how to address medium– and long-term budgetary challenges by 2013; if an agreement is not reached and meaningful implementation is not begun by then, this would in our view render the U.S. fiscal profile meaningfully weaker than that of peer 'AAA' sovereigns."]]></description>
+			<Point>
+				<coordinates>-74.010392,40.703368,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-971</styleUrl>
+			<name>Two days before the U.S. is expected to default, the Fitch credit rating agency puts the U.S. 'AAA' Credit Rating on review for Downgrade</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com (http://www.huffingtonpost.com/2013/10/15/fitch-us-credit-rating_n_4102262.html)
+
+Fitch Ratings-New York/London-15 October 2013: Fitch Ratings has placed the United States of America's (U.S.) 'AAA' Long-term foreign and local currency Issuer Default Ratings (IDRs) on Rating Watch Negative (RWN). The ratings of all outstanding U.S. sovereign debt securities have also been placed on RWN, as has the U.S. Short-term foreign currency rating of 'F1+'. The Outlook on the Long-term ratings was previously Negative. The U.S. Country Ceiling has been affirmed at 'AAA'.
+
+Fitch expects to resolve the RWN by the end of Q114 at the latest, although timing would necessarily reflect developments and events, including the duration of any agreement to raise the debt ceiling.]]></description>
+			<Point>
+				<coordinates>-69.960937,56.752723,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-971</styleUrl>
+			<name>Repo and reverse-repo loans</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[businessweek.com
+
+A government default could freeze the repo market more than Lehman’s collapse because U.S. debt forms its backbone. At least $2.8 trillion of Treasuries serve as collateral for repo and reverse-repo loans, according to Fed data.]]></description>
+			<Point>
+				<coordinates>-93.339844,51.179343,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Alaska king crab season</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[komonews.com (http://www.komonews.com/news/local/Alaska-king-crab-season-threatened-by-government-shutdown-226610821.html)
+
+The Alaska king crab season is set to start soon, but all the fishing boats will have to stay docked because the government must sign off on permits and quotas. 
+
+Fisherman stand to lose hundreds of thousands of dollars unless lawmakers make a compromise.]]></description>
+			<Point>
+				<coordinates>-163.125,53.852527,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Karst Stage Inc tourist travel dries up</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[abcfoxmontana.com (http://www.abcfoxmontana.com/story/23605731/bozeman-company-impacted-by-federal-government-shutdown)
+
+Karst Stage transports people back and forth to West Yellowstone, but with the park being shut down, they have had to cancel routes.]]></description>
+			<Point>
+				<coordinates>-111.028559,45.685391,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Fort Smith tourism turns it in to ghost town</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[kpax.com (http://www.kpax.com/news/government-shutdown-leaves-fort-smith-a-ghost-town/#_)
+
+FORT SMITH - Montana travel and tourism-based businesses are feeling the effects including Fort Smith as the partial government shutdown continues.
+
+National park and recreational area closures have many travelers opting to cancel plans, and put much anticipated trips on hold.
+
+The reason for plan cancellations is all due to limited or no access to federal recreational areas.]]></description>
+			<Point>
+				<coordinates>-107.93639,45.31278,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Missouri State University loose  tuition assistance</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[news-leader.com (http://www.news-leader.com/article/20131005/NEWS04/310050022/Missouri-State-veterans-government-shutdown?nclick_check=1)
+
+As many as 100 Missouri State University students in the National Guard or reserves who enroll in an eight-week block class that starts Oct. 14 will not receive federal tuition assistance because of the government shutdown, said Jenifer Kautzman, coordinator of Veteran Student Services at MSU.]]></description>
+			<Point>
+				<coordinates>-93.276541,37.197256,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Oregon State University loosing $600,000 a day in research funding</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[gazettetimes.com (http://www.gazettetimes.com/news/local/government-shutdown-costing-osu-research-k-a-day/article_3e5b014c-2d66-11e3-b0a6-0019bb2963f4.html)
+
+Every day that the federal government is shut down costs Oregon State University $600,000 in lost research funding, OSU officials say.]]></description>
+			<Point>
+				<coordinates>-123.27899400000001,44.562848,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Pisgah Inn closes</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://gazette.com/ (http://gazette.com/nc-hotel-forced-to-close-over-government-shutdown/article/feed/49732)
+
+WAYNESVILLE, N.C. (AP) — Conservative activists are protesting the forced closing of a private North Carolina hotel and restaurant as a casualty of the partial federal government shutdown.
+
+The Pisgah Inn leases space on government property along the Blue Ridge Parkway, a 470-mile road overseen by the National Park Service that winds through the North Carolina and Virginia mountains.
+
+Inn owner Bruce O'Connell said Saturday about 100 protesters gathered on the road's shoulder to protesting the business's forced closure. O'Connell says park rangers began blocking its three driveways on Friday.
+
+Parkway Chief Ranger Steve Stinnett says he was directed by superiors to act because the business is subject to the federal government shutdown.]]></description>
+			<Point>
+				<coordinates>-82.75424,35.403137,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Poco Loco dairy farm fears loosing farm subsidy </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[kltv.com (http://www.kltv.com/story/23614127/east-texas-dairy-farmers-effected-by-shutdown)
+
+With Congress locked up over the budget, and with the debt ceiling deadline in a few weeks, Congress may not get to pass a new farm bill. The farm bill provides subsidies for dairy farmers who say without it, the price of milk could go up to seven or eight dollars a gallon.
+
+The Myers family of Poco Loco dairy farm in the Grice community produce 7,200 pounds in milk every two days. But without government subsidies, they worry about the future. 
+
+"Its had an immediate impact here on us, a small local farm. Our local FSA office in Tyler is closed and we don't have support from that office," says Jennifer Myers.]]></description>
+			<Point>
+				<coordinates>-95.119108,32.806242,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>RE/MAX RedZone</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[kwtx.com
+ (http://www.kwtx.com/ourtown/home/headlines/Killeen-Area-Realtors-Impacted-by-Government-Shutdown-226696211.html)
+
+KILLEEN (October 6, 2013) - The government shutdown is creating a domino effect and has impacted the housing market in Central Texas.
+
+Local realtors said the impacts haven't been too significant, but they are noticeable.
+
+"It kind of caught me by surprise I didn't think it was going to happen," said Johnny Vacca of Remax Redzone.
+
+"The furloughs definitely slowed us down. I had a handful of clients that put off purchasing."
+
+Clients were putting off closing the deal because of financial fears anticipated from the shutdown.]]></description>
+			<Point>
+				<coordinates>-97.663983,31.065667999999995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>South Dakota blizzard kills, buries cows; shutdown leaves ranchers in the cold</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com/
+
+An early blizzard caught ranchers off guard this week in the state, killing as many as 20,000 head of cattle, a state official says.
+
+But ranchers say they are the real victims.
+The storm left many of them in ruins, and now Washington is leaving them out in the cold.
+
+"With the government shutdown and no farm bill in place, we need South Dakotans to help their neighbors," Gov. Dennis Daugaard said.]]></description>
+			<Point>
+				<coordinates>-101.777344,44.527843,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1437</styleUrl>
+			<name>Pentagon orders furloughed civilian employees back to work after several days of furough. (unfair reprieve after a few days furlough*)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com (http://www.huffingtonpost.com/2013/10/05/pentagon-furloughs_n_4050135.html)
+
+Pentagon Furloughs: Most Of Its 400,000 Civilian Employees Ordered Back To Work
+
+WASHINGTON -- WASHINGTON (AP) — The Pentagon is ordering most of its approximately 400,000 furloughed civilian employees back to work.
+
+The decision by Defense Secretary Chuck Hagel is based on a Pentagon legal interpretation of a law called the Pay Our Military Act.
+
+That measure was passed by Congress and signed by President Barack Obama shortly before the partial government shutdown began Tuesday.
+
+The Pentagon did not immediately say on Saturday exactly how many workers will return to work. The Defense Department said "most" were being brought back.]]></description>
+			<Point>
+				<coordinates>-119.179687,16.804541,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Dover Air Force Base (unfair reprieve after a few days furlough*)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-75.486546,39.131725,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Fort Leavenworth, KS (unfair reprieve after a few days furlough*)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ksn.com (http://www.ksn.com/2013/10/01/whats-closed-and-whats-open-in-kansas-due-to-government-shutdown/)
+
+The lack of a resolution to the federal budget means thousands of employees at the Army’s Fort Riley and Fort Leavenworth will be furloughed until a new spending bill is approved. Employees were being notified which positions would be impacted.]]></description>
+			<Point>
+				<coordinates>-94.92221,39.352783,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Fort McCoy (unfair reprieve after a few days furlough*)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[startribune.com (http://www.startribune.com/politics/national/226016371.html)
+
+About 900 civilian employees at Fort McCoy, a sprawling training installation between Sparta and Tomah, have been furloughed. However, spokeswoman Linda Fournier says the fort's annual deer hunt for disabled people will take place this weekend because it is being run by contractors and training for a South Dakota Army National Guard unit that just arrived will go on as scheduled. The fort's campground remains open.]]></description>
+			<Point>
+				<coordinates>-90.684421,43.986916,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Fort Riley, KS (unfair reprieve after a few days furlough*)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ksn.com (http://www.ksn.com/2013/10/01/whats-closed-and-whats-open-in-kansas-due-to-government-shutdown/)
+
+The lack of a resolution to the federal budget means thousands of employees at the Army’s Fort Riley and Fort Leavenworth will be furloughed until a new spending bill is approved. Employees were being notified which positions would be impacted.]]></description>
+			<Point>
+				<coordinates>-96.815965,39.112072,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Joint Base Elmendorf-Richardson (unfair reprieve after a few days furlough*)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[adn.com (http://www.adn.com/2013/09/30/3103435/shutdown-in-alaska-could-close.html)
+
+On Alaska military bases, the government shutdown was causing the furloughs of some 5,000 civilian workers, said Staff Sgt. William Banton, a spokesman on Joint Base
+
+Elmendorf-Richardson. That includes about 1,600 on JBER, slightly lower than an estimate earlier on Tuesday.]]></description>
+			<Point>
+				<coordinates>-149.635428,61.234472999999994,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Marine Corps Recruit Depot (unfair reprieve after a few days furlough*)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://redlands.patch.com/ (http://redlands.patch.com/groups/politics-and-elections/p/marines-will-furlough-3581-civilian-employees-in-region_94fc5e16)
+
+- Marine Corps Recruit Depot San Diego: 360 furloughed]]></description>
+			<Point>
+				<coordinates>-117.197385,32.74166,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Marine Corps Air Ground Combat Center (MCAGCC) Twentynine Palms(unfair reprieve after a few days furlough*)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://redlands.patch.com/ (http://redlands.patch.com/groups/politics-and-elections/p/marines-will-furlough-3581-civilian-employees-in-region_94fc5e16)
+
+- Marine Air Ground Task Force Training Command 29 Palms: 1,282 furloughed]]></description>
+			<Point>
+				<coordinates>-116.135943,34.448328,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Marine Corps Air Station Yuma (unfair reprieve after a few days furlough*)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://redlands.patch.com (http://redlands.patch.com/)
+
+- Marine Corps Air Station Yuma: 176 furloughed]]></description>
+			<Point>
+				<coordinates>-114.601474,32.652829,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Marine Corps Base - Camp Pendleton (unfair reprieve after a few days furlough*)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://redlands.patch.com/ (http://redlands.patch.com/groups/politics-and-elections/p/marines-will-furlough-3581-civilian-employees-in-region_94fc5e16)
+
+- Marine Corps Base Camp Pendleton: 1,163 furloughed
+- Marine Corps Air Station Camp Pendleton: 34 furloughed]]></description>
+			<Point>
+				<coordinates>-117.37471,33.38375,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>MCAS Miramar (unfair reprieve after a few days furlough*)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://redlands.patch.com/ (http://redlands.patch.com/groups/politics-and-elections/p/marines-will-furlough-3581-civilian-employees-in-region_94fc5e16)
+
+- Marine Corps Air Station Miramar: 328 furloughed]]></description>
+			<Point>
+				<coordinates>-117.14412299999998,32.870146,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>McConnell Air Force Base (unfair reprieve after a few days furlough*)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ksn.com (http://www.ksn.com/2013/10/01/whats-closed-and-whats-open-in-kansas-due-to-government-shutdown/)
+
+In Wichita, more than 300 civilian employees are going to be out of work at McConnell Air Force Base.]]></description>
+			<Point>
+				<coordinates>-97.277092,37.620786,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Naval Station Newport (unfair reprieve after a few days furlough*)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://ripr.org/ (http://ripr.org/post/naval-station-newport-grapples-federal-shutdown)
+
+The Naval Station Newport says about 800 civilians were furloughed.]]></description>
+			<Point>
+				<coordinates>-71.319598,41.516866,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Tinker AFB - 2,900 furloughed (unfair reprieve after a few days furlough*)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[swoknews.com (http://www.swoknews.com/news-top/local/item/10561-oklahoma-guard-bases-cut-personnel)
+
+Nearly 700 federal technicians at the Oklahoma National Guard were also furloughed.]]></description>
+			<Point>
+				<coordinates>-97.38741600000002,35.417523,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>US Army Tank Automotive Command  (unfair reprieve after a few days furlough*)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://michiganradio.org/ (http://michiganradio.org/post/keeping-tabs-how-shutdown-affecting-michigan)
+
+Here are a few more areas impacted by the shutdown. Paychecks have stopped for 4,200 civilian employees at the U.S. Army Tank-Automotive Command in Warren, and 650 workers at the Selfridge Air National Guard base have in Harrison Township, according to the Macomb Daily News.]]></description>
+			<Point>
+				<coordinates>-83.041606,42.492415,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1441</styleUrl>
+			<name>U.S. Coast Guard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[oceanconservancy.org (http://blog.oceanconservancy.org/2013/09/30/everything-you-need-to-know-about-how-a-government-shutdown-will-affect-the-ocean/)
+
+Coast Guard services will be delayed or shut down, and law enforcement patrols reduced.]]></description>
+			<Point>
+				<coordinates>-127.617187,38.065392,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>BAE Systems</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[forbes.com (http://www.forbes.com/sites/lorenthompson/2013/10/04/defense-companies-warn-thousands-of-layoffs-imminent-due-to-shutdown/)
+
+Some industry employees have already begun to head home. Linda Hudson, CEO of fifth-ranked Pentagon contractor BAE Systems , Inc., told employees in an internal communication yesterday that, “The impact on our Intelligence & Security sector has been significant, with about 1,000 employees already excused from work at their customer sites.” (BAE and the other companies mentioned here contribute to my think tank.)
+
+Much of BAE’s work in defense electronics, armored vehicles and ship repair is funded by prior-year budgets and thus does not immediately require additional appropriations to continue into the new fiscal year. However, without representatives from the Defense Contract Management Agency to perform required inspections, production activity at all of the major military contractors is beginning to slow. DCMA has furloughed 85% of its personnel for the duration of the government shutdown.]]></description>
+			<Point>
+				<coordinates>-77.006423,38.876978,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Lockheed Martin Corporation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com (http://www.huffingtonpost.com/2013/10/04/lockheed-martin-furloughs_n_4045758.html)
+
+BETHESDA, Md. -- BETHESDA, Md. (AP) — Lockheed Martin says it will furlough 3,000 employees on Monday due to the government shutdown.]]></description>
+			<Point>
+				<coordinates>-77.138444,39.030821,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Lockheed Martin - Fort Worth, TX</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Lockheed Martin did not specify which plants  would be affected by the 3,000 employee furloughs, so I listed them all.]]></description>
+			<Point>
+				<coordinates>-97.448516,32.766877,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Lockheed Martin - Grand Prairie, TX</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Lockheed Martin did not specify which plants  would be affected by the 3,000 employee furloughs, so I listed them all.]]></description>
+			<Point>
+				<coordinates>-97.02838,32.717577,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Lockheed Martin - Sunnyvale, CA </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Lockheed Martin did not specify which plants  would be affected by the 3,000 employee furloughs, so I listed them all.]]></description>
+			<Point>
+				<coordinates>-122.035768,37.415948,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Lockheed Martin Space Systems - Colorado</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Lockheed Martin did not specify which plants  would be affected by the 3,000 employee furloughs, so I listed them all.]]></description>
+			<Point>
+				<coordinates>-105.096202,39.494156,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Lockheed Martin - Orlando, FL</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Lockheed Martin did not specify which plants  would be affected by the 3,000 employee furloughs, so I listed them all.]]></description>
+			<Point>
+				<coordinates>-81.459128,28.446044,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Lockheed Martin - Marietta, GA ‎</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Lockheed Martin did not specify which plants  would be affected by the 3,000 employee furloughs, so I listed them all.]]></description>
+			<Point>
+				<coordinates>-84.533158,33.933411,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Lockheed Martin - King of Prussia, PA</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Lockheed Martin did not specify which plants  would be affected by the 3,000 employee furloughs, so I listed them all.]]></description>
+			<Point>
+				<coordinates>-75.399072,40.09081,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Lockheed Martin - Manassas, VA ‎</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Lockheed Martin did not specify which plants  would be affected by the 3,000 employee furloughs, so I listed them all.]]></description>
+			<Point>
+				<coordinates>-77.500516,38.753592,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>United Technologies Corporation - Connecticut</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com
+
+Earlier this week, United Technologies Corp. announced that it will furlough 2,000 employees by Monday and more than 5,000 if the shutdown continues into next month.
+
+The company said Wednesday that its Sikorsky division, which makes Black Hawk helicopters, would be hit first. It expects nearly 2,000 employees, including those employed at facilities in Connecticut, Florida and Alabama, will be furloughed on Monday.]]></description>
+			<Point>
+				<coordinates>-72.673673,41.765447,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>United Technologies Corporation - Florida</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com (http://www.huffingtonpost.com/2013/10/04/lockheed-martin-furloughs_n_4045758.html)
+
+Earlier this week, United Technologies Corp. announced that it will furlough 2,000 employees by Monday and more than 5,000 if the shutdown continues into next month.
+
+The company said Wednesday that its Sikorsky division, which makes Black Hawk helicopters, would be hit first. It expects nearly 2,000 employees, including those employed at facilities in Connecticut, Florida and Alabama, will be furloughed on Monday.]]></description>
+			<Point>
+				<coordinates>-81.86213,26.617456,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Pratt &amp; Whitney - Florida</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[forbes.com (http://www.forbes.com/sites/lorenthompson/2013/10/04/defense-companies-warn-thousands-of-layoffs-imminent-due-to-shutdown/)
+
+
+UTX’s Pratt & Whitney engine business expects to furlough an additional 2,000 at week’s end if the shutdown continues.]]></description>
+			<Point>
+				<coordinates>-80.301666,26.908667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Pratt &amp; Whitney - Connecticut</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[forbes.com (http://www.forbes.com/sites/lorenthompson/2013/10/04/defense-companies-warn-thousands-of-layoffs-imminent-due-to-shutdown/)
+
+UTX’s Pratt & Whitney engine business expects to furlough an additional 2,000 at week’s end if the shutdown continues.]]></description>
+			<Point>
+				<coordinates>-72.637589,41.749848,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Sikorsky Aircraft - Alabama</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com/ (http://www.huffingtonpost.com/2013/10/04/lockheed-martin-furloughs_n_4045758.html)
+
+
+Earlier this week, United Technologies Corp. announced that it will furlough 2,000 employees by Monday and more than 5,000 if the shutdown continues into next month.
+
+The company said Wednesday that its Sikorsky division, which makes Black Hawk helicopters, would be hit first. It expects nearly 2,000 employees, including those employed at facilities in Connecticut, Florida and Alabama, will be furloughed on Monday.]]></description>
+			<Point>
+				<coordinates>-86.66569,34.72647,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Sikorsky Aircraft - Connecticut</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com/ (http://www.huffingtonpost.com/2013/10/04/lockheed-martin-furloughs_n_4045758.html)
+
+
+Earlier this week, United Technologies Corp. announced that it will furlough 2,000 employees by Monday and more than 5,000 if the shutdown continues into next month.
+
+The company said Wednesday that its Sikorsky division, which makes Black Hawk helicopters, would be hit first. It expects nearly 2,000 employees, including those employed at facilities in Connecticut, Florida and Alabama, will be furloughed on Monday.]]></description>
+			<Point>
+				<coordinates>-73.098244,41.248212,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Sikorsky Aircraft - Texas</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com/ (http://www.huffingtonpost.com/2013/10/04/lockheed-martin-furloughs_n_4045758.html)
+
+
+Earlier this week, United Technologies Corp. announced that it will furlough 2,000 employees by Monday and more than 5,000 if the shutdown continues into next month.
+
+The company said Wednesday that its Sikorsky division, which makes Black Hawk helicopters, would be hit first. It expects nearly 2,000 employees, including those employed at facilities in Connecticut, Florida and Alabama, will be furloughed on Monday.]]></description>
+			<Point>
+				<coordinates>-97.394019,32.685229,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>41% of Michigan's State budget</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://michiganradio.org/
+
+41% of Michigan’s state budget comes from the federal government. A shutdown doesn’t mean all that money will stop flowing immediately, but it will slow.]]></description>
+			<Point>
+				<coordinates>-84.55518,42.733617,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>50% of Oklahoma's State Budget</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[www.wnd.com (http://www.wnd.com/2011/04/280777/)
+
+Last year, Oklahoma and Louisiana were the most dependent, with federal aid comprising 50 percent or more of their revenue.]]></description>
+			<Point>
+				<coordinates>-97.503319,35.492386,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>50% of Luisiana's State Budget</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[www.wnd.com (http://www.wnd.com/2011/04/280777/)
+
+Last year, Oklahoma and Louisiana were the most dependent, with federal aid comprising 50 percent or more of their revenue.]]></description>
+			<Point>
+				<coordinates>-91.189728,30.454117000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Offshore oil drilling permits</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[oceanconservancy.org (http://blog.oceanconservancy.org/2013/09/30/everything-you-need-to-know-about-how-a-government-shutdown-will-affect-the-ocean/)
+
+For offshore energy, it’s a mixed bag. Offshore renewable energy activities would be halted. Work on many offshore oil and gas drilling processes, like work on the National Environmental Policy Act will come to a stop, which would cause delays for companies seeking permits to drill. But emergency response personnel would remain on-hand, and some permitting actions necessary to facilitate safe ongoing drilling operations would continue.]]></description>
+			<Point>
+				<coordinates>-90.966797,26.194877,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>US Social Security</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Huffington Post:
+Obama: Social Security Checks Will Stop When Debt Ceiling Is Reached (http://www.huffingtonpost.com/2013/10/03/social-security-debt-ceiling_n_4037870.html)
+
+WASHINGTON -- President Barack Obama said Thursday that while it's bad members of Congress have allowed a government shutdown, it would be worse if they failed to increase the government's borrowing authority later this month.
+
+First and foremost, he said, retirement and disability benefits for millions of Americans would be at risk.
+
+"In a government shutdown, Social Security checks still go out on time," Obama said. "In an economic shutdown, if we don't raise the debt ceiling, they don't go out on time."]]></description>
+			<Point>
+				<coordinates>-76.993388,38.916858,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Arizona Temporary Assistance for Needy Families </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://azcapitoltimes.com (http://azcapitoltimes.com/news/2013/10/07/arizona-only-state-cutting-welfare-in-government-shutdown/)
+
+
+Arizona’s decision to withhold welfare checks because of the federal government shutdown appears to make it the only state to cut off funding for the very poor because of the budget crisis, according to policy experts.
+
+The state stopped payments averaging $207 a week to 5,200 families eligible for Temporary Assistance for Needy Families after Tuesday’s government shutdown. TANF provides cash assistance and other support to low-income children and their parents.]]></description>
+			<Point>
+				<coordinates>-112.097092,33.447959,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Women, Infant and Child program in conservative South Carolina</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[wcnc.com (http://www.wcnc.com/news/local/Local-programs-take-hit-with-government-shutdown-226047761.html)
+
+Late Tuesday the State of South Carolina said the Women, Infant and Child program known as WIC is considered non-essential and will not get money from the federal government due to the shutdown.  For now there is still money in the program, but the state says disbursements could be affected starting October 15 if this isn't resolved.]]></description>
+			<Point>
+				<coordinates>-81.033096,33.999735,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Utah's WIC Program</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[politico.com
+
+Utah's WIC program, though, immediately closed its doors Tuesday in the wake of the government shutdown, meaning that families who hadn't already received their October vouchers were out of luck and new applications couldn't be processed. The state got $2.5 million in USDA funding on Thursday, and WIC offices throughout the state planned to reopen by noon Friday.]]></description>
+			<Point>
+				<coordinates>-112.026687,41.113358000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1205</styleUrl>
+			<name>Head Start saved by $10 million Private Donation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com (http://www.huffingtonpost.com/2013/10/07/head-start-government-shutdown_n_4059584.html)
+
+
+Laura and John Arnold, who made their money in the hedge fund and oil and gas industries, said on Monday that they would be donating emergency funds to the Head Start program so that some 7,000 kids from low-income families could continue to receive educational services.]]></description>
+			<Point>
+				<coordinates>-77.058114,38.80543200000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Head Start in conservative York, South Carolina</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[wcnc.com (http://www.wcnc.com/news/local/Local-programs-take-hit-with-government-shutdown-226047761.html)
+
+Eight Head Start programs in York and surrounding counties could close Monday due to the government shutdown.  The program was supposed to receive millions in federal dollars Tuesday as the beginning of their fiscal year.  Now, approximately 120 employees might not receive checks and nearly 900 kids who take part in the early childhood education program would have to find other places to go.]]></description>
+			<Point>
+				<coordinates>-81.242018,34.994302,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Cheaha Regional Head Start</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[npr.org (http://www.npr.org/templates/story/story.php?storyId=228198593)
+
+About 19,000 children are affected by the government shutdown. Head Start programs across the country are being forced to shut down as they lose funding from the federal government. Audie Cornish talks to Dora Jones, the director of Cheaha Regional Head Start in Talladega, Ala. Her program is closed Tuesday because of the shutdown.]]></description>
+			<Point>
+				<coordinates>-86.349004,33.299892,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Sabine National Wildlife Refuge Duck Hunting</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[outdoorlife.com (http://www.outdoorlife.com/blogs/open-country/2013/10/government-shutdown-restricts-hunting-national-wildlife-refuges-other-fed)
+ 
+Bad News for Duck Hunters
+ 
+Migratory waterfowl hunters who planned to visit national wildlife refuges managed by the U.S. Fish & Wildlife Service will have to make other arrangements because all 561 NWRs will be closed to access and recreational. Migratory bird seasons will continue elsewhere in accordance with federal and state regulations]]></description>
+			<Point>
+				<coordinates>-93.533333,29.9,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Jefferson Memorial Weddings</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[today.com (http://www.today.com/news/government-shutdown-threatens-weddings-set-national-sites-8C11318722)
+
+The budget impasse has not only shut down the federal government — it has literally put up barriers to the dream wedding planned by a Washington couple.
+
+Mike Cassesso and MaiLien Le are scheduled to walk down the aisle Saturday. Until a day ago, they thought that stroll would take place at the site of their first date, the Jefferson Memorial.]]></description>
+			<Point>
+				<coordinates>-77.036326,38.881362,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>The Jersey Shore Half Marathon</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[runnersworld.com (http://www.runnersworld.com/general-interest/how-the-government-shutdown-is-affecting-runners?page=single)
+
+The Jersey Shore Half Marathon, scheduled for October 6, has sent an email to registrants that the race, which is staged at Gateway National Park in Sandy Hook, New Jersey, will be canceled if the shutdown continues through the weekend.]]></description>
+			<Point>
+				<coordinates>-73.988972,40.448515,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>West Point cross country squad cannot compete  at the Paul Short Invitational  </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[runnersworld.com
+
+In addition, intercollegiate sports at military academies have been suspended. As a result, teams such as the West Point cross country squad cannot travel to compete; the Army squad had been scheduled to race at the Paul Short Invitational at Lehigh University in Pennsylvania on Saturday.]]></description>
+			<Point>
+				<coordinates>-75.378283,40.606909,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>The Grindstone 100-miler</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[runnersworld.com (http://www.runnersworld.com/general-interest/how-the-government-shutdown-is-affecting-runners?page=single)
+
+The Grindstone 100-miler, scheduled for Friday in the Blue Ridge Mountains of Virginia, will also be canceled if the shutdown continues through race day.]]></description>
+			<Point>
+				<coordinates>-78.088889,39.420556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Towpath Marathon</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[runnersworld.com (http://www.runnersworld.com/general-interest/how-the-government-shutdown-is-affecting-runners?page=single)
+
+If the shutdown continues into the second week of October, races such as the Towpath Marathon, held in Cuyahoga Valley National Park in Ohio and scheduled for October 13, would be canceled.]]></description>
+			<Point>
+				<coordinates>-81.550134,41.241569,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Maryland's Department of Labor</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[governing.com/ (http://www.governing.com/blogs/fedwatch/gov-state-unemployment-offices-see-surge-applications-federal-workers.html)
+
+Between 7 a.m. and 1 p.m. on the first day of the shutdown, Maryland's Department of Labor, Licensing and Regulation received roughly 4,000 applications, according to Maureen O'Connor, an agency spokeswoman. That's more federal claim applications than the department usually receives in an entire year, she said.]]></description>
+			<Point>
+				<coordinates>-76.612852,39.295504,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>University of Nevada scholarships &amp; financial aid</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[rgj.com (http://www.rgj.com/article/20131001/NEWS/310010031/Government-shutdown-How-does-affect-Nevada-)
+
+Natalie Savidge, senior communications specialist for the University of Nevada, Reno, said an impact might stop or delay the processing of scholarships or financial aid, but otherwise the university expects no impacts.]]></description>
+			<Point>
+				<coordinates>-119.81577599999999,39.545042,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Utah Department of Workforce Services</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ksl.com (http://www.ksl.com/index.php?nid=960&sid=27121820&fm=most_popular)
+
+The Utah Department of Workforce Services has seen a 500 percent increase of people requesting unemployment since the government shutdown turned federal employees away from work Tuesday.
+
+The state-run office usually process 2,000 unemployment claims a week, but since Tuesday has taken on 10,000, said Bill Starks, DWS unemployment insurance director.]]></description>
+			<Point>
+				<coordinates>-113.059042,37.680602,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Dallas/Fort Worth International Airport</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[star-telegram.com (http://www.star-telegram.com/2013/09/30/5208403/a-government-shutdown-would-cause.html)
+
+
+But projects in the planning stages — planning for transit projects such as the proposed TEX Rail commuter line from Fort Worth to Grapevine and DFW Airport, for example — could be seriously disrupted, especially if the standoff continues more than a few days, they said.]]></description>
+			<Point>
+				<coordinates>-97.040653,32.897449,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>TEX Rail commuter line</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[star-telegram.com (http://www.star-telegram.com/2013/09/30/5208403/a-government-shutdown-would-cause.html)
+
+
+But projects in the planning stages — planning for transit projects such as the proposed TEX Rail commuter line from Fort Worth to Grapevine and DFW Airport, for example — could be seriously disrupted, especially if the standoff continues more than a few days, they said.
+
+Read more here: http://www.star-telegram.com/2013/09/30/5208403/a-government-shutdown-would-cause.html#storylink=cpy]]></description>
+			<Point>
+				<coordinates>-97.322044,32.747435,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>The White House Tours</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[White House tours were ended with the sequestration of the budget.]]></description>
+			<Point>
+				<coordinates>-77.036498,38.897688,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Library of Congress</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Closed.]]></description>
+			<Point>
+				<coordinates>-77.004719,38.888684,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Smithsonian Institution</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+All museums would close. Excepted employees include those who protect the collections, feed the animals, etc. Volunteers aren't allowed to help out. Of, 4,202 employees, 688 would be "excepted" and expected to work. 2013 contingency plan]]></description>
+			<Point>
+				<coordinates>-77.02602,38.888788,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Acadia National Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[All national parks are closed.]]></description>
+			<Point>
+				<coordinates>-68.273335,44.338556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Alcatraz Island</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[All national parks are closed.]]></description>
+			<Point>
+				<coordinates>-122.422731,37.82695300000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Antietam National Battlefield</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[All national parks are closed.]]></description>
+			<Point>
+				<coordinates>-77.746382,39.475099,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Arches National Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[All national parks are closed.]]></description>
+			<Point>
+				<coordinates>-109.592514,38.733081,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-7CCFA9</styleUrl>
+			<name>Cape Cod National Seashore</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[All national parks are closed.]]></description>
+			<Point>
+				<coordinates>-69.978919,41.904257,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Carlsbad Caverns National Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[All national parks are closed.]]></description>
+			<Point>
+				<coordinates>-104.44967,32.175074,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Chequamegon National Forest</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[All national parks are closed.]]></description>
+			<Point>
+				<coordinates>-90.862854,46.129432,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Denali National Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[All national parks are closed.]]></description>
+			<Point>
+				<coordinates>-151.193848,63.12457200000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Everglades National Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[All national parks are closed.]]></description>
+			<Point>
+				<coordinates>-80.898651,25.286616,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Faneuil Hall</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[All national parks are closed.]]></description>
+			<Point>
+				<coordinates>-71.056103,42.360062,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Fort Larned National Historic Site</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ksn.com (http://www.ksn.com/2013/10/01/whats-closed-and-whats-open-in-kansas-due-to-government-shutdown/)
+
+The Tallgrass Prairie Preserve and Fort Larned are also closed.]]></description>
+			<Point>
+				<coordinates>-99.218193,38.182882,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Gila Cliff Dwellings National Monument</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[All national parks are closed.]]></description>
+			<Point>
+				<coordinates>-108.272273,33.22729,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Grand Canyon Weddings</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[today.com (http://www.today.com/news/government-shutdown-threatens-weddings-set-national-sites-8C11318722)
+
+Genevieve Jeuck learned she had to abandon her plans to get married Wednesday at the Grand Canyon just three days before she and her fiancé were scheduled to leave for Arizona.]]></description>
+			<Point>
+				<coordinates>-112.112997,36.106965,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Great Smoky Mountains National Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[All national parks are closed.]]></description>
+			<Point>
+				<coordinates>-83.537601,35.689001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Hawaii Volcanoes National Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[All national parks are closed.]]></description>
+			<Point>
+				<coordinates>-155.28122,19.417513,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Independence Hall</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[All national parks are closed.]]></description>
+			<Point>
+				<coordinates>-75.150046,39.948896,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Joshua Tree National Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[All national parks are closed.]]></description>
+			<Point>
+				<coordinates>-115.839632,33.914209,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>San Juan Island National Historical Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[All national parks are closed.]]></description>
+			<Point>
+				<coordinates>-123.01625600000001,48.464728,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Shenandoah National Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[All national parks are closed.]]></description>
+			<Point>
+				<coordinates>-78.67958400000002,38.292756,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Statue of Liberty National Monument</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[All national parks are closed.]]></description>
+			<Point>
+				<coordinates>-74.0445,40.689249,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Mount Rushmore National Memorial</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[All national parks are closed.]]></description>
+			<Point>
+				<coordinates>-103.459067,43.879102,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Martin Luther King, Jr. Memorial</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[All national parks are closed.]]></description>
+			<Point>
+				<coordinates>-77.044287,38.886273,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>National Gallery of Art</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+During a lapse in federal funding, the gallery and its grounds, including the Sculpture Garden, will be closed to the public. All public programs and events will be canceled. Source]]></description>
+			<Point>
+				<coordinates>-77.021905,38.892084000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>National Zoo Panda Cam</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.050853,38.930971,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>United States Capitol Visitor Center</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[All national parks are closed.]]></description>
+			<Point>
+				<coordinates>-77.00905,38.889939,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Vietnam Veterans Memorial</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[All national parks are closed.]]></description>
+			<Point>
+				<coordinates>-77.047631,38.891048,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Yellowstone National Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[All national parks are closed.]]></description>
+			<Point>
+				<coordinates>-110.588455,44.427963,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Yosemite National Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[scpr.org (http://www.scpr.org/news/2013/10/01/39593/southern-california-facilities-forced-to-adjust-as/)
+
+On the same day, Yosemite National Park observed its 123rd birthday — and was also closed, the Los Angeles Times reported.]]></description>
+			<Point>
+				<coordinates>-119.538329,37.865101,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>United States Holocaust Memorial Museum</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[All national parks are closed.]]></description>
+			<Point>
+				<coordinates>-77.032254,38.886757,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>National Mall and Memorial Parks</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[All national parks are closed.]]></description>
+			<Point>
+				<coordinates>-77.045553,38.889329,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>George W. Bush Presidential Library and Museum</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[star-telegram.com (http://www.star-telegram.com/2013/09/30/5208403/a-government-shutdown-would-cause.html)
+
+Visits to the George W. Bush Presidential Library will temporarily stop.]]></description>
+			<Point>
+				<coordinates>-96.77791,32.840982,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>George Bush Presidential Library and Museum</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[star-telegram.com (http://www.star-telegram.com/2013/09/30/5208403/a-government-shutdown-would-cause.html)
+
+That means George H.W. Bush’s library in College Station and Lyndon B. Johnson’s presidential library in Austin are closed.]]></description>
+			<Point>
+				<coordinates>-96.353015,30.596302,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Dwight D. Eisenhower Presidential Library &amp; Museum</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ksn.com (http://www.ksn.com/2013/10/01/whats-closed-and-whats-open-in-kansas-due-to-government-shutdown/)
+
+The Dwight D. Eisenhower Presidential Library and Museum in Abilene is closed.]]></description>
+			<Point>
+				<coordinates>-97.21217,38.911627,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Lyndon B. Johnson Presidential Library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[star-telegram.com (http://www.star-telegram.com/2013/09/30/5208403/a-government-shutdown-would-cause.html)
+
+That means George H.W. Bush’s library in College Station and Lyndon B. Johnson’s presidential library in Austin are closed.]]></description>
+			<Point>
+				<coordinates>-97.72924800000001,30.28581,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Kennedy Space Center Bus Tours and KSC Up-Close Tours</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The KSC Visitor Complex is open.]]></description>
+			<Point>
+				<coordinates>-80.651235,28.522399000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Maven spacecraft in a clean room at NASA's Kennedy Space Center </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[nbcnews.com (http://www.nbcnews.com/science/government-shutdown-could-threaten-nasas-next-mars-mission-8C11314308)
+
+The shutdown has frozen launch preparations for the Mars Atmosphere and Volatile Evolution spacecraft, known as Maven, which is slated to blast off Nov. 18 from Florida's Cape Canaveral Air Force Station. Maven has until Dec. 7 to get off the ground, after which point it would have to wait 26 months for another favorable alignment of Earth and Mars.]]></description>
+			<Point>
+				<coordinates>-80.650978,28.58618,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Lyndon B. Johnson Space Center</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[kvue.com (http://www.kvue.com/news/state/Government-shutdown-affects-thousands-in-Texas-225953831.html)
+
+National parks and the Johnson Space Center in Houston were among the places Tuesday that faced being most affected by the shutdown.]]></description>
+			<Point>
+				<coordinates>-95.092303,29.550789,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Alcohol, Tobacco &amp; Firearms (ATF)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+Most tax duties will continue, but processing of requests for new licenses, label approval and manufacture of nonbeverage products would cease.]]></description>
+			<Point>
+				<coordinates>-77.00458800000001,38.907943,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Commodity Futures Trading Commission</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com
+
+Minimum level of oversight and surveillance of the futures markets, clearing operations and intermediaries is maintained. However, the vast bulk of the CFTC's oversight and surveillance functions will cease during a lapse of appropriations.]]></description>
+			<Point>
+				<coordinates>-87.639847,41.880679,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Consumer Product Safety Commission</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+With 22 workers left, analysis of defective products will continue; recalls still coordinated; imports still monitored.]]></description>
+			<Point>
+				<coordinates>-77.088211,38.985522,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Bureau of the Public Debt</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+The bureau is small agency within the Department of the Treasury. During a lapse in appropriation, it will continue to provide resources necessary to support disbursements to Social Security recipients, maintain government-wide accounting activities as well as activities related to federal government borrowing and tax collection.]]></description>
+			<Point>
+				<coordinates>-81.563647,39.264844,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Corporation for National and Community Service</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+It's core programs are Senior Corps, AmeriCorps and the Social Innovation Fund. Previously awarded grants and cooperative agreements will not be affected by the absence of current appropriations. However, no new grants will be awarded during this period and program and grants staff will not be available to provide assistance to grantees.]]></description>
+			<Point>
+				<coordinates>-77.028581,38.900996,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Export-Import Bank of the United States</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+Export-Import Bank has 409 employees. In the event of a furlough, the ban expects to retain 17 employees (4.1% of Ex-Im Bank's workforce) and three contractors.]]></description>
+			<Point>
+				<coordinates>-77.034599,38.900789,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>FDIC Office of Inspector General</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+This is an independent unit that conducts audits, investigations and other reviews of the Federal Deposit Insurance Corporation's programs and operations.]]></description>
+			<Point>
+				<coordinates>-73.984952,40.748128,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Federal Communications Commission</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[c (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)nn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+During a shutdown, all FCC activities other than those immediately necessary for the protection of life or property will cease. Source]]></description>
+			<Point>
+				<coordinates>-77.028784,38.883437,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Federal Energy Regulatory Commission</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+Inspections, market monitoring, and electric grid monitoring continue.]]></description>
+			<Point>
+				<coordinates>-77.006386,38.90145,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Federal Labor Relations Authority</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+Of the approximate 130 current Agency employees, four employees, which consist of the FLRA Chairman, two Authority Members and the GC, are deemed necessary. Source]]></description>
+			<Point>
+				<coordinates>-77.032296,38.902163,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Federal Maritime Commission</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+All Commission activities will be completely shut down by 12:00 p.m. ET Tuesday.]]></description>
+			<Point>
+				<coordinates>-77.009722,38.900533,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Federal Mine Safety and Health Review Commission</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+The Commission will continue to adjudicate those Federal Mine Safety and Health Act of 1977 disputes that arise from a mine emergency and are necessary to ensure continued public health and safety. The Commission will continue to review incoming filings for emergency and time sensitive items. The Commission will continue to decide whether to grant or deny Petitions for Discretionary Review.]]></description>
+			<Point>
+				<coordinates>-77.030867,38.895644,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Federal Trade Commission</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+All commission employees shall be furloughed except those performing work to address a threat to human life or property; those involved in the orderly shutdown of agency operations; and those otherwise allowed by operation of law. Source]]></description>
+			<Point>
+				<coordinates>-77.020856,38.892146,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Financial Crimes Enforcement Network (Department of Treasury)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+Its mission is safeguard the financial system from illicit use and combat money laundering. Significant agency activities that will continue include: Providing investigative support to law enforcement investigations; addressing dissemination issues; continuing computer operations to prevent loss of data; and maintaining minimal telecommunications. Source]]></description>
+			<Point>
+				<coordinates>-77.034341,38.898072,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>General Services Administration</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+GSA oversees the business of the U.S. federal government. Its policies cover travel, property and management practices. In the absence of appropriations, GSA owned and leased buildings will remain open and operate in "weekend mode." Source]]></description>
+			<Point>
+				<coordinates>-77.022271,38.885258,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Institute of Museum and Library Services</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+The IMLS website, www.imls.gov, will continue to function. Source]]></description>
+			<Point>
+				<coordinates>-77.042034,38.905336,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Inter-American Foundation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+The IAF assists with development projects in Latin America and the Caribbean. The only activities authorized for IAF employees are those that contribute to an orderly suspension of foundation activities. Source]]></description>
+			<Point>
+				<coordinates>-77.030437,38.896667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>International Boundary and Water Commission</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+Operations office will close, engineering office will close, Operations department will continue to operate critical functions.]]></description>
+			<Point>
+				<coordinates>-106.510959,31.793964000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Millennium Challenge Corporation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+The MCC is an independent U.S. foreign aid agency that is helping lead the fight against global poverty. Source]]></description>
+			<Point>
+				<coordinates>-77.033469,38.900941,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>National Capitol Planning Comm</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+The commission provides long-range planning guidance for Washington and nearby area. Unless notified otherwise, only excepted employees should report to work on the first day of a temporary lapse. Source]]></description>
+			<Point>
+				<coordinates>-77.023805,38.895456,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>National Disability Council</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-77.030914,38.897579,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>National Labor Relations Board</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+Case handling, outreach and information office is closed.]]></description>
+			<Point>
+				<coordinates>-77.032415,38.903018,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>NOAA research on Elkhorn Coral</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Huffington Post:
+Study Of Endangered Elkhorn Coral Halted By Government Shutdown (http://www.huffingtonpost.com/2013/10/03/noaa-government-shutdown_n_4037120.html)
+
+The mandate to study endangered species is a federal one, however, and Miller is a federal employee. Though the rest of her research team could theoretically continue working -- they are University of Miami employees and students paid by a federal grant under a previous budget -- rules of the shutdown deny them access to NOAA's labs, boats, computers and equipment.]]></description>
+			<Point>
+				<coordinates>-80.154877,25.749497000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>National Science Foundation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+The NSF was created by Congress in 1950 "to promote the progress of science; to advance the national health, prosperity, and welfare; to secure the national defenseâ€¦"]]></description>
+			<Point>
+				<coordinates>-77.110891,38.880443,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>National Transportation Safety Board</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+Will still investigate major accidents and continue ongoing investigations.]]></description>
+			<Point>
+				<coordinates>-77.024533,38.883784,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Nuclear Regulatory Commission</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com
+
+The Nuclear Regulatory Commission, which monitors the nation's 100 commercial nuclear power plants, is set to furlough 3,600 employees on Thursday after depleting funds amid the government shutdown.
+
+The shutdown will disable non-emergency licensing of nuclear reactors, emergency exercises, and the inspection of nuclear materials and waste licensees. 300 "essential" personnel will stay on the job, 150 of which are "resident inspectors" who will address immediate safety and security matters, the NRC said.]]></description>
+			<Point>
+				<coordinates>-84.794862,35.602737,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Postal Regulatory Commission</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+The commission has exercised regulatory oversight over the Postal Service since its creation by the Postal Reorganization Act of 1970]]></description>
+			<Point>
+				<coordinates>-77.02513,38.902145,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Inspector General for Tax Administration (Department of the Treasury)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+The Treasury Department's independent overseer of the IRS would halt most new investigations and there would be a slowdown to others.]]></description>
+			<Point>
+				<coordinates>-77.034051,38.897755,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Port inspectors from the Consumer Product Safety Commission</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[politico.com (http://www.politico.com/gallery/2013/10/air-sea-land-10-shutdown-impacts/001358-019363.html?hp=r1)
+
+PORTS: All port inspectors from the Consumer Product Safety Commission have been furloughed, preventing screening of products such as children's toys with too much lead or sleepwear that could be flammable. CPSC inspectors had prevented over 1 million products from hitting the shelves during the first half of 2012.]]></description>
+			<Point>
+				<coordinates>-118.255806,33.736974,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Office of Inspector General (Department of the Treasury)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+From their contingency plan: "In the event of a lapse in funding, the OIG would suspend most operations (including audits) except those required by law. "]]></description>
+			<Point>
+				<coordinates>-77.03403,38.897329,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Udall Foundation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com
+
+The Udall Foundation focuses on environmental and natureal resources issues. Education activities continue; U.S. institute closes completely]]></description>
+			<Point>
+				<coordinates>-77.039921,38.899175,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Upper Colorado River Interagency Fire Management Unit </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[summitdaily.com (http://www.summitdaily.com/news/8362062-113/minor-summit-federal-firefighters)
+
+
+Summit County is in a precarious position because of the shutdown of the federal government, Summit County Sheriff John Minor said Tuesday.
+
+Minor dropped in on the tail end of the Summit Board of County Commissioner’s workshop meeting in Breckenridge Tuesday to alert commissioners that the Upper Colorado River Interagency Fire Management Unit in Grand Junction closed as a result of the government shutdown and relieved its federal firefighters without pay....]]></description>
+			<Point>
+				<coordinates>-108.550649,39.06387,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>University of Hawaii rat lungworm disease research</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com (http://www.huffingtonpost.com/2013/10/01/government-shutdown-scientific-research_n_4025894.html)
+
+At the University of Hawaii, work on a vaccination for rat lungworm disease -- a gastrointestinal infection that causes eosinophilic meningitis in humans -- was put on hold when scientists were suddenly prohibited from accessing the facilities where they do a large portion of their work.]]></description>
+			<Point>
+				<coordinates>-155.081687,19.70025,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>United States African Development Foundation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+Grants are fully obligated, so recipients remain operational.]]></description>
+			<Point>
+				<coordinates>-77.032358,38.901006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>US Department of Agriculture</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- USDA - Office of Budget and Program Analysis
+- USDA - Office of Communications
+- USDA - Office of Ethics
+- USDA - Office of the Assistant Secretary for Civil Rights
+- USDA - Office of the Chief Economist
+- USDA - Office of the General Counsel
+- USDA - Research, Education and Economics
+- USDA - Risk Management Agency
+- USDA - Rural Development]]></description>
+			<Point>
+				<coordinates>-77.030028,38.887742,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>USDA - Departmental Management</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+Emergency response continues, protection of federal lands continues, protection against cybersecurity continues]]></description>
+			<Point>
+				<coordinates>-75.152672,39.951641,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Usda-Natural Resources Conservation Services</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+The NRCS helps famers and state governments with conservation efforts, particularly on agricultural lands.]]></description>
+			<Point>
+				<coordinates>-94.226949,42.727718,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>US Environmental Protection Agency</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+Some laboratory staff stays on the job, as well as emergency responders (responding to environmental emergencies) and a few other staffers in other divisions. Most EPA operations halt.]]></description>
+			<Point>
+				<coordinates>-77.028548,38.893406,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>United States Office of Government Ethics</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+The OGE provides oversight and accountability of executive branch policies designed to prevent and resolve conflicts of interest.]]></description>
+			<Point>
+				<coordinates>-77.028582,38.900981,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>US Attorney's Office - Connecticut</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ctpost.com (http://www.ctpost.com/local/article/Federal-shutdown-local-pain-4860610.php)
+
+The U.S. Attorney's Office in Connecticut furloughed 40 staffers Tuesday, including all civil lawyers, secretaries and Tom Carson, the public information officer.]]></description>
+			<Point>
+				<coordinates>-72.674644,41.761532,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>US Chemical Safety And Hazard Investigation Board</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com
+
+No federal employees would investigate industrial chemical spills/accidents that happen during the shutdown. Current investigations would be frozen, including investigation of the West Fertilizer explosion which killed 15 people in April. (Texas could not determine a cause, so the federal investigation is significant.)]]></description>
+			<Point>
+				<coordinates>-77.048662,38.902906,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>US Financial Management Service</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+A bureau of the U.S. Treasury, the FMS operates the federal government's collections and deposit systems, among other duties. All employees must report for duty on the first work day of shutdown. If an appropriations bill has not been approved, non-excepted staff will be given furlough notices and dismissed until funding is approved by Congress. Source]]></description>
+			<Point>
+				<coordinates>-77.032201,38.884648,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>US Fine Arts Commission</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+CFA activities are classified as nonexempt]]></description>
+			<Point>
+				<coordinates>-77.017658,38.897249,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>US Food &amp; Nutrition Services</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com  (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+Field inspection of meat, poultry and egg products continue.]]></description>
+			<Point>
+				<coordinates>-71.06323,42.364611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>US Geological Survey</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[startribune.com (http://www.startribune.com/politics/national/226016371.html)
+
+
+U.S. Geological Survey equipment that keeps tabs on water flow and levels in Wisconsin rivers and streams is operating, but other data collection handled by the USGS Water Science Center in Middleton has stopped. This includes samples taken to monitor water quality. The center works with numerous universities and municipalities on water issues.]]></description>
+			<Point>
+				<coordinates>-89.466968,43.056638,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>US Department of Health &amp; Human Services</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[arkansasbusiness.com (http://www.arkansasbusiness.com/article/94944/mike-beebe-2000-state-workers-furloughed-if-shutdown-occurs)
+
+Beebe also said Monday that more than 85,000 meals for Arkansas children would not be provided and 2,000 newborn babies would not receive infant formula through the Department of Health's WIC program.]]></description>
+			<Point>
+				<coordinates>-92.175293,34.849875,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>US Department of Housing and Urban Development</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+In a switch from previous shutdown plans, new mortgages could be endorsed by the FHA, which backs a large percentage of US loans, particularly for first-time home buyers.But that ability would only be temporary. Loan processing would be drastically slowed.]]></description>
+			<Point>
+				<coordinates>-77.022076,38.884016,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>US Department of Commerce</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+Most research activities at the National Institute of Standards and Technology and the National Oceanic and Atmospheric Administration will be suspended; U.S Census Bureau activities will be suspended.]]></description>
+			<Point>
+				<coordinates>-77.032506,38.892486,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>US Department of Defense (Civilian military workers)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+Half of civilian workers for the military may be furloughed as soon as a shutdown goes into place. Those remaining on the job would be paid retroactively after the shutdown ends. Those furloughed would receive retroactive pay only if Congress votes to pay them after the fact.]]></description>
+			<Point>
+				<coordinates>-77.010467,38.854213,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>US Department of Education</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+Most Department of Education employees are not excepted because the department, which is not among the largest in Washington, does not administer direct education programs. Those are done at the state level. Most of the excepted employees would work to continue administering Direct Loan and Pell Grants with the help of contractors who have already been paid.]]></description>
+			<Point>
+				<coordinates>-77.018849,38.886513,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>US Department of Energy</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+UPDATE: All employees will continue to work until funds are exhausted, according to a DOE official.]]></description>
+			<Point>
+				<coordinates>-77.256539,39.180884,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>US Department of Homeland Security</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+The following will be affected: All non-disaster grants programs administered by FEMA and other DHS components; citizens and U.S. businesses will not be able to access E-Verify; FEMA will cease providing high-quality data that is used for public planning. which ultimately is used to make insurance determinations for homeowners; the issuance or renewals of seaman documentation and licensing; fisheries enforcement patrols and routine maintenance to aids to navigation will be limited or curtailed.]]></description>
+			<Point>
+				<coordinates>-77.021033,38.885124,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>US Department of the Interior</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+All areas of the National Park and National Wildlife Refuge Systems would be closed and public, access would be restricted. The Bureau of Land Management would terminate all non-emergency activities on the public lands. The scientific work of the U.S. Geological Survey would be halted or conducted in a custodial manner. Only those activities needed to respond to emergency situations would be conducted by the Office of Surface Mining. The Bureau of Ocean Energy Management and the Bureau of Safety and Environmental Enforcement would continue to ensure the safety of drilling and production operations and issue drilling and other offshore permits; however, renewable activities and five-year plan work would be terminated. Most activities at Bureau of Indian Affairs agency, regional and headquarters offices would be suspended. Activities to continue required payments to beneficiaries would continue. The Office of the Special Trustee for American Indians would maintain minimum operations necessary to issue checks to beneficiaries. Bureau of Reclamation activities related to continuing" Source]]></description>
+			<Point>
+				<coordinates>-77.042575,38.893688,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>US Department of Justice</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[.cnn.com
+
+An enormous federal bureaucracy, the Department of Justice is comprised of 40 components. Many workers are excepted as a matter of public safety because they work in law enforcement. The majority of workers at the FBI, the ATF, the Bureau of Prisons, the DEA and other agencies within the Department of Justice would report to work. But there would be effects. US Attorneys, for instance, would curtail a good portion of civil litigation. The US Antitrust division would not prepare any new proceedings]]></description>
+			<Point>
+				<coordinates>-77.024991,38.892382,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>US Department of Labor</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+Largest division staying in business would be Worker Compensation Programs, which keeps most staff during a shutdown. Mine Safety and the Inspector General's offices are both at half strength. The rest would be mostly furloughed, including OSHA and the Bureau of Labor Statistics (unemployment numbers). BLS can bring in a minimal staff to get out major indicators if OMB orders. It's unclear whether they'd do that for September unemployment numbers set for October 4. Source]]></description>
+			<Point>
+				<coordinates>-77.014357,38.892996,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>US Department of the Treasury -- departmental offices</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+The Department of the Treasury is broken up into a number of bureaus elsewhere on this list that perform specific functions. These 1,976 people are detailed to the headquarters in Washington,. Those expected to work include the Secretary of the Treasury and his staff.]]></description>
+			<Point>
+				<coordinates>-77.034663,38.897671,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>US Executive Office President</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+Many entities exist under the EOP. A few of them include: Office of Budget and Management, Council of Economic Advisors, Office of the First Lady and Office of the White House Counsel.]]></description>
+			<Point>
+				<coordinates>-77.039651,38.897486,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>US Internal Revenue Services</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+All the following would cease in a shutdown: All audit functions; examination of returns and processing of nonelectronic tax returns that do not include remittances; nonautomated collections; legal counsel; taxpayer services such as responding to taxpayer questions (call sites); information systems functions (except as necessary to prevent loss of data in process); all planning, research, and training and development activities. Source]]></description>
+			<Point>
+				<coordinates>-77.027206,38.892302,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>US International Joint Commission</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+This commission works in cooperation with Canada over shared waters. Virtually all IJC work will cease. U.S. Chair will be excepted to make emergency decisions.]]></description>
+			<Point>
+				<coordinates>-77.050291,38.906357,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>US National Archives &amp; Records Administration</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+Established in 1934, this agency preserves and documents vital government and historical records.]]></description>
+			<Point>
+				<coordinates>-77.022956,38.892757,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>US Occupational Safety &amp; Health</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+Totally closed. IT and Administrative Assistant are the only employees retained]]></description>
+			<Point>
+				<coordinates>-77.014385,38.893113,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>US Small Business Administration</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+Disaster loan program and the IG open; everything else closed]]></description>
+			<Point>
+				<coordinates>-77.01602,38.884781,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>US Special Counsel Office</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+Whistleblower disclosures involving a substantial and serious risk to public health or safety or those requiring emergency action to protect property will continue to be processed. Source]]></description>
+			<Point>
+				<coordinates>-77.03982,38.905526,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>US Department of Transportation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/interactive/2013/09/politics/government-shutdown-impact/)
+
+FAA remains near full functionality (including air traffic controllers and safety responsibilities).]]></description>
+			<Point>
+				<coordinates>-77.003335,38.875828,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>US Military Aid  to Israel Could be Delayed</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Huffington Post (http://www.huffingtonpost.com/2013/10/02/government-shutdown-foreign-aid_n_4032143.html)
+
+A prolonged U.S. federal government shutdown could delay military assistance to Israel and other American allies, the State Department said on Wednesday.
+
+
+Amount: $2.7 billion (2010)]]></description>
+			<Point>
+				<coordinates>34.815674,31.015279,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>US Military Aid to Afghanistan Could be Delayed</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Huffington Post (http://www.huffingtonpost.com/2013/10/02/government-shutdown-foreign-aid_n_4032143.html)
+
+A prolonged U.S. federal government shutdown could delay military assistance to Israel and other American allies, the State Department said on Wednesday.
+
+
+Amount: $6.8 billion (2010)]]></description>
+			<Point>
+				<coordinates>67.236328,34.452218,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>US Military Aid to Iraq Could be Delayed</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Huffington Post (http://www.huffingtonpost.com/2013/10/02/government-shutdown-foreign-aid_n_4032143.html)
+
+A prolonged U.S. federal government shutdown could delay military assistance to Israel and other American allies, the State Department said on Wednesday.
+
+
+Amount: $1 billion (2010)]]></description>
+			<Point>
+				<coordinates>44.296875,32.990236,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>US Military Aid to Pakistan Could be Delayed</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Huffington Post (http://www.huffingtonpost.com/2013/10/02/government-shutdown-foreign-aid_n_4032143.html)
+
+A prolonged U.S. federal government shutdown could delay military assistance to Israel and other American allies, the State Department said on Wednesday.
+
+
+Amount: $914 million (2010)]]></description>
+			<Point>
+				<coordinates>70.488281,29.688053000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>US Military Aid to Jordan Could be Delayed</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Huffington Post (http://www.huffingtonpost.com/2013/10/02/government-shutdown-foreign-aid_n_4032143.html)
+
+A prolonged U.S. federal government shutdown could delay military assistance to Israel and other American allies, the State Department said on Wednesday.
+
+
+Amount: $304 million (2010)]]></description>
+			<Point>
+				<coordinates>36.716309,30.939924,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>US Military Aid to Somalia Could be Delayed</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Huffington Post (http://www.huffingtonpost.com/2013/10/02/government-shutdown-foreign-aid_n_4032143.html)
+
+A prolonged U.S. federal government shutdown could delay military assistance to Israel and other American allies, the State Department said on Wednesday.
+
+
+Amount: $204 million (2010)]]></description>
+			<Point>
+				<coordinates>47.900391,9.709057,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>US Military Aid to Russia Could be Delayed</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Huffington Post (http://www.huffingtonpost.com/2013/10/02/government-shutdown-foreign-aid_n_4032143.html)
+
+A prolonged U.S. federal government shutdown could delay military assistance to Israel and other American allies, the State Department said on Wednesday.
+
+
+Amount: $127 million (2010)]]></description>
+			<Point>
+				<coordinates>36.5625,59.355596,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>US Military Aid to Afghanistan Could be Delayed</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Huffington Post (http://www.huffingtonpost.com/2013/10/02/government-shutdown-foreign-aid_n_4032143.html)
+
+A prolonged U.S. federal government shutdown could delay military assistance to Israel and other American allies, the State Department said on Wednesday.
+
+
+Amount: $105 million (2010)]]></description>
+			<Point>
+				<coordinates>31.201172000000003,17.14079,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>US Military Aid to Columbia Could be Delayed</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Huffington Post (http://www.huffingtonpost.com/2013/10/02/government-shutdown-foreign-aid_n_4032143.html)
+
+A prolonged U.S. federal government shutdown could delay military assistance to Israel and other American allies, the State Department said on Wednesday.
+
+
+Amount: $186 million (2010)]]></description>
+			<Point>
+				<coordinates>-72.070312,2.899153,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>US Military Aid to Mexico Could be Delayed</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Huffington Post (http://www.huffingtonpost.com/2013/10/02/government-shutdown-foreign-aid_n_4032143.html)
+
+A prolonged U.S. federal government shutdown could delay military assistance to Israel and other American allies, the State Department said on Wednesday.
+
+
+Amount: $96 million (2010)]]></description>
+			<Point>
+				<coordinates>-100.986328,23.32208,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>US Military Aid to Poland Could be Delayed</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Huffington Post (http://www.huffingtonpost.com/2013/10/02/government-shutdown-foreign-aid_n_4032143.html)
+
+A prolonged U.S. federal government shutdown could delay military assistance to Israel and other American allies, the State Department said on Wednesday.
+
+
+Amount: $56 million (2010)]]></description>
+			<Point>
+				<coordinates>20.126953,52.268157,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Source of US Military Aid recipients</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia's Notable US Military Aid (http://en.wikipedia.org/wiki/United_States_military_aid#Notable_Military_Aid)]]></description>
+			<Point>
+				<coordinates>-45.527344,28.998532,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>US Debt owed to China if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[theguardian.com (http://www.theguardian.com/news/datablog/2011/jul/15/us-debt-how-big-who-owns)
+
+ 
+$1,149.60 billion]]></description>
+			<Point>
+				<coordinates>104.765625,33.431441,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>US Debt owed to Japan if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[theguardian.com (http://www.theguardian.com/news/datablog/2011/jul/15/us-debt-how-big-who-owns)
+
+ $1,117.10 billion]]></description>
+			<Point>
+				<coordinates>138.33984400000003,36.173357,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>US Debt owed ot Oil Exporters if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[theguardian.com (http://www.theguardian.com/news/datablog/2011/jul/15/us-debt-how-big-who-owns)
+
+ $262.30 billion]]></description>
+			<Point>
+				<coordinates>49.482422,21.289374,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>US Debt owed to Brazil if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[theguardian.com (http://www.theguardian.com/news/datablog/2011/jul/15/us-debt-how-big-who-owns)
+
+ 
+$253 billion]]></description>
+			<Point>
+				<coordinates>-54.052734,-11.005904,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>US Debt owed to Carribean Banking Centers if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[theguardian.com (http://www.theguardian.com/news/datablog/2011/jul/15/us-debt-how-big-who-owns)
+
+ 
+$249.20 billion]]></description>
+			<Point>
+				<coordinates>-63.193359,16.214675,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>US Debt owed to Taiwan if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[theguardian.com (http://www.theguardian.com/news/datablog/2011/jul/15/us-debt-how-big-who-owns)
+
+ 
+$196.10 billion]]></description>
+			<Point>
+				<coordinates>121.025391,23.725012,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>US Debt owed to Switerland if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[theguardian.com (http://www.theguardian.com/news/datablog/2011/jul/15/us-debt-how-big-who-owns)
+
+ $190.10 billion]]></description>
+			<Point>
+				<coordinates>7.778319999999999,46.800059,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>US Debt owed to Russia if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[theguardian.com (http://www.theguardian.com/news/datablog/2011/jul/15/us-debt-how-big-who-owns)
+
+ 
+$154.30 billion]]></description>
+			<Point>
+				<coordinates>39.418945,58.904646,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>US Debt owed to Belgium if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[theguardian.com (http://www.theguardian.com/news/datablog/2011/jul/15/us-debt-how-big-who-owns)
+
+ $154.30 billion]]></description>
+			<Point>
+				<coordinates>4.438477,51.041394,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>US Debt owed to the United Kingdom if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[theguardian.com (http://www.theguardian.com/news/datablog/2011/jul/15/us-debt-how-big-who-owns)
+
+ 
+$140.90 billion]]></description>
+			<Point>
+				<coordinates>-0.878906,52.321911,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Argentina if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount: $786 million]]></description>
+			<Point>
+				<coordinates>-61.17187499999999,-36.879621,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Bolivia if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount: $5.1 million]]></description>
+			<Point>
+				<coordinates>-65.039062,-16.636192,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Chile if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount: $1 million]]></description>
+			<Point>
+				<coordinates>-69.609375,-24.846565,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Peru if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount: $98.6 million]]></description>
+			<Point>
+				<coordinates>-77.34375,-11.867351,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Equador if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $18.8 million]]></description>
+			<Point>
+				<coordinates>-78.662109,-2.108899,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Columbia if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $353.6 million]]></description>
+			<Point>
+				<coordinates>-74.882812,3.250209,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Guyana if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $9.1 million]]></description>
+			<Point>
+				<coordinates>-58.798828,5.965754,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Suriname if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $213 thousand]]></description>
+			<Point>
+				<coordinates>-56.337891,4.127285,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Brazil if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $15.4 million]]></description>
+			<Point>
+				<coordinates>-51.416016,-7.710992,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Uraguay if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $427 thousand]]></description>
+			<Point>
+				<coordinates>-55.722656,-32.249974,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Panama if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $3.5 million]]></description>
+			<Point>
+				<coordinates>-80.332031,8.754795,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Costa Rica if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $1.6 million]]></description>
+			<Point>
+				<coordinates>-83.583984,9.795678,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Nicaragua if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $9.2 million]]></description>
+			<Point>
+				<coordinates>-84.814453,12.46876,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Honduras if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $52 million]]></description>
+			<Point>
+				<coordinates>-86.616211,15.072123999999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to El Salvador if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $27.4 million]]></description>
+			<Point>
+				<coordinates>-88.286133,13.581921,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Guatemala if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $83.8 million]]></description>
+			<Point>
+				<coordinates>-90.131836,15.284184999999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Belize if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $977 thosuand]]></description>
+			<Point>
+				<coordinates>-88.505859,17.224758,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Mexico if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested:: $265 million]]></description>
+			<Point>
+				<coordinates>-100.063477,21.698265,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Portugal if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $94 thousand]]></description>
+			<Point>
+				<coordinates>-8.041992,39.707187,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Czech Republic if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $6.5 million]]></description>
+			<Point>
+				<coordinates>15.029297,49.724479,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Poland if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $23.7 million]]></description>
+			<Point>
+				<coordinates>17.138672,52.509535,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Latvia if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $3.2 million]]></description>
+			<Point>
+				<coordinates>26.015625,56.944974,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Estonia if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount: $3.4 million]]></description>
+			<Point>
+				<coordinates>26.147461,58.83648999999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Belarus if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $11 million]]></description>
+			<Point>
+				<coordinates>28.520508,53.774689,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Ukraine if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $102 million]]></description>
+			<Point>
+				<coordinates>32.036133,49.382373,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Moldova if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $22 million]]></description>
+			<Point>
+				<coordinates>28.652344,47.309034,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Romania if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $13 million]]></description>
+			<Point>
+				<coordinates>25.224609,46.16461400000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Hungary if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $1.8 million]]></description>
+			<Point>
+				<coordinates>19.555664,46.920255,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Solvakia if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $1.8 million]]></description>
+			<Point>
+				<coordinates>18.94043,48.835797,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Slovenia if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $1 million]]></description>
+			<Point>
+				<coordinates>14.809570000000003,46.012224,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Venezuela if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $5.7 million]]></description>
+			<Point>
+				<coordinates>-65.126953,7.362467,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Paraguay if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $6 million]]></description>
+			<Point>
+				<coordinates>-59.589844,-21.943046,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Lithuania if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $3.5 million]]></description>
+			<Point>
+				<coordinates>23.291016,55.478853,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Croatia if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $4.7 million]]></description>
+			<Point>
+				<coordinates>16.479492,45.552525,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Bosnia &amp; Herzegovina if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $46.9 million]]></description>
+			<Point>
+				<coordinates>17.490234,44.653024,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Serbia if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested:  $31 million]]></description>
+			<Point>
+				<coordinates>20.830078,44.43378,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Bulgaria if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $9.5 million]]></description>
+			<Point>
+				<coordinates>25.444336,42.972502,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Montenegro if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested:  $.3 million]]></description>
+			<Point>
+				<coordinates>19.116211,42.94033900000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Kosovo if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $62 million]]></description>
+			<Point>
+				<coordinates>20.874023,42.55308,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Albania if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $21.5 million]]></description>
+			<Point>
+				<coordinates>19.885254,41.327326,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Macedonia if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $16.9 million]]></description>
+			<Point>
+				<coordinates>21.796875,41.541478,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Greece if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $95 thousand]]></description>
+			<Point>
+				<coordinates>21.599121,40.111689,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Turkey if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested:  $4.2 million]]></description>
+			<Point>
+				<coordinates>30.673828000000004,40.195659,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Morocco if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $31 million]]></description>
+			<Point>
+				<coordinates>-5.976562,31.653381,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Tunsia if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $46 million]]></description>
+			<Point>
+				<coordinates>9.84375,35.101934,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Egypt if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $1.6 billion]]></description>
+			<Point>
+				<coordinates>28.916016,26.667096,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Sudan if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $10.7 million]]></description>
+			<Point>
+				<coordinates>27.773438,19.642588,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Chad if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $1.3 million]]></description>
+			<Point>
+				<coordinates>18.720703,16.804541,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Niger if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $8.2 million]]></description>
+			<Point>
+				<coordinates>9.84375,18.646245,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Mali if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $104.7 million]]></description>
+			<Point>
+				<coordinates>-2.285156,19.808054,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Mauritania if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $2 million]]></description>
+			<Point>
+				<coordinates>-10.898437,20.055931,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Algeria if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $2.4 million]]></description>
+			<Point>
+				<coordinates>3.7792970000000006,30.145127000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Libya if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $2..5 million]]></description>
+			<Point>
+				<coordinates>17.314453,28.459033,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Israel if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $2.9 million]]></description>
+			<Point>
+				<coordinates>34.145508,30.826781000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Jordan if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $740 million]]></description>
+			<Point>
+				<coordinates>36.760254,31.802893,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Werst bank &amp; Gaza Strip if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $427 million]]></description>
+			<Point>
+				<coordinates>35.315552,31.970804,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Lebanon if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $155.3 million]]></description>
+			<Point>
+				<coordinates>35.722046,33.947917,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Iraq if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $2.3 billion]]></description>
+			<Point>
+				<coordinates>42.583008,33.906896,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Yemen if US Defaults </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $64.6 million]]></description>
+			<Point>
+				<coordinates>48.735352,16.214675,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Oman if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $11 million]]></description>
+			<Point>
+				<coordinates>56.25,20.220966,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Saudi Arabia if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $9 thousand]]></description>
+			<Point>
+				<coordinates>45.878906,25.918526,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Afghanistan if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $3.4 billion]]></description>
+			<Point>
+				<coordinates>65.390625,32.472695,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Pakistan if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $1.8 billion]]></description>
+			<Point>
+				<coordinates>72.333984,32.10119,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to India if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $98.8 million]]></description>
+			<Point>
+				<coordinates>78.486328,22.674847,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Nepal if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $86.7 million]]></description>
+			<Point>
+				<coordinates>83.144531,28.767659,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Bangladesh if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $202.3 million]]></description>
+			<Point>
+				<coordinates>90.263672,23.644524,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Burma if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $61.8 million]]></description>
+			<Point>
+				<coordinates>95.712891,21.779905,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Thailand if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $11.3 million]]></description>
+			<Point>
+				<coordinates>99.404297,17.727759,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Laos if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $11.6 million]]></description>
+			<Point>
+				<coordinates>102.304688,19.808054,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Cambodia if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $77.3 million]]></description>
+			<Point>
+				<coordinates>104.853516,12.46876,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to China if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $13.9 million]]></description>
+			<Point>
+				<coordinates>109.511719,37.857507,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Kazakhstan if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $13.9 Million]]></description>
+			<Point>
+				<coordinates>68.378906,48.806863,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Uzbekistan if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $11.7 million]]></description>
+			<Point>
+				<coordinates>64.072266,42.032974,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Kyrgyzstan if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $49.3 million]]></description>
+			<Point>
+				<coordinates>74.223633,41.967659,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Tajikistai if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $40.6 million]]></description>
+			<Point>
+				<coordinates>69.609375,39.095963,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Indonesia if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $166.9 million]]></description>
+			<Point>
+				<coordinates>102.348633,-0.79099,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Papua New Guinea if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $4.8 million]]></description>
+			<Point>
+				<coordinates>143.217773,-5.659719,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Philipines if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $160 million]]></description>
+			<Point>
+				<coordinates>122.08007799999999,13.154376,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Madagascar if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $59.6 million]]></description>
+			<Point>
+				<coordinates>46.494141,-20.653346,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Vietnam if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $113.2 million]]></description>
+			<Point>
+				<coordinates>108.852539,13.496473000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Mongolia if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $9 million]]></description>
+			<Point>
+				<coordinates>104.0625,45.706179,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Turkmenistan if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $6.2 million]]></description>
+			<Point>
+				<coordinates>60.117188,39.300299,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Malaysia if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $3 million]]></description>
+			<Point>
+				<coordinates>102.172852,4.477856,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Senegal if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $105 million]]></description>
+			<Point>
+				<coordinates>-14.414062,15.114553000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to The Gambia if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $85 thousand]]></description>
+			<Point>
+				<coordinates>-15.732422000000001,13.410994000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Guinea if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $20.3 million]]></description>
+			<Point>
+				<coordinates>-12.041016,10.746969,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Sierra Leone if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $14.8 million]]></description>
+			<Point>
+				<coordinates>-11.953125,8.841651,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Liberia if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $187 million]]></description>
+			<Point>
+				<coordinates>-9.492187,6.315299,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Cote d'Ivoire if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $145.9 million]]></description>
+			<Point>
+				<coordinates>-5.625,8.146243,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Ghana if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $160.6 million]]></description>
+			<Point>
+				<coordinates>-1.845703,8.928487,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Benin if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $23.6 million]]></description>
+			<Point>
+				<coordinates>2.636719,10.055403,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Nigeria if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $700 million]]></description>
+			<Point>
+				<coordinates>10.458984,11.005904,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Cameroon if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $25.5 million]]></description>
+			<Point>
+				<coordinates>13.271484,5.309766,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to South Sudan if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $410.6 million]]></description>
+			<Point>
+				<coordinates>28.959960999999996,7.100893,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Djibouti if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $5 million]]></description>
+			<Point>
+				<coordinates>42.890625,11.910354,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Somalia if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $209.8 million]]></description>
+			<Point>
+				<coordinates>49.570313,10.358151,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Togo if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $119 thousand]]></description>
+			<Point>
+				<coordinates>1.010742,8.971897,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Ethiopia if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $519 million]]></description>
+			<Point>
+				<coordinates>38.979492,10.53102,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Gabon if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $170 thousand]]></description>
+			<Point>
+				<coordinates>12.084961,-0.747049,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Republic of Congo if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $94 thousand]]></description>
+			<Point>
+				<coordinates>16.347656,-0.439449,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Democratic Republic of Congo if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $273.8 million]]></description>
+			<Point>
+				<coordinates>24.125977,-0.9228120000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Uganda if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $480.9 million]]></description>
+			<Point>
+				<coordinates>33.178711,2.416276,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Kenya if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $464 million]]></description>
+			<Point>
+				<coordinates>37.924805,1.6257580000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Rwanda if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $196.8 million]]></description>
+			<Point>
+				<coordinates>29.838867,-1.757537,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Burnudi if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $40.4 million]]></description>
+			<Point>
+				<coordinates>29.750977000000002,-3.557283,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Tanzania if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $551.3 million]]></description>
+			<Point>
+				<coordinates>35.859375,-5.703448,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Zambia if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $395.5 million]]></description>
+			<Point>
+				<coordinates>26.542969,-13.923404,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Malawi if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $198.5 million]]></description>
+			<Point>
+				<coordinates>34.277344,-13.83808,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Mozambique if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $334.8 million]]></description>
+			<Point>
+				<coordinates>38.232422,-15.029686,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Zimbabwe if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $151.8 million]]></description>
+			<Point>
+				<coordinates>29.53125,-17.895114,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Botswana if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $62 million]]></description>
+			<Point>
+				<coordinates>23.554688,-20.550509,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Nambia if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $77.9 million]]></description>
+			<Point>
+				<coordinates>17.314453,-21.861499,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Lesotho if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $26.2 million]]></description>
+			<Point>
+				<coordinates>28.388672,-29.22889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Swaziland if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $26.1 million]]></description>
+			<Point>
+				<coordinates>31.376953,-26.273714,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to Angola if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $55.8 million]]></description>
+			<Point>
+				<coordinates>16.611328,-10.314919,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Foreign Aid to South Africa if US Defaults</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Amount Requested: $513.6 million]]></description>
+			<Point>
+				<coordinates>23.642578,-27.137368000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-FFDD5E</styleUrl>
+			<name>Source of US Foreign Aid recipients</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://foreignassistance.gov (http://foreignassistance.gov/CountryIntro.aspx)]]></description>
+			<Point>
+				<coordinates>-45.70312500000001,34.307144,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>North Carolina Department of Health and Human Services</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com (http://www.huffingtonpost.com/2013/10/10/government-shutdown-wic_n_4073146.html?ref=topbar)
+
+The North Carolina Department of Health and Human Services said Tuesday it would stop issuing vouchers for the Special Supplemental Nutrition Program for Women, Infants and Children because of the federal government shutdown.]]></description>
+			<Point>
+				<coordinates>-78.65385200000001,35.768105,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Usda Food Safety and Inspection Service</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost (http://www.huffingtonpost.com/2013/10/01/fda-food-safety-inspections-shutdown_n_4025487.html)
+
+The U.S. Department of Agriculture's Food Safety Inspection Service will continue manning every meat production facility with full-time inspectors, even as many government programs are halted. But the FDA actually oversees the safety of the vast majority of the country's food industry. And according to a memo released by the Department of Health and Human Services, the bulk of FDA food inspectors have been deemed non-essential, so will inspect few if any food facilities until Congress and the president agree on a bill to fund the federal government.]]></description>
+			<Point>
+				<coordinates>-75.152672,39.951641,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Nevada Couple Evicted From Home Due To Government Shutdown</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Huffington Post (http://www.huffingtonpost.com/2013/10/10/shutdown-evicted-homeowners_n_4079243.html)
+
+Last Thursday, Joyce, 77, and Ralph Spencer, 80, were told they’d have to leave their home in Lake Mead, Nev., because it is situated on government land, KTNV reported. Lake Mead is a national park, and the area has been closed as a result of the government shutdown that began on October 1.
+
+Ms. Spencer told KTNV that a park ranger said they’d have just 24 hours to vacate the premises. Their cabin in Lake Mead is technically considered a vacation home, and one of the requirements for purchasing it was that they would have a primary residence elsewhere.
+
+They’ve owned the Lake Mead property since the 1970s, but with the ongoing gridlock in Washington, it’s unclear when they’ll be able to return. Since being evicted, the couple says they've been staying with family.]]></description>
+			<Point>
+				<coordinates>-114.417332,36.177146,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Cessna Aircraft Company</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[politico.com (http://www.politico.com/gallery/2013/10/air-sea-land-10-shutdown-impacts/001358-019361.html)
+
+PLANES: Delayed delivery of about 142 general aviation aircraft by mid-October, costing almost $1.5 billion. Examples of impacted aircraft include crop dusters, smaller planes for civilian use and corporate jets.]]></description>
+			<Point>
+				<coordinates>-81.331829,28.447765,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Jet Blues's NextGen JFK Installation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[politico.com (http://www.politico.com/gallery/2013/10/air-sea-land-10-shutdown-impacts/001358-019362.html)
+
+AIR-TRAFFIC CONTROL: The FAA has halted development and testing of NextGen, a program that would allow the agency to move to a satellite-based air traffic control system. It would also provide pilots and controllers with real-time traffic and weather information.]]></description>
+			<Point>
+				<coordinates>-73.788643,40.644699,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Nuclear Regulatory Commission</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com (http://www.huffingtonpost.com/2013/10/09/nuclear-regulatory-commission-furlough_n_4074078.html)
+
+
+The Nuclear Regulatory Commission, which monitors the nation's 100 commercial nuclear power plants, is set to furlough 3,600 employees on Thursday after depleting funds amid the government shutdown.
+
+The shutdown will disable non-emergency licensing of nuclear reactors, emergency exercises, and the inspection of nuclear materials and waste licensees. Three-hundred "essential" personnel will stay on the job, 150 of which are "resident inspectors" who will address immediate safety and security matters, the NRC said.]]></description>
+			<Point>
+				<coordinates>-84.794862,35.602737,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>North Carolina First State To Cut Welfare Amid Shutdown</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com (http://www.huffingtonpost.com/2013/10/15/north-carolina-welfare-shutdown_n_4103597.html?utm_hp_ref=politics)
+
+RALEIGH, N.C., Oct 15 (Reuters) - North Carolina has become the first state to cut off welfare benefits to poor residents in the wake of the partial federal government shutdown, ordering a halt to processing November applications until a deal is reached to end the federal standstill.
+
+More than 20,000 people - most of them children - receive monthly benefits aimed at helping them buy food and other basic supplies through North Carolina's welfare program, called Work First, which is fully funded by the federal government. Recipients must reapply each month.]]></description>
+			<Point>
+				<coordinates>-78.65385200000001,35.768105,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-971</styleUrl>
+			<name>JPMorgan Chase &amp; Co. Sells Off All Short-Term U.S. Government Debt</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com (http://www.huffingtonpost.com/2013/10/10/jpmorgan-chase-government-debt-sells_n_4080996.html)
+
+NEW YORK (AP) — JPMorgan Chase says it has sold all of its exposure to short-term U.S. government debt out of its money market funds, following a similar move by other money market mutual fund managers.
+
+The news comes a day after Fidelity Investments said it no longer holds any U.S. government debt that comes due around the time the nation could hit its borrowing limit.]]></description>
+			<Point>
+				<coordinates>-73.975406,40.755813,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Arizona Businesses Split The Bill To Reopen Grand Canyon</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com (http://www.huffingtonpost.com/2013/10/15/arizona-businesses-split-_n_4101745.html?ir=Green&ref=topbar)
+
+Arizona businesses have been suffering since the government shutdown closed the Grand Canyon more than two weeks ago.
+But this weekend, the park reopened thanks to efforts by the state and the nearby town of Tusayan. Even better, contributions from local businesses doubled the amount of money the town needed to keep the park open.]]></description>
+			<Point>
+				<coordinates>-112.118225,36.094609,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1101'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1101-biz-supermarket.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1107'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1107-biz-theater.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1139'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1139-crisis-earthquake.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1199'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1199-fac-help.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1205'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1205-fac-medical.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1217'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1217-fac-wc-men.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1437'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1437-trans-helicopter.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1441'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1441-trans-marina.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-7CCFA9'>
+			<IconStyle>
+				<color>ffA9CF7C</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-93D7E8'>
+			<IconStyle>
+				<color>ffE8D793</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-FFDD5E'>
+			<IconStyle>
+				<color>ff5EDDFF</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-971'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/971-biz-bank-dollar.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-991'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/991-biz-cafe.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

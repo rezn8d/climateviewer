@@ -1,0 +1,1815 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps on History</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>5.625,-43.834527,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1391</styleUrl>
+			<name>Other Google Maps of Ocean Sciences</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- Interactive Map of Oceanic Trenches and other Undersea Phenomena (http://myreadingmapped.blogspot.com/2011/09/interactive-map-of-oceanic-trenches_02.html)
+
+- Google Map of the Topography of the Thermohaline Circulation of the Oceans (http://myreadingmapped.blogspot.com/2013/12/google-map-of-topography-of.html)
+
+- The Topography of Giant Wave Zones (http://myreadingmapped.blogspot.com/2014/01/the-topography-of-giant-wave-zones.html)
+
+- Mass Whale Stranding Sites (http://myreadingmapped.blogspot.com/2013/05/mass-whale-stranding-sites.html)
+
+- The El Niño Zone (http://myreadingmapped.blogspot.com/2014/04/the-el-nino-zone.html)
+
+- Topography of Plate Tectonics (http://myreadingmapped.blogspot.com/2014/02/topography-of-plate-tectonics.html)
+
+Related Articles:
+
+- Understanding the Ocean Bottom in Google Map (http://myreadingmapped.blogspot.com/2012/10/understanding-ocean-bottom-in-google-map.html)
+
+- 342-foot tsunami found in Google Earth suddenly disappears in the birth of a mountain. (http://myreadingmapped.blogspot.com/2013/01/342-foot-tsunami-found-in-google-earth.html)]]></description>
+			<Point>
+				<coordinates>-11.953125,-44.840291,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>WARNING: Unlike other MyReadingMappped maps, this map has Reproduction Restrictions!</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[This map was created under the following restrictions;
+
+In order to create an authoritative map, the coordinates used in plotting this map were done with permission of the Wiley Online Library under the Copyright © 1999-2014 John Wiley & Sons, Inc. All Rights Reserved. This permission does not include the right to grant others permission to photocopy or otherwise reproduce this material except for accessible versions made by non-profit organisations serving the blind, visually impaired and other persons with print disabilities (VIPs). As such, unlike the other MyReadinbgMapped maps, I cannot offer you any rights to create KML files of this map or embed this map on other sites. Thus, if you make a KML file of this map or embed it, you will be in violation of it's copyright.]]></description>
+			<Point>
+				<coordinates>-12.65625,-34.885931,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>This map contains images that even the divers of these sites could not have seen in the darkness.</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2F3.bp.blogspot.com%2F-uAcpuIiwmb8%2FU7ASjCa2a2I%2FAAAAAAAAHno%2FSo8Oenge9GY%2Fs1600%2FKanesu-no-see%2BBank%2Bcold%2Bseep%2Bsite%2Bin%2BGoogle%2BEarth.JPG&amp;container=blogger&amp;gadget=a&amp;rewriteMime=image%2F*</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[This map contains images of submarine topography that even the divers of these sites could not have seen at the time because they could not see more than a few feet from their portholes and cameras in the total darkness at these depths.
+ 
+The Kanesu-no-see Bank Cold Seep
+
+
+Google / MyReadingMapped]]></description>
+			<Point>
+				<coordinates>135.175781,33.797409,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Color Coding</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- RED: Hydrothermal Vents
+- BLUE: Cold Seeps
+- GREEN: Either both Hydrothermal Vent and Cold Seeps or undetermined.]]></description>
+			<Point>
+				<coordinates>-12.65625,-23.241346,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Earth Life May Have Originated at Deep-Sea Vents.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[space.com (http://www.space.com/19439-origin-life-earth-hydrothermal-vents.html)   
+
+Earth Life May Have Originated at Deep-Sea Vents
+
+Enter Günter Wächtershäuser. A German chemist turned patent lawyer who specializes in chemical and biochemical inventions, Wächtershäuser (pronounced VEK-terz-hoi-zer) first proposed in 1988 that a similar chemosynthetic process to the one observed on the Galapagos Hydrothermal Vent Expedition had been around on Earth for a very long time.
+
+Not only was it common to the planet Earth throughout its history, he argues, this process was fundamental to all living ecosystems going back to the very first genesis of life around four billion years ago. [7 Theories on the Origin of Life]]]></description>
+			<Point>
+				<coordinates>-30.234375,-45.089036,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Permissions, Copyright and Source Information</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[This map was created using coordinates from the following sources 
+
+- "Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005"  by Joel W. Martin and Todd A. Haney featured in the Zoological Journal of the Linnean Society of London, Volume 145, Issue 4, pages 445-552, December 2005, published by John Wiley & Sons, ltd.
+(http://onlinelibrary.wiley.com/doi/10.1111/j.1096-3642.2005.00178.x/abstract)
+
+The coordinates are reproduced with permission of the Wiley Online Library under the Copyright © 1999-2014 John Wiley & Sons, Inc. All Rights Reserved.
+(https://docs.google.com/file/d/0B52hHMRyBvEsUWdMZlFzQk42N28/edit)
+
+This permission does not include the right to grant others permission to photocopy or otherwise reproduce this material except for accessible versions made by non-profit organisations serving the blind, visually impaired and other persons with print disabilities (VIPs).
+
+
+- Cold Seep Epifaunal Communities on the Hikurangi Margin, New Zealand: Composition, Succession, and Vulnerability to Human Activities (http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0076869) by David A. Bowden 
+
+Copyright: © 2013 Bowden et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+
+- InterRidgeVents Database 2.2 (http://http://www.interridge.org/irvents/ventfields)
+This site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+
+Beaulieu, S.E., 2010, InterRidge Global Database of Active Submarine Hydrothermal Vent Fields: prepared for InterRidge, Version 2.0. World Wide Web electronic publication. http://www.interridge.org/IRvents 
+
+
+- Characterisation of the Nematode Community of a Low-Activity Cold Seep in the Recently Ice-Shelf Free Larsen B Area, Eastern Antarctic Peninsula by Freija Hauquier (http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0022240)
+
+
+- Various Wikipedia pages and Creative Commons and Public Domain images]]></description>
+			<Point>
+				<coordinates>-29.53125,-23.563987,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>How to obtain the article abstract!</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The abstract of the article this map is based on can be obtain at this link:
+ 
+http://onlinelibrary.wiley.com/doi/10.1111/j.1096-3642.2005.00178.x/abstract]]></description>
+			<Point>
+				<coordinates>-29.882812000000005,-34.885931,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Hydrothermal Vent Fields match up with Plate Tectonic edges</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2F3.bp.blogspot.com%2F-g121_UAyiCk%2FUwzzPvKXEmI%2FAAAAAAAAHKs%2FiZC1iZ7Phes%2Fs1600%2FTopography%2Bof%2Bplate%2Btectonics%2Bin%2BGoogle%2BMap.JPG&amp;container=blogger&amp;gadget=a&amp;rewriteMime=image%2F*</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Check out this Google Map of the Topography of Plate Tectonics to see these hydrothermal vents align with plate tectonics.
+(http://myreadingmapped.blogspot.com/2014/02/topography-of-plate-tectonics.html) 
+ 
+ 
+Google / MyReadingMapped]]></description>
+			<Point>
+				<coordinates>-48.867187,34.016242,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1199</styleUrl>
+			<name>What is a Cold Seep? (the Blue placemarks)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Cold_seep#In_the_Atlantic_Ocean)
+
+A cold seep (sometimes called a cold vent) is an area of the ocean floor where hydrogen sulfide, methane and other hydrocarbon-rich fluid seepage occurs, often in the form of a brine pool. "Cold" does not mean temperature of seepage is lower than surrounding sea water. On the contrary, its temperature is often slightly higher.[1] Cold seeps constitute a biome supporting several endemic species.
+
+Cold seeps develop unique topography over time, where reactions between methane and seawater create carbonate rock formations and reefs. These reactions may also be dependent on bacterial activity. Ikaite, a hydrous calcium carbonate, can be associated with oxidizing methane at cold seeps.]]></description>
+			<Point>
+				<coordinates>-70.488281,30.600094000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Blake Ridge Cold Seep</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/2/22/Bacterial_mat.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Blake Ridge / Wikipedia Commons / Public Domain / NOAA /  Hadal (http://en.wikipedia.org/wiki/User:Hadal)]]></description>
+			<Point>
+				<coordinates>-73.652344,31.653381,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Green Canyon Cold Seep Shown in Google Earth 3D</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2F3.bp.blogspot.com%2F-bpC5dPWEMkM%2FU6v9HgWWvaI%2FAAAAAAAAHmI%2FUzOnLJ9anNE%2Fs1600%2FGreen%2BCanyon%2BCold%2BSeep%2Bshown%2Bin%2BGoogle%2BEarth.PNG&amp;container=blogger&amp;gadget=a&amp;rewriteMime=image%2F*</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google / MyReadingMapped]]></description>
+			<Point>
+				<coordinates>-90.74707,26.74561,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Seeped Brine Pools</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/4/4d/NOAAseep_600CratersBrinePools.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[These craters mark the formation of brine pools, from which salt has seeped through the seafloor and encrusted the nearby substrate. 
+
+
+
+Wikipedia Commons / Public Domain / NOAA]]></description>
+			<Point>
+				<coordinates>-79.980469,21.943046,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1199</styleUrl>
+			<name>What is a Hydrothermal Vent? (the Red placemarks)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Hydrothermal_vent)
+
+A hydrothermal vent is a fissure in a planet's surface from which geothermally heated water issues. Hydrothermal vents are commonly found near volcanically active places, areas where tectonic plates are moving apart, ocean basins, and hotspots. Hydrothermal vents exist because the earth is both geologically active and has large amounts of water on its surface and within its crust. Common land types include hot springs, fumaroles and geysers. Under the sea, hydrothermal vents may form features called black smokers. Relative to the majority of the deep sea, the areas around submarine hydrothermal vents are biologically more productive, often hosting complex communities fueled by the chemicals dissolved in the vent fluids. Chemosynthetic bacteria and archaea form the base of the food chain, supporting diverse organisms, including giant tube worms, clams, limpets and shrimp. Active hydrothermal vents are believed to exist on Jupiter's moon Europa, and ancient hydrothermal vents have been speculated to exist on Mars.[1]]]></description>
+			<Point>
+				<coordinates>-37.792969,26.588527,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Champagne Hydrothermal Vent (approximated)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Champagne_vent_white_smokers.jpg/640px-Champagne_vent_white_smokers.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[White flocculent mats in and around the extremely gassy, high-temperature (>100°C, 212°F) white smokers at Champagne Vent (Mariana Trench National Monument)
+
+
+
+Wikipedia Commons / Public Domain / NOAA]]></description>
+			<Point>
+				<coordinates>144.043,21.485,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>The Lost City Hyrdothermal Vent Field Shown in Google Earth 3D</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://4.bp.blogspot.com/-uHq0yqwKdks/U6v7pfAq8fI/AAAAAAAAHmA/SHmkYa5VuG8/s1600/Lost+City+thermal+vent+field+in+Google+Earth.PNG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google / MyReadingMapped]]></description>
+			<Point>
+				<coordinates>-31.289062,36.862043,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Tube Worms</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Lamellibrachia_luymesi1.png/570px-Lamellibrachia_luymesi1.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Close-up photograph of the symbiotic vestimentiferan tubeworm Lamellibrachia luymesi (http://commons.wikimedia.org/w/index.php?title=Lamellibrachia_luymesi&action=edit&redlink=1) from a cold seep at 550 m depth in the Gulf of Mexico. The tubes of the worms are stained with a blue chitin stain to determine their growth rates. Approximately 14 mo of growth is shown by the staining here.
+
+
+Wikipedia Commons / Charles Fisher]]></description>
+			<Point>
+				<coordinates>-88.417969,21.779905,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Alvinocaris in the vents of the Pacific Ring</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Alvinocaris.jpg/800px-Alvinocaris.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Alvinocaris sp. from the Pacific Ring of Fire
+
+
+Wikipedia Commons / Public Domain / NOAA]]></description>
+			<Point>
+				<coordinates>152.929688,34.016242,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Fauna surrounding some vents</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dense_mass_of_anomuran_crab_Kiwa_around_deep-sea_hydrothermal_vent.jpg/800px-Dense_mass_of_anomuran_crab_Kiwa_around_deep-sea_hydrothermal_vent.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Dense mass of the anomuran crab Kiwa n. sp. at E9 with the stalked barnacle cf. Vulcanolepas attached to nearby chimney (Dive 138, 2,397 m depth). Scale bar: 10 cm for foreground.
+
+
+Wikipedia Commons / A. D. Rogers et al. in PLoS Biology (http://www.plosbiology.org/article/slideshow.action?uri=info:doi/10.1371/journal.pbio.1001234&imageURI=info:doi/10.1371/journal.pbio.1001234.g002)]]></description>
+			<Point>
+				<coordinates>-125.859375,20.96144,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-7CCFA9</styleUrl>
+			<name>Methane is emanating from at least 570 locations, called seeps, from near Cape Hatteras, N.C., to the Georges Bank southeast of Nantucket, Mass.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[nytimes.com (http://www.nytimes.com/2014/08/25/science/methane-is-seeping-from-seafloor-off-east-coast-scientists-say.html?_r=0)
+ 
+Scientists have discovered methane gas bubbling from the seafloor in an unexpected place: off the East Coast of the United States where the continental shelf meets the deeper Atlantic Ocean.
+ 
+In a paper published online Sunday in the journal Nature Geoscience, the scientists, including Adam Skarke of Mississippi State University and Carolyn Ruppel of the United States Geological Survey, reported evidence that the seepage had been going on for at least 1,000 years.]]></description>
+			<Point>
+				<coordinates>-74.661713,36.218795,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Aegean Sea, Milos (Coordinate error) </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+The coordinate listed in the article is incorrect. 36°40′N, 24°32′W places it in the Atlantic Ocean. 36°40′N, 24°32′E places it near a Milos Island in the Mediterranean Sea.
+
+Cited Source:
+Dando et al., 1995]]></description>
+			<Point>
+				<coordinates>24.533333,36.666667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Amsterdam</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Seep communities from two mud volcanoes in the deep eastern Mediterranean Sea: faunal composition, spatial patterns and environmental control.                                   (http://hal.univ-brest.fr/docs/00/77/96/46/PDF/seep-comm.pdf)
+ 
+ 
+Bénédicte Ritt 1,2,*, Daniel Desbruyères 
+1, Jean-Claude Caprais 1, Olivier Olivier Gauthier 3, Livio Ruffine 1, Roselyne Buscail 4, Karine Olu-Le Roy 1, Jozée Sarrazin 1]]></description>
+			<Point>
+				<coordinates>30.266667,35.366667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Blake Ridge Diapir - Cold Seep</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Alvinocarididae)
+
+Alvinocaris muricola Williams, 1988 – Cold Seeps, Gulf of Guinea possibly Blake Ridge cold seep and Barbados Accrectionary Prism; Type locality: Gulf of Mexico, west Florida escarpment, from cold brine seep, 26°01′N 84°54.61′W, at a depth of 3,277 m (10,751 ft).[2]]]></description>
+			<Point>
+				<coordinates>-76.179199,32.497601,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Bush Hill hydrocarbon seep - Cold Seep </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://http://en.wikipedia.org/wiki/Alvinocarididae)
+
+Alvinocaris stactophila Williams 1988 – Gulf of Mexico, Bush Hill hydrocarbon seep, 27°46.94′N 91°30.34′W, at a depth of 534 m (1,752 ft).[2]]]></description>
+			<Point>
+				<coordinates>-91.505667,27.782333000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>GeoB-Station 12320-9</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Transport and (bio) geochemical processes at 
+cold seeps of the Makran convergent margin (http://elib.suub.uni-bremen.de/edocs/00102518-1.pdf) 
+ 
+Dissertation 
+zur Erlangung des Doktorgrades der Naturwissenschaften 
+(Dr. rer. nat.)]]></description>
+			<Point>
+				<coordinates>63.02340000000001,24.8939,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Green Canyon - Cold Seep</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+
+
+Cited Sources:
+ 
+Williams, 1988; MacDonald et al., 1989;
+Carney, 1994; Bergquist et al., 2003;
+Felder & Kensley, 2004]]></description>
+			<Point>
+				<coordinates>-91.5,27.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Larson B Ice Shelf Cold Seep (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Characterisation of the Nematode Community of a Low-Activity Cold Seep in the Recently Ice-Shelf Free Larsen B Area, Eastern Antarctic Peninsula by Freija Hauquier                                                                     (http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0022240)]]></description>
+			<Point>
+				<coordinates>-61.21582000000001,-65.240607,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>More Gulf of Mexico Cold Seeps</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Chemosynthetic_communities_in_the_Gulf_of_Mexico_2006.png/1024px-Chemosynthetic_communities_in_the_Gulf_of_Mexico_2006.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Enlarge. (http://en.wikipedia.org/wiki/Cold_seep#mediaviewer/File:Chemosynthetic_communities_in_the_Gulf_of_Mexico_2006.png)
+
+
+
+Wikipedia Commons / Public Domain / Chemosynthetic communities in the Gulf of Mexico 2006 / 
+Minerals Management Service. Gulf of Mexico OCS Region]]></description>
+			<Point>
+				<coordinates>-89.934082,28.246328,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Guinea Area Cold Seep (approximated)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cold_seeps_of_the_Atlantic_Ocean.png/800px-Cold_seeps_of_the_Atlantic_Ocean.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/File:Cold_seeps_of_the_Atlantic_Ocean.png)
+ 
+Wikipedia Commons / Karine Olu, Erik E. Cordes, Charles R. Fisher, James M. Brooks, Myriam Sibuet & Daniel Desbruyères]]></description>
+			<Point>
+				<coordinates>9.239502,-2.0210650000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Gulf of Guinea Régab site - Cold Seep</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Source:
+
+T. Komai, pers. comm.; Komai & Segonzac, 2005a]]></description>
+			<Point>
+				<coordinates>9.703674,-5.790897,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Kanesu-no-se Bank</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Source:   
+Ohta et al., 1995]]></description>
+			<Point>
+				<coordinates>138.033333,34.25,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Marmara Sea Cold Seeps</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[First insights into the structure and environmental setting of cold-seep communities in the Marmara Sea (http://archimer.ifremer.fr/doc/00014/12506/9528.pdf)
+ 
+Bénédicte Ritta, *, Jozée Sarrazina, *, Jean-Claude Capraisa, Philippe Noëla, Olivier Gauthiera, b, Catherine Pierrec, Pierre Henryd and Daniel Desbruyèresa ]]></description>
+			<Point>
+				<coordinates>28.0,40.833333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Napoli</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Seep communities from two mud volcanoes in the deep eastern Mediterranean Sea: faunal composition, spatial patterns and environmenta control.                                   (http://hal.univ-brest.fr/docs/00/77/96/46/PDF/seep-comm.pdf)
+ 
+Bénédicte Ritt 1,2,*, Daniel Desbruyères 
+1, Jean-Claude Caprais 1, Olivier Olivier Gauthier 3, Livio Ruffine 1, Roselyne Buscail 4, Karine Olu-Le Roy 1, Jozée Sarrazin 1]]></description>
+			<Point>
+				<coordinates>24.683333,33.725,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Nigerian Slope (approximated)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cold_seeps_of_the_Atlantic_Ocean.png/800px-Cold_seeps_of_the_Atlantic_Ocean.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/File:Cold_seeps_of_the_Atlantic_Ocean.png)
+ 
+Wikipedia Commons / Karine Olu, Erik E. Cordes, Charles R. Fisher, James M. Brooks, Myriam Sibuet & Daniel Desbruyères]]></description>
+			<Point>
+				<coordinates>5.141602,3.984821,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Omakere Ridge, Hikurangi Margin, New Zealand - Cold Seep</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Cold Seep Epifaunal Communities on the Hikurangi Margin, New Zealand: Composition, Succession, and Vulnerability to Human Activities (http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0076869) by David A. Bowden 
+
+Copyright: © 2013 Bowden et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.]]></description>
+			<Point>
+				<coordinates>177.835693,-39.595107,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Hikurangi Margin, New Zealand - Cold Seep</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0076869.g001&amp;representation=PNG_L</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Copyright: © 2013 Bowden et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.]]></description>
+			<Point>
+				<coordinates>178.121338,-40.555548,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Opouawe Bank, Hikurangi Margin, New Zealand - Cold Seep</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Cold Seep Epifaunal Communities on the Hikurangi Margin, New Zealand: Composition, Succession, and Vulnerability to Human Activities (http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0076869) by David A. Bowden 
+
+Copyright: © 2013 Bowden et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.]]></description>
+			<Point>
+				<coordinates>175.473633,-41.75902000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Peru Margin</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Source: Olu et al., 1996a]]></description>
+			<Point>
+				<coordinates>-81.5,-5.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Ritchie Ridge </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Cold Seep Epifaunal Communities on the Hikurangi Margin, New Zealand: Composition, Succession, and Vulnerability to Human Activities (http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0076869) by David A. Bowden 
+
+Copyright: © 2013 Bowden et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.]]></description>
+			<Point>
+				<coordinates>178.467407,-39.383141,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Rock Garden, Hikurangi Margin, New Zealand - Cold Seep</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Cold Seep Epifaunal Communities on the Hikurangi Margin, New Zealand: Composition, Succession, and Vulnerability to Human Activities (http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0076869) by David A. Bowden 
+
+Copyright: © 2013 Bowden et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.]]></description>
+			<Point>
+				<coordinates>178.231201,-40.044438,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Sagami Bay, including off Hatsushima site</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Source: 
+Hart, 1982; Horikoshi & Ishii, 1985; Ohta
+1990b; Fujikura et al., 1995, 1996]]></description>
+			<Point>
+				<coordinates>139.233333,35.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Uruti Ridge, Hikurangi Margin, New Zealand - Cold Seep</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Cold Seep Epifaunal Communities on the Hikurangi Margin, New Zealand: Composition, Succession, and Vulnerability to Human Activities (http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0076869) by David A. Bowden 
+
+Copyright: © 2013 Bowden et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.]]></description>
+			<Point>
+				<coordinates>176.643677,-41.273678,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>West Florida Escarpment - Cold Seep</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Alvinocarididae)
+
+Alvinocaris muricola Williams, 1988 – Cold Seeps, Gulf of Guinea possibly Blake Ridge cold seep and Barbados Accrectionary Prism; Type locality: Gulf of Mexico, west Florida escarpment, from cold brine seep, 26°01′N 84°54.61′W, at a depth of 3,277 m (10,751 ft).[2]]]></description>
+			<Point>
+				<coordinates>-84.910167,26.016667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-93D7E8</styleUrl>
+			<name>Woolsey Mound Cold Seep</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Woolsey Mound Cold Seep: An Oasis in the Deep Sea (http://mmri.olemiss.edu/Home/projects/docs/2011-03-30-004.aspx)
+
+Michela Ingrassia, Marco D’Emidio, Leonardo Macelloni and Carol Lutken Center for Marine Resources and Environmental Technology]]></description>
+			<Point>
+				<coordinates>-88.486633,28.873539000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>ABE</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[InterRidge Vents Database 2.2 (http://www.interridge.org/irvents/content/abe)]]></description>
+			<Point>
+				<coordinates>176.19100000000003,-20.7619,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Aden</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[InterRidge Vents Database 2.2 (http://www.interridge.org/irvents/content/aden)
+ 
+Discovery References (text): 
+
+[Choukroune et al. (1986) Tectonics of the westernmost Gulf of Aden and the Gulf of Tadjoura from submersible observations. Nature 319: 396-399, doi:10.1038/319396a0
+ 
+Choukroune et al. (1988) Tectonics of an incipient oceanic rift. Marine Geophysical Researches 9: 147-163, DOI 10.1007/BF00369246.]
+ 
+Other References (text): 
+
+[(might have different lat/lon) Cann et al., A hydrothermal deposit from the floor of the Gulf of Aden. Mineralogical Magazine, 41, 193-199, 1977]
+Juniper et al. (1990) Regional-scale features of Northeast Pacific, East Pacific Rise, and Gulf of Aden vent communities. In: McMurray, ed., Gorda Ridge: a seafloor spreading center in the United States Exclusive Economic Zone. Springer, NY: 265-278.]]></description>
+			<Point>
+				<coordinates>43.6667,11.95,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Adventure Caldera</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[InterRidge Vents Database 2.2 (http://www.interridge.org/irvents/node/6295)
+ 
+Discovery References (text): 
+
+Cruise blog http://www.thesearethevoyages.net/jc55/feb11.html]]></description>
+			<Point>
+				<coordinates>-27.87571,-59.721,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>AHA Field</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[InterRidge Vents Database 2.2 (http://www.interridge.org/irvents/content/aha-field)
+ 
+Discovery References (text): 
+
+Shank et al., Biology of Newly-Discovered "AHA" Hydrothermal Vent Fields Near 1 44'N on the East Pacific Rise Axis, EOS Trans. AGU, 81 (48), Fall Meet. Suppl., Abstract T51D-15, 2000.]]></description>
+			<Point>
+				<coordinates>-102.283,1.7333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Animal Farm</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[InterRidge Vents Database 2.2 (http://www.interridge.org/irvents/content/animal-farm)
+Discovery References (text): 
+ 
+JM Auzende et al. (1996) Recent tectonic, magmatic, and hydrothermal activity on the East Pacific Rise between 17°S and 19°S: Submersible observations. J Geophys Res 101(B8): 17995-18010.
+
+Other References (text): 
+
+(plume only) Baker, E., and T. Urabe (1996) Extensive distribution of hydrothermal plumes along the superfast spreading East Pacific Rise, 13°30′-18°40′S, J. Geophys. Res., 101(B4), 8685-8695                                                                                   
+Jollivet, D. et al. (2004) The BIOSPEEDO cruise: a new survey of hydrothermal vents along the South East Pacific Rise from 7 24'S to 21 33'S. InterRidge News 13: 20-26.]]></description>
+			<Point>
+				<coordinates>-113.4,18.608,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-A61B4A</styleUrl>
+			<name>Ashadze</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[InterRidge Vents Database 2.2 (http://www.interridge.org/irvents/content/ashadze)
+ 
+Discovery References (text): 
+
+Beltenev, V., et al., New discoveries at 12°58'N, 44°52'W, MAR: Professor Logatchev-22 cruise, initial results, InterRidge News 12, 13-14, 2003
+Fouquet et al. (2008) Serpentine cruise - ultramafic hosted hydrothermal deposits on the Mid-Atlantic Ridge: First submersible studies on Ashadze 1 and 2, Logatchev 2 and Krasnov vent fields. InterRidge News 17: 15-19.
+ 
+Other References (text): 
+
+(plume only) Klinkhammer et al. (1985) Hydrothermal manganese plumes in the Mid-Atlantic Ridge rift valley. Nature 314: 727-731
+Beltenev, V et al (2005) New hydrothermal sites at 13 N, Mid Atlantic Ridge. InterRidge News 14: 14-16                                                                                               
+Fouquet, Y et al. (2007) Diversity of Ultramafic Hosted Hydrothermal Deposits on the Mid Atlantic Ridge: First Submersible Studies on Ashadze, Logatchev 2 and Krasnov Vent Fields During the Serpentine Cruise. American Geophysical Union, Fall Meeting 2007, abstract #T51F-03
+Cherkashov et al. (2008) New important discoveries of hydrothermal deposits at the Mid-Atlantic Ridge (geological setting, composition and resources). IGC Oslo abstracts, session MRD-03 Recent developments on marine mineral deposits
+Fabri et al. abstract 4th CBE Symposium (2009) Hydrothermal vent community of the new deep-sea field Ashadze-1, 12 58'N (MAR) and a comparison with all known northern Atlantic deep-sea hydrothermal communities.]]></description>
+			<Point>
+				<coordinates>-44.8633,12.9733,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Aurora</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[InterRidge Vents Database 2.2 (http://www.interridge.org/irvents/content/aurora)
+ 
+Discovery References (text): 
+
+Michael et al (2001) The Arctic Mid-Ocean Ridge Expedition -AMORE 2001- Seafloor Spreading at the Top of the World. AGU Fall Meeting 2001, Abstract T11B-0853                                                           
+Edmonds, H.N. et al. (2003) Discovery of abundant hydrothermal venting on the ultraslow-spreading Gakkel ridge in the Arctic Ocean. Nature 421: 252-256.
+ 
+Other References (text): 
+
+Michael et al. (2001) Results of the Arctic Mid-Ocean Ridge Expedition - AMORE 2001- Seafloor Spreading at the Top of the World. InterRidge News 10(2): 57-60                                                                       
+Michael, P.J. et al. (2003) Magmatic and amagmatic seafloor generation at the ultraslow-spreading Gakkel ridge, Arctic Ocean. Nature 423: 956-961                                                                                   
+Baker et al., 2004, Geochem. Geophys. Geosyst, 5, Q08002, Hydrothermal venting in magma deserts: The ultraslow-spreading Gakkel and Southwest Indian Ridges, doi:10.1029/2004GC000712.]]></description>
+			<Point>
+				<coordinates>-6.25,82.8833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Baily's Beads</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[InterRidge Vents Database 2.2 (http://www.interridge.org/irvents/node/6297)
+ 
+Discovery References (text): 
+
+Tao, C., et al. (2010) Two hydrothermal active vents were found at 13.2°S and 14°S of South Mid-Atlantic Ridge. AGU Fall Meeting abstract #OS33F-07.                                                                                
+Tao, C.H., Li, H.M., Yang Y.M., et al. (2011) Two southernmost hydrothermal fields found on the South Mid-Atlantic Ridge. Science China Earth Sciences, in press.]]></description>
+			<Point>
+				<coordinates>-14.41,-13.28,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Barbados Accretionary Prism</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Source:
+Macpherson, 1988, 1994a; Chevaldonné &
+Olu, 1996]]></description>
+			<Point>
+				<coordinates>-58.00000000000001,14.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Barbados Trench</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+                                                                                  Cited Source:
+ Olu et al., 1997]]></description>
+			<Point>
+				<coordinates>-57.74999999999999,13.85,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Bering Sea, Piip Volcano</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+                                                                                  Cited Source:
+ Sagalevich et al., 1992]]></description>
+			<Point>
+				<coordinates>167.266667,55.416667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Broken Spur - Hydrothermal Vent</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Sources:
+ Martin & Christiansen, 1995; Chevaldonné & Olu, 1996; Shank, 1997, in Desbruyères & Segonzac, 1997]]></description>
+			<Point>
+				<coordinates>-43.166667000000004,29.166667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Campeche Knolls</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Source:
+ MacDonald et al., 2004]]></description>
+			<Point>
+				<coordinates>-93.433333,21.9,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Comfortless Cove Hydrothermal Field</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://knowledgeweb.tk (http://knowledgeweb.tk/Abyssal_plain#Hydrothermal_vents)]]></description>
+			<Point>
+				<coordinates>-12.367,-4.8,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>EPR 11°52′N</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+                                                                                  Cited Source:
+Williams & Baba, 1989]]></description>
+			<Point>
+				<coordinates>-104.283333,11.866667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>EPR 13N</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Sources:
+de Saint Laurent, 1984; Guinot, 1988;
+Williams & Baba, 1989; Guinot & Segonzac, 1997; M. Segonzac, pers. comm.; Shank et al., 1999; Komai & Segonzac, 2005b]]></description>
+			<Point>
+				<coordinates>-103.933333,12.8,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>EPR 21N</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Sources:
+Williams & Van Dover, 1983 Grassle, 1986;
+Williams, 1988; Khodkina, 1991]]></description>
+			<Point>
+				<coordinates>-109.1,20.816667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>EPR 17S</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Sources:
+Guinot & Segonzac, 1997; Martin & Shank, 2005; Shank & Martin, unpubl. data;
+Komai & Segonzac, 2005b]]></description>
+			<Point>
+				<coordinates>-113.225,-17.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>EPR 17S Shown in Google Earth 3D</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2F1.bp.blogspot.com%2F-DYV_rCRhBXE%2FU602KrOMP8I%2FAAAAAAAAHm4%2FfCzKcbmdi_o%2Fs1600%2FEPR%2B17S%2BHyrdothermal%2BVent%2Bin%2BGoogle%2BEarth.JPG&amp;container=blogger&amp;gadget=a&amp;rewriteMime=image%2F*</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google / MyReadingMapped]]></description>
+			<Point>
+				<coordinates>-112.999878,-17.518344,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>EPR 18S (coordinate error)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+I corrected the northern provided coordinate of 18°25–36′N, 113°23′W to reflect it's 18 degree south name and be consistent with the other EPR sites.
+ 
+Cited Source:
+Guinot & Segonzac, 1997; Guinot & Hurtado,
+2003]]></description>
+			<Point>
+				<coordinates>-113.383333,-18.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>EPR 31S</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Source:
+Guinot et al., 2002; Guinot & Hurtado, 2003;
+Komai & Segonzac, 2005b]]></description>
+			<Point>
+				<coordinates>-111.933333,-31.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Explorer Ridge (TBD)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Sources:
+Tunnicliffe, 1988; Williams, 1988]]></description>
+			<Point>
+				<coordinates>-130.266667,49.75,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Gakkel Ridge - Hyrdothermal Vent</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Source:
+Martin, 2003]]></description>
+			<Point>
+				<coordinates>-0.30761700000000003,84.066206,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Galapagos Rift</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Sources:
+Williams, 1980; Williams & Chace, 1982; de Saint Laurent, 1988; Guinot & Hurtado,
+2003]]></description>
+			<Point>
+				<coordinates>-86.183333,0.8,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Gorda Ridge</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Sources:
+J. Voight, pers. comm.]]></description>
+			<Point>
+				<coordinates>-127.00000000000001,42.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Gorda Ridge Hydrothermal Vent Shown in Google Earth 3D</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://2.bp.blogspot.com/-WZr6ARdK1f8/U7CZZV33xkI/AAAAAAAAHn4/AmT74O1Dq9U/s1600/Gorda+Ridge+Hydrothermal+Vent+in+Google+Earth.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google / MyReadingMapped]]></description>
+			<Point>
+				<coordinates>-127.55127000000002,42.244785,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Guaymas Basin</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Sources:
+Unavailable.]]></description>
+			<Point>
+				<coordinates>-111.416667,27.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Hook Ridge</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[InterRidge Vents Database 2.2 (http://www.interridge.org/irvents/content/hook-ridge)]]></description>
+			<Point>
+				<coordinates>-57.27450000000001,-62.194,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Japan and Mariannas shallow volcanic arc region</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Source:
+Takeda & Kurata, 1977; Türkay & Sakai,
+1995]]></description>
+			<Point>
+				<coordinates>140.876667,27.243333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Juan de Fuca Ridge (Endeavor and Axial) (TBD)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Sources:
+Tunnicliffe et al., 1985; Tunnicliffe & Jensen, 1987; Williams, 1988; Martin & Pettit,
+1998; J. Voight, pers. comm.]]></description>
+			<Point>
+				<coordinates>-129.1067076,47.9392774,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Kick’em Jenny Volcano,</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Source:
+Martin et al., 2005; Wishner et al., 2005]]></description>
+			<Point>
+				<coordinates>-61.599999999999994,12.3,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Lau Basin, Valu-Fa Ridge, Vaï-Lili site</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+
+Cited Sources:
+Guinot, 1990; Baba & Türkay, 1992; Baba & de Saint Laurent, 1992; Desbruyères et al.,1994; de Saint Laurent & Macpherson,1997; Tunnicliffe et al., 1998; Shank & Martin, 2003; Komai & Segonzac, 2004]]></description>
+			<Point>
+				<coordinates>176.633333,-22.216667000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Logatchev (14–45) - Hydrothermal Vent</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney
+
+Cited Sources:
+Komai & Segonzac, 2003]]></description>
+			<Point>
+				<coordinates>-44.966667,14.750000000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Logatcheve Hydrothermal Vent Show in Google Earth 3D</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://2.bp.blogspot.com/-QYnqid_bAfU/U6_9b80B_RI/AAAAAAAAHnc/CyQnxLXpRmk/s1600/Logatchev+hydrothermal+vent+in+Google+Earth.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google / MyReadingMapped]]></description>
+			<Point>
+				<coordinates>-44.384766,14.817371,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Loihi Seamount</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Source:
+Williams & Dobbs, 1995]]></description>
+			<Point>
+				<coordinates>-155.266667,18.916667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Lohi Seamount Shown in Google Earth 3D</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://2.bp.blogspot.com/-dmXQ1kSmBGA/U6y4PO26UMI/AAAAAAAAHmg/BHbveC5n_6w/s1600/Lohi+Seamount+in+Google+Earth.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google / MyReadingMapped]]></description>
+			<Point>
+				<coordinates>-155.3686519,19.0517332,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Researchers Embark On Mission To Explore The Loihi Seamount, Hawaii's Newest 'Island'</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Huffington Post
+Researchers Embark On Mission To Explore The Loihi Seamount, Hawaii's Newest 'Island' (http://www.huffingtonpost.com/2014/06/28/loihi-hawaii-mission_n_5535439.html?utm_hp_ref=green)
+ 
+Glazer described Loihi as a “giant leaky iron mountain,” which continuously pumps iron out into the ocean. The growth of microscopic organisms that form the base of marine food webs is limited by iron availability, so the growing island's iron production has the potential to benefit the overall balance within the Pacific Ocean.
+ 
+This mission will also provide “clues about the potential for life 'out there,' in habitats that could exist on places like Mars or Europa,” Glazer said in a statement.]]></description>
+			<Point>
+				<coordinates>-154.379883,19.134789,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Loki's Castle </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[interridge.org/irvents/content/lokis-castle (http://www.interridge.org/irvents/content/lokis-castle)
+ 
+Discovery References (text): 
+
+Rolf Pedersen press release 12 July 2008 (http://www.interridge.org/node/5581).
+Pedersen, R., et al. (2009) Discovery of the Loki’s Castle vent field at the ultra-slow spreading Arctic mid-ocean ridge. Goldschmidt Conference abstract.
+
+Other References (text): 
+
+Baumberger, T. et al. (2008) Carbon and Sulphur Geochemistry of Rift Valley Sediments and Hydrothermal Fluids at the Ultra-Slow Spreading Southern Knipovich Ridge. Eos Trans. AGU, 89(53), Fall Meet. Suppl., Abstract T42B-08
+Pedersen et al. (2009, in press) Hydrothermal activity at the Arctic Mid-Ocean Ridge. AGU Monograph.                                                                                  
+Eickmann, B., et al. (2010) Barite chimneys from two hydrothermal sites along the slow-spreading Arctic Ridge system: Initial isotope and mineralogical results. AGU Fall Meeting Abstract #OS21A-1482.]]></description>
+			<Point>
+				<coordinates>8.15,73.55,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Lost City (hydrothermal field)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/4/4d/Lost_City_%28hydrothermal_field%2902.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lost_City_(hydrothermal_field))
+
+Lost City is a field of hydrothermal vents in the mid-Atlantic ocean that differ significantly from the black smoker vents found in the late 1970s. The vents were discovered in December 2000 during a National Science Foundation expedition to the mid-Atlantic. A second expedition mounted in 2003 used DSV Alvin to explore the vents. The details of the chemistry and biology of the Lost City hydrothermal field were published in March 2005.
+
+
+Wikipedia Commons / Public Domain / National Science Foundation (University of Washington/Woods Hole Oceanographic Institution)]]></description>
+			<Point>
+				<coordinates>-42.116667,30.116667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Lucky Strike - Hydrothermal Vent</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Sources:
+
+Williams, 1988; Guinot, 1990; Martin &
+Christiansen, 1995; Chevaldonné & Olu,
+1996; Biscoito, 1997, in Desbruyères &
+Segonzac, 1997; Shank, 1997, in
+Desbruyères & Segonzac, 1997; Martin
+et al., 1998b; Komai & Segonzac, 2003                                              
+Wikipedia (http://en.wikipedia.org/wiki/Alvinocarididae#Chorocaris)
+
+Mirocaris fortunata Martin & Christiansen, 1995 – North Atlantic Ocean, mid-Atlantic ridge, Logatchev, TAG, Broken Spur, Rainbow, Snake Pit, Lucky Strike and Menez Gwen hydrothermal fields; Type locality: North Atlantic Ocean, mid-Atlantic ridge, Azores, Lucky Strike hydrothermal field, 37°17′N 32°16′W, at a depth of 1,624 m (5,328 ft). M. fortunata has the broadest range of any alvinocaridid shrimp. It is dominant on chimney walls or chimney bases in the southern hydrothermal vent sites (Broken Spur, Rainbow, Lucky Strike, Menez Gwen).[2]]]></description>
+			<Point>
+				<coordinates>-32.266667,37.283333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Manus Back-Arc Basin, DESMOS</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Sources:
+Hashimoto & Ohta, 1999]]></description>
+			<Point>
+				<coordinates>151.866667,-3.683333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Manus Back-Arc Basin, PACMANUS</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Sources:
+Guinot, 1990; Hashimoto & Ohta, 1999]]></description>
+			<Point>
+				<coordinates>151.833333,-3.9,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Mariana Back-Arc</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Sources:
+Hessler & Martin, 1989; Williams & Baba,
+1989; Martin & Hessler, 1990; Tsuchida &
+Hashimoto, 2002]]></description>
+			<Point>
+				<coordinates>144.716667,18.183333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Menez Gwen - Hyrdothermal Vent</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Sources:
+Williams, 1988; Guinot, 1990; Biscoito, 1997, in Desbruyères & Segonzac, 1997; Komai & Segonzac, 2003; Shank & Martin, 2003]]></description>
+			<Point>
+				<coordinates>-31.516667,37.833333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Meyibó hydrothermal vent site</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[wattsupwiththat.com
+
+In 2003, Clague and his colleague Robert Vrijenhoek spent two dives unsuccessfully searching for vents within just a few kilometers of the newly discovered site. At that time, Clague and Vrijenhoek chose their dive sites based on only low-resolution maps of the seafloor and the presence of abnormally warm water in the area.]]></description>
+			<Point>
+				<coordinates>-109.184875,24.345845,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>EPR 9N</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Source:
+Guinot & Segonzac, 1997; Shank et al., 1999]]></description>
+			<Point>
+				<coordinates>-104.283333,9.833333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name> Mt. Jourdanne, Southwest Indian Ridge</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Sea-floor hydrothermal mineralization from the Mt. Jourdanne, Southwest Indian Ridge (http://www.godac.jamstec.go.jp/catalog/data/doc_catalog/media/shinkai16-02_12.pdf)
+
+
+Ute MÜNCH＊１ Peter HALBACH＊１ Hiromi FUJIMOTO＊２
+shipboard scientific party81 ; INDOYO diving cruise (MODEﾕ98 leg 3)＊３]]></description>
+			<Point>
+				<coordinates>63.933333000000005,-27.85,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>New Zealand, Kermadec Ridge</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Source:
+Clark & O’Shea, 2001; Webber, 2004; R.
+Webber, pers. comm.]]></description>
+			<Point>
+				<coordinates>179.373779,-34.479392,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-A61B4A</styleUrl>
+			<name>New Zealand, Whale Island (Coordinate error)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+According to Table 2, Whale Island is located at 37.52°S, 177.18°E, yet Google Map labels that location as White Island. According to Wikipedia, Whale Island also called Moutohora Island, is located at 37° 51'S, 176°59'E just 25 miles to the south-southwest of White Island. So either the name is incorrect or the coordinate is incorrect.                                                                                                                                                                   (http://en.wikipedia.org/wiki/Whale_Island,_New_Zealand), 
+ 
+However the book, The Vent and Seep Biotsa: Aspects from Mircobes to Ecosystems, indicated that both Whale Island and White Island are similar to other shallow vent sites in the Bay of Plenty, so I assume they simply mixed up the names and coordinates.                                                             
+Location Cited Source:
+Webber, 2004; R. Webber, pers. comm.]]></description>
+			<Point>
+				<coordinates>177.18000000000004,-37.52,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>North Fuji Basin</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Sources:
+Guinot, 1990; Baba & de Saint Laurent, 1992; Desbruyères et al., 1994; Baba, 1995; de Saint Laurent & Macpherson, 1997; Shank et al., 1999; Komai & Segonzac, 2004]]></description>
+			<Point>
+				<coordinates>173.883333,-17.083333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Okinawa Trough, Hatoma Knoll</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Source:
+Tsuchida et al., 2000; Watabe & Miyake, 2000]]></description>
+			<Point>
+				<coordinates>123.83333300000001,24.850000000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Okinawa Trough, Minami-Ensei Knoll</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Source:
+                                                                                  Ohta, 1990a; Takeda & Hashimoto, 1990;
+Fujikura et al., 1995, 1996; Kikuchi &
+Hashimoto, 2000; T. Komai, pers. comm.,
+Komai & Segonzac, 2005a]]></description>
+			<Point>
+				<coordinates>127.633333,28.383333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Papau New Guinea, Edison Seamount</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Sources:
+Baba & Williams, 1998; Shank & Martin,
+2003]]></description>
+			<Point>
+				<coordinates>152.566667,-3.316667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Papua New Guinea, Rabaul Caldera</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Source:
+Tarasov et al., 1999]]></description>
+			<Point>
+				<coordinates>152.2,-4.233333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>PAR: Foundation Seamount Chain</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Source:
+Stecher et al., 2002]]></description>
+			<Point>
+				<coordinates>-110.5,-37.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Pacific Antarctic Ridge 67°S, 150° W</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Mantle helium reveals Southern Ocean hydrothermal venting  (http://www.ldeo.columbia.edu/~winckler/Publications_files/manuscript_winckler_Dec11_09_complete.pdf)
+ 
+Gisela Winckler 1,2,* , Robert Newton 1 , Peter Schlosser 1,2,3 and Timothy J Crone 1]]></description>
+			<Point>
+				<coordinates>-150.0,-67.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Philippine Sea Plate, Kaikata Seamount</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Source:
+Takeda et al., 2000; Tsuchida & Hashimoto,
+2002]]></description>
+			<Point>
+				<coordinates>141.076667,26.71,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Philippine Sea Plate, Myojin Knoll</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Source:
+Takeda et al., 2000]]></description>
+			<Point>
+				<coordinates>139.867333,32.103167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Philippine Sea Plate, Nikko Seamount</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Source:
+Takeda et al., 2000]]></description>
+			<Point>
+				<coordinates>142.331667,23.078333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Philippine Sea Plate, Suiyo Seamount</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Source:
+Takeda et al., 2000]]></description>
+			<Point>
+				<coordinates>140.641667,28.575,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Piccard site - Hydrothermal Vent</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Hydrothermal_vent#Exploration)
+ 
+The Ashadze hydrothermal field (13°N on the Mid-Atlantic Ridge, elevation -4200 m) was the deepest known high-temperature hydrothermal field until 2010, when the Piccard site (18°33′N 81°43′W, elevation -5000 m) was discovered by a group of scientists from NASA Jet Propulsion Laboratory and Woods Hole Oceanographic Institute. This site is located on the 110 km long, ultraslow spreading Mid-Cayman Rise within the Cayman Trough.[23] On February 21st the deepest known hydrothermal vents were discovered in the Caribbean at a depth of almost 5,000 metres (16,000 ft).[24]]]></description>
+			<Point>
+				<coordinates>-82.089844,18.479609,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Rainbow - Hydrothermal Vent</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Sources:
+Shank, 1997, in Desbruyères & Segonzac,
+1997; Komai & Segonzac, 2003]]></description>
+			<Point>
+				<coordinates>-33.9,36.216667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Red Lion Hydrothermal Field</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://knowledgeweb.tk (http://knowledgeweb.tk/Abyssal_plain#Hydrothermal_vents)]]></description>
+			<Point>
+				<coordinates>-12.383,-4.8,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Red Sea Rift, 18 N</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[InterRidge Vents Database 2.2 (http://www.interridge.org/irvents/content/red-sea-rift-18-n)]]></description>
+			<Point>
+				<coordinates>40.0667,17.9667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Rodriguez Triple Junction, Edmond and Kairei Fields</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Source:
+Van Dover et al., 2001; Tsuchida &
+Hashimoto, 2002; Watabe & Hashimoto,
+2002; Komai et al., in press]]></description>
+			<Point>
+				<coordinates>70.03333300000001,-25.316667000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Snake Pit (MARK) - Hydrothermal Vent</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+
+
+Cited Sources:
+
+
+
+Guinot, 1989; Segonzac, 1992; Segonzac et al.,1993; Martin et al., 1997; Shank, 1997, in Desbruyères & Segonzac, 1997; Komai & Segonzac, 2003; Segonzac & Macpherson, 2003]]></description>
+			<Point>
+				<coordinates>-44.95,23.366667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Squid Forest</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[InterRidge Vents Database 2.2 (http://www.interridge.org/irvents/content/squid-forest)
+ 
+Discovery References (text): 
+
+Pedersen et al. (1999) ROV exploration of the Kolbeinsey Ridge: Preliminary results of the SUBMAR-99 cruise. InterRidge News 8(2): 32-34.
+ 
+Other References (text): 
+
+Pedersen et al. (2009, in press) Hydrothermal activity at the Arctic Mid-Ocean Ridge. AGU Monograph.]]></description>
+			<Point>
+				<coordinates>-17.5,68.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>TAG - Hydrothermal Vent</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Sources:
+Williams & Rona, 1986; Chevaldonné & Olu, 1996; Vereshchaka, 1996a, 1997b
+ 
+Wikipedia (http://en.wikipedia.org/wiki/Alvinocarididae#Rimicaris)
+
+Rimicaris exoculata Williams & Rona, 1986 – North Atlantic Ocean, mid-Atlantic ridge, Snake Pit, TAG, Broken Spur, Lucky Strike, Logatchev and Rainbow hydrothermal vent fields, at depths of 1,700–3,650 m (5,580–11,980 ft); Type locality: North Atlantic Ocean, mid-Atlantic ridge, TAG vent field, 26°08.3′N 44°49.6′W, at depths of 3,620–3,650 m (11,880–11,980 ft). R. exoculata is the most extensively studied species to date, and occurs in active swarms that may be as dense as 2500 individuals per square metre. It occurs on chimney walls in the temperature range 15–30 °C (59–86 °F).[2][4]]]></description>
+			<Point>
+				<coordinates>-44.833333,26.15,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Taiwan, off I-Lan County (incl. Tashi Fishing Grounds)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Source:
+Ng et al., 2000; Lemaitre, 2004
+ 
+Location of Tashi Fishing Grounds determine by the article "The World's Largest Lucinid is an Undescribed Species from Taiwan (Mollusca: Bivalvia)" (http://zoolstud.sinica.edu.tw/Journals/43.4/704.pdf)
+ 
+The Tashi fishing ground on the northeastern coast of Taiwan near Kueishan Island (Turtle Mountain .I) is a busy fishing area, where numerous commercial trawlers based in the Tashi catch shrimp and fish at depths down to about 600m.]]></description>
+			<Point>
+				<coordinates>121.988754,24.809174,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Oregon Subduction Zone (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA["Decapod crustaceans from hydrothermal vents and cold seeps: a review through 2005" by Joel W. Martin and Todd A. Haney 
+ 
+Cited Source:
+Carey, 1987; Chevaldonné & Olu, 1996
+Kulm et al. (1986) for location and map of the Oregon Subduction Zone.]]></description>
+			<Point>
+				<coordinates>-125.26611300000002,45.759859,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Hydrothermal Vent at Adventure Caldera shown in Google Earth 3D.</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://2.bp.blogspot.com/-5GT4zJFcmzE/U7fszcdjjHI/AAAAAAAAHoM/ZVJLiDCZoA0/s1600/Hydrothermal+vent+at+Adventure+Caldera+in+Google+Earth.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google / MyReadingMapped]]></description>
+			<Point>
+				<coordinates>-27.46582,-59.701014,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>View this map in Google Earth.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Non-networked Google Earth KML file. (https://docs.google.com/file/d/0B52hHMRyBvEsVUxFTmVDVUJJRjA/edit)]]></description>
+			<Point>
+				<coordinates>6.6796875,-28.6134594,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Godzilla</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Source : Google Earth]]></description>
+			<Point>
+				<coordinates>-129.0866089,47.9685484,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Mariner Vent Field</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Source: Google Earth ]]></description>
+			<Point>
+				<coordinates>-176.5969849,-22.1467078,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Tui Malila Vent Field</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Source: Google Earth]]></description>
+			<Point>
+				<coordinates>-176.5633392,-21.9857116,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>TowCam Vent Field</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Source: Google Earth]]></description>
+			<Point>
+				<coordinates>-176.1355591,-20.3034175,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-DB4436</styleUrl>
+			<name>Kilo Moana</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Source: Google Earth]]></description>
+			<Point>
+				<coordinates>-176.1314392,-20.0417405,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1183</styleUrl>
+			<name>West Mata Submarine Volcano Erupts</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://youtube.com/watch?v=x5j4nAVZAJw</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-173.6801147,-15.0999687,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1183'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1183-crisis-volcano.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1199'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1199-fac-help.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1391'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1391-rec-spa.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-7CCFA9'>
+			<IconStyle>
+				<color>ffA9CF7C</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-93D7E8'>
+			<IconStyle>
+				<color>ffE8D793</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-A61B4A'>
+			<IconStyle>
+				<color>ff4A1BA6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-993'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/993-biz-camera.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

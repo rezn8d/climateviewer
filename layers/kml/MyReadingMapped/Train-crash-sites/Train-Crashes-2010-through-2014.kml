@@ -1,0 +1,2529 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>Walk this map in Google Earth 3D</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[You can digitally walk this map in 3D using this Non-Networked Google Earth KML file. (https://docs.google.com/file/d/0B52hHMRyBvEsZGE4SHNheWlkMms/edit)]]></description>
+			<Point>
+				<coordinates>-38.320312,27.371767,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Sources this map is based on.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[This map is based on the following:
+
+- Wikipedia's List of Rail Accidents 2010 to present (http://en.wikipedia.org/wiki/List_of_rail_accidents_(2010%E2%80%93present)#2013)
+- Various media articles
+- Various government rail accident reports
+- Photo searches that providde details on the location]]></description>
+			<Point>
+				<coordinates>-37.96875,40.446947,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1037</styleUrl>
+			<name>Other train crash maps</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- 1830-1930 (http://myreadingmapped.blogspot.com/2012/01/the-great-train-wrecks-of-1830-to-1930.html)
+
+- 1930-1949 (http://myreadingmapped.blogspot.com/2012/10/great-train-crashes-1930-1949.html)]]></description>
+			<Point>
+				<coordinates>-39.375,16.299051,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps on History</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>-38.320312,4.214943,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Panki railway station - 1/2/10 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[articles.economictimes.indiatimes.com (https://maps.google.com/2010-01-02/news/27570977_1_three-train-accidents-prayagraj-express-dense-fog)
+
+Among those killed when the Bhiwani-Gorakhpur Gorakhdham Express hit the stationary Prayagraj Express at Panki railway station in Kanpur district were seven men and three women, GM, North Central Railway, Allahabad Zone, Harishchandra Joshi said.
+ 
+The accident took place when the two trains coming from Delhi were on the same track, he said. Though fog appeared to be the reason behind the mishap, an inquiry has been ordered to go into the exact reason behind the accident.]]></description>
+			<Point>
+				<coordinates>80.237682,26.459778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Sarayu Express at Pratapgarh - 1/2/10 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[articles.economictimes.indiatimes.com (https://maps.google.com/2010-01-02/news/27570977_1_three-train-accidents-prayagraj-express-dense-fog)
+ 
+In Pratapgarh, 61 kms from Allahabad, the Sarayu Express rammed into a tractor trolley at an unmanned railway crossing. While there were no reports of any casualty, the engine of the train was damaged in the accident.]]></description>
+			<Point>
+				<coordinates>82.001266,25.912659,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Delhi-Sitamarhi Licchavi Express rams the Magadh Express - 1/2/10 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[articles.economictimes.indiatimes.com (https://maps.google.com/2010-01-02/news/27570977_1_three-train-accidents-prayagraj-express-dense-fog)
+ 
+In another accident, the Bihar-bound Delhi-Sitamarhi Licchavi Express rammed into the stationary Magadh Express at Sarai Bhopat near Etawah at around 8:00 am, railway officials said.
+
+The driver of the Licchavi Express was seriously injured as the engine of the train ploughed into the Magadh Express in foggy conditions.
+
+While the brake van of the Prayagraj Express derailed, the engine of the Gorakhdham Express was damaged.]]></description>
+			<Point>
+				<coordinates>78.95521,26.831376,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Two passenger trains collide at Bilecik - 1/3/10 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[nydailynews.com (http://www.nydailynews.com/news/world/trains-crash-bilecik-turkey-killing-1-injuring-7-article-1.457351)
+ 
+A passenger train crashed head-on into another train in northwestern Turkey on Sunday, killing one of the engine drivers and injuring at least seven other people, an official said.
+
+The governor of Bilecik, some 250 miles (400 kilometers) south of Istanbul said the accident was caused by an electrical fault that led to a signal failure. The train went through a signal where it should have halted and slammed into another train that was stopped on the line.]]></description>
+			<Point>
+				<coordinates>30.006409,40.150603,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Passenger Train Crashes Into Hotel - 1/4/10 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com (http://www.huffingtonpost.com/2010/01/04/helsinki-train-crash-pass_n_410237.html)
+
+Finnish transport officials say a near-empty passenger train has crashed into a hotel by Helsinki's main railway station, causing damage but no injuries.]]></description>
+			<Point>
+				<coordinates>24.939989,60.17280100000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Carrbridge station derailment - 1/4/10 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[railwaysarchive.co.uk (http://www.railwaysarchive.co.uk/docsummary.php?docID=4152)
+ 
+"On 4 January 2010, in freezing temperatures and snowy conditions, the front portion of a freight train which was travelling from Inverness towards Perth on the Highland Main Line, derailed at Carrbridge station. The derailed portion of the train came to rest on an embankment, close to some houses. The driver and technician onboard the train suffered minor injuries. Damage was caused to private property, to the derailed train and to the infrastructure of the railway."]]></description>
+			<Point>
+				<coordinates>-3.828097,57.279466,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name> Kalindi Express rams the Shram Shakti Express - 1/16/10 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[On January 16 2010, three persons were killed along with 14 injured when Kalindi Express rammed into Kanpur Central-bound Shram Shakti Express near Tundla Junction due to dense fog in the morning. [3]]]></description>
+			<Point>
+				<coordinates>78.240337,27.205175,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Lucknow–Sultanpur Harihar Nath Express hits car - 1/17/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[sites.google.com/site/saswatiagt/acc (https://sites.google.com/site/saswatiagt/acc)
+
+17 January 2010 – Two persons were killed and four others injured when their car was hit by a train at an unmanned crossing on Sunday afternoon in Barabanki district. The accident happened when the Lucknow–Sultanpur Harihar Nath Express hit the car at Barha railway crossing under Haidergarh police station area.]]></description>
+			<Point>
+				<coordinates>81.367385,26.618975,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Goods train derailed -1/22/10 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[sites.google.com/site/saswatiagt/acc (https://sites.google.com/site/saswatiagt/acc)
+
+22 January 2010 – A goods train derailed near Azamgarh in Uttar Pradesh on Friday, disrupting rail traffic in the region, officials said. No one was injured. The accident took place at Sathiyaon station near Azamgarh, some 300 km from here, when three bogeys of the goods train derailed, an official said. Traffic was disrupted on the busy Varanasi-Azamgarh-Gorakhpur route.]]></description>
+			<Point>
+				<coordinates>83.176589,26.038449000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1467</styleUrl>
+			<name>Farragut North station derailment 2/12/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+
+On February 12, 2010, a Red Line train derailed at 10:13 am as it left the Farragut North station in downtown Washington. After leaving the station, the train entered a pocket track. As it continued, an automatic derailer at the end of the pocket track intentionally derailed the train as a safety measure. The front wheels of the first car in the six-car, White Flint-bound train were forced off the tracks, stopping the train.]]></description>
+			<Point>
+				<coordinates>-77.039502,38.903297,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Buizingen head-on collision - 2/15/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[nytimes.com (http://www.nytimes.com/2010/02/16/world/europe/16belgium.html?_r=0)
+ 
+A head-on collision between trains outside Brussels during the morning rush on Monday killed at least 18 people and injured 80, a police spokesman said, in Belgium’s deadliest railroad accident in more than 25 years.
+
+The cause of the accident, which occurred around 8:30 a.m. in snowy conditions in the village of Buizingen, near Halle, about 10 miles southwest of Brussels, remained unclear.]]></description>
+			<Point>
+				<coordinates>4.248512,50.741765,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name> Via Rail derailment - 2/25/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_rail_accidents_(2010%E2%80%93present)#2010)
+
+25 February 2010 — Canada — A Via Rail train 15 travelling from Halifax to Montreal derailed near Saint-Charles-de-Bellechasse outside Quebec City, injuring four people and causing significant damage to nearby homes.[19]]]></description>
+			<Point>
+				<coordinates>-70.950952,46.769248000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Houston Metro Bus and light rail collision - 3/15/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[abclocal.go.com (http://abclocal.go.com/ktrk/story?section=news/local&id=7331548)
+
+It happened at the intersection of Main and St. Joseph Parkway. The METRO bus was heading west and light rail train heading north. They collided, pushing the rail car off its tracks and shattering the windshield on the bus and injuring more than a dozen passengers on both, including the bus driver.]]></description>
+			<Point>
+				<coordinates>-95.370313,29.75027,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Alnabru shunting yard to Sydhavna accident - 3/24/10 </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[aibn.no/railway/reports (http://www.aibn.no/railway/reports/2011-03-eng)
+
+On Wednesday, 24 March 2010, a freight car set consisting of empty container freight cars rolled uncontrolledly from Alnabru shunting yard, down to Loenga and into the sea at Sydhavna in the Port of Oslo.]]></description>
+			<Point>
+				<coordinates>10.834579000000002,59.9287,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Pickering Go Station pile up - 3/30/10 </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[toronto.ctvnews.ca (http://toronto.ctvnews.ca/train-derailment-affected-lakeshore-east-commute-1.497394)
+
+Up to nine cars left the tracks, along with three non-operative locomotives, were involved in the derailment. Aerial images showed some tanker cars involved. One lumber car spilled its load. It came within a few metres of parked cars in the GO station lot.]]></description>
+			<Point>
+				<coordinates>-79.086472,43.830448,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Spišská Nová Ves station collision - 4/1/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Spi%C5%A1sk%C3%A1_Nov%C3%A1_Ves_railway_station#History)
+
+On 1 April 2010, a locomotive ran into a stationary passenger train at the station after its brakes failed during a test ride, killing three people and seriously injuring eight others.[2]]]></description>
+			<Point>
+				<coordinates>20.560902,48.950401,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Castebello landslide derailment - 4/12/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Fire Earth (http://feww.wordpress.com/2010-disasters/2010-disaster-calendar-april/)
+
+Merano, Northern Italy. A landslide derailed a train in Castebello, north Italy, killing at least 12 people and injuring 25 more.]]></description>
+			<Point>
+				<coordinates>10.914187000000002,46.625274,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Pretoria runaway train accident - 3/21/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/2010_Pretoria_train_accident)
+
+On 21 April 2010, a luxury tourist train operated by Rovos Rail was at Centurion Station where the electric locomotive was being changed for a Class 25NC 4-8-4 steam locomotive. During the changeover, the carriages ran away out of control for 12 miles (19 km) until they derailed at Pretoria.[1] The accident occurred outside the Blue Train depot.seriously injured.]]></description>
+			<Point>
+				<coordinates>28.193085,-25.764494,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Craigieburn Collision - 5/4/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[transport.vic.gov.au (http://www.transport.vic.gov.au/__data/assets/pdf_file/0013/31054/Train-to-Train-Collision-Craigieburn-4-May-2010.pdf)
+
+At about 20:35 on 4 May 2010, a Flinders Street to Craigieburn Metro Trains Melbourne suburban train, travelling on the Down broad gauge line, ran into the rear wagon of a stationary Pacific National freight train midway between Roxburgh Park and  Craigieburn stations. At the time, the freight train was stopped at a signal waiting for the departure of an Up suburban train occupying the Down line platform at Craigieburn.]]></description>
+			<Point>
+				<coordinates>144.939634,-37.618013,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Semi-trailer collides with Amtrak train - 5/4/10 </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[greensboro.legalexaminer.com (http://greensboro.legalexaminer.com/mass-transit-airline-cruise-ship-train-bus/morning-train-wreck-in-mebane-north-carolina-seriously-injures-two-passengers/)
+ 
+Two passengers on Amtrak No. 73 headed from Raleigh to Charlotte, North Carolina were seriously injured when a semi-trailer carting a backhoe collided with the train this morning, May 13, 2010. The crash occurred in downtown Mebane, a small Alamance County town, shortly before 8:00 a.m.
+
+The locomotive and three coach cars derailed and the engine and one of the cars erupted in flames.]]></description>
+			<Point>
+				<coordinates>-79.266962,36.095972,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Fuzhou landslide derailment - 5/23/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[chinatravelguide.com (http://www.chinatravelguide.com/ctgwiki/10_killed_as_passenger_train_derails_in_E_China)
+
+The train, bound for the tourist city of Guilin in south China's Guangxi Zhuang Autonomous Region from Shanghai, derailed at around 2:10 a.m. in Dongxiang county, Fuzhou city in Jiangxi, after being hit by landslides, the Ministry of Railways said in a press release early Sunday. At least ten passengers were injured, it said.]]></description>
+			<Point>
+				<coordinates>116.25214200000002,28.058471,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Naugachia derailment  - 5/25/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[news.oneindia.in (http://news.oneindia.in/2010/07/19/major-train-accidents-in-india.html)
+
+May 25, 2010: A passenger train derails at Naugachia, injuring eleven people.]]></description>
+			<Point>
+				<coordinates>87.11428600000002,25.384356,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Falls of Cruachan derailment - 6/6/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[raib.gov.uk (http://www.raib.gov.uk/cms_resources.cfm?file=/110714_R112011_Falls_of_Cruachan.pdf)
+
+At 20:55 hrs on Sunday 6 June 2010 train 1Y27, the 18:20 hrs from Glasgow Queen Street to Oban, struck a boulder that had fallen onto the track just west of the station at Falls of Cruachan, in the Pass of Brander, on the line from Crianlarich to Oban. The boulder had fallen onto the track from its position on the slope within the railway boundary because of root jacking and soil erosion.
+ 
+The evidence from the site of the accident was that the train, consisting of a 2-car class 156 diesel multiple unit, drove over the boulder, which lifted up the front car and derailed it to the left and down an embankment (figure 1). The leading bogie of the rear car ended up supported by the boulder with the rear bogie still on the track (figure 2).]]></description>
+			<Point>
+				<coordinates>-5.117826,56.39513,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Vasco-Howrah Amaravati Express derailment - 6/18/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[thehindu.com (http://www.thehindu.com/news/national/karnataka/six-injured-as-train-hits-road-roller/article472571.ece)
+ 
+Eight coaches and two engines of the Vasco-Howrah Amaravati Express (8048) derailed near Koppal on Friday after the train hit a road roller at an unmanned level-crossing.
+
+Of the train's 23 coaches, four passenger coaches (two general and two AC coaches) and four parcel vans derailed.]]></description>
+			<Point>
+				<coordinates>76.154737,15.354632,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Friends of the Rail derailment - 6/20/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[nicospilt.com (http://www.nicospilt.com/pdf/Repair%20of%203117%20appeal%20v003.pdf)
+
+On Sunday, 20th June 2010, a Father’s Day Special Train operated by Friends of the Rail (FOTR) had an unfortunate accident near Cullinan. 
+ 
+A large number of wooden sleepers were missing, apparently stolen, from under the railway line. Being on a sharp curve and spotted just at the last second, we were unable to stop in time and the inevitable result was the derailment pictured here. Luckily, none of the 600-odd passengers, including many young children, on board suffered any major injury. 
+ 
+Not so lucky was the beautiful old steam locomotive, Class 15F number 3117. She will almost certainly require extensive and expensive repairs and a complete re-certification before she can run again.]]></description>
+			<Point>
+				<coordinates>28.521602,-25.68806,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Ústí nad Labem derailment - 6/28/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/%C3%9Ast%C3%AD_nad_Labem_derailment)
+
+The Ústí nad Labem derailment occurred on 28 June 2010 when a CityElefant train derailed at Ústí nad Labem,]]></description>
+			<Point>
+				<coordinates>14.044167000000002,50.643056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Korzybie rail accident - 7/13/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[gp24.pl (http://www.gp24.pl/apps/pbcs.dll/article?AID=/20100713/powiatslupski/151071538)
+
+Railway accident in Korzybiu. 36 people were injured.]]></description>
+			<Point>
+				<coordinates>16.872811,54.303103,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Sainthia train collision - 7/19/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Sainthia_train_collision)
+
+The collision occurred 191 km from Howrah at 02:00 am (IST) when the Uttar Banga Express, travelling from New Cooch Behar to Sealdah, hit the Bhagalpur–Ranchi Vananchal Express which was just leaving Sainthia railway station. The impact destroyed the three rear compartments of the Vananchal Express.]]></description>
+			<Point>
+				<coordinates>87.681203,23.949748,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Fiesch derailment - 7/23/10 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Fiesch_derailment)
+
+The Fiesch derailment occurred on Friday, July 23, 2010, at 11:50 CET[1] when a Glacier Express train, from Zermatt heading towards St. Moritz, derailed at low speed between the cities of Lax and Fiesch, Canton Valais, Switzerland.
+Two rear panorama cars were overturned while a third car derailed but remained on the track.[2]]]></description>
+			<Point>
+				<coordinates>8.127780000000001,46.395785,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Stavoren station crash - 7/25/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+ (http://en.wikipedia.org/wiki/Stavoren_railway_station#Accident)                                                                         
+On 25 July 2010 a maintenance train collided with a buffer stop at the station. The train rammed a small shop, passed through it and stopped at the square behind it. Only two people were injured, out of four people on the train. The accident happened late at night, when passenger services had already finished.[1] Aerial photographs of the accident show several wagons dispersed across the platform, indicating the collision took place at high speed.[2]]]></description>
+			<Point>
+				<coordinates>5.359005,52.886567,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Circumvesuviana derailment - 8/6/10 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Circumvesuviana_derailment)
+
+At 11:10, after leaving the Centro Direzionale station, the train left the rails and hit a wall at the rail-side. The three permanently joined passenger-cars overturned, and the engine hit an electricity pole. The first car was crushed under the second one.]]></description>
+			<Point>
+				<coordinates>14.286497,40.853705,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Kiryat Gat minibus/train collision - 8/6/10 </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ynetnews.com (http://www.ynetnews.com/articles/0,7340,L-3931032,00.html)
+
+Seven people were killed Thursday evening when a train crashed into a minibus near Kibbutz Gat, which is located north of Kiryat Gat.
+
+The train's front cabin that was involved in the crash was overturned, and the minibus it hit was completely crushed.]]></description>
+			<Point>
+				<coordinates>34.77778,31.629624,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Little Cornard derailment - 8/17/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Little_Cornard_derailment)
+
+At 17:37 BST (16:37 UTC),[1] Class 156 Super Sprinter diesel multiple unit 156 417 was involved in a collision with a lorry on a level crossing on the railway between Sudbury and Bures stations.[2] The lorry was proceeding from the sewage works towards the B1508 road.[3] The train was operating the 17:31 service from Sudbury to Marks Tey.[4] At the time of the accident, the train was travelling at between 50 and 60 miles per hour (80 and 100 km/h).[5] The train derailed as a result of the collision, which also overturned the lorry.[4] Although the driver managed to warn passengers of an imminent collision,[6] 23 people were injured.[2]]]></description>
+			<Point>
+				<coordinates>0.7457610000000001,52.015146,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Lambrecht collision - 8/17/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com (http://www.huffingtonpost.com/2010/08/17/intercityexpress-train-in_n_684895.html#s127646title=Germany_Train_Collision)
+
+The InterCityExpress high-speed train carrying 320 passengers ran into the truck near Lambrecht, about 90 miles (140 kilometers) southwest of Frankfurt, after the truck slid down a wet slope and partially blocked the tracks, police said.]]></description>
+			<Point>
+				<coordinates>8.067881,49.373805,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Rudauli Railway Station accident - 8/7/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[sites.google.com/site/saswatiagt/acc (https://sites.google.com/site/saswatiagt/acc)
+
+17 August 2010 – Four people got killed in a train accident which occurred on Faizabad-Lucknow rail-section at Goryamau railway station of Barabanki district located between Rudauli and Rozagaon towns.]]></description>
+			<Point>
+				<coordinates>81.754407,26.762309,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Blackheath train accident - 8/25/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Blackheath_train_accident)
+
+The Blackheath train accident occurred at 7:03 a.m. on 25 August 2010 when a Metrorail commuter train crashed into a minibus taxi on the Buttskop Road level crossing in Blackheath, a suburb of Cape Town, South Africa.[1] The minibus was carrying fourteen children to school; nine died on the scene and five were hospitalized.[2] One of the injured children died two days later in the Red Cross War Memorial Children's Hospital.[3] The minibus driver was also hospitalized;[2] there were no injuries aboard the train.[4]]]></description>
+			<Point>
+				<coordinates>18.705876,-33.970156,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Fontana train collision - 9/10/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://abclocal.go.com (http://abclocal.go.com/kabc/story?id=7660218)
+
+Authorities said a freight train heading westbound crashed into the back-end of a train traveling eastbound near Cherry Avenue and the 10 Freeway at about midnight, causing a derailment. One locomotive ended up on top of some rail cars.]]></description>
+			<Point>
+				<coordinates>-117.49447700000002,34.09369,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Kimstad Backhoe/train collision - 9/12/10 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[diva-portal.org, slide 4 of 20 (http://www.diva-portal.org/smash/get/diva2:389160/FULLTEXT01.pdf)
+
+Expressen. Publicerat i print 2010-09-13.
+
+X 2000 train pulled up at high speed after a stop, then bang. It collided with a Backhoe, engineering works going on only at night.
+
+An excavator who stood on the track next door had slipped down and the smaller bucket on the excavator's back had penetrated into the bow of the locomotive.]]></description>
+			<Point>
+				<coordinates>15.968971000000002,58.536879,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Badarwas train collision - 9/20/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/2010_Badarwas_train_collision)
+
+The 2010 Badarwas train collision occurred on 20 September 2010, at Badarwas, Madhya Pradesh, India, when two trains collided with each other. Twenty three people reported died as a result of the accident, and 30 people were reported injured.[2]]]></description>
+			<Point>
+				<coordinates>77.561148,24.972793,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Kasganj Railway Station derailment - 9/24/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[indiatraveltimes.com (http://www.indiatraveltimes.com/trvl/main_foc_next_detail.php?mid=11921)
+
+Lucknow:  A least 12 people were injured when the engine and a bogie of the Kasganj-Lucknow Rohilkhand Express derailed near Kasganj railway station early Friday. The train derailed at 5:30 am while passing through a culvert near Kasganj in Kanshi Ram Nagar district. The derailed engine fell off the tracks into a deep pool of floodwater.]]></description>
+			<Point>
+				<coordinates>78.633581,27.789153,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Bir El Bey Station collision - 9/24/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[BBC News (http://www.bbc.co.uk/news/world-africa-11410021)
+
+Officials said a local commuter train derailed after crashing into a intercity train that had stopped at Bir El Bay station.
+
+A violent rain storm meant there was a "total lack" of visibility at the time, Tunisian state media said.]]></description>
+			<Point>
+				<coordinates>10.378261,36.710444,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Manawatu Gorge landslide rail accident - 9/25/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[nzherald.co.nz
+
+Rail services through the Manawatu Gorge have been suspended after a freight train carrying milk hit a landslide early today.
+
+The train, which was heading for Taranaki, hit a slip on the eastern side of the Manawatu Gorge about 5am, police central communications spokesman Inspector Marty Parker said.]]></description>
+			<Point>
+				<coordinates>175.818433,-40.335170000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Plimmerton train collision - 9/30/10 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The Dominion Post (http://www.stuff.co.nz/dominion-post/news/porirua/7146970/Crashworthiness-of-old-trains-needs-improving)
+
+Trains driven by father and son, Bill and Robert Isted, collidedwhen torrential rainfall caused a slip to cover northbound tracks, derailing one and sending it into the path of the southbound train between Plimmerton and Pukerua Bay on September 30, 2010.]]></description>
+			<Point>
+				<coordinates>174.874406,-41.063563,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Two Harbors CN 2-train collision - 9/30/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ntsb.gov (http://www.ntsb.gov/doclib/reports/2013/RAR1301.pdf)
+
+On September 30, 2010, about 4:05 p.m. central daylight time, Canadian National Railway (CN) freight train U78982-30 (southbound train), consisting of three locomotives and 116 railcars loaded with iron ore, collided head on with CN freight train U78983-30 (northbound train), consisting of three locomotives and 118 empty iron ore railcars. Prior to the collision, the southbound train was traveling about 15 mph and the northbound train was traveling about 39 mph. Three locomotives and 14 railcars derailed.]]></description>
+			<Point>
+				<coordinates>-91.705488,47.197382,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Skotterud derailment - 10/1/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+
+The Skotterud derailment occurred on 1 October 2010, at Skotterud, Norway, when an InterCity train from Oslo (Norway) to Stockholm (Sweden) derailed due to a cracked wheel. Forty people were reported injured.[3]]]></description>
+			<Point>
+				<coordinates>12.117662,59.98466,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Petarukan train collision - 10/2/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Petarukan_train_collision)
+
+At 3:00am local time on 2 October 2010,[1] an Argo Bromo Anggrek executive train travelling from Jakarta toSurabaya ran into the rear of a Senja Utama Semarang business train at Petarukan,[3] a city on the north coast of central Java.[4] The Argo Bromo executive train had 336 passengers on board, while the Senja Utama Semarang business train was bound for Semarang and carrying 663 passengers. The location of the crash was 100 metres (110 yd) from Petarukan station.[3] Three carriages derailed and overturned,[1] 36 people were reported to have been killed and 50 injured,[5] with the death toll expected to rise.[1] The train bound for Semarang had stopped at Pemalang to allow the Surabaya train to pass it.[6]]]></description>
+			<Point>
+				<coordinates>109.45079000000001,-6.897936,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Marhanets train accident - 10/12/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+ (http://en.wikipedia.org/wiki/Marhanets_train_accident)
+
+The Marhanets train accident occurred on 12 October 2010, at Marhanets, Dnipropetrovsk Oblast,Ukraine when a train collided with a passenger bus on a railroad level crossing. 43 people were reported dead and nine injured.[4] The bus driver, whose actions allegedly caused the collision, was killed in the accident as well.[4] The collision was the worst single road accident in Ukraine's history by number of victims.[5]]]></description>
+			<Point>
+				<coordinates>34.583939,47.651614,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Oxshott truck falling on train accident - 11/5/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Oxshott_railway_station#Incidents)
+
+On 5 November 2010, at approximately 3:30pm, a cement mixer lorry fell off a bridge crossing over the railway line close to Oxshott railway station, and landed on carriages of a passing train.[1] No people were killed. Witnesses stated that the rear of the lorry crashed through the parapet of the bridge and dragged the whole vehicle over the side of the bridge.[2] The eight-carriage train, operated by South West Trains, was working the 1505 Guildford to London Waterloo.[1] The train was formed of two Class 455 electric multiple units. The lorry, loaded with concrete and weighing 24 tonnes, landed on the sixth carriage, severely crushing the end of the roof.[3] Further damage was sustained to the fifth and sixth, seventh and eighth carriages, with the latter being derailed at its trailing bogie, although the train remained upright.[3] British Transport Police reported that six people on board the train sustained minor injuries whilst the driver of the lorry had sustained more serious injuries.[1] This was later revised to two serious and five minor injuries.[3]]]></description>
+			<Point>
+				<coordinates>-0.361015,51.337322,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Aegviidu station accident - 12/23/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Rail Safety News, Autumn 2013, Issue 9 [DOC]
+
+On Thursday, 23rd December 2010 at 02.41 am there was a collision between an electric rolling stock with no passengers and a freight train near Aegviidu station. The four-carriage electric rolling stock set which had been stationed for the morning trip from Aegviidu station had started moving without the permission of the train traffic regulator. When moving onto the main track, it passed through points which had been set in order to let through a train coming from the opposite direction. The electric rolling stock was driving on the oncoming track with increasing speed and collided with the freight train at a speed of 93 km/h. The freight train crew followed all the rules and signals and had slowed down and planned to stop the train at the next signal. One fatality resulted from the collision.]]></description>
+			<Point>
+				<coordinates>25.610011,59.28633700000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1467</styleUrl>
+			<name>Summit Tunnel rail crash - 12/28/10</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[railwaysarchive.co.uk (http://www.railwaysarchive.co.uk/documents/RAIB_SummitTunnel2010.pdf)
+
+At about 01:23 hrs on 28 December 2010, a passenger train travelling through Summit tunnel (figure 1) derailed while travelling at 57 mph (92 km/h) when it struck a large amount of ice that had fallen onto the tracks underneath one of the tunnel’s ventilation shafts. All wheels of the front bogie of the train were derailed to the left in the direction of travel, causing the front driving cab of the train to 
+strike the tunnel wall.]]></description>
+			<Point>
+				<coordinates>-2.089706,53.679587,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>2011 Saxony-Anhalt train collision - 1/29/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/2011_Saxony-Anhalt_train_collision)
+
+The local passenger train with about 45 to 50 passengers on board was on a single track at a speed of approximately 100 km/h (62 mph), where it collided head-on in very foggy conditions with the freight train, which had a speed of about 80 km/h (50 mph).[1][4] Both trains had reduced their speeds prior to impact – while the freight train slowed only marginally to 68 km/h (42 mph) the emergency brake of the passenger train allowed it to slow down from 98 to 66 km/h (61 to 41 mph).[5] The impact derailed the passenger train, which fell on its side next to the track. The front part of the passenger train was crushed.[4] The freight train ran on for another 500 metres (1,600 ft) before coming to a halt.]]></description>
+			<Point>
+				<coordinates>11.191528,52.00057,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>San Miguel station train collision - 2/17/11 </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[safetynews.co.uk/ (http://www.safetynews.co.uk/February%202011.htm)
+
+Argentina's worst rail accident in 15 years occurred at San Miguel station, 12 miles west of Buenos Aires, where a Ferrobaires train from Retiro station ran into the rear of a stationary train on the San Martin track, 4 people died and at least 120 were injured, with 14 listed in critical condition]]></description>
+			<Point>
+				<coordinates>-58.712311,-34.544764,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Shinchi Station, tsunami destroys train - 3/11/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[jsnds.org (http://www.jsnds.org/contents/jnds/34_1_7.pdf)
+
+In particular, a train that was stopped at the station building a Shinchi Station of Fuskushima were destroyed.]]></description>
+			<Point>
+				<coordinates>140.926582,37.881298,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Tsugaruishi Station, tsunami strikes train -3/11/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[(http://www.jsnds.org/contents/jnds/34_1_7.pdf) (photos)
+
+According to the JR staff, at approximately 15:20, the train was washed along in the Toymane Station direction from the Tsugaruishi Station, and drifted, approximately 80 m along the railway line from where it had stopped. ]]></description>
+			<Point>
+				<coordinates>141.937405,39.580803,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Ofunato Station, tsunami strikes train - 3/11/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[www.jsnds.org (http://www.jsnds.org/contents/jnds/34_1_7.pdf) (photos)
+
+The train, which had come to an emergency stop, was approximately 240 m from the coast and was spared derailment and drift, but the train chassis was covered with water and the train was immobile. ]]></description>
+			<Point>
+				<coordinates>141.720779,39.057784,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Matsuiwa Station, tsunami strikes train - 3/11/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[jsnds.org (http://www.jsnds.org/contents/jnds/34_1_7.pdf) (photos)
+
+Although the passengers and the crew were safe, the train was derailed and drifted approximately 60 m in the direction of the tsunami. ]]></description>
+			<Point>
+				<coordinates>141.583976,38.872692,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Onagawa Station, tsunami strikes train - 3/11/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[jsnds.org (http://www.jsnds.org/contents/jnds/34_1_7.pdf) (photos)
+
+A train with a two-car formation was at rest and ready for departure in Onagawa Station yard when the earthquake occurred, but this train and the train used by some hot spring institutions were carried away by the tsunami. Among the trains in the two-car formation that drifted, one train drifted approximately 200 m and was completely destroyed, and the other train drifted 100 m more inland and stopped at a graveyard on a hill. ]]></description>
+			<Point>
+				<coordinates>141.444699,38.446451,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Nobiru Station 1, tsunami strikes train -3/11/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[jsnds.org (http://www.jsnds.org/contents/jnds/34_1_7.pdf) (photos)
+
+Immediately afterwards, the train was derailed by the tsunami, turned at right angle and stopped when it hit a house behind it.
+  ]]></description>
+			<Point>
+				<coordinates>141.157338,38.374452,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Nobiru Station 2, tsunami strikes train -3/11/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[jsnds.org/ (http://www.jsnds.org/contents/jnds/34_1_7.pdf) (photos)
+
+Another train (Photo. 7) for Ishinomaki that was stopped at this place went ahead approximately 1.5 km in the Ishinomaki direction from the train that was derailed. This train was stopped on a hill that was a little more than 10 m high. The crew decided to stay in the train with the passengers on the advice of local people, and they escaped the tsunami and were safe.
+  ]]></description>
+			<Point>
+				<coordinates>141.165449,38.377928,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Concord Bart Station derailment - 3/13/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia 
+ (http://en.wikipedia.org/wiki/2011_California_BART_train_derailment#Incidents_and_accidents)
+
+On Sunday, March 13, 2011 the eighth and ninth cars of a ten car train derailed after leaving the Concord station at slow speed.[27] Three minor back injuries were reported.[27] The train carried about 65 people at that time.[28] After the derailment, buses were employed to shuttle the passengers between the BART stations of Pleasant Hill and Pittsburg/Bay Point.[27]]]></description>
+			<Point>
+				<coordinates>-122.03040400000002,37.970768,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Port Hope, ON derailment - 3/27/11 </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[news.nationalpost.com (http://news.nationalpost.com/2011/03/27/police-order-evacuations-after-port-hope-train-derailment/)
+
+PORT HOPE, Ont. — Authorities evacuated about 20 homes within a 1.5 kilometre radius just east of Port Hope after the derailment of a CN train carrying jet fuel, interrupting inter-provincial rail service.]]></description>
+			<Point>
+				<coordinates>-78.249779,43.958966,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Newton Falls derailment - 3/28/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com (http://www.huffingtonpost.com/2011/03/28/train-derailment-newton-falls-ohio_n_841583.html)
+ 
+The CSX train carrying chlorine came off the tracks around 7 a.m. this morning in Newton Falls, Ohio, causing an evacuation radius of 500 feet, according to WYTV. No one was injured.
+
+While not all of the 101-car train derailed, some of those that did come off the tracks fell off a bridge onto the road below, according to ABC 9. While four of the cars were chlorine tankers, they were not involved in the derailment, and there seems to have been no spillage.]]></description>
+			<Point>
+				<coordinates>-80.97430200000001,41.19108,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Netanya Station collision - 4/7/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[vosizneias.com (http://www.vosizneias.com/80392/2011/04/07/tel-aviv-59-injured-in-2-train-collision-at-netanya-station/)
+
+Eyewitnesses said the double-decker trains hit each other near a point where the railway tracks come together a few hundred meters south of the station.]]></description>
+			<Point>
+				<coordinates>34.868776,32.316977,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Red Oak collision - 4/17/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ntsb.gov (http://www.ntsb.gov/investigations/summary/RAR1202.html)
+
+On April 17, 2011, about 6:55 a.m. central daylight time, eastbound BNSF Railway coal train C-BTMCNM0-26, BNSF 9159 East, travelling about 23 mph, collided with the rear end of standing BNSF Railway maintenance-of-way equipment train U-BRGCRI-15, BNSF 9470 East, near Red Oak, Iowa. The accident occurred near milepost 448.3 on main track number two on the Creston Subdivision of the BNSF Railway Nebraska Division. The collision resulted in the derailment of 2 locomotives and 12 cars. As a result of collision forces, the lead locomotive's modular crew cab was detached, partially crushed, and involved in a subsequent diesel fuel fire. Both crewmembers on the striking train were fatally injured.]]></description>
+			<Point>
+				<coordinates>-95.339023,41.011317,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Alishan Forest Railway derailment  - 4/27/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[wantchinatimes.com (http://www.wantchinatimes.com/news-subclass-cnt.aspx?id=20110427000137&cid=1103)
+
+At least five passengers were killed Wednesday (Apr. 27) noon when a train overturned on the scenic Alishan Forest Railway in Chiayi County, according to the southern Taiwan county's Fire Department.
+
+107 passengers aboard the train, including tourists from China, were injured, the department said.
+The accident took place at the alpine railway's 70-kilometer mark located between the Sacred Tree Station and Alishan Station. Witnesses said a tree had fallen over the railway line which caused four of the train's carriages to overturn.
+
+Some carriages were reported to fall under a three-meter high bridge. One of the carriages even rotated 180 degrees, causing passengers inside be piled up together.]]></description>
+			<Point>
+				<coordinates>120.80513300000001,23.511172,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Soweto rail collision  - 5/20/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[bbc.co.uk (http://www.bbc.co.uk/news/world-africa-13549944)
+
+A South African train driver has been fired for causing an accident which injured more than 850 people last week.
+
+The investigation showed that the man had been driving at 85 km/h (53 mph) in an area where the limit was 30km/h, reports say.
+
+Many passengers were flung out the window when the speeding train ploughed into a stationary one in Soweto on Thursday evening.]]></description>
+			<Point>
+				<coordinates>27.84604,-26.262371,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1467</styleUrl>
+			<name>No. 1 Niniu Tunnel derailment and fire - 5/27/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Super_%C5%8Czora#2011_derailment_and_fire)
+
+On 27 May 2011, the Super Ōzora 14 service from Kushiro to Sapporo was brought to an emergency stop inside the 685 metre-long No. 1 Niniu Tunnel in Shimukappu, Hokkaidō, at around 21:55 after car number 2 of the 6-car formation became derailed. The train caught fire, and all of the 245 people on board, including train staff eventually evacuated the train. 39 were treated for smoke inhalation and minor burn injuries.[3]]]></description>
+			<Point>
+				<coordinates>142.386761,42.978059,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1467</styleUrl>
+			<name>Union Station Amtrak collision - 6/3/11 </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[HuffingtonPost (http://www.huffingtonpost.com/2011/06/03/union-station-train-crash_n_871069.html)
+
+An Amtrak train bound for southern Illinois has collided with a Metra commuter train arriving at Chicago's Union Station, injuring nine people and severely damaging one Metra car.]]></description>
+			<Point>
+				<coordinates>-87.639141,41.878592,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1467</styleUrl>
+			<name>Hallingskeid Station train fire - 6/16/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/2011_Hallingskeid_Station_fire#2011_fire)
+
+A fire started in the snow tunnel at Hallingskeid on 16 June 2011. It was caused by sparks from welding, which had been completed at 07:45. A freight train passed through the station at 09:16 and the welders left the station at 09:30. The passenger trains which caught on fire, pass through the station at 10:06.[12] As the station is unmanned, there was no prior warning of the fire until the motorman saw it from the cab just as the train entered the tunnel. At nearly the same instance, he reached the point of the line were the fire had caused the power to cut. He immediately applied the emergency brake, which allowed the train to stop 5 to 10 meters (16 to 33 ft) from the fire. Because the train had no power, it was not possible to reverse out. The 257 passengers were then immediately evacuated, which took 15 to 20 minutes, and included two people in a wheelchair. Passengers were told to not bring any possessions with them, and many passengers lost valuables, such as laptop computers. All personnel acted according to regulations and no-one was injured in the accident. According to the motorman, had he not lost the power, he would have continued through the tunnel, as the fire was just beginning.[13]]]></description>
+			<Point>
+				<coordinates>7.250000000000001,60.666667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Rail collision 70 miles from Reno - 6/24/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[sacramento.cbslocal.com/ (http://sacramento.cbslocal.com/2011/06/24/amtrak-collides-with-semi-truck-killing-two-in-nevada/)
+
+The National Transportation Safety Board said a number injuries were reported after a semi tractor-trailer vehicle hauling gravel drove into the side of the westbound California Zephyr train at about 11:20 a.m. about 70 miles east of Reno.
+
+Cell phone video provided to CNN showed at least two of the train cars being engulfed in flames as passengers and crew scrambled to clear away from the scene. The driver of the big rig and several passengers on board the train were killed in the incident, according to the Nevada Highway Patrol.]]></description>
+			<Point>
+				<coordinates>-118.752583,39.895651,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Fatehpur derailment - 7/10/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Fatehpur_derailment)
+
+The accident occurred at 12:20, when the 15 coaches of Howrah-Kalka Mail derailed near Malwan.[3] The train had left Howrah and was heading towards New Delhi when the incident happened.[3] The number of passengers on board was not immediately known, though initial reports said that up to a thousand people were on the train at the time.[4]
+
+The train was travelling at the speed of 108 km/h on the Howrah - New Delhi Line when it derailed.[3]]]></description>
+			<Point>
+				<coordinates>80.79589200000001,25.919978000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Ghagrapar rail explosion - 7/10/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ibnlive.in.com (http://ibnlive.in.com/news/two-train-accidents-kill-35-injure-over-200/166460-3.html)
+
+Meanwhile, some coaches of the Guwahati-Puri Express got derailed at Nalbari district in western Assam Sunday, officials said, adding that casualties were feared. Nearly 50 people were injured in the incident.
+
+The accident occurred near Ghograpara at around 8:30 pm as the train was on its way to Puri. Police and railway teams were rushing to the spot.
+
+An IED blast on the railway track caused the derailment of the train.]]></description>
+			<Point>
+				<coordinates>91.524954,26.451056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>North Berwick Amtrack collision  - 7/11/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[boston.cbslocal.com (http://boston.cbslocal.com/2011/07/11/amtrak-downeaster-train-from-boston-collides-with-dump-truck-in-maine/)
+
+NORTH BERWICK, MAINE (CBS/AP) – An Amtrak Downeaster train carrying 112 people barreled into a dump truck in North Berwick, Maine just after 11 a.m. Monday, killing the driver of that truck.]]></description>
+			<Point>
+				<coordinates>-70.743102,43.29363,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Bakharpur rail collision  - 7/31/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[news.xinhuanet.com (http://news.xinhuanet.com/english2010/world/2011-08/01/c_131023182.htm)
+
+NEW DELHI, Aug. 1 (Xinhua) -- The death toll in the train collision Sunday evening in the eastern Indian state West Bengal has risen to three while 50 others were injured, said railway officials on Monday.
+
+The number of casualties is likely to rise as two coaches are said to have landed in a pond after the collision at Bakharpur, about 10 km from the state's Malda district.
+
+The mishap happened when the Azimganj-Malda passenger train hit the engine of the Guwahati-Bangalore Express which had derailed earlier between Malda and Jamirghata stations.]]></description>
+			<Point>
+				<coordinates>88.081727,24.924271,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Baby derailment - 8/12/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/2011_Baby_derailment)
+
+On Friday, 12 August 2011, a PKP Intercity TLK train from Warszawa Centralna to Katowice derailed at Baby [ˈbabɨ], near the town of Piotrków Trybunalski. The accident happened at 16:15 local time(14:15 UTC). Initially, four passengers were reported dead,[1] but search of the wreckage with the use of lifting equipment and rescue dogs established that only one 52-year-old man had died. A total of 81 passengers were injured,[2] including about 20 in serious condition.[3] The locomotive, PKP class EU07, number 1034,[4] and all four carriages derailed. The first carriage turned over. The train was full, carrying almost 280 passengers, as the accident happened on the Friday before the long weekend of the Assumption Day holiday.[5]]]></description>
+			<Point>
+				<coordinates>19.716457,51.53696,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Tangiriapal collision - 8/31/11 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[timesofindia.indiatimes.com (http://timesofindia.indiatimes.com/topic/mini-bus-collides)
+
+Five persons, all engine staff, died when two goods trains collided head on near Tangiriapal station, about 65 kms from Keonjhar on the Jakhapura-Banspani railway line in the early hours of Wednesday around 1.30 am.  
+
+
+Commission of Railway Safety Report (http://civilaviation.gov.in/CRSS/Preliminary%20Reports/Pre.%20Report%20South%20Eastern%20Circle/PR%203%20SEC%2031.08.2011.pdf)]]></description>
+			<Point>
+				<coordinates>85.925708,21.164578,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Arakkonam rail collision 9/13/11 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[articles.timesofindia.indiatimes.com (http://articles.timesofindia.indiatimes.com/2011-09-13/india/30149133_1_train-accident-passenger-train-bogies)
+
+At least 7 people have been reported killed and more than 70 injured when a passenger train from Chennai rammed into a stationary train near Sitheri railway station close to Arakkonam, about 75 km from here, late on Tuesday night, police said.
+
+According to TV reports three bogies have derailed and several passengers are still stuck inside the bogies.]]></description>
+			<Point>
+				<coordinates>79.668818,13.081652,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Flores rail crash - 9/13/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/2011_Flores_rail_crash)
+
+The 2011 Flores rail crash occurred at 06.23 ART on 13 September 2011 when a bus on a level crossing at Flores rail station, in the Flores barrio of Buenos Aires, Argentina, was hit by a train on the Sarmiento Line, heading for Moreno. The train, operated by Trenes de Buenos Aires, derailed and crashed into a second train, heading for Once in the Balvanera barrio, which was standing at the station. The accident, which occurred during the morning rush hour, resulted in 11 deaths and 228 injuries. The bus, owned by Empresa de Transportes Microomnibus Saenz Peña, was working a scheduled service on route 92, heading for Retiro. Video evidence revealed that the bus driver, who was killed in the accident, ignored warning lights and drove around a partly lowered crossing barrier.]]></description>
+			<Point>
+				<coordinates>-58.464915,-34.627514,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Flores rail crash 2 - 9/15/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[globalpost.com (http://www.globalpost.com/dispatches/globalpost-blogs/que-pasa/bus-crash-buenos-aires-argentina-90-wounded)
+
+A bus, a cement truck and a light-rail train collided during rush hour in Buenos Aires today, two days after a crash killed 11 people.
+
+90 people were in injured in the collision, which occurred around 9 a.m. in the Buenos Aires suburb of Flores, reports La Nacion.]]></description>
+			<Point>
+				<coordinates>-58.464763999999995,-34.627461,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Alawwa station rail collision - 9/17/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[asiancorrespondent.com (http://asiancorrespondent.com/65205/sri-lankan-train-accident-kills-1-injures-27/)
+
+COLOMBO, Sri Lanka (AP) — Police say a passenger train has rammed into the back of another train in Sri Lanka, killing one person and injuring 27 others.
+Police spokesman Maxi Proctor says the accident occurred Saturday evening near a railway station in Alawwa, about 35 miles (60 kilometers) northeast of Colombo.]]></description>
+			<Point>
+				<coordinates>80.238723,7.293368,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Olten station rail collision - 10/6/11 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[rts.ch (http://www.rts.ch/info/suisse/3486796-accident-de-train-a-olten-un-conducteur-blesse.html)
+
+A side collision occurred between two regional trains near the station Olten (SO) Thursday at 18:00. The locomotive and two cars one of the convoys were then derailed. The accident left two injured, including the driver seriously injured.]]></description>
+			<Point>
+				<coordinates>7.89902,47.347652,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Tiskilwa derailment and fire - 10/7/11 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ntsb.gov (http://www.ntsb.gov/investigations/fulltext/RAB1302.html)
+
+On October 7, 2011, at 2:14 a.m. central daylight time, 26 cars in eastbound Iowa Interstate Railroad (IAIS) train RI-BI-06 derailed in Tiskilwa, Illinois. Ten of the derailed cars contained ethanol, a hazardous material; ethanol released from the damaged tank cars ignited and burned. Property damage was estimated to be $1.6 million. The engineer and the conductor were not injured. No emergency responders were injured during the fire suppression and cleanup efforts.
+
+The National Transportation Safety Board determines that the probable cause of the accident was a broken rail. Contributing to the large quantity of hazardous materials released was inadequate puncture resistance of the tank heads and shells of the DOT-111A-100W1 general service tank cars and the failure of draft sill attachments.]]></description>
+			<Point>
+				<coordinates>-89.50510000000001,41.293028,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Jack London Square Station rail collision - 10/12/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[sanfrancisco.cbslocal.com (http://sanfrancisco.cbslocal.com/2011/10/12/2-amtrak-trains-collide-at-oaklands-jack-london-square-station/)
+
+OAKLAND (CBS 5 / KCBS) — Authorities said 16 people were injured when two Amtrak passenger trains collided at the Jack London Square station in Oakland on Wednesday night.
+
+According to officials, train 14 from Los Angeles was stopped at the station around 10 p.m., when it was struck by San Joaquin train 717 from Bakersfield. Train 14 was a Coast Starlight train bound for Seattle.]]></description>
+			<Point>
+				<coordinates>-122.271953,37.793482,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Kota Kinabalu rail collision - 10/31/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[themalaysianinsider.com
+
+KOTA KINABALU, Oct 31 — A Sabah Railways train and a road fuel tanker collided this evening, causing a huge explosion at Jalan Kepayan-Jalan Lintas junction near the Kota Kinabalu international airport here.
+
+According to Bernama Online, at least eight people — including both the train and tanker drivers — were injured in the incident that occured around 5.30pm.]]></description>
+			<Point>
+				<coordinates>116.053544,5.919311,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Anenii Noi rail collision - 11/1/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[kyivpost.com
+
+CHISINAU, Moldova (AP) — Police say a bus has collided with a train in Moldova, killing 8 people and leaving a dozen injured. Regional police spokesman Alexandru Cotet says the accident appears to have occurred when the bus driver ignored a red light at a train crossing and slammed into a locomotive that was passing by on the railway line.
+
+All the casualties were on the bus, and it was not immediately clear if its driver survived the crash.
+
+The accident occurred Tuesday in the town of Anenii Noi, 40 kilometers (25 miles) south of the city of Chisinau.]]></description>
+			<Point>
+				<coordinates>29.241443,46.890759,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Zanjitas rail collision - 11/2/11 (approximated) </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[news.xinhuanet.com (http://news.xinhuanet.com/english2010/world/2011-11/03/c_131226674.htm)
+
+BUENOS AIRES, Nov. 2 (Xinhua) -- At least 7 people, including 5 school girls, died on Wednesday after a freight train in Argentina collided with a public school bus carrying 42 girls on board in the central province of San Luis, local police confirmed.
+
+Pereyra said the crash happened at noon near the town of Zanjitas some 55 kilometers south of San Luis city, the provincial capital. The cause of the accident was still unclear, but police believe it was due to a technical failure of train brakes.]]></description>
+			<Point>
+				<coordinates>-66.413684,-33.80122500000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Giridih, Jharkhand</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[newindianexpress.com (http://newindianexpress.com/nation/Major-train-accidents-in-India/2013/08/19/article1742118.ece)
+
+November 22, 2011: Seven people were burnt to death when the Howrah-Dehradun express caught fire in Giridih in Jharkhand.]]></description>
+			<Point>
+				<coordinates>86.314242,24.181929,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Katherine derailment 12/27/11</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[atsb.gov.au (http://www.atsb.gov.au/media/4014109/ro2011019_final.pdf)
+
+At approximately 0542 (CST) on 27 December 2011, freight train 7AD1, owned and operated by Genesee & Wyoming Australia Pty Ltd (GWA), derailed at the Edith River rail bridge near Katherine in the Northern Territory. GWA was also the owner and operator of the rail track. 
+
+The train driver was unhurt as a result of the derailment, but the co-driver suffered back injuries and there was significant damage to the bridge and rolling stock. A number of wagons including the crew van, which was unoccupied at the time, derailed into the Edith River.]]></description>
+			<Point>
+				<coordinates>132.23256100000003,-14.49682,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Valparaiso 3-train collision  - 1/6/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cnn.com (http://www.cnn.com/2012/01/06/us/indiana-trains/)
+
+The three-train accident occurred about 1:15 p.m. Friday about 11 miles northeast of Valparaiso, said David James of the county's highway department.
+The first train, with two engines and 77 cars, was stopped on the westbound tracks, said Sgt. Larry LaFlower of the Porter County Sheriff's Department. CSX said it was investigating why the first train was stopped.
+
+A second train, with two engines and 60 cars, hit it from behind, LaFlower told CNN.
+
+The third train, with 48 cars, was moving on a parallel track. "It struck the wreckage and derailed itself," the sheriff's spokesman said. He did know which direction that train was moving in.]]></description>
+			<Point>
+				<coordinates>-86.969275,41.519712,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Bargum, train collides with herd of cattle - 1/13/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[spiegel.de (http://translate.google.com/translate?hl=en&sl=de&u=http://www.spiegel.de/panorama/kollision-mit-rinderherde-ein-toter-bei-zugunglueck-in-nordfriesland-a-809053.html&prev=/search%3Fq%3D1/13/12%2BBargum,%2BNordfriesland%2Btrain%2Baccident%26espv%3D210%26es_sm%3D122)
+
+Hamburg - The accident occurred around 17.45 clock: On the route from Westerland to Hamburg, a passenger of the Nord-Ostsee-Bahn (NOB) has collided with a herd of cattle and derailed. In the accident near Bargum (North Friesland), a 38-year-old passenger was killed. Two people were injured and had to be rushed to the hospital. 23 passengers were, according to the Federal Police rescued unharmed and supplied by the fire department.]]></description>
+			<Point>
+				<coordinates>8.94197,54.698217,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Bainville rail collision - 1/17/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[kxlh.com/news
+ (http://www.kxlh.com/news/train-derails-in-ne-montana/)
+
+A BNSF train derailed on Tuesday afternoon near Bainville on the Montana Hi-Line after crashing into a semi trailer.]]></description>
+			<Point>
+				<coordinates>-104.231973,48.147906,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Clot-Arago Station rail collision  - 1/19/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[thinkspain.com (http://www.thinkspain.com/news-spain/20655/train-crash-in-barcelona-leaves-25-injured)
+
+A train from the Rodalies Maçanet-L'Hospitalet ran into the back of an empty sleeper train (Talgo) in Barcelona's Clot station this evening, leaving 25 passengers injured, although none of them seriously.
+
+According to a statement from Renfe, the collision occurred at 18.30 hours as the train was leaving Clot Aragó station in the direction of Arc de Triomf.  As a result of the shunt, one of the sleeper train's carriages was derailed.]]></description>
+			<Point>
+				<coordinates>2.186859,41.409229,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Hay Lakes derailment - 1/20/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[camrosecanadian.com (http://www.camrosecanadian.com/2012/01/20/train-derails-near-hay-lakes)
+
+CN officials are looking into what caused a train derailment north of Hay Lakes Jan. 20.
+
+"At approximately 8 a.m. this morning, we have confirmed that 18 cars derailed on a northbound train, just north of the hamlet of Hay Lakes," said Warren Chandler, CN Regional Manager Public and Government Affairs.
+
+"Four of the cars were carrying plastic pellets, eight containers were containing loads of general merchandise and the remaining containers were empty."]]></description>
+			<Point>
+				<coordinates>-113.07000200000002,53.209271,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Fabyan Bridge derailment  - 1/21/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[tsb.gc.ca (http://www.tsb.gc.ca/eng/rapports-reports/rail/2012/r12e0008/r12e0008.asp)
+
+On 21 January 2012, at 1617 Mountain Standard Time, Canadian National Railway freight train M30141-20, proceeding westward from Wainwright, Alberta, to Edmonton, Alberta, derailed 31 cars at the east end of Fabyan Bridge (Mile 149.21) on the Wainwright Subdivision, near Fabyan, Alberta. The derailed cars were loaded with grain, and 17 of these cars fell off the north side of the bridge, damaging several steel tower legs and bracing members. Approximately 1760 feet of track was destroyed. There were no injuries.]]></description>
+			<Point>
+				<coordinates>-111.057358,52.876836000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Leoni Township rail collision - 2/1/12 </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[mlive.com (http://www.mlive.com/news/jackson/index.ssf/2012/05/chicago-bound_amtrak_derailmen.html)
+
+On Feb. 1, a Chicago-bound Amtrak train crashed into a semitrailer stuck on the tracks at the Portage Road crossing. The lowboy semitrailer was hung out on the humped crossing.
+
+The train's locomotive, a dining car and a passenger car derailed. The crash sent 10 people, including the semitrailer driver and the train's conductor, to the hospital with minor injuries. All were released later that day.]]></description>
+			<Point>
+				<coordinates>-84.269257,42.243515,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Sathisarapa rail collision - 2/3/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[thehindu.com (http://www.thehindu.com/news/national/three-killed-50-injured-as-train-derails-in-assam/article2856504.ece)
+
+Three persons were killed and 50 injured, several of them seriously, when the Guwahati-bound 55805 up Chilarai Passenger train collided with an earth excavator at an unmanned level-crossing between the Mirza and Azara stations in lower Assam's Kamrup district on Friday morning.
+
+The accident took place at 9.15 a.m. Nine coaches along with the engine jumped the rails in the impact, five bogies plunging into a low-level area near the track.]]></description>
+			<Point>
+				<coordinates>91.547184,26.069582,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Mataro rail collision - 2/9/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[elpais.com (http://elpais.com/elpais/2012/02/09/inenglish/1328809842_280910.html)
+
+Ten people were injured when a train, thought to be traveling at excessive speed, collided with a buffer at Mataró station in Barcelona on Thursday morning. The most seriously hurt was the driver of the Rodalies light rail network train, who spent 40 minutes trapped in the cabin until firemen managed to free him. He was later taken to Mataró hospital.]]></description>
+			<Point>
+				<coordinates>2.4414,41.530122,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Nykirke high-speed test train derailment - 2/15/12 </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[thelocal.no (http://www.thelocal.no/20120215/high-speed-test-train-derails-in-norway)
+
+Norwegian rail operator NSB has postponed the introduction of a new type of high-speed train after a crash on a test run left five people injured on Wednesday morning.
+
+The train was travelling at a speed of around 100 kilometres per hour when it came off the tracks near Nykirke station, local newspaper Tønsbergs Blad reports.
+
+NSB said there were five people on board the train when it derailed on a stretch of track between Nykirke and Holmstrand, south of Oslo. Having come off the rails, the train crashed into a telephone mast and a bank of rock.]]></description>
+			<Point>
+				<coordinates>10.385728,59.423557,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Buenos Aires rail disaster - 2/22/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/2012_Buenos_Aires_rail_disaster)
+
+There were about 1,000 passengers on board when the crowded eight-carriage train, whose working brakes were not activated, hit the buffers at the end of the line, crushing the motor carriage and the following two carriages, after approaching the station at a speed of 26 kilometres per hour (16 mph). Fifty-one people were killed and more than 700 were injured;[1] the dead and seriously injured were in the first two carriages,[3]which was packed with people who had moved to the front of the train to be near the station exit on arrival.]]></description>
+			<Point>
+				<coordinates>-58.408500000000004,-34.608639,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Burlington VIA derailment - 2/26/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/2012_Burlington_VIA_derailment)
+
+On February 26, 2012, Via Rail train 92, an eastbound passenger train travelling the Corridor route from Niagara Falls, Ontario to Toronto, derailed in an industrial area east of King Road, north of Enfield Road in the Aldershot neighborhood of Burlington, Ontario.[1][2]]]></description>
+			<Point>
+				<coordinates>-79.833934,43.325872,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Szczekociny rail crash - 3/3/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Szczekociny_rail_crash)
+
+At around 20:57 CET on 3 March 2012, two passenger trains (totalling approximately 350 passengers in 10 carriages[2][7]) collided at Chałupki near the Silesian Voivodship town of Szczekociny.[8] One train, the TLK 31100 Brzechwa operated by PKP Intercity, was travelling north from Przemyśl to Warsaw; the other was the InterRegio 13126 Matejko operated by Przewozy Regionalne, travelling south from Warsaw to Kraków at 95 kilometres per hour (59 mph).[1][2][9] At the time, scheduled engineering works were underway on the track at Szczekociny railway station.[2] A spokesman from Polish State Railways said that as a result of this, the Kraków-bound train was "on the wrong track". The InterRegio train was hauled by Class ET22 locomotive 1105,[2]and the Intercity by Class EP09 035.]]></description>
+			<Point>
+				<coordinates>19.856111,50.62250000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Offenbach rail collision - 4/13/12 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Berlin (CNN) (http://www.cnn.com/2012/04/13/world/europe/germany-train-crash)
+
+Three people died and 13 were injured when a German commuter train collided with a maintenance crane Friday morning, German police said.]]></description>
+			<Point>
+				<coordinates>8.746555,50.099909,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Sloterdijk train collision - 4/21/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Sloterdijk_train_collision)
+
+In the early evening a local train (an NS Sprinter Lighttrain) had just left Amsterdam Centraal and collided with a double-decker NS VIRM Intercity train travelling in opposite direction on the same track. Initial reports varied with potentially between 33 and 136 passengers injured, with up to 20 of them seriously although a member of the fire service later corrected this to 56. The actual figures were reported at 117 injuries (13 critical, 43 or 44 serious, less than 60 minor).[1][2][3][4][5] On 22 April, a 68-year-old woman died from her injuries.[6]]]></description>
+			<Point>
+				<coordinates>4.879003,52.387364,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1467</styleUrl>
+			<name>Lujerului underpass 4-tram collision - 5/10/12  (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[agerpres.ro (http://www.agerpres.ro/media/index.php/english-news/item/120835-Dozens-of-people-injured-in-tram-collision-in-Lujerului-underpass-in-Bucharest.html)
+
+Four trams of the route No. 41 collided early on Thursday in the Lujerului underpass in Bucharest at around 7.30 a.m., with two of them leaving the track. 
+
+'One of the trams got stuck on the track. The other three crashed into each other. Following the collision, two trams leaved the track. (...) We have been told that the ambulances of the Mobile Emergency, Resuscitation and Extrication Service arrived there and are taking the people who suffered injuries to hospital for treatment. At this moment, I can report a figure of 28 injured, two tram drivers and the rest of them passengers, but I cannot give an exact number. We do not know exactly the extent of injuries to the passengers,' spokeswoman of the Bucharest Public Transport Corporation (RATB) Brandusa Raeceanu told a private TV channel.]]></description>
+			<Point>
+				<coordinates>26.034636000000003,44.433129,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Penukonda rail collision - 5/22/12 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[articles.timesofindia.indiatimes.com/ (http://articles.timesofindia.indiatimes.com/2012-05-22/india/31813690_1_train-accident-goods-train-bogies)
+
+Several people have been injured in a train accident when Hampi Express collided with a goods train early on Tuesday morning. The accident happened in Penukonda inAndhra Pradesh.
+
+According to initial reports coming in, Hampi Express overshot signal and hit the goods train.]]></description>
+			<Point>
+				<coordinates>77.598807,14.101366,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Mahrawa derailment - 5/31/12 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[dnaindia.com (http://www.dnaindia.com/india/report-doon-express-derails-in-up-at-least-3-dead-1696172)
+
+Three coaches of the Doon Express 13009 derailed in Jaunpur, UP on Thursday at 1:13pm. The train was en route from Howrah to Dehradun.
+
+Five persons were on Thursday killed and 50 others injured when seven bogies--five sleeper and two general coaches--of Howrah-Dehradun Doon Express derailed near Mahrawa station in jaunpur, Uttar Pradesh.]]></description>
+			<Point>
+				<coordinates>82.693706,25.875809000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Goodwell rail collision - 6/24/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ntsb.gov (http://www.ntsb.gov/investigations/2012/goodwell_ok/goodwell_ok.html)
+
+On June 24, 2012, at about 10:00 a.m., an eastbound and a westbound UP freight train collided while operating on a straight track near Goodwell. As a result of the crash, three of the four crew members aboard the two trains were fatally injured. The fourth crewmember jumped from the locomotive prior to the collision and survived with no major injuries. Fuel tanks from the derailed locomotives were ruptured and created a diesel-fed fire. Damages were estimated at $14.79 million.]]></description>
+			<Point>
+				<coordinates>-101.625429,36.595081,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Glenview derailment - 7/4/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[glenview.suntimes.com (http://glenview.suntimes.com/news/trainreport-GLA-07252013:article)
+
+At 1:30 p.m. on July 4, 2012, a northbound Union Pacific Railroad train carrying coal to Wisconsin derailed at the Shermer Road overpass, causing it to collapse.
+
+The steel wreckage fell on Zorine and Bert Lindner below; they were passing under the tracks at that moment in their Lexus. The married couple lived a few blocks from the accident scene.]]></description>
+			<Point>
+				<coordinates>-87.829353,42.103397,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Columbus derailment - 7/11/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ntsb.gov (http://www.ntsb.gov/investigations/2012/columbus_oh/columbus_oh.html)
+
+The National Transportation Safety Board has sent a go-team to investigate an accident involving a freight train that derailed in Columbus, OH. There have been reports of injuries but no fatalities are reported at this time.]]></description>
+			<Point>
+				<coordinates>-82.99415600000002,39.992476,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Hectorspruit level crossing accident - 7/13/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Hectorspruit_level_crossing_accident)
+
+The Hectorspruit level crossing accident occurred at approximately 7 a.m. on 13 July 2012, when a Witbank to Maputo coal train collided with a truck on a controlled level crossing near Hectorspruit, Mpumalanga, South Africa.[1]]]></description>
+			<Point>
+				<coordinates>31.660833,-25.450833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Badrashin: passenger-caused derailment - 7/17/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[rt.com (http://rt.com/news/egypt-train-dead-security-409/)
+
+At least 15 people were injured when a passenger train derailed and caught fire near the Egyptian capital of Cairo. The incident was caused by passengers of another train putting logs and rocks on the rails.
+
+An Egyptian security official said on the condition of anonymity that enraged passengers whose train was delayed for more than half an hour placed logs and rocks on the rails of the track of the other train, which was holding theirs up. Three of the approaching train's cars overturned as a result.]]></description>
+			<Point>
+				<coordinates>31.27651,29.847903,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Mulberry rail collision - 7/21/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[zimbio.com (http://www.zimbio.com/Railroad+Worker+News/articles/-Pnr8_5Xcv7/Two+Railroad+Workers+Injured+After+Two+Trains)
+
+Two railroad workers were injured in a collision between a BNSF train and a Kansas City Southern train in Barton County, MO on July 21, 2012. Wreckage and debris were heaped in a pileup of locomotives and rail cars.
+
+The accident occurred at a signal interlocker about a mile north and east of Mulberry sometime Saturday afternoon on July 21, 2012.]]></description>
+			<Point>
+				<coordinates>-94.611356,37.569141,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Nellore train fire - 7/30/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Nellore_train_fire)
+
+The train passed through the Nellore station at 4:15 am and caught fire at 4:22 am. It was moving at a speed of around 70 kilometers per hour (43 mph). The driver stopped the train after a gateman at a railway crossing spotted smoke and fire from the S-11 coach and alerted authorities. Due to sweeping winds, the coach was quickly engulfed in flames.[1]
+
+Around 25 passengers managed to escape the fire from the rear exit, and 10 others escaped by jumping from the train. At least 15 people died trying to escape from the forward exit, and others died in their sleeping berths. Twenty-seven people were admitted to hospitals in Nellore. A railway emergency crew was on the scene rapidly and detached the burning coach from the other coaches, preventing the fire from spreading to the rest of the train.[1]]]></description>
+			<Point>
+				<coordinates>79.989384,14.458285,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Retiro station derailment - 8/6/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[buenosairesherald.com (http://www.buenosairesherald.com/article/108215/mitre-line-train-derails-in-retiro-station-6-hospitalized)
+
+The last wagon of a Mitre line train derailed when arriving to Retiro's terminal station in Buenos Aires City and crashed into a signaling post, leaving more than 30 injured, six of them had to be hospitalized.]]></description>
+			<Point>
+				<coordinates>-58.380358,-34.587536,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Ellicott City derailment - 8/22/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[articles.washingtonpost.com (http://articles.washingtonpost.com/2012-08-22/local/35492722_1_rose-mayr-elizabeth-nass-coal-train)
+
+Sirens were still screaming as other officers raced to the scene, minutes after a coal train derailed Tuesday just after midnight. Dust rose like smoke from the coal dumped by 21 upturned rail cars. The stunned crew of three began to climb down from their locomotive to survey the twisted wreckage.
+
+Two 19-year-old women had been sitting on the ledge of the railroad trestle as the train roared by. When the rail cars inexplicably began to derail like a row of dominoes, the one that turned on its side behind the women missed them by inches. The coal — about 110 tons of it — did not. 
+
+It buried them where they sat, cascading past them to the street below, leaving just enough evidence of their presence to show in the spotlight from the officer below.]]></description>
+			<Point>
+				<coordinates>-76.794876,39.267869,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>St Bees, landslide strikes train - 8/30/12 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[bbc.co.uk (http://www.bbc.co.uk/news/uk-england-cumbria-19420159)
+
+A replacement train sent to help passengers after a train derailed in Cumbria after a night of heavy rain was forced to stop after it got stuck.
+More than 100 people were on a Northern Rail train when it struck a landslide south of St Bees, near Nethertown, at about 07:20 BST.
+
+The passengers were rescued and put on a replacement train but it was forced to stop because of another landslide.]]></description>
+			<Point>
+				<coordinates>-3.573732,54.507878,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Banyo rail collision - 9/14/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[parliament.qld.gov.au (http://www.parliament.qld.gov.au/Documents/TableOffice/TabledPapers/2013/5413T2902.pdf)
+
+At 6.32am on Friday 14 September 2012, a northbound Queensland Rail passenger train collided with a heavy vehicle 
+that had become grounded on the St Vincents Road level crossing at Banyo.
+
+As a result of the collision, the driver of the heavy vehicle sustained serious injuries and was transported to hospital. The driver of the northbound train received minor injuries. Substantial damage was caused to rail infrastructure, rolling stock and the heavy vehicle.]]></description>
+			<Point>
+				<coordinates>153.077016,-27.375264,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Cisternino rail collision - 9/24/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[hrt.com (http://rt.com/news/train-truck-accident-italy-903/)
+
+One person has been killed and 25 others injured after a high-speed train hit a truck on a railroad crossing in Southern Italy. The accident occurred when the lorry tried to cross the track, just as the safety barrier was closing.
+
+The driver of the stuck vehicle managed to abandon it before the Silverarrow train from Rome to Lecce hit the truck. The collision derailed the train and forced it onto the local highway in Italy's Puglia region.]]></description>
+			<Point>
+				<coordinates>17.420203,40.738859,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Hanford collision - 10/1/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[zimbio.com (http://www.zimbio.com/Railroad+Worker+News/articles/Irp0e0lLCfZ/Amtrak+Train+Derails+Near+Hanford+California)
+
+Amtrak Train 712 traveling from Oakland to Bakersfield was involved in an accident with a semi truck near the city of Hanford, California in Kings County. According to an Amtrak spokesperson, 169 passengers and four crew members were aboard.]]></description>
+			<Point>
+				<coordinates>-119.63950400000002,36.211264,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Yogyakarta derailment - 10/23/12 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[gettyimages.co.uk
+
+
+CAPTION: Officials of Pt. Kereta Api Indonesia railway company inspect a derailed train carriage following an accident in Yogyakarta in Java island on October 23, 2012. At least 40 people were injured when three carriages of Prambanan Express train derailed.]]></description>
+			<Point>
+				<coordinates>110.365329,-7.78929,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Bratislava Vinohrady collision - 10/26/12 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[rssb.co.uk (http://www.rssb.co.uk/LEARNING/OPFeedbackSumm/Documents/LfA%2013%2003%20web.pdf)
+
+At 15:24 (local time) on 26 October 2012, a push-pull passenger train running in push mode passed a signal at danger and struck the rear of another passenger train which was waiting between Bratislava Vinohrady and Bratislava Main stations. 
+ 
+Two people (including one of the drivers) were seriously injured; a further 21 sustained slight injuries. 
+ 
+The investigation found that the accident was caused by the driver of the push-pull train failing to observe the red signal and failing to brake in time to avoid the collision]]></description>
+			<Point>
+				<coordinates>17.123394,48.174042,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>West Point, KY derailment and fire - 10/29/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[HuffingtonPost (http://www.huffingtonpost.com/2012/11/01/west-point-kentucky-fire-_n_2054100.html)
+
+The train derailed near Dixie Highway, a main corridor between Louisville and Fort Knox. Nine of the 13 derailed cars were carrying hazardous chemicals. The train was traveling from the company's headquarters in Paducah to its Louisville switching facility, said spokeswoman Bonnie Hackbarth.]]></description>
+			<Point>
+				<coordinates>-85.938696,38.005023,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Zaporizhia derailment - 11/1/12 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[en.for-ua.com (http://en.for-ua.com/news/2012/11/01/154338.html)
+
+The General Prosecutor's Office of Ukraine should take comprehensive measures to investigate into derailment of a passenger train № 27 "Kyiv - Sevastopil", which occurred on November 1, 2012 in Zaporizhia, the order of the President of Ukraine Viktor Yanukovych says, the President’s press service informs.]]></description>
+			<Point>
+				<coordinates>35.140822,47.854163,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Dandenong rail collision - 11/3/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[abc.net.au (http://www.abc.net.au/news/2012-11-03/one-dead-8-injured-in-metro-train-crash/4351276/?site=melbourne)
+
+One person is dead and at least eight people have been injured after a Metro passenger train collided with a truck and derailed at Dandenong, in Melbourne's south-east.
+
+Three carriages of the Metro train derailed and one tipped over on impact with the truck shortly before 12:00pm [AEDT], at a level crossing on Abbotts Road, on the Cranbourne line.]]></description>
+			<Point>
+				<coordinates>145.23831300000003,-38.03494,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Inverkeilor derailment - 11/4/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[bbc.co.uk (http://www.bbc.co.uk/news/uk-scotland-tayside-central-20197419)
+
+The 08:04 CrossCountry service from Edinburgh to Aberdeen came off the tracks at about 09:45 at Inverkeilor in Angus.
+
+There were 36 passengers on board. No-one was injured but the driver hit his head when the train derailed.]]></description>
+			<Point>
+				<coordinates>-2.541516,56.634374,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Kanbalu derailment - 11/9/12 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[globalpost.com (http://www.globalpost.com/dispatch/news/regions/asia-pacific/myanmar/121109/myanmar-train-crash-kanbalu)
+
+At least 25 people are dead after a train crash in northern Myanmar, Agence France-Presse reports.
+Officials said another 62 people were injured when the train came off the tracks this morning near Kanbalu, about 300 miles north of the capital, Naypyidaw.
+
+Most victims were burned to death when fuel tankers the train was carrying caught fire, the Associated Press reported. There were seven tankers of gasoline and two of diesel onboard, according to the AP.]]></description>
+			<Point>
+				<coordinates>95.507423,23.189295000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Midland train crash - 11/15/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Midland_train_crash)
+
+At 4:36 pm on November 15, 2012, an eastbound Union Pacific Railroad freight train traveling 62 miles per hour (100 km/h)[1] en route to Shreveport, Louisiana from Los Angeles, California struck a flat-bed semi-trailer carrying 26 passengers that was acting as a parade float.[2] Of the passengers, 12 were US Armed Forces veterans that had been wounded in action, 12 were the spouses of the veterans, and two were civilian escorts.[3] The impact killed two veterans immediately and two more died later at Midland Memorial Hospital. Sixteen other passengers were injured.]]></description>
+			<Point>
+				<coordinates>-102.093508,31.985623000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Manfalout collision - 11/17/12 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[bbc.co.uk (http://www.bbc.co.uk/news/world-middle-east-20375395)
+
+Fifty children aged four to six years old and the driver of the school bus they were on were killed when their vehicle was hit by a train in central Egypt on Saturday, officials said.]]></description>
+			<Point>
+				<coordinates>31.000092,27.279425,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1467</styleUrl>
+			<name>Busan subway collision -11/2/12 (location unknown)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[voiceofrussia.com (http://voiceofrussia.com/2012_11_22/Subway-accident-in-South-Korea-leaves-40-injured/)
+
+More than 40 people were injured when a subway train rammed into the back of another on Thursday in the South Korean port of Busan, the local television reports.
+
+The first train had come to a halt in a tunnel due to engine failure.
+
+The second train discharged the passengers at a nearby station and was sent forward to help tow the stranded train to safety, but slammed into its back at full speed and derailed it.]]></description>
+			<Point>
+				<coordinates>129.076846,35.180013,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name> Paulsboro derailment and HazMat release - 11/30/12</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ntsb.gov (http://www.ntsb.gov/investigations/2012/paulsboro_nj/paulsboro_nj.html)
+
+On November 30, 2012, at approximately 7 a.m. (EST), a southbound Conrail freight train, consisting of two locomotives and 82 cars, derailed seven cars while traveling over a moveable bridge spanning Mantua Creek in Paulsboro, N.J. Four tank cars, three containing vinyl chloride and one containing ethanol, came to rest in Mantua Creek. One of the derailed tank cars was breached and released approximately 20,000 gallons of vinyl chloride into the creek and surrounding area. No fatalities resulted from the accident; the train conductor and several residents were treated at local hospitals for exposure to vinyl chloride and released.]]></description>
+			<Point>
+				<coordinates>-75.236778,39.834641,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Everett mudslide derailment - 12/17/12 - </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[heraldnet.com (http://www.heraldnet.com/article/20121217/NEWS01/712179876/Mudslide-derails-freight-cars)
+
+EVERETT -- No injuries were reported as seven freight cars were knocked off the train tracks by a mudslide in Everett on Monday.
+The incident occurred about 1:30 p.m. at the south end of the Port of Everett property below Rucker Hill, according to Gus Melonas, a spokesman for BNSF Railway.]]></description>
+			<Point>
+				<coordinates>-122.227106,47.971939,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Neuhausen railway station collision - 1/10/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/2013_Neuhausen_am_Rheinfall_train_collision)
+
+A train collision occurred on Thursday 10 January 2013, at 8:47 CET[4] on the Winterthur-Schaffhausen line, about 250 meters away from the station. Two trains, the S33 and the S11, collided head-on and derailed. Initial reports stated that 17 people had been injured. This figure was later changed to 26.[5] Nine had to be taken to hospital, but there were no serious injuries. Among the people hospitalised were the two drivers.]]></description>
+			<Point>
+				<coordinates>8.623345,47.687157000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Badrashin railway accident - 1/14/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[english.ahram.org.eg (http://english.ahram.org.eg/NewsContent/1/64/62516/Egypt/Politics-/Egypt-Salvation-Front-holds-officials-responsible-.aspx)
+
+The accident occurred a few minutes before midnight on Monday in the town of Badrashin where a12-carriage train carrying 1,328 conscripts was en route to Cairo from Upper Egypt. One of its carts, which carried at least 200 conscripts, derailed and slammed into another train parked outside a storage depot.]]></description>
+			<Point>
+				<coordinates>31.277776,29.85704,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Saltsjöbanan run-away train crash - 1/15/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/2013_Saltsj%C3%B6banan_train_crash)
+
+The 2013 Saltsjöbanan train crash occurred in the early morning hours of 15 January 2013.[1] A passenger train started to move without authorization, only a cleaner being on board. It overran a set of buffer stops and crashed into a block of flats in Saltsjöbaden, Sweden.[2] The cleaning lady was at first suspected of having "stolen" the train[3] but was later cleared of blame, as the train was found to have started moving because of a malfunction and violation of safety procedures.[4][5]]]></description>
+			<Point>
+				<coordinates>18.313889,59.278889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Penzing rail collision - 1/21/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_rail_accidents_(2010%E2%80%93present)#2013)
+
+Two Vienna S-Bahn trains packed with morning commuters collided on a single-track stretch of line between Hütteldorf and Penzing in Vienna's suburbs in eastern Austria, leaving 41 people injured, five of them seriously. Among the injured was the driver of one of the trains. Both trains were operating the Line S45 service, and both trains were made up of 4024-series rolling stock.[4][169][170][171]]]></description>
+			<Point>
+				<coordinates>16.285815,48.193342,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Cleveland, Australia railway station collision - 1/31/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Cleveland_railway_station#2013_train_crash)
+
+On 31 January 2013, a passenger train overshot the railway line and collided with the station, severely damaging a toilet block and railway station and injuring 14 people.[2][3][4] The train was removed from the station in the early hours of the following morning.[5]]]></description>
+			<Point>
+				<coordinates>153.266111,-27.524167000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Kalafong Station collision 1/31/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[news24.com (http://www.news24.com/SouthAfrica/News/Passenger-train-crash-in-Pretoria-20130131)
+
+Two passenger trains have collided near Kalafong station in Pretoria.]]></description>
+			<Point>
+				<coordinates>28.084702,-25.760407,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Arai Station (Hyōgo) collision - 2/12/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikpedia (http://en.wikipedia.org/wiki/Arai_Station_(Hy%C5%8Dgo)#Accidents)
+
+On 12 February 2013, at around 15:50, a non-stop 6-car limited express service bound for Umeda collided with the rear end of a truck which had not completely cleared the level crossing to the west of the station. The first two cars of the train derailed and slid 170 m before hitting the edge of the station platform and coming to rest. 15 people were injured in the collision, including the train driver and truck driver.[2][3]]]></description>
+			<Point>
+				<coordinates>134.79385,34.757849,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1467</styleUrl>
+			<name>Novi Beograd rail collision 5/2/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[b92.net (http://www.b92.net/eng/news/society.php?yyyy=2013&mm=05&dd=08&nav_id=86062)
+
+On May 2, the Belgrade-Novi Sad-Subotica train hit the Belgrade-Šid train that had stopped in a tunnel due to malfunction.]]></description>
+			<Point>
+				<coordinates>20.38422,44.833299,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Schellebelle derailment and HazMat release - 5/3/13 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[icis.com (http://www.icis.com/Articles/2013/05/06/9665336/freight-train-carrying-acrylonitrile-for-dsm-derails-in-belgium.html)
+
+LONDON (ICIS)--A freight train carrying acrylonitrile (ACN) for Dutch chemicals firm DSM derailed near Ghent in Belgium on Saturday, causing a series of explosions and chemical fumes to leak, according to official statements and local media reports.
+
+One person was killed following the incident near Schellebelle, to the east of Ghent, and 49 were injured after inhaling toxic fumes, the reports said.]]></description>
+			<Point>
+				<coordinates>3.927097,51.002346,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Fairfield rail collision - 5/17/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Fairfield_train_crash)
+
+At about 18:10 local time (22:10 UTC),[2] a Metro-North Railroad passenger train from Grand Central Terminal, New York City to Union Station, New Haven, Connecticut derailed between the Fairfield Metro and Bridgeport stations. The derailed train, 8 cars,[3] came to rest foul of the track used by trains traveling in the opposite direction and was hit by a train traveling on that track.[4] The engineer of the second train applied emergency brakes and was able to slow from 70 mph to 23 mph before the collision occurred.[5] Both of the involved trains consisted of Kawasaki M8 railcars, which first entered service in 2011 and were still being delivered at the time of the accident. There were about 700 people on the two trains.]]></description>
+			<Point>
+				<coordinates>-73.218056,41.167361,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Wellington derailment - 5/20/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[taic.org.nz (http://www.taic.org.nz/LinkClick.aspx?fileticket=dhjwQAN8A3g%3D&tabid=265&language=en-US)
+
+The train was travelling at just under the maximum authorised line speed of 60 kilometres per hour when the train’s brake pressure dropped suddenly and the brakes applied automatically. 
+
+The train stopped within 17 seconds, during which period it travelled 151 metres. 
+ 
+The leading bogie of the rear coach had derailed and an air compressor had been forced up through the floor of the passenger compartment.]]></description>
+			<Point>
+				<coordinates>174.785222,-41.264667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Rockview rail collision - 5/25/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cbsnews.com (http://www.cbsnews.com/news/massive-missouri-train-collision-takes-down-highway-overpass/)
+
+Seven people were injured in a massive train collision in eastern Missouri early Saturday morning that took down a highway overpass, CBS affiliate KFVS-TV in Cape Girardeau, Mo., reports.
+
+Officials said around 2:30 a.m. there was a train crash in Rockview. The Highway M overpass collapsed on impact.]]></description>
+			<Point>
+				<coordinates>-89.639983,37.204851,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Rosedale collision and fire - 5/28/13 </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[bigstory.ap.org (http://bigstory.ap.org/article/train-derails-maryland-explosion-reported)
+
+ROSEDALE, Md. (AP) — A CSX freight train crashed into a trash truck, derailed and caught fire Tuesday in a Baltimore suburb, setting off an explosion that rattled homes at least a half-mile away and sent a plume of smoke into the air that could be seen for miles.
+
+In the third serious derailment this month, the dozen or so rail cars, at least one carrying hazardous materials, went off the tracks at about 2 p.m. in Rosedale, a suburb east of Baltimore. A hazardous materials team responded, but Baltimore County Executive Kevin Kamenetz said at a news conference that no toxic inhalants were being released. Officials did not order an evacuation.]]></description>
+			<Point>
+				<coordinates>-76.523525,39.309114,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Castelar rail accident - 6/13/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com (http://www.huffingtonpost.com/2013/06/13/train-crash-argentina_n_3436053.html)
+
+BUENOS AIRES, Argentina -- A speeding commuter train slammed into another that had stopped between stations during the morning commute Thursday in suburban Buenos Aires, killing three passengers and injuring more than 300 on a line that has been under government control since a deadly crash last year.]]></description>
+			<Point>
+				<coordinates>-58.636404,-34.650347,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Bonnybrook Bridge derailment - 6/20/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[calgarysun.com (http://www.calgarysun.com/2013/06/28/cp-rail-cars-removed-from-damaged-bonnybrook-train-bridge)
+
+A CP train with 5 derailed tanker cars sit on the Bonnybrook Bridge in Calgary, Alberta on Thursday June 27, 2013 All cars are upright: 4 contain petroleum products and 1 is an empty car containing ethylene glycol residue]]></description>
+			<Point>
+				<coordinates>-114.011929,51.013998,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Lac-Mégantic derailment - 7/6/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lac-M%C3%A9gantic_derailment)
+
+The Lac-Mégantic derailment occurred in the town of Lac-Mégantic, located in the Eastern Townships of the Canadian province of Quebec, at approximately 01:15 EDT,[1][2] on July 6, 2013, when an unattended 74-car[3][4][5][6][7] freight train carrying Bakken formation crude oil ran away and derailed, resulting in the fire and explosion of multiple tank cars. Forty-two people are confirmed dead with 5 more missing and presumed dead.[8]More than 30 buildings in the town's centre, roughly half of the downtown area, were destroyed.[2] Initial newspaper reports described a 1 km blast radius.[9]]]></description>
+			<Point>
+				<coordinates>-70.88503,45.577754,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Krylovskaya derailment - 7/7/13 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[kyivpost.com  (http://www.kyivpost.com/multimedia/photo/train-crashes-in-russia-326668.html)
+
+A photo shows the place of a train crash on the Kislyakovskaya-Krylovskaya stretch in the Krasnodar region on July 7, 2013. At least 76 people were injured when a Russian passenger train traveling from Siberia derailed near the Black Sea, the emergency situations ministry said, giving its latest toll.]]></description>
+			<Point>
+				<coordinates>39.756947,46.321564,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Brétigny-sur-Orge derailment  - 7/12/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com (http://www.huffingtonpost.com/2013/07/13/france-train-crash_n_3591063.html)
+
+On Friday, four cars slid off the tracks there as the train sped through town, which was not a stop on its journey to central France.
+
+Human error has been ruled out by France's transport minister and the focus of the investigation is on a detached piece of metal in a switching joint on the tracks. The national rail company, SNCF, has already taken blame for Friday evening's crash, which occurred at the start of a busy holiday weekend.]]></description>
+			<Point>
+				<coordinates>2.301754,48.606536,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Norwich rail collision - 7/21/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[raib.gov.uk (http://www.raib.gov.uk/publications/current_investigations_register/130721_norwich.cfm)
+
+At about 00:10 hrs on Sunday 21 July 2013, train 2C45, the 23:34 hrs service from Great Yarmouth to Norwich, collided with a stationary train at about 8 mph (13 km/h) as it entered into platform 6 at Norwich station. The stationary train was stabled in the platform (ie it was empty and had been placed out of service until needed next). The collision pushed the stabled train about 1.5 metres, against a second stabled train, causing damage to the trains’ couplers. There were 34 passengers on train 2C45; eight of those who suffered injuries were taken to hospital. The train crew were uninjured.]]></description>
+			<Point>
+				<coordinates>1.308926,52.625748,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Santiago de Compostela derailment - 7/24/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Santiago_de_Compostela_derailment#Derailment)
+
+At 20:41 CEST (18:41 UTC) on 24 July 2013[1][7] the passenger train, on an express route from Madrid Chamartín railway station to Ferrol, derailed on a section of conventional track at the end of the Olmedo-Zamora-Galicia line, at Angrois in Santiago de Compostela.[8] All vehicles, the two power cars, their adjacent generator cars – both with diesel tanks – at both ends of the train and the nine intermediate carriages, derailed as the train rounded the A Grandeira curve; four cars overturned.[8] A track-side CCTV camera video indicates that the front generator car was the first to leave the rails, followed by the leading passenger coaches, the front power car, the rear generator car and finally the rear power car.[9] The train was carrying 218 passengers at the time of the crash.[1] Three of the carriages were torn apart in the accident and another caught fire due to gaseous leaking diesel fuel. The rear generator car also caught fire. Unofficial technical reports disclose that the train was travelling at over twice the posted speed limit when it entered the curve.[10]]]></description>
+			<Point>
+				<coordinates>-8.527778,42.859500000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Gujranwala derailment - 7/25/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[suchtv.pk (http://www.suchtv.pk/pakistan/item/4913-four-killed-as-train-runs-aground-in-gujranwala.html)
+
+A train traveling from Lahore to Rawalpindi overshot and ran aground on a closed track in Gujranwala on Thursday evening, killing at least four people.]]></description>
+			<Point>
+				<coordinates>74.188222,32.163513,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Granges-pres-Marnand rail collision - 7/29/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[HuffingtonPost (http://www.huffingtonpost.com/2013/07/29/swiss-train-crash_n_3672986.html)
+
+BERLIN — At least 35 people were injured, five of them seriously, in a head-on collision of two trains in western Switzerland late Monday, police said. One person had yet to be recovered from the wreckage.
+
+The crash happened near the station of Granges-pres-Marnand shortly before 7 p.m. (1700 GMT) on a regional line about 50 kilometers (31 miles) southwest of the capital, Bern.]]></description>
+			<Point>
+				<coordinates>6.893502,46.757636,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Lawtell derailment - 8/5/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[nydailynews.com (http://www.nydailynews.com/news/national/train-carrying-hazardous-materials-derails-lousiana-article-1.1417720)
+ 
+A train carrying hazardous materials derailed in Louisiana, and two railcars were leaking chemicals, forcing the evacuation of about 100 homes, officials said. One man went to the hospital complaining of eye irritation.
+ 
+More than 20 cars of the Union Pacific train went off the tracks about 3:30 p.m. Sunday near Lawtell, which is about 60 miles west of Baton Rouge. Company spokeswoman Raquel Espinoza said one of the railcars was leaking sodium hydroxide, which can cause injuries or even death if it is inhaled or touches the skin. The other was leaking lube oil.]]></description>
+			<Point>
+				<coordinates>-92.164972,30.521437,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Dhamara Ghat rail accident and fire - 8/19/13 (approximated) </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[nytimes.com (http://www.nytimes.com/2013/08/20/world/asia/train-kills-dozens-of-religious-pilgrims-in-india.html?_r=0)
+ 
+An express train plowed into a crowd of Hindu pilgrims who were crossing the tracks at a remote station in eastern India on Monday, killing dozens of people and leaving a scene of carnage.
+
+An enraged crowd dragged out the driver and began beating him, and set parts of the train on fire, sending up a pillar of thick black smoke that could be seen miles away.]]></description>
+			<Point>
+				<coordinates>86.604479,25.618127,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Seville rail bridge collapse derailment - 9/19/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[centralillinoisproud.com (http://www.centralillinoisproud.com/story/bridge-collapse-sends-train-into-spoon-river/d/story/Q9LOuteCPEuchoH4hdZSCA)
+
+SEVILLE - A bridge collapse sends a train crashing into a Fulton County river. 
+
+Crews are figuring out how to remove six train cars from Spoon River in Seville. The bridge broke down around 4:30 p.m. Monday
+.  
+The train was en route to Peoria and carried mostly corn syrup.  No one is injured.]]></description>
+			<Point>
+				<coordinates>-90.342792,40.485653,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Ottawa bus-train crash - 9/18/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Ottawa_bus-train_crash)
+
+The Ottawa bus-train crash was a collision that occurred between a OC Transpo double-decker bus and a Via Rail train in the Ottawa suburb of Barrhaven on September 18, 2013, that killed six people.[1][3]]]></description>
+			<Point>
+				<coordinates>-75.734124,45.302752,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Ashland Chemical Plant derailment - 9/19/13 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://hamptonroads.com (http://hamptonroads.com/2013/09/two-hurt-when-train-derails-southampton-county)
+ 
+Two locomotives were involved, and each holds more than 8,500 gallons of fuel, but only one tank ruptured, he said. The derailment occurred in a wooded area with no homes nearby. No evacuations were necessary.
+
+The train was near the Ashland chemical plant when it derailed, but there was no chemical spill, he said.]]></description>
+			<Point>
+				<coordinates>-76.996871,36.650586,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Forest Park run-away train collision - 9/30/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[wgntv.com (http://wgntv.com/2013/09/30/cta-blue-line-train-accident-in-forest-park/)
+
+CTA officials are investigating how an out of service train ran head-on into a train stopped at a Blue Line station in Forest Park Monday morning, sending dozens of people to hospitals.
+
+The accident happened just before 8 a.m. Train service was suspended for a few hours between Forest Park and Kedzie Avenue, but has since resumed. According to a tweet from the CTA, trains are not stopping at Harlem.]]></description>
+			<Point>
+				<coordinates>-87.809268,41.873787,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Cheat Mountain rail collision  - 10/11/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com (http://www.huffingtonpost.com/2013/10/12/west-virginia-train-colli_n_4088512.html)
+
+The driver of a loaded log truck that collided Friday with a sightseeing train carrying 63 passengers and four crewmembers on a scenic leaf-peeping circuit in West Virginia's mountains was the lone fatality in an accident that injured 23 others, authorities said.
+
+Brady said the accident occurred at a train crossing on U.S. Route 250 at a bridge on the mountain. The overturned passenger cars lay beside the tracks, roped off with yellow crime scene tape as police, firefighters and others looked on.]]></description>
+			<Point>
+				<coordinates>-79.869608,38.61651,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Gainford derailment and fire - 10/19/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[news.nationalpost.com (http://news.nationalpost.com/2013/10/19/alberta-community-evacuated-after-train-carrying-oil-and-gas-derails/)
+ 
+GAINFORD, Alta. — Firefighters battling a major blaze after a CN tanker train derailed west of Edmonton on Saturday have decided to withdraw and wait for the flames to burn themselves out.
+
+With no further explosions expected from the 13 cars carrying oil and liquefied petroleum gas, that’s the safest thing to do, said Parkland County fire chief Jim Phelan.]]></description>
+			<Point>
+				<coordinates>-114.77133800000001,53.584302,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Buenos Aires rail disaster - 10/19/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[HuffingtonPost (http://www.huffingtonpost.com/2013/10/19/argentina-train-crashes-into-station_n_4127975.html)
+ 
+An Argentine commuter train slammed into the end of the line Saturday morning at the same station in Buenos Aires where 52 people were killed in a similar crash last year. This time emergency officials did not report any deaths, but said at least 35 people were injured, five seriously.]]></description>
+			<Point>
+				<coordinates>-58.408116,-34.608654,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Sanford derailment  - 10/24/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[wesh.com (http://www.wesh.com/news/central-florida/seminole-county/1-killed-when-train-cars-derail-in-sanford/-/17597106/22608580/-/13wiuniz/-/index.html)
+
+SANFORD, Fla. —One person is dead in Sanford after he was crushed by one of four train cars filled with gravel that overturned Thursday morning.
+
+Officials said they were called to the SunRail station on State Road 46 at around 6:40 a.m.]]></description>
+			<Point>
+				<coordinates>-81.291929,28.786616999999996,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Mutindwa rail collision - 10/31/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[seedmagazine.co.ke (http://www.seedmagazine.co.ke/?p=6268)
+
+12 passengers perished after their bus was crushed by a train on Wednesday morning October 30.
+The grisly accident happened approximately 7:40 am at unmanned level crossing located at Mutindwa in Nairobi, Kenya.
+
+According to the Daily Nation Newspaper, the ill-fated 33-seater bus was bound to the city centre while the train was heading to Dandora.]]></description>
+			<Point>
+				<coordinates>36.883711,-1.285378,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Barnes Bend derailment - 11/8/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[reuters.com (http://www.reuters.com/article/2013/11/08/us-crude-train-explosion-idUSBRE9A70Q920131108)
+
+A 90-car train carrying North Dakota crude derailed and exploded in a rural area of western Alabama early on Friday, leaving 11 cars burning and potentially bolstering the push for tougher regulation of a boom in moving oil by rail.
+
+Twenty of the train's cars derailed and a number were still on fire on Friday afternoon, local officials said. Those cars, which threw flames 300 feet into the night sky, are being left to burn out, which could take up to 24 hours, according to the train owner, Genesee & Wyoming. No injuries were reported.
+
+The accident happened in a wetlands area that eventually feeds into the Tombigbee River, according to the Alabama Department of Environmental Management. Booms were placed in the wetlands to contain the spilled oil.]]></description>
+			<Point>
+				<coordinates>-88.150177,32.978032,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Chester rail collision 11/20/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[chesterchronicle.co.uk (http://www.chesterchronicle.co.uk/news/chester-cheshire-news/man-taken-hospital-after-virgin-6323314)
+
+At around 12.10pm yesterday (Wednesday) the 10.10 Virgin Trains’ service from London failed to stop as it pulled into platform one, hitting the buffers before smashing into a barrier and sending shards of glass flying across the platform.]]></description>
+			<Point>
+				<coordinates>-2.879598,53.196688,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Bayard derailment - 11/30/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[lcsun-news.com (http://www.lcsun-news.com/las_cruces-news/ci_24634817/one-bayard-train-derailment-victims-was-woman)
+
+A locomotive for Southwestern Railroad was pulling eight cars south to Santa Rita carrying Magnetite, a form of iron that is not hazardous, when it derailed around noon Saturday and fell 40 to 50 feet into an arroyo off State Highway 356 at mile marker three. The eight supply cars continued to run along the track until they reached a curve in the tracks and then derailed.]]></description>
+			<Point>
+				<coordinates>-108.122426,32.774818,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Spuyten Duyvil derailment - 12/1/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+ (http://en.wikipedia.org/wiki/December_2013_Spuyten_Duyvil_derailment#Accident)
+
+Early investigations found that the train had gone into the curve where it derailed at almost three times the posted speed limit. Later it was learned that the engineer admitted that before reaching the curve he had gone into a "daze", a sort of highway hypnosis. He has since been suspended without pay; prosecutors are considering bringing criminal charges and claims have already been filed against him, Metro-North and the MTA.]]></description>
+			<Point>
+				<coordinates>-73.922968,40.879549,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Two Harbors derailment - 12/5/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[bigstory.ap.org/ (http://bigstory.ap.org/article/93-canadian-national-train-cars-derailed)
+
+A Canadian National Railway train filled with iron ore pellets from the Iron Range derailed in Two Harbors early Thursday, Dec. 5, 2013 and two injuries were reported The accident occurred at 1:14 p.m. on a bend in the tracks between Northshore Manufacturing and Two Harbors Lumber on Fourth Avenue in Two Harbors in an area that is considered the CN train yard.]]></description>
+			<Point>
+				<coordinates>-91.677132,47.022961,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Pondok Ranji rail collision - 12/9/13 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/List_of_rail_accidents_(2010%E2%80%93present)#2013)
+
+9 December 2013 - Indonesia — A commuter train bound for Tanah Abang from Maja (Train number KA 1131, using Tokyo Metro 7000 series set 7021) collision with a pertamina truck with loaded oil and exploded. Five people were killed and another was seriously injured. The accident was caused by the truck driver attempting cross the grade crossing shortly before being hit by an oncoming train from Pondok Ranji. The accident occurred at Grade Crossing number 57 at the S curve between Kebayoran and Pondok Ranji Station. The train involved that accident was immediately written off because of the major damage to car 7121 (7221 received minor damage)[219][220][221][222]]]></description>
+			<Point>
+				<coordinates>106.760888,-6.261892,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Puttaparthi, India Train Fire Kills Trapped Passengers - 12/28/13</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com (http://www.huffingtonpost.com/2013/12/28/india-train-fire_n_4513167.html)
+ 
+KOTHACHERUVU, India (AP) — A fire engulfed a coach of an express train in southern India on Saturday, killing at least 26 passengers, many of whom became trapped and suffocated after the doors failed to open, officials said.
+
+As the inferno and thick black smoke raced through the car at about 3:45 a.m., panicked passengers broke the windows and many saved themselves by jumping from the train.
+
+Sixty-seven passengers were in the carriage when the fire broke out about 2 kilometers (1 mile) from the small town of Puttaparthi in Andhra Pradesh state, said railways spokesman C.S. Gupta.]]></description>
+			<Point>
+				<coordinates>77.763162,14.171821,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Huge Boulder collides with Train of the PInes at Arnot, France - 2/8/2014</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[bigstory.ap.org (http://bigstory.ap.org/article/alps-tourist-train-derails-france-2-dead)
+
+"A rock the size of an automobile came off the mountainside and slammed into the first car of the train," Jean Ballester, mayor of nearby Annot, told BFM television. "There are unfortunately two dead."]]></description>
+			<Point>
+				<coordinates>6.675718,43.959847,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1467</styleUrl>
+			<name>O'Hare Airport CTA Train Derailment  - 3/24/2014</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[cbsnews.com (http://www.cbsnews.com/news/chicago-ohare-international-airport-train-crash-apparently-on-tape/)
+
+The operator of a Chicago commuter train that crashed at O'Hare International Airport admitted she "dozed off" before the accident, waking only when the train jumped off the tracks and climbed an escalator, a federal official said Wednesday.
+
+Meanwhile, a video posted and then removed from YouTube (http://www.cbsnews.com/news/chicago-ohare-international-airport-train-crash-apparently-on-tape/) appears to show the moment the train jumped the tracks.]]></description>
+			<Point>
+				<coordinates>-87.904218,41.977666,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Likasi, Democratic Republic of the Congo - 4/23/2014</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Reuters (http://www.reuters.com/article/2014/04/23/us-congodemocratic-crash-idUSBREA3M1D620140423)
+
+At least 63 people were killed and 80 were seriously injured in Democratic Republic of Congo's Katanga province when a train speeding too fast round a bend derailed, a provincial minister said on Wednesday.
+
+Fifty others were trapped inside the goods train after 12 of its carriages flipped off the track in the accident near Likasi, a mining town between Lubumbashi and Kolwezi in the copper and cobalt-rich southeast.
+
+"Evidently the train was going too fast, the driver came to a curve and had to break suddenly leading to the accident," said Dikanga Kazadi, Katanga's interior minister.]]></description>
+			<Point>
+				<coordinates>26.726303,-10.987832,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Lynchburg, Virginia - 4/30/2014</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Huffington Post (http://www.huffingtonpost.com/2014/04/30/-lynchburg-virginia-train-derailment_n_5241800.html)
+
+A CSX train derailed near downtown Lynchburg, Virginia around 2:30 p.m. on Wednesday, prompting evacuations and calls to avoid part of the city as flames and a plume of black smoke rose into the air. There are no immediate reports of injuries.
+
+The City Of Lynchburg announced that the train was carrying crude oil and three or four of its 13 to 14 cars were breached.
+
+"There is some spillage in the river of crude oil," Lynchburg city spokeswoman LuAnn Hunt told the Richmond Times-Dispatch. Richmond primarily draws its water from the James River, downstream from Lynchburg. Another official said the city is making plans to tap an "alternative water supply."]]></description>
+			<Point>
+				<coordinates>-79.13886700000002,37.415897,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1467</styleUrl>
+			<name>Sangwangsimni Station, Seoul, South Korea - 5/2/2014</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Huffington Post (http://www.huffingtonpost.com/2014/05/02/seoul-subway-crash_n_5251598.html)
+
+SEOUL, May 2 (Reuters) - South Korea suffered its second serious transport accident in just over two weeks on Friday when a subway train in the capital, Seoul, crashed into a train at a station, injuring 200 people although no one was killed.]]></description>
+			<Point>
+				<coordinates>127.028872,37.5645,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Nidi, Maharashtra - 5/4/2014 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[reuters.com (http://www.reuters.com/article/2014/05/04/us-india-train-idUSBREA4307Q20140504)
+
+At least 19 people were killed and more than 130 injured when a passenger train was derailed in western India on Sunday, police said.
+
+Rescuers search for survivors from the debris of a passenger train after it derailed near Nidi village in the western Indian state of Maharashtra May 4, 2014.]]></description>
+			<Point>
+				<coordinates>73.126202,18.563029,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Naro-Fominsk, Russia - 5/2/2014</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[bbc.com (http://www.bbc.com/news/world-europe-27488038)
+
+
+At least five people have died after a freight train hit a passenger train west of Moscow, officials say.
+
+Several carriages were derailed in the crash and traffic on the line between Moscow and Chisinau in Moldova has been suspended.]]></description>
+			<Point>
+				<coordinates>36.72781,55.383987,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Gorakhpur Express near Chureb railway station - 5/26/2014</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[bbc.com (http://www.bbc.com/news/world-asia-india-27573997)
+
+At least 20 people are feared dead after a passenger train derailed and hit a stationary goods train in India's Uttar Pradesh state, officials say.
+
+Six coaches of the Gorakhdham Express went off the rails and ploughed into the freight train at Chureb railway station on Monday morning.]]></description>
+			<Point>
+				<coordinates>83.021665,26.785001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Derailment near Hawthorne, FL - 6/2/2014</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[gainesville.com (http://www.gainesville.com/article/20140602/ARTICLES/140609980)
+
+A freight train derailed Monday morning at County Road 1474 and U.S. 301 in Campville about 4 miles north of Hawthorne.
+
+Seventeen cars derailed from a train pulling 59 cars at around 3:30 a.m., said Alachua County Sheriff’s Office spokeswoman Sgt. Becky Butscher. No one was injured and no evacuations were ordered.]]></description>
+			<Point>
+				<coordinates>-82.115593,29.664189,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Train derailment spills Boeing 737 fuselages into river near Alberton, MT - 7/5/2014 (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[usatoday.com (http://www.usatoday.com/story/todayinthesky/2014/07/05/train-derailment-spills-boeing-737-fueslages-into-river/12258639/)
+ 
+Crews in Montana on Sunday will attempt to recover three Boeing 737 fuselages that tumbled down a steep embankment and into a Montana river following a train derailment.]]></description>
+			<Point>
+				<coordinates>-114.549122,47.004139,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Train derailment at Slinger, Wisconsin - 7/21/2014</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com (http://www.huffingtonpost.com/2014/07/21/train-derails-in-wisconsin_n_5604524.html)
+
+SLINGER, Wis. (AP) — Two people were injured and more than a hundred homes were evacuated due to a diesel spill from a train derailment in Wisconsin, according to fire officials.
+
+Slinger Fire Department Chief Rick Hanke said three engines and 10 railcars derailed Sunday night. He said trains from Canadian National Railway Co. and Wisconsin & Southern were involved. He said officials don't yet know what caused the derailment.
+
+About 5,000 gallons of diesel fuel was spilled from an engine, he said. Hazmat crews had dikes and booms in place to contain the spill.]]></description>
+			<Point>
+				<coordinates>-88.287544,43.329218,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Swiss train derailed in landslide - Tiefencastel, Switzerland - 8/13/2014 (view in StreetView)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[bbc.com/news (http://www.bbc.com/news/world-europe-28775998)
+ 
+A train has derailed after a landslide near the Swiss ski resort of St Moritz, in what police describe as a "serious" accident.
+
+Swiss national radio reported that one carriage had plunged into a ravine and another was hanging from the rails.
+
+The extent of casualties is unclear but officials say the injured have been taken to hospital by helicopter and ambulance.
+
+The landslide happened after heavy rain in eastern Switzerland overnight.]]></description>
+			<Point>
+				<coordinates>9.563395,46.666342,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1459</styleUrl>
+			<name>Two-train head-on collision in Hoxie, AR </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[weather.com  (http://www.weather.com/news/update/deadly-train-collision-arkansas-20140817)
+
+Two trains collided in the early-morning hours Sunday near Hoxie, Arkansas, killing two members of the train crew and forcing residents from their homes, police said.
+
+The town in northeastern Arkansas was jarred awake by the explosion that occurred at about 2:30 a.m. local time Sunday morning, according to KAIT.com. An investigator for the National Transportation Safety Board says the collision involved a train with two locomotives and 86 cars and another with two locomotives and 92 cars.]]></description>
+			<Point>
+				<coordinates>-90.993125,36.024095,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1037'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1037-biz-house.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1459'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1459-trans-train.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1467'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1467-trans-tunnel.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

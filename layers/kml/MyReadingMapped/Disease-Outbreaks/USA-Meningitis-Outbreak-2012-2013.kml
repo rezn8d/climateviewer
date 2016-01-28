@@ -1,0 +1,1377 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>9 out of 20 Effected States have a serious problem!</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Of the 22 states that received the drug, 19 have had a Meningitis Outbreak. Of which 7 have a significant problem, while 2 have a far greater outbreak.
+
+- FL, IN, MD, NH, NJ, OH, VA have a sizable problem on their hands.                                                 
+- MI and TN on the hand have a problem that is significantly worse.]]></description>
+			<Point>
+				<coordinates>-101.953125,45.95115,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>Meningitis Outbreak vs. State Health Care Rankings</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://3.bp.blogspot.com/-MICe8c2k8qU/UMivz0XuiII/AAAAAAAACgw/aknaS98EQZg/s320/Meningitis+Outbreak+compared+to+state+health+care+rankings.GIF</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[At this point my analysis shows that the states with the most deaths and cases under evaluation by the CDC appear to be in the average to poor end of the health care rankings of three of the leading health care ranking systems on the Internet. Thus, the data shows your chances of surviving may depend greatly on the state in which you live.
+
+
+Click here to see an enlargement of the table above. (https://docs.google.com/spreadsheet/ccc?key=0Ap2hHMRyBvEsdFFNbHIwZDZ1MnFJdDE5X1RMNDVGX0E#gid=0)]]></description>
+			<Point>
+				<coordinates>-99.316406,45.089036,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>CDC Meningitis Classifications just got a lot more complex in FL, IN, MD, MN, MI, MN, NJ, NY, OH, RI, TN &amp; VA</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[On 11/29/2012, The Centers for Disease Control suddenly revised the complexity of how it classified Meningitis cases. 
+(http://www.cdc.gov/hai/outbreaks/meningitis-map.html) 
+ 
+"CDC continues to receive reports of patients presenting with paraspinal/spinal infections (e.g., epidural abscess, phlegmon, discitis, vertebral osteomyelitis, or arachnoiditis at or near the site of injection). These syndromes have occurred in patients with and without evidence of fungal meningitis.                                                                                  
+Because these infections are distinct from meningitis and joint infections, CDC will report case counts, as below, to better describe types of infections being identified in patients exposed to a preservative-free methylprednisolone acetate (MPA) injection, with preservative-free MPA that definitely or likely came from one of the following three lots produced by the New England Compounding Center (NECC) [05212012@68, 06292012@26, 08102012@51]."                                            
+"* Some patients with meningitis had other infections diagnosed in addition; to date, all of these other infections have been paraspinal/spinal infections. The patient reported to have a peripheral joint infection and a spinal/paraspinal infection had both a joint injection and a spinal/paraspinal injection."
+
+
+The CDC now classifies cases as follows:
+ 
+A Total Case Count* of which there are the following classifications:
+
+- Meningitis cases (with or without other infection)*. 
+- Cases of Stroke without Lumbar Puncture only.
+- Cases of Paraspinal/Spinal Infection only.
+- Cases of Peripheral Joint Infection only.
+- Cases of Paraspinal/Spinal + Peripheral Joint Infection 
+- Deaths,                                                                                        
+Note: Over the course of this accounting, many cases have jumped from one category to another.]]></description>
+			<Point>
+				<coordinates>-100.546875,40.446947,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Sources of information this map is based on</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- Centers for Disease Control's List of Healthcare Facilities That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012 (http://www.cdc.gov/hai/outbreaks/meningitis-facilities-map.html)
+
+- Centers for Disease Control's map of Persons with Meningitis Linked to Epidural Steroid Injections, by State (http://www.cdc.gov/hai/outbreaks/meningitis-map-large.html)
+
+- List of Recalled Products Related to Fungal Meningitis Outbreak (http://www.fda.gov/Drugs/DrugSafety/ucm322752.htm)]]></description>
+			<Point>
+				<coordinates>-89.736328,26.273714,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1199</styleUrl>
+			<name>What is Fungal Meningitis?</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[According to the CDC (http://www.cdc.gov/meningitis/fungal.html). 
+
+"Fungal meningitis is not contagious, which means it is NOT transmitted from person to person. Fungal meningitis occurs when the protective membranes that cover the brain and spinal cord are infected with a fungus. Fungal meningitis can develop after a fungus spreads through the bloodstream from somewhere else in the body, as a result of the fungus being introduced directly into the central nervous system, or by direct extension from an infected body site next to the central nervous system. Symptoms of fungal meningitis are similar to symptoms of other forms of meningitis, however they often appear more gradually and can be very mild at first. In addition to typical meningitis symptoms, like headache, fever, nausea, and stiffness of the neck, people with fungal meningitis may also experience confusion, dizziness, and discomfort from bright lights. Patients might just have one or two of these symptoms."]]></description>
+			<Point>
+				<coordinates>-95.449219,25.482951,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1199</styleUrl>
+			<name>What is an epidural injection?</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Epidural.JPG/450px-Epidural.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Epidural)
+
+Wikipedia Commons: User:Ravedave (http://commons.wikimedia.org/wiki/User:Ravedave) ]]></description>
+			<Point>
+				<coordinates>-86.748047,24.686952,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Recalled Products</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[List of Recalled Products Related to Fungal Meningitis Outbreak (http://www.fda.gov/Drugs/DrugSafety/ucm322752.htm)]]></description>
+			<Point>
+				<coordinates>-94.306641,22.105999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Disclaimer</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[This map, as a public service, was created to simplify obtaining the information you need to know about this healthcare event by putting all the information I could find from reliable sources in a map that localizes the information for you.
+
+Please seek the advice for a healthcare professional before acting on this information.  
+
+MyReadingMapped is not responsible for any inaccuracies in the information this map, and its related web page, obtained from the Centers for Disease Control, or any other authoritative websites; and MyReadingMapped is not affiliated with the Center for Disease Control.]]></description>
+			<Point>
+				<coordinates>-88.857422,21.943046,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Color Coding</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Please note that some of the symbols are very close to each other, some even in the same building, thus you will need to zoom in close to distinguish between them.
+ 
+Red:
+States with a Meningitis outbreak.
+ 
+Yellow:
+A Healthcare Facility That Received Lots of Methylprednisolone Acetate (PF) Recalled from New England Compounding Center]]></description>
+			<Point>
+				<coordinates>-92.724609,26.509905,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1195</styleUrl>
+			<name>Mold and bacteria found growing at supplier of the tainted drug recalling the drug</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[New England Compounding Center: Mold And Bacteria Found Growing In Supposedly Sterile Rooms, FDA Says (http://www.huffingtonpost.com/2012/10/26/new-england-compounding-center-mold-bacteria_n_2025179.html)]]></description>
+			<Point>
+				<coordinates>-71.42708,42.273261,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1485</styleUrl>
+			<name>States that received the tainted drug with no reported Meningitis cases</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Note that health care facilities in the states of  Alabama, California, Connecticut, Massachusetts, and Nevada received the tainted drug, yet there have been NO CDC reported cases of Meningitis in these states.]]></description>
+			<Point>
+				<coordinates>-92.548828,19.228177,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-971</styleUrl>
+			<name>Fungal meningitis victims to receive money from $100-million fund</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[latimes.com (http://www.latimes.com/nation/la-na-meningitis-settlement-20140507-story.html)
+ 
+Victims of a fungal meningitis outbreak traced to a tainted steroid produced by a Massachusetts compounding pharmacy will be compensated from a $100-million fund created as part of the legal settlement stemming from the 2012 incident.
+
+The settlement was filed this week in federal bankruptcy court and must be approved by Judge Henry Boroff. The agreement on the size of the fund was reached by the parties including owners of the pharmacy, the New England Compounding Center, and lawyers for the plaintiffs.
+
+More than 750 people in 20 states – especially in Tennessee, Michigan and Indiana -- were sickened with fungal meningitis and related infections, according to the Atlanta-based Centers for Disease Control and Prevention. At least 64 deaths were reported.]]></description>
+			<Point>
+				<coordinates>-85.341797,19.062118,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1205</styleUrl>
+			<name>Total Case Count</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[The CDC appears to have stopped tracking this outbreak. The last CDC count was as of October 23, 2013. 
+ (http://www.cdc.gov/hai/outbreaks/meningitis-map.html) 
+
+A Total of 751* cases in 20 states of which there are:
+
+- 233 Meningitis cases
+- 151 cases of Meningitis + Paraspinal/Spinal Infection only.
+- 7 cases of Stroke without Lumbar Puncture only.
+- 325 cases of Paraspinal/Spinal Infection Only
+- 33 cases of Peripheral Joint Infection only.
+- 2 cases of Paraspinal/Spinal + Peripheral Joint Infection
+- 64 deaths,
+The number of cases has been fairly consistent for now several months. Thus, I am going to stop tracking it as of November 3, 2013, my last edit of this map.
+
+ -------------
+According to the Huffington Post: "The number of cases has grown rapidly as health practitioners contacted some 13,000 people who received injections from a potentially tainted supply of steroid medication shipped to 23 states."
+-------------
+
+
+Case counts by state are based on the state where the procedure was performed, not the state of residence.]]></description>
+			<Point>
+				<coordinates>-91.757812,23.483401,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1205</styleUrl>
+			<name>Florida Meningitis Outbreak</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Total of 25* cases of which there are:
+
+- 22 Meningitis cases
+- 1 case of Meningitis+Paraspinal/Spinal Infection
+- 1 case of Stroke without Lumbar Puncture only.
+- 1 case of Paraspinal/Spinal Infection only
+- 7 Deaths,]]></description>
+			<Point>
+				<coordinates>-81.5625,27.80021,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1205</styleUrl>
+			<name>Georgia Meningitis Outbreak</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Total of 1* case of which there are:
+
+- 1 Meningitis case]]></description>
+			<Point>
+				<coordinates>-82.617187,31.802893,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1205</styleUrl>
+			<name>Idaho Meningitis Outbreak</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Total of 1* case of which there are:
+
+- 1 Meningitis case]]></description>
+			<Point>
+				<coordinates>-114.697266,43.580391,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1205</styleUrl>
+			<name>Illinois Meningitis Outbreak</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Total of 2* cases of which there are:
+
+- 2 Meningitis cases]]></description>
+			<Point>
+				<coordinates>-89.208984,40.446947,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1205</styleUrl>
+			<name>Indiana Meningitis Outbreak</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Total of 92* cases of which there are:
+
+- 30 Meningitis cases
+- 17 cases of Meningitis+Paraspinal/Spinal Infection
+- 1 case of Stroke without Lumbar Puncture only.
+- 45 cases of Paraspinal/Spinal Infection only.
+- 11 Deaths,]]></description>
+			<Point>
+				<coordinates>-85.869141,38.427774,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1205</styleUrl>
+			<name>Maryland Meningitis Outbreak</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Total of 26* cases of which there are:
+
+- 23 Meningitis cases
+- 1 cases of Paraspinal/Spinal Infection only.
+- 2 cases of Stroke w/out Lumbar Puncture Only
+- 3 Deaths,]]></description>
+			<Point>
+				<coordinates>-76.904297,39.3173,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1205</styleUrl>
+			<name>Michigan Meningitis Outbreak</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Total of 264* cases of which there are:
+
+- 23 Meningitis cases
+- 46 cases of Meningitis+Paraspinal/Spinal Infection
+- 2 cases of Stroke without Lumbar Puncture only.
+- 166 cases of Paraspinal/Spinal Infection only.
+- 25 cases of Peripheral Joint Infection only.
+- 2 cases of Paraspinal/Spinal + Peripheral Joint Infection.
+- 19 Deaths,]]></description>
+			<Point>
+				<coordinates>-84.990234,42.94033900000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1205</styleUrl>
+			<name>Minnesota Meningitis Outbreak</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Total of 12* cases of which there are:
+
+- 10 Meningitis case
+- 2 cases of Paraspinal/Spinal Infection only
+- 1 Death]]></description>
+			<Point>
+				<coordinates>-94.921875,45.151053,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1205</styleUrl>
+			<name>New Hampshire Meningitis Outbreak</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Total of 14* cases of which there are:
+
+- 9 Meningitis cases
+- 5 cases of Peripheral Joint Infection only.]]></description>
+			<Point>
+				<coordinates>-71.982422,43.277205,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1205</styleUrl>
+			<name>New Jersey Meningitis Outbreak</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Total of 51* cases of which there are:
+
+- 30 Meningitis cases
+- 11 cases of Meningitis+Paraspinal/Spinal Infection
+- 9 cases of Paraspinal/Spinal Infection only.
+- 1 case of Peripheral Joint Infection Only]]></description>
+			<Point>
+				<coordinates>-74.663086,40.296287,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1205</styleUrl>
+			<name>New York Meningitis Outbreak</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Total of 1* case of which there are:
+
+- 1 case of Paraspinal/Spinal Infection only.]]></description>
+			<Point>
+				<coordinates>-73.399658,40.638967,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1205</styleUrl>
+			<name>North Carolina Meningitis Outbreak</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Total of 18* cases of which there are:
+
+- 1 Meningitis cases
+- 3 cases of Meningitis+Paraspinal/Spinal Infection
+- 14 cases of Paraspinal/Spinal Infection Only
+- 1 Death,]]></description>
+			<Point>
+				<coordinates>-79.365234,35.424868,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1205</styleUrl>
+			<name>Ohio Meningitis Outbreak</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Total of 20* cases of which there are:
+
+- 12 Meningitis cases
+- 3 cases of Meningitis+Paraspinal/Spinal Infection
+- 5 cases of Paraspinal/Spinal Infection only.
+- 1 Death]]></description>
+			<Point>
+				<coordinates>-81.386719,40.680638,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1205</styleUrl>
+			<name>Pennsylvania Meningitis Outbreak</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Total of 1* case of which there are:
+
+- 1 Meningitis case]]></description>
+			<Point>
+				<coordinates>-77.34375,40.513799,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1205</styleUrl>
+			<name>Rhode Island Meningitis Outbreak</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Total of 3* cases of which there are:
+
+- 1 Meningitis case
+- 1 case of Meningitis+Paraspinal/Spinal Infection
+- 1 case of Paraspinal/Spinal Infection only.]]></description>
+			<Point>
+				<coordinates>-71.696777,41.71393,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1205</styleUrl>
+			<name>South Carolina Meningtis Outbreak</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Total of 3* cases of which there are:
+
+- 2 Meningitis case
+- 1 case of Paraspinal/Spinal Infection only]]></description>
+			<Point>
+				<coordinates>-81.210937,33.174342,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1205</styleUrl>
+			<name>Tennessee Meningitis Outbreak</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Total of 153* cases of which there are:
+- 22 Meningitis cases
+- 57 cases of Meningitis+Paraspinal/Spinal Infection
+- 3 cases of Stroke without Lumbar Puncture only.
+- 69 cases of Paraspinal/Spinal Infection only.
+- 2 cases of Peripheral Joint Infection only.
+- 16 Deaths,]]></description>
+			<Point>
+				<coordinates>-86.19873,35.424868,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1205</styleUrl>
+			<name>Texas Meningitis Outbreak</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Total of 2* cases of which there are:
+
+- 2 Meningitis cases]]></description>
+			<Point>
+				<coordinates>-99.404297,32.62087,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1205</styleUrl>
+			<name>Virginia Meningitis Outbreak</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Total of 54* cases of which there are:
+
+- 41 Meningitis cases
+- 9 cases of Meningitis/Paraspinal/Spinal Infection
+- 4 cases of Paraspinal/Spinal Infection only.
+- 5 Deaths,]]></description>
+			<Point>
+				<coordinates>-78.486328,36.985003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1205</styleUrl>
+			<name>West Virginia Outbreak</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Total of 7* cases of which there are:
+
+- 2 case of Meningitis/Paraspinal/Spinal Infection
+- 5 cases of Paraspinal/Spinal Infection only.]]></description>
+			<Point>
+				<coordinates>-80.375977,38.61687,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Ambulatory Care Center LLC</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-87.57427,38.013517,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Allegheny Pain Management PC</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-78.400892,40.511947,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>APAC Center for Pain Management</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-87.644957,41.933066,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>APAC Center for Pain Managment</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-87.902117,41.843242000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Baltimore Pain Management Center, PA</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-76.473592,39.347867,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>BCK Pain Specialists LLC</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-83.124178,40.570205,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Berlin Interventional Pain Management</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-75.20637000000002,38.337463,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Box Hill Surgery Center</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-76.298594,39.470774,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Butani, Sunil H. Physician, PC</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-73.689809,40.756035,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Central Jersey Orthopaedic PA</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-74.400374,40.596201,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Cincinnati Pain Management</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-84.338404,39.264417,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Comprehensive Pain Management</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-74.632222,41.038333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Cypress Surgery Center</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-119.34852200000002,36.321728,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Dallas Back Pain Management</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-96.759774,32.883961,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Dr. O'Connell's PainCare Center</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-70.898197,43.253064,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Dr. O'Connell's PainCare Center</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-71.492263,42.838885,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Edison Surgical Center</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-74.332008,40.546306,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Encino Outpatient Surgery Center</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-118.48849,34.157521,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Florida Pain Clinic</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-82.175272,29.152574,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Forsyth Street Ambulatory Surgery</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-83.645577,32.838756,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Fort Wayne Physical Medicine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-85.260537,41.0327,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Green Spring Surgery Center</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-76.667613,39.421109,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hartford County ASC, LLC</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-76.297989,39.421342,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>High Point Surgery</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-80.015134,35.961318,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>If Pain Associates LLC</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-74.015972,40.897599,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Insight Imaging - Roanoke</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-79.961803,37.245296,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Intervene MD</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-79.850826,32.810388,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Interventional Rehabilitation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-87.211046,30.481332,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Interventional Spine &amp; Sports</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-73.092202,41.553428,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Maps Medical Pain Clinic</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-93.32975600000002,44.868621,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Marion Pain Clinic</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-83.122984,40.567705,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Marion Pain Management Center</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-82.114865,29.161685000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Medical Advanced Pain Specialists</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-93.479259,45.128149,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Medical Advanced Pain Specialists</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-93.50149800000001,44.770166,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Medical Advanced Pain Specialists</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-93.260193,45.107939,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Michigan Neurosurgical Institute</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-83.636105,42.892592,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Michigan Pain Specialist</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-83.805915,42.56829,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Minnesota Surgery Center</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-93.264592,45.118269,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>MInnesota Surgery Center</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-93.350143,44.88981,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Neuromuscular &amp; Rehabilitation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-85.654431,44.76179,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>New England Anesthesiologists</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-71.446301,41.720108,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>New River Valley Surgery Center</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-80.505474,37.090702,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>North Carolina Orthopaedic</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-78.983839,35.950926,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>North County Surgicenter</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-80.096408,26.830143,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Ocean State Pain Management</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-71.49759,41.6596,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Obosa Medical Services</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-73.840295,40.911067,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Ocean State Pain Management</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-71.258695,42.102959,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Orlando Center for Outpatient Surgery (OCOS)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-81.376266,28.525403,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Ortho-Spine Rehabilitation Center</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-83.090913,40.113116,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Osmc Outpatient Surgery Center</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-86.009517,41.696805,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pain Consultants-West Florida</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-87.224772,30.470306,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pain Management Specialists</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-76.632717,39.413471,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pain Specialists of Idaho</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-111.986287,43.470364,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>PARS Pain Clinic</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-81.557621,39.273589,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>PCA Pain Care</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-84.247019,36.022297,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Premier Surgical Associates: </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-75.025964,39.486377,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Rochester Brain And Spine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-77.629587,43.068279000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Sahara Surgery Center</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-115.17684000000001,36.145742,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>South Bend Clinic</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-86.235579,41.678162,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>South Hills Rehabilitation Assoc. Inc</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-79.934939,40.317948,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>South Jersey Healthcare Elmer Hospital</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-75.179454,39.588328,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>South Jersey Healthcare: Mehta Hemangini MD</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-75.012273,39.480424,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Southeast Michigan Surgical Hospital</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-83.081551,42.451588,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Specialty Surgery Center</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-85.028088,35.943528,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>St. Thomas Outpatient Neurosurgical</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-86.803497,36.15524,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Surgery Center of Bel Air</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-76.35116,39.533865,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Surgery Center of Ocala</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-82.17550600000001,29.152450000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Surgery Center of Wilson</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-77.945304,35.722245,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Surgical Park Center</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-80.335977,25.685098,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Texas Health - Harris Methodist Hospital Southlake</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-97.128198,32.940043,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Thorek Memorial Hospital</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-87.651584,41.95462700000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Ukiah Valley Medical Center</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-123.202082,39.151407,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Union Hospital</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-87.358233,39.473092,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Universal Pain Management</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-118.14638400000001,34.592107,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Walter Knox Memorial Hospital</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-116.48498900000001,43.880082,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Wellspring</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[A Healthcare Facility That Received Lots of Tainted Methylprednisolone Acetate (PF) Recalled from New England Compounding Center on September 26, 2012]]></description>
+			<Point>
+				<coordinates>-85.91563,39.252681,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps on History</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[ry one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>-75.410156,28.998532,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1037</styleUrl>
+			<name>Other disease related maps</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- The Spread of Ebola Outbreaks (http://myreadingmapped.blogspot.com/2012/01/the-spread-of-ebola-outbreaks-1976-2012.html)
+
+- The Worldwide Outbreak of SARS (http://myreadingmapped.blogspot.com/2012/01/the-worldwide-outbreak-of-sars-2002-2003.html)
+
+- Middle East Respiratory Syndrome (MERS) Outbreaks (http://myreadingmapped.blogspot.com/2013/06/middle-east-respiratory-syndrome-mers.html)
+
+- Mad Cow Disease (https://maps.google.com/maps/ms?msid=202977755949863934429.0004decb447f442ed3edb&msa=0&ll=26.115986,-39.375&spn=133.320024,237.304688) ]]></description>
+			<Point>
+				<coordinates>-83.408203,22.431340000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>View this map in Google Earth.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Non-networked Google Earth KML file: (https://docs.google.com/file/d/0B52hHMRyBvEsSG9tX2duUTRjM0E/edit)]]></description>
+			<Point>
+				<coordinates>-82.0898437,19.3940679,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1037'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1037-biz-house.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1195'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1195-fac-flag.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1199'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1199-fac-help.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1201'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1201-fac-info-alt.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1205'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1205-fac-medical.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1485'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1485-weather-sunny.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-971'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/971-biz-bank-dollar.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

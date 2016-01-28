@@ -1,0 +1,61 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CHERNOBYL-1 (CLOSED)",
+                "desc": "<img style=\"max-width:100%;display:block;clear:both;\" src=\"http:\/\/climateviewer.org\/img\/gallery\/np\/chernobyl-2.jpg\"\/><br><h3>PRIPYAT, UKRAINE<\/h3><p>Total power output (operational reactors and reactors under construction): 800 MW<br>Details of reactor unit: CHERNOBYL-1<br>Reactor type: Light Water Graphite Reactor<br>Current status: Decommissioned<br>Constructed: 01 Mar, 1970<br>Connected to the electricity grid on: 26 Sep, 1977<br>Permanent Shutdown Date: 30 Nov, 1996<br> <br>NOTE: <a href=\"http:\/\/en.wikipedia.org\/wiki\/Chernobyl_disaster\">Reactor 4 meltdown<\/a> occurred 26 April 1986 <br> <br>Source of reactor data:  IAEA Power Reactor Information System (<a href=\"http:\/\/www.iaea.org\/pris\/\" target=\"_blank\">PRIS<\/a>)<br>Get further information on this plant from its <a href=\"http:\/\/en.wikipedia.org\/wiki\/Chernobyl_Nuclear_Power_Plant\" target=\"_blank\">Wikipedia page<\/a>.<\/p><h3>Fallout Information<\/h3><p>The Exclusion Zone covers an area of approximately 2,600 km2 in Ukraine immediately surrounding the Chernobyl nuclear power plant where radioactive contamination from fallout is highest and public access and inhabitation are restricted.<\/p><ul><li><a href=\"http:\/\/en.wikipedia.org\/wiki\/Chernobyl_disaster\">Chernobyl disaster<\/a><\/li><li><a href=\"http:\/\/en.wikipedia.org\/wiki\/Chernobyl_Nuclear_Power_Plant\">Chernobyl Nuclear Power Plant<\/a><\/li><li><a href=\"http:\/\/en.wikipedia.org\/wiki\/Chernobyl_Exclusion_Zone\">Chernobyl Nuclear Power Plant Zone of Alienation<\/a><\/li><li><a href=\"http:\/\/www.dazv.gov.ua\/en\/\">State Agency of Ukraine of the exclusion zone<\/a><\/li><li><a href=\"https:\/\/chernobyl-tour.com\">Chernobyl-TOUR<\/li><\/ul><h3><a href=\"http:\/\/climateviewer.com\/nuclear-reactor-map\/\">Nuclear Power Plants on ClimateViewer.com<\/a><\/h3><a href=\"http:\/\/en.wikipedia.org\/wiki\/File:Chernobyl_radiation_map_1996.svg\"><img style=\"max-width:100%;display:block;\" src=\"http:\/\/climateviewer.org\/img\/gallery\/np\/chernobyl-exclusion-zone.png\"><\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.106827035,
+                    51.3887768057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CHERNOBYL-2 (CLOSED)",
+                "desc": "<img style=\"max-width:100%;display:block;clear:both;\" src=\"http:\/\/climateviewer.org\/img\/gallery\/np\/chernobyl-2.jpg\"\/><br><h3>PRIPYAT, UKRAINE<\/h3><p>Total power output (operational reactors and reactors under construction): 1000 MW<br>Details of reactor unit: CHERNOBYL-2<br>Reactor type: Light Water Graphite Reactor<br>Current status: Decommissioned<br>Constructed: 01 Feb, 1973<br>Connected to the electricity grid on: 21 Dec, 1978<br>Permanent Shutdown Date: 11 Oct, 1991<br> <br>NOTE: <a href=\"http:\/\/en.wikipedia.org\/wiki\/Chernobyl_disaster\">Reactor 4 meltdown<\/a> occurred 26 April 1986 <br> <br>Source of reactor data:  IAEA Power Reactor Information System (<a href=\"http:\/\/www.iaea.org\/pris\/\" target=\"_blank\">PRIS<\/a>)<br>Get further information on this plant from its <a href=\"http:\/\/en.wikipedia.org\/wiki\/Chernobyl_Nuclear_Power_Plant\" target=\"_blank\">Wikipedia page<\/a>.<\/p><h3>Fallout Information<\/h3><p>The Exclusion Zone covers an area of approximately 2,600 km2 in Ukraine immediately surrounding the Chernobyl nuclear power plant where radioactive contamination from fallout is highest and public access and inhabitation are restricted.<\/p><ul><li><a href=\"http:\/\/en.wikipedia.org\/wiki\/Chernobyl_disaster\">Chernobyl disaster<\/a><\/li><li><a href=\"http:\/\/en.wikipedia.org\/wiki\/Chernobyl_Nuclear_Power_Plant\">Chernobyl Nuclear Power Plant<\/a><\/li><li><a href=\"http:\/\/en.wikipedia.org\/wiki\/Chernobyl_Exclusion_Zone\">Chernobyl Nuclear Power Plant Zone of Alienation<\/a><\/li><li><a href=\"http:\/\/www.dazv.gov.ua\/en\/\">State Agency of Ukraine of the exclusion zone<\/a><\/li><li><a href=\"https:\/\/chernobyl-tour.com\">Chernobyl-TOUR<\/li><\/ul><h3><a href=\"http:\/\/climateviewer.com\/nuclear-reactor-map\/\">Nuclear Power Plants on ClimateViewer.com<\/a><\/h3><a href=\"http:\/\/en.wikipedia.org\/wiki\/File:Chernobyl_radiation_map_1996.svg\"><img style=\"max-width:100%;display:block;\" src=\"http:\/\/climateviewer.org\/img\/gallery\/np\/chernobyl-exclusion-zone.png\"><\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.1044152833,
+                    51.3888080836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CHERNOBYL-3 (CLOSED)",
+                "desc": "<img style=\"max-width:100%;display:block;clear:both;\" src=\"http:\/\/climateviewer.org\/img\/gallery\/np\/chernobyl-4.jpg\"\/><br><h3>PRIPYAT, UKRAINE<\/h3><p>Total power output (operational reactors and reactors under construction): 1000 MW<br>Details of reactor unit: CHERNOBYL-3<br>Reactor type: Light Water Graphite Reactor<br>Current status: Decommissioned<br>Constructed: 01 Mar, 1976<br>Connected to the electricity grid on: 03 Dec, 1981<br>Permanent Shutdown Date: 15 Dec, 2000<br> <br>NOTE: <a href=\"http:\/\/en.wikipedia.org\/wiki\/Chernobyl_disaster\">Reactor 4 meltdown<\/a> occurred 26 April 1986 <br> <br>Source of reactor data:  IAEA Power Reactor Information System (<a href=\"http:\/\/www.iaea.org\/pris\/\" target=\"_blank\">PRIS<\/a>)<br>Get further information on this plant from its <a href=\"http:\/\/en.wikipedia.org\/wiki\/Chernobyl_Nuclear_Power_Plant\" target=\"_blank\">Wikipedia page<\/a>.<\/p><h3>Fallout Information<\/h3><p>The Exclusion Zone covers an area of approximately 2,600 km2 in Ukraine immediately surrounding the Chernobyl nuclear power plant where radioactive contamination from fallout is highest and public access and inhabitation are restricted.<\/p><ul><li><a href=\"http:\/\/en.wikipedia.org\/wiki\/Chernobyl_disaster\">Chernobyl disaster<\/a><\/li><li><a href=\"http:\/\/en.wikipedia.org\/wiki\/Chernobyl_Nuclear_Power_Plant\">Chernobyl Nuclear Power Plant<\/a><\/li><li><a href=\"http:\/\/en.wikipedia.org\/wiki\/Chernobyl_Exclusion_Zone\">Chernobyl Nuclear Power Plant Zone of Alienation<\/a><\/li><li><a href=\"http:\/\/www.dazv.gov.ua\/en\/\">State Agency of Ukraine of the exclusion zone<\/a><\/li><li><a href=\"https:\/\/chernobyl-tour.com\">Chernobyl-TOUR<\/li><\/ul><h3><a href=\"http:\/\/climateviewer.com\/nuclear-reactor-map\/\">Nuclear Power Plants on ClimateViewer.com<\/a><\/h3><a href=\"http:\/\/en.wikipedia.org\/wiki\/File:Chernobyl_radiation_map_1996.svg\"><img style=\"max-width:100%;display:block;\" src=\"http:\/\/climateviewer.org\/img\/gallery\/np\/chernobyl-exclusion-zone.png\"><\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.1003990774,
+                    51.388796798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CHERNOBYL-4 (CLOSED)",
+                "desc": "<img style=\"max-width:100%;display:block;clear:both;\" src=\"http:\/\/climateviewer.org\/img\/gallery\/np\/chernobyl.jpg\"\/><br><h3>PRIPYAT, UKRAINE<\/h3><p>Total power output (operational reactors and reactors under construction): 925 MW<br>Details of reactor unit: CHERNOBYL-4<br>Reactor type: Light Water Graphite Reactor<br>Current status: Decommissioned<br>Constructed: 01 Apr, 1979<br>Connected to the electricity grid on: 22 Dec, 1983<br>Permanent Shutdown Date: 26 Apr, 1986<br> <br>NOTE: <a href=\"http:\/\/en.wikipedia.org\/wiki\/Chernobyl_disaster\">Reactor 4 meltdown<\/a> occurred 26 April 1986 <br> <br>Source of reactor data:  IAEA Power Reactor Information System (<a href=\"http:\/\/www.iaea.org\/pris\/\" target=\"_blank\">PRIS<\/a>)<br>Get further information on this plant from its <a href=\"http:\/\/en.wikipedia.org\/wiki\/Chernobyl_Nuclear_Power_Plant\" target=\"_blank\">Wikipedia page<\/a>.<\/p><h3>Fallout Information<\/h3><p>The Exclusion Zone covers an area of approximately 2,600 km2 in Ukraine immediately surrounding the Chernobyl nuclear power plant where radioactive contamination from fallout is highest and public access and inhabitation are restricted.<\/p><ul><li><a href=\"http:\/\/en.wikipedia.org\/wiki\/Chernobyl_disaster\">Chernobyl disaster<\/a><\/li><li><a href=\"http:\/\/en.wikipedia.org\/wiki\/Chernobyl_Nuclear_Power_Plant\">Chernobyl Nuclear Power Plant<\/a><\/li><li><a href=\"http:\/\/en.wikipedia.org\/wiki\/Chernobyl_Exclusion_Zone\">Chernobyl Nuclear Power Plant Zone of Alienation<\/a><\/li><li><a href=\"http:\/\/www.dazv.gov.ua\/en\/\">State Agency of Ukraine of the exclusion zone<\/a><\/li><li><a href=\"https:\/\/chernobyl-tour.com\">Chernobyl-TOUR<\/li><\/ul><h3><a href=\"http:\/\/climateviewer.com\/nuclear-reactor-map\/\">Nuclear Power Plants on ClimateViewer.com<\/a><\/h3><a href=\"http:\/\/en.wikipedia.org\/wiki\/File:Chernobyl_radiation_map_1996.svg\"><img style=\"max-width:100%;display:block;\" src=\"http:\/\/climateviewer.org\/img\/gallery\/np\/chernobyl-exclusion-zone.png\"><\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0990718647,
+                    51.3887726805
+                ]
+            }
+        }
+    ]
+}

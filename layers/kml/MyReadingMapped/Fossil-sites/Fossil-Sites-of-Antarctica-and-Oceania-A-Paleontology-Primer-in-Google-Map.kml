@@ -1,0 +1,776 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Sources this map is based on</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- Wikipedia's List of Fossil Sites (http://en.wikipedia.org/wiki/List_of_fossil_sites)
+
+- austhrutime.com/minmi.htm (http://austhrutime.com/minmi.htm) 
+
+- uq.edu.au/dinosaurs/?page=14156 (http://www.uq.edu.au/dinosaurs/?page=14156)
+
+- nsf.gov (http://www.nsf.gov/news/news_summ.jsp?cntn_id=102864&org=olpa&from=news)]]></description>
+			<Point>
+				<coordinates>-153.28125,-19.311143,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Accuracy of fossil locations.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Because of the volume of  fossil sites worldwide is over one million, this map provides the general area of each paleontology formation. To get a list of paleontology projects within each formation, go to FossilWorks (http://fossilworks.org/) and enter the formation name in it's search engine.]]></description>
+			<Point>
+				<coordinates>-152.929687,-32.842674,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>Walk this map in Google Earth 3D</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[You can walk this map using this Non-networked Google Earth KML file. (https://docs.google.com/file/d/0B52hHMRyBvEsLVhFU1ItcHIxNHc/edit)]]></description>
+			<Point>
+				<coordinates>-152.226562,-46.316584,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Images associated with fossil sites.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Those fossil sites with images represent those creatures that once existed at the site. It is not a representation of the size of the fossil or the amount of remains discovered.]]></description>
+			<Point>
+				<coordinates>-125.859375,-20.303418,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Enchanted Learning's Dinosaur and Paleontology Dictionary</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Need to understand the terms in this map? Check out the Enchanted Learning's Dinosaur and Paleontology Dictionary. (http://www.enchantedlearning.com/subjects/dinosaurs/glossary/)]]></description>
+			<Point>
+				<coordinates>-125.15625000000001,-32.842674,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Other Fossil Site Maps</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- Africa (http://myreadingmapped.blogspot.com/2013/11/african-fossil-sites-paleontology.html)
+
+- Asia (http://myreadingmapped.blogspot.com/2013/11/fossil-sites-of-asia-paleontology.html)
+
+- Europe (http://myreadingmapped.blogspot.com/2013/11/fossil-sites-of-europe-paleontology.html)
+
+- North and South America (http://myreadingmapped.blogspot.com/2013/11/fossil-sites-of-north-south-america.html) ]]></description>
+			<Point>
+				<coordinates>-125.15625000000001,-47.279229,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps on History</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>-152.578125,-57.32652100000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Bluff Downs fossil site</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Bluff_Downs_fossil_site)
+
+The Bluff Downs fossils are about four million years old, dating from the Pliocene period. Geologically they come from the Allingham Formation which comprises a sequence ofterrigenous clays, silts, sands, calcareous sands and limestones.[2] In the Pliocene the site was a wetland environment containing a diverse fauna, including fish, reptiles, birds and mammals. Examples are the:[1]
+
+- Bluff Downs Giant Python (Liasis sp.), which grew up to 10 m in length
+-  Bluff Downs Giant Goanna (Megalania sp.)
+- Bluff Downs Bandicoot (Perameles allinghamensis)]]></description>
+			<Point>
+				<coordinates>145.55,-19.683333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Bullock Creek</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Bullock_Creek)
+
+The Bullock Creek Fossil Site is part of the Camfield Fossil Beds which outcrop in a narrow belt about 50km long. The Bullock Creek local fauna are approximately dated to the mid Miocene (about 12 million years ago). The Camfield Fossil Beds which contain the Bullock Creek local fauna consist of light coloured calcareous sandstone, siltstone and limestone. Ferruginous mottling is found at the base and chalcedonic silification at the top. The presentation of fossils at the site ranges from poorly-sorted fragmentary lags to associations with partial skeletons which includes complete crania (skulls) with intact delicate structures.]]></description>
+			<Point>
+				<coordinates>135.763528,-21.73365,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Meiolania platyceps</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Meiolania_platyceps.jpg/543px-Meiolania_platyceps.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / David Morgan-Mar]]></description>
+			<Point>
+				<coordinates>136.340332,-22.044913,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Bungil Formation - Minmi Member</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://austhrutime.com/minmi.htm
+
+Minmi parvavertebra, from this deposit, was an Ankylosaur, armoured dinosaur. It was small for an Ankylosaur at less than 4 m long. It was unusual for an ankylosaur in another way, its back was lightly armoured, but its belly was better armoured. It is assumed that as it lacked strong back armour it probably had few if any dangerous predators, possibly living on an island. It has been suggested that it may have been able to run fast enough to escape predators, in which case the lighter armour would have helped.]]></description>
+			<Point>
+				<coordinates>148.791962,-26.428154,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Ankylosauria Euoplocephalus-tutus</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/5/51/Euoplocephalus-tutus-1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Wilfried Berns]]></description>
+			<Point>
+				<coordinates>148.980103,-26.42139,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Canowindra</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Canowindra#Fossils)
+
+Canowindra is the site of one of the world's great fossil discoveries from the late Devonian epoch. A chance discovery by a road worker in 1956 uncovered a rich find of 360 million year old fish fossils, dating from the Devonian period in the Paleozoic era. The "Canowindra slab" was removed to the Australian Museum, Sydney. The fish had been buried when trapped in a pool of water that dried up, stranding two armoured antiarch placoderms, Remigolepis walkeri and Bothriolepis yeungae,[10] and Canowindra grossi, a lobe-finned crossopterygianfish, with two rare juvenile arthrodire placoderms, Groenlandaspis species.                                                                                
+No further fossils had been recovered until January 1993, when a trial dig on the site using an excavator rediscovered the fossil stratum, where the mass mortality of fishes was preserved in detail (see Lagerstätte). Specimens can be viewed in the specially established The Age of Fishes Museum, with scientific support and funding from the Australian Museum. The Canowindra site has now been listed as part of Australia's National Heritage because of its international scientific importance.[11][12][13]]]></description>
+			<Point>
+				<coordinates>148.666597,-33.566658,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Cuddie Springs (Co-habitation)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[austhrutime.com (http://austhrutime.com/cuddie_springs.htm)                        
+Wikipedia (http://en.wikipedia.org/wiki/Cuddie_Springs)
+
+The excavators of Cuddie Springs reject humans as the primary cause of megafauna extinctions. They conclude that the 10,000 years of co-habitation of humans and megafauna at Cuddie Springs suggests that climate changes that began before the humancolonisation of Australia were responsible for the megafauna extinctions. Wroe and Field (2006) cite the staggered extinctions that have been occurring since at least 130,000 years ago and the fact that megafauna in Tasmania do not occur after 46,000 years ago but people only arrived across a land bridge at 37,000 years ago. This staggered decline, mostly occurring in contexts independent of humans, is linked to environmental evidence for increasingly arid and erratic conditions since 400–300,000 years ago. The large body size of the megafauna suggests low fecundity and low population densities which have been argued to have made them especially susceptible to extinction due to habitat loss from increasing aridity (Wroe and Field 2006).]]></description>
+			<Point>
+				<coordinates>147.478056,-30.786943999999995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Denmark Hill Insect Bed</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Denmark_Hill_Insect_Bed)
+
+The site is noted as a source of well-preserved insect fossils.[1][4]]]></description>
+			<Point>
+				<coordinates>152.799933,-27.599708,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Dinosaur Cove</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Dinosaur_Cove)
+
+In the 1980s and 90s Dinosaur Cove yielded hypsilophodontid-like dinosaurs as Leaellynasaura amicagraphica and Atlascopcosaurus loadsi, and a Coelurosaur, as well as fragments of what may be a caenagnathid (relatives of the Oviraptors). One fossil from this diverse taxa, collectively called the "polar dinosaurs of Australia", has been interpreted as showing possible adaptations to vision in low light conditions and possibly were warm-blooded; this has been suggested as an explanation for how some of these dinosaurs foraged for food during the polar winter months. It is worth noting that although these dinosaurs lived at polar latitudes, the Cretaceous climate was significantly milder than today, so temperatures within the Antarctic and Arctic Circles were vastly different to the climate at these latitudes today, because the lopsided arrangements of the continents made sea currents and monsoon winds blow across the polar areas and not round and round them, and so stopped cold pools from developing around the poles.                                                                                  
+An astragalus bone of an ancient relative of Allosaurus was discovered at the site, making it the first discovery in the southern hemisphere. [4]]]></description>
+			<Point>
+				<coordinates>143.414722,-38.781667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Dinosaur Dreaming</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Dinosaur_Dreaming)
+
+Dinosaur Dreaming is a Palaeontological site situated near Inverloch, Victoria, Australia. Remains of primitive mammals from the Cretaceous Age were first uncovered there in 1997 by researchers from Museum Victoria and the Monash University Science Centre.
+
+The remains of early mammals, dinosaurs, and fossil bones of Cretaceous Age reptiles, birds, and fishes can be found at the Inverloch dig site. Australia’s first dinosaur bone, the Cape Paterson Claw, was discovered near Inverloch in 1903 by William Hamilton Ferguson. The fossils at Inverloch date to the mid Cretaceous.]]></description>
+			<Point>
+				<coordinates>145.686111,-38.656111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Ediacara Hills</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[austhrutime.com/ediacara_hills.htm (http://austhrutime.com/ediacara_hills.htm)                      
+Wikipedia (http://en.wikipedia.org/wiki/Ediacara_Hills)
+
+Ediacara Hills /iːdiːˈækərə/ are a range of low hills in the northern part of the Flinders Ranges of South Australia, around 650 kilometres (400 mi) north of Adelaide. The area has many old copper and silver mines from mining activity during the late 19th century. The hills also contain fossils of early multicellular life forms, the Ediacaran biota (lagerstätte), and have given their name to the Ediacaran geological period.[1][2]]]></description>
+			<Point>
+				<coordinates>138.756133,-29.797528,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Emu Bay Shale</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Emu_Bay_Shale)
+ 
+The Emu Bay Shale is a geological formation in Emu Bay, South Australia, containing a major Konservat-Lagerstätten (fossil beds with soft tissue preservation). It is one of two in the world containing Redlichiidan trilobites. The Australian's Emu Bay Shale correlated with upperBotomian Stage of the Lower Cambrian.[2]]]></description>
+			<Point>
+				<coordinates>137.5,-35.583333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Flinders Highway</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[austhrutime.com/flinders_highway.htm (http://austhrutime.com/flinders_highway.htm)
+
+At the time the fossil deposits were being laid down about 110 million years ago the area between Julia Creek and Hughenden was covered by the Eromanga Sea. Among the animals were large oysters, Inoceramus, squid are known to have been present by the cuttlefish bones found that are more than 1 m long, many large fish. The ichthyosaurs (Platypterygius) were among the last survivors of this group. Other marine reptiles were plesiosaurs (Woolungasaurus) and Kronosaurus, giant marine turtles (Cratochelone) as well as the much smaller Notochelone. There were also primitive birds and pterosaurs.]]></description>
+			<Point>
+				<coordinates>143.474579,-20.799769,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Fremouw Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+
+The first tetrapod or land-living vertebrate from Antarctica was found in the Fremouw Formation and described in 1968. It was represented by a small bone fragment that is probably part of the left mandible of a temnospondyl amphibian.[2] The bone was found the previous year by a researcher from Ohio State University who was studying the geology of the Transantarctic Mountains.[4] The animal was later named Austrobrachyops jenseni. After its discovery, paleontological expeditions were launched to the area around the Beardmore Glacier to uncover more fossils. Since then, fragmentary remains of temnospondyls, therapsids, and archosauriform reptiles have all been found in the formation.[5] These fossils are found around the Shackleton and Beardmore glaciers in places such as Gordon Valley and Fremouw Peak.]]></description>
+			<Point>
+				<coordinates>-176.176758,-84.593367,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Grenfell fossil site</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Grenfell_fossil_site)
+
+The Grenfell site is important as the youngest locality for Devonian fossils in New South Wales, containing a diverse range of placoderm, acanthodian and sarcopterygian fishes. The fossils are found in the Hunter Siltstone formation, of which there are extensive outcrops in the hills around Grenfell. The fish are mainly disarticulated but not extensively damaged, indicating transport after death by running water for a short distance.[1]]]></description>
+			<Point>
+				<coordinates>148.15,-33.9,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Sarcopterygii Coelacanth-bgiu</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/ce/Coelacanth-bgiu.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Coelacanth.png (http://commons.wikimedia.org/wiki/File:Coelacanth.png)]]></description>
+			<Point>
+				<coordinates>148.293457,-33.988918,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Gogo Reef Formation - Fossil Downs Station</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[austhrutime.com/gogo_formation.htm (http://austhrutime.com/gogo_formation.htm)
+
+The Upper Devonian reef formation is in the Geikie Gorge National Park, 100 km southwest of Fitzroy Crossing, in the Kimberley region of north-western Western Australia, dates to 380 million years ago. There are about 45 species of fish preserved at this site. It is the only Devoniansite in the world where complete fish have been preserved in perfect, uncrushed, condition, at least in some specimens.]]></description>
+			<Point>
+				<coordinates>125.77766400000002,-18.141284,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Arthrodira Dunkleosteus terrelli</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/9/95/Dunkleosteus_BW.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Nobu Tamura (http://spinops.blogspot.com (http://spinops.blogspot.com/))]]></description>
+			<Point>
+				<coordinates>126.16699200000001,-18.29195,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hanson Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Falla_Formation)
+
+The first dinosaur to be discovered from the Hanson Formation was the predator Cryolophosaurus in 1991, which was then formally described in 1994. Alongside these dinosaur remains were fossilized trees, suggesting that plant matter had once grown on Antarctica's surface before it drifted southward. Other finds from the formation include tritylodonts, hebivorous mammal-like reptiles and crow-sized pterosaurs. Surprisingly were the discovery of prosauropod remains, which were found commonly on other continents only until the Early Jurassic. However, the bone fragments found at the Hanson Formation were dated until the Middle Jurassic, millions of years later. In 2004, paleontologists discovered partial remains of a largesauropod dinosaur that has not formally been described yet.]]></description>
+			<Point>
+				<coordinates>171.0,-83.75,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Cryolophosaurus</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/55/CryolophosaurusDB.jpg/456px-CryolophosaurusDB.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>174.287109,-83.839385,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Kununka </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lake_Ngapakaldi_to_Lake_Palankarinna_Fossil_Area)
+
+The reserve comprises four dry salt lakes surrounded by extensive areas of sand dunes in a flat, arid landscape. The lake beds are largely unvegetated and usually dry. Low cliffs on the western margins of the lakes have produced a variety of Tertiary vertebrate fossils ranging in age from the late Oligocene to the Pleistocene.[1]]]></description>
+			<Point>
+				<coordinates>138.3,-28.383333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>La Meseta Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/La_Meseta_Formation)
+
+La Meseta Formation is extremely rich in fossils. It is famous for its penguin fossils, for example the two genera Archaeospheniscus and Palaeeudyptes. Other bird fossils include Dasornis, a genus of pseudotooth birds. There are also an abundance of trace fossils. Diplocraterion, Helminthopsis, Muensteria, Oichnus, Ophiomorpha, Skolithos, Teredolites andZapfella have been described.[4] Over 35 species and 26 families of fish have been described from the Ypresian Cucullaea bed.[3]
+
+List of bird fossils:
+
+- Archaeospheniscus wimani
+- Archaeospheniscus lopdelli
+- Palaeeudyptes antarcticus
+- Palaeeudyptes gunnari
+- Palaeeudyptes klekowskii]]></description>
+			<Point>
+				<coordinates>-56.603247,-64.239384,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Callabonna</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[austhrutime.com/lake_callabonna.htm (http://austhrutime.com/lake_callabonna.htm)  
+
+Wikipedia (http://en.wikipedia.org/wiki/Lake_Callabonna)
+
+Lake Callabonna is a dry salt lake with little to no vegetation in northeastern South Australia, approximately 120 kilometers (75 mi) southwest of the junction of South Australia, Queensland and New South Wales at Cameron Corner. It is an important site for late Pleistocene fossils. It forms part of the Strzelecki Desert Lakes Important Bird Area, identified as such by BirdLife International because of its importance forwaterbirds when holding water in the aftermath of floods. [1]]]></description>
+			<Point>
+				<coordinates>140.05,-29.683333000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Dromornis stirtoni </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Dromornis_stirtoni_01.jpg/460px-Dromornis_stirtoni_01.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Kevmin (http://commons.wikimedia.org/wiki/User:Kevmin)]]></description>
+			<Point>
+				<coordinates>140.394287,-29.735761999999998,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Mungo</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lake_Mungo)
+
+Lake Mungo is a dry lake located in south-eastern Australia,in the south-western portion of New South Wales. It is about 760 km due west of Sydney[1] and 90 km north-east of Mildura. The lake is the central feature of Mungo National Park, and is one of seventeen lakes in the World Heritage listed Willandra Lakes Region. Many important archaeological findings have been made at the lake, most significantly the discovery of the remains of Mungo Man, the oldest human remains found in Australia,[2] Mungo Lady, the oldest human remains in the world to be ritually cremated and as the location of the Lake Mungo geomagnetic excursion, the first convincing evidence that Geomagnetic excursions are a geomagnetic phenomenon rather thansedimentological.[3]]]></description>
+			<Point>
+				<coordinates>143.083333,-33.75,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F9F7A6</styleUrl>
+			<name>Lake Ngapakaldi </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lake_Ngapakaldi_to_Lake_Palankarinna_Fossil_Area)
+
+The reserve comprises four dry salt lakes surrounded by extensive areas of sand dunes in a flat, arid landscape. The lake beds are largely unvegetated and usually dry. Low cliffs on the western margins of the lakes have produced a variety of Tertiary vertebrate fossils ranging in age from the late Oligocene to the Pleistocene.[1]]]></description>
+			<Point>
+				<coordinates>138.270493,-28.290475,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Palankarinna</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lake_Ngapakaldi_to_Lake_Palankarinna_Fossil_Area)
+
+The reserve comprises four dry salt lakes surrounded by extensive areas of sand dunes in a flat, arid landscape. The lake beds are largely unvegetated and usually dry. Low cliffs on the western margins of the lakes have produced a variety of Tertiary vertebrate fossils ranging in age from the late Oligocene to the Pleistocene.[1]]]></description>
+			<Point>
+				<coordinates>138.4,-28.766666999999998,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lake Pitikanta </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lake_Ngapakaldi_to_Lake_Palankarinna_Fossil_Area)
+
+The reserve comprises four dry salt lakes surrounded by extensive areas of sand dunes in a flat, arid landscape. The lake beds are largely unvegetated and usually dry. Low cliffs on the western margins of the lakes have produced a variety of Tertiary vertebrate fossils ranging in age from the late Oligocene to the Pleistocene.[1]]]></description>
+			<Point>
+				<coordinates>138.294353,-28.351827,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lancefield Swamp</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lancefield_Swamp)
+
+The site consists of a bone bed lying directly atop a layer of fluvial gravel between layers of clay.[1] The layer of bones is estimated to contain the remains of perhaps 10,000 individual Pleistocene animals.[1] A total of at least 6 Megafauna species are represented, although the majority of bones are from Macropus giganteus or Macropus titan.                                                                                            
+Human artifacts were found in the bone bed and in the overlying clay. However, evidence of reworking by water flow has been noted.[1] Thus it appears possible such artifacts are intrusions.]]></description>
+			<Point>
+				<coordinates>144.723617,-37.283833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lightning Ridge</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lightning_Ridge,_New_South_Wales#Fossils)
+
+Lightning Ridge is an important paleontological site, with fossils dating back to the Cretaceous period, 110 million years ago. The sandstone rock once formed the bottom of a shallow inland sea where the remains of aquatic plants and animals were preserved. The site is especially important as a source of fossils of ancient mammals which, at that time, were small creatures living in a world dominated by dinosaurs. The fossils are sometimes opalised and discovered by opal miners. Important discoveries at Lightning Ridge include the ancestralmonotremes Kollikodon ritchiei and Steropodon galmani.[6]]]></description>
+			<Point>
+				<coordinates>147.967451,-29.434094,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lopez de Bertodano Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/L%C3%B3pez_de_Bertodano_Formation)
+
+ The Lopez de Bertodano Formation is a geological formation in the James Ross archipelago of the Antarctic Peninsula. The strata date to the end of the Late Cretaceous (upper-lower Maastrichtian stage[1]), about 70-66 million years ago. Dinosaur remains are among the fossils that have been recovered from the formation[2] and include at least two and probably as much as six lineages of undisputably modern birds: one related to waterfowl, a primitive shorebird or related form, 1-2 species of possibleloons, a large and possibly flightless bird belonging to a lineage extinct today as well as a partial skull that might belong to either of the smaller species or represent yet another one.]]></description>
+			<Point>
+				<coordinates>-56.857338,-64.316706,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Murgon fossil site</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[austhrutime.com/murgon_fossil_site.htm (http://austhrutime.com/murgon_fossil_site.htm)                 
+Wikipedia (http://en.wikipedia.org/wiki/Murgon_fossil_site)
+
+The fossil fauna reported from Murgon is referred to as the Tingamarra fauna. The most common fossil at the site are of crocodiles and giant trionychidae turtles which have become extinct in Australia.[3] Fossils from Murgon include the world's oldest songbirds, the oldest Australian marsupials, the only known fossils of leiopelmatid frogs, and the only Australian fossil salamanders. Evidence of the Gondwanan connection comes with the appearance of a madstoiid snake in the genus Alamitophis, also found in Argentina, and of microbiotheriid marsupials, otherwise only known from South America. The earliest Australian frog fossil was found there.[4]
+Other notable examples of the Tingamarra fauna from Murgon are:[1]
+
+-Thylacotinga bartholomaii – a strange marsupial omnivore
+-Tingamarra porterorum – a condylarth and Australia's oldest placental land mammal
+- Australonycteris clarkae – Australia’s earliest known bat species. This is one of the oldest bat fossils, estimated to be 55 million years old, of a primitive Microbat ever to be found.[5]The early bat discovery indicates the bats distribution was widespread shortly after its appearance in the fossil record.]]></description>
+			<Point>
+				<coordinates>151.95,-26.233333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Naracoorte Caves National Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[austhrutime.com/naracoort_fossil_site.htm (http://austhrutime.com/naracoort_fossil_site.htm)                                                                                      
+Wikipedia (http://en.wikipedia.org/wiki/Naracoorte_Caves)
+
+The caves, such as the Victoria Fossil Cave and Blanche Cave, are often not far below ground, and holes open up creating traps for the unwary. This is the source of the remarkable collection of fossils. Mammals and other land creatures have fallen into open caves and been unable to escape. The fossil record has been preserved in strata formed from eroded topsoil washed and blown in. In some places, the fossil-bearing silt is up to 20 metres thick. Some of these areas are being preserved for future research when better methods of dating and reconstructing fossil records may have been found. These fossil traps are especially significant for tracing Australian megafauna.]]></description>
+			<Point>
+				<coordinates>140.79649,-37.035918,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Nordenskjöld Outcrops</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Nordenskj%C3%B6ld_Outcrops)
+
+Fossils of the Jurassic cephalopod Trachyteuthis were discovered in this area in 1987-1988.[1]]]></description>
+			<Point>
+				<coordinates>-58.966666999999994,-64.45,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Eichstätt Trachyteuthis hastiformis</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Eichst%C3%A4tt_Trachyteuthis_hastiformis.jpg/800px-Eichst%C3%A4tt_Trachyteuthis_hastiformis.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Public Domain / FerdiBf (http://de.wikipedia.org/wiki/User:FerdiBf)]]></description>
+			<Point>
+				<coordinates>-58.29345699999999,-64.614459,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pindai Caves</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pindai_Caves)
+
+Two of the caves have easy walk-in access; they contain the richest cultural material and the fewest fossils. The other four caves are sinkholes capable of trapping animals, especially ground-dwelling and flightless birds, and contain the most fossils. All the caves broaden from their entrances into large underground chambers.[1][2]
+
+Numerous subfossils of extinct fauna have been found in the caves, including the endemic terrestrial crocodile Mekosuchus, the giant horned turtle Meiolania, and numerous bird taxa, with remains of the giant flightless Sylviornis being especially common.[1]]]></description>
+			<Point>
+				<coordinates>164.966667,-21.35,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Riversleigh</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[austhrutime.com/riversleigh_fossil_site.htm (http://austhrutime.com/riversleigh_fossil_site.htm)                                                                                        
+Wikipedia (http://en.wikipedia.org/wiki/Riversleigh)
+
+The fossil collection reveals mammalian evolution across a time span of more than 20 million years.[3] There are more than 200 individual locations where fossils have been found.[4] The fossil record here is significant because it provides evidence on evolution and the distribution of species across Gondwana. 
+
+Thirty-five fossil bat species have been identified at the site, which is the richest in the world.[3] Cave deposits have been particularly rich in bat species.[4]                                                                              
+The skull and nearly complete dentition of a fifteen million-year-old monotreme, Obdurodon dicksoni, provide a window into the evolution of this characteristically Australian group. Fossil ancestors of the recently extinct thylacine, Thylacinus cynocephalus, have also been identified among Riversleigh's fauna. In 1993, Nimbadon skulls were unearthed in a previously unknown cave in the region.[6] Researchers estimate that the prehistoricmarsupial first appeared about 15 million years ago and died out about 12 million years ago, perhaps from climate change induced losses in habitat.[7]
+Other fossils have provided evidence of how the koala has evolved in response to Australia's change from predominant rainforest vegetation to driereucalypt forests.[8] Some fossil insects and plants have also been discovered.[4]]]></description>
+			<Point>
+				<coordinates>138.717,-19.083,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Obdurodon dicksoni</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Obdurodon_dicksoni.JPG/800px-Obdurodon_dicksoni.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>138.894653,-19.150357,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Santa Marta Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Santa_Marta_Formation)
+
+The Santa Marta Formation is a geologic formation in Antarctica. It, along with the Hanson Formation and the Snow Hill Island Formation, are the only formations yet known on the continent where dinosaur fossils have been found. The formation outcrops on James Ross Island off the coast of the northern tip of the Antarctic Peninsula. In its entirety, the Santa Marta Formation is on average one kilometer thick.
+
+A wide variety of microorganisms inhabited the coastal waters at the time of the deposition of the Santa Marta Formation. Microfossils include ostracods[5] anddinoflagellates.[4]]]></description>
+			<Point>
+				<coordinates>-57.926102,-63.866993,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Seymour Island</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Seymour_Island)
+
+Seymour Island has been a site of study of many fossils from this particular part of the Eocene period, during which there was a more flourishing ecosystem with diverse biota as a result of the warmer climate. A diverse array of fossilized species have been studied on the Island, including extinct penguin species (such as Palaeeudyptes klekowskii and Archaeospheniscus wimani), various species in the bivalvia class and various types of flora and fauna.[4]
+ 
+A fossil marsupial of the extinct family Polydolopidae was found on Seymour Island in 1982.[5] This was the first evidence of land mammals having lived in Antarctica. Further fossils have subsequently been found, including members of the marsupial orders Didelphimorphia (opossum) and Microbiotheria,[6] as well as ungulates and a member of the enigmatic extinct order Gondwanatheria, possibly Sudamerica ameghinoi.[7][8][9]]]></description>
+			<Point>
+				<coordinates>-56.61666700000001,-64.233333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Snow Hill Island Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Snow_Hill_Island_Formation)
+
+The Snow Hill Island Formation is a Late Cretaceous geologic formation found on James Ross Island, Antarctica.Dromaeosaur[2] remains have been recovered from it, as well as the ornithopod Trinisaura.]]></description>
+			<Point>
+				<coordinates>-57.87117,-63.903564,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Sobral Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Sobral_Formation)
+
+The Sobral Formation is a palaeontological formation located in Antarctica. It dates to the Danian stage of the Lower Paleocene period.
+
+Spectacular fossils documenting the wildlife soon after the (non-avian) dinosaurs became extinct are found in this formation. One of the most significant sites is on Seymour Island.]]></description>
+			<Point>
+				<coordinates>-56.735802,-64.306288,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Talbragar fossil site</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[austhrutime.com/talbragar_fish_beds.htm (http://austhrutime.com/talbragar_fish_beds.htm)
+
+Wikipedia (http://en.wikipedia.org/wiki/Talbragar_fossil_site)
+
+The fossil-bearing rocks are fine-grained siltstones and mudstones that are part of the Purlawaugh formation. They occur mainly as loose blocks and weathered shales over an area of about 300 m by 80 m, with a thickness of no more than 60 cm. They are thought to be the remnants of sediments from a small freshwater lake, surrounded by forest, which existed about 175 million years ago when Australia was part of Gondwana. The site is the only Jurassic fish site known in New South Wales.[1]
+The fossil material consists principally of the fishes that lived in the lake, as well as plants from the forest, whose remains accumulated in the sediments on the lake bed and were preserved. Among the many species discovered are 16 kinds of plant, eight kinds of fish, several insects and a spider.[1]]]></description>
+			<Point>
+				<coordinates>149.8,-32.166667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Thrinaxodon Col</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Thrinaxodon_Col)
+
+The col is a very important fossil (vertebrate) locality at which several specimens of the mammal-like reptile Thrinaxodon were found.]]></description>
+			<Point>
+				<coordinates>-174.316667,-85.2,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Vega Island</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[nsf.gov (http://www.nsf.gov/news/news_summ.jsp?cntn_id=102864&org=olpa&from=news)
+
+New Dinosaur Finds in Antarctica Paint Fuller Picture of Past Ecosystem
+
+A team of Argentinean and U.S. scientists has found fossils of a duck-billed dinosaur, along with remains of Antarctica's most ancient bird and an array of giant marine reptiles, on Vega Island off the eastern side of the Antarctic Peninsula.]]></description>
+			<Point>
+				<coordinates>-57.41666699999999,-63.83333300000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Parasaurolophus cyrtocristatus</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Parasaurolophus_cyrtocristatus.jpg/800px-Parasaurolophus_cyrtocristatus.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Lisa Andres (http://www.flickr.com/people/8193351@N03)]]></description>
+			<Point>
+				<coordinates>-57.345886,-63.866085,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Winton Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Location: uq.edu.au/dinosaurs/?page=14156 (http://www.uq.edu.au/dinosaurs/?page=14156)
+
+Text: austhrutime.com/winton_formation.htm
+ (http://austhrutime.com/winton_formation.htm)
+
+As the sea retreated river systems from the south and east formed vast floodplains. The waters of this delta system left fossils of lungfish, sharks, crocodiles, many teeth of which have been found in the sediments associated with the remains of Eliot. Near Isisford, south of Longreach, crocodilian fossils have been found. Because of the hard lime-rich sandstone the bones are preserved in, cleaning the fossil is slow and difficult.]]></description>
+			<Point>
+				<coordinates>144.36035200000003,-22.71539,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Isisfordia</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Isisfordia.jpg/800px-Isisfordia.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Smokeybjb (http://commons.wikimedia.org/wiki/User:Smokeybjb)]]></description>
+			<Point>
+				<coordinates>144.7229,-22.786311,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F9F7A6'>
+			<IconStyle>
+				<color>ffA6F7F9</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-993'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/993-biz-camera.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

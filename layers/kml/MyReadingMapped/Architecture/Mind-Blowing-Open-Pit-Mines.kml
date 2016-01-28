@@ -1,0 +1,867 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Sources this map is based on.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- The Weather Channel article: "By Man or Nature, Places That Will Never Be the Same" 
+- The web site CMI Gold and Silver.com article:"The World’s 10 Most Prolific Gold Fields" 
+- Wikipedia lists for gold,  silver and diamond mines]]></description>
+			<Point>
+				<coordinates>-149.0625,29.535230000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>Digitally walk these mines in Google Earth 3D.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[You can digitally walk this map using this Non-networked Google Earth KLM file. (https://docs.google.com/file/d/0B52hHMRyBvEsUDRMelhvd3BmR3M/edit)]]></description>
+			<Point>
+				<coordinates>-170.507812,23.885838,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Google Maps of History</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>162.070313,32.842674,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Aitik Copper Mine </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Aitik)]]></description>
+			<Point>
+				<coordinates>20.95,67.06666700000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Alsukari Gold Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Sukari)]]></description>
+			<Point>
+				<coordinates>34.71,24.956944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>AngloGold Ashanti Gold Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/AngloGold_Ashanti)
+
+ 
+See Panoramio photo that identifies this site. (http://www.panoramio.com/photo/85488965)]]></description>
+			<Point>
+				<coordinates>27.432861000000003,-26.43215,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Argyle Diamond Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Argyle_diamond_mine)]]></description>
+			<Point>
+				<coordinates>128.3975,-16.712222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Bełchatów Coal Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Be%C5%82chat%C3%B3w_Coal_Mine)]]></description>
+			<Point>
+				<coordinates>19.312778,51.233611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Berbeşti Coal Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Berbe%C5%9Fti_Coal_Mine)]]></description>
+			<Point>
+				<coordinates>23.843336,45.027921,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Berkeley Pit Copper Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Berkeley_Pit)]]></description>
+			<Point>
+				<coordinates>-112.512039,46.017266,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Boddington Gold Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Boddington_Gold_Mine)]]></description>
+			<Point>
+				<coordinates>116.34882,-32.747291,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Boroo Gold Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Boroo_Gold_Mine)]]></description>
+			<Point>
+				<coordinates>106.169444,48.745833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Buenavista copper mine </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/908813.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Buenavista_mine)
+Google Map / Panoramio / tony pinon]]></description>
+			<Point>
+				<coordinates>-110.326037,30.958621,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Cadia-Ridgeway Gold &amp; Copper Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Cadia_mine)]]></description>
+			<Point>
+				<coordinates>148.993,-33.467,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Carlin Trend Gold Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[CMI Gold And Silver: (http://www.cmi-gold-silver.com/blog/10-most-prolific-gold-fields-in-the-world/)                                                                                       
+The World’s 10 Most Prolific Gold Fields (http://www.cmi-gold-silver.com/blog/10-most-prolific-gold-fields-in-the-world/)]]></description>
+			<Point>
+				<coordinates>-116.19827300000001,40.779112000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Catoca Diamond Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Catoca_diamond_mine)]]></description>
+			<Point>
+				<coordinates>20.300245,-9.404355,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Cerrejón Coal Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Cerrej%C3%B3n)]]></description>
+			<Point>
+				<coordinates>-72.674561,11.08846,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Cerro Vanguardia Gold and Silver Mines </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Cerro_Vanguardia_Mine)]]></description>
+			<Point>
+				<coordinates>-68.263206,-48.38567,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-FFFF00-5</styleUrl>
+			<name>Cerro Vanguardia Gold and Silver Mines</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-68.298225,-48.351173,0.0 -68.317795,-48.398665,0.0 -68.302345,-48.446511,0.0 -68.255138,-48.445657,0.0 -68.218918,-48.36526,0.0 -68.274879,-48.356078,0.0 -68.298397,-48.351116,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Chino Copper Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Chino_Mine)]]></description>
+			<Point>
+				<coordinates>-108.067264,32.791743,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Chuquicamata Copper Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Chuquicamata)]]></description>
+			<Point>
+				<coordinates>-68.90419,-22.294973,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Corta Atalaya Diamond Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Corta_Atalaya)]]></description>
+			<Point>
+				<coordinates>-6.602778,37.703333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Cortez Gold Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Cortez_Gold_Mine)]]></description>
+			<Point>
+				<coordinates>-116.711111,40.245833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Cripple Creek &amp; Victor Gold Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Cresson_Mine)]]></description>
+			<Point>
+				<coordinates>-105.143366,38.732059,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Diavik Diamond Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Diavik_Diamond_Mine)]]></description>
+			<Point>
+				<coordinates>-110.239305,64.500003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Ekati Diamond Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Ekati_Diamond_Mine)]]></description>
+			<Point>
+				<coordinates>-110.607605,64.71766,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Escondida Cooper Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Escondida)]]></description>
+			<Point>
+				<coordinates>-69.070358,-24.268875,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Goldstrike (Betze Post) Gold Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Goldstrike_mine)]]></description>
+			<Point>
+				<coordinates>-116.37886,40.980546,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Grasberg Gold Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Grasberg_mine)]]></description>
+			<Point>
+				<coordinates>137.113173,-4.056013,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Garzweiler Coal Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Tagebau_Garzweiler)]]></description>
+			<Point>
+				<coordinates>6.509722,51.054167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hambach Coal Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Tagebau_Hambach)]]></description>
+			<Point>
+				<coordinates>6.502778,50.910833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Highland Valley Copper Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Highland_Valley_Copper#Highland_Valley_Copper)]]></description>
+			<Point>
+				<coordinates>-121.04187000000002,50.48984200000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hishikari Gold Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Hishikari,_Kagoshima)
+
+
+CMI Gold And Silver: (http://www.cmi-gold-silver.com/blog/10-most-prolific-gold-fields-in-the-world/)
+The World’s 10 Most Prolific Gold Fields (http://www.cmi-gold-silver.com/blog/10-most-prolific-gold-fields-in-the-world/)]]></description>
+			<Point>
+				<coordinates>130.658469,32.002654,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hobert Coal Mine (mountain top removal)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mountain_top_removal#Environmental_and_health_impacts)]]></description>
+			<Point>
+				<coordinates>-81.970024,38.080257,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hull–Rust–Mahoning Iron Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Hull-Rust-Mahoning_Mine)]]></description>
+			<Point>
+				<coordinates>-92.955666,47.456648,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hutti Gold Mines</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Hutti_Gold_Mines_Limited)]]></description>
+			<Point>
+				<coordinates>76.649213,16.201442,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Iwami Ginzan Silver Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Iwami_Ginzan_Silver_Mine)]]></description>
+			<Point>
+				<coordinates>132.4375,35.107222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Jagersfontein Diamond Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Jagersfontein_Mine)]]></description>
+			<Point>
+				<coordinates>25.418889,-29.765278,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Jay Caboz, Benoni Gold Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>28.347816,-26.196687,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>JSC "Korshunov Mining Plant" ?</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[mechel.ru (http://www.mechel.ru/sector/mining/korshunovskij_gok/)]]></description>
+			<Point>
+				<coordinates>104.129105,56.546615,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Kalgoorlie "Super Pit" Gold Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Super_Pit_gold_mine)]]></description>
+			<Point>
+				<coordinates>121.526341,-30.776206,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Maritsa Iztok Coal Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Maritsa_Iztok)]]></description>
+			<Point>
+				<coordinates>26.020432,42.209702,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-FFFF00-5</styleUrl>
+			<name>Kalgoorlie "Super Pit" Gold Mine area.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>121.48939100000001,-30.756588999999998,0.0 121.49299600000002,-30.781516000000003,0.0 121.501751,-30.800686000000002,0.0 121.51788700000002,-30.806879,0.0 121.53539700000002,-30.802308000000004,0.0 121.53762800000001,-30.783285,0.0 121.535912,-30.763079,0.0 121.52132,-30.748327000000003,0.0 121.511879,-30.739327999999997,0.0 121.497974,-30.742278000000002,0.0 121.48939100000001,-30.756588999999998,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Kennecott's Bingham Canyon Copper Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Bingham_Canyon_Mine)]]></description>
+			<Point>
+				<coordinates>-112.0775354,40.5712177,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Kimberly Big Hole Diamond Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Kimberley,_Northern_Cape)]]></description>
+			<Point>
+				<coordinates>24.75872,-28.738839000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mir Diamond Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mir_mine)]]></description>
+			<Point>
+				<coordinates>113.993539,62.529422,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Kongsberg Silver Mines</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Kongsberg_Silver_Mines)]]></description>
+			<Point>
+				<coordinates>9.598103,59.629816000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lavender Pit Copper Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lavender_Pit)]]></description>
+			<Point>
+				<coordinates>-109.899167,31.431944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Motru Coal Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Motru_Coal_Mine)]]></description>
+			<Point>
+				<coordinates>22.971468,44.83980400000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mount Newman Iron Ore Mine</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/99431242.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Igor Chernishov]]></description>
+			<Point>
+				<coordinates>119.67797800000001,-23.362586,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Kumtor Gold Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Kumtor_Gold_Mine)]]></description>
+			<Point>
+				<coordinates>78.2024,41.86074,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lagunas Norte Gold Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikimapia (http://wikimapia.org/13496107/Lagunas-Norte-Gold-Mine-Benification-Concession)]]></description>
+			<Point>
+				<coordinates>-78.245956,-7.940133,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lihir Gold Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lihir_Gold)]]></description>
+			<Point>
+				<coordinates>152.63618900000003,-3.129375,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Merlin Diamond Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Merlin_diamond_mine)]]></description>
+			<Point>
+				<coordinates>136.346254,-16.851698,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mina Proaño Silver Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Mina_Proa%C3%B1o)]]></description>
+			<Point>
+				<coordinates>-102.873,23.162,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Newmont Batu Hijau Gold Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Newmont_Mining_Corporation#Australia)]]></description>
+			<Point>
+				<coordinates>116.8705,-8.96715,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Nchanga Copper Mines</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Nchanga_Mines)]]></description>
+			<Point>
+				<coordinates>27.854167000000004,-12.513056000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Ojos Negros Sierra Menera Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Sierra_Menera)]]></description>
+			<Point>
+				<coordinates>-1.543279,40.707515,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Orapa Diamond Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Orapa_diamond_mine)]]></description>
+			<Point>
+				<coordinates>25.369444,-21.308333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Palabora Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Palabora)]]></description>
+			<Point>
+				<coordinates>31.127357,-23.989076,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Pascua Lama  Gold, Silver &amp; Copper Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pascua_Lama)]]></description>
+			<Point>
+				<coordinates>-70.023333,-29.323055999999998,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-FFFF00-5</styleUrl>
+			<name>Pascua Lama  Gold, Silver &amp; Copper Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-70.008144,-29.314019,0.0 -70.011578,-29.315365999999997,0.0 -70.014668,-29.319931000000004,0.0 -70.018272,-29.320304999999998,0.0 -70.02891500000001,-29.320978,0.0 -70.038872,-29.320529,0.0 -70.038528,-29.325543,0.0 -70.041618,-29.327788,0.0 -70.054235,-29.330781000000005,0.0 -70.054064,-29.333924000000003,0.0 -70.04591,-29.334298,0.0 -70.039902,-29.336992000000002,0.0 -70.032434,-29.336169000000005,0.0 -70.018101,-29.3337,0.0 -70.010033,-29.339311,0.0 -70.004282,-29.331678999999998,0.0 -70.005398,-29.324870000000004,0.0 -70.006857,-29.322849,0.0 -70.010633,-29.321353000000002,0.0 -70.009003,-29.318284,0.0 -70.003424,-29.31574,0.0 -70.008144,-29.314019,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Penrhyn Slate Quarry</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Penrhyn_Quarry)]]></description>
+			<Point>
+				<coordinates>-4.069233,53.161053,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Peñasquito Polymetallic Silver Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Pe%C3%B1asquito_Polymetallic_Mine)]]></description>
+			<Point>
+				<coordinates>-101.771575,24.679339,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Radomiro Tomic Copper Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Radomiro_Tomic_(mine))]]></description>
+			<Point>
+				<coordinates>-68.881702,-22.219827,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Ranger Uranium Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Ranger_Uranium_Mine)]]></description>
+			<Point>
+				<coordinates>132.911825,-12.681791,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Red Dog Lead &amp; Zinc Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Red_Dog_mine)]]></description>
+			<Point>
+				<coordinates>-162.85017,68.062854,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Rössing Uranium Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Rossing)]]></description>
+			<Point>
+				<coordinates>15.048889,-22.484167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Rovinari Coal Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Rovinari_Coal_Mine)]]></description>
+			<Point>
+				<coordinates>23.162222,44.91250000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Sao Domingos Sulfite Ore Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Sao_Domingos_Mine)]]></description>
+			<Point>
+				<coordinates>-7.493889000000001,37.668889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Sunrise Dam Gold Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Sunrise_Dam_Gold_Mine)]]></description>
+			<Point>
+				<coordinates>122.412415,-29.083176000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Sunshine Silver Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Sunshine_Mine)]]></description>
+			<Point>
+				<coordinates>-116.06572900000002,47.515349,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name> Telfer Gold &amp; Copper Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Telfer_Mine)]]></description>
+			<Point>
+				<coordinates>122.211742,-21.723783,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Tau Tona Gold Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/TauTona_Mine)]]></description>
+			<Point>
+				<coordinates>27.400675,-26.416278,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Toquepala Copper Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Toquepala_mine)]]></description>
+			<Point>
+				<coordinates>-70.613889,-17.245,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Udachnaya Pipe Diamond Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Udachnaya_pipe)]]></description>
+			<Point>
+				<coordinates>112.314949,66.435216,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Unknown mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>104.42625,56.70153700000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Venetia Diamond Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Venetia_Diamond_Mine)]]></description>
+			<Point>
+				<coordinates>29.322338,-22.434672,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Veladero Gold Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/San_Juan_Province,_Argentina#History)
+
+
+
+"In 2005, Barrick Gold Corporation (http://en.wikipedia.org/wiki/Barrick_Gold_Corporation), one of the world's largest gold-mining conglomerates, announced the purchase of large tracts in the San Juan Andes where a gold mine was started. These have, so far, been yielding over 11,000 ounces of gold yearly, though evidence suggests these activities may be having an adverse impact on San Juan's glaciers."]]></description>
+			<Point>
+				<coordinates>-68.930483,-28.278522,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Yanacocha Gold Mine</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Minera_Yanacocha)]]></description>
+			<Point>
+				<coordinates>-78.50487,-6.980270000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='line-FFFF00-5'>
+			<LineStyle>
+				<color>ff00FFFF</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+	</Document>
+</kml>

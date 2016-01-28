@@ -1,0 +1,1576 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Sources of information this map is based on.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- The tetrapod fossils from Jehol - lists (University of Bristol) (http://palaeo.gly.bris.ac.uk/melanosomes/lists.html)
+
+- ldeo.columbia.edu (http://www.ldeo.columbia.edu/res/fac/argon/MesozoicFossils.html)
+
+- Fossilworks.org (http://fossilworks.org/)
+
+- Wikipedia's List of Fossil Sites (http://en.wikipedia.org/wiki/List_of_fossil_sites)
+
+- US National Library of Medicine 
+National Institutes of Health (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3326464/) 
+
+- biology.burke.washington.edu (http://biology.burke.washington.edu/conus/catalogue/sources/Nobuhara%20&%20Tanaka,%201999.%20Venus.%20vol.%20lviii.%20no.%203..pdf) 
+
+- Academia.edu (http://www.academia.edu/1953674/New_material_of_large-bodied_ornithischian_dinosaurs_including_an_iguanodontian_ornithopod_from_the_Quantou_Formation_middle_Cretaceous_Aptian-Cenomanian_of_Jilin_Province_northeastern_China)  
+
+- ivpp.cas.cn (http://www.ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/201102/P020110216368424162124.pdf)
+
+- Morphology and Evolution of Turtles, Chapter 12. (http://books.google.com/books?id=0pVjXbso0swC&pg=PA179&lpg=PA179&dq=map+of+the+Kitadani+Formation&source=bl&ots=KrfczKq8g8&sig=7rcRGdtOUzBTTO-sp8AJv_zkQpY&hl=en&sa=X&ei=HK2DUpzIBoLt2QW-qoHoDw&ved=0CDgQ6AEwAQ#v=onepage&q=map%20of%20the%20Kitadani%20Formation&f=false)
+
+- ScienceDirect (http://www.sciencedirect.com/science/article/pii/S0195667100902416)
+
+- caos.iisc.ernet.in (http://caos.iisc.ernet.in/faculty/pghosh/content/Publications/12.pdf)  
+
+- uiowa.edu (http://www.uiowa.edu/~bioanth/giganto.html) 
+
+- nau.edu, (http://nau.edu/uploadedFiles/Academic/CEFNS/NATSCI/SESES/Forms/thetertiary.pdf) 
+
+- Book: Chinese Fossil Vertebrates (http://books.google.com/books?id=AzHUXy7HGo4C&pg=PA374&lpg=PA374&dq=fossil+formations+along+the+Yangtze+river&source=bl&ots=tdaUUi6qs3&sig=p_TOaZcbSSoUeWfmsubjcL330DA&hl=en&sa=X&ei=FaiEUo3_HImO2AXk9YH4DA&ved=0CD4Q6AEwATgK#v=onepage&q=fossil%20formations%20along%20the%20Yangtze%20river&f=false) (http://books.google.com/books?id=AzHUXy7HGo4C&pg=PA374&lpg=PA374&dq=fossil+formations+along+the+Yangtze+river&source=bl&ots=tdaUUi6qs3&sig=p_TOaZcbSSoUeWfmsubjcL330DA&hl=en&sa=X&ei=FaiEUo3_HImO2AXk9YH4DA&ved=0CD4Q6AEwATgK#v=onepage&q=fossil%20formations%20along%20the%20Yangtze%20river&f=false)By Spencer G. Lucas (http://books.google.com/books?id=AzHUXy7HGo4C&pg=PA374&lpg=PA374&dq=fossil+formations+along+the+Yangtze+river&source=bl&ots=tdaUUi6qs3&sig=p_TOaZcbSSoUeWfmsubjcL330DA&hl=en&sa=X&ei=FaiEUo3_HImO2AXk9YH4DA&ved=0CD4Q6AEwATgK#v=onepage&q=fossil%20formations%20along%20the%20Yangtze%20river&f=false)
+
+- Book: The Cretaceous-Tertiary Boundary in the San Juan and Raton Basins ..., Issue 209, edited by James E. Fassett, J. Keith Rigby     (http://books.google.com/books?id=28kOM7jNJLsC&pg=PA186&lpg=PA186&dq=qianshan+basin&source=bl&ots=4HEUKECTAQ&sig=hRQ-0ewDtO4l_E3KCgBRdLv71pY&hl=en&sa=X&ei=SPSFUpuxGOeY2wXuqIHwDw&ved=0CEQQ6AEwAw#v=onepage&q=Nanjing&f=false)
+
+- Many of the locations were found by simply doing an image search for a map.]]></description>
+			<Point>
+				<coordinates>64.072266,13.923404,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Accuracy of fossil locations.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Because of the volume of fossil sites worldwide is over one million, this map provides some placemarks that target specific sites, while others indicate the general area of each paleontology formation. Some of which cover a very large area.
+ 
+To get a list of paleontology projects within each formation, go to FossilWorks (http://fossilworks.org/) and enter the formation name in it's search engine.]]></description>
+			<Point>
+				<coordinates>64.160156,9.968851,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Other Fossil Site Maps</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- Africa (http://myreadingmapped.blogspot.com/2013/11/african-fossil-sites-paleontology.html)   
+
+- Europe (http://myreadingmapped.blogspot.com/2013/11/fossil-sites-of-europe-paleontology.html)
+
+- North and South America (http://myreadingmapped.blogspot.com/2013/11/fossil-sites-of-north-south-america.html)
+
+- Antarctica and Oceania (http://myreadingmapped.blogspot.com/2013/11/fossil-sites-of-antarctica-oceania.html)]]></description>
+			<Point>
+				<coordinates>63.632813,-2.811371,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>Walk this map in Google Earth 3D.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[You can walk this map in 3D using this Non-networked Google Earth KML file. (https://docs.google.com/file/d/0B52hHMRyBvEsU1g4UEVtM3VGOGs/edit)]]></description>
+			<Point>
+				<coordinates>87.1875,10.919618,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Images associated with fossil sites.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Those fossil sites with images represent those creatures that once existed at the site. It is not a representation of the size of the fossil or the amount of remains discovered.]]></description>
+			<Point>
+				<coordinates>76.289063,-8.407168,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Enchanted Learning's Dinosaur and Paleontology Dictionary.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Need to understand the terms in this map? Check out the Enchanted Learning's Dinosaur and Paleontology Dictionary. (http://www.enchantedlearning.com/subjects/dinosaurs/glossary/)]]></description>
+			<Point>
+				<coordinates>64.072266,5.703448,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps on History</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>87.099609,6.227934000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Balabansai Formation  (Jurassic of Kyrgyzstan)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Coordinates: http://fossilworks.org (http://fossilworks.org/cgi-bin/bridge.pl?a=collectionSearch&collection_no=53149)
+
+Wikipedia (http://en.wikipedia.org/wiki/Balabansai_Formation)
+
+The Balabansai Formation (or Balabansai Svita) is a geological formation in Asia whose strata date back to the Late Jurassic. Dinosaur remains are among the fossils that have been recovered from the formation.[1]]]></description>
+			<Point>
+				<coordinates>72.100053,41.300089,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Bayan Shireh Formation (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Achillobator#Provenance_and_occurrence)
+
+The remains of Achillobator were recovered in the Bayan Shireh Formation of Dornogovi Province, Mongolia, in fine-grained, medium sandstone/gray mudstone that was deposited during the Late Cretaceous epoch. The exact age is uncertain, with two competing hypotheses; based on comparisons with other formations, the Bayan Shireh fauna seems to correspond best with theTuronian through early Campanian stages of the Late Cretaceous, about 93 to 80 million years ago.[12] However, examination of the magnetostratigraphy of the formation seems to confirm that the entire Bayan Shireh lies within the Cretaceous Long Normal, which lasted only until the end of the Santonian stage, giving a possible Cenomanian through Santonian age, or between 98 and 83 million years ago.]]></description>
+			<Point>
+				<coordinates>110.15004200000001,44.883455,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Baynunah Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.academia.edu (http://www.academia.edu/3549897/A_new_fossil_thryonomyid_from_the_Late_Miocene_of_the_United_Arab_Emirates_and_the_origin_of_African_cane_rats)
+
+A new fossil thryonomyid from the Late Miocene of the United Arab Emirates and the origin of African cane rats.
+
+Cane rats (Thryonomyidae) are represented today by two species inhabiting sub-Saharan Africa. Their fossilrecord is predominately African, but includes several Mio-cene species from Arabia and continental Asia that represent dispersal events from Africa. For example, Paraulacodusindicus, known from the Miocene of Pakistan, is closelyrelated to living Thryonomys. Here we describe a new thryonomyid, Protohummus dango , gen. et sp. nov., from the late Miocene Baynunah Formation of the United Arab Emirates.]]></description>
+			<Point>
+				<coordinates>52.43202,24.1148,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Grand aulacode (Cane Rat)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Grand_aulacode_male.jpg/450px-Grand_aulacode_male.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Copyright: Aurélia Zizo (http://fr.wikipedia.org/wiki/User:Aur%C3%A9lia_zizo)]]></description>
+			<Point>
+				<coordinates>52.514648,24.048972,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Bissekty Formation </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Location coordinates: FossilWorks (http://fossilworks.org/cgi-bin/bridge.pl?a=collectionSearch&collection_no=46959)
+
+Wikipedia (http://en.wikipedia.org/wiki/Kyzyl_Kum#Paleontology)
+
+The Kyzyl Kum has exposed rock formations that have yielded a number of fossils. Of particular interest is the Bissekty Formation of Uzbekistan, from the early Late Cretaceous, which has produced several species of early birds: Enantiornis martini and E. walkeri, Kizylkumavis cretacea, Kuszholia mengi, Lenesornis kaskarovi, Sazavis prisca, Zhyraornis kaskarovi, and Z. logunovi are recognized as valid species. Tyrannosaurid, therizinosaurid, ostrich-mimic, oviraptorosaurian, troodontid, armored, duckbilled, and horned dinosaurs are also known from this rock unit.[1] Other fossils from the Cretaceous rocks of the Kyzyl Kum include tree trunks, pelecypods, beetles, sharks, rays, bony fish,[2] frogs, salamanders,[3] turtles,[4] crocodylomorphs,[2] pterosaurs,[5] and a varied fauna of small early mammals.[6] Paleontologists that have worked in this area include J. David Archibald, Alexander Averianov, Sergei Kurzanov, Lev Nesov, Anatoly Riabinin, Anatoly Rozhdestvensky, and Hans-Dieter Sues.[1]
+
+
+Other information. (http://en.wikipedia.org/wiki/Bissekty_Formation)]]></description>
+			<Point>
+				<coordinates>63.336181999999994,42.54701,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Tyrannosauridae Drumheller</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Drumheller_150.jpg/731px-Drumheller_150.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Sebastian Bergmann (http://www.flickr.com/people/90237600@N00)]]></description>
+			<Point>
+				<coordinates>64.138184,42.5207,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Bostobe Svita Formation (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://rsbl.royalsocietypublishing.org/ (http://rsbl.royalsocietypublishing.org/content/early/2011/08/03/rsbl.2011.0683.full)
+
+School of Ocean and Earth Sciences, University of Southampton
+
+A gigantic bird from the Upper Cretaceous of Central Asia
+
+We describe an enormous Late Cretaceous fossil bird from Kazakhstan, known from a pair of edentulous mandibular rami (greater than 275 mm long), which adds significantly to our knowledge of Mesozoic avian morphological and ecological diversity. A suite of autapomorphies lead us to recognize the specimen as a new taxon. Phylogenetic analysis resolves this giant bird deep within Aves as a basal member of Ornithuromorpha. This Kazakh fossil demonstrates that large body size evolved at least once outside modern birds (Neornithes) and reveals hitherto unexpected trophic diversity within Cretaceous Aves.]]></description>
+			<Point>
+				<coordinates>66.071777,45.890008,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Bugti Hills (Paali Nala) (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Location coordinates: FossilWorks (http://fossilworks.org/cgi-bin/bridge.pl?a=collectionSearch&collection_no=28248)
+ 
+Proceedings of the National Academy of Sciences (http://www.pnas.org/content/102/24/8436/F1.expansion.html)
+
+Anthropoid primates from the Oligocene of Pakistan (Bugti Hills): Data on early anthropoid evolution and biogeography
+
+Map of the Bugti Hills (central Pakistan, eastern Balochistan) showing the geographic location of the primate-bearing locality of Paali Nala (DBC2, denoted by an asterisk) in the lowermost part of the Chitarwata Formation (Oligocene, Bugti Member) (21). The locality is situated in the South Gandoï syncline (southern side of the Zin anticline), ≈30 km from the village of Dera Bugti.]]></description>
+			<Point>
+				<coordinates>69.200306,29.000784,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Chengde</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Book: The Cretaceous-Tertiary Boundary in the San Juan and Raton Basins ..., Issue 209, page 186.edited by James E. Fassett, J. Keith Rigby                                                     (http://books.google.com/books?id=28kOM7jNJLsC&pg=PA186&lpg=PA186&dq=qianshan+basin&source=bl&ots=4HEUKECTAQ&sig=hRQ-0ewDtO4l_E3KCgBRdLv71pY&hl=en&sa=X&ei=SPSFUpuxGOeY2wXuqIHwDw&ved=0CEQQ6AEwAw#v=onepage&q=Nanjing&f=false)  ]]></description>
+			<Point>
+				<coordinates>110.666667,28.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Chengjiang County</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Chengjiang_County)
+
+Within evolutionary biology, and especially paleontology, Chengjiang County is famous for soft-tissue fossil finds, of the Maotianshan Shales, dated to between 525 and 520 million years ago during the Cambrian explosion, which "are as spectacular as theBurgess Shale fauna, and significantly older".[1] These fossils are considered one of the most important fossil finds of the 20th Century. Not only do they contain an exquisite degree of detail, but they also cover a diverse range of fauna, and are of significance in attempts to understand the evolution of life on Earth.[2][3]]]></description>
+			<Point>
+				<coordinates>102.935,24.650600000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Maotianshania-cylindrica</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/9/99/Maotianshania-cylindrica.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / SNP (http://en.wikipedia.org/wiki/User:SNP)]]></description>
+			<Point>
+				<coordinates>103.205566,24.497146000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Dainichi Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[biology.burke.washington.edu/ (http://biology.burke.washington.edu/conus/catalogue/sources/Nobuhara%20&%20Tanaka,%201999.%20Venus.%20vol.%20lviii.%20no.%203..pdf)
+
+A New Subspecies of Rhizoconus hyaena (Caenogastrododa: Conidae) from the Upper Pliocene Dainichi Formation, Shizuoka Perfecture, Central Japan.]]></description>
+			<Point>
+				<coordinates>138.000094,34.799999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Dashanpu Formation (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Dashanpu_Formation)
+
+The Dashanpu Formation is a Mid to Late Jurassic rock formation in China, most notable for the wealth ofdinosaurs that have been excavated from the area. The Dashanpu Formation sits in and around the small township of Dashanpu (simplified Chinese: 大山铺镇; traditional Chinese: 大山鋪鎮; pinyin: Dàshānpū zhèn), situated seven kilometres north-east from Sichuan's third largest city, Zigong, in the Da'an District.
+ 
+paleoglot.org (http://www.paleoglot.org/files/He&Cai_84.pdf)
+ 
+The Middle Jurassic Dinosaurian Fauna from Dashanpu, Zigong, Sichuan, Vol. I, The Ornithopod Dinosaurs]]></description>
+			<Point>
+				<coordinates>104.742622,29.342378999999998,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Othnielosaurus</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/2/26/Othnielosaurus_BW.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Nobu Tamura (http://spinops.blogspot.com (http://spinops.blogspot.com/))]]></description>
+			<Point>
+				<coordinates>104.756012,29.339386,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Dashuigou Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Dashuigou_Formation)
+
+The Dashuigou Formation (simplified Chinese: 大水沟组; traditional Chinese: 大水溝組; pinyin: Dàshuǐgōu Zǔ) is a geological formation in Inner Mongolia, north China, whose strata date back to the Early Cretaceous period.
+
+Dinosaur remains are among the fossils that have been recovered from the formation.[1]
+
+- Shaochilong maortuensis - "Partial skull, postcranial skeleton."[2]
+- Probactrosaurus alashanicus - "Fragmentary skull."[3]
+- P. gobiensis - "Skull and skeleton."[3]]]></description>
+			<Point>
+				<coordinates>105.756721,38.457348,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Denisova Hominin and Neanderthals</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Denisova_hominin)
+
+Denisova hominins /dəˈniːsəvə/, or Denisovans, are Paleolithic-era members of a species of Homo or subspecies of Homo sapiens. In March 2010, scientists announced the discovery of a finger bone fragment of a juvenile female who lived about 41,000 years ago, found in the remote Denisova Cave in the Altai Mountains in Siberia, a cave which has also been inhabited by Neanderthals and modern humans.[1][2][3] Two teeth and a toe bone belonging to different members of the same population have since been reported.
+ 
+NYT: Toe Fossil Provides Complete Neanderthal Genome (http://www.nytimes.com/2013/12/19/science/toe-fossil-provides-complete-neanderthal-genome.html?_r=0)]]></description>
+			<Point>
+				<coordinates>84.676206,51.397581,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Djadochta Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Djadochta_Formation)
+
+Most notable fossil discoveries have been the first confirmed dinosaur eggs (a clutch, probably of Oviraptor) and several dinosaur finds, Protoceratops, Pinacosaurus and Velociraptor being the most prominent.
+
+- Amphibians
+- Crocodylomorphs
+- Lizards
+- Mammals
+- Ornithischians
+- Saurischians]]></description>
+			<Point>
+				<coordinates>103.727778,44.138611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Eijnhoro Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Eijnhoro_Formation)
+ 
+The Eijnhoro Formation is a palaeontological  formation located in China. It dates to the Lower Cretaceous period.
+ 
+Location coordinates. (http://maps.thefullwiki.org/Eijnhoro_Formation)]]></description>
+			<Point>
+				<coordinates>105.000072,35.000121,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Eocene Okinoshima and Funazu Formations</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Mizunami Fossil Museum Page 88 (http://www.city.mizunami.gifu.jp/sightseeing/mizunami/cultural_property/institution/Bull33/07.pdf)
+
+Paleogene ostracodes from the Kishima Formation, Kishima Group, Saga Prefecture, southwestern Japan.
+ 
+Wikipedia: (http://en.wikipedia.org/wiki/Kishima_Group)                                                                                      
+The Kishima Group is a group of palaeontological formations located in Japan. It dates to theUpper Eocene - Lower Oligocene period.
+ 
+The formations of the Kishima Group are:
+
+- Daimyoji Formation
+- Funazu Formation
+- Itanoura Formation
+- Kakinoura Formation
+- Kishima Formation
+- Magome Formation
+- Matsushima Formation
+- Okinoshima Formation
+- Oshima Formation]]></description>
+			<Point>
+				<coordinates>130.063019,33.082912,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Eocene Oujiang Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Mizunami Fossil Museum Page 88 (http://www.city.mizunami.gifu.jp/sightseeing/mizunami/cultural_property/institution/Bull33/07.pdf)
+
+Paleogene ostracodes from the Kishima Formation, Kishima Group, Saga Prefecture, southwestern Japan.
+ 
+Wikipedia:                                                                          
+The Kishima Group is a group of palaeontological formations located in Japan. It dates to the Upper Eocene - Lower Oligocene period.
+ 
+The formations of the Kishima Group are:
+
+- Daimyoji Formation
+- Funazu Formation
+- Itanoura Formation
+- Kakinoura Formation
+- Kishima Formation
+- Magome Formation
+- Matsushima Formation
+- Okinoshima Formation
+- Oshima Formation]]></description>
+			<Point>
+				<coordinates>121.45385700000001,26.755421,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Eocene Oujiang and Wenzhou Formations</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Mizunami Fossil Museum Page 88 (http://www.city.mizunami.gifu.jp/sightseeing/mizunami/cultural_property/institution/Bull33/07.pdf)
+
+Paleogene ostracodes from the Kishima Formation, Kishima Group, Saga Prefecture, southwestern Japan.
+ 
+Wikipedia:                                                                                
+The Kishima Group is a group of palaeontological formations located in Japan. It dates to theUpper Eocene - Lower Oligocene period.
+ 
+The formations of the Kishima Group are:
+
+- Daimyoji Formation
+- Funazu Formation
+- Itanoura Formation
+- Kakinoura Formation
+- Kishima Formation
+- Magome Formation
+- Matsushima Formation
+- Okinoshima Formation
+- Oshima Formation]]></description>
+			<Point>
+				<coordinates>121.92627,27.401032,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Es Skhul</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Es_Skhul)
+
+Es Skhul (meaning kids) is a cave site situated c. 20 kilometers south of the city of Haifa, Israel, and c. 3 kilometers from the Mediterranean Sea. The prehistoricsite, was first excavated by Dorothy Garrod in the summer of 1928. The excavations revealed the first evidence of the late Epipalaeolithic Natufian culture, characterised by the presence of abundant microliths, human burials and ground stone tools. Skhul also represents one area where Neanderthals - present in the region from 200,000 - 45,000 years ago - lived alongside these humans dating to 100,000 years ago.[1] The cave also has Middle Palaeolithic layers.]]></description>
+			<Point>
+				<coordinates>34.958519,32.625864,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Homo sapiens neanderthalensis</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Homo_sapiens_neanderthalensis.jpg/470px-Homo_sapiens_neanderthalensis.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Luna04 (http://commons.wikimedia.org/wiki/User:Luna04)]]></description>
+			<Point>
+				<coordinates>34.974976,32.612195,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Fangou Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Book: The Cretaceous-Tertiary Boundary in the San Juan and Raton Basins ..., Issue 209, page 186.edited by James E. Fassett, J. Keith Rigby                                                       (http://books.google.com/books?id=28kOM7jNJLsC&pg=PA186&lpg=PA186&dq=qianshan+basin&source=bl&ots=4HEUKECTAQ&sig=hRQ-0ewDtO4l_E3KCgBRdLv71pY&hl=en&sa=X&ei=SPSFUpuxGOeY2wXuqIHwDw&ved=0CEQQ6AEwAw#v=onepage&q=Nanjing&f=false)  ]]></description>
+			<Point>
+				<coordinates>110.162608,34.097391,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Fentou Formation near Nanjing</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Book:  Chinese Fossil Vertebrates, page 37 (http://books.google.com/books?id=AzHUXy7HGo4C&pg=PA374&lpg=PA374&dq=fossil+formations+along+the+Yangtze+river&source=bl&ots=tdaUUi6qs3&sig=p_TOaZcbSSoUeWfmsubjcL330DA&hl=en&sa=X&ei=FaiEUo3_HImO2AXk9YH4DA&ved=0CD4Q6AEwATgK#v=onepage&q=fossil%20formations%20along%20the%20Yangtze%20river&f=false)
+ 
+Sinacanthus.]]></description>
+			<Point>
+				<coordinates>118.99841300000001,32.003418,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Flaming Cliffs</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Flaming_Cliffs)
+
+The Flaming Cliffs site, also known as ob nob (Mongolian: Баянзаг) or sometimes Bain-Dzak,[1] rich in saxaul or Mongolian: Улаан Эрэг red cliffs), is a region of the Gobi Desert in the Ömnögovi Province of Mongolia, in which important fossil finds have been made. It was given this name by American paleontologist Roy Chapman Andrews, who visited in the 1920s. The area is most famous for yielding the first discovery of dinosaur eggs. Other finds in the area include specimens of Velociraptor,[2] and eutherian mammals.[3]]]></description>
+			<Point>
+				<coordinates>103.72778300000002,44.138517,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Ornithomimosauria Struthiomimus</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Struthiomimus_ROM.jpg/800px-Struthiomimus_ROM.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Mike Beauregard (http://www.flickr.com/photos/31856336@N03)]]></description>
+			<Point>
+				<coordinates>105.117188,43.707594,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Gaoyugou Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Book: The Cretaceous-Tertiary Boundary in the San Juan and Raton Basins ..., Issue 209, page 186.edited by James E. Fassett, J. Keith Rigby                                                     (http://books.google.com/books?id=28kOM7jNJLsC&pg=PA186&lpg=PA186&dq=qianshan+basin&source=bl&ots=4HEUKECTAQ&sig=hRQ-0ewDtO4l_E3KCgBRdLv71pY&hl=en&sa=X&ei=SPSFUpuxGOeY2wXuqIHwDw&ved=0CEQQ6AEwAw#v=onepage&q=Nanjing&f=false) ]]></description>
+			<Point>
+				<coordinates>111.766667,34.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Guiyang, Guizhou</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Book: Fossil Vertebrates, page 115. By Spencer G. Luca
+(http://books.google.com/books?id=AzHUXy7HGo4C&pg=PA374&lpg=PA374&dq=fossil+formations+along+the+Yangtze+river&source=bl&ots=tdaUUi6qs3&sig=p_TOaZcbSSoUeWfmsubjcL330DA&hl=en&sa=X&ei=FaiEUo3_HImO2AXk9YH4DA&ved=0CD4Q6AEwATgK#v=onepage&q=fossil%20formations%20along%20the%20Yangtze%20river&f=false)
+ 
+Sanchiaosaurus.]]></description>
+			<Point>
+				<coordinates>106.630154,26.647661,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Haifanggou-Lanqi Fossils</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>121.289063,47.040182,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hakel</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Hakel)
+
+The Hakel is a palaeontological formation located in Lebanon. It dates to the Cretaceous period.]]></description>
+			<Point>
+				<coordinates>35.750542,34.170411,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Huadian Formation (Gonglangtou) </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ivpp.cas.cn (http://www.ivpp.cas.cn/cbw/gjzdwxb/xbwzxz/201102/P020110216368424162124.pdf)
+ 
+ACRODONT IGUANIANS (SQUAMATA) FROM THE MIDDLE EOCENE OF THE HUADIAN BASIN OF JILIN PROVINCE, CHINA, WITH A CRITIQUE OF THE TAXON “TINOSAURUS"
+ 
+The fossils from Gonglangtou now include plant pollen, leaves and fruits (Manchester et al., 2005), at least two species of snail, fishes, turtles, lizards, mammals, and birds (Beard and Wang, 1991; Hou and Ericson, 2002; Liu and Chang, 2009; Wang and Li, 1990; Zhang et al., 1986; Zhou and Sun, 1985). The mammals are represented by erinaceids, soricids, rodents, and the primate Asiomomys. Asiomomys speaks for an age of the Gonglangtou fauna slightly younger than early Uintan, probably corresponding to the late Uintan, or late middle Eocene (Beard and Wang, 1991). This age estimation is supported by the morphology of the other small mammals (Wang and Li, 1990).]]></description>
+			<Point>
+				<coordinates>126.90033,43.003141,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Irdin Manha Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Irdin_Manha_Formation)
+
+The Irdin Manha Formation is a palaeontological formation from the Eocene located in Inner Mongolia, China, a few kilometres south of the Mongolian border (43.7°N 112.0°E, paleocoordinates 45.2°N 105.7°E).[1]
+
+U.S. paleontologists Henry Fairfield Osborn and Roy C. Andrews discovered two premolars on the site in 1923, and Osborn 1924 assigned the specimen to the new genus Eudinoceras because he believed it to be related to "Dinoceras" (now known as Uintatherium). Within a decade, however, as more complete specimens were recovered, the animal was identified as a Mongolian relative to the North American pantodont Coryphodon.[2]]]></description>
+			<Point>
+				<coordinates>112.00922,43.705112,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Iren Dabasu Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Location coordinates: Fossilworks (http://fossilworks.org/cgi-bin/bridge.pl?collection_no=49356&action=basicCollectionSearch)                                                                                             
+Wikipedia (http://en.wikipedia.org/wiki/Iren_Dabasu_Formation)
+
+The Iren Dabasu Formation is a Mesozoic geologic formation in the Iren Nor region of Inner Mongolia. Dinosaurremains diagnostic to the genus level are among the fossils that have been recovered from the formation.[1] The Upper Cretaceous Iren Dabasu Formation in the Iren Nor region of Inner Mongolia is typically referred to continental clastic sediments consisting of light grey fine sandstones, coarse sandstones and glutenites as well as mottled claystones and siltstones. This lithological unit has yielded plentiful dinosaur remains in quantity and group, also including a great deal of microfossil material.]]></description>
+			<Point>
+				<coordinates>112.000122,43.70052,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Irdin Manha Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Location coordinates: Fossilworks
+
+Wikipedia (http://en.wikipedia.org/wiki/Irdin_Manha_Formation)
+
+The Irdin Manha Formation is a palaeontological formation from the Eocene located in Inner Mongolia, China, a few kilometres south of the Mongolian border (43.7°N 112.0°E, paleocoordinates 45.2°N 105.7°E).[1]
+U.S. paleontologists Henry Fairfield Osborn and Roy C. Andrews discovered two premolars on the site in 1923, and Osborn 1924 assigned the specimen to the new genus Eudinoceras because he believed it to be related to "Dinoceras" (now known as Uintatherium). Within a decade, however, as more complete specimens were recovered, the animal was identified as a Mongolian relative to the North American pantodont Coryphodon.[2]]]></description>
+			<Point>
+				<coordinates>112.002525,43.700396,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Iwaki Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Iwaki_Formation)
+
+The Iwaki Formation is a palaeontological formation located in Japan. It dates to the Lower Oligocene period.]]></description>
+			<Point>
+				<coordinates>140.953217,37.19369,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Jehol Biota</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Jehol_Biota)
+
+The Jehol Biota (Chinese: 热河群; Pinyin: rè hé qún) includes all the living organisms - the ecosystem - of northeastern China between 133 to 120 million years ago. This is the Lower Cretaceous ecosystem which left fossils in the Yixian Formation and Jiufotang Formation. It is also believed to have left fossils in the Sinuiju series of North Korea.]]></description>
+			<Point>
+				<coordinates>120.41564900000002,41.446844,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>Newly Identified Dinosaur Fauna</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com (http://www.huffingtonpost.com/2014/03/05/dinosaur-fauna-evolutionary-history_n_4903256.html)                                                       
+Newly Identified Dinosaur Fauna May Hold Clues To Rich Evolutionary History
+
+The new biota was found in layers of rock beneath the so-called Jehol Biota, a famous collection of 130-million-year-old fossils from China's western Liaoning Province and nearby northeastern China; the Jehol organisms are now thought to have been killed and preserved in a Pompeii-style eruption. In recent years, fossils that are 30 million years older have surfaced from beneath the Jehol Biota, but have not been definitively linked to the same time period. [In Photos: Wacky Fossil Animals from Jurassic China]
+
+The fossils from the Jehol Biota literally lie on top of the older specimens, said David Hone, a dinosaur biologist at Queen Mary University of London and leader of the study published today (March 4) in the Journal of Vertebrate Paleontology.]]></description>
+			<Point>
+				<coordinates>120.43624900000002,41.44890300000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>Changyuraptor yangi: Weird Newfound Dinosaur Had Four 'Wings' &amp; Very Long Tail Feathers, Scientists Say</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[huffingtonpost.com (http://www.huffingtonpost.com/2014/07/15/four-winged-dinosaur_n_5588232.html)
+ 
+The largest "four-winged" dinosaur known has been found, and this predator has the longest feathers yet outside of birds, researchers say. This new finding yields insights on how dinosaurs may have flown, the scientists added.
+ 
+The 125-million-year-old feathered dinosaur, named Changyuraptor yangi, sported feathers over its body, including its arms and legs, which made it look as if it had two pairs of wings. Its fossil was unearthed in 2012 in Liaoning province in northeastern China, which has been the center of a surge of discoveries of feathered dinosaurs over the last decade.]]></description>
+			<Point>
+				<coordinates>120.481567,41.423164,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Jindong Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ScienceDirect (http://www.sciencedirect.com/science/article/pii/S0195667100902416)
+
+Dinosaur track-bearing deposits in the Cretaceous Jindong Formation, Korea: occurrence, palaeoenvironments and preservation.]]></description>
+			<Point>
+				<coordinates>128.509827,35.122155,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Jiufotang Formation </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Location coordinates: Geophysical Research Letters, Vol. 31. (http://www.ivpp.ac.cn/qt/papers/201206/P020120604364142341216.pdf)
+
+Wikipedia: (http://en.wikipedia.org/wiki/Jiufotang_Formation)
+
+The Jiufotang Formation is an Early Cretaceous geological formation in Chaoyang, Liaoning which has yielded fossils of feathereddinosaurs, primitive birds, pterosaurs, and other organisms. (see Jehol Biota). It is a member of the Jehol group. The exact age of the Jiufotang has been debated for years, with estimates ranging from theLate Jurassic to the Early Cretaceous. He et al. (2004) used argon - isotope radiometry to confirm biostratigraphic age estimates. They confirmed an Early Cretaceous, Aptian age for the Jiufotang Formation, 120.3 +/-0.7 million years ago. Fossils of Microraptor andJeholornis are from the Jiufotang.[1]]]></description>
+			<Point>
+				<coordinates>120.38,41.59,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1201</styleUrl>
+			<name>Feathered Dinosaurs</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Feathered_dinosaur)
+ 
+The realization that the non-avian dinosaurs are closely related to birds raised the obvious possibility of feathered dinosaurs. Fossils of Archaeopteryx include well-preserved feathers, but it was not until the mid-1990s that clearly non-avialan dinosaur fossils were discovered with preserved feathers. Since then, more than twenty genera of dinosaurs, mostly theropods, have been discovered to have been feathered. Most fossils are from the Yixian formation in China. The fossil feathers of one specimen, Shuvuuia deserti, have tested positive for beta-keratin, the main protein in bird feathers, in immunological tests.[1]  ]]></description>
+			<Point>
+				<coordinates>120.22888200000001,41.681118,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Khukhtek Formation - Hühteeg Svita</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Khukhtek_Formation)
+
+The Hühteeg Svita is a geological formation in Mongolia whose strata date back to the Early Cretaceous. Dinosaur remains are among the fossils that have been recovered from the formation.[1]]]></description>
+			<Point>
+				<coordinates>110.456543,44.292401,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Gobiconodon</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Gobiconodon.jpg/800px-Gobiconodon.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Pavel.Riha.CB (http://en.wikipedia.org/wiki/User:Pavel.Riha.CB)]]></description>
+			<Point>
+				<coordinates>111.137695,44.134913,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Kitadani Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Location coordinates: Morphology and Evolution of Turtles, Chapter 12. (http://books.google.com/books?id=0pVjXbso0swC&pg=PA179&lpg=PA179&dq=map+of+the+Kitadani+Formation&source=bl&ots=KrfczKq8g8&sig=7rcRGdtOUzBTTO-sp8AJv_zkQpY&hl=en&sa=X&ei=HK2DUpzIBoLt2QW-qoHoDw&ved=0CDgQ6AEwAQ#v=onepage&q=map%20of%20the%20Kitadani%20Formation&f=false)
+ 
+Wikipedia (http://en.wikipedia.org/wiki/Kitadani_Formation)
+
+The Kitadani Formation is a geological formation in Fukui, Japan whose strata date back to the Early Cretaceous. Dinosaur remains are among the fossils that have been recovered from the formation.[1]]]></description>
+			<Point>
+				<coordinates>136.704254,36.111253,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Fukuiraptor</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/2/2f/Fukuiraptor_BW.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Nobu Tamura (http://spinops.blogspot.com (http://spinops.blogspot.com/))]]></description>
+			<Point>
+				<coordinates>136.878662,36.004673,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Kota Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Location coordinates: FossilWorks (http://fossilworks.org/cgi-bin/bridge.pl?collection_no=39673&action=basicCollectionSearch)
+ 
+Wikipedia: (http://en.wikipedia.org/wiki/Kota_Formation)
+The Kota Formation is a geological formation in India. It dates back to theHettangian-Pliensbachian.[1]
+
+- Vertebrate paleofauna
+- Invertebrate paleofauna]]></description>
+			<Point>
+				<coordinates>79.502563,19.298831,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Barapasaurus</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Barapasaurus_DB.jpg/800px-Barapasaurus_DB.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Dmitry Bogdanov]]></description>
+			<Point>
+				<coordinates>79.716797,19.259294,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lameta Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://caos.iisc.ernet.in (http://caos.iisc.ernet.in/faculty/pghosh/content/Publications/12.pdf)
+
+Dinosaur coprolites from the Late Cretaceous (Maastrichtian) Lameta Formation of India: isotopic and other markers suggesting a C3 plant diet.]]></description>
+			<Point>
+				<coordinates>74.100137,19.63116,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Làng Trang Caves</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+
+The Lang Trang is a cave formation located in Vietnam. Palaeontological remains found in the cave date from the Pleistoceneperiod.
+ 
+Also see uiowa.edu (http://www.uiowa.edu/~bioanth/giganto.html)]]></description>
+			<Point>
+				<coordinates>104.9814,22.13176,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lanqi Formation (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ncbi.nlm.nih.gov (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3326464/)
+
+A Jurassic salamander, Beiyanerpeton jianpingensis (gen. et sp. nov.), from a recently found site in western Liaoning Province, China is the earliest known record of Salamandroidea. As a Late Jurassic record of the group, it extends the range of the clade by ~40 Ma.]]></description>
+			<Point>
+				<coordinates>123.42944,41.83544100000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Liang Bua</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Liang_Bua_Cave)
+
+The Liang Bua is a limestone cave on the Island of Flores, in East Nusa Tenggara, Indonesia was the site of the 2003 discovery of a potentially new species of Homo genus, Homo floresiensis, the remains of which are coded LB1, LB2, etc., after the cave. So far it is the only location in which such remains have been identified.]]></description>
+			<Point>
+				<coordinates>120.46027799999999,-8.534167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lower Lufeng Series (Jurassic Dinosaur Heritage Park)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lufeng_Formation)
+
+The Lower Lufeng Series (or Lower Lufeng Formation) is a Lower Jurassic sedimentary rock formationfound in Yunnan, China. It has two units: the lower Dull Purplish Beds are of Hettangian age, and Dark Red Beds are of Sinemurian age.[1] It is known for its fossils of early dinosaurs. 
+
+- Crurotarsans
+- Ornithischians
+-  Sauropodomorphs
+- Theropods
+- Tritylodonts
+- Mammaliforms]]></description>
+			<Point>
+				<coordinates>102.070541,24.970186,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Lower Triassic Majianshan Formation at Chaoxian, Anhui</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Book: 
+Chinese Fossil Vertebrates, page 116. (http://books.google.com/books?id=AzHUXy7HGo4C&pg=PA374&lpg=PA374&dq=fossil+formations+along+the+Yangtze+river&source=bl&ots=tdaUUi6qs3&sig=p_TOaZcbSSoUeWfmsubjcL330DA&hl=en&sa=X&ei=FaiEUo3_HImO2AXk9YH4DA&ved=0CD4Q6AEwATgK#v=onepage&q=fossil%20formations%20along%20the%20Yangtze%20river&f=false)
+
+Chaohusaurus.]]></description>
+			<Point>
+				<coordinates>116.64694900000002,31.766202000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Luoping, Qujing, Yunnan</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[dailymail.co.uk (http://www.dailymail.co.uk/sciencetech/article-1340756/Massive-haul-20-000-ancient-fossils-China-life-Earth-bounced-biggest-mass-extinction-time.html)
+ 
+How the world bounced back: Massive haul of 20,000 ancient fossils in China shows new life after biggest mass extinction of all time.
+ 
+Lots of fossil photos in article.]]></description>
+			<Point>
+				<coordinates>104.36187700000002,24.832857,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Maleri &amp; Dharmaram Formations (Pranhita–Godavari Basin)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Maleri_Formation)
+
+The Pranhita–Godavari Basin is a geological formation in India whose strata date back to the Late Triassic and the Early Jurassic. Dinosaur remains are among the fossils that have been recovered from the formation.[1][2] The Pranhita–Godavari Basin is divided in four formations, namely Lower Maleri, Upper Maleri, Lower Dharmaram and Upper Dharmaram.  ]]></description>
+			<Point>
+				<coordinates>79.911804,18.817917,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Minatogawa Man</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Minatogawa_Man)
+ 
+The "Minatogawa" people are a prehistoric people of Okinawa, Japan, represented by four skeletons, two male and two female, and some isolated bones dated between 16,000 and 14,000 years BCE. They are among the oldest complete skeletons of modern humans recovered in East Asia.[2][3][4][5]]]></description>
+			<Point>
+				<coordinates>127.70928399999998,26.127989,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Minatogawa Man</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Minatogawa_Man_Restoration_model.jpg/450px-Minatogawa_Man_Restoration_model.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Momotarou2012 (http://commons.wikimedia.org/wiki/User:Momotarou2012)]]></description>
+			<Point>
+				<coordinates>127.73941,26.097488,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Minhe Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Location coordinates: nau.edu, The Tertiary Systems of Gansu Province. (http://nau.edu/uploadedFiles/Academic/CEFNS/NATSCI/SESES/Forms/thetertiary.pdf)
+
+ Wikipedia
+ 
+The Minhe Formation (simplified Chinese: 民和组; traditional Chinese: 民和組; pinyin is a geological formation in northwestern China, whose strata date back to the Late Cretaceous period.
+Dinosaur remains are among the fossils that have been recovered from the formation.[2 ]]></description>
+			<Point>
+				<coordinates>101.782837,36.633162,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Nagura Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Nagura_Formation)
+
+The Nagura Formation is a palaeontological formation located in Japan. It dates to the Middle Miocene period.]]></description>
+			<Point>
+				<coordinates>139.766672,35.683326,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Nanxiong Formation (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[news.msn.com (http://news.msn.com/science-technology/pinocchio-rex-t-rexs-long-snouted-cousin-discovered)
+
+Researchers previously found the complete skull and parts of the neck, back, hind limbs and tail of the new dinosaur, Qianzhousaurus sinensis, at a construction site in the Nanxiong Formation in southeastern China. Brusatte and his colleagues then analyzed the fossils, which are now housed at the Ganzhou Museum in Ganzhou City, China.]]></description>
+			<Point>
+				<coordinates>113.487911,23.402450000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Nemegt locality (Barun Goyot site) (Cretaceous of Mongolia)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Coordinates: http://fossilworks.org/ (http://fossilworks.org/cgi-bin/bridge.pl?a=collectionSearch&collection_no=37004)
+
+Wikipedia (http://en.wikipedia.org/wiki/Barun_Goyot_Formation)
+ 
+- Saurischians
+- Lizards
+- Mammals
+- Ornithischians]]></description>
+			<Point>
+				<coordinates>101.321411,43.504737,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Ngandong Man</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[ScienceDirect (http://www.sciencedirect.com/science/article/pii/S004724840800047X)
+
+Gamma-ray spectrometric dating of late Homo erectus skulls from Ngandong and Sambungmacan, Central Java, Indonesia
+
+Wikipedia (http://en.wikipedia.org/wiki/Ngandong)
+Solo Man (Homo erectus soloensis), was formerly classified as Homo sapiens soloensis and is now regarded as a subspecies of the extinct hominin, Homo erectus. The only known specimens of this anomalous hominid were retrieved from sites along the Bengawan Solo River, on the Indonesian island of Java. The remains are also commonly referred to as Ngandong, after the village near where they were first recovered.]]></description>
+			<Point>
+				<coordinates>110.892601,-7.281157,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Oligocene Itanoura Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Mizunami Fossil Museum Page 88 (http://www.city.mizunami.gifu.jp/sightseeing/mizunami/cultural_property/institution/Bull33/07.pdf)
+
+Paleogene ostracodes from the Kishima Formation, Kishima Group, Saga Prefecture, southwestern Japan.
+ 
+Wikipedia:  (http://en.wikipedia.org/wiki/Kishima_Group)
+
+The Kishima Group is a group of palaeontological formations located in Japan. It dates to theUpper Eocene - Lower Oligocene period.
+ 
+The formations of the Kishima Group are:
+
+- Daimyoji Formation
+- Funazu Formation
+- Itanoura Formation
+- Kakinoura Formation
+- Kishima Formation
+- Magome Formation
+- Matsushima Formation
+- Okinoshima Formation
+- Oshima Formation]]></description>
+			<Point>
+				<coordinates>130.02182,33.208244,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Quantou Formation (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[academia.edu (http://www.academia.edu/1953674/New_material_of_large-bodied_ornithischian_dinosaurs_including_an_iguanodontian_ornithopod_from_the_Quantou_Formation_middle_Cretaceous_Aptian-Cenomanian_of_Jilin_Province_northeastern_China)
+
+New material of large-bodied ornithischian dinosaurs, includingan iguanodontian ornithopod, from the Quantou Formation(middle  Cretaceous: Aptian–Cenomanian) of Jilin Province, northeastern China.]]></description>
+			<Point>
+				<coordinates>124.82283,43.504687,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Sangiran</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Sangiran)
+
+Sangiran is an archaeological excavation site in Java in Indonesia. [1] According to a UNESCO report (1995) "Sangiran is recognized by scientists to be one of the most important sites in the world for studying fossil man, ranking alongside Zhoukoudian (China), Willandra Lakes (Australia), Olduvai Gorge (Tanzania), and Sterkfontein (South Africa), and more fruitful in finds than any of these."[2]]]></description>
+			<Point>
+				<coordinates>110.85,-7.450000000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Sao Khua Formation - Phu Faek Forrest Park</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/18744492.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Sao_Khua_Formation)
+
+The Sao Khua Formation is a middle member of the Khorat Group. It consists of an alteration of pale red to yellowish-gray, fine to medium-grained sandstone and grayish-reddish brown siltstone and clay. Rare pale red to light gray conglomerates, containing carbonate pebbles, are also characteristic of this Formation. This geological formation in Thailand, dates to the Early Cretaceous age.
+Dinosaur remains are among the fossils that have been recovered from the formation.[1]  
+
+
+Photo of a dinosaur footprint.
+
+Google Map / Panoramio / Wera M (http://www.panoramio.com/user/141194?with_photo_id=18744492)]]></description>
+			<Point>
+				<coordinates>103.936667,16.690549,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Shanghu Formation - Nanxiong Basin</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Book: The Cretaceous-Tertiary Boundary in the San Juan and Raton Basins ..., Issue 209, page 186.edited by James E. Fassett, J. Keith Rigby                                                 (http://books.google.com/books?id=28kOM7jNJLsC&pg=PA186&lpg=PA186&dq=qianshan+basin&source=bl&ots=4HEUKECTAQ&sig=hRQ-0ewDtO4l_E3KCgBRdLv71pY&hl=en&sa=X&ei=SPSFUpuxGOeY2wXuqIHwDw&ved=0CEQQ6AEwAw#v=onepage&q=Nanjing&f=false)    
+
+Bemalambda.]]></description>
+			<Point>
+				<coordinates>113.716667,24.8,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Shishugou Formation dinosaur traps at the Qitai Silicon Wood-Dinosaur National Geological Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Shishugou_Formation_dinosaur_traps)
+
+The Shishugou Formation dinosaur traps also known as death pits or death traps are located in the Junggar Basin in the Xinjiang region of northwestern China, and are a rich source of dinosaur fossils, many of which are new to palaeontology. [1] The Junggar Basin is a large continental basin made up of fluviatile and lacustrine sediments up to 6 km thick. [2] The sites are some 95 km NNE of the town Qitai.
+
+These traps or bonebeds are unusual in that they consist of vertically stacked skeletons of numerous non-avian theropods in 1–2 m deep pits. The pits are filled with a mix of alluvial and volcanic mudstone and sandstone and appear to have been created by the trampling and wallowing of large dinosaurs.]]></description>
+			<Point>
+				<coordinates>90.043237,44.809065,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Shivalik Fossil Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[tribuneindia.com (http://www.tribuneindia.com/2003/20030726/windows/note.htm)
+
+Wikipedia (http://en.wikipedia.org/wiki/Shivalik_Fossil_Park)
+
+Shivalik Fossil Park is a fossil park situated at Saketi, India, 14 km from Nahan, the district headquarters of Sirmaur, Himachal Pradesh.
+This Fossil Park includes the preservation of the Shivalik fossil site; the reconstruction of the Sivalik Hills environment and fossils; life-sized models made of fibre glass and resins, of selected Shivalik mammals and a museum containing Shivalik fossils. They are used for generating scientific interest in the public and for facilitating special studies by visiting research scholars from all over the world.
+
+The idea of establishing the Shivalik Fossil Park was mentioned as early as 1969 with a view to preserving the fossil sites.]]></description>
+			<Point>
+				<coordinates>77.243537,30.503274999999995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Skhul and Qafzeh hominids</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia
+ (http://en.wikipedia.org/wiki/Qafzeh) 
+
+The Skhul/Qafzeh hominids or Qafzeh–Skhul early modern humans[1] are human fossils discovered in the Qafzeh and Es Skhul Caves in the former Mandate of Palestine, present-day Israel. Skhul Cave is on the slopes of Mount Carmel. Qafzeh Cave is a rockshelter in Lower Galilee.]]></description>
+			<Point>
+				<coordinates>35.318242,32.688219,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Tabun Cave</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Tabun,_Israel)
+
+The Tabun Cave contains a Neanderthal-type female, dated to about 120,000 years ago. It is one of the most ancient human skeletal remains found in Israel.[1]]]></description>
+			<Point>
+				<coordinates>35.260924,32.758851,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Tategahana Paleolithic Site: Lake Nojiri</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Lake_Nojiri#Tategahana_Paleolithic_Site)
+
+In 1946, a tusk of Palaeoloxodon naumanni (named in honor of the O-yatoi gaikokujin Heinrich Edmund Naumann, 1854–1927) was discovered accidentally. In 1962, excavations began at the edge and on the bottom of the lake. The location was a promontory, on the western shore, known as Tategahana. Discoveries included implements of stone and bone, fossils of Palaeoloxodon naumanni, and of deer. Analyses of diatoms, pollen,paleomagnetism, and volcanic ash place the site, with its fossils of humans and megafauna, in the Paleolithic, the Pleistocene, about 40,000 years ago. Kondo et al. conclude that Tategahana is a "kill-butchering site." [1]]]></description>
+			<Point>
+				<coordinates>138.217793,36.82976,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Thẩm Khuyên Cave</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[US National Library of Medicine 
+National Institutes of Health (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC39753/)
+ 
+Dated co-occurrence of Homo erectus and Gigantopithecus form Tham Khhuyen Cave, Vietnam]]></description>
+			<Point>
+				<coordinates>106.4,22.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Tiaojishan Formation - Daohugou bed (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[dailymail.co.uk/ (http://www.dailymail.co.uk/sciencetech/article-2490812/The-bugs-having-sex-165-million-YEARS-Oldest-fossil-insects-mating-discovered-China.html)                                                                               
+The bugs that have been having sex for 165 million YEARS: Oldest fossil of insects mating is discovered in China.
+
+Wikipedia: Tiaojishan Formation (http://en.wikipedia.org/wiki/Tiaojishan_Formation)
+
+The Tiaojishan Formation is a geological formation in Hebei and Liaoning, People's Republic of China, dating to the middle-late Jurassic period (Bathonian-Oxfordian stage). It is known for its fossil plants, and is made up mainly of pyroclastic rock interspersed with basic volcanic and sedimentary rocks. Previously, the Tiaojishan Formation was grouped together with the underlying Haifanggou Formation (also known as the Jiulongshan Formation) as the single "Lanqui Formation."[1] Most researchers agree that the historically controversial Daohugou Bed is a part of the Tiaojishan formation.[2]]]></description>
+			<Point>
+				<coordinates>118.68744900000002,40.918377,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Trinil</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Trinil)
+
+Trinil is a palaeoanthropological site on the banks of the Bengawan Solo River in Ngawi Regency, East Java Province, Indonesia. It was at this site in 1891 that the Dutch anatomist Eugène Dubois discovered the first early hominid remains to be found outside of Europe: the famous "Java Man" specimen.[1][2][3]]]></description>
+			<Point>
+				<coordinates>111.34916400000002,-7.395809999999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Tuchengzi Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Tuchengzi_Formation)
+
+The Tuchengzi Formation (simplified Chinese: 土城子组; traditional Chinese: 土城子組; pinyin: Tǔchéngzǐ Zǔ) is a geologicalformation in China whose strata spans the Tithonian (Late Jurassic) to Berriasian (Early Cretaceous) ages.[1] Dinosaur fossils, particularly footprints, have been found from the formation.[3]]]></description>
+			<Point>
+				<coordinates>123.998905,42.925674,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Udurchukan Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Udurchukan_Formation)
+
+The Udurchukan Formation is a palaeontological formation located in Amur Region, Far East Russia. It dates to the Maastrichtian stage of the Late Cretaceous period, probably the late Maastrichtian.[1]]]></description>
+			<Point>
+				<coordinates>130.9,49.1,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Uhangri Dinosaur Fossil Site</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Uhangri_Formation)
+
+The Uhangri Dinosaur Fossil Site area was originally covered by ocean, uncovered when Lake Damsuho, and surrounding area, was created by the construction of the Geumho Tide project.
+Lake Damsuho has cliffs that are 3-4 meters/10-13 feet high, stretching about 5 kilometers/3.1 miles, made up of sedimentary rock formed during the Cretaceous age. Embedded in the rock formations around the lake are fossilized footprints of dinosaurs, pterosaurs and water birds that lived in this area tens of millions of years ago.
+
+No other place in the world has fossil footprints of all these different dinosaurs found in a single area. The footprints of a pterosaur discovered in this area is the largest in the world at a length of 20-35 centimeters/8-14 inches.[1]]]></description>
+			<Point>
+				<coordinates>126.43949699999999,34.58878,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Wanghudun Formation of the Qianshan Basin </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Book: The Cretaceous-Tertiary Boundary in the San Juan and Raton Basins ..., Issue 209, page 185.edited by James E. Fassett, J. Keith Rigby                                                           (http://books.google.com/books?id=28kOM7jNJLsC&pg=PA186&lpg=PA186&dq=qianshan+basin&source=bl&ots=4HEUKECTAQ&sig=hRQ-0ewDtO4l_E3KCgBRdLv71pY&hl=en&sa=X&ei=SPSFUpuxGOeY2wXuqIHwDw&ved=0CEQQ6AEwAw#v=onepage&q=Nanjing&f=false) 
+ 
+Wanghudun Formation of the Qianshan Basin (Chienshan) ofAnhui (Anhwei) Province (30° 25’, 116° 20’) ]]></description>
+			<Point>
+				<coordinates>116.33333299999998,30.416667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Wucaiwan Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Wucaiwan_Formation)
+ 
+Indeterminate ankylosaur remains geographically located in Xinjiang Uyghur Autonomous Region, China.[1] Indeterminate stegosaur remains geographically located in Xinjiang Uyghur Autonomous Region, China.[1] Indeterminate ornithopod remains geographically located in Xinjiang Uyghur Autonomous Region, China.[1]]]></description>
+			<Point>
+				<coordinates>88.9,45.20000000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Wutu Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Book: The Cretaceous-Tertiary Boundary in the San Juan and Raton Basins ..., Issue 209), page 186. edited by James E. Fassett, J. Keith Rigby                                                     (http://books.google.com/books?id=28kOM7jNJLsC&pg=PA186&lpg=PA186&dq=qianshan+basin&source=bl&ots=4HEUKECTAQ&sig=hRQ-0ewDtO4l_E3KCgBRdLv71pY&hl=en&sa=X&ei=SPSFUpuxGOeY2wXuqIHwDw&ved=0CEQQ6AEwAw#v=onepage&q=Nanjing&f=false    
+
+Homogalax cf. protapirnus.]]></description>
+			<Point>
+				<coordinates>118.84999999999998,36.666667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Xiagou Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Xiagou_Formation)
+
+The Xiagou Formation is the middle strata of the Xinminpu Group. It is named for its type site in Xiagou, in the Changma Basin of Gansu Province, northwestern China and is considered Early Cretaceous in age. It is known outside the specialized world of Chinese geology as the site of a lagerstätte in which the fossils were preserved of Gansus yumenensis, the earliest true modern bird.]]></description>
+			<Point>
+				<coordinates>96.8,39.9,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Xingyi, Qianxinan, Guizhou</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Book:  Fossil Vertebrates, page 115.  By Spencer G. Luca
+(http://books.google.com/books?id=AzHUXy7HGo4C&pg=PA374&lpg=PA374&dq=fossil+formations+along+the+Yangtze+river&source=bl&ots=tdaUUi6qs3&sig=p_TOaZcbSSoUeWfmsubjcL330DA&hl=en&sa=X&ei=FaiEUo3_HImO2AXk9YH4DA&ved=0CD4Q6AEwATgK#v=onepage&q=fossil%20formations%20along%20the%20Yangtze%20river&f=false) 
+
+Shingyisaurus.]]></description>
+			<Point>
+				<coordinates>104.895489,25.092053000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Xinminbao Group</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Xinminbao_Group)
+
+The Xinminbao Group is a group of geological formations in north central China. They occur across a large depression between the Altai mountains of Mongolia to the north and the Qilian mountains of the Qinghai Plateau to the south, in the Gonpoquan and Suanjingze basins, and also in the neighbouring Jiuquan Basin.
+
+Both of these areas are inland basins consisting of fluvial (river), lacustrine (lake), and intermontane (between mountains) alluvial fan (floodplain) sediments that were deposited during the Early Cretaceous, probably during the Aptian or possibly late Barremian stage, when the climate was semi-arid and subtropical.
+
+The Group has been visited by many expeditions including the Silk Road dinosaur expedition of 1992 which concentrated on the area around Mazong Shan.]]></description>
+			<Point>
+				<coordinates>98.0,41.5,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Probactrosaurus</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Probactrosaurus_v3.jpg/800px-Probactrosaurus_v3.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Deibvort]]></description>
+			<Point>
+				<coordinates>98.657227,41.294317,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Xiushan Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Xiushan_Formation)
+ 
+The Xiushan Formation is a palaeontological formation located in China. It dates to the Lower Silurian period.]]></description>
+			<Point>
+				<coordinates>108.0,28.0,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Yamaga Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia  (http://en.wikipedia.org/wiki/Yamaga_Formation)                                                                                     The Yamaga Formation is a palaeontological formation located in Japan. It dates to the Upper Oligocene period.]]></description>
+			<Point>
+				<coordinates>130.7,33.8,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Yixian Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Coordinates: http://fossilworks.org (http://fossilworks.org/cgi-bin/bridge.pl?a=collectionSearch&collection_no=31541)
+ 
+ The tetrapod fossils from Jehol - lists (University of Bristol) (http://palaeo.gly.bris.ac.uk/melanosomes/lists.html)
+
+Wikipedia: (http://en.wikipedia.org/wiki/Chaomidianzi_Formation)
+
+The Yixian Formation (simplified Chinese: 义县组; traditional Chinese: 義縣組; pinyin: Yìxiàn zǔ) is a geological formation in Jinzhou, Liaoning, People's Republic of China, that spans 11 million years during the early Cretaceousperiod. It is known for its exquisitely preserved fossils, and is mainly composed of basalts interspersed with siliciclastic sediments.[1]]]></description>
+			<Point>
+				<coordinates>117.900124,40.200215,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Yuanmou Man</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[china.org.cn (http://www.china.org.cn/e-gudai/1.htm)
+
+In 1965, fossils of Yuanmou Man were discovered in Yuanmou County, Yunnan Province. Yuanmou Man, who lived 1.7 million years ago was the first Homo erectus ever found within the boundaries of China.]]></description>
+			<Point>
+				<coordinates>101.87452,25.704338,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Yuliangze Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Yuliangze_Formation)
+ 
+The Yuliangze Formation is a geological formation in Heilongjiang, China whose strata date back to the Late Cretaceous. Dinosaur remains are among the fossils that have been recovered from the formation.[1]
+
+- Tarbosaurus sp. (tyrannosaurid indet)
+- Ornithomimus sp. (ornithomimmosaur indet)
+- Charonosaurus jiayinensis - "Partial skull and partial, fragmentary postcranial elements."[2]
+- Mandschurosaurus amurensis (hadrosaurid indet)
+- Sahaliyania elunchunorum
+- Wulagasaurus dongi]]></description>
+			<Point>
+				<coordinates>130.411835,48.88278,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Tarbosaurus </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/U.S._Immigration_and_Customs_Enforcement_%28ICE%29_officials_return_a_Tarbosaurus_bataar_skeleton_to_the_government_of_Mongolia_during_a_repatriation_ceremony_May_6%2C_2013%2C_at_a_Manhattan_hotel_in_New_York_130506-H-ZZ999-005.jpg/777px-thumbnail.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>130.531311,48.850258,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Yushima Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Yushima_Formation)
+
+The Yushima Formation, also known as the Tatsunokuchi Formation, is a palaeontological formation located in Japan. It dates to the Lower Pliocene period.]]></description>
+			<Point>
+				<coordinates>141.175062,39.05762300000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Zaoshi (Zhaoshih) Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Book: The Cretaceous-Tertiary Boundary in the San Juan and Raton Basins ..., Issue 209 , page 186.edited by James E. Fassett, J. Keith Rigby                                                     (http://books.google.com/books?id=28kOM7jNJLsC&pg=PA186&lpg=PA186&dq=qianshan+basin&source=bl&ots=4HEUKECTAQ&sig=hRQ-0ewDtO4l_E3KCgBRdLv71pY&hl=en&sa=X&ei=SPSFUpuxGOeY2wXuqIHwDw&ved=0CEQQ6AEwAw#v=onepage&q=Nanjing&f=false) ]]></description>
+			<Point>
+				<coordinates>113.5,26.666667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Zaza Formation</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Zaza_Formation)
+
+The Zaza Formation is a palaeontological formation located in Russia. It dates to the Lower Cretaceous period.]]></description>
+			<Point>
+				<coordinates>112.1,53.3,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Zigong Geopark</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[globalgeopark.org (http://www.ziggeopark.com/english/visit.asp?id=14)
+
+The geopark is composed of Dinosaur Area, Well-Salt Industry Area and Qinglongshan Area .As the core scenic area of the geopark, Dinosaur Area is a spot to make scientific popularization, promote the study of geological knowledge, carry out geotourism, and scientific expedition and research. It covers area of 8.7km² including the Zigong Dinosaur Museum in Dashanpu Dinosaur Fossil Site, the Silicified Wood Site in Changshan Range, Ziliujing Anticline, and typical stratigraphic sections of the Ziliujing Formation.Well-salt industry area displays the rich resources of salt and natural gas, long history and glorious culture of well-salt industry.]]></description>
+			<Point>
+				<coordinates>104.788237,29.374596000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Zhoukoudian or Choukoutien (Peking Man)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Zhoukoudian)
+
+Zhoukoudian or Choukoutien (Chinese: 周店; pinyin: Zhōukǒudiàn,IPA: [tʂóʊkʰòʊtjɛ̂n]) is a cave system in Beijing, China. It has yielded many archaeologicaldiscoveries, including one of the first specimens of Homo erectus, dubbed Peking Man, and a fine assemblage of bones of the gigantic hyena Pachycrocuta brevirostris. Peking Man lived in this cave approximately 750,000 to 200,000 years ago.]]></description>
+			<Point>
+				<coordinates>115.923889,39.689167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Homo erectus pekinensis</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/c5/Homo_erectus_pekinensis_-_archeaeological.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia Commons / Cicero Moraes (http://commons.wikimedia.org/wiki/User:Cicero_Moraes)]]></description>
+			<Point>
+				<coordinates>115.993652,39.584524,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>salkhan fossils park, robertsganj,sonbhadra distt., 1400 million years old fossils</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/42198321.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / d c kumar]]></description>
+			<Point>
+				<coordinates>83.041545,24.587095,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Luotuo Hill,  Dalian, China (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.shanghaidaily.com/national/Peking-Man-era-site-revealed/shdaily.shtml
+
+Peking Man era site revealed
+
+Dozens of stone, animal bone and horn tools have been excavated at a limestone quarry site on Luotuo Hill in the northeast coastal city of Dalian in Liaoning Province.
+
+Researchers have obtained more than 1,000 samples since a joint excavation began in August by the Institute of Vertebrate Paleontology and Paleoanthropology of the Chinese Academy of Sciences and the Dalian Natural History Museum.
+
+Stone tools and large animal bones that appear to have been cut or smashed by humans suggest an important site of early human activity, said Huang Weiwen, an institute researcher.]]></description>
+			<Point>
+				<coordinates>121.4813232,38.9092016,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Hadong, South Korea</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.huffingtonpost.com/2014/11/28/complete-tiny-dinosaur-skeleton_n_6223724.html
+
+Complete Tiny Dinosaur Skeleton Discovered In South Korea
+
+A tiny dinosaur about the size of a house cat was recently discovered in South Korea.
+
+The dinosaur's fossilized remains span about 11 inches, but scientists told Korea JoongAng Daily that it was likely about 20 inches long when it was alive.
+
+“Based on the findings so far, we assume that the dinosaur is something close to a microraptor or others in the raptor genera,” Lim Jong-deock, chief curator of the National Research Institute of Cultural Heritage, told the news agency. “However, it’s uncertain at this stage exactly which type of dinosaur it was, and there is a chance that it is a new type that hasn’t been reported to academia as of yet.”]]></description>
+			<Point>
+				<coordinates>127.752285,35.0675889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1201'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1201-fac-info-alt.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-993'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/993-biz-camera.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

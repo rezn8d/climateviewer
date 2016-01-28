@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<NetworkLink>
+<name><![CDATA[NOAA Reported Weather Modifications Activities (2004-2012)]]></name>
+<Link>
+<href>
+https://www.google.com/fusiontables/exporttable?query=select+col12+from+1XgB7-IKoX7y2tkmmU0zSED1TlBsa3WDaOL6py4zk+where+col3+%3E%3D+%272009%27&amp;o=kmllink&amp;g=col12&amp;styleId=2&amp;templateId=2</href>
+</Link>
+</NetworkLink>
+</kml>

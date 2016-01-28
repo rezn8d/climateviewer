@@ -1,0 +1,3124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps on History</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com) ]]></description>
+			<Point>
+				<coordinates>-90.593262,44.621754,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1037</styleUrl>
+			<name>Other Ship &amp; Sea Related Maps</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[- Sunken Ships of the Atlantic (http://myreadingmapped.blogspot.com/2011/04/interactive-map-of-sunken-ships-of.html) 
+
+- Sunken Ships of the Pacific (http://myreadingmapped.blogspot.com/2011/04/interactive-map-of-sunken-ships-of_30.html)
+
+- Sunken Ships of the North, Baltic and Mediterranean Seas. (http://myreadingmapped.blogspot.com/2011/06/interactive-map-of-sunken-ships-of.html)
+
+- Sunken Ships of the Indian Ocean and Red Sea (http://myreadingmapped.blogspot.com/2011/12/interactive-map-of-sunken-ships-of-th.html)
+
+- Ship Grave Yards (http://myreadingmapped.blogspot.com/2012/01/interactive-map-of-ship-graveyards.html) 
+
+- Historic Ships Preserved in Google Map (http://myreadingmapped.blogspot.com/2012/01/historic-ships-preserved-in-google-map.html)
+
+- Oldest Lighthouses (http://myreadingmapped.blogspot.com/2012/11/the-oldest-lighthouses.html) 
+
+- Oceanic Trenches and Other Undersea Phenomena (http://myreadingmapped.blogspot.com/2011/09/interactive-map-of-oceanic-trenches_02.html)]]></description>
+			<Point>
+				<coordinates>-86.561279,47.554287,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Shipwrecks of Lake Ontario</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Rather than recreate something that has been already been done, I decided to send you to another site, Shipwreck World for shipwrecks in Lake Ontario.
+(http://www.shipwreckworld.com/maps/) ]]></description>
+			<Point>
+				<coordinates>-77.579956,43.572432,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>17 Fathom Wreck</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[105 feet, 42°39.103 N, 80°03.145 W
+ 
+Background Info (http://www.eriewrecks.com/shipwrecks/17fathom/17fathom.html)]]></description>
+			<Point>
+				<coordinates>-80.052417,42.651717,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>117th Street Wreck </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[39 feet, 41°30.777 N, 81°43.751W
+ 
+Background Info. (http://www.eriewrecks.com/shipwrecks/117street/117street.html)]]></description>
+			<Point>
+				<coordinates>-81.729183,41.51295,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Aberdeen</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://stevekluge.com (http://stevekluge.com/geoscience/regentses/labs/shipwrecksoflakeontario2.pdf)]]></description>
+			<Point>
+				<coordinates>-77.066667,44.066667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>A.C. Adams</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.superiortrips.com (http://www.superiortrips.com/NShoreShipwreckImages/ACAdams_Shipwreck.htm)]]></description>
+			<Point>
+				<coordinates>-91.98835,46.8197,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Admiral</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[75 feet, 41°38.244 N, 81°54.197W
+ 
+Background Info. (http://www.ohioshipwrecks.org/ShipwreckDetail.php?AR=3&Wreck=28)]]></description>
+			<Point>
+				<coordinates>-81.903283,41.6374,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Adventure</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[25 feet , 41°38.84 N, 82°41.73 W
+ 
+Background Info. (http://www.ohioshipwrecks.org/ShipwreckDetail.php?AR=1&Wreck=1)]]></description>
+			<Point>
+				<coordinates>-82.6955,41.647333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>A.J. Rogers</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/grandtraverse.htm)]]></description>
+			<Point>
+				<coordinates>-85.48,45.0525,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Albany</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/albany.html)]]></description>
+			<Point>
+				<coordinates>-83.45846700000001,45.323267,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Aloha</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://stevekluge.com (http://stevekluge.com/geoscience/regentses/labs/shipwrecksoflakeontario2.pdf)]]></description>
+			<Point>
+				<coordinates>-76.566667,44.166667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Alva B.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[12 feet, 41°30.768 N, 82°01.894 W
+ 
+Background Info (http://www.ohioshipwrecks.org/ShipwreckDetail.php?AR=2&Wreck=22)]]></description>
+			<Point>
+				<coordinates>-82.031567,41.5128,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Alva Bradley</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/manitou.htm)]]></description>
+			<Point>
+				<coordinates>-85.987667,45.037833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Alvin Buckingham</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/alvin_buckingham.html)]]></description>
+			<Point>
+				<coordinates>-83.285383,44.840983,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Amboy</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.mnhs.org (http://www.mnhs.org/places/nationalregister/shipwrecks/amboy/amboy.html)]]></description>
+			<Point>
+				<coordinates>-90.9983,47.4779,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>America</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[15 feet, 41°49.675 N, 82°38.066 W]]></description>
+			<Point>
+				<coordinates>-82.634433,41.827917,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>American Union</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/american_union.html)]]></description>
+			<Point>
+				<coordinates>-83.589467,45.356867,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Annie Falconer</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://stevekluge.com (http://stevekluge.com/geoscience/regentses/labs/shipwrecksoflakeontario2.pdf)]]></description>
+			<Point>
+				<coordinates>-76.816667,43.966667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Arches</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[160 feet, 42°27.476 N, 80°01.021 W]]></description>
+			<Point>
+				<coordinates>-80.017017,42.457933,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Atlantic</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[155 feet, 42°30.620 N, 80°05.086 W
+ 
+Background Info (http://www.norwayheritage.com/articles/templates/great-disasters.asp?articleid=33&zoneid=1)]]></description>
+			<Point>
+				<coordinates>-80.084767,42.510333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Avro Arrow</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://stevekluge.com (http://stevekluge.com/geoscience/regentses/labs/shipwrecksoflakeontario2.pdf)]]></description>
+			<Point>
+				<coordinates>-78.21666700000002,43.816667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Barge No. 1</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/barge1.html)]]></description>
+			<Point>
+				<coordinates>-83.303967,45.015317,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Bay City</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/bay_city.html)]]></description>
+			<Point>
+				<coordinates>-83.42675,45.05615,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Bay Coal Schooner</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[55 feet, 41°33.009 N, 81°56.077 W]]></description>
+			<Point>
+				<coordinates>-81.934617,41.55015000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Bermuda (Murray Bay wreck)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/alger.htm)]]></description>
+			<Point>
+				<coordinates>-86.646833,46.464833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Bow Cabin</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[70 feet, 41°56.811 N, 82°14.107 W]]></description>
+			<Point>
+				<coordinates>-82.235117,41.94685,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Brightie</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/westmichigan.htm)]]></description>
+			<Point>
+				<coordinates>-86.498167,43.498167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Brown Brothers</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[125 feet, 42°37.647 N, 80°00.912 W]]></description>
+			<Point>
+				<coordinates>-80.0152,42.62745000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Brunswick</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[110 feet, 42°35.465 N, 79°24.546 W]]></description>
+			<Point>
+				<coordinates>-79.4091,42.591083,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Canobie (Viewable in the water)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[10 to 15 feet, 42°10.326 N, 80°00.903 W]]></description>
+			<Point>
+				<coordinates>-80.007752,42.173129,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Carlingford</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[95 feet, 42°39.266 N, 79°28.6163 W]]></description>
+			<Point>
+				<coordinates>-79.476938,42.654433,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Carrington (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.wisconsinshipwrecks.org (http://www.wisconsinshipwrecks.org/explore_carrington_intro.cfm)]]></description>
+			<Point>
+				<coordinates>-87.316246,45.092065,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>C. B. Benson</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[86 feet, 42°46.259 N, 79°14.609 W]]></description>
+			<Point>
+				<coordinates>-79.243483,42.770983,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Cecil J.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[+42°20 feet, 42°45.785 N, 80°13.688 W]]></description>
+			<Point>
+				<coordinates>-80.228133,42.763083,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Charles H. Davis</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[40 feet, 41°30.780 N, 81°43.52 W]]></description>
+			<Point>
+				<coordinates>-81.725333,41.513,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Charles Foster</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[80 feet, 42°10.445 N, 80°15.007 W]]></description>
+			<Point>
+				<coordinates>-80.250117,42.174083,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Chester A. Congdon</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/3/32/Chester_CongdonWreck.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Chester A. Congdon on Wikipedia
+ (http://en.wikipedia.org/wiki/Chester_A._Congdon_(ship) 
+
+Wikipedia Commons
+
+ 
+
+ 
+-]]></description>
+			<Point>
+				<coordinates>-88.514444,48.193333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Christina Nilsson</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.wisconsinshipwrecks.org/ (http://www.wisconsinshipwrecks.org/explore_nilsson_intro.cfm)]]></description>
+			<Point>
+				<coordinates>-87.094438,45.054364,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>City of Alpena</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov/ (http://thunderbay.noaa.gov/shipwrecks/city_of_alpena.html)]]></description>
+			<Point>
+				<coordinates>-83.29440000000001,44.7878,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>City of  Sheboygan</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://stevekluge.com (http://stevekluge.com/geoscience/regentses/labs/shipwrecksoflakeontario2.pdf)]]></description>
+			<Point>
+				<coordinates>-76.75,44.083333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>City of St. Joseph</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/keweenaw.htm)]]></description>
+			<Point>
+				<coordinates>-88.1125,47.47,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Cleveco</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[75 feet, 41°47.473 N, 81°36.000 W
+
+
+Background Info. (http://www.ohioshipwrecks.org/ShipwreckDetail.php?AR=3&Wreck=24)]]></description>
+			<Point>
+				<coordinates>-81.6,41.791217,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Commanche</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/westmichigan.htm)]]></description>
+			<Point>
+				<coordinates>-86.483667,43.837500000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Comet</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/e/e5/SS_Comet_under_sail.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[230 feet, 46°43.02′N, 84°52.00′W
+Comet on Wikipedia (http://en.wikipedia.org/wiki/Comet_(steamboat) 
+ 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-84.866667,46.717000000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Comet</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://stevekluge.com (http://stevekluge.com/geoscience/regentses/labs/shipwrecksoflakeontario2.pdf)]]></description>
+			<Point>
+				<coordinates>-76.583333,44.133333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Commercial Barge</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/southwest.htm)]]></description>
+			<Point>
+				<coordinates>-86.400417,42.780033,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Congress</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/manitou.htm)]]></description>
+			<Point>
+				<coordinates>-86.090833,45.024833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Craftsman</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[41 feet, 41°31.942 N, 82°00.375 W
+
+
+Background Info. (http://www.ohioshipwrecks.org/ShipwreckDetail.php?AR=2&Wreck=20)]]></description>
+			<Point>
+				<coordinates>-82.00625,41.532367,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Corsican</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/corsican.html)]]></description>
+			<Point>
+				<coordinates>-83.055,44.912667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Cornelia B. Windiate Wreck</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[3D animation of the Cornelia B. Windiate Wreck (http://www.thunderbaywrecks.com/3d-wreck-cornelia-b-windiate.php)]]></description>
+			<Point>
+				<coordinates>-83.2178167,45.32852210000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Crane &amp; Barge</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/southwest.htm)]]></description>
+			<Point>
+				<coordinates>-86.232,42.711833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Daniel Lyons</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.wisconsinshipwrecks.org (http://www.wisconsinshipwrecks.org/explore_daniellyons_intro.cfm)]]></description>
+			<Point>
+				<coordinates>-87.2952,44.670683,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>David Dows</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.scubachicago.com (http://www.scubachicago.com/dows.html)]]></description>
+			<Point>
+				<coordinates>-87.39186700000002,41.7674,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Dean Richmond</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[110 feet, 42°17.421N, 79°55.859 W]]></description>
+			<Point>
+				<coordinates>-79.930983,42.290350000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Defiance Wreck</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[3D animation of the Defiance Wreck (http://www.thunderbaywrecks.com/3d-wreck-defiance.php)]]></description>
+			<Point>
+				<coordinates>-83.278567,45.234167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Detroit</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/detroit.html)]]></description>
+			<Point>
+				<coordinates>-83.311433,44.586183,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>D.M. Wilson</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/d_m_wilson.html)]]></description>
+			<Point>
+				<coordinates>-83.182133,45.065333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>D.R. Hanna</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/hanna.html)]]></description>
+			<Point>
+				<coordinates>-83.08655,45.084167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Duke Luedtke</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[70 feet, 41°41.630N, 81°57.655 W
+
+
+Background Info. (http://www.ohioshipwrecks.org/ShipwreckDetail.php?AR=2&Wreck=5)]]></description>
+			<Point>
+				<coordinates>-81.960917,41.693833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Dump Scow</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/dump_scow.html)]]></description>
+			<Point>
+				<coordinates>-83.299567,45.212667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Duncan City</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/duncan_city.html)]]></description>
+			<Point>
+				<coordinates>-83.762217,45.413117,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Dundee</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[75 feet, 41°41.330N, 81°50.634 W
+
+
+Background Info. (http://www.ohioshipwrecks.org/ShipwreckDetail.php?AR=3&Wreck=6)]]></description>
+			<Point>
+				<coordinates>-81.84390000000002,41.688833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Dunkirk Schooner</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[+42° 33' 0.00", -79° 36' 0.00"
+
+Dunkirk Schooner on Wikipedia (http://en.wikipedia.org/wiki/Dunkirk_Schooner_Site)]]></description>
+			<Point>
+				<coordinates>-79.6,42.55,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>EB Allen Wreck</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[3D animation of the EB Allen (http://www.thunderbaywrecks.com/3d-wreck-eb-allen.php)]]></description>
+			<Point>
+				<coordinates>-83.16498300000002,45.016267,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Edmund Fitzgerald</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Edmund_Fitzgerald-USACE.jpg/800px-Edmund_Fitzgerald-USACE.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[320 feet, 46° 59′ 54.6″ N, 85° 6′ 36.6″ 
+Edmund Fitzgerald on Wikipedia (http://en.wikipedia.org/wiki/Edmond_Fitzgerald)
+ 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-85.110167,46.9985,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Eldorado </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[15 to 20 feet, 42°10.326N, 80°00.903 W]]></description>
+			<Point>
+				<coordinates>-80.0110351,42.17211120000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Elmwood</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/)]]></description>
+			<Point>
+				<coordinates>-85.63505,44.787483,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire State</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/empire_state.html)]]></description>
+			<Point>
+				<coordinates>-83.256283,45.014217,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Empire State</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.wisconsinshipwrecks.org (http://www.wisconsinshipwrecks.org/explore_bullhead_serv.cfm)]]></description>
+			<Point>
+				<coordinates>-87.395436,44.841972000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Erieau Quarry Stone</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[15 feet, 42°15.412N, 81°54.341 W]]></description>
+			<Point>
+				<coordinates>-81.905683,42.256867,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>F.A. Meyer</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[78 feet, 41°55.439N, 82°02.953 W]]></description>
+			<Point>
+				<coordinates>-82.04921700000001,41.923983,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Fannie L. Jones</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[36 feet, 41°30.640N, 81°43.751 W]]></description>
+			<Point>
+				<coordinates>-81.729183,41.510667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Fireboat</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/southwest.htm)]]></description>
+			<Point>
+				<coordinates>-86.264,42.635733,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Fleetwing</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.wisconsinshipwrecks.org/ (http://www.wisconsinshipwrecks.org/explore_fleetwing_intro.cfm)]]></description>
+			<Point>
+				<coordinates>-87.049833,45.2875,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Florida</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/florida.html)]]></description>
+			<Point>
+				<coordinates>-83.283517,45.29635,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Francie</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/southwest.htm)]]></description>
+			<Point>
+				<coordinates>-86.2822,42.689167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Francisco Morazan (viewable in water)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/manitou.htm)]]></description>
+			<Point>
+				<coordinates>-86.141889,44.996725000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Frank O'Connor</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.wisconsinshipwrecks.org (http://www.wisconsinshipwrecks.org/explore_oconnor_intro.cfm)]]></description>
+			<Point>
+				<coordinates>-87.0121,45.114433,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Frank E. Vigor</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[90 feet, 41°57.545N, 81°57.242 W]]></description>
+			<Point>
+				<coordinates>-81.954033,41.959083,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>F.T. Barney</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/barney.html)]]></description>
+			<Point>
+				<coordinates>-83.8425,45.485833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Galena</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/galena.html)]]></description>
+			<Point>
+				<coordinates>-83.249833,45.007667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>George</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/alger.htm)]]></description>
+			<Point>
+				<coordinates>-86.520833,46.516,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>George Dunbar</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[45 feet, 41°40.631N, 82°33.893 W]]></description>
+			<Point>
+				<coordinates>-82.564883,41.677183,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Grecian Wreck</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[3D animation of the Grecian Wreck (http://www.thunderbaywrecks.com/3d-wreck-grecian.php)]]></description>
+			<Point>
+				<coordinates>-83.19985,44.968317,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>H.A. Barr</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[84 feet, 42°09.111N, 81°23.41 W]]></description>
+			<Point>
+				<coordinates>-81.390167,42.15185,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Haltiner Barge</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/haltiner.html)]]></description>
+			<Point>
+				<coordinates>-83.326583,45.034850000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Hamilton Reef</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/westmichigan.htm)]]></description>
+			<Point>
+				<coordinates>-86.3415,43.2165,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Harvey Bissell</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/harvey_bissell.html)]]></description>
+			<Point>
+				<coordinates>-83.426717,45.054783,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Havana</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/southwest.htm)]]></description>
+			<Point>
+				<coordinates>-86.427183,42.194833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>H.C. Akeley</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/southwest.htm)]]></description>
+			<Point>
+				<coordinates>-86.527283,42.658733000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>H. D. Moore</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/manitou.htm)]]></description>
+			<Point>
+				<coordinates>-86.074,45.033667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Heart Failure</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/heart_failure.html)]]></description>
+			<Point>
+				<coordinates>-83.37755,45.06210000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Herman H. Hettler</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/alger.htm)]]></description>
+			<Point>
+				<coordinates>-86.599667,46.483833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Hesper</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hesper_016.JPG/250px-Hesper_016.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[+47° 16' 17.00", -91° 16' 18.00"
+
+Hesper on Wikipedia (http://en.wikipedia.org/wiki/Hesper_(shipwreck) 
+ 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-91.271667,47.271389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Hetty Taylor</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.wisconsinshipwrecks.org/ (http://www.wisconsinshipwrecks.org/explore_hettytaylor_intro.cfm)]]></description>
+			<Point>
+				<coordinates>-87.65485,43.68155,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Hickory Stick</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[+4155 feet, 41°32.301N, 82°06.236 W
+
+
+Background info. (http://www.ohioshipwrecks.org/ShipwreckDetail.php?AR=2&Wreck=7)]]></description>
+			<Point>
+				<coordinates>-82.103933,41.53835,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>HM Schooner Nancy</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[HM Schooner Nancy on Wikipedia (http://en.wikipedia.org/wiki/HMS_Nancy_(1789) ]]></description>
+			<Point>
+				<coordinates>-80.020981,44.519367,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>HMS Speedy </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[+43° 48' 50.40", -76° 47' 20.40"
+
+
+ 
+HMS Speedy on Wikipedia (http://en.wikipedia.org/wiki/HMS_Speedy_(1798) ]]></description>
+			<Point>
+				<coordinates>-76.789,43.814,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>HMS St Lawrence</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/HMS_St_Lawrence_001.jpg/539px-HMS_St_Lawrence_001.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/HMS_St_Lawrence_(1814) 
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-76.505,44.220556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Ida Corning</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.wisconsinshipwrecks.org (http://www.wisconsinshipwrecks.org/explore_bullhead_serv3.cfm)]]></description>
+			<Point>
+				<coordinates>-87.395371,44.841841,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Indiana</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[95 feet, 42°17.760N, 79°59.898 W]]></description>
+			<Point>
+				<coordinates>-79.9983,42.296,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Indiana</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/whitefish.htm)]]></description>
+			<Point>
+				<coordinates>-85.2864,46.809567,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Interlaken</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/westmichigan.htm)]]></description>
+			<Point>
+				<coordinates>-86.458167,43.450833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Ironsides</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/westmichigan.htm)]]></description>
+			<Point>
+				<coordinates>-86.31916700000001,43.048833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Isaac M. Scott</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/isaac_m_scott.html)]]></description>
+			<Point>
+				<coordinates>-83.039217,45.065333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Ishpeming</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/ishpeming.html)]]></description>
+			<Point>
+				<coordinates>-83.27750000000002,44.809817,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Ivanhoe</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[57 feet, 41°33.310N, 82°02.826 W
+
+
+Background info (http://www.ohioshipwrecks.org/ShipwreckDetail.php?AR=2&Wreck=21)]]></description>
+			<Point>
+				<coordinates>-82.0471,41.555167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Jackie's Wreck</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[50 feet, 41°51.707N 82°21.084 W]]></description>
+			<Point>
+				<coordinates>-82.3514,41.861783,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>James B. Colgate</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[85 feet, 42°05.376N 81°44.279 W]]></description>
+			<Point>
+				<coordinates>-81.737983,42.0896,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>James Davidson</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/james_davidson.html)]]></description>
+			<Point>
+				<coordinates>-83.256283,45.014217,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>James H. Hall</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/james_h_hall.html)]]></description>
+			<Point>
+				<coordinates>-83.4294,45.0574,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>James McBride</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/manitou.htm)]]></description>
+			<Point>
+				<coordinates>-86.075833,44.894833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Jay Gould</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[45 feet, 41°51.531N, 82°24.596 W]]></description>
+			<Point>
+				<coordinates>-82.409933,41.85885,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>J.J. Boland Jr.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[130 feet, 42°22.794N, 79°43.929 W]]></description>
+			<Point>
+				<coordinates>-79.73215,42.3799,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>J.G. McGrath</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[85 feet, 42°40.083N, 79°23.764 W]]></description>
+			<Point>
+				<coordinates>-79.396067,42.66805,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>John Butler Johnson II  clay banks</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/southwest.htm)]]></description>
+			<Point>
+				<coordinates>-86.257267,42.581417,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>John F. Warner</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/john_f_warner.html)]]></description>
+			<Point>
+				<coordinates>-83.435467,45.050833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>John J. Audubon</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/john_j_audubon.html)]]></description>
+			<Point>
+				<coordinates>-83.339183,45.28885,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>John Jacob Astor</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/keweenaw.htm)]]></description>
+			<Point>
+				<coordinates>-87.864667,47.472333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>John L. Gross</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org/ (http://www.michiganpreserves.org/keweenaw.htm)]]></description>
+			<Point>
+				<coordinates>-88.155167,47.45983300000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>John L. Shaw</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/john_l_shaw.html)]]></description>
+			<Point>
+				<coordinates>-83.133333,44.616667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>John M. Osborn</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/John_M_Osborn_%283%29.jpg/300px-John_M_Osborn_%283%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[165 feet, 46°51.974N, 85°05.210 W
+John M. Osborn on Wikipedia (http://en.wikipedia.org/wiki/John_M._Osborn_(steamboat) 
+ 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-85.086833,46.866233,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>John Pridgeon</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[60 feet, 41°35.320N 81°58.601 W
+
+
+Background info. (http://www.ohioshipwrecks.org/ShipwreckDetail.php?AR=2&Wreck=23)]]></description>
+			<Point>
+				<coordinates>-81.976683,41.58866700000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Joseph S. Fay</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/fay.html)]]></description>
+			<Point>
+				<coordinates>-83.91,45.488617,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Kate Kelly </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.wisconsinshipwrecks.org (http://www.wisconsinshipwrecks.org/)]]></description>
+			<Point>
+				<coordinates>-87.72515,42.778067,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Katie Eccles</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://stevekluge.com (http://stevekluge.com/geoscience/regentses/labs/shipwrecksoflakeontario2.pdf)]]></description>
+			<Point>
+				<coordinates>-78.019539,43.844194,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Kiowa</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/alger.htm)]]></description>
+			<Point>
+				<coordinates>-86.220167,46.64516700000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Kyle Spangler Wreck</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[3D animation of the Kyle Spangler wreck (http://www.thunderbaywrecks.com/3d-wreck-kyle-spangler.php)]]></description>
+			<Point>
+				<coordinates>-83.43525,45.383517,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Lady Elgin</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/thumb/7/71/Elgin3.jpg/300px-Elgin3.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Lady Elgin on Wikipedia (http://en.wikipedia.org/wiki/PS_Lady_Elgin)
+
+42°11′00″N 87°39′00″W
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-87.65,42.183333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Lafayette</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.superiortrips.com (http://www.superiortrips.com/NShoreShipwreckImages/Lafayette_Shipwreck.htm)]]></description>
+			<Point>
+				<coordinates>-91.54935,47.094917,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Le Griffon</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Le-griffon.jpg/300px-Le-griffon.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[+45° 36' 0.00", -82° 39' 0.00"
+
+Le Griffon on Wikipedia (http://en.wikipedia.org/wiki/Le_Griffon)
+ 
+
+
+ Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-82.65,45.6,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Lighthouse Wreck</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[15 feet, 42°33.075N 80°02.721 W]]></description>
+			<Point>
+				<coordinates>-80.04535,42.55125,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Little Wissahickon</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[78 feet, 41°54.217N 81°56.781 W]]></description>
+			<Point>
+				<coordinates>-81.94635,41.903617,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Loretta</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/loretta.html)]]></description>
+			<Point>
+				<coordinates>-83.282583,44.81505,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Lucinda Van Valkenburg</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/lucinda_van_valkenburg.html)]]></description>
+			<Point>
+				<coordinates>-83.169667,45.056333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Louisiana</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.wisconsinshipwrecks.org (http://www.wisconsinshipwrecks.org/explore_louisiana_intro.cfm)]]></description>
+			<Point>
+				<coordinates>-86.92266700000002,45.399667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Lycoming</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[26 feet, 42°15.078N, 81°53.384 W]]></description>
+			<Point>
+				<coordinates>-81.889733,42.2513,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Mabel Wilson</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[36 feet, 41°30.342,N 81°43.907 W]]></description>
+			<Point>
+				<coordinates>-81.889733,42.2513,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Madeira </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Madeira1.jpg/300px-Madeira1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[+47° 12' 22.00", -91° 21' 29.00"
+
+Madeira on Wikipedia (http://en.wikipedia.org/wiki/Madeira_(shipwreck) 
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-91.358056,47.206111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Manhattan</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/alger.htm)]]></description>
+			<Point>
+				<coordinates>-86.609333,46.467,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Maplehurst</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/keweenaw.htm)]]></description>
+			<Point>
+				<coordinates>-88.634167,47.231833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Marine City</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov/ (http://thunderbay.noaa.gov/shipwrecks/marine_city.html)]]></description>
+			<Point>
+				<coordinates>-83.289433,44.770617,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Marshall F. Butters</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[70 feet, 41°43.636N 82°17.370 W]]></description>
+			<Point>
+				<coordinates>-82.2895,41.727267,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Mary Kay</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://stevekluge.com (http://stevekluge.com/geoscience/regentses/labs/shipwrecksoflakeontario2.pdf)]]></description>
+			<Point>
+				<coordinates>-76.55,43.466667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Mayflower</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.superiortrips.com (http://www.superiortrips.com/Mayflower_Shipwreck.htm)]]></description>
+			<Point>
+				<coordinates>-92.01105,46.80325,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Mecosta</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[50 feet, 41°31.850N, 81°53.001 W
+
+
+Background Info. (http://www.ohioshipwrecks.org/ShipwreckDetail.php?AR=3&Wreck=26)]]></description>
+			<Point>
+				<coordinates>-81.88335,41.530833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Meridian (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.wisconsinshipwrecks.org (http://www.wisconsinshipwrecks.org/explore_meridian_intro.cfm)]]></description>
+			<Point>
+				<coordinates>-87.139821,45.220259,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Mesquite</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/keweenaw.htm)]]></description>
+			<Point>
+				<coordinates>-87.925833,47.373,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Metamora</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/WreckOfTheMetamora-August27_2010.jpg/300px-WreckOfTheMetamora-August27_2010.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[+45° 31' 43.39", -80° 24' 26.61"
+
+Metamora on Wikipedia (http://en.wikipedia.org/wiki/Metamora_(shipwreck) 
+
+ 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-80.407392,45.528719,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Metropolis </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/grandtraverse.htm)]]></description>
+			<Point>
+				<coordinates>-85.46575,44.97045,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Miztec</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/whitefish.htm)]]></description>
+			<Point>
+				<coordinates>-85.075033,46.801417,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Miztec (schooner barge)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Miztec_-_3_masted.jpg/300px-Miztec_-_3_masted.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[+46° 48' 4.38", -85° 4' 30.00"
+
+Miztec on Wikipedia (http://en.wikipedia.org/wiki/Miztec_(schooner_barge) 
+
+ 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-85.075,46.801217,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Montana</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/montana.html)]]></description>
+			<Point>
+				<coordinates>-83.26688300000002,44.98375,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Morning Star</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[65 feet, 41°36.813N, 82°12.531 W
+
+
+Background info. (http://www.ohioshipwrecks.org/ShipwreckDetail.php?AR=2&Wreck=11)]]></description>
+			<Point>
+				<coordinates>-82.20885,41.61355,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Monohansett Wreck</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[3D animation of the Monohansett  (http://www.thunderbaywrecks.com/3d-wreck-monohansett.php)]]></description>
+			<Point>
+				<coordinates>-83.1998,45.033267,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Monrovia</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/monrovia.html)]]></description>
+			<Point>
+				<coordinates>-82.923,44.983667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Montauk</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/manitou.htm)]]></description>
+			<Point>
+				<coordinates>-85.991833,45.159,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Net Wreck</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[70 feet, 41°56.564N, 82°14.872 W]]></description>
+			<Point>
+				<coordinates>-82.247867,41.942733,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>New Orleans</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/neworleans.html)]]></description>
+			<Point>
+				<coordinates>-83.240417,45.042983,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Niagara</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.mnhs.org (http://www.mnhs.org/places/nationalregister/shipwrecks/niagara/niagara.html)Photos (http://www.mnhs.org/places/nationalregister/shipwrecks/niagara/niaphoto.html)]]></description>
+			<Point>
+				<coordinates>-91.771245,46.945751,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Niagara</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.wisconsinshipwrecks.org (http://www.wisconsinshipwrecks.org/explore_niagara_intro.cfm)]]></description>
+			<Point>
+				<coordinates>-87.774883,43.48855,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Niagara Scow (Viewable in water)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Niagara_Falls_2b_db.jpg/370px-Niagara_Falls_2b_db.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Niagara Scow on Wikipedia (http://en.wikipedia.org/wiki/Niagara_Scow)
+ 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-79.070854,43.073063,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nordmeer</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/nordmeer.html)]]></description>
+			<Point>
+				<coordinates>-83.159767,45.136017,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Norman Wreck</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[3D Animation of the Norman (http://www.thunderbaywrecks.com/3d-wreck-norman.php)]]></description>
+			<Point>
+				<coordinates>-83.27835,45.311117,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>North Carolina</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[40 feet, 41°43.808N 81°22.885 W
+
+
+Background Info. (http://www.ohioshipwrecks.org/ShipwreckDetail.php?AR=4&Wreck=12)]]></description>
+			<Point>
+				<coordinates>-81.38141700000001,41.730133,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>North Shore tug</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/southwest.htm)]]></description>
+			<Point>
+				<coordinates>-86.32585,42.669217,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Northern Indiana</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[25 feet, 41°53.882N 82°30.600 W]]></description>
+			<Point>
+				<coordinates>-82.51,41.898033,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Novadoc</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/westmichigan.htm)]]></description>
+			<Point>
+				<coordinates>-86.518,43.6935,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Nyord</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/)]]></description>
+			<Point>
+				<coordinates>-85.600067,44.773333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Oak Leaf</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.wisconsinshipwrecks.org (http://www.wisconsinshipwrecks.org/explore_bullhead_serv4.cfm)]]></description>
+			<Point>
+				<coordinates>-87.395339,44.841795,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>O.E. Parks</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/o_e_parks.html)]]></description>
+			<Point>
+				<coordinates>-83.17545,45.0519,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Ogarita</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/ogarita.html)]]></description>
+			<Point>
+				<coordinates>-83.21795,45.105433,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Oneida</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[8 feet, 42°13.966N, 79°51.583 W]]></description>
+			<Point>
+				<coordinates>-79.859717,42.23276700000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Onoko shipwreck</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.mnhs.org/ (http://www.mnhs.org/places/nationalregister/shipwrecks/onoko/onopd.html)
+
+After extensive historical research and a lengthy search using a depth sounder, divers Jerry Eliason of Cloquet, Minnesota, and Kraig Smith of Rice Lake, Wisconsin, found the remains of the Onoko in June 1988. The wreck lies in 220 feet of water, 13.5 miles nautical miles east of Duluth and 6.5 nautical miles south of Knife Island.]]></description>
+			<Point>
+				<coordinates>-91.777296,46.846397,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Oscar T. Flint</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/oscar_t_flint.html)]]></description>
+			<Point>
+				<coordinates>-83.347383,45.026133,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Oxford</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[170 feet, 42°28.855N 79°51.843 W]]></description>
+			<Point>
+				<coordinates>-79.86405,42.480917,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Panther</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/whitefish.htm)]]></description>
+			<Point>
+				<coordinates>-84.805967,46.638183,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Pascal Pratt</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[20 feet, 42°33.682N, 80°05.429 W]]></description>
+			<Point>
+				<coordinates>-80.090483,42.561367,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Penelope</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[8 feet, 41°30.562N, 82°02.443 W]]></description>
+			<Point>
+				<coordinates>-82.040717,41.509367,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Pewabic</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/pewabic.html)]]></description>
+			<Point>
+				<coordinates>-83.103933,44.964833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Phillip D. Armour</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[30 feet, 42°07.684N 80°10.693 W]]></description>
+			<Point>
+				<coordinates>-80.178217,42.128067,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Pilot Island Sites (A.P. Nichols, Forest, &amp; J.E. Gilmore) </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.wisconsinshipwrecks.org (http://www.wisconsinshipwrecks.org/explore_pilotisland_intro.cfm)]]></description>
+			<Point>
+				<coordinates>-86.920628,45.285093,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Portland</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/portland.html)]]></description>
+			<Point>
+				<coordinates>-83.4075,45.248817,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Portsmouth (approximated)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/)
+
+ 
+Coordinate provided has to be in error because this is a dive site on land?]]></description>
+			<Point>
+				<coordinates>-83.333833,45.19783300000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Potter's Barge</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/southwest.htm)]]></description>
+			<Point>
+				<coordinates>-86.37015,42.89425,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>PS Waubuno</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[+45° 7' 15.00", -80° 9' 58.00"
+
+
+ 
+PS Waubuno on Wikipedia (http://en.wikipedia.org/wiki/PS_Waubuno)]]></description>
+			<Point>
+				<coordinates>-80.166111,45.120833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Queen of the West</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[70 feet, 41°50.768N, 82°23.135 W
+
+
+Background Info. (http://www.ohioshipwrecks.org/ShipwreckDetail.php?AR=4&Wreck=29)]]></description>
+			<Point>
+				<coordinates>-82.513467,41.68840000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Reindeer</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/reindeer.html)]]></description>
+			<Point>
+				<coordinates>-83.766433,45.410333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>R.H. Rae</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://stevekluge.com (http://stevekluge.com/geoscience/regentses/labs/shipwrecksoflakeontario2.pdf)]]></description>
+			<Point>
+				<coordinates>-76.85,43.883333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Rising Sun</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/manitou.htm)]]></description>
+			<Point>
+				<coordinates>-85.932833,44.9705,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>R.M.S. Empress of Ireland</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Atlas Obsura (http://www.atlasobscura.com/articles/abandon-ship-five-maritime-disasters-lost-to-time)
+
+Wikipedia (http://en.wikipedia.org/wiki/RMS_Empress_of_Ireland)]]></description>
+			<Point>
+				<coordinates>-68.495851,48.527917,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Robert Wallace</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.superiortrips.com (http://www.superiortrips.com/NShoreShipwreckImages/Wallace_Shipwreck.htm)]]></description>
+			<Point>
+				<coordinates>-91.728933,46.847283,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Rockaway</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/southwest.htm)]]></description>
+			<Point>
+				<coordinates>-86.306717,42.442267,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Rosinco</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.wisconsinshipwrecks.org (http://www.wisconsinshipwrecks.org/explore_rosinco_intro.cfm)]]></description>
+			<Point>
+				<coordinates>-87.629,42.621667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Sand Merchant</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[65 feet, 41°34.428N, 82°57.524 W
+
+
+Background Info. (http://www.ohioshipwrecks.org/ShipwreckDetail.php?AR=3&Wreck=14)]]></description>
+			<Point>
+				<coordinates>-82.958733,41.5738,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Salvor</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/westmichigan.htm)]]></description>
+			<Point>
+				<coordinates>-86.3685,43.260167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Samuel P. Ely</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ely_Wreck.jpg/250px-Ely_Wreck.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[+47° 0' 42.00", -91° 40' 40.00"
+
+Samuel P. Ely on Wikipedia (http://en.wikipedia.org/wiki/Samuel_P._Ely_(shipwreck) 
+ 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-91.677778,47.011667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Sarah E. Sheldon</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[20 feet, 41°29.741N, 82°06.678 W
+
+
+Background info. (http://www.ohioshipwrecks.org/ShipwreckDetail.php?AR=2&Wreck=3)]]></description>
+			<Point>
+				<coordinates>-82.11130000000001,41.495683,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>S.F. Gale</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[78 feet, 41°44.455N 81°52.922 W
+
+
+Background Info. (http://www.ohioshipwrecks.org/ShipwreckDetail.php?AR=3&Wreck=27)]]></description>
+			<Point>
+				<coordinates>-81.882033,41.740917,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Shale Scow</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/grandtraverse.htm)]]></description>
+			<Point>
+				<coordinates>-85.427967,44.893033,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Shamrock</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/shamrock.html)]]></description>
+			<Point>
+				<coordinates>-83.4342,45.051283,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>S.K. Martin</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[60 feet, 42°14.546N, 79°56.004 W]]></description>
+			<Point>
+				<coordinates>-79.9334,42.242433,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Sligo</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://stevekluge.com (http://stevekluge.com/geoscience/regentses/labs/shipwrecksoflakeontario2.pdf)]]></description>
+			<Point>
+				<coordinates>-79.483333,43.6,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Smith Moore</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/alger.htm)]]></description>
+			<Point>
+				<coordinates>-86.617667,46.4555,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Sophie’s Shipwreck  (B. B. Inman)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.glsps.org (http://www.glsps.org/DuluthWreck/documenting_sophie.htm)
+http://documents.clubexpress.com (http://documents.clubexpress.com/documents.ashx?key=TK9bKweTBx%2FT%2BrF4nUU4NmYdQQFsSyvP9mEr1EJV31RVNr0gszQQ9weGMl91JipN)]]></description>
+			<Point>
+				<coordinates>-92.073517,46.757683,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Algeria</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[40 feet, 41°31.225 N, 81°42.944 W]]></description>
+			<Point>
+				<coordinates>-81.715733,41.520417,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Algoma</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/b/bf/AlgomaSteamer.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SS Algoma on Wikipedia (http://en.wikipedia.org/wiki/SS_Algoma)
+ 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-88.531944,48.111389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS America (1898)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/2/20/AmericaWreck2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SS America (1898) on Wikipedia (http://en.wikipedia.org/wiki/SS_America_(1898) 
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-89.222331,47.893841,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Anna C. Minch</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[SS Anna C. Minch on Wikipedia (http://en.wikipedia.org/wiki/SS_Anna_C._Minch)]]></description>
+			<Point>
+				<coordinates>-86.531,43.787,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name> SS Appomattox </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Appomattox_ore_carrier.jpg/250px-Appomattox_ore_carrier.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SS Appomattox on Wikipedia
+ (http://en.wikipedia.org/wiki/SS_Appomattox)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-87.866208,43.093636,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Carl D. Bradley (approximate)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/5/51/CarlDBradley_ship.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SS_Carl_D._Bradley)
+
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-85.987778,45.559167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Cedarville</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SS_Cedarville)]]></description>
+			<Point>
+				<coordinates>-84.668889,45.785556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Cumberland</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Cumberland_vessel.jpg/300px-Cumberland_vessel.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[+47° 51' 28.00", -89° 19' 32.00"
+
+SS Cumberland on Wikipedia (http://en.wikipedia.org/wiki/SS_Cumberland)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-89.32555600000002,47.857778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Cyprus</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/SS_Cyprus.jpg/300px-SS_Cyprus.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[+46° 47' 24.00", -85° 36' 0.00"
+
+SS Cyprus on Wikipedia (http://en.wikipedia.org/wiki/SS_Cyprus)
+ 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-85.6,46.790000000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Eastland </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/S.S._Eastland_c.1911.jpg/777px-S.S._Eastland_c.1911.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/SS_Eastland)
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-87.632189,41.887167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Emperor </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/c/c0/EmperorWreck.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[+48° 12' 2.00", -88° 29' 30.00"
+
+SS Emperor on Wikipedia (http://en.wikipedia.org/wiki/SS_Emperor)
+ 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-88.491667,48.200556,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Glenlyon</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Glenyon_vessel.jpg/300px-Glenyon_vessel.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[+47° 57' 8.00", -88° 44' 53.00
+
+SS Glenlyon on Wikipedia (http://en.wikipedia.org/wiki/SS_Glenlyon)
+ 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-88.748056,47.952222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Henry Chisholm</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Henry_Chisholm.jpg/300px-Henry_Chisholm.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SS Henry Chisholm on Wikipedia (http://en.wikipedia.org/wiki/SS_Henry_Chisholm)
+
+ 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-89.32555600000002,47.857778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS James Carruthers</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/7/72/James_Carruthers_prior_to_1913_Great_Lakes_storm.png/300px-James_Carruthers_prior_to_1913_Great_Lakes_storm.png</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[44° 48′ 3.6″ N, 82° 23′ 49.2″ WSS James Carruthers on Wikipedia
+ (http://en.wikipedia.org/wiki/SS_James_Carruthers)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-82.397,44.801,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS John B. Cowle (1902)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/John_B._Cowle_%282%29.jpg/300px-John_B._Cowle_%282%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[SS John B. Cowle on Wikipedia (http://en.wikipedia.org/wiki/SS_John_B._Cowle_(1902) 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-84.9641,46.804517,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Daniel J. Morrell</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Daniel_J._Morrell.jpg/275px-Daniel_J._Morrell.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[+43° 51' 0.00", -82° 35' 24.00"
+
+ SS Daniel J. Morrell on Wikipedia (http://en.wikipedia.org/wiki/SS_Daniel_J._Morrell)
+ 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-82.59,43.85,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS M.M. Drake (1882</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/M.M._Drake_%281882%29.jpg/300px-M.M._Drake_%281882%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[+46° 46' 35.28", -85° 5' 55.98"
+
+SS M.M. Drake on Wikipedia (http://en.wikipedia.org/wiki/SS_M.M._Drake_(1882) 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-85.095978,46.776552,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Henry B. Smith</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Henry_B_Smith_LOC_det_4a16048.jpg/300px-Henry_B_Smith_LOC_det_4a16048.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[46° 54′ 50.4″ N, 87° 19′ 58.8″ W
+SS Henry B. Smith on Wikipedia (http://en.wikipedia.org/wiki/SS_Henry_B._Smith)
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-87.333,46.914,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Kamloops</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/KamloopsWreck.jpg/300px-KamloopsWreck.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[+48° 5' 6.00", -88° 45' 53.00"
+
+SS Kamloops on  Wikipedia (http://en.wikipedia.org/wiki/SS_Kamloops)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-88.764722,48.085,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Milwaukee</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/en/thumb/6/67/SS_Milwaukee.jpg/300px-SS_Milwaukee.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[+43° 8' 11.00", -87° 49' 55.00"
+SS Milwaukee on Wikipedia (http://en.wikipedia.org/wiki/SS_Milwaukee)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-87.831944,43.136389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Monarch </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/8/84/MonarchWreck.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[+48° 11' 20.00", -88° 26' 3.00"
+
+SS Monarch on Wikipedia (http://en.wikipedia.org/wiki/SS_Monarch)
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-88.434167,48.188889,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Myron</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/SS_Myron.jpg/300px-SS_Myron.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[40 to 50 feet, 46°48.463N, 85°01.646 WSS  
+
+Myron on Wikipeida (http://en.wikipedia.org/wiki/SS_Myron)
+ 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-85.027433,46.807717,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Samuel Mather (1887</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/7/72/Samuel_Mather.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[+46° 34' 18.48", -84° 42' 19.50"
+
+SS Samuel Mather on Wikipedia (http://en.wikipedia.org/wiki/SS_Samuel_Mather_(1887))
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-84.705417,46.5718,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>S.S. Storstad</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/a/a2/Storstad_Montreal_1914.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Atlas Obsura (http://www.atlasobscura.com/articles/abandon-ship-five-maritime-disasters-lost-to-time)
+
+Wikipedia (http://en.wikipedia.org/wiki/SS_Storstad)
+ 
+
+ 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-68.499155,48.528883,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Superior City</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Superior_City_After_Launching.jpg/300px-Superior_City_After_Launching.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[270 feet, 46°43.510N, 84°52.370 W
+
+SS Superior City on Wikipedia (http://en.wikipedia.org/wiki/SS_Superior_City)
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-84.872833,46.725167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>SS Vienna</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Vienna_%28steamer%29.jpg/300px-Vienna_%28steamer%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[148 feet, 46°44.46 N, 84°57.91 W
+
+SS Vienna on Wikipedia (http://en.wikipedia.org/wiki/SS_Vienna_(1873))
+
+
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-84.965167,46.74100000000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>St. James</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[170 feet, 42°27.104N, 80°07.331 W]]></description>
+			<Point>
+				<coordinates>-80.122183,42.451733,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>State of Michigan</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/westmichigan.htm)]]></description>
+			<Point>
+				<coordinates>-86.464167,43.4555,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Steven M. Selvick</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/alger.htm)]]></description>
+			<Point>
+				<coordinates>-86.597833,46.492167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Success</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[14 feet, 41°31.321N, 82°54.705 W
+
+
+Background Info. (http://www.ohioshipwrecks.org/ShipwreckDetail.php?AR=1&Wreck=15)]]></description>
+			<Point>
+				<coordinates>-82.91175,41.522017,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Supply</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/manitou.htm)]]></description>
+			<Point>
+				<coordinates>-85.974667,44.970333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Sweekstakes (schooner) viewable in water)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/87233256.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Sweekstakes (schooner) on Wikipedia (http://en.wikipedia.org/wiki/Sweepstakes_(schooner)) 
+
+ 
+
+Google Map / Panoramio / Igor Malko]]></description>
+			<Point>
+				<coordinates>-81.680702,45.255283000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>T-8</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[42 feet, 42°35.226 N, 80°01.335 W]]></description>
+			<Point>
+				<coordinates>-80.02225,42.5871,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Tasmania</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[40 feet, 41°47.303 N, 82°29.811 W]]></description>
+			<Point>
+				<coordinates>-82.49685,41.788383,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>The Tennie and Laura</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.wisconsinshipwrecks.org (http://www.wisconsinshipwrecks.org/explore_tennielaura_final.cfm)]]></description>
+			<Point>
+				<coordinates>-87.727383,43.2591,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Thomas Wilson</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Thomas_Wilson_whaleback_BGSU_1_withBarges.jpg/300px-Thomas_Wilson_whaleback_BGSU_1_withBarges.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[+46° 47' 0.00", -92° 4' 10.00"
+
+Thomas Wilson on Wikipedia (http://en.wikipedia.org/wiki/Thomas_Wilson_(shipwreck))
+ 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-92.069444,46.783333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Tire Reef</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[22 feet, 42°41.043 N, 80°08.500 W]]></description>
+			<Point>
+				<coordinates>-80.141667,42.68405,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Tramp</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/grandtraverse.htm)]]></description>
+			<Point>
+				<coordinates>-85.6012,44.85041700000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Tug Howard</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.superiortrips.com (http://www.superiortrips.com/CanadaNShore/Howard_Shipwreck.htm)]]></description>
+			<Point>
+				<coordinates>-89.36275,48.080967,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Tug Smith</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[165 feet, 42°25.516     N, 80°12.056 W]]></description>
+			<Point>
+				<coordinates>-80.200933,42.425267,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Two Fannies</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[60 feet, 41°55.116 N, 81°54.778 W
+
+
+Background Info. (http://www.ohioshipwrecks.org/ShipwreckDetail.php?AR=3&Wreck=16)]]></description>
+			<Point>
+				<coordinates>-81.912967,41.9186,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Typo</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/typo.html)]]></description>
+			<Point>
+				<coordinates>-83.31585,45.29125,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USCG 56022</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://stevekluge.com (http://stevekluge.com/geoscience/regentses/labs/shipwrecksoflakeontario2.pdf)]]></description>
+			<Point>
+				<coordinates>-77.333333,43.3,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>USS Essex (1874)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/USS_Essex_at_Annapolis.jpg/516px-USS_Essex_at_Annapolis.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/USS_Essex_(1874) 
+
+Wikipedia Commons / Public Domain]]></description>
+			<Point>
+				<coordinates>-92.028622,46.712696,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>USS Puritan</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/S.S._Puritan_%28George_M._Cox%29.jpg/300px-S.S._Puritan_%28George_M._Cox%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[+47° 51' 28.00", -89° 19' 32.00"
+
+USS Puritan on Wikipedia (http://en.wikipedia.org/wiki/USS_Puritan_(ID-2222) 
+
+Wikipedia Commons]]></description>
+			<Point>
+				<coordinates>-89.32555600000002,47.857778,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Verano</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/southwest.htm)]]></description>
+			<Point>
+				<coordinates>-86.263867,42.506867,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Viator</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/viator.html)]]></description>
+			<Point>
+				<coordinates>-83.03795,44.9916,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Washington Irving</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[120 feet, 42°32.371N, 79°27.636 W]]></description>
+			<Point>
+				<coordinates>-79.4606,42.539517,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>Walter L. Frost</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/manitou.htm)]]></description>
+			<Point>
+				<coordinates>-86.144833,44.994333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>W.C. Franz</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/franz.html)]]></description>
+			<Point>
+				<coordinates>-82.906533,44.647917,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>W.G. Mason</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/w_g_mason.html)]]></description>
+			<Point>
+				<coordinates>-83.747217,45.41065,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>W.H. Gilbert</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/w_h_gilbert.html)]]></description>
+			<Point>
+				<coordinates>-82.9787,44.836583,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Wilma</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[42 feet, 42°42.150 N, 80°02.068 W]]></description>
+			<Point>
+				<coordinates>-80.034467,42.7025,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>William H. Stevens</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov/ (http://thunderbay.noaa.gov/shipwrecks/william_h_stevens.html)]]></description>
+			<Point>
+				<coordinates>-83.32755,44.896217,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Wisconsin</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.wisconsinshipwrecks.org/ (http://www.wisconsinshipwrecks.org/explore_wisconsin_intro.cfm)]]></description>
+			<Point>
+				<coordinates>-87.709167,42.53,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>W.P. Rend</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/w_p_rend.html)]]></description>
+			<Point>
+				<coordinates>-83.392583,45.062367,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>W.P. Thew</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://thunderbay.noaa.gov (http://thunderbay.noaa.gov/shipwrecks/w_p_thew.html)]]></description>
+			<Point>
+				<coordinates>-83.153417,45.045083,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Yuba Wreck</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[http://www.michiganpreserves.org (http://www.michiganpreserves.org/grandtraverse.htm)]]></description>
+			<Point>
+				<coordinates>-85.466617,44.826819,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Sainte Marie shipwreck (viewable)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/78325653.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / nailhed.com]]></description>
+			<Point>
+				<coordinates>-83.897501,45.989249,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Unknown shipwreck, Detour, Michigan (viewable)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.897474,45.988879,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1433</styleUrl>
+			<name>Unknown shipwreck, Detour, Michigan  (viewable)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-83.898597,45.994918,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>View this map in Google Earth</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Non-networked Google Earth KML file: (https://docs.google.com/file/d/0B52hHMRyBvEsSGpBUndWa3QtaG8/edit)]]></description>
+			<Point>
+				<coordinates>-84.7045898,43.3251777,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1037'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1037-biz-house.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1387'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1387-rec-sailing.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1433'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1433-trans-ferry.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

@@ -1,0 +1,159 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fukushima Daiichi Meltdown",
+                "desc": "<img style=\"max-width:100%;display:block;clear:both;\" src=\"http:\/\/climateviewer.org\/img\/gallery\/np\/fukushima-before.jpg\"\/><br><img style=\"max-width:100%;display:block;clear:both;\" src=\"http:\/\/climateviewer.org\/img\/gallery\/np\/fukushima14.jpg\"\/><br><p>The Fukushima Daiichi nuclear disaster was an energy accident at the Fukushima I Nuclear Power Plant, initiated in greatest part by the tsunami portion of the T\u014dhoku earthquake and tsunami on 11 March 2011. The damage caused by the tsunami produced equipment failures, and without this equipment a Loss of Coolant Accident followed with nuclear meltdowns and releases of radioactive materials beginning on March 12. It is the largest nuclear disaster since the Chernobyl disaster of 1986 and the second disaster (along with Chernobyl) to measure Level 7 on the International Nuclear Event Scale. Releasing an estimated 10 to 30% of the radiation of the Chernobyl accident.<\/p><h3><a href=\"http:\/\/climateviewer.com\/nuclear-reactor-map\/\">Nuclear Power Plants on ClimateViewer.com<\/a><\/h3><a href=\"http:\/\/enformable.com\/2011\/09\/fukushima-prefecture-inhabited-by-new-long-term-resident-high-cesium-levels-detected-nearly-half-of-japans-largest-prefecture\/\"><img style=\"max-width:100%;display:block;clear:both;\" src=\"http:\/\/climateviewer.org\/img\/gallery\/fukushima\/CesiuminFukushima.jpg\"\/><\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.029440327,
+                    37.4217031368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FUKUSHIMA-DAIICHI-1 (CLOSED)",
+                "desc": "<a href=\"http:\/\/cryptome.org\/eyeball\/daiichi-npp\/daiichi-photos.htm\"><img style=\"max-width:100%;display:block;clear:both;\" src=\"http:\/\/climateviewer.org\/img\/gallery\/np\/fukushima-1-4.jpg\"\/><\/a><br><p>FUKUSHIMA-DAIICHI, JAPAN<br>Total power output (operational reactors and reactors under construction): 4546 MW<br>Details of reactor unit: FUKUSHIMA-DAIICHI-1<br>Reactor type: Boiling Water Reactor<br>Current status: Operational<br>Power rating:&nbsp; 439 MW<br>Constructed in 1967<br>Connected to the electricity grid on: 1970-11-17<br>&nbsp;<br>Source of reactor data:&nbsp; IAEA Power Reactor Information System (<a href=\"http:\/\/www.iaea.org\/pris\/\" target=\"_blank\">PRIS<\/a>)<br>Get further information on this plant from its <a href=\"http:\/\/en.wikipedia.org\/wiki\/Fukushima_Daiichi_Nuclear_Power_Plant\" target=\"_blank\">Wikipedia page<\/a>.<br>Get further information on the <a href=\"http:\/\/en.wikipedia.org\/wiki\/Fukushima_Daiichi_nuclear_disaster\" target=\"_blank\">Fukushima Daiichi nuclear disaster<\/a>.<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.032927874,
+                    37.4229646142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FUKUSHIMA-DAIICHI-2 (CLOSED)",
+                "desc": "<a href=\"http:\/\/cryptome.org\/eyeball\/daiichi-npp\/daiichi-photos.htm\"><img style=\"max-width:100%;display:block;clear:both;\" src=\"http:\/\/climateviewer.org\/img\/gallery\/np\/fukushima-1-4.jpg\"\/><\/a><br><p>FUKUSHIMA-DAIICHI, JAPAN<br>Total power output (operational reactors and reactors under construction): 4546 MW<br>Details of reactor unit: FUKUSHIMA-DAIICHI-2<br>Reactor type: Boiling Water Reactor<br>Current status: Operational<br>Power rating:&nbsp; 760 MW<br>Constructed in 1969<br>Connected to the electricity grid on: 1973-12-24<br>&nbsp;<br>Source of reactor data:&nbsp; IAEA Power Reactor Information System (<a href=\"http:\/\/www.iaea.org\/pris\/\" target=\"_blank\">PRIS<\/a>)<br>Get further information on this plant from its <a href=\"http:\/\/en.wikipedia.org\/wiki\/Fukushima_Daiichi_Nuclear_Power_Plant\" target=\"_blank\">Wikipedia page<\/a>.<br>Get further information on the <a href=\"http:\/\/en.wikipedia.org\/wiki\/Fukushima_Daiichi_nuclear_disaster\" target=\"_blank\">Fukushima Daiichi nuclear disaster<\/a>.<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.032753366,
+                    37.4221761624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FUKUSHIMA-DAIICHI-3 (CLOSED)",
+                "desc": "<a href=\"http:\/\/cryptome.org\/eyeball\/daiichi-npp\/daiichi-photos.htm\"><img style=\"max-width:100%;display:block;clear:both;\" src=\"http:\/\/climateviewer.org\/img\/gallery\/np\/fukushima-3.jpg\"\/><\/a><br><p>FUKUSHIMA-DAIICHI, JAPAN<br>Total power output (operational reactors and reactors under construction): 4546 MW<br>Details of reactor unit: FUKUSHIMA-DAIICHI-3<br>Reactor type: Boiling Water Reactor<br>Current status: Operational<br>Power rating:&nbsp; 760 MW<br>Constructed in 1970<br>Connected to the electricity grid on: 1974-10-26<br>&nbsp;<br>Source of reactor data:&nbsp; IAEA Power Reactor Information System (<a href=\"http:\/\/www.iaea.org\/pris\/\" target=\"_blank\">PRIS<\/a>)<br>Get further information on this plant from its <a href=\"http:\/\/en.wikipedia.org\/wiki\/Fukushima_Daiichi_Nuclear_Power_Plant\" target=\"_blank\">Wikipedia page<\/a>.<br>Get further information on the <a href=\"http:\/\/en.wikipedia.org\/wiki\/Fukushima_Daiichi_nuclear_disaster\" target=\"_blank\">Fukushima Daiichi nuclear disaster<\/a>.<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.032708548,
+                    37.4210791952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FUKUSHIMA-DAIICHI-4 (CLOSED)",
+                "desc": "<a href=\"http:\/\/cryptome.org\/eyeball\/daiichi-npp\/daiichi-photos.htm\"><img style=\"max-width:100%;display:block;clear:both;\" src=\"http:\/\/climateviewer.org\/img\/gallery\/np\/fukushima-4.jpg\"\/><\/a><br><p>FUKUSHIMA-DAIICHI, JAPAN<br>Total power output (operational reactors and reactors under construction): 4546 MW<br>Details of reactor unit: FUKUSHIMA-DAIICHI-4<br>Reactor type: Boiling Water Reactor<br>Current status: Operational<br>Power rating:&nbsp; 760 MW<br>Constructed in 1973<br>Connected to the electricity grid on: 1978-02-24<br>&nbsp;<br>Source of reactor data:&nbsp; IAEA Power Reactor Information System (<a href=\"http:\/\/www.iaea.org\/pris\/\" target=\"_blank\">PRIS<\/a>)<br>Get further information on this plant from its <a href=\"http:\/\/en.wikipedia.org\/wiki\/Fukushima_Daiichi_Nuclear_Power_Plant\" target=\"_blank\">Wikipedia page<\/a>.<br>Get further information on the <a href=\"http:\/\/en.wikipedia.org\/wiki\/Fukushima_Daiichi_nuclear_disaster\" target=\"_blank\">Fukushima Daiichi nuclear disaster<\/a>.<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.032742171,
+                    37.4198327902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FUKUSHIMA-DAIICHI-5",
+                "desc": "<a href=\"http:\/\/cryptome.org\/eyeball\/daiichi-npp\/daiichi-photos.htm\"><img style=\"max-width:100%;display:block;clear:both;\" src=\"http:\/\/climateviewer.org\/img\/gallery\/np\/fukushima-1-4.jpg\"\/><\/a><br><p>FUKUSHIMA-DAIICHI, JAPAN<br>Total power output (operational reactors and reactors under construction): 4546 MW<br>Details of reactor unit: FUKUSHIMA-DAIICHI-5<br>Reactor type: Boiling Water Reactor<br>Current status: Operational<br>Power rating:&nbsp; 760 MW<br>Constructed in 1972<br>Connected to the electricity grid on: 1977-09-22<br>&nbsp;<br>Source of reactor data:&nbsp; IAEA Power Reactor Information System (<a href=\"http:\/\/www.iaea.org\/pris\/\" target=\"_blank\">PRIS<\/a>)<br>Get further information on this plant from its <a href=\"http:\/\/en.wikipedia.org\/wiki\/Fukushima_Daiichi_Nuclear_Power_Plant\" target=\"_blank\">Wikipedia page<\/a>.<br>Get further information on the <a href=\"http:\/\/en.wikipedia.org\/wiki\/Fukushima_Daiichi_nuclear_disaster\" target=\"_blank\">Fukushima Daiichi nuclear disaster<\/a>.<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.032392939,
+                    37.4284012725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "FUKUSHIMA-DAIICHI-6",
+                "desc": "<a href=\"http:\/\/cryptome.org\/eyeball\/daiichi-npp\/daiichi-photos.htm\"><img style=\"max-width:100%;display:block;clear:both;\" src=\"http:\/\/climateviewer.org\/img\/gallery\/np\/fukushima-before.jpg\"\/><\/a><br><p>FUKUSHIMA-DAIICHI, JAPAN<br>Total power output (operational reactors and reactors under construction): 4546 MW<br>Details of reactor unit: FUKUSHIMA-DAIICHI-6<br>Reactor type: Boiling Water Reactor<br>Current status: Operational<br>Power rating:&nbsp; 1067 MW<br>Constructed in 1973<br>Connected to the electricity grid on: 1979-05-04<br>&nbsp;<br>Source of reactor data:&nbsp; IAEA Power Reactor Information System (<a href=\"http:\/\/www.iaea.org\/pris\/\" target=\"_blank\">PRIS<\/a>)<br>Get further information on this plant from its <a href=\"http:\/\/en.wikipedia.org\/wiki\/Fukushima_Daiichi_Nuclear_Power_Plant\" target=\"_blank\">Wikipedia page<\/a>.<br>Get further information on the <a href=\"http:\/\/en.wikipedia.org\/wiki\/Fukushima_Daiichi_nuclear_disaster\" target=\"_blank\">Fukushima Daiichi nuclear disaster<\/a>.<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.03235488,
+                    37.4293830313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Intake 1",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.035360566,
+                    37.4230517744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Intake 2",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.035373229,
+                    37.4221165375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Intake 3",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.035378732,
+                    37.4209402073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Intake 4",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.035362459,
+                    37.420342318
+                ]
+            }
+        }
+    ]
+}

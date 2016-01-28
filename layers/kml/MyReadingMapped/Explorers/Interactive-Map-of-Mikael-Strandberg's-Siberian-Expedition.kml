@@ -1,0 +1,1099 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>Digitally walk this map in 3D.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[You can digitally walk this map in 3D using this Non-networked Google Earth KML file. (https://docs.google.com/file/d/0B52hHMRyBvEsOXpENzEwOTIyWjA/edit)]]></description>
+			<Point>
+				<coordinates>146.99707,63.332413,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Kulu (Start)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>147.425537,61.88285700000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>July 31, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[2004-07-31 - Kulu River 14 degrees, raining (http://www.siberia.nu/reports.php?lang=en&id=26)]]></description>
+			<Point>
+				<coordinates>147.373352,61.969297999999995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>August 2, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>147.24700900000002,62.011863,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>August 3, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[2004-08-02 - Stuck in the Kulu River (http://www.siberia.nu/reports.php?lang=en&id=28)]]></description>
+			<Point>
+				<coordinates>147.231903,62.118657,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>August 4, 2004</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/-MahVBZLH92w/S7NovgArydI/AAAAAAAAD1I/KApSO4F0zA0/s220/kanot.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[©Mikael Strandberg
+
+
+2004-08-05 - Back and going strong! (http://www.siberia.nu/reports.php?lang=en&id=29)]]></description>
+			<Point>
+				<coordinates>147.519608,62.279104000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>August 6, 2004</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://www.siberia.nu/gallery.php?act=getimage&amp;size=small&amp;id=132</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[2004-08-06 - Finally Kolyma! (http://www.siberia.nu/reports.php?lang=en&id=30)
+ 
+
+©Mikael Strandberg]]></description>
+			<Point>
+				<coordinates>147.779846,62.22443599999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>August 7, 2004</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/small/42931515.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[©Mikael Strandberg]]></description>
+			<Point>
+				<coordinates>148.173981,62.02346099999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>August 8, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>148.647766,61.946702,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>August 9, 2004</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://mw2.google.com/mw-panoramio/photos/small/24885523.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[©Mikael Strandberg]]></description>
+			<Point>
+				<coordinates>148.756943,61.75850500000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>August 10, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[2004-08-10 - The cyclon has arrived (http://www.siberia.nu/reports.php?lang=en&id=31)! (http://www.siberia.nu/reports.php?lang=en&id=31)
+ 
+2004-08-10 - Highlight of life (http://www.siberia.nu/reports.php?lang=en&id=33)
+
+2004-08-10 - Rest day at the Grayling River (http://www.siberia.nu/reports.php?lang=en&id=34)]]></description>
+			<Point>
+				<coordinates>148.938904,61.648162000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>August 11, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[2004-08-11 - A extremely sunny day (http://www.siberia.nu/reports.php?lang=en&id=35)
+
+2004-08-11 - Amazing encounter! (http://www.siberia.nu/reports.php?lang=en&id=36)]]></description>
+			<Point>
+				<coordinates>149.286346,61.668372999999995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>August 12, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[2004-08-12 - Beach camp (http://www.siberia.nu/reports.php?lang=en&id=37)  (http://www.siberia.nu/reports.php?lang=en&id=37)]]></description>
+			<Point>
+				<coordinates>149.512939,61.744531,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>August 13 &amp; 14, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Coordinates: 61° 56´ 29.5,149° 49´ 49´
+
+2004-08-14 - A day of Siberian civilization (http://www.siberia.nu/reports.php?lang=en&id=38)]]></description>
+			<Point>
+				<coordinates>149.853516,61.931197000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>August 17 - 18, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[2004-08-18 - Getting closer to civilization (http://www.siberia.nu/reports.php?lang=en&id=40)
+ 
+2004-08-18 - Time thriller (http://www.siberia.nu/reports.php?lang=en&id=41)
+
+2004-08-18 - Arrival at civilization  (http://www.siberia.nu/reports.php?lang=en&id=42)
+
+2004-08-18 - Sasha  (http://www.siberia.nu/reports.php?lang=en&id=43)]]></description>
+			<Point>
+				<coordinates>150.202611,62.043167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>August 19, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[2004-08-19 - Freezing day (http://www.siberia.nu/reports.php?lang=en&id=44)]]></description>
+			<Point>
+				<coordinates>150.761261,62.439336000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>August 21, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>150.985107,62.63376999999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>August 22-25, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[2004-09-22 - Johan´s two month summary (http://www.siberia.nu/reports.php?lang=en&id=61)
+
+2004-08-22 - Autumn (http://www.siberia.nu/reports.php?lang=en&id=45)
+
+2004-08-24 - 500 km! (http://www.siberia.nu/reports.php?lang=en&id=46)
+
+2004-08-24 - Johans Impressions (http://www.siberia.nu/reports.php?lang=en&id=47)]]></description>
+			<Point>
+				<coordinates>151.493225,62.55159100000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>August 26, 2004</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/-r9aEzh9ebR0/S7NovwMvGvI/AAAAAAAAD1M/64wTkzw8erw/s288/katalka_endemic_fish_kolyma.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[©Mikael Strandberg]]></description>
+			<Point>
+				<coordinates>151.962891,62.573106,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>August 27, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>152.260895,62.53449500000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>August 28, 2004</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/-3eJFv2KgXWU/S7NowN0UJWI/AAAAAAAAD1U/G51E71MGgfM/s288/kolyma.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[©Mikael Strandberg
+
+
+2004-08-28 - Problem (http://www.siberia.nu/reports.php?lang=en&id=49)
+
+
+2004-08-28 - Problem 2 (http://www.siberia.nu/reports.php?lang=en&id=50)
+
+
+2004-08-28 - Gnats (http://www.siberia.nu/reports.php?lang=en&id=50)
+
+
+2004-08-28 - Gnats and molded bread. (http://www.siberia.nu/reports.php?lang=en&id=52)]]></description>
+			<Point>
+				<coordinates>152.542419,62.762898,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>September 2, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>152.448349,62.919922,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>September 6, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>152.620697,63.336727,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Seymchan</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[2004-09-02 - The settlement of Seimchan  (http://www.siberia.nu/reports.php?lang=en&id=53)
+
+ 
+Seymchan on Wikipedia (http://en.wikipedia.org/wiki/Seymchan_(urban-type_settlement))]]></description>
+			<Point>
+				<coordinates>152.391357,62.93445400000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>September 5, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Coordinates: 62°57´47.2, 152°32´51.5
+
+2004-09-05 - A hunters tale (http://www.siberia.nu/reports.php?lang=en&id=53)]]></description>
+			<Point>
+				<coordinates>152.547639,62.963111,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>September 7, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>152.946167,63.440686,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>September 8, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[2004-09-08 - Great scenery  (http://www.siberia.nu/reports.php?lang=en&id=55)]]></description>
+			<Point>
+				<coordinates>153.779755,63.857313,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>September 9, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Coordinates: 64°03´45.4, 154°25
+
+2004-09-09 - Ruslan  (http://www.siberia.nu/reports.php?lang=en&id=56)]]></description>
+			<Point>
+				<coordinates>154.416667,64.062611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>September 12-16, 2004</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/-3fiwPvI7caM/S7NmlQSy7rI/AAAAAAAADzo/9SRAIashSfc/s288/gulag_symbol_barbed-wire.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[©Mikael Strandberg
+
+
+2004-09-13 - The worst of prisoner camps (http://www.siberia.nu/reports.php?lang=en&id=57)
+
+
+2004-09-14 - Close and dangerous encounter (http://www.siberia.nu/reports.php?lang=en&id=58)
+
+
+2004-09-16 - Primitive living (http://www.siberia.nu/reports.php?lang=en&id=59)]]></description>
+			<Point>
+				<coordinates>154.276886,64.332771,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>September 19-22, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[2004-09-20 - Tale about Andre & Valentin (http://www.siberia.nu/reports.php?lang=en&id=60)]]></description>
+			<Point>
+				<coordinates>153.654785,64.69441,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>September 23-28, 2004</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/-K1w4C1hXL1Q/S7NoTz1jLPI/AAAAAAAAD00/46QrpvZQ68o/s288/jakt.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[©Mikael Strandberg
+
+
+2004-09-23 - Winter is on it´s way (http://www.siberia.nu/reports.php?lang=en&id=62)
+
+ 
+2004-09-26 - A hunting story from our (http://www.siberia.nu/reports.php?lang=en&id=63) camp (http://www.siberia.nu/reports.php?lang=en&id=63)
+
+
+2004-09-28 - Worries! (http://www.siberia.nu/reports.php?lang=en&id=64)]]></description>
+			<Point>
+				<coordinates>153.036804,64.704974,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>September 30, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[2004-09-30 - Sighting of a Siberian Wolf (http://www.siberia.nu/reports.php?lang=en&id=65)]]></description>
+			<Point>
+				<coordinates>152.210083,64.923251,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>October 3, 2004</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/-P76RrvSYUEI/S7Nm5lifUSI/AAAAAAAAD0A/ojtnG6EiJlg/s288/ivan_pike.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[2004-10-03 - Vodka (http://www.siberia.nu/reports.php?lang=en&id=66)
+
+©Mikael Strandberg]]></description>
+			<Point>
+				<coordinates>151.737671,65.155348,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>October 5-10, 2004</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/-brxiWBE_Jng/S7NneqiHVHI/AAAAAAAAD0I/z5mxqeLrE2M/s288/j_i_kanot_med-_mat.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[2004-10-05 - Cold paddling (http://www.siberia.nu/reports.php?lang=en&id=67)
+
+2004-10-07 - Self contemplation (http://www.siberia.nu/reports.php?lang=en&id=68)
+
+2004-10-10 - Will we make it? (http://www.siberia.nu/reports.php?lang=en&id=69)
+
+
+©Mikael Strandberg]]></description>
+			<Point>
+				<coordinates>151.498718,65.303224,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Zyryanka</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>150.721436,65.735142,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>October 12 - November 17, 2004</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/-ALoTSyC46Pg/S7NjWtOnmmI/AAAAAAAADyE/5C17JILmpXw/s288/50_years_married.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[2004-10-12 - We made it to Zyryanka (http://www.siberia.nu/reports.php?lang=en&id=70)
+
+2004-10-14 - The technical equipment (http://www.siberia.nu/reports.php?lang=en&id=71)
+
+2004-10-17 - En iblick från Olga och Vadim (http://www.siberia.nu/reports.php?lang=en&id=72)
+
+2004-10-19 - Reflections (http://www.siberia.nu/reports.php?lang=en&id=73) 
+
+2004-10-21 - Visit to a yakut family (http://www.siberia.nu/reports.php?lang=en&id=74) 
+
+2004-10-24 - Accused of terrorism (http://www.siberia.nu/reports.php?lang=en&id=75)
+
+2004-10-26 - Rat hunting (http://www.siberia.nu/reports.php?lang=en&id=76)
+
+2004-10-28 - What do people in Zyryanka do (http://www.siberia.nu/reports.php?lang=en&id=77)
+
+2004-10-31 - Violetta and her son Krilli (http://www.siberia.nu/reports.php?lang=en&id=78)
+
+2004-11-02 - The youth in Zyryanka (http://www.siberia.nu/reports.php?lang=en&id=79)
+
+2004-11-04 - Meeting with a yugahir shaman? (http://www.siberia.nu/reports.php?lang=en&id=80)
+
+2004-11-07 - The yugahirs as told by Ljuba (http://www.siberia.nu/reports.php?lang=en&id=80)
+
+2004-11-09 - A Siberian settlement of today (http://www.siberia.nu/reports.php?lang=en&id=82)
+
+2004-11-11 - Dogs along the Kolyma (http://www.siberia.nu/reports.php?lang=en&id=83)
+
+2004-11-14 - True Siberians! (http://www.siberia.nu/reports.php?lang=en&id=84)
+
+2004-11-16 - It´s time to face the cold! (http://www.siberia.nu/reports.php?lang=en&id=85)
+
+©Mikael Strandberg]]></description>
+			<Point>
+				<coordinates>150.893784,65.733731,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>November 18,2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>150.724182,65.944513,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>November 21, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>150.974121,66.102719,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>November 25, 2004</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/-smo-_YV8XT0/S7Nl-hH2n7I/AAAAAAAADy8/_pvtT5JuEHM/s288/Cold_face.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[©Mikael Strandberg
+
+
+2004-11-23 - First frost bite!  (http://www.siberia.nu/reports.php?lang=en&id=86)
+
+
+2004-11-23 - Almost unbearably cold  (http://www.siberia.nu/reports.php?lang=en&id=87)
+
+
+2004-11-25 - I´ve never been this (http://www.siberia.nu/reports.php?lang=en&id=88) cold before (http://www.siberia.nu/reports.php?lang=en&id=88)
+
+
+2004-11-25 - A terrible day  (http://www.siberia.nu/reports.php?lang=en&id=89)]]></description>
+			<Point>
+				<coordinates>151.397095,66.178266,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>November 29-30, 20004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[2004-11-29 - The Russian word normal (http://www.siberia.nu/reports.php?lang=en&id=90)]]></description>
+			<Point>
+				<coordinates>151.749344,66.291992,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F9F7A6</styleUrl>
+			<name>December 2, 2004</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/-L9hcQiYs2Xk/S7NjWBNiK_I/AAAAAAAADyA/ynyj5t6ABuo/s288/00071.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[2004-12-02 - Sleeping in a tent at -43°C (http://www.siberia.nu/reports.php?lang=en&id=91)
+
+2004-12-02 - Fatigue (http://www.siberia.nu/reports.php?lang=en&id=92)
+
+©Mikael Strandberg]]></description>
+			<Point>
+				<coordinates>151.857147,66.396961,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>December 6, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>152.488861,66.633105,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>December 7, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[2004-12-07 - Don´t worry, be happy!  (http://www.siberia.nu/reports.php?lang=en&id=94)]]></description>
+			<Point>
+				<coordinates>152.713394,66.841377,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>December 8, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[2004-12-08 - The dark side of Kolyma  (http://www.siberia.nu/reports.php?lang=en&id=95)]]></description>
+			<Point>
+				<coordinates>152.753906,66.923064,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>December 10, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>152.95028700000003,66.99294,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>December 12, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[2004-12-11 - Tired - but positive!  (http://www.siberia.nu/reports.php?lang=en&id=96)]]></description>
+			<Point>
+				<coordinates>153.700104,67.173951,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>December 13, 2004</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/-SQNWbuEEado/S7NseBMsl3I/AAAAAAAAD3A/TIrrKBCgNR0/s288/santa_claus.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[2004-12-13 - We´re closing in (http://www.siberia.nu/reports.php?lang=en&id=97)
+ 
+2004-12-13 - -57°F! (http://www.siberia.nu/reports.php?lang=en&id=98)
+
+©Mikael Strandberg]]></description>
+			<Point>
+				<coordinates>153.619766,67.305446,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Srednekolymsk</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/-zI3jLN4Il5U/S7NuSOtd8QI/AAAAAAAAD4E/RqXN2fPYHN8/s288/together_with_the_mayor_of_.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[©Mikael Strandberg
+
+
+Srednekolymsk on Wikipedia. (http://en.wikipedia.org/wiki/Srednekolymsk)]]></description>
+			<Point>
+				<coordinates>153.691177,67.453869,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>December 15 - February 03 / part 1</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/-aEQngPeNztw/S7Ns2kkGXVI/AAAAAAAAD3Y/lG9XVm8fye4/s288/siberian_straganina_siberian_style.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[2004-12-16 - We´ve made it to Srednekolymsk (http://www.siberia.nu/reports.php?lang=en&id=99)
+
+2004-12-19 - Alexei in Ambar (http://www.siberia.nu/reports.php?lang=en&id=100)
+ 
+2004-12-21 - Local cuisine & thoughts a pro (http://www.siberia.nu/reports.php?lang=en&id=101)
+
+2004-12-23 - The yakut Valodja (http://www.siberia.nu/reports.php?lang=en&id=102)
+
+©Mikael Strandberg]]></description>
+			<Point>
+				<coordinates>153.572388,67.454659,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>December 15 - February 03 / part 2</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/-0_omhdb79ok/S7NlakqJDlI/AAAAAAAADy0/iqO_l-UxNI4/s288/canon.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[004-12-26 - A visit to Nasha and Dima (http://www.siberia.nu/reports.php?lang=en&id=103) 
+
+2004-12-27 - Nasha and Dima, part 2 (http://www.siberia.nu/reports.php?lang=en&id=104)
+
+2004-12-29 - What does you parents think? (http://www.siberia.nu/reports.php?lang=en&id=105)
+
+2005-01-02 - The true Siberians (http://www.siberia.nu/reports.php?lang=en&id=106)
+
+©Mikael Strandberg]]></description>
+			<Point>
+				<coordinates>153.589554,67.455186,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>December 15 - February 03 / part 3</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[2005-01-03 - Regarding the equipment (http://www.siberia.nu/reports.php?lang=en&id=107)
+
+2005-01-05 - Traveling on a Winter road (http://www.siberia.nu/reports.php?lang=en&id=108)
+
+2005-01-07 - Conversations (http://www.siberia.nu/reports.php?lang=en&id=109)
+
+2005-01-10 - The reality of buying food (http://www.siberia.nu/reports.php?lang=en&id=110)]]></description>
+			<Point>
+				<coordinates>153.609467,67.455186,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>December 15 - February 03 / part 4</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/-3uI8oYibQ4M/S7NtbP3GXoI/AAAAAAAAHGI/QGPymvRNqJE/s288/sred_1_sun_february.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[2005-01-12 - Total lack of motivation (http://www.siberia.nu/reports.php?lang=en&id=111)
+
+2005-01-16 - The Even babuschka (http://www.siberia.nu/reports.php?lang=en&id=112)
+
+2005-01-17 - The Second World War (http://www.siberia.nu/reports.php?lang=en&id=113)
+
+2005-01-20 - The Yakuts - part 1 (http://www.siberia.nu/reports.php?lang=en&id=114)
+
+©Mikael Strandberg]]></description>
+			<Point>
+				<coordinates>153.629379,67.454396,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>December 15 - February 03 / part 5</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/-ALfgw-527rA/S7NvAYlxi9I/AAAAAAAAD48/G5TPYvS7TUw/s288/yakut_horseman_horse.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[2005-01-20 - The Yakuts - part 2 (http://www.siberia.nu/reports.php?lang=en&id=115)
+
+2005-01-23 - Helpful Yakuts (http://www.siberia.nu/reports.php?lang=en&id=116)
+
+2005-01-25 - Making a documentary (http://www.siberia.nu/reports.php?lang=en&id=117)
+
+2005-01-27 - A small note on worshipping... (http://www.siberia.nu/reports.php?lang=en&id=118)
+
+©Mikael Strandberg]]></description>
+			<Point>
+				<coordinates>153.648605,67.454923,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>February 6, 2005</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[2005-02-05 - Worries regarding failure (http://www.siberia.nu/reports.php?lang=en&id=121)
+
+2005-02-06 - What a difference! (http://www.siberia.nu/reports.php?lang=en&id=122)]]></description>
+			<Point>
+				<coordinates>154.226074,67.523273,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Feb 8, 2005</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[2005-02-08 - Rough start  (http://www.siberia.nu/reports.php?lang=en&id=123)]]></description>
+			<Point>
+				<coordinates>154.959412,67.562093,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Petrovo</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>155.198364,67.580955,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F9F7A6</styleUrl>
+			<name>February 11, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[2005-02-11 - Minor problems (http://www.siberia.nu/reports.php?lang=en&id=124)]]></description>
+			<Point>
+				<coordinates>155.11734,67.602942,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Chirkovo</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/-_3dOIpMphzg/S7Nl_DzuQII/AAAAAAAADzA/SKgcCIRStmo/s288/communication.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[©Mikael Strandberg]]></description>
+			<Point>
+				<coordinates>155.533447,67.592475,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>February 13-22, 2004</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/-lavcNyh4vjg/S7Nu_lgQe8I/AAAAAAAAD40/bMdBWILIzOc/s288/yurabgi_reindeerskins.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[005-02-14 - Complications (http://www.siberia.nu/reports.php?lang=en&id=125)
+
+2005-02-15 - Staying put (http://www.siberia.nu/reports.php?lang=en&id=126)
+
+2005-02-18 - The life of a Taiga hunter (http://www.siberia.nu/reports.php?lang=en&id=127)
+
+©Mikael Strandberg]]></description>
+			<Point>
+				<coordinates>155.753174,67.567334,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>February 24, 2004</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/-qo0xCnmK1c0/S7Nqh0-BylI/AAAAAAAAD14/WxHE0ahU0Go/s288/mockf_2.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[2005-02-24 - On the move again (http://www.siberia.nu/reports.php?lang=en&id=130)
+
+©Mikael Strandberg]]></description>
+			<Point>
+				<coordinates>156.281891,67.625954,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>February 27, 2005</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[2005-02-27 - A frostbite and a hard slog (http://www.siberia.nu/reports.php?lang=en&id=131)]]></description>
+			<Point>
+				<coordinates>156.275024,67.808726,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>March 3, 2005</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/-ZN-i3FuetqQ/S7Nqie6qrwI/AAAAAAAAD2E/tKD-BZTgozQ/s288/msr.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[2005-03-01 - Staying another day for 5 kg:s (http://www.siberia.nu/reports.php?lang=en&id=132)
+
+2005-03-03 - Living in a tent... (http://www.siberia.nu/reports.php?lang=en&id=133)
+
+©Mikael Strandberg]]></description>
+			<Point>
+				<coordinates>156.334076,67.943713,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>March 8, 2005</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>157.655182,68.14192,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>March 6, 2005</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>157.38739,68.051756,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Zyryanka</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>150.88623,65.737963,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>March 10, 2005</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/-AJoqcbo6T3E/S7NrqPsW9-I/AAAAAAAAD2o/S38nelC-5Ic/s288/rik.JPG</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[2005-03-08 - Tired after eight months... (http://www.siberia.nu/reports.php?lang=en&id=135)
+ 
+2005-03-10 - There´s no easy days... (http://www.siberia.nu/reports.php?lang=en&id=136)
+
+©Mikael Strandberg]]></description>
+			<Point>
+				<coordinates>157.998505,68.459262,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>March 14, 2005</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>158.241577,68.663551,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Kolymskoye</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>158.707638,68.732959,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>April 3, 2004</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/-1VZdPpXWWWQ/S7Nl_esCN5I/AAAAAAAADzI/hGEU0zsW5fw/s288/female_friends_kolymskaya.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[2005-04-03 - Goodbye Kolymskaya (http://www.siberia.nu/reports.php?lang=en&id=146)
+
+©Mikael Strandberg]]></description>
+			<Point>
+				<coordinates>159.228973,68.753559,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>April 5, 2004</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/-RPGLYUORZKU/S7NjVsf8K5I/AAAAAAAADx8/notRsKBEvKk/s288/00075.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[2005-04-05 - Enjoying life in the tent (http://www.siberia.nu/reports.php?lang=en&id=147)
+
+ ©Mikael Strandberg]]></description>
+			<Point>
+				<coordinates>160.043335,68.570421,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>April 7, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>160.427856,68.536276,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1217</styleUrl>
+			<name>Chersky</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Chersky on Wikipedia. (http://en.wikipedia.org/wiki/Chersky_(settlement))]]></description>
+			<Point>
+				<coordinates>161.331111,68.751944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>April 10 - 15, 2005</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/-m5HkjgltovQ/S7NtbdK4B8I/AAAAAAAAD3w/kP5HTqsuckE/s288/stanislaw.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[2005-04-10 - We´ve made it to Chersky! (http://www.siberia.nu/reports.php?lang=en&id=149)
+
+2005-04-12 - Conversations in a Siberian Suana (http://www.siberia.nu/reports.php?lang=en&id=150)
+
+2005-04-14 - The son of two murdered... (http://www.siberia.nu/reports.php?lang=en&id=151)
+
+©Mikael Strandberg]]></description>
+			<Point>
+				<coordinates>161.341095,68.744351,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>April 17, 2005</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[2005-04-17 - Serious thoughts regarding... (http://www.siberia.nu/reports.php?lang=en&id=152)]]></description>
+			<Point>
+				<coordinates>161.575928,69.14692,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>April 19, 2004</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[2005-04-19 - Freedom (http://www.siberia.nu/reports.php?lang=en&id=153)]]></description>
+			<Point>
+				<coordinates>161.76818800000004,69.442128,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>Mâl (End) April 21, 2004</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/-Lapxq7sCB8E/S7Np4IxvxII/AAAAAAAAD1o/wBUgJJZHcl4/s288/mikael_face_kanotwinter.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[2005-04-23 - We made it (http://www.siberia.nu/reports.php?lang=en&id=154)
+
+©Mikael Strandberg]]></description>
+			<Point>
+				<coordinates>162.328491,69.614076,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Strandberg Video</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Strandberg Video (http://youtu.be/-Pqg0zIuvzA)]]></description>
+			<Point>
+				<coordinates>147.286835,61.97317,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Other Interactive Maps on History</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>156.445313,61.81466400000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1217'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1217-fac-wc-men.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F9F7A6'>
+			<IconStyle>
+				<color>ffA6F7F9</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-960-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

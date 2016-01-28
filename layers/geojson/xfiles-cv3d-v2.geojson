@@ -1,0 +1,1405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Starfire Optical Range (SOR)",
+                "desc": "<p>Kirtland AFB, New Mexico<br>Air Force Phillips Laboratory<br><br><a href=\"http:\/\/www.kirtland.af.mil\/library\/factsheets\/factsheet.asp?id=15868\" target=\"_blank\">Factsheet<\/a><\/p><p><a href=\"http:\/\/lewis.armscontrolwonk.com\/archive\/528\/starfire-optical-range\" target=\"_blank\"><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/starfire-optical-range-1.jpg\"\/><\/a><br><br><a href=\"http:\/\/lewis.armscontrolwonk.com\/archive\/1051\/starfire-optical-range-2\" target=\"_blank\"><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/starfire-optical-range-2.jpg\"\/><\/a><br><br><a href=\"http:\/\/en.wikipedia.org\/wiki\/Starfire_Optical_Range\" target=\"_blank\"><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/starfire-optical-range-3.jpg\"\/><\/a><br><br><a href=\"http:\/\/en.wikipedia.org\/wiki\/FASOR_%28laser_physics%29\" target=\"_blank\"><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/starfire-optical-range-4.jpg\"\/><\/a><\/p><p><a href=\"http:\/\/www.kirtland.af.mil\/prs\/index.asp\" target=\"_blank\">AFRL Phillips Research Site<\/a><br><a href=\"http:\/\/www.kirtland.af.mil\/afrl_de\/\" target=\"_blank\">AFRL Directed Energy Directorate<\/a><br><br><a href=\"http:\/\/prs.afrl.kirtland.af.mil\/PTi\/Docs\/RDRV.Resources.pdf\" target=\"_blank\">Air Force Research Laboratory Directed Energy and Space Vehicles Directorates<\/a><br><br><a href=\"http:\/\/www.dtic.mil\/descriptivesum\/Y2006\/AirForce\/0603500F.pdf\" target=\"_blank\">RDT&E Budget Item Justification<\/a><br><a href=\"http:\/\/www.globalsecurity.org\/space\/systems\/starfire.htm\" target=\"_blank\">GlobalSecurity<\/a><br><a href=\"http:\/\/en.wikipedia.org\/wiki\/Starfire_Optical_Range\" target=\"_blank\">Wikipedia<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.463683244,
+                    34.9643001545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "3.5m telescope",
+                "desc": "<p>This 3.5-meter telescope uses a spun cast borosilicate primary mirror fabricated and polished by the University of Arizona's Steward observatory Mirror Laboratory in Tucson. The lightweight honeycomb sandwich primary mirror weighs 4,5OO pounds and has a one-inch thick glass facesheet. The surface is polished to a precision of 21 nanometers, 3,OOO times thinner than a human hair. The mirror is supported by 56 computer-controlled actuators to maintain the surface figure while the telescope is moving. The mirror was installed in August 1993, and first light images were achieved on February 10, 1994. <br><br><a href=\"http:\/\/www.globalsecurity.org\/space\/systems\/starfire.htm\" target=\"_blank\">Global Security<\/a><br><br><a href=\"http:\/\/www.globalsecurity.org\/space\/systems\/starfire.htm\" target=\"_blank\"><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/starfire-optical-range-5.jpg\"\/><\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.463870922,
+                    34.9642285688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Telescope and Atmospheric Compensation Laboratory",
+                "desc": "<p>The TACLab includes extensive optics, electronics, computerand mechanical laboratory space for equipment design, construction and testing prior to integration with telescopes and other experiment hardware. The facility also includes alarge chamber for the required periodic recoating of the Starfire Optical Range\u2019s 3.5-meter telescope\u2019s primary mirror and other large mirrors from area astronomical observatories.<br><br><a href=\"http:\/\/prs.afrl.kirtland.af.mil\/PTi\/Docs\/RDRV.Resources.pdf\" target=\"_blank\">Air Force Research Laboratory Directed Energy and Space Vehicles Directorates<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.45984138,
+                    34.9629235155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GEODSS - Maui 3",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -156.257533736,
+                    20.7085718494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GEODSS - Maui 2",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -156.257541847,
+                    20.7082127104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GEODSS - Maui 1",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -156.257869573,
+                    20.7082177355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GEODSS - Sorrocco 1",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.659619766,
+                    33.8172433293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GEODSS - Sorrocco 2",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.659679718,
+                    33.81704718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GEODSS - Sorrocco 3",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.660085532,
+                    33.8172453208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GEODSS - Diego 1",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.4524361927,
+                    -7.41163031894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GEODSS - Diego 2",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.4523837536,
+                    -7.4118656668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GEODSS - Diego 3",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.4520341881,
+                    -7.41162959648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ajaccio - (AJAF)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/ftlrs_ajaccio2.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/AJAF_general.html\" target=\"blank\">AJAF Webpage<\/a><br><a href=\"ftp:\/\/cddis.gsfc.nasa.gov\/reports\/slrlog\/ajaf_20080929.log\" target=\"blank\">FTP Log<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.76282875925,
+                    41.9273544796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Altay (ALTL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/altay.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/ALTL_general.html\" target=\"blank\">ALTL Webpage<\/a><br><a href=\"ftp:\/\/cddis.gsfc.nasa.gov\/reports\/slrlog\/altl_20090325.log\" target=\"blank\">FTP Log<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.1792793024,
+                    51.3438842198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "APOLLO (APOL)",
+                "desc": "<p>Apache Point<br><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/apol.jpg\" \/><br><br><a href=\"sfc.nasa.gov\/stations\/sitelist\/APOL_general.html\" target=\"blank\">APOL Webpage<\/a><br><a href=\"ftp:\/\/cddis.gsfc.nasa.gov\/reports\/slrlog\/apol_20090629.log\" target=\"blank\">FTP Log<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.820263584,
+                    32.7805032194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arequipa (AREL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/tlrs-3.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/AREL_general.html\" target=\"blank\">AREL Webpage<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.492943522,
+                    -16.4658033199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Arkhyz (ARKL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/arkl2.jpg\" \/><br>    <br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/ARKL_general.html\" target=\"blank\">ARKL Webpage<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    63.3422053095,
+                    45.7047112555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Beijing (BEIA)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/Beijing-TROS.gif\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/BEIA_general.html\" target=\"blank\">BEIA Webpage<\/a><br><a href=\"ftp:\/\/cddis.gsfc.nasa.gov\/reports\/slrlog\/beia_20030821.log\" target=\"blank\">FTP Log<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.891761812,
+                    39.6069224869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Beijing (BEIL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/beijing.jpg\"\/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/BEIL_general.html\" target=\"blank\">BEIL Webpage<\/a><br><a href=\"ftp:\/\/cddis.gsfc.nasa.gov\/reports\/slrlog\/beil_20100920.log\" target=\"blank\">FTP Log<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.891379591,
+                    39.6065168964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Beijing (BEIT)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/Beijing-TROS.gif\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/BEIT_general.html\" target=\"blank\">BEIT Webpage<\/a><br><a href=\"ftp:\/\/cddis.gsfc.nasa.gov\/reports\/slrlog\/beit_20020722.log\" target=\"blank\">FTP Log<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.891168847,
+                    39.6069595049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Borowiec (BORL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/borowiec.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/BORL_general.html\" target=\"blank\">BORL Webpage<\/a><br><a href=\"ftp:\/\/cddis.gsfc.nasa.gov\/reports\/slrlog\/borl_20030331.log\" target=\"blank\">FTP Log<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0747595929,
+                    52.2772106254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brest (BREF)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/brest_ftlrs_0409.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/BREF_general.html\" target=\"blank\">BREF Webpage<\/a><br><a href=\"ftp:\/\/cddis.gsfc.nasa.gov\/reports\/slrlog\/bref_20040930.log\" target=\"blank\">FTP Log<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.50377327801,
+                    48.4078544911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Burnie Tafe (BURF)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/Ftlrs_Burnie_Tasmania.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/BURF_general.html\" target=\"blank\">BURF Webpage<\/a><br><a href=\"ftp:\/\/cddis.gsfc.nasa.gov\/reports\/slrlog\/burf_20071221.log\" target=\"blank\">FTP Log<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.881133365,
+                    -41.0621865247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cagliari (CGLL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/cagliari.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/CGLL_general.html\" target=\"blank\">CGLL Webpage<\/a><br><a href=\"ftp:\/\/cddis.gsfc.nasa.gov\/reports\/slrlog\/cgll_20020722.log\" target=\"blank\">FTP Log<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.97283900814,
+                    39.1366476052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chania (CHAF)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/Chania.gif\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/CHAF_general.html\" target=\"blank\">CHAF Webpage<\/a><br><a href=\"ftp:\/\/cddis.gsfc.nasa.gov\/reports\/slrlog\/chaf_20030423.log\" target=\"blank\">FTP Log<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0704663214,
+                    35.5331374436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Changchun (CHAL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/changchun2.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/CHAL_general.html\" target=\"blank\">CHAL Webpage<\/a><br><a href=\"ftp:\/\/cddis.gsfc.nasa.gov\/reports\/slrlog\/chal_20090721.log\" target=\"blank\">FTP Log<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.443502397,
+                    43.7906189528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Concepcion (CONL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/concepcion.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/CONL_general.html\" target=\"blank\">CONL Webpage<\/a><br><a href=\"ftp:\/\/cddis.gsfc.nasa.gov\/reports\/slrlog\/conl_20100929.log\" target=\"blank\">FTP Log<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.025396158,
+                    -36.8430592431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Golosiiv (GLSL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/kiev.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/GLSL_general.html\" target=\"blank\">GLSL Webpage<\/a><br><a href=\"ftp:\/\/cddis.gsfc.nasa.gov\/reports\/slrlog\/glsl_20110421.log\" target=\"blank\">FTP Log<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.4960994644,
+                    50.3631794343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Grasse (MeO) (GRSM)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/grasse_llr_2b.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/GRSM_general.html\" target=\"blank\">GRSM Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.92159245029,
+                    43.7546187425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Graz (GRZL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/graz.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/GRZL_general.html\" target=\"blank\">GRZL Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4939269978,
+                    47.066966088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Greenbelt (GODL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/moblas7.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/GODL_general.html\" target=\"blank\">GODL Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.8276494926,
+                    39.020700099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Greenbelt (GO1L)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/lasermoon.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/GO1L_general.html\" target=\"blank\">GO1L Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.8274723226,
+                    39.0203226023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Haleakala (HA4T)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/tlrs4_hi.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/HA4T_general.html\" target=\"blank\">HA4T Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -156.264772201,
+                    20.7054190663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hartebeesthoek (HARL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/moblas6.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/HARL_general.html\" target=\"blank\">HARL Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6860847089,
+                    -25.8896888823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Helwan (HLWL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/5856520.jpg\" \/><br><br><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/Helwan3b.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/HLWL_general.html\" target=\"blank\">HLWL Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.342700527,
+                    29.8589998659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Herstmonceux (HERL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/herstmonceux.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/HERL_general.html\" target=\"blank\">HERL Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.336097254684,
+                    50.8673682615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Katsively (KTZL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/katsively.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/KTZL_general.html\" target=\"blank\">KTZL Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.9701066213,
+                    44.3932040706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Koganei (KOGC)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/Koganie.gif\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/KOGC_general.html\" target=\"blank\">KOGC Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.489161566,
+                    35.7101973081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Komsomolsk (KOML)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/komsomolsk.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/KOML_general.html\" target=\"blank\">KOML Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.74383,
+                    50.6946100001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kunming (KUNL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/kunming1.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/KUNL_general.html\" target=\"blank\">KUNL Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.797367873,
+                    25.0299517582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lviv (LVIL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/lviv.gif\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/LVIL_general.html\" target=\"blank\">LVIL Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9544118591,
+                    49.9174468325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maidanak1 (MAIL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/maidanak.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/MAIL_general.html\" target=\"blank\">MAIL Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.943049868,
+                    38.6849654292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maidanak2 (MAID)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/maidanak.jpg\"\/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/MAID_general.html\" target=\"blank\">MAID Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    66.9430455139,
+                    38.685843313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Matera (MLRO) (MATM)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/mlro.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/MATM_general.html\" target=\"blank\">MATM Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7046078528,
+                    40.6485176738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "McDonald (MDOL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/mlrs.jpg\" \/><br><br><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/mcdo.gif\" \/><br><br><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/mlrsofft.jpg\" \/><br><br><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/lunar_ra.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/MDOL_general.html\" target=\"blank\">MDOL Webpage<\/a><br><a href=\"http:\/\/www.csr.utexas.edu\/mlrs\/\" target=\"blank\">texas.edu\/mlrs\/<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.015133064,
+                    30.6802356369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mendeleevo (MDVL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/mendeleevo.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/MDVL_general.html\" target=\"blank\">MDVL Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.2248995547,
+                    56.0276167578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Metsahovi2 (METL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/metsahovi.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/METL_general.html\" target=\"blank\">METL Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3946963743,
+                    60.2172185288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Monument Peak (MONL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/monl_20090910.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/MONL_general.html\" target=\"blank\">MONL Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.422699792,
+                    32.8916091117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mt. Stromlo (STL3)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/mtstromlo_0410.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/STL3_general.html\" target=\"blank\">STL3 Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.010121547,
+                    -35.3161575731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Potsdam (POTL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/7836.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/POTL_general.html\" target=\"blank\">POTL Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.06492069,
+                    52.3800056634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Potsdam3 (POT3)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/7841.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/POT3_general.html\" target=\"blank\">POT3 Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0614437123,
+                    52.38301117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Riga (RIGL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/riglas.gif\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/RIGL_general.html\" target=\"blank\">RIGL Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0592083968,
+                    56.9485488094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Riyadh (RIYL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/salro.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/RIYL_general.html\" target=\"blank\">RIYL Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.4002768796,
+                    24.9105387147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "San Fernando (SFEL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/small_san_fernando.gif\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/SFEL_general.html\" target=\"blank\">SFEL Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.20521369753,
+                    36.4652628926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "San Juan (SJUL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/sanjuan.gif\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/SJUL_general.html\" target=\"blank\">SJUL Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.6229606771,
+                    -31.5086603404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shanghai (SHA2)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/sha2a.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/SHA2_general.html\" target=\"blank\">SHA2 Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.186669703,
+                    31.0960965831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Simeiz (SIML)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/small_simeiz.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/SIML_general.html\" target=\"blank\">SIML Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.9912731648,
+                    44.4132851082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Simosato (SISL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/SISL.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/SISL_general.html\" target=\"blank\">SISL Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.936921576,
+                    33.5777853499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tahiti (FTLRS) (GRAF)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/Ftlrs_Tahiti_May_2011.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/THTF_general.html\" target=\"blank\">THTF Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -149.606381785,
+                    -17.5768430121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tahiti (THTL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/moblas8.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/THTL_general.html\" target=\"blank\">THTL Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -149.606122652,
+                    -17.5767599765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tanegashima (GMSL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/tanegashima.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/GMSL_general.html\" target=\"blank\">GMSL Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.015375233,
+                    30.5566443446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wettzell (WETL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/wlrs.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/WETL_general.html\" target=\"blank\">WETL Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8780698485,
+                    49.1445065733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wrightwood (OCTL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/octl.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/OCTL_general.html\" target=\"blank\">OCTL Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.682687342,
+                    34.3817821719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Wuhan (WUHL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/wuhan1.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/WUHL_general.html\" target=\"blank\">WUHL Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.489703137,
+                    30.515706736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Yarragadee (YARL)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/yarragadee.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/YARL_general.html\" target=\"blank\">YARL Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.346733615,
+                    -29.0463460709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zimmerwald (ZIML)",
+                "desc": "<p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/ilrs\/zimmerwald1.jpg\" \/><br><br><a href=\"http:\/\/ilrs.gsfc.nasa.gov\/stations\/sitelist\/ZIML_general.html\" target=\"blank\">ZIML Webpage<\/a><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.46521822635,
+                    46.877296349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Directed Energy Weapon Test Site - North Oscura Peak",
+                "desc": "<p>North Oscura Peak<br>White Sands Missile Range, New Mexico<br><br>Designed to evaluate advanced sensor, tracking and atmospheric compensation systems in support of high-energy laser applications. The site\u2019s goal is to improve the tracking of threats and the ability to efficiently transmit laser energy through the atmosphere to destroy targets<br><br><a href=\"http:\/\/prs.afrl.kirtland.af.mil\/PTi\/Docs\/RDRV.Resources.pdf\" target=\"_blank\">AFRL Directed Energy<\/a><br><a href=\"http:\/\/www.kirtland.af.mil\/shared\/media\/document\/AFD-070404-041.pdf\" target=\"_blank\">North Oscura Peak<\/a><br><br><a href=\"http\" target=\"_blank\"><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/white-sands-north-oscura-peak.jpg\"\/><\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.372112506,
+                    33.7522709683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Directed Energy Weapon Test Site - Salinas Peak",
+                "desc": "<p>Salinas Peak<br>White Sands Missile Range, New Mexico<br><br>Designed to evaluate advanced sensor, tracking and atmospheric compensation systems in support of high-energy laser applications. The site\u2019s goal is to improve the tracking of threats and the ability to efficiently transmit laser energy through the atmosphere to destroy targets<br><br><a href=\"http:\/\/prs.afrl.kirtland.af.mil\/PTi\/Docs\/RDRV.Resources.pdf\" target=\"_blank\">AFRL Directed Energy<\/a><br><a href=\"http:\/\/en.wikipedia.org\/wiki\/Salinas_Peak\" target=\"_blank\">Wikipedia<\/a><br><br><a href=\"http\" target=\"_blank\"><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\"  src=\"http:\/\/climateviewer.org\/img\/gallery\/white-sands-north-oscura-peak.jpg\"\/><\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.531989627,
+                    33.2982686705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "HIPAS",
+                "desc": "<p><b>Fairbanks, Alaska<\/b><br>The LIDAR facility consists of a 2.7 meter LMT (Liquid Mirror Telescope) with a 4.5 meter focal length as well as 6 state-of-the-art lasers.<\/p><p><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/HIPAS_LIDAR.jpg\"\/><br><br><a href=\"http:\/\/climateviewer.org\/img\/gallery\/HIPAS_liquid_mercury_mirror.jpg\" target=\"_blank\"><img alt=\"\" style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/HIPAS_liquid_mercury_mirror.jpg\" \/><\/a><br><br><a href=\"http:\/\/www.physics.ucla.edu\/plasmalab\/images\/opalaska.pdf\" target=\"_blank\">UCLA Plasma Lab PDF<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -146.830111223,
+                    64.8721162485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "And\u00f8ya Rocket Range",
+                "desc": "<p>And\u00f8ya Rocket Range<br><br>And\u00f8ya Rocket Range is the name of a rocket launch site on And\u00f8ya island (the northernmost in the Vester\u00e5len archipelago) in And\u00f8y municipality in northern Norway. It is located at 69\u00b017'39 \"northern latitude and 16\u00b001'15\"eastern length. Since 1962 over 1200 sounding rockets of all known configurations have been launched from this site.<br><br>And\u00f8ya Rocket Range is a civilian facility owned 90% by the the Royal Ministry of Trade and Industry, Norway, and 10% by Kongsberg Defence & Aerospace. It operates on a commercial basis.<br><br>From 1997, a second launch site at Ny-\u00c5lesund, Svalbard was established, enabling scientists to launch sounding rocket straight in the polar cusp.<br><br>A ground based lidar observatory, ALOMAR (Arctic Lidar Observatory for Middle Atmosphere Research) opened in 1994, and is considered unique in atmospheric research in the Arctic. The range is also host of northern Europe's largest MF-radar.<br><br>And\u00f8ya Rocket Range has also been involved in building Norway's first student satellites, the nCube-series (*nCube website).<br><br>In 1995, a rocket from And\u00f8ya caused high alert in Russia. They thought it might be a nuclear missile launched from a submarine. President Boris Yeltsin was alerted for a possible counter strike, when the Russians understood that it was not heading towards Russia. There were press photos all over the world of Yeltsin with the launch command briefcase.<br><br><img style=\"max-width:100%\" src=\"http:\/\/www.rocketrange.no\/wp-content\/files\/OnlineArchive\/previews\/1318368809.jpg\" \/><br><br>http:\/\/www.rocketrange.no\/<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0262125253,
+                    69.2949199313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ALOMAR Observatory",
+                "desc": "<p>LIDAR<br>ALOMAR Observatory<br>And\u00f8ya, Norway<br><br><img style=\"max-width:100%\" src=\"http:\/\/alomar.rocketrange.no\/ban1.jpg\" \/><br><br>The ALOMAR Observatory (69 16 42 N, 16 00 31 E, elev. 380 m) is a modern facility where scientific groups from 6 nations are investigating in atmosphere research. At the same time ALOMAR is responsible for all ground based instrumentation of the And\u00f8ya Rocket Range The ALOMAR instrumentation covers all atmospheric layers from the troposphere to the lower thermosphere. Additional instruments looking at physical parameters in the ionosphere, magnetosphere and auroral oval are making ALOMAR a full size atmospheric laboratory in the arctic. <br><br><a href=\"http:\/\/alomar.rocketrange.no\/images\/IAPweb.jpg\" target=\"_blank\"><img style=\"max-width:100%\" src=\"http:\/\/alomar.rocketrange.no\/images\/IAPweb.jpg\" name=\"Graphic1\" alt=\"ALOMAR WebCam\" \/><\/a><br><a href=\"http:\/\/128.39.135.36\/jpg\/image.jpg\" target=\"_blank\"><img style=\"max-width:100%\" src=\"http:\/\/128.39.135.36\/jpg\/image.jpg\" \/><\/a><br><a href=\"http:\/\/128.39.135.84\/jpg\/image.jpg\" target=\"_blank\"><img style=\"max-width:100%\" src=\"http:\/\/128.39.135.84\/jpg\/image.jpg\" \/><\/a><br><a href=\"http:\/\/128.39.135.85\/jpg\/image.jpg\" target=\"_blank\"><img style=\"max-width:100%\" src=\"http:\/\/128.39.135.85\/jpg\/image.jpg\" \/><\/a><br><a href=\"http:\/\/128.39.135.87\/jpg\/image.jpg\" target=\"_blank\"><img style=\"max-width:100%\" src=\"http:\/\/128.39.135.87\/jpg\/image.jpg\" \/><\/a><br><a href=\"http:\/\/128.39.135.46\/jpg\/image.jpg\" target=\"_blank\"><img style=\"max-width:100%\" src=\"http:\/\/128.39.135.46\/jpg\/image.jpg\" \/><\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0095128829,
+                    69.2785905641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Firepond Optical Facility",
+                "desc": "<p>LIDAR<br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.4925604956,
+                    42.6175171471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "UMBC Physics LiDAR",
+                "desc": "UMBC LiDAR (Light Detection and Ranging) Located on the top of the Physics building and provides real time aerosol detection at http:\/\/alg.umbc.edu\/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.7094508029,
+                    39.2545228039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "IRF Kiruna LIDAR",
+                "desc": "<p>A lidar for aerosol and ozone studies in the troposphere\/lower stratosphere was funded by the Swedish Natural Science Research Council, NFR (Naturvetenskapliga forskningsr\u00e5det), in 2000.<br><br>Lidar is a technique for making measurements of the atmosphere from the ground. The instrument for lidar measurements consists of two parts, an emitter and a receiver. The emitter sends laser pulses into the atmosphere. There the laser light gets scattered by particles and molecules, partly also backwards to the lidar. There the receiver detects the light which was scattered backwards. Since the speed of light is constant, the time between the emission of the laser pulse and detection at the receiver tells us at which height the light was scattered. Changes in intensity can reveal clouds which are invisible for the eye (but important for climate research).<br><br><a href=\"https:\/\/www.irf.se\/program\/afp\/lidar\/\" target=\"_blank\"><img style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/kiruna_lidar.jpg\" \/><\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4150811946,
+                    67.8338660272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Davis Station LIDAR",
+                "desc": "<p><img style=\"max-width:100%\" src=\"http:\/\/images.aad.gov.au\/img.py\/a3d.jpg\" align=\"right\" \/>The main aim of the Davis lidar is to investigate the long-tem climate and characteristics of the Antarctic atmosphere in the study of global climate change.<br><br>There are currently only five lidars operating in Antarctica. The Davis lidar is one of only three Antarctic lidars that can probe the mesosphere (the layer between altitudes of 50 km and 95 km).<br><br>The Davis lidar measures atmospheric density, temperature, wind velocity and aerosol loading as a function of altitude. The altitude range is normally between 10 km and 65 km, although certain types of measurement can be made to altitudes of 95 km.<br><br>The lidar data are normally collected with a vertical resolution of 94 metres, although a resolution as high as 18 metres is available. The data are typically obtained with an integration time of 60 seconds.<br><br>The light beam transmitted by the lidar comes from a pulsed solid state (Nd:YAG) laser at a wavelength of 532nm (in the green part of the optical spectrum). The average power of the laser is 30 Watts; each laser pulse comprises about 3 billion times more photons than the output from a standard electric light globe. About 25% of the laser light transmitted into the sky is scattered or absorbed within the atmosphere - the rest continues out into space.<br><br>The laser light is transmitted into the sky by a Cassegrain telescope with a 1-metre diameter primary mirror. The telescope also collects the backscattered light, and can be pointed within 45 degress of overhead. A mirror spinning at 400 revolutions per second allows the lidar to switch between transmitting and receiving modes.<br><br>The most novel aspect of the Davis lidar is its ability to measure atmospheric temperatures and winds using a technique known as 'incoherent Doppler lidar'. This involves making very high resolution measurements of the spectrum of the laser light backscattered from the sky using a scanning Fabry-Perot spectrometer, and being able to move the telescope around the sky.<br><br>http:\/\/www.antarctica.gov.au\/about-antarctica\/fact-files\/studying-the-atmosphere\/probing-the-atmosphere-with-lidar<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.9720690747,
+                    -68.5766591948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SIRTA: Clouds and Aerosols Lidar",
+                "desc": "Lidar used by the Site instrumental de Recherche par T\u00e9l\u00e9d\u00e9tection Atmosph\u00e9rique (SIRTA) to monitor continuously the atmospheric column up to 15km to study atmospheric processes.Lidar means LIght Detection And Ranging and consists in measuring light backscattered by interactions with atmospheric molecules and aerosols and collected by telescope."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.20723692086,
+                    48.712559533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "USU ALO Rayleigh LIDAR",
+                "desc": "<p>Rayleigh, North Carolina, USA<br>CEDAR: <a href=\"http:\/\/cedarweb.hao.ucar.edu\/wiki\/index.php\/Instruments:usl\" target=\"_blank\">USL<\/a><\/p><p><a href=\"http:\/\/www.usu.edu\/alo\/aboutlidar.htm\" target=\"_blank\"><img style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/usu-rayleigh-lidar-lasermoon.jpg\" \/><\/a><\/p><p><a href=\"http:\/\/cedarweb.hao.ucar.edu\/wiki\/index.php\/Special:Cedar_Instruments?action=detail&kinst=6330\" target=\"_blank\">Instrument Details<\/a><br><a href=\"http:\/\/www.usu.edu\/map\/index.cfm?id=30\" target=\"_blank\">Science Engineering Research Building<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.808310508,
+                    41.7424856605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "South Pole Lidar",
+                "desc": "<p>South Pole, Antarctica<br>Aerosol Lidar - Code 6000<br>Rayleigh Lidar - Code 6001<br><a href=\"http:\/\/cedarweb.hao.ucar.edu\/wiki\/index.php\/Documents:Ground_Based_Instruments#H_-_Middle_Atmosphere_Lidar_Instruments_.28.7E50.29\" target=\"_blank\">CEDAR: Ground Based Instruments<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.7920693784,
+                    -89.9998667081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Syowa, Antarctica",
+                "desc": "<p>Syowa, Antarctica<br>Sodium Lidar - Code 6020<br>Rayleigh Lidar - Code 6021<br><a href=\"http:\/\/cedarweb.hao.ucar.edu\/wiki\/index.php\/Documents:Ground_Based_Instruments#H_-_Middle_Atmosphere_Lidar_Instruments_.28.7E50.29\" target=\"_blank\">CEDAR: Ground Based Instruments<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.5762776011,
+                    -69.0066775817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Colorado State Sodium LIDAR",
+                "desc": "<p>Colorado, USA<br>CEDAR: <a href=\"http:\/\/cedarweb.hao.ucar.edu\/wiki\/index.php\/Instruments:csl\" target=\"_blank\">CSL<\/a><\/p><p><a href=\"http:\/\/cedarweb.hao.ucar.edu\/wiki\/index.php\/Special:Cedar_Instruments?action=detail&kinst=6320\" target=\"_blank\">Instrument Details<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.139829344,
+                    40.5900807343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Physical Research Laboratory - PRL",
+                "desc": "<p>Physical Research Laboratory is a national Indian center for research in space and allied sciences, supported mainly by Department of Space. This research laboratory currently has ongoing research programmes over astronomy and astrophysics, planetary atmosphere and aeronomy, earth sciences, solar system studies and theoretical physics.[1] It currently manages the Udaipur Solar Observatory and is located in Ahmedabad<br><br>PRL is located in the western part of Ahmedabad known as \"Navrangpura\". <br>Many other premier Academic Institutions such as Indian Institute of Management (IIM), Ahmedabad Management Association (AMA), Space Applications Centre (SAC), Sardar Patel Institute of Administration (SPIPA), Ahmedabad Textile Industrial Research Association (ATIRA) and Gujarat University are also located in this region. <br><br>PRL has several world-class Laboratory facilities. These include :<br><br>TIMS - Thermal Ionization Mass Spectrometer<br>Stable Isotope Mass Spectrometer<br>Rare Gas Mass-spectrometer<br>Radio Carbon Dating <br>Single grain laser stimulated luminescence system <br>Ion Microprobe <br>Submillimeter Astronomy <br>Space Photochemistry <br>Mobile Micropulse Lidar<br><br><br>Fields of Research:<br><br># Astronomy &amp; Astrophysics<br># Solar Physics<br># Space &amp; Atmospheric Sciences<br># Earth Sciences<br># Planetary Sciences &amp; Exploration<br># Gravitation &amp; Cosmology<br># Particle Physics<br># Nuclear, Atomic &amp; Molecular Physics<br># Nonlinear Dynamics<br># Quantum Optics &amp; Quantum Information<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    72.5426262753,
+                    23.0359297719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "ATLAS-I - TRESTLE - EMP Test Facility",
+                "desc": "<p>The facility is the largest wood-and-glue laminated structure in the world. Aircraft tested here are subjected to up to 10 million volts of electricity to simulate the effects of a nuclear explosion and assess the \"hardness\" of electrical and electronic equipment to the EMPpulse generated by a nuclear burst. <br><br><img style=\"max-width:100%\" src=\"http:\/\/wikimapia.org\/p\/00\/00\/02\/39\/13_big.jpg\" \/><br><br>http:\/\/en.wikipedia.org\/wiki\/TRESTLE<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.557678041,
+                    35.0298858461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SPUR, Sandia Pulse reactor",
+                "desc": "<p>Odd facility 1 is a 2-reactor facility; I spent a week there while I worked for the lab. The inner facility is the SPUR, Sandia Pulse reactor. Plates of enriched uranium, basically, with a negative temperature coefficient. It&acute;s used to irradiate military stuff (or used to be, I have no idea when it was last used) as a simulation of an atomic explosion. According to the people who had been there a while, when SPUR fired you could be in the parking lot on the left with your eyes closed, and the blue flashes you&acute;d see were fast neutrons zipping through your eyeballs. Nice, eh? Anyway, SPUR uses &acute;weapons grade&acute; material, thus the safeguards. None of this was classified when I was there, by the way. The other area inside the main fence is ACRR, (Annular core research reactor), a 2MW toy reactor used for various tests. We used it to play with diffractive optics; fun project. There&acute;s also GIF, the gamma irradiation facility, inside the same building. Amusingly, the office building on the left was a minor scandal at the time; major cost overruns.<br>http:\/\/wikimapia.org\/11146877\/Annular-core-research-reactor<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.535684977,
+                    34.9990514255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Annular core research reactor",
+                "desc": "<p>Odd facility 1 is a 2-reactor facility; I spent a week there while I worked for the lab. The inner facility is the SPUR, Sandia Pulse reactor. Plates of enriched uranium, basically, with a negative temperature coefficient. It&acute;s used to irradiate military stuff (or used to be, I have no idea when it was last used) as a simulation of an atomic explosion. According to the people who had been there a while, when SPUR fired you could be in the parking lot on the left with your eyes closed, and the blue flashes you&acute;d see were fast neutrons zipping through your eyeballs. Nice, eh? Anyway, SPUR uses &acute;weapons grade&acute; material, thus the safeguards. None of this was classified when I was there, by the way. The other area inside the main fence is ACRR, (Annular core research reactor), a 2MW toy reactor used for various tests. We used it to play with diffractive optics; fun project. There&acute;s also GIF, the gamma irradiation facility, inside the same building. Amusingly, the office building on the left was a minor scandal at the time; major cost overruns.<br>http:\/\/wikimapia.org\/11146877\/Annular-core-research-reactor<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.534960776,
+                    34.9974594789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Large Blast Thermal Simulator (LBTS)",
+                "desc": "<p>Built in 1994 to simulate both the airblast and thermal environments of a nuclear detonation.<a href=\"http:\/\/www.harker.org\/uploaded\/faculty\/ericn\/LBTS\/lbts.html\">LBTS at Harker.org<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.678777691,
+                    33.7917208909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "VIRGO",
+                "desc": "<img style=\"max-width:100%\" src=\"http:\/\/climateviewer.org\/img\/gallery\/VIR-PIC-PIS-1100-09PrimaPagina.jpg\" \/><p>The Virgo detector for gravitational waves consists mainly in a Michelson laser interferometer made of two orthogonal arms being each 3 kilometers long. Multiple reflections between mirrors located at the extremities of each arm extend the effective optical length of each arm up to 120 kilometers. Virgo is located within the site of EGO, European Gravitational Observatory, based at Cascina, near Pisa on the river Arno plain.<br><br>The frequency range of Virgo extends from 10 to 6,000 Hz. This range as well as the very high sensitivity should allow detection of gravitational radiation produced by supernovae and coalescence of binary systems in the milky way and in outer galaxies, for instance from the Virgo cluster.<br><br>In order to reach the extreme sensitivity required, the whole interferometer attains optical perfection and is extremely well isolated from the rest of the world in order to be only sensitive to the gravitational waves. To achieve it, Italian and French scientists involved in the project, have developed most advanced techniques in the field of high power ultrastable lasers, high reflectivity mirrors, seismic isolation and position and alignment control.<br><br>In the field of optics, Virgo uses a new generation of ultrastable lasers, and the most stable oscillator ever built. A specific optical coating facility has been built to produce extremely high quality mirrors combining the highest reflectivity (over 99,999 %), with nanometer surface control<br><br>To avoid spurious motions of the optical components due to seismic noise; each one of them is isolated by a 10m high, very elaborate system of compound pendulums. Because the presence of a residual gas would slightly perturb the measurements the light beam must propagate under ultra high vacuum. The two tubes, 3km long and 1.2m diameter each are actually the largest ultra high vacuum vessels in Europe and the second largest in the world. The environment of the Virgo interferometer is quieter than that of a spacecraft orbiting the earth.<br><br>Virgo, the construction of which was completed in June 2003 and is at present is in the commissioning phase, will run day and night listening to all gravitational signals which may arrive at any time and coming from any part of the Universe. The signals are detected, recorded and pre-analysed through an on-line computing system. These data will then be made available to the scientific community for further analysis <br><br><a href=\"http:\/\/static.panoramio.com\/photos\/original\/1957490.jpg\" title=\"Gravitational wave detector, North arm. - 1632 x 1224 pixels\" target=\"_blank\"><img style=\"max-width:100%\" src=\"http:\/\/mw2.google.com\/mw-panoramio\/photos\/medium\/1957490.jpg\" alt=\"Gravitational wave detector, North arm.\" \/><\/a><br><br>Homepage: https:\/\/wwwcascina.virgo.infn.it\/<br>Details: http:\/\/www.ego-gw.it\/virgodescription\/<br>http:\/\/en.wikipedia.org\/wiki\/Virgo_interferometer<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5040179846,
+                    43.631946312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CLIO (LCGT)",
+                "desc": "<p>CLIO is the Cryogenic Laser Interferometer Observatory, a prototype detector for gravitational waves. It is testing cryogenic mirror technologies for the future Large Cryogenic Gravity Telescope (LCGT).<br><br>It is an optical interferometer with two perpendicular arms 100 m long. Uniquely, the mirrors are cooled to 20 K. This reduces various thermal noise sources which trouble other gravity observatories, but cooling the mirrors (which is heated by the powerful laser used in the interferometer) while keeping them isolated from vibrations is difficult.[1]<br><br>CLIO is situated 1000 m underground in the Kamioka mine, Gifu Prefecture, Japan.[2]<br><br>CLIO is one of the science facilities for physics of the Institute for Cosmic Ray Research of the University of Tokyo.<br><br><a href=\"http:\/\/gw.icrr.u-tokyo.ac.jp\/lcgt\/LCGT_figures\/LCGTposter_en.jpg\" target=\"_blank\"><img style=\"max-width:100%\"  alt=\"LCGTposter_en.jpg\" src=\"http:\/\/gw.icrr.u-tokyo.ac.jp\/lcgt\/assets_c\/2008\/09\/LCGTposter_en-thumb-500x707.jpg\" \/><br><br>http:\/\/en.wikipedia.org\/wiki\/CLIO<br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.302664433,
+                    36.4195720884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GEO600",
+                "desc": "<p>GEO 600 is a gravitational wave detector located near Sarstedt, Germany. This instrument, and its sister interferometric detectors, when operational, are some of the most sensitive gravitational wave detectors ever designed. They are designed to detect relative changes in distance of the order of one part in 10\u221221, about the size of a single atom compared to the distance from the Sun to the Earth. GEO 600 is capable of detecting gravitational waves in the frequency range 50 Hz to 1.5 kHz.[1] Construction on the project began in 1995<br><br>In November 2005, it was announced that the LIGO and GEO instruments have begun an extended joint science run. The three instruments (LIGO's instruments are located near Livingston, Louisiana and on the Hanford Site, Washington in the U.S.) will collect data for more than a year, with breaks for tuning and updates. This will be the fifth science run of GEO 600. No signals were detected on previous runs, but the sensitivity of the instruments (and the quality of the data analysis) is continually improving, and once the data from the current run are analyzed, it is hoped that they will perhaps reveal the arrival at Earth of two unambiguous bursts of gravitational waves. This would constitute the first direct detection of gravitational radiation.<br><br> <h3>Claimed link between GEO 600 detector noise and holographic properties of spacetime<\/h3><br><br>On January 15, 2009, it was reported in New Scientist that some yet unidentified noise that was present in the GEO 600 detector measurements might be because the instrument is sensitive to extremely small quantum fluctuations of space-time affecting the positions of parts of the detector.[3] This claim was made by Craig Hogan, a scientist from Fermilab, on the basis of his own theory of how such fluctuations should occur motivated by the holographic principle.[4]<br><br>The New Scientist story states that Hogan sent his prediction of \"holographic noise\" to the GEO 600 collaboration in June 2008, and subsequently received a plot of the excess noise which \"looked exactly the same as my prediction\". However, Hogan knew before that time that the experiment was finding excess noise. Hogan's article published in Physical Review D in May 2008 states: \"The approximate agreement of predicted holographic noise with otherwise unexplained noise in GEO 600 motivates further study.\"[5] Hogan cites a 2007 talk from the GEO 600 collaboration which already mentions \"mid-band 'mystery' noise\", and where the noise spectra are plotted.[6] A similar remark was made (\"In the region between 100 Hz and 500 Hz a discrepancy between the uncorrelated sum of all noise projections and the actual observed sensitivity is found.\") in a GEO 600 paper submitted in October 2007 and published in May 2008.<br><br>It is also a very common occurrence for gravitational wave detectors to find excess noise that is subsequently eliminated. According to Karsten Danzmann, the GEO 600 principal investigator, \"The daily business of improving the sensitivity of these experiments always throws up some excess noise (...). We work to identify its cause, get rid of it and tackle the next source of excess noise.\"[3] Additionally, some new estimates of the level of holographic noise in interferometry show that it must be much smaller in magnitude than was claimed by Hogan.[8]<br><br>http:\/\/en.wikipedia.org\/wiki\/GEO_600<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.8072412614,
+                    52.2452449043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LIGO - Hanford Nuclear Site",
+                "desc": "<p>LIGO, which stands for the Laser Interferometer Gravitational-Wave Observatory, is a large-scale physics experiment aiming to directly detect gravitational waves. Cofounded in 1992 by Kip Thorne and Ronald Drever of Caltech and Rainer Weiss of MIT, LIGO is a joint project between scientists at MIT, Caltech, and many other colleges and universities. It is sponsored by the National Science Foundation (NSF). At the cost of $365 million (in 2002 USD), it is the largest and most ambitious project ever funded by the NSF.<br><br> The international LIGO Scientific Collaboration (LSC) is a growing group of researchers, over 800 individuals at roughly 50 institutions, working to analyze the data from LIGO and other detectors, and working toward more sensitive future detectors. The current spokesperson for the LIGO Scientific Collaboration, elected in March 2011, is Louisiana State University Professor of Physics and Astronomy, Gabriela Gonz\u00e1lez<br><br><a  href=\"http:\/\/static.panoramio.com\/photos\/original\/10225413.jpg\" title=\"LIGO Hanford Observatory, Corner Building - 3456 x 2304 pixels\">        <img style=\"max-width:100%\" src=\"http:\/\/mw2.google.com\/mw-panoramio\/photos\/medium\/10225413.jpg\" alt=\"LIGO Hanford Observatory, Corner Building\">      <\/a><br><br>http:\/\/en.wikipedia.org\/wiki\/LIGO<br>http:\/\/en.wikipedia.org\/wiki\/Hanford_Site<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.410107863,
+                    46.4550622267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LIGO Livingston",
+                "desc": "<p>LIGO, which stands for the Laser Interferometer Gravitational-Wave Observatory, is a large-scale physics experiment aiming to directly detect gravitational waves. Cofounded in 1992 by Kip Thorne and Ronald Drever of Caltech and Rainer Weiss of MIT, LIGO is a joint project between scientists at MIT, Caltech, and many other colleges and universities. It is sponsored by the National Science Foundation (NSF). At the cost of $365 million (in 2002 USD), it is the largest and most ambitious project ever funded by the NSF.[1][2] The international LIGO Scientific Collaboration (LSC) is a growing group of researchers, over 800 individuals at roughly 50 institutions, working to analyze the data from LIGO and other detectors, and working toward more sensitive future detectors. The current spokesperson for the LIGO Scientific Collaboration, elected in March 2011[3], is Louisiana State University Professor of Physics and Astronomy, Gabriela Gonz\u00e1lez.<br>http:\/\/en.wikipedia.org\/wiki\/LIGO<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.7745134195,
+                    30.5622667567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "TAMA 300",
+                "desc": "<p>TAMA 300 is a gravitational wave detector located at the Mitaka campus of the National Astronomical Observatory of Japan. It is a project of the gravitational wave studies group at the Institute for Cosmic Ray Research (ICRR) of the University of Tokyo. The ICRR was established in 1976 for cosmic ray studies, and is currently developing the Large Scale Cryogenic Gravitational Wave Telescope (LCGT).<br><img style=\"max-width:100%\" src=\"http:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/88\/TAMA300-vacuum-pump-and-beam-duct-tunnel.jpg\/800px-TAMA300-vacuum-pump-and-beam-duct-tunnel.jpg\" \/>The TAMA project started in 1995. It adopts a Fabry Perot Michelson Interferometer (FPMI) with power recycling. It is officially known as the 300m Laser Interferometer Gravitational Wave Antenna.The goal of the project is to develop advanced techniques needed for a future kilometer sized interferometer and to detect gravitational waves that may occur by chance within our local group of galaxies.<br>http:\/\/en.wikipedia.org\/wiki\/TAMA_300<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.535277455,
+                    35.6780443323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AIGO",
+                "desc": "<p>Austrailian Interferometric Gravitational Observatory (still being built)The ACIGA High Optical Power Test Facility(HOPTF) consists of an 80m interferometer       facility, as well as workshops, offices, kitchen, seminar room and visitors\u2019       accommodation. Two hundred metres away from this a major education centre,       the Gravity Discovery Centre, provides a caf\u00e9 and lecture theatre which       are used for international meetings. The entire facility is linked by a       wireless network. Just to the north is the site of the Geosciences Australia       Magnetic Observatory for monitoring the Earth\u2019s magnetic field. <br><br>            The main cornerstation laboratory is a huge clean room. Inside the clean       room is an additional ultra-clean room which is used for the very high power       lasers, and ultra-clean tents used to provide the very clean environment       required for assembling vibration isolators and optical equipment. The facility       is entered through air locks, which prevent contamination from the external       environment. The cornerstation laboratory is cooled with a novel, low energy       air conditioning system. It has special vibration isolation floors to support detector       components. At the end of the vacuum pipe arms are two end stations, which       are small scale versions of the corner station, also equipped with entry       air locks and ultra-clean assembly tents. The facility includes an electronics       workshop, a mechanical workshop and another large area which includes guest       work areas and live-in facilities. <br><br>      <img style=\"max-width:100%\" src=\"http:\/\/www.aigo.org.au\/aigo_web_images\/stage1_isol1.jpg\" \/>      <br><br>      Outside the facility, a pump room houses the large vacuum pumps required       for evacuating the detector system. The entire facility is protected by       a video surveillance system and is surrounded by a high capacity sprinkler       system for protection against fires. The photo above shows researchers assembling       a vibration isolator in the HOPTF ultra clean assembly tent. The picture       below is of the HOPTF corner-station clean room and the panel on the right       shows images taken during the various stages of construction. <br><br>      <img style=\"max-width:100%\" src=\"http:\/\/www.aigo.org.au\/aigo_web_images\/stage1_isol10.jpg\" \/><br><br>      The image below shows one of the three vibration isolation stages. <br><br> <img style=\"max-width:100%\" src=\"http:\/\/www.aigo.org.au\/aigo_web_images\/stage1_isol12.jpg\" \/><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.714354624,
+                    -31.3578260846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Fermilab Holometer",
+                "desc": "<p>Future Site<br><p>The Holographic Interferometer, or Holometer, is a machine designed totest a particular idea about how space, time, matter, and energybehave on the very smallest scales.<\/p><p>If there is a minimum interval of time, or a maximum frequency innature, there is a corresponding limit on the fidelity of space andtime. Everyone is familiar these days with the blurry and pixelatedimages, or noisy sound transmission, associated with poor internetbandwidth.  The Holometer seeks to detect the equivalent blurriness ornoise in reality itself, associated with the ultimate frequency limitimposed by nature.<\/p><p>About a hundred years ago, the German physicist Max Planck introducedthe idea of a fundamental, natural length or time, derived fromfundamental constants. We now call these the Planck length,<code>l<sub>p<\/sub> = \u221a<span style=\"border-top: 1px solid;\">hG\/2\u03c0 c<sup>3<\/sup><\/span> = 1.6 \u00d7 10<sup>-35<\/sup><\/code> meters.  Light travels one Planck length in the Planck time,<code>t<sub>p<\/sub><\/code> = \u221a<span style=\"border-top: 1px solid;\">hG\/2\u03c0 c<sup>5<\/sup><\/span> = 5.4 \u00d7 10<sup>-44<\/sup> seconds.The physics of space and time is expected to change radically on suchsmall scales. For example, a particle confined to a Planck volumeautomatically collapses to a black hole.<\/p><p>More recently, theoretical studies of black holes, and later in stringtheory and other forms of unification, have suggested that physics onthe Planck scale is holographic. It is conjectured that space is twodimensional, and the third dimension is inextricably linked with time.If so, our three-dimensional world is a kind of approximate illusionthat emerges only on scales much larger than the Planck length.<\/p><p>It could be that the illusion is imperfect and blurry. The maximumfrequency may introduce a particular kind of noise or jitter intospacetime, as measured by the propagation of light in differentdirections.<\/p><p>The holometer attempts a direct experimental test of one form of thishypothesis. In a Michelson interferometer, a light beam is split intotwo parts that travel in different directions, then are brought backtogether. The vibrations of light in the two directions tend to driftapart by about Planck length per Planck time when they are travelingin different directions. When they are recombined, the difference inlight phase can be measured.  In the holometer, signals from twodifferent interferometers -- that is, two completely separate systems,each with its own pair of beam arms -- are compared. If they are closeenough to probe the same volume of spacetime -- that is, if light inboth systems is travelling in about the same direction, at about thesame time -- their signals should display the same, correlated jitter,sometimes called \"holographic noise\".<\/p><p>Measurement of holographic noise would be the first directexperimental access to the Planck scale, and provide fundamentalinsights into the fundamental nature of space and time. It woulddirectly measure the Planck time, and the absolute natural bound oninformation transmission, about 10^43 bits per second.<\/p><p><img style=\"max-width:100%\" src=\"http:\/\/holometer.fnal.gov\/images\/experiments3-large.png\"><\/p><p>This  plot shows the sensitivity of various experiments to fluctuations inspace and time. Horizontal axis is the log of apparatus size (or durationtime the speed of light), in meters; vertical axis is the log of the rmsfluctuation amplitude in the same units.The lower left corner represents the Planck length or time. In these units,the size of the observable  universe is about 26. Various physical systemsand experiments are plotted. The \"holographic noise\" line represents the rmstransverse holographic fluctuation amplitude on a given scale. The mostsensitive experiments are Michelson interferometers.<\/p><p><img style=\"max-width:100%\" src=\"http:\/\/holometer.fnal.gov\/images\/interferometers-large.png\"><\/p><p>This plot shows a detail of the previous plot, in the same units. Thesensitivities shown for the operating gravitational waveinterferometers, GEO600 and LIGO, represent the published noise indifferential arm length measurement, achieved in one wave cycle at themost sensitive frequency, as a function of apparatus size. (In thecase of LIGO, this estimate applies to holographic shear fluctuations,not to gravitational waves; its sensitivity to gravitational waves ismuch better.) In the case of LISA, the projected noise is shown. Inthe case of the Holometer, by cross correlating two co-locatedinterferometers, the greater sensitivity is achieved in spite ofshorter arms, by integrating for many cycles; sensitivity is shown foran hour-long integration. At the Megahertz frequency of the Holometer,acoustic crosstalk is expected to be negligible. This apparatus willbe the most sensitive in the world to holographic fluctuations ofspacetime, and the first experiment to achieve Planckian sensitivity.<\/p><p>The project is currently in the design stage.        <\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.2522012561,
+                    41.8317910275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Spallation Neutron Source",
+                "desc": "<p>When a high-energy proton is accelerated into a heavy target, a number of spallation particles, including neutrons are produced. For every proton striking the nucleus, 20 to 30 neutrons are expelled. Meson production limits spallation efficiency above 140 MeV. At the 1 GeV proton energy level, the Spallation Neutron Source will require 30 MeV per neutron produced. Neutron scattering is used by a variety of scientific disciplines to study the arrangement, motion, and interaction of atoms in materials. It's important because it provides valuable information that often cannot be obtained using other techniques, such as optical spectroscopies, electron microscopy, and x-ray diffraction. Scientists need all these techniques to provide the maximum amount of information on materials.<\/p><p>The SNS process is, briefly:<\/p><ul><li>Negative hydrogen ions (a proton with two electrons) are first generated in pulses;<\/li><li>accelerated to 1 GeV (almost 90 percent of the speed of light) by a linear accelerator using both standard and superconducting techniques;<\/li><li>stripped of electrons and concentrated into a 2 MW proton beam of less than 1 \u03bcs pulses at 60&nbsp;Hz in an accumulator ring;<\/li><li>directed at a liquid mercury target (chosen for mercury's large nucleus containing many neutrons and its liquid form at ambient conditions capable of absorbing rapid temperature rise and intense bombardment shock) in the target building, which ejects 20 to 30 neutrons per mercury nucleus hit by a proton (spalling in all directions);<\/li><li>which are slowed down by moderators to useful energies;<\/li><li>and applied through 18 surrounding beam lines to various materials and interfaces;<\/li><li>where up to 24 instruments chosen by users record the results for interpretation. Examples of the neutron scattering instruments to be used are a backscattering spectrometer for high resolution spectroscopy, and magnetism and liquid reflectometers for studies of surfaces and interfaces.<\/li><\/ul><br><br>http:\/\/neutrons.ornl.gov\/facilities\/SNS\/<br>http:\/\/en.wikipedia.org\/wiki\/Spallation_Neutron_Source<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.3002891897,
+                    35.953038056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Large Hadron Collider",
+                "desc": "<p>The Large Hadron Collider (LHC) is the world&acute;s largest and highest-energy particle accelerator. It is expected to address some of the most fundamental questions of physics, advancing the understanding of the deepest laws of nature.The LHC lies in a tunnel 27 kilometres (17 mi) in circumference, as deep as 175 metres (574 ft) beneath the Franco-Swiss border near Geneva, Switzerland. This synchrotron is designed to collide opposing particle beams of either protons at an energy of 7 teraelectronvolts (7 TeV or 1.12 microjoules) per nucleon, or lead nuclei at an energy of 574 TeV (92.0 \u00b5J) per nucleus (2.76 TeV per nucleon).[1][2] The term hadron refers to particles composed of quarks.The Large Hadron Collider was built by the European Organization for Nuclear Research (CERN) with the intention of testing various predictions of high-energy physics, including testing for the existence of the hypothesized Higgs boson[3] and of the large family of new particles predicted by supersymmetry.[4] It was built in collaboration with over 10,000 scientists and engineers from over 100 countries, as well as hundreds of universities and laboratories.<br><br>On 10 September 2008, the proton beams were successfully circulated in the main ring of the LHC for the first time,[6] but 9 days later operations were halted due to a serious fault.[7] On 20 November 2009 they were successfully circulated again,[8] with the first recorded proton\u2013proton collisions occurring 3 days later at the injection energy of 450 GeV per beam.[9] After the 2009 winter shutdown, the LHC was restarted and the beam was ramped up to 3.5 TeV per beam[10] (half its designed energy).[11] On 30 March 2010, the first planned collisions took place between two 3.5 TeV beams, a new world record for the highest-energy man-made particle collisions.[12] The LHC will continue to operate at half energy until the end of 2012; it will not run at full energy (7 TeV per beam) until 2014.<br><br>http:\/\/petermccready.com\/ MUST SEE! <br>http:\/\/lhc.web.cern.ch\/lhc\/<br>http:\/\/en.wikipedia.org\/wiki\/Large_Hadron_Collider<br><br><a  href=\"http:\/\/static.panoramio.com\/photos\/original\/27403687.jpg\" title=\"CERN Globe and LHC Superconducting Magnet - 3072 x 2304 pixels\">        <img style=\"max-width:100%\" src=\"http:\/\/mw2.google.com\/mw-panoramio\/photos\/medium\/27403687.jpg\" alt=\"CERN Globe and LHC Superconducting Magnet\" \/>      <\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.05607713117,
+                    46.2348055871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Relativistic Heavy Ion Collider",
+                "desc": "<p>The Relativistic Heavy Ion Collider (RHIC, \/\u02c8r\u026ak\/) is one of two existing heavy-ion colliders,[clarification needed] and the only spin-polarized proton collider in the world. It is located at Brookhaven National Laboratory (BNL) in Upton, New York and operated by an international team of researchers. By using RHIC to collide ions traveling at relativistic speeds, physicists study the primordial form of matter that existed in the universe shortly after the Big Bang.  By colliding spin-polarized protons, the spin structure of the proton is explored.<br><br>RHIC is now the second-highest-energy heavy-ion collider in the world. As of 7 November 2010, the LHC has collided heavy ions of lead at higher energies than RHIC.<br><br>In 2010, RHIC physicists published results of temperature measurements from earlier experiments which concluded that temperatures in excess of 4 trillion kelvins (7 trillion degrees Fahrenheit) had been achieved in gold ion collisions, and that these collision temperatures resulted in the breakdown of \"normal matter\" and the creation of a liquid-like quark-gluon plasma.<br><br>http:\/\/www.bnl.gov\/rhic\/<br>http:\/\/en.wikipedia.org\/wiki\/Relativistic_Heavy_Ion_Collider<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.8758630897,
+                    40.8842557297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gray Butte Radar Cross-Section Facility",
+                "desc": "Gray Butte was the first of the three secret radar cross-section test facilities built in the Antelope Valley (Lockheed Martin operates a facility near Helendale, and Northrop Grumman has one at the Tejon Ranch property). It was originally built in the 1970's by McDonnell Douglas, and was taken over by Boeing (which bought McDonnell Douglas), and then closed by 1999, and put up for sale. These RCS ranges are used to test aeroforms (shapes to be incorporated into aerodynamic vehicles) for their radar reflectivity. At one end of the range is an array of radio and radar dishes used to measure the profile of the shape, which is mounted several hundred yards or so down the range on a triangular pedestal. The large box structure, visible from miles away, is a movable gantry, used to install the aeroforms on top of the test pylons, which are visible as white triangular forms on the runway area. In 2000, the property was acquired by the Aeronautical Systems division of San Diego-based General Atomics, which developed the Predator and Gnat UAVs. The company owns the El Mirage airport a few miles north, to test UAVs. Gray Butte now supports UAV R&D."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.673997417,
+                    34.5624740241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Helendale RCS Facility",
+                "desc": "Helendale Avionics Facility<br>Lockheed Martin Corporation<br>17452 Wheeler Road<br>Helendale, CA 92342<br><br>The Helendale Radar Cross Section Facility is an aircraft research facility developed and operated by the Lockheed Martin Corporation. It is a secretive test range developed at an old WWII training field, used to measure the radar reflectivity of stealth aircraft designs. There are assembly facilities located underneath the old runway, and prototypical forms tested outside on the range are mounted on hydraulic pylons that rise out of the ground through doors in the runway surface. The facility is one of at least three Radar Cross-Section facilities owned by the major aerospace companies and located in the Antelope Valley area. It is at facilities such as this where stealth technologies, like the F-117 and B-2, and Joint Strike Fighter are developed.<br><br>This airfield was established in 1942 as a satellite field for Victorville AAF (later renamed George AFB).Helendale continued to operate as a satellite field for Victorville AAF until the end of WW2. Helendale was reused after WW2 as a private civilian airfield.<br><br>Starting in 1983, the runways were reused as a radar cross section testing range by Lockheed. It is the most mechanically sophisticated of the Mojave Desert RCS ranges, and was expanded in 1985.<br><br>One of the 3 paved runways (4\/22, 4,600') of the old airstrip is still maintained & operational, and has lighting for night operations.<br><br>Source: <a href=\"http:\/\/www.wikimapia.org\/18964\/Helendale-RCS-Facility\">Wikimapia<\/a>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.299995673,
+                    34.8221118061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "National Ignition Facility",
+                "desc": "<p>The National Ignition Facility, or NIF is a large, laser-based inertial confinement fusion (ICF) research device located at the Lawrence Livermore National Laboratory in Livermore, California. NIF uses powerful lasers to heat and compress a small amount of hydrogen fuel to the point where nuclear fusion reactions take place. NIF is the largest and most energetic ICF device built to date, and the first that is expected to reach the long-sought goal of \"ignition,\" producing more energy than was put in to start the reaction. Its mission is to achieve fusion with high energy gain, and to support nuclear weapon maintenance and design by studying the behavior of matter under the conditions found within nuclear weapons.<br><br>Construction began in 1997 but was fraught with problems and ran into a series of delays that greatly slowed progress into the early 2000s. Progress through the 2000s was much smoother, but compared to initial estimates, NIF was completed five years behind schedule and was almost four times more expensive than budgeted. Construction was certified complete on 31 March 2009 by the U.S. Department of Energy,[2] and a dedication ceremony took place on 29 May 2009.[3] The first large-scale laser target experiments were performed in June 2009[4] and the first integrated ignition experiments were declared completed in October 2010.<br><br>https:\/\/lasers.llnl.gov\/<br>http:\/\/en.wikipedia.org\/wiki\/National_Ignition_Facility<br><br><img style=\"max-width:100%\" src=\"http:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/3d\/NIF_building_layout.png\/800px-NIF_building_layout.png\" \/><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.700240794,
+                    37.6910168935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Advanced Light Source (ALS)",
+                "desc": "<p>The Advanced Light Source (ALS) at Lawrence Berkeley National Laboratory in Berkeley, California is a synchrotron light source. Built from 1987 to 1993, it currently employs 210 scientists and staff. Part of the building in which it is housed was completed in 1942 for a 4.67 m (184 in) cyclotron, designed by Arthur Brown, Jr. (designer of the Coit Tower in San Francisco) and built by Ernest O. Lawrence. Today, the expanded building houses the ALS, a U.S. Department of Energy national user facility that attracts scientists from around the world.<br><br>The ALS is a national user facility that generates intense light for scientific and technological research. As one of the world's brightest sources of ultraviolet and soft x-ray beams--and the world's first third-generation synchrotron light source in its energy range--the ALS makes what were thought to be impossible studies possible.[which?] The facility welcomes over 2000 researchers every year from universities, industries, and government laboratories around the world. It is funded by the U.S. Department of Energy's Office of Basic Energy Sciences.<br><br>The ALS has over forty beamlines which simultaneously perform a wide range of science. Any qualified scientist can propose to use the ALS beamlines. Proposals are peer-reviewed and top-ranked proposals are allocated beam time. The ALS does not charge for beam time if the user's research is nonproprietary (results are published in open literature).<br><br>http:\/\/www-als.lbl.gov\/<br>http:\/\/en.wikipedia.org\/wiki\/Advanced_Light_Source<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.248515217,
+                    37.8758686373
+                ]
+            }
+        }
+    ]
+}

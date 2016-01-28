@@ -1,0 +1,684 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-1001</styleUrl>
+			<name>Go to other Historic Maps</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://youtube.com/watch?v=en7Mm4xnRH0</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Try one of the many other Interactive Maps of Explorers and Historic Events at MyReadingMapped. (http://myreadingmapped.blogspot.com/) ]]></description>
+			<Point>
+				<coordinates>-46.845703,-28.806174000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1371</styleUrl>
+			<name>Digitally walk this map in Google Earth 3D</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[You can digitally walk this map in Google Earth 3D using this Non-networked Google Earth KML File. (https://docs.google.com/file/d/0B52hHMRyBvEsMXhPYUptUU9LTkU/edit)]]></description>
+			<Point>
+				<coordinates>-46.845703,-30.524413,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Sources this map is based on.</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Sources in support of Nothern Route A:
+- Book: Land Without Evil: Utopian Journeys Across the South American Watershed by Richard Gott 
+- Book: The Explorers of South America by Edward Julius 
+
+Sources in support of Southern Route B:
+- Aliexo Garcia, Who? by Kevin Healyey
+- Country slides: Paraguay - Discovery and Settlement: Early Explorers and Conquistadores, (http://countrystudies.us/paraguay/3.htm)
+
+Sources in support of routes A & B:
+- Book: The Indian in Latin American History: Resistance, Resilience, and Acculturation,edited by John E. Kicza
+
+Sources in support of the Peabiru Trail:
+- Map: The mystery of the Peabiru Road, the old trail leading from Brazil to Potosí (http://www.yurileveratto.com/en/articolo.php?Id=216)
+- Unity and separation along South America´s Peabiru by Bébhinn Ramsay (http://www.inter-disciplinary.net/probing-the-boundaries/wp-content/uploads/2014/05/ramsayjorpaper.pdf)
+- hernehunter.blogspot.com (http://hernehunter.blogspot.com/2012_02_01_archive.html)
+Chakaruna: Fevereiro2012]]></description>
+			<Point>
+				<coordinates>-46.801758,-27.176469,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1125</styleUrl>
+			<name>Two routes therorized by historians</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[One group of historians believe Garcia travelled a western northern route from Santos, while another group of historians believe Garcia travelled a northern-western route from Itajai. Both theories involve travel on the Peabiru Trail.]]></description>
+			<Point>
+				<coordinates>-48.076172,-25.244696,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-960-DB4436</styleUrl>
+			<name>The beginning of the southern extension of the Peabiru Trail</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-48.617249,-26.897578,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-FFFF00-5</styleUrl>
+			<name>Northern section of the Peabiru Trail</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Map: The mystery of the Peabiru Road, the old trail leading from Brazil to Potosí (http://www.yurileveratto.com/en/articolo.php?Id=216)
+
+
+The trail is about 1.4 meters wide and has two legs: the first one starts in San Vicente (São Paulo State) and the second one starts in the coast of Santa Catarina, in the bay knew as Cananea during the age of geographical discoveries. 
+The two sections are joining in the current state of Paraná, to continue then to the border with Bolivia, in the city of Corumbá. After crossing the grasslands of the Chaco, the road heads to Potosi.
+
+
+
+Wikipedia: (http://en.wikipedia.org/wiki/Aleixo_Garcia) After eight years, Garcia had gathered enough men and supplies to attempt a voyage to the land of the "White King." Marching towards the west, using the trail network Peabiru, his company discovered a great waterfall. Credit for the discovery of the Iguazu Falls (http://en.wikipedia.org/wiki/Iguazu_Falls) is usually given to the governor (http://en.wikipedia.org/wiki/Governorate_of_the_Rio_de_la_Plata) Alvar Núñez Cabeza de Vaca (http://en.wikipedia.org/wiki/Alvar_N%C3%BA%C3%B1ez_Cabeza_de_Vaca), and historian Efraím Cardozo (http://en.wikipedia.org/wiki/Efra%C3%ADm_Cardozo) asserts Garcia crossed the Paraná (http://en.wikipedia.org/wiki/Paran%C3%A1_River) at the smaller waterfall called Saltos del Monday (http://en.wikipedia.org/wiki/Saltos_del_Monday).]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-46.50684,-23.85569,0.0 -46.9281,-23.14793,0.0 -46.99745,-22.76098,0.0 -48.42773,-22.60386,0.0 -48.78479,-22.23826,0.0 -49.99877,-22.21792,0.0 -51.39404,-22.17723,0.0 -52.32788,-23.87076,0.0 -53.47045,-24.94123,0.0 -54.3988,-25.30927,0.0 -54.650803,-25.525403000000004,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#line-FFFF00-5</styleUrl>
+			<name>Southern section of the Peabiru Trail</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Map: The mystery of the Peabiru Road, the old trail leading from Brazil to Potosí (http://www.yurileveratto.com/en/articolo.php?Id=216)
+
+
+The trail is about 1.4 meters wide and has two legs: the first one starts in San Vicente (São Paulo State) and the second one starts in the coast of Santa Catarina, in the bay knew as Cananea during the age of geographical discoveries. 
+The two sections are joining in the current state of Paraná, to continue then to the border with Bolivia, in the city of Corumbá. After crossing the grasslands of the Chaco, the road heads to Potosi.
+
+
+
+Wikipedia: (http://en.wikipedia.org/wiki/Aleixo_Garcia) After eight years, Garcia had gathered enough men and supplies to attempt a voyage to the land of the "White King." Marching towards the west, using the trail network Peabiru, his company discovered a great waterfall. Credit for the discovery of the Iguazu Falls (http://en.wikipedia.org/wiki/Iguazu_Falls) is usually given to the governor (http://en.wikipedia.org/wiki/Governorate_of_the_Rio_de_la_Plata) Alvar Núñez Cabeza de Vaca (http://en.wikipedia.org/wiki/Alvar_N%C3%BA%C3%B1ez_Cabeza_de_Vaca), and historian Efraím Cardozo (http://en.wikipedia.org/wiki/Efra%C3%ADm_Cardozo) asserts Garcia crossed the Paraná (http://en.wikipedia.org/wiki/Paran%C3%A1_River) at the smaller waterfall called Saltos del Monday (http://en.wikipedia.org/wiki/Saltos_del_Monday).]]></description>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-48.65295,-26.89023,0.0 -48.74908,-26.8547,0.0 -48.89465,-26.91839,0.0 -49.19128,-26.88655,0.0 -49.32861,-26.657270000000004,0.0 -49.58953,-26.53878,0.0 -49.61357,-26.2189,0.0 -49.85046,-26.05431,0.0 -50.49865,-26.01729,0.0 -50.9436,-26.22198,0.0 -51.41326,-26.08885,0.0 -52.02575,-25.96545,0.0 -52.30762,-25.67123,0.0 -53.29639,-25.50278,0.0 -54.17907,-25.54244,0.0 -54.43725,-25.66876,0.0 -54.66968000000001,-25.5127,0.0 -55.22552,-25.26581,0.0 -56.151123,-24.886436000000003,0.0 -56.601562,-24.647017,0.0 -56.832275,-24.357105,0.0 -57.38159000000001,-23.67471,0.0 -57.79357,-22.92804,0.0 -57.98755,-22.10599,0.0 -57.84851,-21.16648,0.0 -58.10668,-20.23642,0.0 -57.74963000000001,-19.01538,0.0 -58.15063000000001,-19.01538,0.0 -58.77685000000001,-18.71389,0.0 -60.83129000000001,-17.82191,0.0 -62.22655999999999,-17.58904,0.0 -63.11645,-17.71729,0.0 -64.45953,-19.16592,0.0 -64.973145,-19.176301,0.0 -65.76416,-19.55979,0.0 -67.137451,-17.957832,0.0 -68.656311,-16.533531,0.0 -68.475037,-16.14873,0.0 -69.06005000000002,-15.58071,0.0 -71.9165,-13.58192,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Photos of the Peabiru Trail</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click the link below to see two photos of the Peabiru Trail.
+
+http://anthrocivitas.net/forum/showthread.php?p=170562]]></description>
+			<Point>
+				<coordinates>-51.020508,-25.443275,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#A1 - Shipwrecked off Santa Catarina Island, Brazil</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Book: Land Without Evil: Utopian Journeys Across the South American Watershed by Richard Gott 
+
+Page 6 - Shipwrecked off Santa Catarina in southern Brazil, he was tipped on shore in 1516 with a handful of Spaniards, perhaps from the ships of the expeditions of Juan Diaz de Solis.]]></description>
+			<Point>
+				<coordinates>-48.479919,-27.396765,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#B1 - Shipwrecked off Santa Catarina Island, Brazil</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[countrystudies.us/paraguay/3.htm (http://countrystudies.us/paraguay/3.htm)
+
+The recorded history of Paraguay began indirectly in 1516 with the failed expedition of Juan Díaz de Solís to the Río de la Plata Estuary, which divides Argentina and Uruguay. After Solís's death at the hands of Indians, the expedition renamed the estuary Río de Solís and sailed back to Spain. On the home voyage, one of the vessels was wrecked off Santa Catarina Island near the Brazilian coast. Among the survivors was Aleixo García, a Portuguese adventurer who had acquired a working knowledge of Guaraní. García was intrigued by reports of "the White King" who, it was said, lived far to the west and governed cities of incomparable wealth and splendor. For nearly eight years, García patiently mustered men and supplies for a trip to the interior and finally left Santa Catarina with several European companions to raid the dominions of "El Rey Blanco."]]></description>
+			<Point>
+				<coordinates>-48.14209,-28.033198,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#A2 - Santos </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Book: Land Without Evil: Utopian Journeys Across the South American Watershed by Richard Gott
+
+Page 7 - Garcia travelled to the west with four Portuguese and several friendly Indians. Moving up the coast to Sâo Vicente (Santos), they would have climbed up onto the Sâo Paulo plateau and travelled down the eastern rivers that lead to the Paranâ.]]></description>
+			<Point>
+				<coordinates>-46.318359,-24.126702000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#A3 - São Paulo Plateau</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-49.251709,-21.672744,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#A4 - Parana River</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-51.665955,-20.953745,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#A5 - Campo Grande</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Book: Land Without Evil: Utopian Journeys Across the South American Watershed by Richard Gott
+
+
+Page 7 - Sailing up the great stream and into its western tributaries, they would have arrived at the plains of Campo Grande.]]></description>
+			<Point>
+				<coordinates>-54.611222,-20.461637,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>#B2-5 - Iguazu Falls </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[countrystudies.us/paraguay/3.htm (http://countrystudies.us/paraguay/3.htm)
+
+Marching westward, García's group discovered Iguazú Falls, crossed the Río Paraná, and arrived at the site of Asunción thirteen years before it was founded.]]></description>
+			<Point>
+				<coordinates>-54.444722,-25.686667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F8971B</styleUrl>
+			<name>#B6 - Puerto Esperanza </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[See #A/B11 - Pôrto Esperança ???
+
+Are these two river crossing locations being confused by historians? Could the actual route of travel be a combination of the two theories?]]></description>
+			<Point>
+				<coordinates>-54.613724,-26.021617000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Iguazu Falls </name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/19706897.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / luigi cappetti]]></description>
+			<Point>
+				<coordinates>-54.396057,-25.65143,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#A6 - Aquidauana River</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Book: Land Without Evil: Utopian Journeys Across the South American Watershed by Richard Gott
+
+Page 7 - From here, taking the gentle curves of the Aquidauana and then the Miranda river (called by the Indians the first Spanish settlers the Mbotetei), they moved down into the swamps of the Pantel to the Paraguay river.]]></description>
+			<Point>
+				<coordinates>-56.015167,-19.973349,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#A8 - Miranda River</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-56.609459,-19.69787,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#A9 - Pantanal Swamps</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-56.837769,-19.621892,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#A10 - Paraguay River</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-57.380219,-19.422563,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#A/B11 - Pôrto Esperança ???</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Book: Land Without Evil: Utopian Journeys Across the South American Watershed by Richard Gott
+
+
+Page 7 - They crossed the Paraguay at a place called San Fernando.5 The placename no longer exists, but the evidence suggests that it corresponds to the village of Albuquerque, across the river from Pôrto Esperança.]]></description>
+			<Point>
+				<coordinates>-57.58586900000001,-19.002400000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#A/B12 - Route of the Spanish conquistadores</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Book: Land Without Evil: Utopian Journeys Across the South American Watershed by Richard Gott
+
+Page 7 - This spot marks the age-old entry to the Chituitos route across the northern Chaco to the Andes. This was the route of the pre-Columbian Indians, of the Spanish conquistadores, of the Jesuit Fathers, of the Portuguese bandeirantes, and of the nineteenth-century travelers. Today it is the route of the trans-continental railway line.]]></description>
+			<Point>
+				<coordinates>-57.73130900000001,-18.995989,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#A/B 13 - Garcia gathers an army of Guaraní Indians</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Book: Land Without Evil: Utopian Journeys Across the South American Watershed by Richard Gott
+
+Page 7 - Somewhere near this traditional assembly point, Garcia gathered together a large army of two thousand Guaraní Indians, the one settled group of Indians in the upper stretches of the Paranâ and the Paraguay with whom the Europeans established an initial rapport.]]></description>
+			<Point>
+				<coordinates>-58.127289000000005,-18.997206,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-962-F4EB37</styleUrl>
+			<name>#B6-13 - Asunción </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Aliexo Garcia, Who? by Kevin Healyey (https://maps.google.com/www.saexplorers.org/system/files/.../sae-mag-7d-aleixo-garcia.pdf)
+
+Garcia and his party reached the broad Parana, crossed it in canoes and, then, undoubtedly due to their Guarani companions, travelled from one village to another without mishap until arriving at the Rio Paraguay somewhere near the present day site of Asuncion. Here, the Iberians found a large concentration of Indians—a ready-made army for Garcia. Like their Paraguayan descendants of today, these Guarani were in general a friendly and easy-going race, but capable of great bravery and equal ferocity in war.]]></description>
+			<Point>
+				<coordinates>-56.853561,-24.332708,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-33</styleUrl>
+			<name>Conflicting theories about where Garcia forms an army of Guaraní Indians</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[One theory places Garcia's forming an army of Guaraní Indians here near Asunción, another theory places the event at #A/B13 near Corumba.
+
+
+To me, the Southern route seems more likely since it passes through the center of Guarani culture.]]></description>
+			<Point>
+				<coordinates>-55.89843700000001,-24.106647,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1195</styleUrl>
+			<name>Jasuká Renda (Cerro Guazu): spiritual heart of the Guarani culture</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/37109718.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Unity and separation along South America´s Peabiru by Bébhinn Ramsay (http://www.inter-disciplinary.net/probing-the-boundaries/wp-content/uploads/2014/05/ramsayjorpaper.pdf)
+
+I was drawn to the giant stone circle of Jasuká Renda, 11 hills in a circle which is the spiritual heart of the Guarani culture and I fell asleep cocooned in a cave etched with ancient rock art. Jasuká is known as the grandmother of the universe, from whose breasts the creator was nourished. At the heart of the Guarani world, is the divine feminine. I fell asleep, safe and warm, in her womb. 
+ 
+
+Google Map / Panoramio / arce-2010]]></description>
+			<Point>
+				<coordinates>-56.011703,-23.095889000000003,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1195</styleUrl>
+			<name>Jasuká</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[hernehunter.blogspot.com (http://hernehunter.blogspot.com/2012_02_01_archive.html)
+
+Chakaruna: Fevereiro2012
+
+Also in Jasuká income found numerous inscriptions, still very little studied. So the hill is considered by the Guarani as the most important of the 11 hills. Your name say "Place of Jasuká" which is a female deity, often presented as the wife of Kuarahy, the Sun is realized, alas, the repetition of a holy woman ties with the "center of the earth." For some Guarani groups, it is Ñandecy, for others it is Jasuká. But this has an explanation: Jasuká would be a feminine symbol, says Candida Graciela Chamorro Arguello in the article "The rite of naming a village mbyá-Guarani Paraná", published in the journal Diáloigos, Universidade Estadual de Maringa - PR. "Jasuká is the sacred name of women and bat pace by them used in religious ceremonies. It is also the name of a female deity, the Great Parent of the universe, from whose breasts would have nourished the creator of the world. "
+
+There is, however, a further understanding of Jasuká, which leads to a relationship with Peabiru. Well apart from proper name of a goddess, the word jasuká can also be a common noun, but with religious connotation, say some scholars. Would be synonymous with "great primordial fog", "fog that is the origin of life," according to the Paraguayan José Pertasso ethnographer. Graciela Chamorro says something equal in his article: "The origin of Jaxuká dates back to the origin of one of the elementary substances of nature: water. Therefore it is represented by dew, by the smoke, the fog, the rain and the sacred tree, cedar, talking and boiling your water for health and repair people. Therefore, the naming ceremony of Mbyá (when the deities give names to children), water and smoke are the most important symbols ".]]></description>
+			<Point>
+				<coordinates>-56.063232,-23.062043,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#A/B13 - Gran Chaco</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Book: The Indian in Latin American History: Resistance, Resilience, and Acculturation, edited by John E. Kicza
+
+Page 20 - They fought their way across the Gran Chaco, the lain that lies between the river and the Andes Mountains. After many days, they reached the mountains between Mizque and Tomina. They attacked and plundered villages under Inca control and killed everyone they found. When the Charcas counterattacked, they retired to the lowlands, laden with cloth, utensils, and gold, silver , and copper objects they had stolen. Garcia was killed, but more Indians followed him to the territories where he had been, and settled on the frontier near Tarija.]]></description>
+			<Point>
+				<coordinates>-60.512694999999994,-18.302381,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#A/B12 - Sana Ana de Chiquitos</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-58.79058800000001,-18.708773,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#A/B14 - San Jose deChiquitos</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-60.728989,-17.842833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#A/B15 - Santa Cruz de la Sierra</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-63.110275,-17.775824,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Inca Ruin: El Fuerte de Samaipata</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/35914260.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Peter van der Sleen
+Wikipedia - El Fuerte de Samaipata (Fort Samaipata), also known simply as "El Fuerte", is an archaeological site and UNESCO World Heritage Site located in the Santa Cruz Department, Florida Province, Bolivia.[1] It is situated in the eastern foothills of the Bolivian Andes and is a popular tourist destination for Bolivians and foreigners alike. It is served by the nearby town of Samaipata.
+
+
+It is not actually a military fortification, but it is generally considered a pre-Columbian religious site, built by the Chané people, a pre-Inca culture of Arawak origin.[2] There are also ruins of an Inca city built near the temple; the city was built during the Inca expansion to the southeast. Both Incas and Chanes suffered several raids from Guarani warriors who invaded the region from time to time. Eventually, the Guarani warriors conquered the plains and valleys of Santa Cruz and destroyed Samaipata. The Guaranis dominated the region well into the Spanish colonial period.[2]]]></description>
+			<Point>
+				<coordinates>-63.819097000000006,-18.178565,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1195</styleUrl>
+			<name>Samaipata, the meeting point of the Guarani and the Inca cultures</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Unity and separation along South America´s Peabiru by Bébhinn Ramsay (http://www.inter-disciplinary.net/probing-the-boundaries/wp-content/uploads/2014/05/ramsayjorpaper.pdf)
+
+
+From Santa Cruz, we headed to Samaipata, the meeting point of the Guarani and the Inca cultures, the meeting point of east and west in South America. At different times, this enormous heavily-carved sacred ceremonial rock was under the power of the Guarani and then an Inca outpost.]]></description>
+			<Point>
+				<coordinates>-63.69323700000001,-18.130191,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#A/B16 - Tomina</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.462239,-19.18592,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#A/B17 - Tarabuco</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Book: Land Without Evil: Utopian Journeys Across the South American Watershed by Richard Gott
+
+
+Page 7 -  Garcia reached the rugged territory that lies between the town of Mizque and Tomina (in what is now Bolivia).  By all reports he got as far as the town of Tarabuco, on the eastern slopes of the Andes not far from the city of Sure (known in colonial times as Charcas or Chuquisaca). Then it was ruled by the Incas.]]></description>
+			<Point>
+				<coordinates>-64.914851,-19.182678,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#A/B18 - Presto</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Aliexo Garcia, Who? by Kevin Healyey (https://maps.google.com/www.saexplorers.org/system/files/.../sae-mag-7d-aleixo-garcia.pdf)
+
+
+The invading force had reached the towns of Presto and Tarabuco, only a few kilometers from Sucre, the official capital of Bolivia. Here, encountering heavy opposition in the form of twenty thousand trained Inca warriors rushed to the area, with bolas, slings, axes and clubs, Garcia retired to the Chaco to gather
+reinforcements and secure the large quantity of loot they had won. They had speared a hundred kilometers into the Inca empire and spirited off a vast collection of gold and silver objects, rich clothing and a goodly number of slaves.]]></description>
+			<Point>
+				<coordinates>-64.93598,-18.930807000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-971</styleUrl>
+			<name>#A/B19 - The silver mines of Potosí</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Potos%C3%AD)
+
+Potosí lies at the foot of the Cerro de Potosí[3]—sometimes referred to as the Cerro Rico("rich mountain")—a mountain popularly conceived of as being "made of" silver ore, which has always dominated the city. The Cerro Rico is the reason for Potosí's historical importance, since it was the major supply of silver for Spain during the period of the New World Spanish Empire.]]></description>
+			<Point>
+				<coordinates>-65.745792,-19.607663000000002,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-993</styleUrl>
+			<name>Silver Mines at Potosi</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://static.panoramio.com/photos/large/82511828.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Google Map / Panoramio / Alexander Naumov (http://www.panoramio.com/user/570984?with_photo_id=82511828)]]></description>
+			<Point>
+				<coordinates>-65.75695,-19.597636,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1195</styleUrl>
+			<name>Quechua god of death,</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Unity and separation along South America´s Peabiru by Bébhinn Ramsay (http://www.inter-disciplinary.net/probing-the-boundaries/wp-content/uploads/2014/05/ramsayjorpaper.pdf)
+
+We travelled to Potosi, close to where Aleixo Garcia allegedly battled with the Inca army before retreating back along the Peabiru path to Paraguay. In a place still stinking of money and death, the boys and I came face to face the statue of the Quechua god of death, Satay in the mines. We travelled to Potosi, close to where Aleixo Garcia allegedly battled with the Inca army before retreating back along the Peabiru path to Paraguay. In a place still stinking of money and death, the boys and I came face to face the statue of the Quechua god of death, Satay in the mines. IWe travelled to Potosi, close to where Aleixo Garcia allegedly battled with the Inca army before retreating back along the Peabiru path to Paraguay. In a place still stinking of money and death, the boys and I came face to face the statue of the Quechua god of death, Satay in the mines. We travelled to Potosi, close to where Aleixo Garcia allegedly battled with the Inca army before retreating back along the Peabiru path to Paraguay. In a place still stinking of money and death, the boys and I came face to face the statue of the Quechua god of death, Satay in the mines.]]></description>
+			<Point>
+				<coordinates>-65.714722,-19.592138,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-41</styleUrl>
+			<name>Gold mines of Potosi</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-66.335449,-19.52873,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-959-F4EB37</styleUrl>
+			<name>#A20 - Tarija</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Book: The Indian in Latin American History: Resistance, Resilience, and Acculturation, edited by John E. Kicza
+
+Page 20 - When the Charcas counterattacked, they [Garci's men] retired to the lowlands, laden with cloth, utensils, and gold, silver , and copper objects they had stolen. Garcia was killed, but more Indians followed him to the territories where he had been, and settled on the frontier near Tarija.]]></description>
+			<Point>
+				<coordinates>-64.720459,-21.524627,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1169</styleUrl>
+			<name>#A/B21 - San Pedro</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Wikipedia (http://en.wikipedia.org/wiki/Aleixo_Garcia)
+
+Garcia looted an impressive booty of silver. When the army of Huayna Cápac arrived to challenge him, Garcia then retreated with the spoils, only to be assassinated by his Indian allies near San Pedro on the Paraguay River.
+
+
+The Indians, however, spared the life of his son, who was the first Paraguayan mestizo. News of this excursion into Incan territory later distracted Sebastian Cabot from his expedition to the East Indies (which could have resulted in the second circumnavigation of the globe after Ferdinand Magellan) causing him to imprison or maroon his lieutenants and remain in the Rio de la Plata region for several years.]]></description>
+			<Point>
+				<coordinates>-57.082989,-24.098658,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1387</styleUrl>
+			<name>#A/B22 - Return to Florianopolis </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Aliexo Garcia, Who? by Kevin Healyey (https://maps.google.com/www.saexplorers.org/system/files/.../sae-mag-7d-aleixo-garcia.pdf)
+
+
+Meanwhile, a ship had arrived at Santa Catarina. The San Gabriel, commanded by Rodrigo de Acuna, deserted the fleet of Garcia Jofre de Loaisa which was following Magellan's route to the Spice Islands. Acuna put in at Puerto de los Patos. There he met Ramirez and Montes, was shown the Bolivian treasure, and from there on things become tantalizingly vague. First, most of the silver was lost in an unspecified accident while being transferred to the ship. It plunged to the bottom of the bay opposite the bustling modern day city of Florianopolis. Then relations between Acuna and the castaways soured. A lively fight ensued, with a large number of Indians supporting Ramirez and Montes. Acuna never mentions the incident in his report to the king, but it seems safe to assume that he tried to take the spoils by force of arms.]]></description>
+			<Point>
+				<coordinates>-47.988281,-27.25463,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1195</styleUrl>
+			<name>Peabiru village</name>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-52.322388,-23.860722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-1001'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1001-biz-cinema.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1125'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1125-crisis-caution.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1169'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1169-crisis-poison-gas.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1195'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1195-fac-flag.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1371'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1371-rec-hiking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1387'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1387-rec-sailing.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-33'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-41'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-959-F8971B'>
+			<IconStyle>
+				<color>ff1B97F8</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-960-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-962-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/962-wht-diamond-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-971'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/971-biz-bank-dollar.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-993'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/993-biz-camera.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='line-FFFF00-5'>
+			<LineStyle>
+				<color>ff00FFFF</color>
+				<width>5</width>
+			</LineStyle>
+		</Style>
+	</Document>
+</kml>

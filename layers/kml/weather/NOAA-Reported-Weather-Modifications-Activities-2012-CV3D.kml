@@ -1,0 +1,1935 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>NOAA Reported Weather Modifications Activities (2004-2012)</name>
+		<Style id='Style2-point-1'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/snowflake_simple.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-1-hover'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/snowflake_simple.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-1-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-1-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>11-1527</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>File No.:</b> 11-1527<br>
+<b>Project/ST:</b> Western Kansas Weather Modification Program<br>
+<b>State:</b> KS<br>
+<b>Year:</b> 2012<br>
+<b>Months:</b> <br>
+<b>Days:</b> <br>
+<b>Agent Agl - gms:</b> <br>
+<b>Agent  CO2-lbs. (&amp; Other):</b> <br>
+<b>Square Miles:</b> 6,766<br>
+<b>Operator:</b> Western Kansas Groundwater Management<br>
+<b>Sponsor/Funding Source:</b> Western Kansas Groundwater Management<br>
+<b>Purpose:</b> Hail Suppression<br>
+<b>Link:</b> http://www.gmd1.org/WMP_brochure_revised_use_pg_2_&amp;_3_final.pdf
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Project/ST'>
+					<value>Western Kansas Weather Modification Program</value>
+				</Data>
+				<Data name='State'>
+					<value>KS</value>
+				</Data>
+				<Data name='Year'>
+					<value>2012</value>
+				</Data>
+				<Data name='Months'>
+					<value></value>
+				</Data>
+				<Data name='Days'>
+					<value></value>
+				</Data>
+				<Data name='Agent Agl - gms'>
+					<value></value>
+				</Data>
+				<Data name='Agent  CO2-lbs. (&amp; Other)'>
+					<value></value>
+				</Data>
+				<Data name='Square Miles'>
+					<value>6,766</value>
+				</Data>
+				<Data name='Operator'>
+					<value>Western Kansas Groundwater Management</value>
+				</Data>
+				<Data name='Sponsor/Funding Source'>
+					<value>Western Kansas Groundwater Management</value>
+				</Data>
+				<Data name='Purpose'>
+					<value>Hail Suppression</value>
+				</Data>
+				<Data name='Link'>
+					<value>http://www.gmd1.org/WMP_brochure_revised_use_pg_2_&amp;_3_final.pdf</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>38.685</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-101.4237</value>
+				</Data>
+				<Data name='Icon'>
+					<value>snowflake_simple</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.4237,38.685,0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='Style2-point-2'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/terrain.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-2-hover'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/terrain.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-2-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-2-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>11-1528</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>File No.:</b> 11-1528<br>
+<b>Project/ST:</b> Northeast Nevada<br>
+<b>State:</b> NV<br>
+<b>Year:</b> 2012<br>
+<b>Months:</b> <br>
+<b>Days:</b> <br>
+<b>Agent Agl - gms:</b> <br>
+<b>Agent  CO2-lbs. (&amp; Other):</b> <br>
+<b>Square Miles:</b> 3,000<br>
+<b>Operator:</b> Desert Research Institute<br>
+<b>Sponsor/Funding Source:</b> Southern Nevada Water Authority<br>
+<b>Purpose:</b> Snowpack Augmentation<br>
+<b>Link:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Project/ST'>
+					<value>Northeast Nevada</value>
+				</Data>
+				<Data name='State'>
+					<value>NV</value>
+				</Data>
+				<Data name='Year'>
+					<value>2012</value>
+				</Data>
+				<Data name='Months'>
+					<value></value>
+				</Data>
+				<Data name='Days'>
+					<value></value>
+				</Data>
+				<Data name='Agent Agl - gms'>
+					<value></value>
+				</Data>
+				<Data name='Agent  CO2-lbs. (&amp; Other)'>
+					<value></value>
+				</Data>
+				<Data name='Square Miles'>
+					<value>3,000</value>
+				</Data>
+				<Data name='Operator'>
+					<value>Desert Research Institute</value>
+				</Data>
+				<Data name='Sponsor/Funding Source'>
+					<value>Southern Nevada Water Authority</value>
+				</Data>
+				<Data name='Purpose'>
+					<value>Snowpack Augmentation</value>
+				</Data>
+				<Data name='Link'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.5441</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-115.3693</value>
+				</Data>
+				<Data name='Icon'>
+					<value>terrain</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-115.3693,40.5441,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11-1529</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>File No.:</b> 11-1529<br>
+<b>Project/ST:</b> Walker Basin Project<br>
+<b>State:</b> NV<br>
+<b>Year:</b> 2012<br>
+<b>Months:</b> <br>
+<b>Days:</b> <br>
+<b>Agent Agl - gms:</b> <br>
+<b>Agent  CO2-lbs. (&amp; Other):</b> <br>
+<b>Square Miles:</b> 3,000<br>
+<b>Operator:</b> Desert Research Institute<br>
+<b>Sponsor/Funding Source:</b> Desert Terminal Lakes Program<br>
+<b>Purpose:</b> Snowpack Augmentation<br>
+<b>Link:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Project/ST'>
+					<value>Walker Basin Project</value>
+				</Data>
+				<Data name='State'>
+					<value>NV</value>
+				</Data>
+				<Data name='Year'>
+					<value>2012</value>
+				</Data>
+				<Data name='Months'>
+					<value></value>
+				</Data>
+				<Data name='Days'>
+					<value></value>
+				</Data>
+				<Data name='Agent Agl - gms'>
+					<value></value>
+				</Data>
+				<Data name='Agent  CO2-lbs. (&amp; Other)'>
+					<value></value>
+				</Data>
+				<Data name='Square Miles'>
+					<value>3,000</value>
+				</Data>
+				<Data name='Operator'>
+					<value>Desert Research Institute</value>
+				</Data>
+				<Data name='Sponsor/Funding Source'>
+					<value>Desert Terminal Lakes Program</value>
+				</Data>
+				<Data name='Purpose'>
+					<value>Snowpack Augmentation</value>
+				</Data>
+				<Data name='Link'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>38.9696</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-118.823</value>
+				</Data>
+				<Data name='Icon'>
+					<value>terrain</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-118.823,38.9696,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11-1530</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>File No.:</b> 11-1530<br>
+<b>Project/ST:</b> Tahoe-Truckee<br>
+<b>State:</b> NV<br>
+<b>Year:</b> 2012<br>
+<b>Months:</b> <br>
+<b>Days:</b> <br>
+<b>Agent Agl - gms:</b> <br>
+<b>Agent  CO2-lbs. (&amp; Other):</b> <br>
+<b>Square Miles:</b> 1,240<br>
+<b>Operator:</b> Desert Research Institute<br>
+<b>Sponsor/Funding Source:</b> Truckee River Fund<br>
+<b>Purpose:</b> Snowpack Augmentation<br>
+<b>Link:</b> http://www.truckeeriverfund.org/projects/92-CloudSeedingProject.shtml
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Project/ST'>
+					<value>Tahoe-Truckee</value>
+				</Data>
+				<Data name='State'>
+					<value>NV</value>
+				</Data>
+				<Data name='Year'>
+					<value>2012</value>
+				</Data>
+				<Data name='Months'>
+					<value></value>
+				</Data>
+				<Data name='Days'>
+					<value></value>
+				</Data>
+				<Data name='Agent Agl - gms'>
+					<value></value>
+				</Data>
+				<Data name='Agent  CO2-lbs. (&amp; Other)'>
+					<value></value>
+				</Data>
+				<Data name='Square Miles'>
+					<value>1,240</value>
+				</Data>
+				<Data name='Operator'>
+					<value>Desert Research Institute</value>
+				</Data>
+				<Data name='Sponsor/Funding Source'>
+					<value>Truckee River Fund</value>
+				</Data>
+				<Data name='Purpose'>
+					<value>Snowpack Augmentation</value>
+				</Data>
+				<Data name='Link'>
+					<value>http://www.truckeeriverfund.org/projects/92-CloudSeedingProject.shtml</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>39.2796</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-120.0548</value>
+				</Data>
+				<Data name='Icon'>
+					<value>terrain</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-120.0548,39.2796,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11-1531</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>File No.:</b> 11-1531<br>
+<b>Project/ST:</b> Southern/Central Utah<br>
+<b>State:</b> UT<br>
+<b>Year:</b> 2012<br>
+<b>Months:</b> <br>
+<b>Days:</b> <br>
+<b>Agent Agl - gms:</b> <br>
+<b>Agent  CO2-lbs. (&amp; Other):</b> <br>
+<b>Square Miles:</b> 10,000<br>
+<b>Operator:</b> North American Weather Consultants<br>
+<b>Sponsor/Funding Source:</b> Utah Water Resources Development<br>
+<b>Purpose:</b> Snowpack Augmentation<br>
+<b>Link:</b> http://www.nawcinc.com/wm.html 
+http://water.utah.gov/cloudseeding/CurrentProjects/defaultcurrent.html 
+http://drought.nv.gov/uploadedFiles/droughtnvgov/Content/Meetings/2015/HumboldtRiverBasinCloudSeedingDocument.pdf
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Project/ST'>
+					<value>Southern/Central Utah</value>
+				</Data>
+				<Data name='State'>
+					<value>UT</value>
+				</Data>
+				<Data name='Year'>
+					<value>2012</value>
+				</Data>
+				<Data name='Months'>
+					<value></value>
+				</Data>
+				<Data name='Days'>
+					<value></value>
+				</Data>
+				<Data name='Agent Agl - gms'>
+					<value></value>
+				</Data>
+				<Data name='Agent  CO2-lbs. (&amp; Other)'>
+					<value></value>
+				</Data>
+				<Data name='Square Miles'>
+					<value>10,000</value>
+				</Data>
+				<Data name='Operator'>
+					<value>North American Weather Consultants</value>
+				</Data>
+				<Data name='Sponsor/Funding Source'>
+					<value>Utah Water Resources Development</value>
+				</Data>
+				<Data name='Purpose'>
+					<value>Snowpack Augmentation</value>
+				</Data>
+				<Data name='Link'>
+					<value>http://www.nawcinc.com/wm.html 
+http://water.utah.gov/cloudseeding/CurrentProjects/defaultcurrent.html 
+http://drought.nv.gov/uploadedFiles/droughtnvgov/Content/Meetings/2015/HumboldtRiverBasinCloudSeedingDocument.pdf</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>39.605953</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-111.219063</value>
+				</Data>
+				<Data name='Icon'>
+					<value>terrain</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-111.219063,39.605953,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11-1532</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>File No.:</b> 11-1532<br>
+<b>Project/ST:</b> High Uintas<br>
+<b>State:</b> UT<br>
+<b>Year:</b> 2012<br>
+<b>Months:</b> <br>
+<b>Days:</b> <br>
+<b>Agent Agl - gms:</b> <br>
+<b>Agent  CO2-lbs. (&amp; Other):</b> <br>
+<b>Square Miles:</b> 1,000<br>
+<b>Operator:</b> North American Weather Consultants<br>
+<b>Sponsor/Funding Source:</b> Duchesne County Water Conservation District<br>
+<b>Purpose:</b> Snowpack Augmentation<br>
+<b>Link:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Project/ST'>
+					<value>High Uintas</value>
+				</Data>
+				<Data name='State'>
+					<value>UT</value>
+				</Data>
+				<Data name='Year'>
+					<value>2012</value>
+				</Data>
+				<Data name='Months'>
+					<value></value>
+				</Data>
+				<Data name='Days'>
+					<value></value>
+				</Data>
+				<Data name='Agent Agl - gms'>
+					<value></value>
+				</Data>
+				<Data name='Agent  CO2-lbs. (&amp; Other)'>
+					<value></value>
+				</Data>
+				<Data name='Square Miles'>
+					<value>1,000</value>
+				</Data>
+				<Data name='Operator'>
+					<value>North American Weather Consultants</value>
+				</Data>
+				<Data name='Sponsor/Funding Source'>
+					<value>Duchesne County Water Conservation District</value>
+				</Data>
+				<Data name='Purpose'>
+					<value>Snowpack Augmentation</value>
+				</Data>
+				<Data name='Link'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.7535</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-110.5053</value>
+				</Data>
+				<Data name='Icon'>
+					<value>terrain</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-110.5053,40.7535,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11-1533</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>File No.:</b> 11-1533<br>
+<b>Project/ST:</b> Alta and Snowbird Ski Area<br>
+<b>State:</b> UT<br>
+<b>Year:</b> 2012<br>
+<b>Months:</b> <br>
+<b>Days:</b> <br>
+<b>Agent Agl - gms:</b> <br>
+<b>Agent  CO2-lbs. (&amp; Other):</b> <br>
+<b>Square Miles:</b> 10<br>
+<b>Operator:</b> North American Weather Consultants<br>
+<b>Sponsor/Funding Source:</b> Alta Ski Lifts Company<br>
+<b>Purpose:</b> Snowpack Augmentation<br>
+<b>Link:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Project/ST'>
+					<value>Alta and Snowbird Ski Area</value>
+				</Data>
+				<Data name='State'>
+					<value>UT</value>
+				</Data>
+				<Data name='Year'>
+					<value>2012</value>
+				</Data>
+				<Data name='Months'>
+					<value></value>
+				</Data>
+				<Data name='Days'>
+					<value></value>
+				</Data>
+				<Data name='Agent Agl - gms'>
+					<value></value>
+				</Data>
+				<Data name='Agent  CO2-lbs. (&amp; Other)'>
+					<value></value>
+				</Data>
+				<Data name='Square Miles'>
+					<value>10</value>
+				</Data>
+				<Data name='Operator'>
+					<value>North American Weather Consultants</value>
+				</Data>
+				<Data name='Sponsor/Funding Source'>
+					<value>Alta Ski Lifts Company</value>
+				</Data>
+				<Data name='Purpose'>
+					<value>Snowpack Augmentation</value>
+				</Data>
+				<Data name='Link'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>40.58906</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-111.642788</value>
+				</Data>
+				<Data name='Icon'>
+					<value>terrain</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-111.642788,40.58906,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11-1534</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>File No.:</b> 11-1534<br>
+<b>Project/ST:</b> Northern Utah<br>
+<b>State:</b> UT<br>
+<b>Year:</b> 2012<br>
+<b>Months:</b> <br>
+<b>Days:</b> <br>
+<b>Agent Agl - gms:</b> <br>
+<b>Agent  CO2-lbs. (&amp; Other):</b> <br>
+<b>Square Miles:</b> 1,250<br>
+<b>Operator:</b> North American Weather Consultants<br>
+<b>Sponsor/Funding Source:</b> Cache County, Utah<br>
+<b>Purpose:</b> Snowpack Augmentation<br>
+<b>Link:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Project/ST'>
+					<value>Northern Utah</value>
+				</Data>
+				<Data name='State'>
+					<value>UT</value>
+				</Data>
+				<Data name='Year'>
+					<value>2012</value>
+				</Data>
+				<Data name='Months'>
+					<value></value>
+				</Data>
+				<Data name='Days'>
+					<value></value>
+				</Data>
+				<Data name='Agent Agl - gms'>
+					<value></value>
+				</Data>
+				<Data name='Agent  CO2-lbs. (&amp; Other)'>
+					<value></value>
+				</Data>
+				<Data name='Square Miles'>
+					<value>1,250</value>
+				</Data>
+				<Data name='Operator'>
+					<value>North American Weather Consultants</value>
+				</Data>
+				<Data name='Sponsor/Funding Source'>
+					<value>Cache County, Utah</value>
+				</Data>
+				<Data name='Purpose'>
+					<value>Snowpack Augmentation</value>
+				</Data>
+				<Data name='Link'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>41.6793</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-111.7819</value>
+				</Data>
+				<Data name='Icon'>
+					<value>terrain</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-111.7819,41.6793,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11-1535</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>File No.:</b> 11-1535<br>
+<b>Project/ST:</b> Clark County<br>
+<b>State:</b> ID<br>
+<b>Year:</b> 2012<br>
+<b>Months:</b> <br>
+<b>Days:</b> <br>
+<b>Agent Agl - gms:</b> <br>
+<b>Agent  CO2-lbs. (&amp; Other):</b> <br>
+<b>Square Miles:</b> 2,850<br>
+<b>Operator:</b> Clark County<br>
+<b>Sponsor/Funding Source:</b> Clark County<br>
+<b>Purpose:</b> Snowpack Augmentation<br>
+<b>Link:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Project/ST'>
+					<value>Clark County</value>
+				</Data>
+				<Data name='State'>
+					<value>ID</value>
+				</Data>
+				<Data name='Year'>
+					<value>2012</value>
+				</Data>
+				<Data name='Months'>
+					<value></value>
+				</Data>
+				<Data name='Days'>
+					<value></value>
+				</Data>
+				<Data name='Agent Agl - gms'>
+					<value></value>
+				</Data>
+				<Data name='Agent  CO2-lbs. (&amp; Other)'>
+					<value></value>
+				</Data>
+				<Data name='Square Miles'>
+					<value>2,850</value>
+				</Data>
+				<Data name='Operator'>
+					<value>Clark County</value>
+				</Data>
+				<Data name='Sponsor/Funding Source'>
+					<value>Clark County</value>
+				</Data>
+				<Data name='Purpose'>
+					<value>Snowpack Augmentation</value>
+				</Data>
+				<Data name='Link'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>44.422</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-112.1855</value>
+				</Data>
+				<Data name='Icon'>
+					<value>terrain</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-112.1855,44.422,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11-1536</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>File No.:</b> 11-1536<br>
+<b>Project/ST:</b> Telluride Ski Area<br>
+<b>State:</b> CO<br>
+<b>Year:</b> 2012<br>
+<b>Months:</b> <br>
+<b>Days:</b> <br>
+<b>Agent Agl - gms:</b> <br>
+<b>Agent  CO2-lbs. (&amp; Other):</b> <br>
+<b>Square Miles:</b> 500<br>
+<b>Operator:</b> Western Weather Consultants<br>
+<b>Sponsor/Funding Source:</b> SW Water Conservation District<br>
+<b>Purpose:</b> Snowpack Augmentation<br>
+<b>Link:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Project/ST'>
+					<value>Telluride Ski Area</value>
+				</Data>
+				<Data name='State'>
+					<value>CO</value>
+				</Data>
+				<Data name='Year'>
+					<value>2012</value>
+				</Data>
+				<Data name='Months'>
+					<value></value>
+				</Data>
+				<Data name='Days'>
+					<value></value>
+				</Data>
+				<Data name='Agent Agl - gms'>
+					<value></value>
+				</Data>
+				<Data name='Agent  CO2-lbs. (&amp; Other)'>
+					<value></value>
+				</Data>
+				<Data name='Square Miles'>
+					<value>500</value>
+				</Data>
+				<Data name='Operator'>
+					<value>Western Weather Consultants</value>
+				</Data>
+				<Data name='Sponsor/Funding Source'>
+					<value>SW Water Conservation District</value>
+				</Data>
+				<Data name='Purpose'>
+					<value>Snowpack Augmentation</value>
+				</Data>
+				<Data name='Link'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>37.9323</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-107.7997</value>
+				</Data>
+				<Data name='Icon'>
+					<value>terrain</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-107.7997,37.9323,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11-1537</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>File No.:</b> 11-1537<br>
+<b>Project/ST:</b> Purgatory - West San Juan<br>
+<b>State:</b> CO<br>
+<b>Year:</b> 2012<br>
+<b>Months:</b> <br>
+<b>Days:</b> <br>
+<b>Agent Agl - gms:</b> <br>
+<b>Agent  CO2-lbs. (&amp; Other):</b> <br>
+<b>Square Miles:</b> 600<br>
+<b>Operator:</b> Western Weather Consultants<br>
+<b>Sponsor/Funding Source:</b> SW Water Conservation District<br>
+<b>Purpose:</b> Snowpack Augmentation<br>
+<b>Link:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Project/ST'>
+					<value>Purgatory - West San Juan</value>
+				</Data>
+				<Data name='State'>
+					<value>CO</value>
+				</Data>
+				<Data name='Year'>
+					<value>2012</value>
+				</Data>
+				<Data name='Months'>
+					<value></value>
+				</Data>
+				<Data name='Days'>
+					<value></value>
+				</Data>
+				<Data name='Agent Agl - gms'>
+					<value></value>
+				</Data>
+				<Data name='Agent  CO2-lbs. (&amp; Other)'>
+					<value></value>
+				</Data>
+				<Data name='Square Miles'>
+					<value>600</value>
+				</Data>
+				<Data name='Operator'>
+					<value>Western Weather Consultants</value>
+				</Data>
+				<Data name='Sponsor/Funding Source'>
+					<value>SW Water Conservation District</value>
+				</Data>
+				<Data name='Purpose'>
+					<value>Snowpack Augmentation</value>
+				</Data>
+				<Data name='Link'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>37.6244</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-107.8281</value>
+				</Data>
+				<Data name='Icon'>
+					<value>terrain</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-107.8281,37.6244,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11-1538</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>File No.:</b> 11-1538<br>
+<b>Project/ST:</b> Eastern San Juan Program<br>
+<b>State:</b> CO<br>
+<b>Year:</b> 2012<br>
+<b>Months:</b> <br>
+<b>Days:</b> <br>
+<b>Agent Agl - gms:</b> <br>
+<b>Agent  CO2-lbs. (&amp; Other):</b> <br>
+<b>Square Miles:</b> 800<br>
+<b>Operator:</b> Western Weather Consultants<br>
+<b>Sponsor/Funding Source:</b> SW Water Conservation District<br>
+<b>Purpose:</b> Snowpack Augmentation<br>
+<b>Link:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Project/ST'>
+					<value>Eastern San Juan Program</value>
+				</Data>
+				<Data name='State'>
+					<value>CO</value>
+				</Data>
+				<Data name='Year'>
+					<value>2012</value>
+				</Data>
+				<Data name='Months'>
+					<value></value>
+				</Data>
+				<Data name='Days'>
+					<value></value>
+				</Data>
+				<Data name='Agent Agl - gms'>
+					<value></value>
+				</Data>
+				<Data name='Agent  CO2-lbs. (&amp; Other)'>
+					<value></value>
+				</Data>
+				<Data name='Square Miles'>
+					<value>800</value>
+				</Data>
+				<Data name='Operator'>
+					<value>Western Weather Consultants</value>
+				</Data>
+				<Data name='Sponsor/Funding Source'>
+					<value>SW Water Conservation District</value>
+				</Data>
+				<Data name='Purpose'>
+					<value>Snowpack Augmentation</value>
+				</Data>
+				<Data name='Link'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>37.8048</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-107.607</value>
+				</Data>
+				<Data name='Icon'>
+					<value>terrain</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-107.607,37.8048,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11-1539</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>File No.:</b> 11-1539<br>
+<b>Project/ST:</b> Central Colorado Mountain River Basins Program<br>
+<b>State:</b> CO<br>
+<b>Year:</b> 2012<br>
+<b>Months:</b> <br>
+<b>Days:</b> <br>
+<b>Agent Agl - gms:</b> <br>
+<b>Agent  CO2-lbs. (&amp; Other):</b> <br>
+<b>Square Miles:</b> 100<br>
+<b>Operator:</b> Western Weather Consultants<br>
+<b>Sponsor/Funding Source:</b> Vail Associates, Inc.<br>
+<b>Purpose:</b> Snowpack Augmentation<br>
+<b>Link:</b> http://cwcb.state.co.us/water-management/water-projects-programs/Documents/WeatherModification/CCMRBP_Permit_App2012.pdf
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Project/ST'>
+					<value>Central Colorado Mountain River Basins Program</value>
+				</Data>
+				<Data name='State'>
+					<value>CO</value>
+				</Data>
+				<Data name='Year'>
+					<value>2012</value>
+				</Data>
+				<Data name='Months'>
+					<value></value>
+				</Data>
+				<Data name='Days'>
+					<value></value>
+				</Data>
+				<Data name='Agent Agl - gms'>
+					<value></value>
+				</Data>
+				<Data name='Agent  CO2-lbs. (&amp; Other)'>
+					<value></value>
+				</Data>
+				<Data name='Square Miles'>
+					<value>100</value>
+				</Data>
+				<Data name='Operator'>
+					<value>Western Weather Consultants</value>
+				</Data>
+				<Data name='Sponsor/Funding Source'>
+					<value>Vail Associates, Inc.</value>
+				</Data>
+				<Data name='Purpose'>
+					<value>Snowpack Augmentation</value>
+				</Data>
+				<Data name='Link'>
+					<value>http://cwcb.state.co.us/water-management/water-projects-programs/Documents/WeatherModification/CCMRBP_Permit_App2012.pdf</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>39.6242</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-106.362</value>
+				</Data>
+				<Data name='Icon'>
+					<value>terrain</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-106.362,39.6242,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11-1540</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>File No.:</b> 11-1540<br>
+<b>Project/ST:</b> Upper Arkansas River Program<br>
+<b>State:</b> CO<br>
+<b>Year:</b> 2012<br>
+<b>Months:</b> <br>
+<b>Days:</b> <br>
+<b>Agent Agl - gms:</b> <br>
+<b>Agent  CO2-lbs. (&amp; Other):</b> <br>
+<b>Square Miles:</b> 8,000<br>
+<b>Operator:</b> Western Weather Consultants<br>
+<b>Sponsor/Funding Source:</b> Denver Water Department<br>
+<b>Purpose:</b> Snowpack Augmentation<br>
+<b>Link:</b> http://cwcb.state.co.us/water-management/water-projects-programs/Documents/WeatherModification/DWagenda_materials.pdf
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Project/ST'>
+					<value>Upper Arkansas River Program</value>
+				</Data>
+				<Data name='State'>
+					<value>CO</value>
+				</Data>
+				<Data name='Year'>
+					<value>2012</value>
+				</Data>
+				<Data name='Months'>
+					<value></value>
+				</Data>
+				<Data name='Days'>
+					<value></value>
+				</Data>
+				<Data name='Agent Agl - gms'>
+					<value></value>
+				</Data>
+				<Data name='Agent  CO2-lbs. (&amp; Other)'>
+					<value></value>
+				</Data>
+				<Data name='Square Miles'>
+					<value>8,000</value>
+				</Data>
+				<Data name='Operator'>
+					<value>Western Weather Consultants</value>
+				</Data>
+				<Data name='Sponsor/Funding Source'>
+					<value>Denver Water Department</value>
+				</Data>
+				<Data name='Purpose'>
+					<value>Snowpack Augmentation</value>
+				</Data>
+				<Data name='Link'>
+					<value>http://cwcb.state.co.us/water-management/water-projects-programs/Documents/WeatherModification/DWagenda_materials.pdf</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>38.4947</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-105.4023</value>
+				</Data>
+				<Data name='Icon'>
+					<value>terrain</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-105.4023,38.4947,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11-1541</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>File No.:</b> 11-1541<br>
+<b>Project/ST:</b> Upper American River Ranger District<br>
+<b>State:</b> CA<br>
+<b>Year:</b> 2012<br>
+<b>Months:</b> <br>
+<b>Days:</b> <br>
+<b>Agent Agl - gms:</b> <br>
+<b>Agent  CO2-lbs. (&amp; Other):</b> <br>
+<b>Square Miles:</b> 190<br>
+<b>Operator:</b> Weather Modification, Inc.<br>
+<b>Sponsor/Funding Source:</b> Sacramento Municipal Utility District (SMUD)<br>
+<b>Purpose:</b> Snowpack Augmentation<br>
+<b>Link:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Project/ST'>
+					<value>Upper American River Ranger District</value>
+				</Data>
+				<Data name='State'>
+					<value>CA</value>
+				</Data>
+				<Data name='Year'>
+					<value>2012</value>
+				</Data>
+				<Data name='Months'>
+					<value></value>
+				</Data>
+				<Data name='Days'>
+					<value></value>
+				</Data>
+				<Data name='Agent Agl - gms'>
+					<value></value>
+				</Data>
+				<Data name='Agent  CO2-lbs. (&amp; Other)'>
+					<value></value>
+				</Data>
+				<Data name='Square Miles'>
+					<value>190</value>
+				</Data>
+				<Data name='Operator'>
+					<value>Weather Modification, Inc.</value>
+				</Data>
+				<Data name='Sponsor/Funding Source'>
+					<value>Sacramento Municipal Utility District (SMUD)</value>
+				</Data>
+				<Data name='Purpose'>
+					<value>Snowpack Augmentation</value>
+				</Data>
+				<Data name='Link'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>38.950064</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-120.29922</value>
+				</Data>
+				<Data name='Icon'>
+					<value>terrain</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-120.29922,38.950064,0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='Style2-point-3'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/rainy.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-3-hover'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/shapes/rainy.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-3-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-3</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-3-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>11-1542</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>File No.:</b> 11-1542<br>
+<b>Project/ST:</b> Upper Payette River Basin<br>
+<b>State:</b> ID<br>
+<b>Year:</b> 2012<br>
+<b>Months:</b> <br>
+<b>Days:</b> <br>
+<b>Agent Agl - gms:</b> <br>
+<b>Agent  CO2-lbs. (&amp; Other):</b> <br>
+<b>Square Miles:</b> 938<br>
+<b>Operator:</b> Idaho Power Company<br>
+<b>Sponsor/Funding Source:</b> Idaho Power Company<br>
+<b>Purpose:</b> Precipitation Enhancement<br>
+<b>Link:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Project/ST'>
+					<value>Upper Payette River Basin</value>
+				</Data>
+				<Data name='State'>
+					<value>ID</value>
+				</Data>
+				<Data name='Year'>
+					<value>2012</value>
+				</Data>
+				<Data name='Months'>
+					<value></value>
+				</Data>
+				<Data name='Days'>
+					<value></value>
+				</Data>
+				<Data name='Agent Agl - gms'>
+					<value></value>
+				</Data>
+				<Data name='Agent  CO2-lbs. (&amp; Other)'>
+					<value></value>
+				</Data>
+				<Data name='Square Miles'>
+					<value>938</value>
+				</Data>
+				<Data name='Operator'>
+					<value>Idaho Power Company</value>
+				</Data>
+				<Data name='Sponsor/Funding Source'>
+					<value>Idaho Power Company</value>
+				</Data>
+				<Data name='Purpose'>
+					<value>Precipitation Enhancement</value>
+				</Data>
+				<Data name='Link'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>44.1035</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-116.0857</value>
+				</Data>
+				<Data name='Icon'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-116.0857,44.1035,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11-1543</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>File No.:</b> 11-1543<br>
+<b>Project/ST:</b> Wyoming Weather Modification Pilot Program (WWMPP)<br>
+<b>State:</b> WY<br>
+<b>Year:</b> 2012<br>
+<b>Months:</b> <br>
+<b>Days:</b> <br>
+<b>Agent Agl - gms:</b> <br>
+<b>Agent  CO2-lbs. (&amp; Other):</b> <br>
+<b>Square Miles:</b> 1,247<br>
+<b>Operator:</b> Weather Modification, Inc.<br>
+<b>Sponsor/Funding Source:</b> State of Wyoming<br>
+<b>Purpose:</b> Snowpack Augmentation<br>
+<b>Link:</b> https://www.ral.ucar.edu/projects/wyoming/
+http://www.livescience.com/49263-cloud-seeding-experiment-debate.html
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Project/ST'>
+					<value>Wyoming Weather Modification Pilot Program (WWMPP)</value>
+				</Data>
+				<Data name='State'>
+					<value>WY</value>
+				</Data>
+				<Data name='Year'>
+					<value>2012</value>
+				</Data>
+				<Data name='Months'>
+					<value></value>
+				</Data>
+				<Data name='Days'>
+					<value></value>
+				</Data>
+				<Data name='Agent Agl - gms'>
+					<value></value>
+				</Data>
+				<Data name='Agent  CO2-lbs. (&amp; Other)'>
+					<value></value>
+				</Data>
+				<Data name='Square Miles'>
+					<value>1,247</value>
+				</Data>
+				<Data name='Operator'>
+					<value>Weather Modification, Inc.</value>
+				</Data>
+				<Data name='Sponsor/Funding Source'>
+					<value>State of Wyoming</value>
+				</Data>
+				<Data name='Purpose'>
+					<value>Snowpack Augmentation</value>
+				</Data>
+				<Data name='Link'>
+					<value>https://www.ral.ucar.edu/projects/wyoming/
+http://www.livescience.com/49263-cloud-seeding-experiment-debate.html</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>43.38</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-109.115</value>
+				</Data>
+				<Data name='Icon'>
+					<value>terrain</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-109.115,43.38,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11-1544</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>File No.:</b> 11-1544<br>
+<b>Project/ST:</b> Wyoming Weather Modification Pilot Program (WWMPP)<br>
+<b>State:</b> WY<br>
+<b>Year:</b> 2012<br>
+<b>Months:</b> <br>
+<b>Days:</b> <br>
+<b>Agent Agl - gms:</b> <br>
+<b>Agent  CO2-lbs. (&amp; Other):</b> <br>
+<b>Square Miles:</b> 50<br>
+<b>Operator:</b> Weather Modification, Inc<br>
+<b>Sponsor/Funding Source:</b> Wyoming Water Dev. Office<br>
+<b>Purpose:</b> Snowpack Augmentation<br>
+<b>Link:</b> https://www.ral.ucar.edu/projects/wyoming/
+http://www.livescience.com/49263-cloud-seeding-experiment-debate.html
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Project/ST'>
+					<value>Wyoming Weather Modification Pilot Program (WWMPP)</value>
+				</Data>
+				<Data name='State'>
+					<value>WY</value>
+				</Data>
+				<Data name='Year'>
+					<value>2012</value>
+				</Data>
+				<Data name='Months'>
+					<value></value>
+				</Data>
+				<Data name='Days'>
+					<value></value>
+				</Data>
+				<Data name='Agent Agl - gms'>
+					<value></value>
+				</Data>
+				<Data name='Agent  CO2-lbs. (&amp; Other)'>
+					<value></value>
+				</Data>
+				<Data name='Square Miles'>
+					<value>50</value>
+				</Data>
+				<Data name='Operator'>
+					<value>Weather Modification, Inc</value>
+				</Data>
+				<Data name='Sponsor/Funding Source'>
+					<value>Wyoming Water Dev. Office</value>
+				</Data>
+				<Data name='Purpose'>
+					<value>Snowpack Augmentation</value>
+				</Data>
+				<Data name='Link'>
+					<value>https://www.ral.ucar.edu/projects/wyoming/
+http://www.livescience.com/49263-cloud-seeding-experiment-debate.html</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>41.1179</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-106.9847</value>
+				</Data>
+				<Data name='Icon'>
+					<value>terrain</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-106.9847,41.1179,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11-1545</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>File No.:</b> 11-1545<br>
+<b>Project/ST:</b> Mokelumne<br>
+<b>State:</b> CA<br>
+<b>Year:</b> 2012<br>
+<b>Months:</b> <br>
+<b>Days:</b> <br>
+<b>Agent Agl - gms:</b> <br>
+<b>Agent  CO2-lbs. (&amp; Other):</b> <br>
+<b>Square Miles:</b> 170<br>
+<b>Operator:</b> Pacific Gas &amp; Electric Company<br>
+<b>Sponsor/Funding Source:</b> Pacific Gas &amp; Electric Company<br>
+<b>Purpose:</b> Snowpack Augmentation<br>
+<b>Link:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Project/ST'>
+					<value>Mokelumne</value>
+				</Data>
+				<Data name='State'>
+					<value>CA</value>
+				</Data>
+				<Data name='Year'>
+					<value>2012</value>
+				</Data>
+				<Data name='Months'>
+					<value></value>
+				</Data>
+				<Data name='Days'>
+					<value></value>
+				</Data>
+				<Data name='Agent Agl - gms'>
+					<value></value>
+				</Data>
+				<Data name='Agent  CO2-lbs. (&amp; Other)'>
+					<value></value>
+				</Data>
+				<Data name='Square Miles'>
+					<value>170</value>
+				</Data>
+				<Data name='Operator'>
+					<value>Pacific Gas &amp; Electric Company</value>
+				</Data>
+				<Data name='Sponsor/Funding Source'>
+					<value>Pacific Gas &amp; Electric Company</value>
+				</Data>
+				<Data name='Purpose'>
+					<value>Snowpack Augmentation</value>
+				</Data>
+				<Data name='Link'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>38.5218</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-120.0528</value>
+				</Data>
+				<Data name='Icon'>
+					<value>terrain</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-120.0528,38.5218,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11-1546</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>File No.:</b> 11-1546<br>
+<b>Project/ST:</b> Kings River<br>
+<b>State:</b> CA<br>
+<b>Year:</b> 2012<br>
+<b>Months:</b> <br>
+<b>Days:</b> <br>
+<b>Agent Agl - gms:</b> <br>
+<b>Agent  CO2-lbs. (&amp; Other):</b> <br>
+<b>Square Miles:</b> 2,225<br>
+<b>Operator:</b> North American Weather Consultants<br>
+<b>Sponsor/Funding Source:</b> Kings River Conservation District<br>
+<b>Purpose:</b> Precipitation Enhancement<br>
+<b>Link:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Project/ST'>
+					<value>Kings River</value>
+				</Data>
+				<Data name='State'>
+					<value>CA</value>
+				</Data>
+				<Data name='Year'>
+					<value>2012</value>
+				</Data>
+				<Data name='Months'>
+					<value></value>
+				</Data>
+				<Data name='Days'>
+					<value></value>
+				</Data>
+				<Data name='Agent Agl - gms'>
+					<value></value>
+				</Data>
+				<Data name='Agent  CO2-lbs. (&amp; Other)'>
+					<value></value>
+				</Data>
+				<Data name='Square Miles'>
+					<value>2,225</value>
+				</Data>
+				<Data name='Operator'>
+					<value>North American Weather Consultants</value>
+				</Data>
+				<Data name='Sponsor/Funding Source'>
+					<value>Kings River Conservation District</value>
+				</Data>
+				<Data name='Purpose'>
+					<value>Precipitation Enhancement</value>
+				</Data>
+				<Data name='Link'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>36.8646</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-119.1258</value>
+				</Data>
+				<Data name='Icon'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-119.1258,36.8646,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11-1547</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>File No.:</b> 11-1547<br>
+<b>Project/ST:</b> Upper Gunnison River Basin<br>
+<b>State:</b> CO<br>
+<b>Year:</b> 2012<br>
+<b>Months:</b> <br>
+<b>Days:</b> <br>
+<b>Agent Agl - gms:</b> <br>
+<b>Agent  CO2-lbs. (&amp; Other):</b> <br>
+<b>Square Miles:</b> 3,000<br>
+<b>Operator:</b> North American Weather Consultants<br>
+<b>Sponsor/Funding Source:</b> Gunnison County<br>
+<b>Purpose:</b> Snowpack Augmentation<br>
+<b>Link:</b> http://drought.nv.gov/uploadedFiles/droughtnvgov/Content/Meetings/2015/HumboldtRiverBasinCloudSeedingDocument.pdf
+</div>]]></description>
+			<styleUrl>#Style2-point-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Project/ST'>
+					<value>Upper Gunnison River Basin</value>
+				</Data>
+				<Data name='State'>
+					<value>CO</value>
+				</Data>
+				<Data name='Year'>
+					<value>2012</value>
+				</Data>
+				<Data name='Months'>
+					<value></value>
+				</Data>
+				<Data name='Days'>
+					<value></value>
+				</Data>
+				<Data name='Agent Agl - gms'>
+					<value></value>
+				</Data>
+				<Data name='Agent  CO2-lbs. (&amp; Other)'>
+					<value></value>
+				</Data>
+				<Data name='Square Miles'>
+					<value>3,000</value>
+				</Data>
+				<Data name='Operator'>
+					<value>North American Weather Consultants</value>
+				</Data>
+				<Data name='Sponsor/Funding Source'>
+					<value>Gunnison County</value>
+				</Data>
+				<Data name='Purpose'>
+					<value>Snowpack Augmentation</value>
+				</Data>
+				<Data name='Link'>
+					<value>http://drought.nv.gov/uploadedFiles/droughtnvgov/Content/Meetings/2015/HumboldtRiverBasinCloudSeedingDocument.pdf</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>38.5109</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-106.9999</value>
+				</Data>
+				<Data name='Icon'>
+					<value>terrain</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-106.9999,38.5109,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11-1548</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>File No.:</b> 11-1548<br>
+<b>Project/ST:</b> Santa Barbara &amp; San Luis<br>
+<b>State:</b> CA<br>
+<b>Year:</b> 2012<br>
+<b>Months:</b> <br>
+<b>Days:</b> <br>
+<b>Agent Agl - gms:</b> <br>
+<b>Agent  CO2-lbs. (&amp; Other):</b> <br>
+<b>Square Miles:</b> 200<br>
+<b>Operator:</b> North American Weather Consultants<br>
+<b>Sponsor/Funding Source:</b> Santa Barbara County Water Agency<br>
+<b>Purpose:</b> Precipitation Enhancement<br>
+<b>Link:</b> http://cosb.countyofsb.org/pwd/pwwater.aspx?id=3752
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Project/ST'>
+					<value>Santa Barbara &amp; San Luis</value>
+				</Data>
+				<Data name='State'>
+					<value>CA</value>
+				</Data>
+				<Data name='Year'>
+					<value>2012</value>
+				</Data>
+				<Data name='Months'>
+					<value></value>
+				</Data>
+				<Data name='Days'>
+					<value></value>
+				</Data>
+				<Data name='Agent Agl - gms'>
+					<value></value>
+				</Data>
+				<Data name='Agent  CO2-lbs. (&amp; Other)'>
+					<value></value>
+				</Data>
+				<Data name='Square Miles'>
+					<value>200</value>
+				</Data>
+				<Data name='Operator'>
+					<value>North American Weather Consultants</value>
+				</Data>
+				<Data name='Sponsor/Funding Source'>
+					<value>Santa Barbara County Water Agency</value>
+				</Data>
+				<Data name='Purpose'>
+					<value>Precipitation Enhancement</value>
+				</Data>
+				<Data name='Link'>
+					<value>http://cosb.countyofsb.org/pwd/pwwater.aspx?id=3752</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>35.3171</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-120.5102</value>
+				</Data>
+				<Data name='Icon'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-120.5102,35.3171,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>11-1549</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>File No.:</b> 11-1549<br>
+<b>Project/ST:</b> Wyoming Weather Modification Pilot Program (WWMPP)<br>
+<b>State:</b> WY<br>
+<b>Year:</b> 2012<br>
+<b>Months:</b> <br>
+<b>Days:</b> <br>
+<b>Agent Agl - gms:</b> <br>
+<b>Agent  CO2-lbs. (&amp; Other):</b> <br>
+<b>Square Miles:</b> 180<br>
+<b>Operator:</b> Weather Modification, Inc.<br>
+<b>Sponsor/Funding Source:</b> Eden Valley Irrigation &amp; Drainage District<br>
+<b>Purpose:</b> Precipitation Enhancement - Snowpack Augmentation<br>
+<b>Link:</b> https://www.ral.ucar.edu/projects/wyoming/
+http://www.livescience.com/49263-cloud-seeding-experiment-debate.html
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Project/ST'>
+					<value>Wyoming Weather Modification Pilot Program (WWMPP)</value>
+				</Data>
+				<Data name='State'>
+					<value>WY</value>
+				</Data>
+				<Data name='Year'>
+					<value>2012</value>
+				</Data>
+				<Data name='Months'>
+					<value></value>
+				</Data>
+				<Data name='Days'>
+					<value></value>
+				</Data>
+				<Data name='Agent Agl - gms'>
+					<value></value>
+				</Data>
+				<Data name='Agent  CO2-lbs. (&amp; Other)'>
+					<value></value>
+				</Data>
+				<Data name='Square Miles'>
+					<value>180</value>
+				</Data>
+				<Data name='Operator'>
+					<value>Weather Modification, Inc.</value>
+				</Data>
+				<Data name='Sponsor/Funding Source'>
+					<value>Eden Valley Irrigation &amp; Drainage District</value>
+				</Data>
+				<Data name='Purpose'>
+					<value>Precipitation Enhancement - Snowpack Augmentation</value>
+				</Data>
+				<Data name='Link'>
+					<value>https://www.ral.ucar.edu/projects/wyoming/
+http://www.livescience.com/49263-cloud-seeding-experiment-debate.html</value>
+				</Data>
+				<Data name='Latitude'>
+					<value>43.38</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-109.115</value>
+				</Data>
+				<Data name='Icon'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-109.115,43.38,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12-1550</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>File No.:</b> 12-1550<br>
+<b>Project/ST:</b> SW Texas Rain Enhancement Program<br>
+<b>State:</b> TX<br>
+<b>Year:</b> 2012<br>
+<b>Months:</b> <br>
+<b>Days:</b> <br>
+<b>Agent Agl - gms:</b> <br>
+<b>Agent  CO2-lbs. (&amp; Other):</b> <br>
+<b>Square Miles:</b> 9,133<br>
+<b>Operator:</b> Southwest Texas Rain Enhancement Association<br>
+<b>Sponsor/Funding Source:</b> Wintergarden Ground Water Conservation District<br>
+<b>Purpose:</b> Precipitation Enhancement - Hail Suppression<br>
+<b>Link:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Project/ST'>
+					<value>SW Texas Rain Enhancement Program</value>
+				</Data>
+				<Data name='State'>
+					<value>TX</value>
+				</Data>
+				<Data name='Year'>
+					<value>2012</value>
+				</Data>
+				<Data name='Months'>
+					<value></value>
+				</Data>
+				<Data name='Days'>
+					<value></value>
+				</Data>
+				<Data name='Agent Agl - gms'>
+					<value></value>
+				</Data>
+				<Data name='Agent  CO2-lbs. (&amp; Other)'>
+					<value></value>
+				</Data>
+				<Data name='Square Miles'>
+					<value>9,133</value>
+				</Data>
+				<Data name='Operator'>
+					<value>Southwest Texas Rain Enhancement Association</value>
+				</Data>
+				<Data name='Sponsor/Funding Source'>
+					<value>Wintergarden Ground Water Conservation District</value>
+				</Data>
+				<Data name='Purpose'>
+					<value>Precipitation Enhancement - Hail Suppression</value>
+				</Data>
+				<Data name='Link'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>28.3708</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-99.729</value>
+				</Data>
+				<Data name='Icon'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.729,28.3708,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12-1551</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>File No.:</b> 12-1551<br>
+<b>Project/ST:</b> West Texas Weather Modification Association<br>
+<b>State:</b> TX<br>
+<b>Year:</b> 2012<br>
+<b>Months:</b> <br>
+<b>Days:</b> <br>
+<b>Agent Agl - gms:</b> <br>
+<b>Agent  CO2-lbs. (&amp; Other):</b> <br>
+<b>Square Miles:</b> 9,900<br>
+<b>Operator:</b> West Texas Weather Modification Association<br>
+<b>Sponsor/Funding Source:</b> West Texas Weather Modification Association<br>
+<b>Purpose:</b> Precipitation Enhancement<br>
+<b>Link:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Project/ST'>
+					<value>West Texas Weather Modification Association</value>
+				</Data>
+				<Data name='State'>
+					<value>TX</value>
+				</Data>
+				<Data name='Year'>
+					<value>2012</value>
+				</Data>
+				<Data name='Months'>
+					<value></value>
+				</Data>
+				<Data name='Days'>
+					<value></value>
+				</Data>
+				<Data name='Agent Agl - gms'>
+					<value></value>
+				</Data>
+				<Data name='Agent  CO2-lbs. (&amp; Other)'>
+					<value></value>
+				</Data>
+				<Data name='Square Miles'>
+					<value>9,900</value>
+				</Data>
+				<Data name='Operator'>
+					<value>West Texas Weather Modification Association</value>
+				</Data>
+				<Data name='Sponsor/Funding Source'>
+					<value>West Texas Weather Modification Association</value>
+				</Data>
+				<Data name='Purpose'>
+					<value>Precipitation Enhancement</value>
+				</Data>
+				<Data name='Link'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>32.631</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-101.3833</value>
+				</Data>
+				<Data name='Icon'>
+					<value>rainy</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.3833,32.631,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>12-1552</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>File No.:</b> 12-1552<br>
+<b>Project/ST:</b> W. Kansas Weather<br>
+<b>State:</b> KS<br>
+<b>Year:</b> 2012<br>
+<b>Months:</b> <br>
+<b>Days:</b> <br>
+<b>Agent Agl - gms:</b> <br>
+<b>Agent  CO2-lbs. (&amp; Other):</b> <br>
+<b>Square Miles:</b> 6,766<br>
+<b>Operator:</b> Western Kansas Groundwater Management<br>
+<b>Sponsor/Funding Source:</b> Western Kansas Groundwater Management<br>
+<b>Purpose:</b> Hail Suppression<br>
+<b>Link:</b> 
+</div>]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Project/ST'>
+					<value>W. Kansas Weather</value>
+				</Data>
+				<Data name='State'>
+					<value>KS</value>
+				</Data>
+				<Data name='Year'>
+					<value>2012</value>
+				</Data>
+				<Data name='Months'>
+					<value></value>
+				</Data>
+				<Data name='Days'>
+					<value></value>
+				</Data>
+				<Data name='Agent Agl - gms'>
+					<value></value>
+				</Data>
+				<Data name='Agent  CO2-lbs. (&amp; Other)'>
+					<value></value>
+				</Data>
+				<Data name='Square Miles'>
+					<value>6,766</value>
+				</Data>
+				<Data name='Operator'>
+					<value>Western Kansas Groundwater Management</value>
+				</Data>
+				<Data name='Sponsor/Funding Source'>
+					<value>Western Kansas Groundwater Management</value>
+				</Data>
+				<Data name='Purpose'>
+					<value>Hail Suppression</value>
+				</Data>
+				<Data name='Link'>
+					<value></value>
+				</Data>
+				<Data name='Latitude'>
+					<value>37.96898</value>
+				</Data>
+				<Data name='Longitude'>
+					<value>-101.25833</value>
+				</Data>
+				<Data name='Icon'>
+					<value>snowflake_simple</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-101.25833,37.96898,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</kml>
