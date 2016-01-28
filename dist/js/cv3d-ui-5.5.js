@@ -224,6 +224,14 @@ function loadOsmLayer(layerId, geoDataSrc) {
     activeLayers[layerId] = src;
     loadSliders(src, layerId);
 }
+function loadCartoDB(layerId, geoDataSrc) {
+    var src = viewer.imageryLayers.addImageryProvider(new Cesium.UrlTemplateImageryProvider({
+        url : geoDataSrc
+    }));
+    activeLayers[layerId] = src;
+    loadSliders(src, layerId);
+}
+
 function loadBingLayer(layerId, geoDataSrc) {
     var src, bingUrl = '//dev.virtualearth.net', bingKey = 'AiQDjsWpddVOFEnVY6j4Jb0S0Hoy9QMa30rvbZT1A8qd0it10NkYAgvb5sa3OeLw';
     if (geoDataSrc == 'AERIAL') {
@@ -281,10 +289,13 @@ function newMarkerLabel(entity, markerLabel) {
     return label;
 }
 
-function modMarkers(layerId, geoData, markerImg, markerScale, markerLabel) {
-    var layerTarget = $('.' + layerId + '-details');
-    var markerList = $('<div class="details ' + layerId + '-list marker-list" />').insertAfter(layerTarget);
-    var items = [];
+function modMarkers(layerId, geoData, markerImg, markerScale, markerLabel, noList) {
+    //console.log(noList);
+    if (noList === false) {
+        var layerTarget = $('.' + layerId + '-details');
+        var markerList = $('<div class="details ' + layerId + '-list marker-list" />').insertAfter(layerTarget);
+        var items = [];
+    }
 
     var entities = geoData.entities.values; // entities = all points
     for (var i = 0; i < entities.length; i++) {
@@ -353,34 +364,35 @@ function modMarkers(layerId, geoData, markerImg, markerScale, markerLabel) {
         //var position = entity.position;
         //var x = position.getValue().x;
 
-        console.log(entity.position);
-        var v = entity.position.getValue();
-        //var xyz = [v.x, v.y, v.z];
-        var xy = [v.x, v.y];
+       //console.log(entity);
+        if (noList === false) {
+            var v = entity.position.getValue();
+            var carto = Cesium.Ellipsoid.WGS84.cartesianToCartographic(v);
+            var lon = Cesium.Math.toDegrees(carto.longitude);
+            var lat = Cesium.Math.toDegrees(carto.latitude);
+            //console.log(lon, lat);
+            items.push('<li data-lon="' + lon + '"  data-lat="' + lat + '">' + entity.title + '</li>');
+        }
 
-        console.log(xy);
 
-        items.push('<li id="' + entity.id + '">' + entity.title + '</li>');
-
-        /*
-         var cartographic = Cesium.Cartographic.fromCartesian(entity.position, Ellipsoid.WGS84);
-         var longitudeString = Cesium.Math.toDegrees(cartographic.longitude).toFixed(2);
-         var latitudeString = Cesium.Math.toDegrees(cartographic.latitude).toFixed(2);
-
-        .click(function () {
-         viewer.camera.flyTo({
-         destination: Cesium.Cartesian3.fromDegrees(entity.position)
-         });
-         }) */
       // marker label
       if (markerLabel) {
           entity.label = newMarkerLabel(entity, markerLabel);
       }
     } // end for loop
-    $('<ol/>', {
-        'class':'msrkers',
-        html:items.join('')
-    }).appendTo(markerList);
+    if (noList === false) {
+        $('<ol/>', {
+            'class': 'markers',
+            html: items.join('')
+        }).appendTo(markerList);
+        $('.markers li').click(function () {
+            var lon = $(this).attr('data-lon');
+            var lat = $(this).attr('data-lat');
+            viewer.camera.flyTo({
+                destination: Cesium.Cartesian3.fromDegrees(lon, lat, 3000.0)
+            });
+        });
+    }
 
 }
 
@@ -427,10 +439,10 @@ function loadArcGisLayer(layerId, geoDataSrc, geoLayers, noFeatures, width, heig
 }
 
 
-function loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, zoom) {
+function loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, zoom, noList) {
      console.log('load geojson');
     new Cesium.GeoJsonDataSource.load(geoDataSrc).then(function (geoData) {
-        modMarkers(layerId, geoData, markerImg, markerScale, markerLabel);
+        modMarkers(layerId, geoData, markerImg, markerScale, markerLabel, noList);
         viewer.dataSources.add(geoData);
         activeLayers[layerId] = geoData;
         // TODO loadMarkerSliders(geoData, layerId);
@@ -508,7 +520,7 @@ function disableLayer(l) {
     if (layerEnabled[l.I] === undefined) return;
 
     // Update Globe
-    if (mlt === ("nasa-gibs") || mlt === ("wmts") || mlt === ("wms") || mlt === ("base-layer") || mlt === ("arcgis") || mlt === ("arcgis-layer") || mlt === ("bing")) {
+    if (mlt === ("nasa-gibs") || mlt === ("cartodb-layer") || mlt === ("wmts") || mlt === ("wms") || mlt === ("base-layer") || mlt === ("arcgis") || mlt === ("arcgis-layer") || mlt === ("bing")) {
         removeImagery(layerId);
         $('.' + layerId + '-sliders').remove();
         $('.' + layerId + '-picker').remove();
@@ -541,10 +553,17 @@ function updateLayer(layerId, includeOnly) {
     markerScale = l.MS,
     markerLabel = l.ML,
     timeline = l.C,
+    noList = l.Y,
     proxy = l.P,
     noFeatures = l.X;
     var selectedDate = picker.get('select', 'yyyy-mm-dd');
     if (!includeOnly) var zoom = l.Z;
+
+    if (noList) {
+        noList = true;
+    } else {
+        noList = false;
+    }
 
 
     if (layerEnabled[layerId] === undefined) {
@@ -559,12 +578,14 @@ function updateLayer(layerId, includeOnly) {
             loadGIBS(layerId, selectedDate);
         } else if (l.T === ("wtms")) {
             loadWmts(layerId, geoDataSrc, geoLayers);
+        } else if (l.T === ("cartodb-layer")) {
+            loadCartoDB(layerId, geoDataSrc);
         } else if (l.T === ("base-layer")) {
-           loadOsmLayer(layerId, geoDataSrc);
+            loadOsmLayer(layerId, geoDataSrc);
         } else if (l.T === ("arcgis") || l.T === ("arcgis-layer")) {
            loadArcGisLayer(layerId, geoDataSrc, geoLayers, noFeatures, width, height);
         } else if (l.T === ("geojson")) {
-            loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, zoom);
+            loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, zoom, noList);
         } else if (l.T === ('kml')) {
             loadKml(layerId, geoDataSrc, proxy, zoom, markerImg, markerScale, markerLabel, markerMod);
         } else if (l.T === ('bing')) {

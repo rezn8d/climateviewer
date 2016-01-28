@@ -43,7 +43,7 @@ imageryViewModels.push(new Cesium.ProviderViewModel({
         });
     }
 }));
-/* imageryViewModels.push(new Cesium.ProviderViewModel({
+imageryViewModels.push(new Cesium.ProviderViewModel({
     name: 'Dark Matter',
     iconUrl: Cesium.buildModuleUrl('Widgets/Images/ImageryProviders/stamenToner.png'),
     tooltip: 'Map tiles by CartoDB, under CC BY 3.0. Data by OpenStreetMap, under ODbL.',
@@ -219,10 +219,18 @@ Earth at night as seen by NASA/NOAA\'s Suomi NPP satellite.',
         });
     }
 }));
-*/
+
 // TERRAIN
 var terrainProviders = [];
-/*terrainProviders.push(new Cesium.ProviderViewModel({
+terrainProviders.push(new Cesium.ProviderViewModel({
+    name: 'WGS84 Ellipsoid',
+    iconUrl: Cesium.buildModuleUrl('Widgets/Images/TerrainProviders/Ellipsoid.png'),
+    tooltip: 'WGS84 standard ellipsoid, also known as EPSG:4326',
+    creationFunction: function () {
+        return new Cesium.EllipsoidTerrainProvider();
+    }
+}));
+terrainProviders.push(new Cesium.ProviderViewModel({
     name: 'STK World Terrain meshes',
     iconUrl: Cesium.buildModuleUrl('Widgets/Images/TerrainProviders/STK.png'),
     tooltip: 'High-resolution, mesh-based terrain for the entire globe. Free for use on the Internet. Closed-network options are available.\nhttp://www.agi.com',
@@ -234,15 +242,7 @@ var terrainProviders = [];
         });
     }
 }));
-*/
-terrainProviders.push(new Cesium.ProviderViewModel({
-    name: 'WGS84 Ellipsoid',
-    iconUrl: Cesium.buildModuleUrl('Widgets/Images/TerrainProviders/Ellipsoid.png'),
-    tooltip: 'WGS84 standard ellipsoid, also known as EPSG:4326',
-    creationFunction: function () {
-        return new Cesium.EllipsoidTerrainProvider();
-    }
-}));
+
 
 
 var now = Cesium.JulianDate.now();

@@ -275,60 +275,6 @@ function loadGIBS(layerId, selectedDate) {
     loadSliders(src, layerId);
 }
 
-/*
-Date.prototype.getJulian = function() {
-    return Math.floor((this / 86400000) - (this.getTimezoneOffset()/1440) + 2440587.5);
-}
-
-var today = new Date(); //set any date
-console.log(today);
-var julian = today.getJulian(); //get Julian counterpart 
-console.log(julian);
-
-    var today = new Date();
-    var yesterday = today.setDate(today.getDate() - 1);
-
-
-
-function loadGIBS(layerId, format) {
-    var target = $('#' + layerId + ' .lb');
-    $('<div class="details ' + layerId + '-picker date-picker">' +
-        '<div class="header"><i class="fa fa-fw fa-clock-o"></i> Imagery Date</div>' +
-        '<span>Click this button below to change the loaded image:</span><br>' +
-        '<input type="button" value="" class="datepicker ui orange basic button" id="'+ layerId + '-datepicker" name="date">' +
-        '</div>').insertAfter(target);
-
-
-    Date.prototype.getJulian = function() {
-        return Math.floor((this / 86400000) - (this.getTimezoneOffset()/1440) + 2440587.5);
-    };
-
-    //var yesterday = Cesium.JulianDate.fromDate(date);
-    //var time = Cesium.JulianDate.toDate(yesterday);
-    //var time = yesterday.getJulian();
-
-    var $input = $( '#'+ layerId + '-datepicker' ).pickadate({
-    formatSubmit: 'yyyy-mm-dd',
-    min: [2012, 4, 8],
-    max: today.getJulian(),
-    container: '#datepicker-container',
-    // editable: true,
-    closeOnSelect: true,
-    closeOnClear: false
-    });
-
-    var picker = $input.pickadate('picker');
-    picker.set('select', yesterday);
-    picker.on({
-    set: function() {
-      var selectedDate = picker.get('select', 'yyyy-mm-dd');
-      updateGIBS(layerId, selectedDate);
-    }
-    });
-    var start = picker.get('select', 'yyyy-mm-dd');
-    updateGIBS(layerId, start, format);
-} */
-
 function loadWmts(layerId, geoDataSrc, geoLayers) {
     var assetLayerGroup = new L.LayerGroup();
     var src = viewer.imageryLayers.addImageryProvider(new Cesium.WebMapTileServiceImageryProvider({
@@ -369,6 +315,18 @@ function loadOsmLayer(layerId, geoDataSrc) {
         zIndex : 2,
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions" target="_blank">CartoDB</a>',
         subdomains: 'abcd',
+        maxZoom: 19
+    });
+    baseLayerGroup.addLayer(src);
+    baseLayerGroup.addTo(map);
+    activeLayers[layerId] = baseLayerGroup;
+    loadSliders(src, layerId);
+}
+function loadCartoDB(layerId, geoDataSrc) {
+    var baseLayerGroup = new L.LayerGroup();
+    var src = L.tileLayer(geoDataSrc, {
+        zIndex: 1,
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
         maxZoom: 19
     });
     baseLayerGroup.addLayer(src);
@@ -619,103 +577,126 @@ function loadKml(layerId, geoDataSrc, proxy, zoom) {
             if (zoom === true) {
                 map.fitBounds(src.getBounds());
             } else {
-                map.setView([40, -100], 3);
+                map.setView(new L.LatLng(40, -100), 3);
             }
         }
     });
 
 }
 
-function loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, markerColor, zoom, proxy) {
+function loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, zoom, noList) {
     var assetLayerGroup = new L.LayerGroup();
-    var proxyKml = (proxyURL + "?" + geoDataSrc);
-    var loadUrl;
-    if (proxy) { 
-        loadUrl = proxyKml;
-        console.log('loading ' + proxyKml);
-    } else {
-        loadUrl = geoDataSrc;
-        console.log('loading ' + geoDataSrc);
+    var loadUrl = geoDataSrc;
+    if (noList === false) {
+        var layerTarget = $('.' + layerId + '-details');
+        var markerList = $('<div class="details ' + layerId + '-list marker-list" />').insertAfter(layerTarget);
+        var items = [];
     }
-    var promise = $.getJSON(loadUrl); 
+
+    var promise = $.getJSON(loadUrl);
     // map.removeLayer(layerId);
-    promise.then(function(data) {     //do a bunch of stuff here     
+    promise.then(function(data) {     //do a bunch of stuff here
 
-    $(data.features).each(function(key, data) {
-      //map.removeLayer(src);
-      var src = L.geoJson(data, {
-            pointToLayer: function(feature, latlng) {
-                var mImg = L.icon({
-                    iconUrl: markerImg,
-                    iconRetinaUrl: markerImg,
-                    iconSize: [32,32],
-                });
-                //return new L.CircleMarker(latlng, {radius: 5, fillOpacity: 0.85});
-                return L.marker(latlng, {
-                    icon: mImg
-                });
-            },
-            onEachFeature: function (feature, layer) {
-                if (feature.properties) {
+        $(data.features).each(function(key, data) {
+            //map.removeLayer(src);
 
-                var title, details;
 
-                if (feature.properties.title) {
-                    title = '<h3>' + feature.properties.title + '</h3>';
-                } else if (feature.properties.Name) {
-                    title = '<h3>' + feature.properties.Name + '</h3>';
-                } else if (feature.properties.name) {
-                    title = '<h3>' + feature.properties.name + '</h3>';
-                } else if (feature.properties.LICENSEE) {
-                    title = '<h3>' + feature.properties.LICENSEE + '</h3>';
-                } else {
-                    title = '';
-                }
+            var src = L.geoJson(data, {
+                pointToLayer: function(feature, latlng) {
+                    var mImg = L.icon({
+                        iconUrl: markerImg,
+                        iconRetinaUrl: markerImg,
+                        iconSize: [32,32],
+                    });
+                    //return new L.CircleMarker(latlng, {radius: 5, fillOpacity: 0.85});
+                    return L.marker(latlng, {
+                        icon: mImg
+                    });
+                },
+                onEachFeature: function (feature, layer) {
+                    if (feature.properties) {
 
-                if (feature.properties.mag) {
-                    details = '<div>Place: ' + feature.properties.place + '<br>Magnitude: ' + feature.properties.mag + '<br><a href="' + feature.properties.url + '" target="_blank">Click here for more info.</a></div>';
-                } else if (feature.properties.Description) {
-                    details = '<div>' + feature.properties.Description + '</div>';
-                } else if (feature.properties.description) {
-                    details = '<div>' + feature.properties.description + '</div>';
-                } else if (feature.properties.desc) {
-                    details = '<div>' + feature.properties.desc + '</div>';
-                } else if (feature.properties.FREQUENCY) {
-                    details = '<div>FREQUENCY: ' + feature.properties.FREQUENCY + '<br>CALLSIGN: ' + feature.properties.CALLSIGN + '<br>SERVICE: ' + feature.properties.SERVICE + '<br></div>';
-                } else {
-                    details = '';
-                }
-                  layer.on({
-                    click: function (e) {
-                        e.preventDefault;
-                        var fContent = $("#feature-content");
-                        fContent.html('<h3>' + title + '</h3>');
-                        fContent.append(details);
+                        var title, details;
 
-                        $("#featureModal").modal("show");
-                        resize();
+                        if (feature.properties.title) {
+                            title = '<h3>' + feature.properties.title + '</h3>';
+                        } else if (feature.properties.Name) {
+                            title = '<h3>' + feature.properties.Name + '</h3>';
+                        } else if (feature.properties.name) {
+                            title = '<h3>' + feature.properties.name + '</h3>';
+                        } else if (feature.properties.LICENSEE) {
+                            title = '<h3>' + feature.properties.LICENSEE + '</h3>';
+                        } else {
+                            title = '';
+                        }
+
+                        if (feature.properties.mag) {
+                            details = '<div>Place: ' + feature.properties.place + '<br>Magnitude: ' + feature.properties.mag + '<br><a href="' + feature.properties.url + '" target="_blank">Click here for more info.</a></div>';
+                        } else if (feature.properties.Description) {
+                            details = '<div>' + feature.properties.Description + '</div>';
+                        } else if (feature.properties.description) {
+                            details = '<div>' + feature.properties.description + '</div>';
+                        } else if (feature.properties.desc) {
+                            details = '<div>' + feature.properties.desc + '</div>';
+                        } else if (feature.properties.FREQUENCY) {
+                            details = '<div>FREQUENCY: ' + feature.properties.FREQUENCY + '<br>CALLSIGN: ' + feature.properties.CALLSIGN + '<br>SERVICE: ' + feature.properties.SERVICE + '<br></div>';
+                        } else {
+                            details = '';
+                        }
+                        if (noList === false) {
+                            var latlon = data.geometry.coordinates;
+                           // console.log(latlon);
+                            var lon = latlon[0];
+                            var lat = latlon[1];
+                            //var lon = _.initial(latlon);
+                            //var lat = _.last(latlon);
+                            console.log(lon + " - " + lat);
+                            items.push('<li data-lon="' + lon + '"  data-lat="' + lat + '">' + title + '</li>');
+                        }
+
+                        layer.on({
+                            click: function (e) {
+                                e.preventDefault;
+                                var fContent = $("#feature-content");
+                                fContent.html('<h3>' + title + '</h3>');
+                                fContent.append(details);
+
+                                $("#featureModal").modal("show");
+                                resize();
+                            }
+                        });
                     }
-                  });
+
+                    //console.log(feature.properties)
                 }
 
-                //console.log(feature.properties)
-            }
+            });
+            assetLayerGroup.addLayer(src);
+            assetLayerGroup.addTo(map);
+            activeLayers[layerId] = assetLayerGroup;
+            loaded(layerId);
         });
 
+        if (noList === false) {
+            $('<ol/>', {
+                'class': 'markers',
+                html: items.join('')
+            }).appendTo(markerList);
+            $('.markers li').click(function () {
+                var lon = $(this).attr('data-lon');
+                var lat = $(this).attr('data-lat');
+                map.setView(new L.LatLng(lat, lon), 15);
+            });
+        }
 
-        assetLayerGroup.addLayer(src);
-        assetLayerGroup.addTo(map);
-        activeLayers[layerId] = assetLayerGroup;
-        loaded(layerId);
         /* if (zoom) {
-            if (zoom === true) {
-                map.fitBounds(src.getBounds());
-            } else {
-                map.setView([40, -100], 3);
-            }
-        } */
-    });
-  }, function (error) {
+         if (zoom === true) {
+         map.fitBounds(src.getBounds());
+         } else {
+         map.setView([40, -100], 3);
+         }
+         } */
+    }, function (error) {
         loadError(layerId, geoDataSrc, error);
     });
 };
@@ -735,7 +716,7 @@ function disableLayer(l) {
     if (layerEnabled[l.I] === undefined) return;
 
     // Update Globe
-    if (mlt === ("nasa-gibs") || mlt === ("wmts") || mlt === ("wms") || mlt === ("base-layer") || mlt === ("arcgis") || mlt === ("arcgis-layer") ) {
+    if (mlt === ("nasa-gibs") || mlt === ("cartodb-layer") || mlt === ("wmts") || mlt === ("wms") || mlt === ("base-layer") || mlt === ("arcgis") || mlt === ("arcgis-layer") ) {
         //removeImagery(layerId);
         $('.' + layerId + '-sliders').remove();
         $('.' + layerId + '-picker').remove();
@@ -747,6 +728,9 @@ function disableLayer(l) {
         var src = activeLayers[layerId];
         map.removeLayer(src);
         delete activeLayers[layerId];
+    }
+    if (mlt === ("geojson")) {
+        $('.' + layerId + '-list').remove();
     }
 
     delete layerEnabled[layerId];
@@ -763,16 +747,20 @@ function updateLayer(layerId) {
     var geoDataSrc = l.G,
     geoLayers = l.L,
     //source = l.S,
-    format = l.F,
     markerMod = l.M,
     markerImg = l.MI,
     markerScale = l.MS,
     markerLabel = l.ML,
-    markerColor = l.MC,
+    noList = l.Y,
     proxy = l.P;
     var selectedDate = picker.get('select', 'yyyy-mm-dd');
     if (!includeOnly) var zoom = l.Z;
 
+    if (noList) {
+        noList = true;
+    } else {
+        noList = false;
+    }
 
     if (layerEnabled[layerId] === undefined) {
         //put it in a temporary state to disallow loading while loading
@@ -786,6 +774,8 @@ function updateLayer(layerId) {
             loadGIBS(layerId, selectedDate);
         } else if (l.T === ("wtms")) {
             loadWmts(layerId, geoDataSrc, geoLayers);
+        } else if (l.T === ("cartodb-layer")) {
+            loadCartoDB(layerId, geoDataSrc);
         } else if (l.T === ("base-layer")) {
            loadOsmLayer(layerId, geoDataSrc);
         } else if (l.T === ("arcgis")) {
@@ -793,9 +783,9 @@ function updateLayer(layerId) {
         } else if (l.T === ("arcgis-layer")) {
            loadArcGisLayer(layerId, geoDataSrc, geoLayers);
         } else if (l.T === ("geojson")) {
-            loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, markerColor, zoom);
+            loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, zoom, noList);
         } else if (l.T === ('kml')) {
-            loadKml(layerId, geoDataSrc, proxy, zoom, markerImg, markerScale, markerLabel, markerColor, markerMod);
+            loadKml(layerId, geoDataSrc, proxy, zoom, markerImg, markerScale, markerLabel, markerMod);
         } else if (l.T === ('bing')) {
             loadBingLayer(layerId, geoDataSrc, geoLayers);
         } else {

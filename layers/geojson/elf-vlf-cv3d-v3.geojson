@@ -1,0 +1,2609 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Caribou",
+                "desc": "Master GRI 5930 (Canadian East Coast). 800kW.<br\/>Whiskey GRI 9960 (Northeast U.S.). 800kW.<br\/>Caribou, ME"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67.9269886111,
+                    46.8075861111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Diamond Harbor",
+                "desc": "Whiskey GRI 5543 (Calcutta LORAN-C). 11 kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.2044500349,
+                    22.1723581673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Balasore",
+                "desc": "Master GRI 5543 (Calcutta). 43kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.9192932934,
+                    21.4864050694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Patpur",
+                "desc": "X-ray GRI 5543 (Calcutta). 11 kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.8274109885,
+                    20.4473912849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Nantucket",
+                "desc": "X-ray GRI 5930 (Canadian East Coast). 400kW.<br\/>X-ray GRI 9960 (Northeast U.S.). 400 kW.<br\/>Nantucket, MA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.9773711111,
+                    41.2533472222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Cape Race",
+                "desc": "Yankee GRI 5930 (Canadian East Coast). 1000kW.<br\/>Whiskey GRI 7270 (Newfoundland East Coast). 500kW.<br\/>Former Whiskey GRI 7930 (Labrador Sea). 1000kW.<br\/>Cape Race, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -53.174335,
+                    46.7756361111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Fox Harbor",
+                "desc": "Zulu GRI 5930 (Canadian East Coast). 800kW.<br\/>X-ray GRI 7270 (Newfoundland East Coast). 900kW.<br\/>Former Master GRI 7930 (Labrador Sea). 900kW.<br\/>For Harbour, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -55.7077394444,
+                    52.3764583333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Petropavlosk",
+                "desc": "Master GRI 5980 (Russian-American). 700kW.<br\/>Whiskey GRI 7950 (Eastern Russia Chayka). 700kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    157.69525,
+                    53.1298833333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Attu",
+                "desc": "Whiskey GRI 5980 (Russian-American). 400kW.<br\/>X-ray GRI 9990 (North Pacific). 625kW.<br\/>Attu, AK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    173.180424444,
+                    52.828925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Alexandrovsk",
+                "desc": "Master GRI 7950 (Eastern Russia Chayka). 700kW.<br\/>X-ray GRI 5980 (Russian-American). 700kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    142.701375,
+                    51.0785555556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Williams Lake",
+                "desc": "Master GRI 5990 (Canadian West Coast). 400kW.<br\/>Yankee GRI 8290 (North Central U.S.). 400kW.<br\/>Williams Lake, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.367135,
+                    51.9663544444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Shoal Cove",
+                "desc": "X-ray GRI 5990 (Canadian West Coast). 540kW.<br\/>Yankee GRI 7960 (Gulf of Alaska). 540kW.<br\/>Shoal Cove, AK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -131.255303889,
+                    55.43915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter George",
+                "desc": "Yankee GRI 5990 (Canadian West Coast). 1600kW.<br\/>Whiskey GRI 9940 (U.S. West Coast). 1600 kW.<br\/>George, WA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.744161111,
+                    47.0633611111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Port Hardy",
+                "desc": "Zulu GRI 5990 (Canadian West Coast). 400kW.<br\/>Port Hardy, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -127.357913611,
+                    50.6082861111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Dhrangadhra",
+                "desc": "Master GRI 6042 (Bombay). 11kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.5275,
+                    23.003889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Veraval",
+                "desc": "Whiskey GRI 6042 (Bombay). 11kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.3365431914,
+                    20.9526425315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Billamora",
+                "desc": "X-ray GRI 6042 (Bombay). 11kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.0373632691,
+                    20.7616761111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Lessay",
+                "desc": "Master GRI 6731 (Lessay). 250kW.<br\/>X-ray GRI 7499 (Sylt). 250kW.<br\/>Lessay, France."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.50473027778,
+                    49.1486733333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Soustons",
+                "desc": "X-ray GRI 6731 (Lessay). 250kW.<br\/>Soustons, France."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.38044,
+                    43.7397497222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Loop Head",
+                "desc": "Yankee GRI 6731 (Lessay). 250kW.<br\/>Zulu GRI 9007 (Ei\u00f0i). 250kW.<br\/>Loop Head, Republic of Ireland"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.818333,
+                    52.584167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Sylt",
+                "desc": "Master GRI 7499 (Sylt). 250kW.<br\/>Zulu GRI 6731 (Lessay). 250kW.<br\/>Former Whiskey GRI 7970 (Norwegian Sea). 325kW.<br\/>Rantum, Nordfriesland (Kreis), Schleswig-Holstein, Germany."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.29357111111,
+                    54.8083263889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Hexian (Xindu)",
+                "desc": "Master GRI 6780 (China South Sea). 1200 kW.<br\/>Former Master GRI 6930 (Chinese). 1000kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.719527778,
+                    23.9677361111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Raoping (Zhangxi)",
+                "desc": "X-ray GRI 6780 (China South Sea). 1200kW.<br\/>X-ray GRI 8390 (China East Sea). 1200kW.<br\/>Former X-ray GRI 6930 (Chinese). 1000kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.895785,
+                    23.7238725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Chongzuo (Xinhe)",
+                "desc": "Yankee GRI 6780 (China South Sea). 1200kW.<br\/>Former Yankee GRI 6930 (Chinese). 1000kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.222683333,
+                    22.5431805556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter B\u00f8",
+                "desc": "Master GRI 7001 (B\u00f8). 400kW.<br\/>X-ray GRI 9007 (Ei\u00f0i). 400kW.<br\/>Former X-ray GRI 7970 (Norwegian Sea). 165kW.<br\/>B\u00f8, Norway"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4631527778,
+                    68.63506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Jan Mayen",
+                "desc": "Xray GRI 7001 (B\u00f8). 250kW.<br\/>Whiskey GRI 9007 (Ei\u00f0i). 250kW.<br\/>Former Zulu GRI 7970 (Norwegian Sea). 165kW.<br\/>Jan Mayen, Norway."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.73229166667,
+                    70.9143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Berlev\u00e5g",
+                "desc": "Yankee GRI 7001 (B\u00f8). 250kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.2044388889,
+                    70.8452816667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Al Khamasin",
+                "desc": "Master GRI 7030 (Saudi Arabia South). 1000kW.<br\/>X-ray GRI 8830 (Saudi Arabia North). 1000kW.<br\/>Former Master GRI 7170 (Saudi Arabia South). 800kW.<br\/>Al Khamasin, Saudi Arabia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.5813594444,
+                    20.4672291667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Salwa",
+                "desc": "Whiskey GRI 7030 (Saudi Arabia South). 1000kW.<br\/>Whiskey GRI 8830 (Saudi Arabia North). 1000kW.<br\/>Former Victor GRI 8990 (Saudi Arabia North). 800kW.<br\/>Former Whiskey GRI 7170 (Saudi Arabia South). 800kW.<br\/>Salwa, Saudi Arabia."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.5701594444,
+                    24.8337863889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Afif",
+                "desc": "Master GRI 8830 (Saudi Arabia Northern). 1000kW.<br\/>X-ray GRI 7030 (Saudi Arabia South). 1000kW.<br\/>Former Master GRI 8990 (Saudi Arabia North). 800kW.<br\/>Former X-ray GRI 7170 (Saudi Arabia South). 800kW.<br\/>Afif, Saudi Arabia."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.8550483909,
+                    23.810163103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Ash Shaykh Humayd",
+                "desc": "Yankee GRI 7030 (Saudi Arabia South). 1000kW.<br\/>Yankee GRI 8830 (Saudi Arabia North). 1000kW.<br\/>Former X-ray GRI 8990 (Saudi Arabia North). 400kW.<br\/>Ash Shaykh Humayd, Saudi Arabia."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.7612611111,
+                    28.1544444444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Al Muwassam",
+                "desc": "Zulu GRI 7030 (Saudi Arabia South). 1000kW.<br\/>Zulu GRI 8830 (Saudi Arabia North). 1000kW.<br\/>Former Zulu GRI 8990 (Saudi Arabia North). 800kW.<br\/>Former Zulu GRI 7170 (Saudi Arabia South). 800kW.<br\/>Al Muwassam, Saudi Arabia."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.8013555556,
+                    16.4322305556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Comfort Cove",
+                "desc": "Master GRI 7270 (Newfoundland East Coast). 250kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -54.861825,
+                    49.3315472222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Rongcheng",
+                "desc": "Master GRI 7430 (China North Sea). 1200kW.<br\/>Yankee GRI 8390 (China East Sea). 1200kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.323876111,
+                    37.0643791667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Xuancheng",
+                "desc": "Master GRI 8390 (China East Sea). 1200kW.<br\/>X-ray GRI 7430 (China North Sea). 1200kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.886006944,
+                    31.0688713889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Helong",
+                "desc": "Yankee GRI 7430 (China North Sea). 1200kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.107558333,
+                    42.7198777778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter V\u00e6rlandet",
+                "desc": "Yankee GRI 9007 (Ei\u00f0i). 250kW.<br\/>Yankee GRI 7499 (Sylt). 250kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.69628277778,
+                    61.2970652778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Tokachibuto",
+                "desc": "Yankee GRI 7950 (Eastern Russia Chayka). 600kW.<br\/>Yankee GRI 8930 (North West Pacific). 600kW.<br\/>Former X-ray GRI 9970 (Northwest Pacific).<br\/>Hokkaido, Japan."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.719376944,
+                    42.7436705556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Okhotsk",
+                "desc": "Zulu GRI 7950 (Eastern Russia Chayka). 10kW.<br\/>Okhotsk, Russia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.089698889,
+                    59.4172361111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Tok",
+                "desc": "Master GRI 7960 (Gulf of Alaska). 540kW.<br\/>Tok, AK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -142.808707222,
+                    63.3285788889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Narrow Cape",
+                "desc": "X-ray GRI 7960 (Gulf of Alaska Chain). 400 kW.<br\/>Zulu GRI 9990 (North Pacific). 400kW.<br\/>Kodiak, Narrow Cape, Alaska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -152.369641667,
+                    57.4389722222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Port Clarence",
+                "desc": "Zulu GRI 7960 (Gulf of Alaska). 1000kW.<br\/>Yankee GRI 9990 (North Pacific). 1000kW.<br\/>Port Clarence, AK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -166.886667,
+                    65.2445472222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Grangeville",
+                "desc": "Whiskey GRI 7980 (Southeast U.S.). 800kW.<br\/>Zulu GRI 9610 (South Central U.S.). 800kW.<br\/>Grangeville, Louisiana"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.828625,
+                    30.725875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Raymondville",
+                "desc": "X-ray  GRI 7980 (Southeast U.S.). 400kW.<br\/>Yankee GRI 9610 (South Central U.S). 400kW.<br\/>Raymondville, Texas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.8332052778,
+                    26.5319836111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Malone",
+                "desc": "Master GRI 7980 (Southeast U.S.). 800 kW.<br\/>Whiskey GRI 8970 (Great Lakes). 800 kW.<br\/>Malone, FL"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.1690972222,
+                    30.9941305556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Petrozavodsk",
+                "desc": "Whiskey GRI 8000 (Western Russia). 700kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.6945555556,
+                    61.759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Jupiter",
+                "desc": "Yankee GRI 7980 (Southeast U.S.). 400 kW.<br\/>Jupiter, Florida"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.114722,
+                    27.033056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Carolina Beach",
+                "desc": "Zulu GRI 7980 (Southeast U.S.). 800kW.<br\/>Yankee GRI 9960 (Northeast U.S.). 800kW.<br\/>Carolina Beach, NC"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.9128055556,
+                    34.0628361111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Bryansk",
+                "desc": "Master GRI 8000 (Western Russia). 650kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.9103387661,
+                    53.130630538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Slonim",
+                "desc": "X-ray GRI 8000 (Western Russia). 450kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3940083879,
+                    53.1311191782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Simferopol",
+                "desc": "Yankee GRI 8000 (Western Russia). 550kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.8732788386,
+                    44.8889384388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Syzran Karachev",
+                "desc": "Zulu GRI 8000 (Western Russia). 700kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.1148333333,
+                    53.2882222222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Havre",
+                "desc": "Master GRI 8290 (North-Central U.S.). 400kW.<br\/>Havre, MT"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -109.981558333,
+                    48.7440527778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Baudette",
+                "desc": "Whiskey GRI 8290 (North Central U.S). 800kW.<br\/>Yankee GRI 8970 (Great Lakes). 800kW.<br\/>Baudette, MN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.554975,
+                    48.613875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Gillette",
+                "desc": "X-ray GRI 8290 (North Central U.S.)<br\/>Victor GRI 9610 (South Central U.S.)<br\/>Gillette, Wyoming"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.623302778,
+                    44.0031388889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Niijima",
+                "desc": "Master GRI 8930 (North West Pacific). 1000kW.<br\/>Yankee GRI 9930 (East Asia). 1000 kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.272075,
+                    34.4033166667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Gesashi",
+                "desc": "Whiskey GRI 8930 (North West Pacific). 1000kW.<br\/>X-ray GRI 9930 (East Asia). 1000kW.<br\/>Former Yankee GRI 9970 (Northwest Pacific). 600kW.<br\/>Gesashi, Okinawa, Japan."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.149144444,
+                    26.6069555556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Minamitorishima",
+                "desc": "X-ray GRI 8930 (Northwest Pacific). 1100kW.<br\/>Former Whiskey GRI 9970 (Northwest Pacific). 1000kW.<br\/>Marcus Island, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.981179208,
+                    24.2857766808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Pohang",
+                "desc": "Master GRI 9930 (East Asia). 150kW.<br\/>Zulu GRI 8930 (North West Pacific).150kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.340955556,
+                    36.1848472222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Dana",
+                "desc": "Master GRI 8970 (Great Lakes). 400kW.<br\/>Zulu GRI 9960 (Northeast U.S.). 400kW.<br\/>Dana, IN"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.4865527778,
+                    39.8521277778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Seneca",
+                "desc": "Master GRI 9960 (Northeast U.S.). 800kW.<br\/>X-ray GRI 8970 (Great Lakes). 800kW.<br\/>Seneca, NY"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.8259188889,
+                    42.7140877778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Boise City",
+                "desc": "Master GRI 9610 (South Central U.S.). 800kW.<br\/>Zulu GRI 8970 (Great Lakes). 800kW.<br\/>Boise City, OK."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.899807281,
+                    36.505710592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Ei\u00f0i",
+                "desc": "Master GRI 9007 (Ei\u00f0i). 400 kW.<br\/>Former Master GRI 7970 (Norwegian Sea). 325kW.<br\/>Former X-ray GRI 9980 (Icelandic Sea). 325kW.<br\/>Ei\u00f0i, Denmark"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.07391111111,
+                    62.2999555556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Searchlight",
+                "desc": "Whiskey GRI 9610 (South Central U.S.). 540kW.<br\/>Yankee GRI 9940 (U.S. West Coast). 540kW.<br\/>Searchlight, NV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.804689167,
+                    35.3217513889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Las Cruces",
+                "desc": "X-ray GRI 9610 (South Central U.S.). 400 kW.<br\/>Las Cruces, NM"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.867886111,
+                    32.0717027778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Kwang Ju",
+                "desc": "Whiskey GRI 9930 (East Asia). 50 kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.540913889,
+                    35.04
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Fallon",
+                "desc": "Master GRI 9940 (U.S. West Coast). 400 kW.<br\/>Fallon, NV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.832172222,
+                    39.5518722222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Middletown",
+                "desc": "X-ray GRI 9940 (U.S. West Coast). 400kW.<br\/>Middletown, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.495548611,
+                    38.7825305556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Saint Paul",
+                "desc": "Master GRI 9990 (North Pacific). 325kW.<br\/>St Paul, AK"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -170.251734722,
+                    57.1534305556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Ar Ruqi - SHUT-DOWN",
+                "desc": "Former Whiskey GRI 8990 (Saudi Arabia North). 200kW.<br\/>Ar Ruqi, Saudi Arabia."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.6229166667,
+                    29.0179833333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Al Lith - SHUT-DOWN",
+                "desc": "Former Yankee GRI 8990 (Saudi Arabia North). 200kW.<br\/>Former Yankee GRI 7170 (Saudi Arabia South). 200kW.<br\/>Al Lith, Saudi Arabia."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.2090712074,
+                    20.2332316351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Estartit - SHUT-DOWN",
+                "desc": "Former Zulu GRI 7990 (Mediterrean Sea). 165 kW.<br\/>Estartit, Spain"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.20446388889,
+                    42.060175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Kargabarun - SHUT-DOWN",
+                "desc": "Former Yankee GRI 7990 (Mediterrean Sea). 165 kW.<br\/>Kargabarun, Turkey."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.8672416667,
+                    40.9725166667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Ussuriisk - SHUT-DOWN",
+                "desc": "X-ray GRI 7950 (Eastern Russia Chayka). 700kW.<br\/>Zulu GRI 9930 (East Asia). 700kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.639834167,
+                    44.5332505556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Taimylar - SHUT-DOWN",
+                "desc": "Very Approximate Location<br\/>Former X-ray GRI 5960 (North Russia Chayka). 1200kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.933398279,
+                    72.0725626903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Inta - SHUT-DOWN",
+                "desc": "Former Master GRI 4970 (Northwest Russia Chayka). 1200kW.<br\/>Former Zulu GRI 5960 (North Russia Chayka). 1200kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.3092971429,
+                    65.9665268411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Norilsk - SHUT-DOWN",
+                "desc": "Very Approximate Location<br\/>Former Master GRI 5960 (North Russia Chayka)."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.3492861111,
+                    69.4566805556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Pankratiev Island - SHUT-DOWN",
+                "desc": "Very Approximate Location.<br\/>Former X-ray GRI 4970 (Northwest Russia Chayka). 250kW.<br\/>Former Yankee GRI 5960 (North Russia Chayka). 250kW."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    61.5738464367,
+                    76.230406392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Kure - SHUT-DOWN",
+                "desc": "Former Yankee GRI 4990 (Central Pacific).<br\/>Kure, Midway Is"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -178.291666667,
+                    28.395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Angissoq - SHUT-DOWN",
+                "desc": "Former Whiskey GRI 9980 (Icelandic Sea). 760kW.<br\/>Former X-ray GRI 7930 (Labrador Sea). 760 kW<br\/>Angissoq, Greenland.<br\/>Shut-down on Dec 31, 1994."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -45.1741433333,
+                    59.9881522222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Johnston - SHUT-DOWN",
+                "desc": "Former Master GRI 4990 (Central Pacific)."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -169.508666667,
+                    16.7455416667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Iwo Jima - SHUT-DOWN",
+                "desc": "Former Master GRI 9970 (Northwest Pacific). 1815kW.br\/>Iwo Jima, Japan.<br\/>Shut-down in Sept 1993."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.325083333,
+                    24.801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Upolo Point - SHUT-DOWN",
+                "desc": "Former X-ray GRI 4990 (Central Pacific).<br\/>shut down on Feb 1st, 1993.<br\/>Upolo Pt, Hawaii"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -155.884515228,
+                    20.2475266072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Barrigada - SHUT-DOWN",
+                "desc": "Former Zulu GRI 9970 (Northwest Pacific). 600kW.<br\/>Barrigada, Guam<br\/>Shut-Down on July 1st, 1993."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    144.816655065,
+                    13.479085469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Yap - SHUT-DOWN",
+                "desc": "Yap, Caroline Island<br\/>Shut-down in 1987."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    138.165277778,
+                    9.54611111111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C Hellissandur - SHUT-DOWN",
+                "desc": "Former Master GRI 9980 (Icelandic Sea). 1500kW.<br\/>Former Yankee GRI 7970 (Norwegian Sea). 1500kW.<br\/>Hellissandur (also called Sandur or Gufusk\u00e1lar), Iceland.<br\/>Shut-Down on Dec 31st, 1994."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.9227083333,
+                    64.9073833333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Cambridge Bay - SHUT-DOWN",
+                "desc": "Cambridge Bay, Nunavut, Canada<br\/>Now NBD \"CB\" on 245kHz, 2000W."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.015548026,
+                    69.1146748449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Sellia Marina - SHUT-DOWN",
+                "desc": "Former Master GRI 7990 (Mediterrean Sea). 165kW.<br\/>Sellia Marina, Italy."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7185313889,
+                    38.8724186111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter Lampedusa - SHUT-DOWN",
+                "desc": "Former X-Ray GRI 7990 (Mediterranean Sea).  325 kW.<br\/>Lampedusa, Italy."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5252166667,
+                    35.522475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "LORAN-C transmitter ? - SHUT-DOWN",
+                "desc": "Very Approximate Location<br\/>Former Yankee GRI 4970 (Northwest Russia Chayka)."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.3236965793,
+                    69.1743536531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GWEN - Appleton, Washington",
+                "desc": "<p>300 Hz - 300 kW<br><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.327052693,
+                    45.7818387353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GWEN - Austin, Nevada",
+                "desc": "<p>312 Hz - 300 kW<br><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.499988133,
+                    39.5000049708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GWEN - Billings, MT",
+                "desc": "<p>313 Hz - 300 kW<br><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -107.99715142,
+                    45.9720940309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GWEN - Clark, South Dakota",
+                "desc": "<p>309 Hz - 300 kW<br><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.960825,
+                    44.9343527778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GWEN - Edinburg, North Dakota",
+                "desc": "<p>307 Hz - 300 kW<br><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.7841970768,
+                    48.5586779204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GWEN - Egg Harbor, NJ",
+                "desc": "<p>311 Hz - 300 kW<br><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.370688714,
+                    39.6036764009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GWEN - Flagstaff, AZ",
+                "desc": "<p>319 Hz - 300 kW<br><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.818584684,
+                    35.2219075621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GWEN - Goldwein, VA",
+                "desc": "<p>315 Hz - 300 kW<br><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.8808333333,
+                    38.6191666668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GWEN - Goodland, Kansas",
+                "desc": "<p>286 Hz - 300 kW<br><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.663611111,
+                    39.8275000002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GWEN - Great Falls, MT",
+                "desc": "<p>314 Hz - 300 kW<br><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.172492871,
+                    47.3034223842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GWEN - Hudson Falls, NY",
+                "desc": "<p>324 Hz - 300 kW<br><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.5380311864,
+                    43.270161228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GWEN - Kensington, SC",
+                "desc": "<p>292 Hz - 300 kW<br><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.3427555556,
+                    33.4809527778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GWEN - Kirtland AFB, NM",
+                "desc": "<p>291 Hz - 300 kW<br><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.492473031,
+                    34.9574464663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GWEN - Macon, Georgia",
+                "desc": "<p>301 Hz 300 kW<br><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.5602749294,
+                    32.6945322544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GWEN - Medora, North Dakota",
+                "desc": "<p>306 Hz 100 kW<br><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.275008162,
+                    46.9060773394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GWEN - Penobscot, Maine",
+                "desc": "<p>290 Hz - 13 kW<br><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.7708888889,
+                    44.4516944444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GWEN - Pueblo, CO",
+                "desc": "<p>325 Hz - 300 kW<br><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -104.575989549,
+                    38.8666688548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GWEN - Ronan, Montana",
+                "desc": "<p>287 Hz - 170 kW<br><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -114.118738857,
+                    47.578359326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GWEN - Savannah, GA",
+                "desc": "<p>285 Hz - 300 kW<br><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.6966359521,
+                    32.139622649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GWEN - Spokane, WA",
+                "desc": "<p>316 Hz - 300 kW<br><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.423203711,
+                    47.5192485588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GWEN - Summerfield, TX",
+                "desc": "<p>318 Hz - 300 kW<br><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.512381181,
+                    34.8243703422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "GWEN - Whitney, Nebraska",
+                "desc": "<p>310 Hz - 300 kW<br><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.000193326,
+                    42.499967098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: Negev A1F1",
+                "desc": "22.4kHz<br\/>Negev desert, Israel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0979491929,
+                    30.972335127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: VTX1",
+                "desc": "<p>South Vijayanarayanam, India<br>Multiple broadcast frequencies:<br><br>Callsign: VTX1 - 16300 Hz<br>Callsign: VTX2 - 17000 Hz<br>Callsign: VTX3 - 18200 Hz<br>Callsign: VTX4 - 19200 Hz<br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.7538158354,
+                    8.39017195436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: JXN",
+                "desc": "<p>Novik, Norway<br>Frequency: 16400 Hz<br>Callsign: JXN<br>Locator: JP66wx<br><br>VLF transmitter, which transmits on 16.4 kHz messages to submerged submarines.It has no radio tower, but uses an antenna spun between two mountains.<br><br>Transmits only 6 times a day: 00:00-00:55, 04:00-04:55, 8:00-08:55, 12:00-12:55, 16:00-16:55, 20:00-20:55 UTC.<br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8724628163,
+                    66.9823825576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: SAQ",
+                "desc": "<p>Grimeton, Sweden<br>Frequency: 17200 Hz<br>Callsign: JXN<br>Locator: JO67ec<br><br>The Grimeton VLF transmitter is a VLF transmission facility at Grimeton close to Varberg, Sweden. It has the only workable machine transmitter in the world and is classified as World Heritage Site.<br><br>The transmitter was built in 1922 to 1924; to operate at 17.2 kHz, although it is designed for frequencies around 40 kHz. The radiating element is a wire aerial hung on six 127-metre high freestanding steel pylons, that are grounded.<br><br>The Grimeton VLF transmitter location is also used for shortwave transmissions, FM and TV broadcasting. For this purpose, a 260 metre high guyed steel framework mast was built in 1966 next to the building containing the 40 kHz transmitter.<br><br>Historic station only active twice-yearly on special occasions. <a href=\"http:\/\/www.alexander.n.se\/\" target=\"_blank\">SAQ website<\/a><br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><br><br><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\" src=\"http:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/c\/c0\/Grimeton_VLF_transmitter_2004.jpg\/758px-Grimeton_VLF_transmitter_2004.jpg\" \/><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3926918319,
+                    57.1054542554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: NST",
+                "desc": "<p>Woodside, Australia (USA)<br>Frequency: 18600 Hz<br>Callsign:  NST<br>Locator: IO83nt<br><br>Former Omega Station G on 13kHz<br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.93729222,
+                    -38.480554752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: GBZ\/MSF",
+                "desc": "<p>Anthorn, UK<br>Callsign: GBZ - Frequency: 19600 Hz<br><a href=\"http:\/\/www.npl.co.uk\/time\/msf\/\" target=\"_blank\">Callsign: MSF<\/a> - Frequency: 60000 Hz at 17 kW ERP<br>Locator: IO84iv<br><br>LORAN-C (GRI 6731)<br><br>GBZ is the call sign of a British VLF transmitter on 19.6 kHz from Anthorn, Cumbria (formerly from Criggion, Powys), which is involved with transmitting encrypted signals to submarines. Although the signals of GBZ cannot be decrypted by common means, its reception - if its signal is shown in the form of spectrograms - is very interesting, because the signals of GBZ show figures looking like fishes, garlands and ornaments on the spectrograms.[1] At certain times these signals are also transmitted as strong pulses, so-called superpulses, which can oversteer the amplifier of a PC soundcard at distances of a hundred kilometres away from transmission site. Source: <a href=\"http:\/\/en.wikipedia.org\/wiki\/GBZ\" target=\"_blank\">Wikipedia<\/a><br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.27590926204,
+                    54.9115688348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: NWC",
+                "desc": "<p>North West Cape, Exmouth, Australia<br>Frequency: 19800 Hz at 2000 kW<br>Callsign: NWC<br>Locator: OG78be<br>Harold E. Holt Naval Station: 2 MW transmission - 14-28 KHz<br><br>The station features thirteen tall radio towers. The tallest tower is called Tower Zero and is 387 m (1,270 ft) tall, and was for many years the tallest man-made structure in the Southern Hemisphere. Six towers, each 304 metres tall, are evenly placed in a hexagon around Tower Zero. The other six towers, which are each 364 metres tall, are evenly placed in a larger hexagon around Tower Zero. Source: <a href=\"http:\/\/en.wikipedia.org\/wiki\/Naval_Communication_Station_Harold_E._Holt\" target=\"_blank\">Wikipedia<\/a><br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\" src=\"http:\/\/img158.imageshack.us\/img158\/2391\/exmouthsign.jpg\" \/><br><br><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\" src=\"http:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/d\/d1\/NAVELEX0101-113%2CFig3-14.png\/800px-NAVELEX0101-113%2CFig3-14.png\" \/><br><br><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\" src=\"http:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/d\/d1\/Harold_E_Holt_Naval_Base.jpg\/800px-Harold_E_Holt_Naval_Base.jpg\" \/>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.166654077,
+                    -21.8168948117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: ICV",
+                "desc": "<p>Isola di Tavolara, Italy<br>Frequency: 20270 Hz at 20 kW<br>Callsign: ICV<br>Locator: JN40uw<br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7311994914,
+                    40.9233336972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: 3SB",
+                "desc": "<p>Datong, China<br>Frequency: 20600 Hz<br>Callsign: 3SB<br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.770192518,
+                    39.4292726522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: FTA",
+                "desc": "<p>Sainte-Assise, France<br>Frequency: 20900 Hz at 400 kW<br>Callsign: JXN<br>Locator: JN18gn<br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.57944005379,
+                    48.5446184452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: 3SA",
+                "desc": "<p>Changde, China<br>Frequency: 21100 Hz<br>Callsign: 3SA<br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.670013276,
+                    25.0297039549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: NPM",
+                "desc": "<p>Pearl Harbour, Lualuahei, HI<br>Frequency: 21400 Hz at 424 kW<br>Callsign: NPM<br>Locator: BL01wk<br><br>VLF transmitter Lualualei is a facility of the United States Navy near Lualualei, Hawaii transmitting orders to submerged submarines in the very low frequency (VLF) range. VLF transmitter Lualualei, which operates under the callsign NPM on 21.4 kHz and 23.4 kHz, uses as antenna two guyed masts, each 458.11 metres (1503 feet) tall. Both masts, which were built in 1972, were not only the tallest towers in the Western hemisphere at the time, used for military purposes, they are also the tallest towers used for long wave transmissions in the Western hemisphere and since the collapse of Warsaw Radio Mast perhaps the tallest structures electrically insulated against ground. Source: <a href=\"http:\/\/en.wikipedia.org\/wiki\/Lualualei_VLF_transmitter\" target=\"_blank\">Wikipedia<\/a><br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -158.151149038,
+                    21.4200961807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: HWU",
+                "desc": "<p>Rosnay, France<br>Frequency: 18300 Hz at 400 kW<br>Frequency: 21750 Hz<br>Frequency: 22600 Hz<br>Frequency: 15100 Hz<br>Callsign: HWU<br>Locator: JN06or<br><br>HWU alternates between 18.3kHz, 21.75kHz and 22.6kHz. 15.1kHz is seldom used<br><br>HWU transmitter is a French facility for transmitting orders to submerged submarines of the French Navy. HWU transmitter works on 18.3 kHz, 20.9 kHz and 21.7 kHz. Its transmissions can be easily received in Europe when the transmitters are active by using a PC soundcard connected to a receiving coil and FFT software. Although the signals are very easy to receive, it may be impossible to decipher them without knowing the cipher and key used in the communications. Source: <a href=\"http:\/\/en.wikipedia.org\/wiki\/HWU_transmitter\" target=\"_blank\">Wikipedia<\/a><br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.24600263137,
+                    46.7128862133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: GQD",
+                "desc": "<p>Skelton, UK<br>Frequency: 22100 Hz<br>Callsign: GQD<br>Locator: IO84nr<br><br>BBC Skelton Broadcasting Station locateb bewteen Carlisle City and Penrith Town. A transmitter park used mainly for short-wave broadcasts. Many 350kW Transmitters installed in Skelton. It contains the second tallest structure in the UK, a 365m (1200ft) mast used to send coded messages to Royal Navy submarines.<br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.88307628925,
+                    54.7350901634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: NDT",
+                "desc": "<p>Ebino, Japan<br>Frequency: 22200 Hz at 200 kW<br>Callsign: NDT<br>Locator: PM52jb<br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.828100347,
+                    32.0836576634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: DHO38",
+                "desc": "<p>Rhauderfehn, Germany<br>Frequency: 23400 Hz at 800 kW<br>Callsign: DHO38<br>Locator: JO33tb<br><br>NATO Facility DHO38 is a VLF transmitter used by the German Navy near Rhauderfehn, Saterland, Germany. It is used to transmit coded orders to submarines of the German Navy and navies of other NATO countries. Source: <a href=\"http:\/\/en.wikipedia.org\/wiki\/VLF_transmitter_DHO38\" target=\"_blank\">Wikipedia<\/a><br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.61445698589,
+                    53.0795490533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: unid25",
+                "desc": "25kHz<br\/>Mokpo, South Korea<br\/>ROK Navy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.445383,
+                    34.6790682437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: Negev A1F2",
+                "desc": "26kHz<br\/>Negev desert, Israel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0979749022,
+                    30.9720984555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: Negev A1F3",
+                "desc": "29.7kHz<br\/>Negev desert, Israel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0979349277,
+                    30.9721397713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: Negev B1",
+                "desc": "44.7kHz<br\/>Negev desert, Israel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.0978051917,
+                    30.9720984037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: SRC\/SHR",
+                "desc": "38kHz<br\/>Ruda, Sweden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1539917979,
+                    57.1207774713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: NAA",
+                "desc": "<p>Cutler, Maine, USA<br>Frequency: 24000 Hz at 1800 kW<br>Callsign: NAA<br>Locator: FN64ip<br><br>Cutler Naval Station has a transmission power of 1800 kW, making it the most powerful VLF-transmitter in the world. The transmission consists of a continuous encrypted FSK (F1B) signal at 200 baud. The transmitter operates on 24.0 kHz. In the past it operated on 17.8 kHz. The callsign of the station is NAA.<br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\" src=\"http:\/\/climateviewer.org\/img\/gallery\/Cutler_VLF_antenna_array_site_plan.png\" \/><br><br><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\" src=\"http:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/ee\/Cutlervlf2.jpg\/800px-Cutlervlf2.jpg\" \/><br><br><p>1800 kW<br><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67.2750581794,
+                    44.6476555457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: NLK",
+                "desc": "<p>Oso Wash, Jim Creek, Washington, USA<br>Frequency: 24800 Hz at 1200 kW<br>Callsign: NLK<br>Locator: CN98ae<br><br>The primary mission of this radio site is to provide VLF radio transmitting capabilities for the Pacific submarine fleet. Established in the 1950s, the 1.2 million watt transmitting system developed for the site remains 'state -of-the-art' in producing low frequency emissions world-wide. In fact it is one of the most powerful transmitters in the world.[1] Located near Arlington, Washington, in the foothills of the Cascades, north of Seattle, the site has 5,000 largely forested acres.  Source: <a href=\"http:\/\/en.wikipedia.org\/wiki\/Jim_Creek_Naval_Radio_Station\" target=\"_blank\">Wikipedia<\/a><br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\" src=\"http:\/\/climateviewer.org\/img\/gallery\/Jim_Creek_VLF_antenna.png\" \/><br><br>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.916792226,
+                    48.2037152079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: NLM",
+                "desc": "<p>LaMoure, North Dakota, USA<br>Frequency: 25200 Hz at 200 kW<br>Callsign: NLM<br>Locator: EN06ti<br><br><a href=\"http:\/\/www.nctamslant.navy.mil\/\" target=\"_blank\">NCTAMS LANT<\/a> detachment Lamoure<br><br><b>Former <a href=\"http:\/\/www.globalsecurity.org\/military\/facility\/lamoure.htm\" target=\"_blank\">Omega Station D<\/a> on 13.1kHz<\/b><br><br>Off-air on Tuesdays from 12:00 to 19:00 UTC.<br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.3338962686,
+                    46.3658972939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: TBB",
+                "desc": "<p>Bafa, Turkey<br>Frequency: 26700 Hz at 225 kW<br>Callsign: TBB<br>Locator: KM37pj<br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.3233738263,
+                    37.4128719413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME LF: NRK\/TFK",
+                "desc": "<p>Grindavik, Iceland (USA)<br>Frequency: 37500 Hz<br>Callsign: NRK\/TFK<br>Locator: HP83su<br><br>NRTF Grindavik had two LF towers (800' and 600' high), the highest structures in Iceland at the time. Both of these towers have since been replaced. In 1983, the 600' tower was replaced with one of the same height and Helix house components were replaced with material from the closed down LF site in Londonderry, Ireland. 10 years later the 800' tower was replaced with a 1000' high structure broadbanded like the other one, and a 2500 SF Helix House. Source: <a href=\"http:\/\/www.globalsecurity.org\/military\/facility\/grindavik.htm\" target=\"_blank\">Global Security<\/a><br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.4583978741,
+                    63.8505857155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME LF: JJY-40",
+                "desc": "<p>Mount Ootakadoya, Fukushima prefecture, Japan<br>Frequency: 40000 Hz at 50kW\/12.5kW ERP<br>Callsign: NDT<br>Locator: QM07ki<br><br>Transmission is stopped since 10h46 UT on March 12, 2011 because of the evacuation of the area around the Fukushima Nuclear Power Station damaged by the March 11, 2011 earthquake and tsunami <a href=\"http:\/\/jjy.nict.go.jp\/jjy\/index-e.html\" target=\"_blank\">JJY-40 website<\/a><br><br><a href=\"http:\/\/jjy.nict.go.jp\/LFstation\/otakado\/index-e.htm\" target=\"_blank\">Time signal transmitter<\/a><br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.848299156,
+                    37.3726854682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME LF: NAU",
+                "desc": "<p>Aguada, Puerto Rico (USA)<br>Frequency: 40800 Hz at 250 kW<br>Callsign: NAU<br>Locator: FK68jj<br><br>The Naval Radio Transmitter Facility Aguada, Puerto Rico, apparently consists of three locations: the primary 330 acre site in Aguada County; the Naval Radio Receiever at a 242 acre site in Salinas County; and the Naval Radio Transmitter at a 408 acre site in Isabela County. Source: <a href=\"http:\/\/www.globalsecurity.org\/military\/facility\/aguada.htm\" target=\"_blank\">Global Security<\/a><br><br><a href=\"http:\/\/www.navy-radio.com\/commsta\/puerto-rico.htm\" target=\"_blank\">Photos<\/a><br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -67.1771613867,
+                    18.3998693289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME LF: NSY",
+                "desc": "<p>Niscemi, Italy<br>Frequency: 45900 Hz at 250 kW<br>Callsign: NSY<br>Locator: JM77fd<br><br>The mission is to provide HF and LF transmitter support to Naval Computer and Telecommunications Station, Sicily in support of European and Mediterranean theater commanders. Source: <a href=\"http:\/\/www.globalsecurity.org\/military\/facility\/niscemi.htm\" target=\"_blank\">Global Security<\/a><br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4372457119,
+                    37.1257103155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME LF: NSC",
+                "desc": "<p>Sicily, Italy (USA)<br>Frequency: 45900 Hz<br>Callsign: NSC<br>Location uncertain: <a href=\"http:\/\/solar-center.stanford.edu\/SID\/docs\/VLF-stations.pdf\" target=\"_blank\">38N   13.5E<\/a><br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4352977386,
+                    37.1256965231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME LF: CFH",
+                "desc": "<p>Windsor, Nova Scotia, Canada<br>Frequency: 73.6kHz<br>Callsign: CFH?<br><a href=\"http:\/\/en.wikipedia.org\/wiki\/NRS_Newport_Corner\" target=\"_blank\">Wikipedia<\/a><br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -63.9821602336,
+                    44.9672756181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME LF: SXA",
+                "desc": "<p>Marathon, Greece<br>Frequency: 49000 Hz<br>Callsign: SXA<br>Locator: KM28ad<br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0214526304,
+                    38.1471061105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME LF: GYW1",
+                "desc": "<p>Crimond, UK<br>Frequency: 51950 Hz<br>Callsign: GYW1<br>Locator: IO97bo<br><br>Frequency: 82.75kHz<br>Callsign: MKL<br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.88438449392,
+                    57.6121128474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME LF: WWWB",
+                "desc": "<p>Fort Collins, Colorado, USA<br>Frequency: 60000 Hz at 65 kW<br>Callsign: WWWB<br>Locator: DN70lq<br><br><a href=\"http:\/\/tf.nist.gov\/timefreq\/stations\/wwvb.htm\" target=\"_blank\">Time Signal<\/a><br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -105.045264443,
+                    40.6790203022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME LF: JJY-60",
+                "desc": "<p>Mount Hagane, Fukuoka prefecture, Japan<br>Frequency: 60000 Hz at 50 kW\/22.5 kW ERP <br>Callsign: JJY-60<br>Locator: PM53cl<br><br><a href=\"http:\/\/jjy.nict.go.jp\/jjy\/index-e.html\" target=\"_blank\">Time Signal<\/a><br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.175649329,
+                    33.4657338453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME LF: FUG",
+                "desc": "<p>La R\u00e9gine, France<br>Frequency: 62600 Hz<br>Callsign: FUG<br>Locator: JN13bj<br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.09857430606,
+                    43.3864386639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME LF: FUE",
+                "desc": "<p>Kerlouan, France<br>Frequency: 65800 Hz<br>Callsign: FUE<br>Locator: IN78tp<br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.34905483368,
+                    48.6379796821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME LF: BPC",
+                "desc": "<p>Lintong, Shaanxi, China<br>Frequency: 68500 Hz at 20 kW ERP<br>Callsign: BPC<br>Locator: OM44sw<br><br><a href=\"http:\/\/english.ntsc.cas.cn\/rs\/fs\/200909\/t20090917_39104.html\" target=\"_blank\">Time Signal<\/a> Active 0800-1200, 2200-2330 UTC. Time-shared with BPL 100kHz<br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.543115892,
+                    34.9485005772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME LF: DCF77",
+                "desc": "<p>Mainflingen, Germany<br>Frequency: 77500 Hz at 30 kW ERP<br>Callsign: DCF77<br>Locator: JO40ma<br><br><a href=\"http:\/\/www.ptb.de\/en\/org\/4\/44\/442\/dcf77_1_e.htm\" target=\"_blank\">Time Signal<\/a><br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.00878067783,
+                    50.0175293263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME LF: GYN2",
+                "desc": "<p>Inskip, UK<br>Frequency: 81000 Hz<br>Callsign: GYN2<br>Locator: IO83nt<br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.8361436766,
+                    53.8287260115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME LF: CKN",
+                "desc": "Matsqui Transmitting Site, Abbotsford, British Columbia, Canada<br>Frequency: 76.2kHz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.244645336,
+                    49.1104889722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME LF: TBG",
+                "desc": "Canakkale, Turkey<br>Frequency: 53.4kHz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.4100267579,
+                    40.171372676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: RA1",
+                "desc": "<p>Novosibirsk, Russia<br>Frequency: <a href=\"http:\/\/www.vlf.it\/alphatrond\/alpha.htm\" target=\"_blank\">Multiple<\/a> at 500 kW<br>Callsign: RA3<br><br><b>Alpha RSDN-20<\/b><br>Operates on the frequencies: 11904.76190, 12648.80952, 14880.95238, 14881.09127, 12090.77381, 12044.27083 Hz.<br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><br><br><a href=\"http:\/\/static.panoramio.com\/photos\/original\/23892185.jpg\" target=\"_blank\"><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\" src=\"http:\/\/mw2.google.com\/mw-panoramio\/photos\/medium\/23892185.jpg\" \/><\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.631477472,
+                    55.6759220689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: RA2\/RJH63",
+                "desc": "<p>Martanskaya, Krasnodar, Russia<br>Frequency: <a href=\"http:\/\/www.vlf.it\/alphatrond\/alpha.htm\" target=\"_blank\">Multiple<\/a> at 500 kW<br>Callsign: RA2<br><br><b>Alpha RSDN-20<\/b><br>Operates on the frequencies: 11904.76190, 12648.80952, 14880.95238, 14881.09127, 12090.77381, 12044.27083 Hz.<br><br><b>BETA Time Signal RJH63<\/b><br>Operates on the frequencies: 20.50, 23.00, 25.00, 25.10, and 25.50 kHz.<br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p><p>500kW<br><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.1585441784,
+                    45.403921976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: RA3",
+                "desc": "<p>Elban, Khabarovsk, Russia<br>Frequency: <a href=\"http:\/\/www.vlf.it\/alphatrond\/alpha.htm\" target=\"_blank\">Multiple<\/a> at 500 kW<br>Callsign: RA3<br><br><b>Alpha RSDN-20<\/b><br>Operates on the frequencies: 11904.76190, 12648.80952, 14880.95238, 14881.09127, 12090.77381, 12044.27083 Hz.<br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.611498105,
+                    50.0726022214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: RA4",
+                "desc": "<p>Revda, Murmansk, Russia<br>Frequency: <a href=\"http:\/\/www.vlf.it\/alphatrond\/alpha.htm\" target=\"_blank\">Multiple<\/a> at 500 kW (assumed, not in AWESOME documentation)<br>Callsign: RA4 (assumed, not in AWESOME documentation)<br><br><b>Alpha RSDN-20<\/b><br>Operates on the frequencies: 11904.76190, 12648.80952, 14880.95238, 14881.09127, 12090.77381, 12044.27083 Hz.<br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><br><br><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\" src=\"http:\/\/photos.wikimapia.org\/p\/00\/00\/47\/01\/65_big.jpg\"><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.6807980413,
+                    68.0369046615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: RA5",
+                "desc": "<p>Seydi, Lebap, Turkmenistan<br>Frequency: <a href=\"http:\/\/www.vlf.it\/alphatrond\/alpha.htm\" target=\"_blank\">Multiple<\/a> at 500 kW (assumed, not in AWESOME documentation)<br>Callsign: RA4 (assumed, not in AWESOME documentation)<br><br><b>Alpha RSDN-20<\/b><br>Operates on the frequencies: 11904.76190, 12648.80952, 14880.95238, 14881.09127, 12090.77381, 12044.27083 Hz.<br><br><a href=\"http:\/\/nova.stanford.edu\/~vlf\/IHY_Test\/pmwiki\/pmwiki.php\" target=\"_blank\">AWESOME Network<\/a><br><a href=\"http:\/\/sidstation.loudet.org\/stations-list-en.xhtml\" target=\"_blank\">AWESOME VLF Transmitters<\/a><br><a href=\"http:\/\/vlf.stanford.edu\/\" target=\"_blank\">Stanford VLF Group<\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    62.7208983689,
+                    39.469865507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: RJH69",
+                "desc": "Beta - Viljejka - Molodechno (RJH69)<p><a href=\"http:\/\/static.panoramio.com\/photos\/original\/2245891.jpg\" title=\"Untitled - 1000 x 1333 pixels\" target=\"_blank\">        <img style=\"max-width:100%\" alt=\"ClimateViewer 3D\" src=\"http:\/\/mw2.google.com\/mw-panoramio\/photos\/medium\/2245891.jpg\" \/>      <\/a>The \"Vileyka\" VLF transmitter is the site of the 43rd Communications Center of the Russian Navy (Russian: 43-\u0439 \u0443\u0437\u0435\u043b \u0441\u0432\u044f\u0437\u0438 \u0412\u041c\u0424 \u0420\u043e\u0441\u0441\u0438\u0438), situated west of the town of Vileyka in Belarus (54\u00b027\u203249\u2033N 26\u00b046\u203244\u2033ECoordinates: 54\u00b027\u203249\u2033N 26\u00b046\u203244\u2033E). The \"Vileyka\" VLF transmitter is an important facility for transmitting orders to submarines in the very low frequency range. Beside this, it is used for transmitting the time signal RJH69 at certain times.<br><br>As the former Goliath transmitter of the German Navy in World War II, the antenna system of the \"Vileyka\" VLF transmitter consists of 3 antenna systems with a central mast insulated against ground from which antenna wires run to 6 grounded ring masts, where they are fixed by insulators. As at former Goliath transmitter, 3 ring masts carry two antenna systems, so there are only 15 ring masts on the site. A further common ground to former Goliath transmitter is, that the ring masts of the Goliath transmitter are masts of lattice steel with triangular cross section, while the central masts are steel tube masts.<br><br>The ring masts of the \"Vileyka\" VLF transmitter are 270 metres and the central masts of VLF transmitter are 305 metres tall. Their height surpasses therefore the height of the masts of former Goliath transmitter nearly exactly of 100 metres.<br><br>http:\/\/en.wikipedia.org\/wiki\/Vileyka_VLF_transmitter<\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7780264683,
+                    54.4633486986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: RJH99",
+                "desc": "Beta - Nizhniy Novgorod (RJH99)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.9348019976,
+                    56.1712827649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: RJH66",
+                "desc": "Beta - Bishkek (RJH66)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.6145309636,
+                    43.0354710072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: RJH77",
+                "desc": "Beta - Arkhangelsk (RJH77)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.5659058607,
+                    64.3583302579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AWESOME VLF: RAB99",
+                "desc": "Beta - Khabarovsk (RAB99)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.819932328,
+                    48.4869682971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "US Navy ELF Transmitter 76Hz",
+                "desc": "<p>Clam Lake, Wisconsin, USA<\/a><br>Frequency: 76 Hz at 3 MW (3,000 kW)<br><br>The U.S. Navy operates two extremely low frequency radio transmitters to communicate with its deep diving submarines. The sites at Clam Lake, Wisconsin and Republic, Michigan are operated by the Naval Computer and Telecommunications Area Master Station \u2013 Atlantic. The Clam Lake site, located in the Chequamegon National Forest in Northern Wisconsin, is the site where testing began for ELF communications more than 30 years ago. The site has more than 28 miles of over-head signal transmission line thatform part of the \u201celectrical\u201d antenna to radiate the ELF signal from the two-acre transmitting facility.<br><br>The Clam Lake ELF radio station broadcasts messages to the fleet as required by the Navy Submarine Broadcast Control Authority in Norfolk, Virginia or Pearl Harbor, Hawaii. For the U.S. submarine fleet to perform its mission, it must remain silent and be undetectable. The Navy\u2019s ELF communications system is the only operational communications system that can penetrate seawater to great depths and is virtually jam proof from both natural and man-made interference.  Source: <a href=\"http:\/\/www.fas.org\/nuke\/guide\/usa\/c3i\/fs_clam_lake_elf2003.pdf\" target=\"_blank\">fas.org<\/a><br><br>also read:<br><a href=\"http:\/\/www.dtic.mil\/cgi-bin\/GetTRDoc?AD=ADA286878&Location=U2&doc=GetTRDoc.pdf\" target=\"_blank\">ELF Communications System Ecological Monitoring Program: Final Summary Report<\/a><br><a href=\"http:\/\/www.fas.org\/man\/dod-101\/navy\/docs\/scmp\/part07.htm\" target=\"_blank\">Extremely Low Frequency Transmitter Site<\/a><br><br>ELF Cables<br><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\" src=\"http:\/\/climateviewer.org\/img\/gallery\/USN-ELF-Clam-Lake-Wisconsin.jpg\" \/><br><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.9160956821,
+                    46.0851192206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "US Navy ELF Transmitter 76Hz",
+                "desc": "<p>Republic, Michigan, USA<br>Second part of two part transmitter<br><br>The U.S. Navy operates two extremely low frequency radio transmitters to communicate with its deep diving submarines. The sites at Clam Lake, Wisconsin and Republic, Michigan are operated by the Naval Computer and Telecommunications Area Master Station \u2013 Atlantic. The Clam Lake site, located in the Chequamegon National Forest in Northern Wisconsin, is the site where testing began for ELF communications more than 30 years ago. The site has more than 28 miles of over-head signal transmission line thatform part of the \u201celectrical\u201d antenna to radiate the ELF signal from the two-acre transmitting facility.<br><br>The Clam Lake ELF radio station broadcasts messages to the fleet as required by the Navy Submarine Broadcast Control Authority in Norfolk, Virginia or Pearl Harbor, Hawaii. For the U.S. submarine fleet to perform its mission, it must remain silent and be undetectable. The Navy\u2019s ELF communications system is the only operational communications system that can penetrate seawater to great depths and is virtually jam proof from both natural and man-made interference.  Source: <a href=\"http:\/\/www.fas.org\/nuke\/guide\/usa\/c3i\/fs_clam_lake_elf2003.pdf\" target=\"_blank\">fas.org<\/a><br><br>also read:<br><a href=\"http:\/\/www.dtic.mil\/cgi-bin\/GetTRDoc?AD=ADA286878&Location=U2&doc=GetTRDoc.pdf\" target=\"_blank\">ELF Communications System Ecological Monitoring Program: Final Summary Report<\/a><br><a href=\"http:\/\/www.fas.org\/man\/dod-101\/navy\/docs\/scmp\/part07.htm\" target=\"_blank\">Extremely Low Frequency Transmitter Site<\/a><br><br>ELF Cables<br><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\" src=\"http:\/\/climateviewer.org\/img\/gallery\/USN-ELF-Clam-Lake-Wisconsin.jpg\" \/><br><br><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.85012707,
+                    46.2574989542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zevs - ELF 82Hz",
+                "desc": "<p>Arkhangel'skoye, Tula Oblast, Russia<br>Zevs, 82 Hz transmitter<br><br>Calculations performed on data collected back in 1990, also show us that the 82 Hz Zevs ELF transmitter is 10 dB more powerful then the US Navy 76 Hz ELF transmissions from the dual WMT\/MTF sites. Source: <a href=\"http:\/\/www.vlf.it\/zevs\/zevs.htm\" target=\"_blank\">VLF.it<\/a><br><br><a href=\"http:\/\/www.panoramio.com\/31958154\" target=\"_blank\"><img style=\"max-width:100%\" alt=\"ClimateViewer 3D\" src=\"http:\/\/climateviewer.org\/img\/gallery\/zevs-82hz-ELF.jpg\" \/><\/a><\/p>"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0722190487,
+                    68.867410161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zevs",
+                "desc": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0735692646,
+                    68.867207454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Japan - ???",
+                "desc": "JJH?<br\/>Approximate Location<br\/>Kure, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.574225438,
+                    34.2331091445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "USA - ???",
+                "desc": "San Fransisco, California, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.288131796,
+                    38.1073078727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Japan - Yosami",
+                "desc": "JJH?<br\/>Historic Site. Last transmission 1993.<br\/>Antennas dismantled in 1995.<br\/>Kariya, Japan<br\/>http:\/\/yosami-radio-ts.sakura.ne.jp\/english\/contents\/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.017153624,
+                    34.9715061642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "USA - ???",
+                "desc": "San Fransisco, California, USA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.288131796,
+                    38.1073078727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Panama - ???",
+                "desc": "NBA?<br\/>Balboa, Panama"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.65,
+                    9.06666666667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "France - ???",
+                "desc": "Souge Military Camp<br\/>Martignas-sur-Jalle, France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.796524804922,
+                    44.8630071201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Germany - Kalbe - Goliath Transmitter",
+                "desc": "Former 1MW VLF transmitter<br\/>Facilities dismantled by Russia in 1946<br\/>Kalbe, Germany"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4254165724,
+                    52.6641599373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sweden, Karlsborg",
+                "desc": "Karlsborg, Sweden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4727277778,
+                    58.4868888889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sweden, Sala",
+                "desc": "Sala, Sweden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6498583333,
+                    59.9118722222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sweden, Kristinehamn",
+                "desc": "Kristinehamn, Sweden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0021888889,
+                    59.3585472222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sweden, Tierp",
+                "desc": "Tierp, Sweden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0121444444,
+                    60.5243166667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "NTS",
+                "desc": "Former Omega Station G on 13kHz<br\/>Former VL3DEF station on 13kHz till 2004<br\/>Former station on 18.6 kHz till End 2008<br\/>Woodside, Victoria, Australia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.934758978,
+                    -38.4808766867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SAQ",
+                "desc": "17.2kHz<br\/>Grimeton, Sweden<br\/>http:\/\/www.alexander.n.se\/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.397277425,
+                    57.1131713701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rugby, UK",
+                "desc": "Former location of GBR (16kHz) and MSF (60kHz)<br\/>Rugby, UK<br\/>http:\/\/tx.mb21.co.uk\/features\/rugby\/index.shtml"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.18894511269,
+                    52.3664612508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Criggion, UK",
+                "desc": "Formerly GBZ on 19.6kHz<br\/>Shutdown on April 1, 2003<br\/>Criggion, UK<br\/>http:\/\/tx.mb21.co.uk\/features\/criggion\/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.06279969018,
+                    52.7226317812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "San Diego, CA",
+                "desc": "Dismantled in 1992<br\/>Formerly NPL<br\/>Chollas Heights, San Diego, California, USA<br\/>http:\/\/www.globalsecurity.org\/military\/facility\/chollas-heights.htm"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.064858049,
+                    32.7326244546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Annapolis, MD",
+                "desc": "16 out of 19 towers dismantled in 1999.Formerly on NSS 21.400kHz<br\/>Annapolis, MD<br\/>http:\/\/www.globalsecurity.org\/military\/facility\/greenbury-point.htm"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.454300593,
+                    38.9777017247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Croix d'Hins",
+                "desc": "Historic Site Bordeaux-Lafayette<br\/>Croix d'Hins VLF radiotelegraphic station<br\/>1920-1923: LY (spark transmitter on 23450 meters), 1000kW<br\/>Destroyed in 1944<br\/>Croix D'Hins, France"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.814307867001,
+                    44.7087407494
+                ]
+            }
+        }
+    ]
+}

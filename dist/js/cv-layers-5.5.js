@@ -91,7 +91,8 @@ var layers = {
                     G: "http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
                     S: "United States Geological Society (USGS) Earthquake Hazards Program",
                     U: "http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php",
-                    N: "USGS - All Earthquakes (Today)"
+                    N: "USGS - All Earthquakes (Today)",
+                    Y: true
                 },
                 //{ I: "usgs-big-7day", T: 'geojson', ML: "usgs-eq", MI: "/img/icons/earthquakes.png", G: "http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_week.geojson", S: "United States Geological Society (USGS) Earthquake Hazards Program", U: "http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php", N: "USGS - Significant Earthquakes (Last Week)"},
                 {
@@ -122,7 +123,8 @@ var layers = {
                     G: "http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson",
                     S: "United States Geological Society (USGS) Earthquake Hazards Program",
                     U: "http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php",
-                    N: "USGS - All Earthquakes (Last Week)"
+                    N: "USGS - All Earthquakes (Last Week)",
+                    Y: true
                 },
                 //{ I: "usgs-big-30day", T: 'geojson', ML: "usgs-eq", MI: "/img/icons/earthquakes.png", G: "http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson", S: "United States Geological Society (USGS) Earthquake Hazards Program", U: "http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php", N: "USGS - Significant Earthquakes (Last Month)"},
                 {
@@ -153,7 +155,8 @@ var layers = {
                     G: "http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson",
                     S: "United States Geological Society (USGS) Earthquake Hazards Program",
                     U: "http://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php",
-                    N: "USGS - All Earthquakes (Last Month)"
+                    N: "USGS - All Earthquakes (Last Month)",
+                    Y: true
                 },
                 {
                     I: "EarthquakesNT",
@@ -1510,7 +1513,8 @@ var layers = {
                     MI: "/img/icons/nuke-boom.png",
                     S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.<br>Based on the work of <a href='https://productforums.google.com/d/msg/gec-history-illustrated-moderated/DncXs6kPWXM/uM26F3CDq18J'>Wm. Robert Johnston and Lyle McElhaney</a>.",
                     U: "http://climateviewer.com/nuclear-reactor-map/",
-                    N: "Nuclear Test Explosions"
+                    N: "Nuclear Test Explosions",
+                    Y: true,
                 },
                 {
                     I: "radioactive-topten",
@@ -1970,7 +1974,7 @@ var layers = {
             {
                 I: "star-wars",
                 T: 'geojson',
-                G: "/layers/geojson/star-wars-radar-cv3d-v2.geojson",
+                G: "/layers/geojson/star-wars-radar-cv3d-v3.geojson",
                 MI: '/img/icons/radar-black.png',
                 S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.",
                 U: "http://climateviewer.com/haarp/",
@@ -1979,7 +1983,7 @@ var layers = {
             {
                 I: "sky-heaters",
                 T: 'geojson',
-                G: "/layers/geojson/ionospheric-heaters-cv3d-v2.geojson",
+                G: "/layers/geojson/ionospheric-heaters-cv3d-v3.geojson",
                 MI: '/img/icons/radar-red.png',
                 S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.",
                 U: "http://climateviewer.com/haarp/",
@@ -2016,11 +2020,11 @@ var layers = {
             {
                 I: "elf-vlf",
                 T: 'geojson',
-                G: "/layers/geojson/elf-vlf-cv3d-v2.geojson",
+                G: "/layers/geojson/elf-vlf-cv3d-v3.geojson",
                 MI: "/img/icons/rf-warning.png",
                 S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.<br>Alpha RSDN-20, Beta Time Signal, LORAN-C, AWESOME VLF Network, Ground Wave Emergency Network (GWEN), and ELF transmission facilities.",
                 U: "http://climateviewer.com/haarp/",
-                N: "ELF and VLF Transmitters"
+                N: "ELF and VLF Transmitters",
             },
             {
                 I: "elf-vlf-ref",
@@ -2155,7 +2159,8 @@ var layers = {
                 MI: "/img/icons/radar-dish.png",
                 S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.",
                 U: "http://climateviewer.com/rezn8d/",
-                N: "Other Radars, Observatories, Telescope Arrays, Satellite Comm (OVERLAY)"
+                N: "Other Radars, Observatories, Telescope Arrays, Satellite Comm (OVERLAY)",
+                Y: true,
             },
             {
                 H: true,
@@ -4129,6 +4134,30 @@ var layers = {
     basemaps: {
         N: "Base Layer",
         '>': [
+            {
+                I: "bl-dark-matter",
+                T: 'cartodb-layer',
+                G: "http://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png",
+                S: "Map tiles by CartoDB, under CC BY 3.0. Data by OpenStreetMap, under ODbL.",
+                U: "https://cartodb.com/basemaps/",
+                N: "Dark Matter"
+            },
+            {
+                I: "bl-dark-matter-nl",
+                T: 'cartodb-layer',
+                G: "http://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}.png",
+                S: "Map tiles by CartoDB, under CC BY 3.0. Data by OpenStreetMap, under ODbL.",
+                U: "https://cartodb.com/basemaps/",
+                N: "Dark Matter (No Labels)"
+            },
+            {
+                I: "bl-dark-matter-ol",
+                T: 'cartodb-layer',
+                G: "http://{s}.basemaps.cartocdn.com/dark_only_labels/{z}/{x}/{y}.png",
+                S: "Map tiles by CartoDB, under CC BY 3.0. Data by OpenStreetMap, under ODbL.",
+                U: "https://cartodb.com/basemaps/",
+                N: "Dark Matter (Only Labels)"
+            },
             {
                 I: "Bing_AERIAL_WITH_LABELS",
                 T: 'bing',
