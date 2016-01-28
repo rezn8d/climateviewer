@@ -3,7 +3,7 @@
 // Set web root url
 var homeURL = window.location.protocol + "//" + window.location.host + "/3D/";  // production
 var shareURL = "http://climateviewer.org/3D/";  // production
-var proxyURL = 'http://climateviewer.org/netj1/proxy';  // production
+var proxyURL = 'http://climateviewer.org/proxy/proxy';  // production
 
 var activeLayers = {};
 var infoBox = $('.cesium-infoBox');
@@ -281,9 +281,13 @@ function newMarkerLabel(entity, markerLabel) {
     return label;
 }
 
-function modMarkers(geoData, markerImg, markerScale, markerLabel) {
-  var entities = geoData.entities.values; // entities = all points
-  for (var i = 0; i < entities.length; i++) {
+function modMarkers(layerId, geoData, markerImg, markerScale, markerLabel) {
+    var layerTarget = $('#' + layerId + ' div.lb');
+    var markerList = $('<div class="details ' + layerId + '-list marker-list" />').insertAfter(layerTarget);
+    var items = [];
+
+    var entities = geoData.entities.values; // entities = all points
+    for (var i = 0; i < entities.length; i++) {
       var entity = entities[i]; // entities = single point
       // console.log(entity);
       // create marker image
@@ -346,13 +350,30 @@ function modMarkers(geoData, markerImg, markerScale, markerLabel) {
       billboard.alignedAxis = Cesium.Cartesian3.ZERO;
       billboard.scaleByDistance = defaultScaleByDistance;
       entity.billboard = billboard;
+      console.log(entity.position);
 
+      items.push('<li id="' + entity.id + '">' + entity.title + '</li>');
 
+        /*
+         var cartographic = Cesium.Cartographic.fromCartesian(entity.position, Ellipsoid.WGS84);
+         var longitudeString = Cesium.Math.toDegrees(cartographic.longitude).toFixed(2);
+         var latitudeString = Cesium.Math.toDegrees(cartographic.latitude).toFixed(2);
+
+        .click(function () {
+         viewer.camera.flyTo({
+         destination: Cesium.Cartesian3.fromDegrees(entity.position)
+         });
+         }) */
       // marker label
       if (markerLabel) {
           entity.label = newMarkerLabel(entity, markerLabel);
       }
-  } // end for loop
+    } // end for loop
+    $('<o1/>', {
+        'class':'msrkers',
+        html:items.join('')
+    }).appendTo(markerList);
+
 }
 
 function loadArcGisLayer(layerId, geoDataSrc, geoLayers, noFeatures, width, height) {
@@ -401,7 +422,7 @@ function loadArcGisLayer(layerId, geoDataSrc, geoLayers, noFeatures, width, heig
 function loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, zoom) {
      console.log('load geojson');
     new Cesium.GeoJsonDataSource.load(geoDataSrc).then(function (geoData) {
-        modMarkers(geoData, markerImg, markerScale, markerLabel);
+        modMarkers(layerId, geoData, markerImg, markerScale, markerLabel);
         viewer.dataSources.add(geoData);
         activeLayers[layerId] = geoData;
         // TODO loadMarkerSliders(geoData, layerId);
@@ -488,7 +509,9 @@ function disableLayer(l) {
         delete activeLayers[layerId];
         viewer.dataSources.remove(src);
     }
-
+    if (mlt === ("geojson")) {
+        $('.' + layerId + '-list').remove();
+    }
     delete layerEnabled[layerId];
 }
 

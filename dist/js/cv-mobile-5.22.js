@@ -103,7 +103,7 @@ resize();
 // Set web root url
 var homeURL = window.location.protocol + "//" + window.location.host + "/mobile/";
 var shareURL = "http://climateviewer.org/mobile/";  // production
-var proxyURL = 'http://climateviewer.org/netj1/proxy';  // production
+var proxyURL = 'http://climateviewer.org/proxy/proxy';  // production
 
 var activeLayers = {};
 var layerEnabled = {}; // whether the label is in some way enabled
