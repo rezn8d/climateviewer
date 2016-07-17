@@ -260,7 +260,7 @@ div.map-layers .folder h2.toggle i {
 div.map-layers .folder h2.toggle.active i {
     color: #1982D1;
 }
-.control-sidebar .sun-control, .control-sidebar .toggle-timeline {
+aside.control-sidebar li.sun-control, aside.control-sidebar li.toggle-timeline {
     display:none;
 }
 div.lbw {
@@ -332,14 +332,15 @@ div.lb i.new-layer, #control-sidebar-about-tab i.new-layer {
 }
 div.logo {
     position: absolute;
+    width: 300px;
     bottom: 50px;
     left: 50%;
-    margin-left: -105px;
+    margin-left: -150px;
     pointer-events: none;
     z-index: 420;
 }
 div.logo img {
-    width: 300px;
+    width: 100%;
 }
 
 div.layer-details  div.details {
@@ -1024,9 +1025,14 @@ div.leaflet-control-attribution.leaflet-control {
         margin: 0;
         border-left: 1px solid #777;
     }
+
 }
 
 @media (max-width:450px) {
+    div.logo {
+        width: 200px;
+        margin-left: -100px;
+    }
 
     .control-sidebar .sun-control, .control-sidebar .toggle-timeline {
         display:block;
