@@ -8,22 +8,39 @@ nobjectsIn(layers, function (x) {
 }, function (s, p, o) {
     me.addEdge(s, p, o);
 });
+
+function initDetails(layerId, layerType, details, source, sourceUrl, geoDataSrc) {
+    var list = $('<div class="details ' + layerId + '-content" />').appendTo(details);
+        $('<div class="header"><i class="fa fa-fw fa-info-circle"></i> Layer Details</div><span>' + source + ' &bull; <a href="' + sourceUrl + '" target="_blank" rel="nofollow">More Info</a></span>').appendTo(list);
+    if (layerType == ('kml')) {
+        $('<div class="header"><i class="fa fa-fw fa-download"></i> Data Source</div><span>Keyhole Markup Language (KML) &bull; <a href="' + geoDataSrc + '">Download</a></span>').appendTo(list);
+    }
+    if (layerType == ('geojson')) {
+        $('<div class="header"><i class="fa fa-fw fa-download"></i> Data Source</div><span>GeoJSON &bull; <a href="' + geoDataSrc + '">Download</a></span>').appendTo(list);
+    }
+    if (layerType == ('nasa-gibs')) {
+        $('<div class="header"><i class="fa fa-fw fa-file-o"></i> Data Source</div><span>Web Map Tile Service (WMTS)</span>').appendTo(list);
+    }
+    if (layerType == ('wms')) {
+        $('<div class="header"><i class="fa fa-fw fa-file-o"></i> Data Source</div><span>Web Mapping Service (WMS)<br><a target="_blank" rel="nofollow" href="' + geoDataSrc + '?request=GetCapabilities&service=WMS">Get Capabilities</a></span>').appendTo(list);
+    }
+    if (layerType == ('base-layer')) {
+        $('<div class="header"><i class="fa fa-fw fa-file-o"></i> Data Source</div><span>OpenStreetMap (OSM) Base Map</span>').appendTo(list);
+    }
+    if (layerType == ('arcgis') || layerType == ('arcgis-layer')) {
+        $('<div class="header"><i class="fa fa-fw fa-file-o"></i> Data Source</div><span>ArcGIS MapServer<br><a target="_blank" rel="nofollow" href="' + geoDataSrc + '/legend">Map Legend</a> &bull; <a target="_blank" rel="nofollow" href="' + geoDataSrc + '">MapServer Information</a></span>>').appendTo(list);
+    }
+    $('<div class="header"><i class="fa fa-share-square-o fa-fw"></i> Share This Layer</div><span>Use this url to share this layer: <a href="' + homeURL + 'index.html?layersOn=' + layerId + '" target="_self">Share Link</a><span><div class="header"><i class="fa fa-exclamation-triangle fa-fw"></i> Report Error</div><span>If you are experiencing problems loading this layer, or you would like to suggest corrections, comments, or concerns, please email me using this link: <a href="mailto:jim@climateviewer.com?subject=Climate Viewer broken link - ' + layerId + '&amp;body=Unfortunately this ( ' + geoDataSrc + ' ) URL is not working properly, please look into it. Sent from http://climateviewer.com/3D/" target="_self">Report Error</a></span>').appendTo(list);
+
+}
+
 function newFolderLabel(l, child, ic) {
     if (ic) {
         var icon = '<i class="fa fa-fw ' + ic + '"></i>'
     } else {
         icon = ''
     }
-    var menuToggle = $('<h2>').addClass('toggle').html(icon + l.N).click(function () {
-        if (child.is(':visible')) {
-            child.hide();
-            menuToggle.removeClass('active');
-        }
-        else {
-            child.show();
-            menuToggle.addClass('active');
-        }
-    });
+    var menuToggle = $('<h2>').html(icon + l.N)
     return menuToggle;
 }
 
@@ -124,7 +141,7 @@ function addTree(parent/* nodes  */, lb /*target */, includeOnly) {
                 ).appendTo(layerButton);
 
                 details = $('<div class="ui card ' + layerId + '-details layer-details" />').appendTo(content);
-                details.hide(); //begin hidden
+                details.show(); //begin hidden
             } // end present
         }
 
