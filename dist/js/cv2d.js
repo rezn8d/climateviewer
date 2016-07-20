@@ -1149,52 +1149,7 @@ function shareLink() {
     }
     bit_url(shareLink);
 }
-$('.share-active-layers').click(function (e) {
-    e.preventDefault();
-    shareLink();
-    $('#shareModal').modal();
-});
 
-
-
-// LAYER FOOTER BUTTONS
-
-
-$('.about-jim').click(function () {
-    window.location = 'http://climateviewer.com/rezn8d/';
-});
-
-// SIDEBAR CONTROL & MAIN SCREEN BUTTONS
-$('.reset-view').click(function (e) {
-    e.preventDefault();
-    map.setView([40, -100], 3);
-});
-
-$('.sharing-tab').click(function () {
-    $('#welcomeModal').modal('hide').on('hidden.bs.modal', function () {
-        $('a[href="#control-sidebar-share-tab"]').tab('show');
-        $('#sharing-tab').click();
-    });
-});
-$('.instructions').click(function () {
-    $('#welcomeModal').modal('hide').on('hidden.bs.modal', function () {
-        $('a[href="#control-sidebar-about-tab"]').tab('show');
-        $('#CV-about').click();
-    });
-});
-
-$('.report-tab').click(function (e) {
-    e.preventDefault();
-    var clientWidth = $(window).width(),
-        clientHeight = $(window).height();
-    if (clientWidth < 1024) {
-        window.open('https://climateviewer.crowdmap.com/', '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=' + clientHeight + ',width=' + clientWidth + '');
-        return false;
-    } else {
-        window.open('https://climateviewer.crowdmap.com/', '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=800,width=1024');
-        return false;
-    }
-});
 
 
 $(document).ready(function () {
@@ -1206,8 +1161,50 @@ $(document).ready(function () {
     $('.clear-layers').click(function (e) {
         e.preventDefault();
         $('i.active').trigger('click');
+        $('.Bing_AERIAL_WITH_LABELS-load').click();
+    });
+    
+    $('.share-active-layers').click(function (e) {
+        e.preventDefault();
+        shareLink();
+        $('#shareModal').modal();
     });
 
+    $('.about-jim').click(function () {
+        window.location = 'http://climateviewer.com/rezn8d/';
+    });
+
+    $('.reset-view').click(function (e) {
+        e.preventDefault();
+        map.setView([40, -100], 3);
+    });
+
+    $('.sharing-tab').click(function () {
+        $('#welcomeModal').modal('hide').on('hidden.bs.modal', function () {
+            $('a[href="#control-sidebar-share-tab"]').tab('show');
+            $('#sharing-tab').click();
+        });
+    });
+    $('.instructions').click(function () {
+        $('#welcomeModal').modal('hide').on('hidden.bs.modal', function () {
+            $('a[href="#control-sidebar-about-tab"]').tab('show');
+            $('#CV-about').click();
+        });
+    });
+
+    $('.report-tab').click(function (e) {
+        e.preventDefault();
+        var clientWidth = $(window).width(),
+            clientHeight = $(window).height();
+        if (clientWidth < 1024) {
+            window.open('https://climateviewer.crowdmap.com/', '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=' + clientHeight + ',width=' + clientWidth + '');
+            return false;
+        } else {
+            window.open('https://climateviewer.crowdmap.com/', '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=800,width=1024');
+            return false;
+        }
+    });
+    
     $('.collapse-menu').on('click', function (e) {
         e.preventDefault();
         $('.fa-sitemap.active').trigger('click');

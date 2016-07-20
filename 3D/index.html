@@ -147,7 +147,7 @@
                                 <li class="user-header about-jim">
                                     <img src="/dist/img/jim-lee.jpg" class="img-circle about-jim" alt="User Image">
                                     <p>
-                                        Jim <a href="https://climateviewer.com/rezn8d/">&ldquo;rezn8d&rdquo;</a> Lee
+                                        Jim <a href="https://climateviewer.com/rezn8d/" target="_self">&ldquo;rezn8d&rdquo;</a> Lee
                                         <small>Creator of Climate Viewer</small>
                                     </p>
                                 </li>
@@ -363,9 +363,9 @@
                     <p class="instruct">Map Mode</p>
                     <div class="container-fluid">
                       <div class="row map-mode">
-                        <div class="col-xs-4 mode-3d active">3D</div>
-                        <div class="col-xs-4 mode-2d">2D</div>
-                        <div class="col-xs-4 mode-flat-earth">Columbus</div>
+                        <div class="col-xs-4 mode-3D active">3D</div>
+                        <div class="col-xs-4 mode-2D">2D</div>
+                        <div class="col-xs-4 mode-flat">Flat Earth</div>
                       </div>
                     </div>
                 </div>
@@ -540,6 +540,18 @@
                     <h4 class="modal-title">Share Active Layers</h4>
                 </div>
                 <div class="modal-body">
+                    <div class="checkbox">
+                      <label><input id="includeView" class="shareIncludes" type="checkbox" value="">Include View Location</label>
+                    </div>
+                    <div class="checkbox">
+                      <label><input id="includeDate" class="shareIncludes" type="checkbox" value="">Include Current Date</label>
+                    </div>
+                    <div class="checkbox">
+                      <label><input id="includeMode" class="shareIncludes" type="checkbox" value="">Include Map Mode</label>
+                    </div>
+                    <!-- <div class="checkbox disabled">
+                      <label><input type="checkbox" value="" disabled>Option 3</label>
+                    </div> -->
                     <div class="sub header" style="color:#DDD">Use this URL to share all currently displayed layers.</div>
                     <div class="well">
                         <a class="share-all-layers" href="http://climateviewer.org/" title="My custom CV3D map" target="_self"></a>

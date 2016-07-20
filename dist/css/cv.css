@@ -73,7 +73,7 @@ a#siderbar-toggle i {
     margin-top: 40px;
 }
 .skin-blue .main-header .navbar .nav>li, .skin-blue .main-header .navbar .nav>li>a {
-    height: 50px;
+    height: 49px;
 }
 .skin-blue .main-header .navbar .nav>li.active {
     border-bottom: 3px solid #1982D1;
@@ -91,10 +91,7 @@ a#siderbar-toggle i {
 .user-header p {
     text-shadow: 2px 2px #000;
 }
-.user-body a:hover, .user-body a:focus {
-    color:#FFF;
-    background:#1982D1;
-}
+
 div.modal {
     color:#DDD;
 }
@@ -162,9 +159,13 @@ p.instruct {
 }
 .map-mode div {
     text-align: center;
+    font-weight: 700;
     cursor: pointer;
     border-right:1px solid rgba(255,255,255,.1);
     padding:5px 0;
+}
+.map-mode div.active {
+    border-bottom: 3px solid #1982D1;
 }
 .map-mode div:hover, .map-mode div:focus {
     background: #1982D1;
@@ -944,6 +945,8 @@ div.btn.btn-default {
 div.well {
     background: #222;
     margin-top: 5px;
+    border: 1px solid rgba(255,255,255,0.1);
+    background: rgba(0,0,0,0.1);
 }
 
 /* Pick a Date JS */

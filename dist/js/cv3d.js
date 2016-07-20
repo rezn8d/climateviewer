@@ -284,6 +284,7 @@ viewer.resolutionScale = 1.0 / devicePixelRatio;
 viewer.scene.imageryLayers.removeAll();
 viewer.scene.globe.baseColor = Cesium.Color.BLACK;
 
+
 /*
 viewer.extend(Cesium.viewerPerformanceWatchdogMixin, {
     lowFrameRateMessage : 'Why is this going so <em>slowly</em>?'
@@ -345,6 +346,27 @@ picker.on({
     }
 });
 var start = picker.get('select', 'yyyy-mm-dd');
+
+// SET PICKER DATE WHEN YOU SLIDE TIMELINE
+var previousTime = null;
+var isoDate = function(isoDateTime) {
+    return isoDateTime.split("T")[0];
+};
+var isoDateTime = clock.currentTime.toString();
+    var time = "TIME=" + isoDate(isoDateTime);
+var onClockUpdate = _.throttle(function() {
+    var isoDateTime = clock.currentTime.toString();
+    var time = isoDate(isoDateTime);
+    if ( time !== previousTime ) {
+        previousTime = time;
+        picker.set('select', time, { format: 'yyyy-mm-dd' })
+    }
+}, 250, {leading: true, trailing: true});
+
+viewer.clock.onTick.addEventListener(onClockUpdate);
+onClockUpdate();
+
+
 
 // GET URL
 function getURLParameter(sParam) {
@@ -846,7 +868,7 @@ function loadArcGisLayer(layerId, geoDataSrc, geoLayers, noFeatures, width, heig
 
 function loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, zoom, noList) {
      console.log('load geojson');
-    new Cesium.GeoJsonDataSource.load(geoDataSrc).then(function (geoData) {
+    new Cesium.GeoJsonDataSource.load(geoDataSrc, { clampToGround: true }).then(function (geoData) {
         modMarkers(layerId, geoData, markerImg, markerScale, markerLabel, noList);
         viewer.dataSources.add(geoData);
         activeLayers[layerId] = geoData;
@@ -1237,6 +1259,60 @@ $('#CV-about').one("click", function() {
     });
 });
 
+ var animationContainer = $('.cesium-viewer-animationContainer');
+ var timelineContainer = $('.cesium-viewer-timelineContainer');
+ var credit = $('.cesium-viewer-bottom');
+
+ animationContainer.hide();
+ timelineContainer.hide();
+ credit.hide();
+
+function toggleTimeline(show) {
+  if (show) {
+    animationContainer.show();
+    timelineContainer.show();
+    $('.toggle-timeline').addClass('active');
+  } else if (animationContainer.is(":visible")) {
+    animationContainer.hide();
+    timelineContainer.hide();
+    $('.toggle-timeline').removeClass('active');
+  } else {
+    animationContainer.show();
+    timelineContainer.show();
+    var startTime = Cesium.JulianDate.fromDate(new Date(Date.UTC(2012, 4, 8)));
+    var endTime = Cesium.JulianDate.now();
+    viewer.timeline.zoomTo(startTime, endTime);
+    $('.toggle-timeline').addClass('active');
+  }
+}
+$('.toggle-timeline').click(function (e) {
+    e.preventDefault();
+    toggleTimeline();
+});
+
+var startTime = Cesium.JulianDate.fromDate(new Date(Date.UTC(2012, 4, 8)));
+var endTime = Cesium.JulianDate.now();
+viewer.timeline.zoomTo(startTime, endTime);
+
+
+
+// MAP MODE BUTTONS
+$('.mode-3D').click(function () {
+    viewer.scene.morphTo3D();
+    $('.map-mode div.active').removeClass('active');
+    $(this).addClass('active');
+});
+$('.mode-2D').click(function () {
+    viewer.scene.morphTo2D();
+    $('.map-mode div.active').removeClass('active');
+    $(this).addClass('active');
+});
+$('.mode-flat').click(function () {
+    viewer.scene.morphToColumbusView();
+    $('.map-mode div.active').removeClass('active');
+    $(this).addClass('active');
+});
+
 
 // CHECK URL
 var initialLayers = (getURLParameter("layersOn") || '').split(',');
@@ -1253,9 +1329,15 @@ if (allLayers.length > 0) {
     var lonView = (getURLParameter("lon") || '31.300283760032368');
     var zoomView = (getURLParameter("zoom") || '26596280.257583864');
     var dateView = (getURLParameter("date") || time);
+    var modeView = (getURLParameter("mode") || '3D');
 
     if (dateView !== time) {
         picker.set('select', dateView, { format: 'yyyy-mm-dd' })
+    }
+
+    if (modeView) {
+        console.log('.mode-' + modeView)
+        $('.mode-' + modeView).click();
     }
 
     if (latView !== '-78.176832746519') {
@@ -1294,7 +1376,7 @@ if (allLayers.length > 0) {
 function shareLink() {
     var layers = "",
         baseLayers = "",
-        shareLink = shareURL;
+        shareLink = homeURL;
 
     $('.geojson.active, .kml.active, .arcgis.active, .wms.active, .wtms.active, .nasa-gibs.active').each(function () {
         var X = $(this);
@@ -1322,60 +1404,46 @@ function shareLink() {
         baseLayers = baseLayers.substring(0, baseLayers.length - 1);
         shareLink += '&baseLayers=' + baseLayers;
     }
-
-    
-    if ($('.mode-2d').hasClass('active')) {
-        var camPos = viewer.camera.positionCartographic; 
-        var lat = camPos.longitude * (180/Math.PI); 
-        var lon = camPos.latitude * (180/Math.PI);
-        var zoom = viewer.camera.getMagnitude();
-        shareLink += '&lat=' + lat;
-        shareLink += '&lon=' + lon;
-        shareLink += '&zoom=' + zoom;
-        shareLink += '&mode=2D';
-
-    } else if ($('.mode-flat-earth').hasClass('active')) {
-        var scene = viewer.scene;
-        var camera = scene.camera;
-        var windowPosition = new Cesium.Cartesian2(viewer.container.clientWidth / 2, viewer.container.clientHeight / 2);
-        var pickRay = viewer.scene.camera.getPickRay(windowPosition);
-        var pickPosition = viewer.scene.globe.pick(pickRay, viewer.scene);
-        var pickPositionCartographic = viewer.scene.globe.ellipsoid.cartesianToCartographic(pickPosition);
-        var height = camera.positionCartographic.height;
-        var lat = pickPositionCartographic.longitude * (180/Math.PI);
-        var lon = pickPositionCartographic.latitude * (180/Math.PI);
-        var zoom = height;
-
-        shareLink += '&lat=' + lat;
-        shareLink += '&lon=' + lon;
-        shareLink += '&zoom=' + zoom;
-        shareLink += '&mode=flat';
-    } else {
-        var scene = viewer.scene;
-        var camera = scene.camera;
-        var windowPosition = new Cesium.Cartesian2(viewer.container.clientWidth / 2, viewer.container.clientHeight / 2);
-        var pickRay = viewer.scene.camera.getPickRay(windowPosition);
-        var pickPosition = viewer.scene.globe.pick(pickRay, viewer.scene);
-        var pickPositionCartographic = viewer.scene.globe.ellipsoid.cartesianToCartographic(pickPosition);
-        var height = camera.positionCartographic.height;
-        var lat = pickPositionCartographic.longitude * (180/Math.PI);
-        var lon = pickPositionCartographic.latitude * (180/Math.PI);
-        var zoom = height;
-
-        shareLink += '&lat=' + lat;
-        shareLink += '&lon=' + lon;
-        shareLink += '&zoom=' + zoom;
-        shareLink += '&mode=3D';
+    function disableView() {
+        $('#includeView').prop('disabled', true).parent().prop('title', 'Not available in 2D or Flat Earth mode yet. I am working on it.');
     }
     
-    var date = picker.get('select', 'yyyy-mm-dd');
-    shareLink += '&date=' + date;
+    if ($('.mode-2D').hasClass('active')) {
+        if ($('#includeMode').hasClass('active')) shareLink += '&mode=2D';
+        disableView();
+    } else if ($('.mode-flat').hasClass('active')) {
+        if ($('#includeMode').hasClass('active')) shareLink += '&mode=flat';
+        disableView();
+        console.log('view disabled');
+    } else if ($('#includeView').hasClass('active')) {
+        $('#includeView').prop('disabled', false);
+        var scene = viewer.scene;
+        var camera = scene.camera;
+        var windowPosition = new Cesium.Cartesian2(viewer.container.clientWidth / 2, viewer.container.clientHeight / 2);
+        var pickRay = viewer.scene.camera.getPickRay(windowPosition);
+        var pickPosition = viewer.scene.globe.pick(pickRay, viewer.scene);
+        var pickPositionCartographic = viewer.scene.globe.ellipsoid.cartesianToCartographic(pickPosition);
+        var height = camera.positionCartographic.height;
+        var lat = pickPositionCartographic.longitude * (180/Math.PI);
+        var lon = pickPositionCartographic.latitude * (180/Math.PI);
+        var zoom = height;
 
+        shareLink += '&lat=' + lat;
+        shareLink += '&lon=' + lon;
+        shareLink += '&zoom=' + zoom;
+        if ($('#includeMode').hasClass('active')) shareLink += '&mode=3D';
+    }
+    
+    if ($('#includeDate').hasClass('active')) {
+        var date = picker.get('select', 'yyyy-mm-dd');
+        shareLink += '&date=' + date;
+    }
+    
     var shareToggle = $('.share-all-layers');
     shareToggle.attr('href', shareLink).html(shareLink);
 
     var encodeLink = encodeURIComponent(shareLink);
-    console.log(encodeLink);
+    console.log(shareLink);
 
     function bit_url(shareLink)
     {
@@ -1396,12 +1464,22 @@ function shareLink() {
     }
     bit_url(shareLink);
 }
+
 $('.share-active-layers').click( function(e){
     e.preventDefault();
     shareLink();
     $('#shareModal').modal();
 });
 
+$('.shareIncludes').on('change', function () {
+    if ($(this).hasClass('active')) {
+        $(this).removeClass('active');
+        shareLink();
+    } else {
+        $(this).addClass('active');
+        shareLink();
+    }
+});
 
 $('.report-tab').click(function (e) {
     e.preventDefault();
@@ -1414,28 +1492,12 @@ $('.report-tab').click(function (e) {
     }
 });
 
-// MAP MODE BUTTONS
-$('.mode-3d').click(function () {
-    viewer.scene.morphTo3D();
-    $('.map-mode div.active').removeClass('active');
-    $(this).addClass('active');
-});
-$('.mode-2d').click(function () {
-    viewer.scene.morphTo2D();
-    $('.map-mode div.active').removeClass('active');
-    $(this).addClass('active');
-});
-$('.mode-flat-earth').click(function () {
-    viewer.scene.morphToColumbusView();
-    $('.map-mode div.active').removeClass('active');
-    $(this).addClass('active');
-});
-
 
 // LAYER FOOTER BUTTONS
 $('.clear-layers').click(function (e) {
     e.preventDefault();
     $('i.active').trigger('click');
+    $('.Bing_AERIAL_WITH_LABELS-load').click();
 });
 
 $('.collapse-menu').click(function (e) {
@@ -1458,7 +1520,8 @@ $('.sun-control').toggle(
   function (e) { e.preventDefault(); viewer.scene.globe.enableLighting = false; $(this).removeClass('active'); }
 );
 
-$('.about-jim').click(function () {
+$('.about-jim').click(function (e) {
+    e.preventDefault();
     window.location = 'http://climateviewer.com/rezn8d/';
 });
 
@@ -1478,40 +1541,7 @@ $('.date-icon').click(function (e) {
 });
 
 
- var animationContainer = $('.cesium-viewer-animationContainer');
- var timelineContainer = $('.cesium-viewer-timelineContainer');
- var credit = $('.cesium-viewer-bottom');
 
- animationContainer.hide();
- timelineContainer.hide();
- credit.hide();
-
-function toggleTimeline(show) {
-  if (show) {
-    animationContainer.show();
-    timelineContainer.show();
-    $('.toggle-timeline').addClass('active');
-  } else if (animationContainer.is(":visible")) {
-    animationContainer.hide();
-    timelineContainer.hide();
-    $('.toggle-timeline').removeClass('active');
-  } else {
-    animationContainer.show();
-    timelineContainer.show();
-    var startTime = Cesium.JulianDate.fromDate(new Date(Date.UTC(2012, 4, 8)));
-    var endTime = Cesium.JulianDate.now();
-    viewer.timeline.zoomTo(startTime, endTime);
-    $('.toggle-timeline').addClass('active');
-  }
-}
-$('.toggle-timeline').click(function (e) {
-    e.preventDefault();
-    toggleTimeline();
-});
-
-var startTime = Cesium.JulianDate.fromDate(new Date(Date.UTC(2012, 4, 8)));
-var endTime = Cesium.JulianDate.now();
-viewer.timeline.zoomTo(startTime, endTime);
 
 $('.sharing-tab').click(function () {
     $('#welcomeModal').modal('hide').on('hidden.bs.modal', function () {
@@ -1612,25 +1642,6 @@ $(document).ready(function () {
     if ($('.control-sidebar').hasClass('control-sidebar-open')) {
         $('#siderbar-toggle').addClass('active');
     }
-
-    // SET PICKER DATE WHEN YOU SLIDE TIMELINE
-    var previousTime = null;
-    var isoDate = function(isoDateTime) {
-        return isoDateTime.split("T")[0];
-    };
-    var isoDateTime = clock.currentTime.toString();
-        var time = "TIME=" + isoDate(isoDateTime);
-    var onClockUpdate = _.throttle(function() {
-        var isoDateTime = clock.currentTime.toString();
-        var time = isoDate(isoDateTime);
-        if ( time !== previousTime ) {
-            previousTime = time;
-            picker.set('select', time, { format: 'yyyy-mm-dd' })
-        }
-    }, 250, {leading: true, trailing: true});
-
-    viewer.clock.onTick.addEventListener(onClockUpdate);
-    onClockUpdate();
     
     // LOAD DEFAULT BASE LAYER IF NO SHARED BASE LAYER
     if(!$('.cartodb-layer.active, .bing.active, .arcgis-base-layer.active, .base-layer.active').length > 0) {
