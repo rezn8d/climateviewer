@@ -47,6 +47,11 @@ aside.main-sidebar {
 .nav-tabs.control-sidebar-tabs>li>a.sun-control.active, .control-sidebar-dark .nav-tabs.control-sidebar-tabs>li>a.toggle-timeline.active {
     background: #1982D1;
 }
+.control-sidebar-dark .nav-tabs.control-sidebar-tabs>li>a, .control-sidebar-dark .nav-tabs.control-sidebar-tabs>li>a:focus, .control-sidebar-dark .nav-tabs.control-sidebar-tabs>li>a:hover {
+    border-top:1px solid #2c2c2c;
+    border-left-color: #2c2c2c;
+    border-bottom-color: transparent;
+}
 a#siderbar-toggle i {
     top: 3px;
     position: relative;
@@ -66,12 +71,7 @@ a#siderbar-toggle i {
     display:none;
     background: #000;
 }
-.tab-pane footer {
-    text-align:center;
-    background: #161616;
-    padding: 20px 0;
-    margin-top: 40px;
-}
+
 .skin-blue .main-header .navbar .nav>li, .skin-blue .main-header .navbar .nav>li>a {
     height: 49px;
 }
@@ -100,7 +100,7 @@ div.modal strong {
 }
 
 div.modal-content {
-    background: #222;
+    background: #1982D1;
 }
 h4.modal-title, div.modal-header button, div.modal-footer button {
     color:#FFF
@@ -110,9 +110,10 @@ div.modal-header {
 }
 div.modal-body {
     word-wrap: break-word;
+    color:#000;
+    background: #FFF;
 }
 div.modal-body p {
-    color:#FFF;
     font-size:14px;
 }
 div.modal-body img {
@@ -122,6 +123,43 @@ div.modal-body img {
 #welcomeModal div.modal-body p span {
     color:#1982D1;
     cursor: pointer;
+}
+#welcomeModal .panel {
+    background-color: transparent;
+    border: 1px solid transparent;
+    color: #FFF;
+}
+#welcomeModal .panel-default>.panel-heading {
+    font-weight: 700;
+    background-color: transparent;
+    border-color: transparent;
+}
+#welcomeModal .panel-body {
+    color: #333;
+}
+#welcomeModal h4 {
+    color: #000;
+}
+#welcomeModal h4.modal-title, #welcomeModal button {
+    color: #FFF;
+}
+#welcomeModal button:hover {
+    color: #1982D1;
+}
+#welcomeModal .modal-header button:hover {
+    color: #FFF;
+}
+#welcomeModal footer {
+    text-align:center;
+    padding: 20px 0;
+    margin-top: 40px;
+}
+#welcomeModal .modal-footer a {
+    color:#FFF !important;
+    text-decoration:underline !important;
+}
+#welcomeModal .modal-footer p {
+    margin-top:7px;
 }
 #featureModal div.modal-body p span {
     color:#CCC;
@@ -137,10 +175,12 @@ div.modal-footer {
     border-top-color: rgba(255,255,255,0.2);
 }
 div.modal-footer button {
-    background:#333;
     border-color:rgba(255,255,255,0.2);
+    background: transparent;
 }
-
+i.new-layer {
+    color: #1fd600;
+}
 #learn p {
     color: #eee;
 }
@@ -565,7 +605,6 @@ div.cesium-baseLayerPicker-choices {
 }
 div.search {
     background-color: #2c2c2c;
-    margin-top: 10px;
     width: 100%;
 }
 div.search span.input-group-addon {
@@ -669,7 +708,7 @@ input[type=text]:focus, textarea:focus {
     z-index: 999;
 }
 div.cesium-viewer-geocoderContainer {
-    margin:10px 0;
+    margin:0;
     display:block;
     background-color:#2c2c2c;
 }
@@ -1031,6 +1070,11 @@ div.leaflet-control-attribution.leaflet-control {
 
 }
 
+@media (min-width: 768px) {
+    .modal-dialog {
+        margin: 60px auto;
+    }
+}
 @media (max-width:450px) {
     div.logo {
         width: 200px;

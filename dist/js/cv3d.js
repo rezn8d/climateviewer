@@ -1405,18 +1405,18 @@ function shareLink() {
         shareLink += '&baseLayers=' + baseLayers;
     }
     function disableView() {
-        $('#includeView').prop('disabled', true).parent().prop('title', 'Not available in 2D or Flat Earth mode yet. I am working on it.');
+        $('#includeView').prop('disabled', true).parent().prop('title', 'Not available in 2D or Flat Earth mode yet.');
     }
     
     if ($('.mode-2D').hasClass('active')) {
+        if (!$('#includeMode').hasClass('active')) shareLink += '&mode=2D';
         if ($('#includeMode').hasClass('active')) shareLink += '&mode=2D';
         disableView();
     } else if ($('.mode-flat').hasClass('active')) {
         if ($('#includeMode').hasClass('active')) shareLink += '&mode=flat';
         disableView();
-        console.log('view disabled');
     } else if ($('#includeView').hasClass('active')) {
-        $('#includeView').prop('disabled', false);
+        $('#includeView').prop('disabled', false).parent().prop('title', '');;
         var scene = viewer.scene;
         var camera = scene.camera;
         var windowPosition = new Cesium.Cartesian2(viewer.container.clientWidth / 2, viewer.container.clientHeight / 2);
@@ -1426,10 +1426,12 @@ function shareLink() {
         var height = camera.positionCartographic.height;
         var lat = pickPositionCartographic.longitude * (180/Math.PI);
         var lon = pickPositionCartographic.latitude * (180/Math.PI);
-        var zoom = height;
+        var ll = lat.toFixed(5);
+        var ln = lon.toFixed(5);
+        var zoom = height.toFixed(2);
 
-        shareLink += '&lat=' + lat;
-        shareLink += '&lon=' + lon;
+        shareLink += '&lat=' + ll;
+        shareLink += '&lon=' + ln;
         shareLink += '&zoom=' + zoom;
         if ($('#includeMode').hasClass('active')) shareLink += '&mode=3D';
     }
@@ -1443,12 +1445,12 @@ function shareLink() {
     shareToggle.attr('href', shareLink).html(shareLink);
 
     var encodeLink = encodeURIComponent(shareLink);
-    console.log(shareLink);
+    //console.log(shareLink);
 
     function bit_url(shareLink)
     {
         var url=shareLink;
-        console.log(url);
+        //console.log(url);
         var username="r3zn8d"; // bit.ly username
         var key="b5c2d6d1704074b0741a7449a98e3fcef2790699";
         $.ajax({
@@ -1471,15 +1473,7 @@ $('.share-active-layers').click( function(e){
     $('#shareModal').modal();
 });
 
-$('.shareIncludes').on('change', function () {
-    if ($(this).hasClass('active')) {
-        $(this).removeClass('active');
-        shareLink();
-    } else {
-        $(this).addClass('active');
-        shareLink();
-    }
-});
+
 
 $('.report-tab').click(function (e) {
     e.preventDefault();
@@ -1540,22 +1534,6 @@ $('.date-icon').click(function (e) {
     openPicker();
 });
 
-
-
-
-$('.sharing-tab').click(function () {
-    $('#welcomeModal').modal('hide').on('hidden.bs.modal', function () {
-        $('a[href="#control-sidebar-share-tab"]').tab('show');
-        $('#sharing-tab').click();
-    });
-});
-$('.instructions').click(function () {
-    $('#welcomeModal').modal('hide').on('hidden.bs.modal', function () {
-        $('a[href="#control-sidebar-about-tab"]').tab('show');
-        $('#CV-about').click();
-    });
-});
-
 $('.cesium-baseLayerPicker-dropDown').addClass('cesium-baseLayerPicker-dropDown-visible').detach().appendTo($('#base'));
 $('.cesium-viewer-geocoderContainer').detach().prependTo($('.search'));
 $('.cesium-geocoder-input').addClass('cesium-geocoder-input-wide');
@@ -1581,7 +1559,8 @@ $(document).ready(function () {
             var iframe = $('<iframe/>', {'frameborder': '0', 'src': iframe_url, 'width': $(this).width(), 'height': $(this).height() })
 
             // Replace the YouTube thumbnail with YouTube HTML5 Player
-            $(this).replaceWith(iframe);
+            $(this).hide();
+            $('#tutorial').append(iframe);
         });
     });
 
@@ -1634,11 +1613,32 @@ $(document).ready(function () {
             $('#siderbar-toggle').click();
         }
     });
-    
+    $('#welcomeModal').modal().on('shown.bs.modal', function () {
+        $('#chat').html('<iframe src="http://tlk.io/cvnews" class="chat-iframe" style="height:600px"></iframe>');
+    }).on('hidden.bs.modal', function () { 
+        $('#chat').html(''); 
+        $('#tutorial iframe').remove();
+        $('#tutorial div.youtube').show();
+    });
+    $('#welcome a').click(function(e) {
+        e.preventDefault();
+        $('#welcomeModal').modal().on('show.bs.modal', function () {
+            $('.panel-collapse.in').collapse('hide');
+            var icons = $('.panel-heading i');
+            if (icons.hasClass('fa-chevron-down')) icons.removeClass('fa-chevron-down').addClass('fa-chevron-right');
+        }).on('shown.bs.modal', function () {
+            $('#chat').html('<iframe src="http://tlk.io/cvnews" class="chat-iframe" style="height:600px"></iframe>');
+        }).on('hidden.bs.modal', function () { 
+            $('#chat').html(''); 
+            $('#tutorial iframe').remove();
+            $('#tutorial div.youtube').show();
+        });
+    });
+    /*
     $('#welcomeModal').modal().on('hidden.bs.modal', function () {
         $('#welcomeModal').remove();
     });
-    
+    */
     if ($('.control-sidebar').hasClass('control-sidebar-open')) {
         $('#siderbar-toggle').addClass('active');
     }
@@ -1648,6 +1648,32 @@ $(document).ready(function () {
           $('.Bing_AERIAL_WITH_LABELS-load').click();
     }
     $('[data-bind="foreach: imageryProviderViewModels"]').remove();
+    
+    $('.shareIncludes').on('click', function () {
+        if ($(this).hasClass('active')) {
+            $(this).removeClass('active');
+            shareLink();
+        } else {
+            $(this).addClass('active');
+            shareLink();
+        }
+    });
+    
+    $('.panel-heading a').on('click', function () {
+        if ($("i", this).hasClass('fa-chevron-right')) {
+            $("i", this).removeClass('fa-chevron-right').addClass('fa-chevron-down');
+            shareLink();
+        } else {
+            $("i", this).removeClass('fa-chevron-down').addClass('fa-chevron-right');
+            shareLink();
+        }
+    });
+
+    
+    $('.share-active-layers').one('click', function () {
+        $('#includeView').click();
+        $('#includeDate').click();
+    });
     
     $('.content-wrapper').show();
     
