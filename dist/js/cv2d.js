@@ -22,13 +22,13 @@ function convertlink(text) {
     });
 }
 
-$.fn.exists = function(callback) {
-  var args = [].slice.call(arguments, 1);
+$.fn.exists = function (callback) {
+    var args = [].slice.call(arguments, 1);
 
-  if (this.length) {
-    callback.call(this, args);
-  }
-  return this;
+    if (this.length) {
+        callback.call(this, args);
+    }
+    return this;
 };
 
 
@@ -95,7 +95,7 @@ new L.Control.GeoSearch({
 // Set web root url
 var homeURL = window.location.protocol + "//" + window.location.host + "/mobile/";
 var shareURL = "http://climateviewer.org/mobile/"; // production
-var proxyURL = '/proxy.php';  // production
+var proxyURL = '/proxy.php'; // production
 
 var activeLayers = {};
 var layerEnabled = {}; // whether the label is in some way enabled
@@ -155,12 +155,13 @@ function getURLParameter(sParam) {
 }
 
 function loading(layerId) {
-    $('.' + layerId + '-load').removeClass('play').addClass('spinner loading active');
+    $('.' + layerId + '-load').removeClass('fa-play').addClass('fa-spinner fa-spin loading active');
 }
 
 function loaded(layerId) {
-    $('.' + layerId + '-load').removeClass('spinner loading').addClass('check');
+    $('.' + layerId + '-load').removeClass('fa-spinner fa-spin loading').addClass('fa-check');
 }
+
 
 function loadError(layerId, geoDataSrc, error) {
     var target = $('#' + layerId);
@@ -614,7 +615,6 @@ function loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, z
         $(data.features).each(function (key, data) {
             //map.removeLayer(src);
 
-
             var src = L.geoJson(data, {
                 pointToLayer: function (feature, latlng) {
                     var mImg = L.icon({
@@ -692,6 +692,7 @@ function loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, z
         });
 
         if (noList === false) {
+            $('<h5><i class="fa fa-fw fa-map-marker"></i> Map Markers</h5>').appendTo(markerList);
             $('<ol/>', {
                 'class': 'markers',
                 html: items.join('')
@@ -875,7 +876,10 @@ function addTree(parent /* nodes  */ , lb /*target */ , includeOnly) {
                     largeLayer = h.H,
                     newLayer = h.NL,
                     timeline = h.C,
+                    noList = h.Y,
                     layerButton, details, loadIcon, optIcon, treeIcon, sliderIcon, label;
+
+                if (noList !== true) noList = false;
 
                 content = $('<div>').data('l', h).attr('id', h.I).addClass('lbw').addClass(h.T); //layer button wrapper
                 layerButton = $('<div>').addClass('lb').appendTo(content); // layer button
@@ -903,7 +907,7 @@ function addTree(parent /* nodes  */ , lb /*target */ , includeOnly) {
                 if (newLayer) loadIcon.addClass('new-layer');
 
 
-                if (h.T === ('geojson')) {
+                if ((h.T === ('geojson')) && (noList === false)) {
                     treeIcon = $('<i title="Expand Marker Tree" class="fa fa-fw fa-sitemap toggle-list ' + layerId + '-tree"></i>');
                     treeIcon.click(function () {
                         setTimeout(function () {
@@ -945,7 +949,7 @@ function addTree(parent /* nodes  */ , lb /*target */ , includeOnly) {
                                 if (!label.hasClass('active')) label.addClass('active');
                                 content.addClass('active');
                                 if (timeline) toggleTimeline(true);
-                                if (h.T === ('geojson')) treeIcon.show();
+                                if ((h.T === ('geojson')) && (noList === false)) treeIcon.show();
                                 if (h.T === ("nasa-gibs") || h.T === ("cartodb-layer") || h.T === ("wmts") || h.T === ("wms") || h.T === ("base-layer") || h.T === ("arcgis") || h.T === ("arcgis-layer") || h.T === ("bing")) {
                                     sliderIcon.show();
                                 }
@@ -954,12 +958,12 @@ function addTree(parent /* nodes  */ , lb /*target */ , includeOnly) {
                     },
                     function () {
                         setTimeout(function () {
-                            if (loadIcon.hasClass('check')) {
+                            if (loadIcon.hasClass('fa-check')) {
                                 disableLayer(h);
-                                loadIcon.removeClass('check active').addClass('play');
+                                loadIcon.removeClass('fa-check active').addClass('fa-play');
                                 if (label.hasClass('active')) label.removeClass('active');
                                 content.removeClass('active');
-                                if (h.T === ('geojson')) treeIcon.hide();
+                                if ((h.T === ('geojson')) && (noList === false)) treeIcon.hide();
                                 if (h.T === ("nasa-gibs") || h.T === ("cartodb-layer") || h.T === ("wmts") || h.T === ("wms") || h.T === ("base-layer") || h.T === ("arcgis") || h.T === ("arcgis-layer") || h.T === ("bing")) {
                                     sliderIcon.hide();
                                     sliderIcon.removeClass('show-sliders');
@@ -1068,7 +1072,7 @@ if (allLayers.length > 0) {
             $('.' + initialBaseLayers[i] + '-load').click();
         }
     }
-    
+
     // Load Layers
     for (var i = 0; i < allLayers.length; i++) {
         $('#' + allLayers[i]).detach().appendTo(shared).show();
@@ -1153,9 +1157,32 @@ function shareLink() {
 
 
 $(document).ready(function () {
-    $('#CV-TV').one('click', function () {
-        $('#load-youtube').html('<div class="videoWrapper"><iframe width="560" height="315" src="http://www.youtube.com/embed/videoseries?list=UUxi8wqtADZckzLvWqkW5Kvg" frameborder="0" allowfullscreen=""></iframe></div>');
-        $('#load-twitter').html('<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/rezn8d" data-widget-id="426353335990353920">Tweets by @rezn8d</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>');
+    $(".youtube").each(function () {
+        // Based on the YouTube ID, we can easily find the thumbnail image
+        $(this).css('background-image', 'url(http://i.ytimg.com/vi/' + this.id + '/sddefault.jpg)');
+
+        // Overlay the Play icon to make it look like a video player
+        $(this).append($('<div/>', {
+            'class': 'play'
+        }));
+
+        $(document).delegate('#' + this.id, 'click', function () {
+            // Create an iFrame with autoplay set to true
+            var iframe_url = "https://www.youtube.com/embed/" + this.id + "?autoplay=1&autohide=1";
+            if ($(this).data('params')) iframe_url += '&' + $(this).data('params');
+
+            // The height and width of the iFrame should be the same as parent
+            var iframe = $('<iframe/>', {
+                'frameborder': '0',
+                'src': iframe_url,
+                'width': $(this).width(),
+                'height': $(this).height()
+            })
+
+            // Replace the YouTube thumbnail with YouTube HTML5 Player
+            $(this).hide();
+            $('#tutorial').append(iframe);
+        });
     });
 
     $('.clear-layers').click(function (e) {
@@ -1163,7 +1190,7 @@ $(document).ready(function () {
         $('i.active').trigger('click');
         $('.Bing_AERIAL_WITH_LABELS-load').click();
     });
-    
+
     $('.share-active-layers').click(function (e) {
         e.preventDefault();
         shareLink();
@@ -1179,18 +1206,6 @@ $(document).ready(function () {
         map.setView([40, -100], 3);
     });
 
-    $('.sharing-tab').click(function () {
-        $('#welcomeModal').modal('hide').on('hidden.bs.modal', function () {
-            $('a[href="#control-sidebar-share-tab"]').tab('show');
-            $('#sharing-tab').click();
-        });
-    });
-    $('.instructions').click(function () {
-        $('#welcomeModal').modal('hide').on('hidden.bs.modal', function () {
-            $('a[href="#control-sidebar-about-tab"]').tab('show');
-            $('#CV-about').click();
-        });
-    });
 
     $('.report-tab').click(function (e) {
         e.preventDefault();
@@ -1204,7 +1219,7 @@ $(document).ready(function () {
             return false;
         }
     });
-    
+
     $('.collapse-menu').on('click', function (e) {
         e.preventDefault();
         $('.fa-sitemap.active').trigger('click');
@@ -1230,15 +1245,38 @@ $(document).ready(function () {
             $('#siderbar-toggle').click();
         }
     });
-    
-    $('#welcomeModal').modal();
-    
+
+    $('#welcomeModal').modal().on('shown.bs.modal', function () {
+        $('#chat').html('<iframe src="http://tlk.io/cvnews" class="chat-iframe" style="height:600px"></iframe>');
+    }).on('hidden.bs.modal', function () {
+        $('#chat').html('');
+        $('#tutorial iframe').remove();
+        $('#tutorial div.youtube').show();
+        $('.panel-collapse.in').collapse('hide');
+        var icons = $('.panel-heading i');
+        if (icons.hasClass('fa-chevron-down')) icons.removeClass('fa-chevron-down').addClass('fa-chevron-right');
+    });
+    $('#welcome a').click(function (e) {
+        e.preventDefault();
+        $('#welcomeModal').modal().on('shown.bs.modal', function () {
+            $('#chat').html('<iframe src="http://tlk.io/cvnews" class="chat-iframe" style="height:600px"></iframe>');
+        }).on('hidden.bs.modal', function () {
+            $('#chat').html('');
+            $('#tutorial iframe').remove();
+            $('#tutorial div.youtube').show();
+            $('.panel-collapse.in').collapse('hide');
+            var icons = $('.panel-heading i');
+            if (icons.hasClass('fa-chevron-down')) icons.removeClass('fa-chevron-down').addClass('fa-chevron-right');
+
+        });
+    });
+
     $('#active-layers-toggle').toggle(
         function () {
             $('.lbw.active').each(function () {
-              var layerId = $(this).prop('id');
-              $('<span id="' + layerId + '-holder" style="display: none;" />').insertAfter($(this));
-              $(this).detach().appendTo('#active-layers');
+                var layerId = $(this).prop('id');
+                $('<span id="' + layerId + '-holder" style="display: none;" />').insertAfter($(this));
+                $(this).detach().appendTo('#active-layers');
             });
             $(this).html('Show All Layers');
             $('.active-layers-label').show();
@@ -1246,11 +1284,11 @@ $(document).ready(function () {
             $('.all-layers-label').hide();
             $('#map-layers').hide();
         },
-        function () { 
+        function () {
             $('#active-layers .lbw.active').each(function () {
-               var layerId = $(this).prop('id');
-               $(this).detach().insertBefore($('#' + layerId + '-holder'));
-               $('#' + layerId + '-holder').remove();
+                var layerId = $(this).prop('id');
+                $(this).detach().insertBefore($('#' + layerId + '-holder'));
+                $('#' + layerId + '-holder').remove();
             });
             $(this).html('Show Active Layers');
             $('.active-layers-label').hide();
@@ -1259,23 +1297,49 @@ $(document).ready(function () {
             $('#map-layers').show();
         }
     );
-    
+
+    function makeRight() {
+        $('.panel-heading a i.fa-chevron-down').removeClass('fa-chevron-down').addClass('fa-chevron-right');
+    }
+    $('.panel-heading a').on('click', function () {
+        if ($("i", this).hasClass('fa-chevron-right')) {
+            makeRight();
+            $("i", this).removeClass('fa-chevron-right').addClass('fa-chevron-down');
+            shareLink();
+        } else {
+            makeRight();
+            $("i", this).removeClass('fa-chevron-down').addClass('fa-chevron-right');
+            shareLink();
+        }
+    });
+
     if ($('.control-sidebar').hasClass('control-sidebar-open')) {
         $('#siderbar-toggle').addClass('active');
     }
-    
+
+    function openPicker() {
+        $('#datepicker').pickadate('picker').open();
+        console.log('clicked');
+    }
+
+    $('.date-icon').click(function (e) {
+        e.preventDefault();
+        e.stopPropagation();
+        openPicker();
+    });
+
     $('.leaflet-control-geosearch input').detach().addClass('form-control').attr({
         "aria-describedby": "search",
         "id": "search-input"
     }).prependTo($('.search form'));
-    
+
     // LOAD DEFAULT BASE LAYER IF NO SHARED BASE LAYER
-    if(!$('.cartodb-layer.active, .bing.active, .arcgis-base-layer.active, .base-layer.active').length > 0) {
-          $('.Bing_AERIAL_WITH_LABELS-load').click();
+    if (!$('.cartodb-layer.active, .bing.active, .arcgis-base-layer.active, .base-layer.active').length > 0) {
+        $('.Bing_AERIAL_WITH_LABELS-load').click();
     }
 
     $('.content-wrapper').show();
-    
+
     resize();
 
 });

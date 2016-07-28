@@ -48,9 +48,10 @@ aside.main-sidebar {
     background: #1982D1;
 }
 .control-sidebar-dark .nav-tabs.control-sidebar-tabs>li>a, .control-sidebar-dark .nav-tabs.control-sidebar-tabs>li>a:focus, .control-sidebar-dark .nav-tabs.control-sidebar-tabs>li>a:hover {
-    border-top:1px solid #2c2c2c;
+    border-top: 1px solid #2c2c2c;
     border-left-color: #2c2c2c;
     border-bottom-color: transparent;
+    border-bottom: 1px solid rgba(255,255,255,0.2);
 }
 a#siderbar-toggle i {
     top: 3px;
@@ -169,7 +170,7 @@ div.modal-body img {
     color: #1982D1;
 }
 #featureModal div.modal-body div#feature-content {
-    color: #DDD;
+    color: #222;
 }
 div.modal-footer {
     border-top-color: rgba(255,255,255,0.2);
@@ -851,8 +852,9 @@ iframe.cesium-infoBox-iframe {
 
 
 div#chat, div#chat iframe {
-    width:100%;
-    border:0;
+    width: 100%;
+    max-height: 400px;
+    border: 0;
     background: #FFF;
     border-radius: 10px;
 }

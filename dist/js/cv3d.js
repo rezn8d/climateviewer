@@ -590,6 +590,24 @@ var defaultKMLEyeOffset = new Cesium.Cartesian3(0.0, 5000.0, 0.0);
 var defaultScaleByDistance = new Cesium.NearFarScalar(1, 0.5, 1, 0.3);
 var defaultTranslucency = new Cesium.NearFarScalar(1.5e2, 1, 3.0e6, 0);
 
+function newMarkerLabel(entity, markerLabel) {
+    var label = new Cesium.LabelGraphics();
+    if (markerLabel == 'usgs-eq') {
+        label.text = 'M' + entity.properties.mag;
+    } else if (entity.label.text) {
+        label.text = entity.label.text;
+    } else {
+        label.text = '';
+    }
+    label.horizontalOrigin = Cesium.HorizontalOrigin.CENTER;
+    label.verticalOrigin = Cesium.VerticalOrigin.BOTTOM;
+    label.outlineWidth = 5;
+    label.style = Cesium.LabelStyle.FILL_AND_OUTLINE;
+    label.translucencyByDistance = defaultTranslucency;
+    label.eyeOffset = defaultKMLEyeOffset;
+    return label;
+}
+
 function modMarkers(layerId, geoData, markerImg, markerScale, markerLabel, noList) {
     //console.log(noList);
     if (noList === false) {
@@ -601,7 +619,7 @@ function modMarkers(layerId, geoData, markerImg, markerScale, markerLabel, noLis
     var entities = geoData.entities.values; // entities = all points
     for (var i = 0; i < entities.length; i++) {
       var entity = entities[i]; // entity = single point
-      // console.log(entity);
+       console.log(entity);
       // create marker image
       var billboard = new Cesium.BillboardGraphics();
 
@@ -682,6 +700,7 @@ function modMarkers(layerId, geoData, markerImg, markerScale, markerLabel, noLis
       }
     } // end for loop
     if (noList === false) {
+        $('<h5><i class="fa fa-fw fa-map-marker"></i> Map Markers</h5>').appendTo(markerList);
         $('<ol/>', {
             'class': 'markers',
             html: items.join('')
@@ -867,8 +886,8 @@ function loadArcGisLayer(layerId, geoDataSrc, geoLayers, noFeatures, width, heig
 }
 
 function loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, zoom, noList) {
-     console.log('load geojson');
-    new Cesium.GeoJsonDataSource.load(geoDataSrc, { clampToGround: true }).then(function (geoData) {
+    // console.log('load geojson');
+    new Cesium.GeoJsonDataSource.load(geoDataSrc).then(function (geoData) {
         modMarkers(layerId, geoData, markerImg, markerScale, markerLabel, noList);
         viewer.dataSources.add(geoData);
         activeLayers[layerId] = geoData;
@@ -1092,7 +1111,12 @@ function addTree(parent/* nodes  */, lb /*target */, includeOnly) {
                 largeLayer = h.H,
                 newLayer = h.NL,
                 timeline = h.C,
+                noList = h.Y,
                 layerButton, details, loadIcon, optIcon, treeIcon, sliderIcon, label;
+                
+                if (noList !== true) noList = false;
+                
+                console.log(noList);
 
                 content = $('<div>').data('l', h).attr('id', h.I).addClass('lbw').addClass(h.T); //layer button wrapper
                 layerButton = $('<div>').addClass('lb').appendTo(content); // layer button
@@ -1112,7 +1136,7 @@ function addTree(parent/* nodes  */, lb /*target */, includeOnly) {
                   }
                 ).appendTo(layerButton); 
                 
-                if (h.T === ('geojson')) {
+                if ((h.T === ('geojson')) && (noList === false)) {
                     treeIcon = $('<i title="Expand Marker Tree" class="fa fa-fw fa-sitemap toggle-list ' + layerId + '-tree"></i>');
                     treeIcon.click(function () {
                           setTimeout(function() {
@@ -1159,7 +1183,7 @@ function addTree(parent/* nodes  */, lb /*target */, includeOnly) {
                           if (!label.hasClass('active')) label.addClass('active');
                           if (!content.hasClass('active')) content.addClass('active');
                           if (timeline) toggleTimeline(true);
-                          if (h.T === ('geojson')) treeIcon.show();
+                          if ((h.T === ('geojson')) && (noList === false)) treeIcon.show();
                           if (h.T === ("nasa-gibs") || h.T === ("cartodb-layer") || h.T === ("wmts") || h.T === ("wms") || h.T === ("base-layer") || h.T === ("arcgis") || h.T === ("arcgis-layer") || h.T === ("bing")) { 
                               sliderIcon.show(); 
                           }
@@ -1174,7 +1198,7 @@ function addTree(parent/* nodes  */, lb /*target */, includeOnly) {
                           if (label.hasClass('active')) label.removeClass('active');
                           if (content.hasClass('active')) content.removeClass('active');
                           if (optIcon.hasClass('fa-folder-open-o')) optIcon.trigger('click');
-                          if (h.T === ('geojson')) treeIcon.hide();
+                          if ((h.T === ('geojson')) && (noList === false)) treeIcon.hide();
                           if (h.T === ("nasa-gibs") || h.T === ("cartodb-layer") || h.T === ("wmts") || h.T === ("wms") || h.T === ("base-layer") || h.T === ("arcgis") || h.T === ("arcgis-layer") || h.T === ("bing")) {
                               sliderIcon.hide();
                               sliderIcon.removeClass('show-sliders');
@@ -1234,30 +1258,6 @@ function initLayers(includeOnly) {
         });
     }
 }
-
-
-$('#CV-about').one("click", function() {
-    $('.do-video-div').append('<div class="videoWrapper"><div class="youtube" id="ZwFmez0ef6A" data-params="modestbranding=1&showinfo=0&controls=0&vq=hd720"></div></div>');
-    $(".youtube").each(function() {
-        // Based on the YouTube ID, we can easily find the thumbnail image
-        $(this).css('background-image', 'url(http://i.ytimg.com/vi/' + this.id + '/sddefault.jpg)');
-
-        // Overlay the Play icon to make it look like a video player
-        $(this).append($('<div/>', {'class': 'play'}));
-
-        $(document).delegate('#'+this.id, 'click', function() {
-            // Create an iFrame with autoplay set to true
-            var iframe_url = "https://www.youtube.com/embed/" + this.id + "?autoplay=1&autohide=1";
-            if ($(this).data('params')) iframe_url+='&'+$(this).data('params');
-
-            // The height and width of the iFrame should be the same as parent
-            var iframe = $('<iframe/>', {'frameborder': '0', 'src': iframe_url, 'width': $(this).width(), 'height': $(this).height() })
-
-            // Replace the YouTube thumbnail with YouTube HTML5 Player
-            $(this).replaceWith(iframe);
-        });
-    });
-});
 
  var animationContainer = $('.cesium-viewer-animationContainer');
  var timelineContainer = $('.cesium-viewer-timelineContainer');
@@ -1376,7 +1376,7 @@ if (allLayers.length > 0) {
 function shareLink() {
     var layers = "",
         baseLayers = "",
-        shareLink = homeURL;
+        shareLink = shareURL;
 
     $('.geojson.active, .kml.active, .arcgis.active, .wms.active, .wtms.active, .nasa-gibs.active').each(function () {
         var X = $(this);
@@ -1409,11 +1409,10 @@ function shareLink() {
     }
     
     if ($('.mode-2D').hasClass('active')) {
-        if (!$('#includeMode').hasClass('active')) shareLink += '&mode=2D';
-        if ($('#includeMode').hasClass('active')) shareLink += '&mode=2D';
+        shareLink += '&mode=2D';
         disableView();
     } else if ($('.mode-flat').hasClass('active')) {
-        if ($('#includeMode').hasClass('active')) shareLink += '&mode=flat';
+        shareLink += '&mode=flat';
         disableView();
     } else if ($('#includeView').hasClass('active')) {
         $('#includeView').prop('disabled', false).parent().prop('title', '');;
@@ -1433,13 +1432,11 @@ function shareLink() {
         shareLink += '&lat=' + ll;
         shareLink += '&lon=' + ln;
         shareLink += '&zoom=' + zoom;
-        if ($('#includeMode').hasClass('active')) shareLink += '&mode=3D';
+        shareLink += '&mode=3D';
     }
     
-    if ($('#includeDate').hasClass('active')) {
-        var date = picker.get('select', 'yyyy-mm-dd');
-        shareLink += '&date=' + date;
-    }
+    var date = picker.get('select', 'yyyy-mm-dd');
+    shareLink += '&date=' + date;
     
     var shareToggle = $('.share-all-layers');
     shareToggle.attr('href', shareLink).html(shareLink);
@@ -1516,7 +1513,7 @@ $('.sun-control').toggle(
 
 $('.about-jim').click(function (e) {
     e.preventDefault();
-    window.location = 'http://climateviewer.com/rezn8d/';
+    window.location = 'https://climateviewer.com/rezn8d/';
 });
 
 // SIDEBAR CONTROL & MAIN SCREEN BUTTONS
@@ -1524,10 +1521,12 @@ $('.reset-view').click(function (e) {
     e.preventDefault();
  $('.cesium-home-button').trigger('click');
 });
+
 function openPicker() {
     $('#datepicker').pickadate('picker').open();
     console.log('clicked');
 }
+
 $('.date-icon').click(function (e) {
     e.preventDefault();
     e.stopPropagation();
@@ -1619,19 +1618,22 @@ $(document).ready(function () {
         $('#chat').html(''); 
         $('#tutorial iframe').remove();
         $('#tutorial div.youtube').show();
+        $('.panel-collapse.in').collapse('hide');
+        var icons = $('.panel-heading i');
+        if (icons.hasClass('fa-chevron-down')) icons.removeClass('fa-chevron-down').addClass('fa-chevron-right');
     });
     $('#welcome a').click(function(e) {
         e.preventDefault();
-        $('#welcomeModal').modal().on('show.bs.modal', function () {
-            $('.panel-collapse.in').collapse('hide');
-            var icons = $('.panel-heading i');
-            if (icons.hasClass('fa-chevron-down')) icons.removeClass('fa-chevron-down').addClass('fa-chevron-right');
-        }).on('shown.bs.modal', function () {
+        $('#welcomeModal').modal().on('shown.bs.modal', function () {
             $('#chat').html('<iframe src="http://tlk.io/cvnews" class="chat-iframe" style="height:600px"></iframe>');
         }).on('hidden.bs.modal', function () { 
             $('#chat').html(''); 
             $('#tutorial iframe').remove();
             $('#tutorial div.youtube').show();
+            $('.panel-collapse.in').collapse('hide');
+            var icons = $('.panel-heading i');
+            if (icons.hasClass('fa-chevron-down')) icons.removeClass('fa-chevron-down').addClass('fa-chevron-right');
+
         });
     });
     /*
@@ -1658,12 +1660,16 @@ $(document).ready(function () {
             shareLink();
         }
     });
-    
+    function makeRight() {
+        $('.panel-heading a i.fa-chevron-down').removeClass('fa-chevron-down').addClass('fa-chevron-right');
+    }
     $('.panel-heading a').on('click', function () {
         if ($("i", this).hasClass('fa-chevron-right')) {
+            makeRight();
             $("i", this).removeClass('fa-chevron-right').addClass('fa-chevron-down');
             shareLink();
         } else {
+            makeRight();
             $("i", this).removeClass('fa-chevron-down').addClass('fa-chevron-right');
             shareLink();
         }

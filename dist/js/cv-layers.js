@@ -17,7 +17,8 @@
  proxy = l.P;
  3D only = l.TRD,
  Leaflet only = l.TWD,
- no Features = l.X;
+ no Features = l.X,
+ no Marker List = l.Y;
 
  */
 var layers = {

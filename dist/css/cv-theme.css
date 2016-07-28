@@ -5167,7 +5167,8 @@ li.treeview.active a i {
 }
 
 .skin-blue .main-header .navbar {
-    background-color: #1c1c1c
+    background-color: #1c1c1c;
+    height: 50px;
 }
 
 .skin-blue .main-header .navbar .nav>li>a {
@@ -5249,6 +5250,7 @@ li.treeview.active a i {
     background: #111;
     border-left-color: #1982D1
 }
+
 .skin-blue .sidebar-menu>li.active>a span,
 .skin-blue .sidebar-menu>li:hover>a span {
     color: #FFF;

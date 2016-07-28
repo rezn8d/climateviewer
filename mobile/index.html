@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>ClimateViewer Mobile | Tracking Geoengineering</title>
+    <title>ClimateViewer Mobile | Global Alert System | Disaster Map</title>
     <meta charset="utf-8">
     <base target="_blank">
     <!-- Tell IE to use the latest, best version (or Chrome Frame if pre-IE11). -->
@@ -14,10 +14,10 @@
 
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="ClimateViewer Mobile - Tracking Geoengineering" />
-    <meta property="og:description" content="Real-time atmospheric monitoring and maps covering geoengineering, weather modification, climate change, pollution, privacy, exploration, migration, geosciences, architecture, green energy solutions, sunken ships, airplane crash sites and more." />
+    <meta property="og:title" content="ClimateViewer Mobile - Global Alert System | Disaster Map" />
+    <meta property="og:description" content="Real-time atmospheric and geophysical monitoring with maps covering geoengineering, weather modification, climate change, pollution, privacy, exploration, migration, geosciences, architecture, green energy solutions, sunken ships, airplane crash sites and more." />
     <meta property="og:url" content="http://climateviewer.org/mobile/" />
-    <meta property="og:site_name" content="ClimateViewer Mobile - Tracking Geoengineering" />
+    <meta property="og:site_name" content="ClimateViewer Mobile - Global Alert System | Disaster Map" />
     <meta property="article:publisher" content="http://www.facebook.com/climateviewers" />
     <meta property="article:published_time" content="2015-12-28T01:30:00+00:00" />
     <meta property="article:modified_time" content="2015-12-31T01:30:00+00:00" />
@@ -27,10 +27,10 @@
     <meta property="og:image" content="http://climateviewer.org/img/climate-viewer-3d-1080.jpg" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@climateviewer" />
-    <meta name="twitter:title" content="ClimateViewer Mobile - Tracking Geoengineering" />
+    <meta name="twitter:title" content="ClimateViewer Mobile - Global Alert System | Disaster Map" />
     <meta name="twitter:image" content="http://climateviewer.org/img/CV3D-black.jpg" />
-    <meta name="twitter:description" content="Real-time atmospheric monitoring and maps covering geoengineering, weather modification, climate change, pollution, privacy, exploration, migration, geosciences, architecture, green energy solutions, sunken ships, airplane crash sites and more." />
-    <meta name="description" content="Real-time atmospheric monitoring and maps covering geoengineering, weather modification, climate change, pollution, privacy, exploration, migration, geosciences, architecture, green energy solutions, sunken ships, airplane crash sites and more." />
+    <meta name="twitter:description" content="Real-time atmospheric and geophysical monitoring with maps covering geoengineering, weather modification, climate change, pollution, privacy, exploration, migration, geosciences, architecture, green energy solutions, sunken ships, airplane crash sites and more." />
+    <meta name="description" content="Real-time atmospheric and geophysical monitoring with maps covering geoengineering, weather modification, climate change, pollution, privacy, exploration, migration, geosciences, architecture, green energy solutions, sunken ships, airplane crash sites and more." />
 
     <link rel="apple-touch-icon" sizes="57x57" href="http://climateviewer.org/dist/img/icons/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="http://climateviewer.org/dist/img/icons/apple-icon-60x60.png">
@@ -64,10 +64,9 @@
     <!-- Font Awesome -->
     <link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <!-- Theme style -->
-    <link type="text/css" rel="stylesheet" href="/dist/css/cv-theme.css">
+    <link type="text/css" rel="stylesheet" href="/dist/css/cv-theme.min.css?v6.02">
     <!-- CV style -->
-    <link type="text/css" rel="stylesheet" href="/dist/css/cv.css?v6.0">
-
+    <link type="text/css" rel="stylesheet" href="/dist/css/cv.min.css?v6.02">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -124,9 +123,9 @@
                                 <i class="fa fa-map-share"></i>
                             </a>
                         </li>
-                        <li class="tasks-menu report-tab" title="Submit your report on our map!">
-                            <a href="#submit-report">
-                                <i class="fa fa-bullhorn"></i>
+                        <li id="welcome" class="tasks-menu" title="Chat With Us!">
+                            <a href="#chat">
+                                <i class="fa fa-comments-o"></i>
                             </a>
                         </li>
                         <!-- User Account: style can be found in dropdown.less -->
@@ -202,6 +201,7 @@
                     <li><a href="/index.html" title="ClimateViewer home with upcoming features!" target="_self"><i class="fa fa-home"></i> <span>ClimateViewer Home</span></a></li>
                     <li><a href="/3D/" target="_self"><i class="fa fa-globe"></i> <span>ClimateViewer 3D Globe</span></a></li>
                     <li class="active"><a href="/mobile/" target="_self"><i class="fa fa-map-marker"></i> <span>ClimateViewer Mobile Map</span></a></li>
+                    <li class="report-tab"><a href="https://climateviewer.crowdmap.com/"><i class="fa fa-bullhorn"></i> <span>ClimateViewer Reports</span></a></li>
                     <li><a href="/geoengineering-timeline/" target="_self"><i class="fa fa-clock-o"></i> <span>Geoengineering Timeline</span></a></li>
                     <li class="header">Research</li>
                     <li>
@@ -330,16 +330,11 @@
         <aside class="control-sidebar control-sidebar-dark control-sidebar-open">
             <!-- Create the tabs -->
             <ul class="nav nav-tabs nav-justified control-sidebar-tabs">
-                <li class="active"><a href="#control-sidebar-map-layers-tab" data-toggle="tab" aria-expanded="true" title="Toggle Map Layers"><i class="fa fa-compass"></i></a></li>
-                <li><a id="sharing-tab" href="#control-sidebar-share-tab" data-toggle="tab" title="Sharing and Comments"><i class="fa fa-comments-o"></i></a></li>
-                <li><a id="CV-TV" href="#control-sidebar-tv-tab" data-toggle="tab" title="ClimateViewer TV and Twitter"><i class="fa fa-television"></i></a></li>
-                <li><a id="CV-about" href="#control-sidebar-about-tab" data-toggle="tab" title="About ClimateViewer"><i class="fa fa-info-circle"></i></a></li>
                 <li><a href="#collapse-menu" class="collapse-menu" title="Click here to collapse open folders"><i class="fa fa-compress"></i></a></li>
                 <li><a href="#scroll-to-top" class="top-layers" title="Scroll to the top of the page"><i class="fa fa-angle-up"></i></a></li>
             </ul>
             <!-- Tab panes -->
             <div id="top" class="tab-content">
-
                 <div class="tab-pane active" id="control-sidebar-map-layers-tab">
                     <div class="search input-group">
                         <form>
@@ -354,100 +349,6 @@
                     <div id="map-layers" class="map-layers ui"></div>
                     <p class="instruct active-layers-label">Active Layers</p>
                     <div id="active-layers" class="map-layers ui"></div>
-                </div>
-
-                <div class="tab-pane" id="control-sidebar-share-tab">
-                    <h3><i class='fa fa-heart-o'></i> Sharing is Caring</h3>
-                    <div id="share">
-                        <span class='st_facebook_vcount'></span>
-                        <span class='st_twitter_vcount'></span>
-                        <span class='st_sharethis_vcount'></span>
-                        <span class='st_email_vcount'></span>
-                    </div>
-                    <!-- #share -->
-                    <h3>
-                      <i class="fa fa-comments-o"></i> ClimateViewer Chat
-                    </h3>
-                    <div id="chat"></div>
-                    <!-- #chat -->
-                </div>
-
-                <div class="tab-pane" id="control-sidebar-tv-tab">
-                    <h3>
-                      <a href="http://www.youtube.com/subscription_center?add_user=R3zn8D">
-                        <i class='fa fa-youtube'></i> YouTube
-                      </a>
-                    </h3>
-                    <div id="load-youtube"></div>
-                    <h3>
-                      <a href="https://twitter.com/rezn8d">
-                        <i class='fa fa-twitter'></i> Twitter
-                      </a>
-                    </h3>
-                    <div id="load-twitter"></div>
-                </div>
-
-                <div class="tab-pane" id="control-sidebar-about-tab">
-                    <h3><a href="/index.html#about" target="_self">About ClimateViewer</a></h3>
-                    <p>Created by <strong><a href="http://climateviewer.com/rezn8d/" title="climateviewer.com/rezn8d">Jim &quot;rezn8d&quot; Lee</a></strong> and provided by <a href="http://climateviewer.com/"><strong>ClimateViewer News</strong></a> as a free public service.</p>
-                    <p>Know how to code and want to help make ClimateViewer 3D better? <a href="https://github.com/rezn8d/climateviewer" target="_blank">Join us on Github.</a></p>
-                    <h3>Instructions</h3>
-                    <div class="ui card content do-video-div">
-                        <p>Layer Controls</p>
-                        <i class="fa fa-fw fa-play"></i> =&nbsp;&nbsp;&nbsp;Load Layer
-                        <br>
-                        <i class="fa fa-fw fa-folder-o"></i> =&nbsp;&nbsp;&nbsp;Toggle Layer Details
-                        <br>
-                        <i class="fa fa-fw fa-play new-layer"></i> =&nbsp;&nbsp;&nbsp;New Layer!
-                        <br>
-                        <i class="fa fa-fw fa-play large-layer"></i> =&nbsp;&nbsp;&nbsp;Warning, Large Layer - High-performance processor required, may crash weaker systems
-                        <br>
-                        <br>
-                        <p>Other Controls</p>
-                        <i class="fa fa-fw fa-trash"></i> =&nbsp;&nbsp;&nbsp;Clear Map. Remove all layers
-                        <br>
-                        <i class="fa fa-fw fa-search-minus"></i> =&nbsp;&nbsp;&nbsp;Reset View (zoom out)
-                        <br>
-                        <i class="fa fa-fw fa-share-alt"></i> =&nbsp;&nbsp;&nbsp;Generate URL to share all currently active layers
-                        <br>
-                        <i class="fa fa-fw fa-bullhorn"></i> =&nbsp;&nbsp;&nbsp;Submit a report which will appear here
-                        <br>
-                        <i class="fa fa-fw fa-home"></i> =&nbsp;&nbsp;&nbsp;ClimateViewer home with upcoming features!
-                        <br>
-                        <i class="fa fa-fw fa-map-marker"></i> =&nbsp;&nbsp;&nbsp;Open/Close Layer Toolbar menu
-                        <br>
-                        <br>
-                        <i class="fa fa-fw fa-compass"></i> =&nbsp;&nbsp;&nbsp;Layer Menu
-                        <br>
-                        <i class="fa fa-fw fa-comments-o"></i> =&nbsp;&nbsp;&nbsp;Comments and Sharing
-                        <br>
-                        <i class="fa fa-fw fa-television"></i> =&nbsp;&nbsp;&nbsp;ClimateViewer TV and Twitter
-                        <br>
-                        <i class="fa fa-fw fa-info-circle"></i> =&nbsp;&nbsp;&nbsp;About ClimateViewer (this tab)
-                        <br>
-                        <i class="fa fa-fw fa-compress"></i> =&nbsp;&nbsp;&nbsp;Collapse layer category list
-                        <br>
-                        <i class="fa fa-fw fa-angle-up"></i> =&nbsp;&nbsp;&nbsp;Scroll to menu top
-                        <br>
-                        <br>
-                        <p>Click the LAYERS Menu in the top right to show or hide the layer menu, then click on a map layer in the list to make it appear on the globe. Click the layer again to remove it from the globe. Click the folder icon next to any layer to show layer details and additional layer controls. For more information, <a href="https://www.youtube.com/watch?v=ZwFmez0ef6A" target="_blank" rel="nofollow">Watch the Video on YouTube</a>.</p>
-                    </div>
-                    <h3><a href="/index.html#features" target="_self">Open-Source Technology</a></h3>
-                    <ul>
-                        <li><a href="https://github.com/rezn8d/climateviewer" target="_blank" rel="nofollow">ClimateViewer</a></li>
-                        <li><a href="http://leafletjs.com/" target="_blank" rel="nofollow">Leaflet</a></li>
-                        <li><a href="https://github.com/opie/leaflet-plugins" target="_blank" rel="nofollow">KMZ Leaflet Plugin</a></li>
-                        <li><a href="http://jquery.com/" target="_blank" rel="nofollow">jQuery</a></li>
-                        <li><a href="http://getbootstrap.com/" target="_blank" rel="nofollow">Bootstrap</a></li>
-                        <li><a href="https://lodash.com/" target="_blank" rel="nofollow">lodash</a></li>
-                        <li><a href="http://amsul.github.io/pickadate.js" target="_blank" rel="nofollow">pickadate.js</a></li>
-                        <li><a href="https://github.com/almasaeed2010/AdminLTE" target="_blank" rel="nofollow">AdminLTE</a></li>
-                    </ul>
-                    <h3><a href="/index.html#learn" target="_self">Get Prepared</a></h3>
-                    <p>Please check out these <a href="/index.html#learn">life-saving resources</a>. Knowing is half the battle</p>
-                    <h3><a href="/index.html#grow" target="_self">Support Us</a></h3>
-                    <p>This website was made possible by <strong><a target="_blank" rel="nofollow" href="http://www.gofundme.com/climateviewer" title="GoFundMe link">donations from caring individuals like you!</a></strong> Thank you for your support.</p>
-                    <footer><strong>&copy; <a href="http://climateviewer.com/rezn8d/" title="climateviewer.com/rezn8d">Jim Lee</a> of <a style='text-decoration:none' title='Terms of Service' href="http://climateviewer.com/terms/">ClimateViewer News</a>&nbsp;2011-<script type="text/javascript">today=new Date(); year=today.getYear(); if (year<1999) {year=year+1900;} document.write(year);</script></strong></footer>
                 </div>
             </div>
         </aside>
@@ -464,18 +365,142 @@
             <div class="modal-content">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                    <h4 class="modal-title">ClimateViewer | GIS on Steroids</h4>
+                    <h4 class="modal-title">ClimateViewer | Global Alert System</h4>
                 </div>
                 <div class="modal-body">
-                    <p>ClimateViewer Mobile's live updates on severe weather, earthquakes, fires, and other life-threatening events will give you peace of mind in one all-inclusive app. With cutting-edge technology, real-time situational awareness, and a visual tour of our planetary health risks, look no further. We have you covered, <span class="sharing-tab">spread the word!</span> This website is under construction, please <a href="mailto:jim@climateviewer.com">report any issues</a> and have fun! Knowing is half the battle. <span class="instructions">Click here for instructions.</span></p>
+                    <p>ClimateViewer Mobile's live updates on severe weather, earthquakes, fires, and other life-threatening events will give you peace of mind in one all-inclusive app. With cutting-edge technology, real-time situational awareness, and a visual tour of our planetary health risks, ClimateViewer Mobile is your source for up-to-the-second live intel on a mobile-friendly map.</p>
+                    <p>ClimateViewer Mobile gives you real-time atmospheric and geophysical monitoring with maps covering geoengineering, weather modification, climate change, pollution, privacy, exploration, migration, geosciences, architecture, green energy solutions, sunken ships, airplane crash sites and more. Create your own mix of map layers and share your screen's current location, base layer, overlays, and markers! Please <a href="mailto:jim@climateviewer.com">report any issues</a>, stay safe, and have fun. Knowing is half the battle.</p>
+
                     <div class="clearfix"></div>
-                    <h3>Instructions</h3>
-                    <div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZwFmez0ef6A" frameborder="0" allowfullscreen></iframe></div>
-                    <h3>Changes</h3>
-                    <p><strong>January 28, 2016</strong> - GeoJSON layers now show a list of all of the markers.  You can click on the list to fly to that location!</p>
-                    <p><strong>January 19, 2016</strong> - Bing Maps Aerial (satellite view) is now set as the default background layer.</p>
+                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                      <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingOne">
+                          <h4 class="panel-title">
+                            <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne"><i class="fa fa-fw fa-chevron-right"></i> Instructions</a>
+                          </h4>
+                        </div>
+                        <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+                          <div class="panel-body">
+                            <p>Click the Map Layer Menu button (<i class="fa fa-fw fa-chevron-right"></i>) in the top right to show or hide the layer menu, then click on a map layer in the list to make it appear on the globe. Click the layer again to remove it from the globe. Click the folder icon next to any layer to show layer details. For more information, watch the YouTube video below.</p>
+                            <h4>Video Tutorial</h4>
+                            <div id="tutorial" class="videoWrapper">
+                                <div class="youtube" id="ZwFmez0ef6A" data-params="modestbranding=1&showinfo=0&controls=0&vq=hd720"></div>
+                            </div>
+                            <h4>Layer Controls</h4>
+                            <i class="fa fa-fw fa-play"></i> =&nbsp;&nbsp;&nbsp;Load Layer (display on map).
+                            <br>
+                            <i class="fa fa-fw fa-spinner fa-spin"></i> =&nbsp;&nbsp;&nbsp;Layer is currently loading.
+                            <br>
+                            <i class="fa fa-fw fa-check"></i> =&nbsp;&nbsp;&nbsp;Layer is loaded.
+                            <br>
+                            <i class="fa fa-fw fa-sitemap"></i> =&nbsp;&nbsp;&nbsp;Show list of map markers, click on list entries to fly to their locations!
+                            <br>
+                            <i class="fa fa-fw fa-sliders"></i> =&nbsp;&nbsp;&nbsp;Show layer sliders. Control layer opacity, color, etc.
+                            <br>
+                            <i class="fa fa-fw fa-folder-o"></i> =&nbsp;&nbsp;&nbsp;Toggle Layer Details.
+                            <br>
+                            <i class="fa fa-fw fa-play new-layer"></i> =&nbsp;&nbsp;&nbsp;New Layer!
+                            <br>
+                            <i class="fa fa-fw fa-play large-layer" style="color:#F00;"></i> =&nbsp;&nbsp;&nbsp;Warning, Large Layer - High-performance processor required, may crash on weaker systems.
+                            <br>
+                            <br>
+                            <h4>Other Controls</h4>
+                            <i class="fa fa-fw fa-bars"></i> =&nbsp;&nbsp;&nbsp;Open Left Sidebar.
+                            <br>
+                            <i class="fa fa-fw fa-trash"></i> =&nbsp;&nbsp;&nbsp;Clear Globe. Remove all layers.
+                            <br>
+                            <i class="fa fa-fw fa-search-minus"></i> =&nbsp;&nbsp;&nbsp;Reset View (zoom out).
+                            <br>
+                            <i class="fa fa-fw fa-share-alt"></i> =&nbsp;&nbsp;&nbsp;Generate URL to share all currently active layers.
+                            <br>
+                            <i class="fa fa-fw fa-comments-o"></i> =&nbsp;&nbsp;&nbsp;Open this window with our tutorial section and chat. room!
+                            <br>
+                            <i class="fa fa-fw fa-chevron-right"></i> =&nbsp;&nbsp;&nbsp;Open/Close Layer Toolbar menu.
+                            <br>
+                            <br>
+                            <i class="fa fa-fw fa-compress"></i> =&nbsp;&nbsp;&nbsp;Collapse layer category list.
+                            <br>
+                            <i class="fa fa-fw fa-angle-up"></i> =&nbsp;&nbsp;&nbsp;Scroll to layer menu top.
+                            <br>
+                          </div>
+                        </div>
+                      </div>
+                        
+                      <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingTwo">
+                          <h4 class="panel-title">
+                            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"><i class="fa fa-fw fa-chevron-right"></i> Latest Updates</a>
+                          </h4>
+                        </div>
+                        <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+                          <div class="panel-body">
+                              <h4>July 27, 2016</h4>
+                              <ul>
+                                  <li>MAJOR UPDATE!</li>
+                                  <li>You can now share your BASE LAYER! Layers are stacked when you load them, choose a base layer from the layer menu.</li>
+                                  <li>You can now toggle display of active layers and all layers.</li>
+                                  <li>User interface buttons have been greatly simplified.</li>
+                                  <li>GeoJSON marker list height now limited to avoid massive scrolling.</li>
+                                  <li>Date Picker now moved to top bar so it is always visible.</li>
+                                  <li>Many coding improvements for improved speed and reliability.</li>
+                              </ul>
+                              <h4>January 28, 2016</h4>
+                              <ul>
+                                  <li>GeoJSON layers now show a list of all of the markers. You can click on the list to fly to that location!</li>
+                              </ul>
+                              <h4>January 19, 2016</h4>
+                              <ul>
+                                  <li>Bing Maps Aerial (satellite view) is now set as the default background layer.</li>
+                                  <li>The timeline slider at the bottom of the screen can now be used to set the NASA satellite imagery date.</li>
+                              </ul>
+                          </div>
+                        </div>
+                      </div>
+                        
+                      <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingThree">
+                          <h4 class="panel-title">
+                            <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree"><i class="fa fa-fw fa-chevron-right"></i> About ClimateViewer</a>
+                          </h4>
+                        </div>
+                        <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+                          <div class="panel-body">
+                            <p>Created by <a href="https://climateviewer.com/rezn8d/" title="climateviewer.com/rezn8d" target="_self">Jim &quot;rezn8d&quot; Lee</a> and provided by <a href="https://climateviewer.com/" target="_self">ClimateViewer News</a> as a free public service. For a full description of this project and our plans for future updates, check out our homepage: <a href="/index.html#about" target="_self">About ClimateViewer</a></p>
+                            <p>Know how to code and want to help make ClimateViewer Mobile better? <a href="https://github.com/rezn8d/climateviewer" target="_blank">Join us on Github.</a></p>
+                            <h4><a href="/index.html#features" target="_self">Open-Source Technology</a></h4>
+                            <ul>
+                                <li><a href="https://github.com/rezn8d/climateviewer" target="_blank" rel="nofollow">ClimateViewer</a></li>
+                                <li><a href="http://leafletjs.com/" target="_blank" rel="nofollow">Leaflet</a></li>
+                                <li><a href="https://github.com/opie/leaflet-plugins" target="_blank" rel="nofollow">KMZ Leaflet Plugin</a></li>
+                                <li><a href="http://jquery.com/" target="_blank" rel="nofollow">jQuery</a></li>
+                                <li><a href="http://getbootstrap.com/" target="_blank" rel="nofollow">Bootstrap</a></li>
+                                <li><a href="https://lodash.com/" target="_blank" rel="nofollow">lodash</a></li>
+                                <li><a href="http://amsul.github.io/pickadate.js" target="_blank" rel="nofollow">pickadate.js</a></li>
+                                <li><a href="https://github.com/almasaeed2010/AdminLTE" target="_blank" rel="nofollow">AdminLTE</a></li>
+                            </ul>
+                            </div>
+                        </div>
+                      </div>
+                        
+                      <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingFour">
+                          <h4 class="panel-title">
+                            <a id="sharing-tab" class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour"><i class="fa fa-fw fa-chevron-right"></i> Chat Room</a>
+                          </h4>
+                        </div>
+                        <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
+                          <div class="panel-body">
+                            <div id="chat"></div>
+                            <!-- #chat -->
+                          </div>
+                        </div>
+                      </div>
+                    </div> <!-- end panel-group -->
+
+                    <p>This website was made possible by <strong><a target="_blank" rel="nofollow" href="http://www.gofundme.com/climateviewer" title="GoFundMe link">donations from caring individuals like you!</a></strong> Thank you for your support. This site is dedicated to the memory of my friend <a href='https://www.facebook.com/bill.knarr1'>Bill Knarr</a>.</p>
                 </div>
                 <div class="modal-footer">
+                    <p style="color:#FFF !important;margin-top: 7px;" class="pull-left">&copy; <a href="https://climateviewer.com/rezn8d/" title="climateviewer.com/rezn8d">Jim Lee</a> of <a style='text-decoration:none' title='Terms of Service' href="https://climateviewer.com/terms/">ClimateViewer News</a>&nbsp;2011-<script type="text/javascript">today=new Date(); year=today.getYear(); if (year<1999) {year=year+1900;} document.write(year);</script></p>
                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
                 </div>
             </div>
@@ -485,27 +510,6 @@
     </div>
     <!-- /.modal -->
 
-    <!-- .modal -->
-    <div id="searchModal" class="modal fade">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                    <h4 class="modal-title">Search Results</h4>
-                </div>
-                <div class="modal-body">
-                    <div id="resultsDiv"></div>
-                    <div class="clearfix"></div>
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                </div>
-            </div>
-            <!-- /.modal-content -->
-        </div>
-        <!-- /.modal-dialog -->
-    </div>
-    <!-- /.modal -->
 
     <!-- .modal -->
     <div id="featureModal" class="modal fade">
@@ -538,11 +542,11 @@
                     <h4 class="modal-title">Share Active Layers</h4>
                 </div>
                 <div class="modal-body">
-                    <div class="sub header" style="color:#DDD">Use this URL to share all currently displayed layers.</div>
+                    <div class="sub header" style="color:#000">Use this URL to share all currently displayed layers.</div>
                     <div class="well">
                         <a class="share-all-layers" href="http://climateviewer.org/" title="My custom CV3D map" target="_self"></a>
                     </div>
-                    <div class="sub header" style="color:#DDD">Short URL</div>
+                    <div class="sub header" style="color:#000">Short URL</div>
                     <div id="result" class="well"></div>
                 </div>
                 <div class="modal-footer">
@@ -572,15 +576,15 @@
     <script src="/dist/plugins/fastclick/fastclick.js"></script>
 
     <script type="text/javascript" src="/lib/graphlib/graphlib.min.js"></script>
-    <script type="text/javascript" src="/lib/nobject.js"></script>
+    <script type="text/javascript" src="/lib/nobject.min.js"></script>
 
     <!-- LOCAL <script type="text/javascript" src="/lib/lodash/lodash.min.js"></script> -->
     <script type="text/javascript" src="https://cdn.jsdelivr.net/lodash/3.10.1/lodash.min.js"></script>
 
-    <script type="text/javascript" src="/lib/pickadate-3.5.6/combined.js"></script>
-    <!-- <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.pickadate.js/3.5.6/picker.js"></script>
+    <!-- <script type="text/javascript" src="/lib/pickadate-3.5.6/combined.js"></script> -->
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.pickadate.js/3.5.6/picker.js"></script>
     <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.pickadate.js/3.5.6/picker.date.js"></script>
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.pickadate.js/3.5.6/legacy.js"></script>  -->
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.pickadate.js/3.5.6/legacy.js"></script>
 
     <!-- LOCAL <script type="text/javascript" src="/lib/leaflet/v1.0b1/leaflet.js"></script> -->
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.0-rc.1/leaflet.js"></script>
@@ -595,33 +599,18 @@
     <script type="text/javascript" src="/lib/L.GeoSearch/src/js/l.control.geosearch.js"></script>
     <script type="text/javascript" src="/lib/L.GeoSearch/src/js/l.geosearch.provider.openstreetmap.js"></script>
 
-    <script type="text/javascript" src="/dist/js/cv-layers.js?v6.0"></script>
-    <script type="text/javascript" src="/dist/js/cv2d.js?v6.0"></script>
+    <script type="text/javascript" src="/dist/js/cv-layers.min.js?v6.02"></script>
+    <script type="text/javascript" src="/dist/js/cv2d.min.js?v6.02"></script>
 
     <!-- AdminLTE App -->
-    <script src="/dist/js/ui.js?v6.0"></script>
+    <script src="/dist/js/ui.min.js?v6.02"></script>
 
 
     <script type="text/javascript">
-        $('#sharing-tab').one('click', function () {
-            var head = $('head');
-            // load chat and sharing
-            $('#chat').html('<iframe src="http://tlk.io/cvnews" class="container-fluid chat-iframe" style="height:600px"></iframe>');
-            head.append('<script type="text/javascript">var switchTo5x=true;<' + '/script>');
-            head.append('<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"><' + '/script>');
-            head.append('<script type="text/javascript">stLight.options({publisher: "919e0e68-8cf4-433f-b1ac-049584a0a9f5", doNotHash: true, doNotCopy: true, hashAddressBar: false });<' + '/script>');
-        });
         var sc_project = 9709294;
         var sc_invisible = 1;
         var sc_security = "c8b024d1";
-        var scJsHost = (("https:" == protocol) ? "https://secure." : "http://www.");
         document.write("<sc" + "ript type='text/javascript' src='http://www.statcounter.com/counter/counter.js'></" + "script>");
-        /*
-        if (protocol == "https:") {
-            alert('SSL Support is currently under construction.  Some layers may not load properly, otherwise try using http:// instead.');   
-        }
-        */
-
     </script>
     <noscript>
         <div class="statcounter">

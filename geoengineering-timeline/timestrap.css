@@ -1,24 +1,36 @@
 body, html { font-size: 100%; padding: 0; margin: 0; outline: 0;}
-body { 
-    font-family: 'Open Sans', sans-serif;
-    font-size: 15px;
-    font-weight: 400;
-    color: #666;
-    margin-top:60px;
-    background: #6699FF url('img/clouds.png') no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover;   background-size: cover;
-}
-
+body { font-family: 'Open Sans', sans-serif; font-size: 15px; font-weight: 400; color: #666; background: #6699FF url('/geoengineering-timeline/img/clouds.png') no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; }
 
 a { color: #6699FF;	text-decoration: none; font-weight: 400; }
 a:hover, a:focus  { color: #6699FF; text-decoration: underline; font-weight: 400; }
 
-
 /* NAV MENU */
 .navbar-default {
 	color: #FFF;
-    background-color: #6699FF;
+    background-color: #1c1c1c;
     border:none;
     border-bottom: 1px solid rgba(255,255,255,0.3);
+}
+ul.nav i.icon.glyphicon {
+    margin-right: 10px;
+}
+.navbar-brand {
+    padding: 8px 15px;
+}
+.navbar-brand>img {
+    display: inline-block;
+    height: 40px;
+    position: relative;
+    top: -3px;
+    margin-right: 4px;
+}
+.navbar-default .navbar-brand b {
+    color: #1982D1;
+    text-transform: uppercase;
+}
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+    color: #FFF;
+    background-color: transparent;
 }
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle .icon-bar {
     background-color: rgba(255,255,255,0.3);
@@ -31,26 +43,32 @@ a:hover, a:focus  { color: #6699FF; text-decoration: underline; font-weight: 400
     color: #FFF;
 }
 
-.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
-    background-color: #F6F1ED;
-    color: #6699FF;
-}
-.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
-    color: #6699FF;
-    background-color: #F6F1ED;
-}
+.navbar-default .navbar-nav>li>a:focus,
+.navbar-default .navbar-nav>li>a:hover, 
+.navbar-default .navbar-nav>.open>a,
+.navbar-default .navbar-nav>.open>a:focus,
+.navbar-default .navbar-nav>.open>a:hover,
 .nav .dropdown-menu>li>a {
     color: #6699FF;
+    background: transparent;
+}
+.navbar-nav>li>.dropdown-menu {
+    background: #2c2c2c;
+    margin-top: 1px;
+    border-radius: 0;
 }
 .dropdown-header {
-	color:#87b2ff;
+	color:#999;
 }
 .form-control {
-    color: #6699FF;
-    background-color: #fff;
+    color: #FFF;
+    background-color: #333;
     background-image: none;
-    margin-top: 7px;
-    border: 1px solid #6699FF;
+    margin-top: 0;
+    height: 50px;
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 0;
+    border-bottom: 0;
 }
 
 /* HEADER */
@@ -64,8 +82,9 @@ a:hover, a:focus  { color: #6699FF; text-decoration: underline; font-weight: 400
     color: #FFF;
     font-size: 3em;
     text-align: center;
-    margin: 60px 0;
+    margin: 0;
     text-transform: uppercase;
+    background: rgba(0,0,255,0.1);
 }
 .box.panel { padding:40px 20px; }
 .box-icon { text-align: center; }
@@ -434,8 +453,16 @@ a.rednet {
     left: -2px;
     top: -1px;
 }
-
-
+@media (min-width: 1023px) {
+    .navbar-fixed-top .container-fluid {
+        padding:0 40px;
+    }
+}
+@media (max-width: 1023px) {
+    .navbar-fixed-top .container-fluid * {
+        font-size:0.95em !important;
+    }
+}
 @media (max-width: 767px) {
 	.timestrap div.panel .panel-footer .btn-group .btn {
 	    width:100%;
@@ -463,6 +490,9 @@ a.rednet {
         max-width: 200px;
         margin:0 auto;
         float: none;
+    }
+    .navbar-default .navbar-brand b {
+        font-size: 1.4em !important;
     }
 }
 

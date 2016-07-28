@@ -36,18 +36,9 @@
     box-sizing: border-box;
 }
 body {
-    width: 100%;
-    height: 100%;
     font-family: 'Open Sans', sans-serif;
     color: #111;
     background-color: #eee;
-    overflow: hidden;
-    overflow-y: scroll;
-}
-
-html {
-    width: 100%;
-    height: 100%;
 }
 
 h1,
@@ -619,6 +610,7 @@ h3.intro-text.body-menu {
 
 span.orange {
     color:#1982D1;
+    font-weight: 700;
 }
 
 .text-center {

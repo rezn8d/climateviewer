@@ -1,4 +1,10 @@
-var baseUrl = "http://theweathereffect.com/";
+$('#slider').nivoSlider({
+    pauseTime: 7000,
+    pauseOnHover: false,
+});
+
+var baseUrl = "http://climateviewer.org/geoengineering-timeline/";
+
 layers.reverse();
 function loadLayers() {
   var lb = $('#timestrap'), ml = $('#milestones'), toggle = $('.timestrap-filter');
