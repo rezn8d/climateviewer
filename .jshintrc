@@ -1,0 +1,8 @@
+{
+    "globals": {
+        "$": false,
+        "_": false,
+        "layers": false,
+        "window":false
+    }
+}
