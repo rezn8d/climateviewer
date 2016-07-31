@@ -1,5 +1,10 @@
 "use strict";
 
+// Set web root url
+var homeURL = window.location.protocol + "//" + window.location.host + "/3D/";  // production
+var shareURL = "http://climateviewer.org/3D/";  // production
+var proxyURL = '/proxy.php?';  // production
+
 // Check for mobile devices, set body class accordingly
 function resize() {
     var clientHeight = $(window).height(), clientWidth = $(window).width(), mobile = 767, tiny = 481;
@@ -219,6 +224,15 @@ Earth at night as seen by NASA/NOAA\'s Suomi NPP satellite.',
 */
 // TERRAIN
 var terrainProviders = [];
+
+terrainProviders.push(new Cesium.ProviderViewModel({
+    name: 'WGS84 Ellipsoid',
+    iconUrl: Cesium.buildModuleUrl('Widgets/Images/TerrainProviders/Ellipsoid.png'),
+    tooltip: 'WGS84 standard ellipsoid, also known as EPSG:4326',
+    creationFunction: function () {
+        return new Cesium.EllipsoidTerrainProvider();
+    }
+}));
 terrainProviders.push(new Cesium.ProviderViewModel({
     name: 'STK World Terrain meshes',
     iconUrl: Cesium.buildModuleUrl('Widgets/Images/TerrainProviders/STK.png'),
@@ -232,14 +246,6 @@ terrainProviders.push(new Cesium.ProviderViewModel({
     }
 }));
 
-terrainProviders.push(new Cesium.ProviderViewModel({
-    name: 'WGS84 Ellipsoid',
-    iconUrl: Cesium.buildModuleUrl('Widgets/Images/TerrainProviders/Ellipsoid.png'),
-    tooltip: 'WGS84 standard ellipsoid, also known as EPSG:4326',
-    creationFunction: function () {
-        return new Cesium.EllipsoidTerrainProvider();
-    }
-}));
 
 var now = Cesium.JulianDate.now();
 var clock = new Cesium.Clock({currentTime: now});
@@ -298,11 +304,6 @@ var baseLayerPicker = new Cesium.BaseLayerPicker('baseLayerPickerContainer', {
     imageryProviderViewModels: imageryViewModels,
     terrainProviderViewModels: terrainProviders
 });
-
-// Set web root url
-var homeURL = window.location.protocol + "//" + window.location.host + "/3D/";  // production
-var shareURL = "http://climateviewer.org/3D/";  // production
-var proxyURL = '/proxy.php';  // production
 
 var activeLayers = {};
 var infoBox = $('.cesium-infoBox');
@@ -910,7 +911,7 @@ function loadKml(layerId, geoDataSrc, proxy, zoom, markerImg, markerScale, marke
         new Cesium.KmlDataSource.load(geoDataSrc, {
             proxy : {
                 getURL : function(geoDataSrc) {
-                    return '/proxy.php/' + geoDataSrc;
+                    return proxyURL + encodeURIComponent(geoDataSrc);
                 }
             },
             sourceUri: geoDataSrc
@@ -1040,7 +1041,6 @@ function updateLayer(layerId, includeOnly) {
         } else {
             console.log(layerId + ' failed to load map type: ' + l.T);
         }
-        //shareLink();
         if (timeline) toggleTimeline(true);
     }
 }
@@ -1667,18 +1667,15 @@ $(document).ready(function () {
         if ($("i", this).hasClass('fa-chevron-right')) {
             makeRight();
             $("i", this).removeClass('fa-chevron-right').addClass('fa-chevron-down');
-            shareLink();
         } else {
             makeRight();
             $("i", this).removeClass('fa-chevron-down').addClass('fa-chevron-right');
-            shareLink();
         }
     });
 
     
     $('.share-active-layers').one('click', function () {
         $('#includeView').click();
-        $('#includeDate').click();
     });
     
     $('.content-wrapper').show();

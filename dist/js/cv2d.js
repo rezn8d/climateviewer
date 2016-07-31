@@ -95,7 +95,7 @@ new L.Control.GeoSearch({
 // Set web root url
 var homeURL = window.location.protocol + "//" + window.location.host + "/mobile/";
 var shareURL = "http://climateviewer.org/mobile/"; // production
-var proxyURL = '/proxy.php'; // production
+var proxyURL = '/proxy.php?'; // production
 
 var activeLayers = {};
 var layerEnabled = {}; // whether the label is in some way enabled
@@ -503,7 +503,7 @@ function loadArcGisBasemap(layerId, geoDataSrc) {
 
 function loadKml(layerId, geoDataSrc, proxy, zoom) {
     var assetLayerGroup = new L.LayerGroup();
-    var proxyKml = (proxyURL + "?" + geoDataSrc);
+    var proxyKml = (proxyURL + geoDataSrc);
     var loadUrl;
     if (proxy) {
         loadUrl = proxyKml;
@@ -1305,11 +1305,9 @@ $(document).ready(function () {
         if ($("i", this).hasClass('fa-chevron-right')) {
             makeRight();
             $("i", this).removeClass('fa-chevron-right').addClass('fa-chevron-down');
-            shareLink();
         } else {
             makeRight();
             $("i", this).removeClass('fa-chevron-down').addClass('fa-chevron-right');
-            shareLink();
         }
     });
 

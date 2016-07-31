@@ -1,8 +1,28 @@
 var layers = [
         "1850",
         {
+            section: "Star Wars",
+            sectionid: "star-wars",
+            visible: false
+        },
+        {
             section: "Pluviculture",
             sectionid: "pluviculture",
+            visible: false
+        },
+        {
+            section: "Geoengineering",
+            sectionid: "geoengineering",
+            visible: false
+        },
+        {
+            section: "Electromagnetic",
+            sectionid: "electromagnetic",
+            visible: false
+        },
+        {
+            section: "Cloud Seeding",
+            sectionid: "cloud-seeding",
             visible: false
         },
         {
@@ -109,11 +129,6 @@ var layers = [
             category: "pluviculture"
         },
         {
-            section: "Star Wars",
-            sectionid: "star-wars",
-            visible: false
-        },
-        {
             year: "1929",
             title: "Space mirrors to focus sunlight and melt polar icecaps",
             details: "<blockquote>Proposed building giant mirrors on a space station to focus the Sun’s radiation on Earth’s surface, making the far North habitable and freeing sea lanes to Siberian harbors</blockquote> Hermann Oberth.",
@@ -121,11 +136,6 @@ var layers = [
             image: ["img/timeline/space-mirrors-focus-sunlight-melt-poles.png"],
             category: ["star-wars"],
             tags: ["space mirrors"]
-        },
-        {
-            section: "Geoengineering",
-            sectionid: "geoengineering",
-            visible: false
         },
         {
             year: "1934",
@@ -145,11 +155,6 @@ var layers = [
             image: ["img/timeline/can-we-atomize-the-arctic.jpg"],
             category: ["geoengineering", "star-wars"],
             tags: [ "melt the arctic" ]
-        },
-        {
-            section: "Cloud Seeding",
-            sectionid: "cloud-seeding",
-            visible: false
         },
         {
             month: "November 13",
@@ -1101,11 +1106,6 @@ var layers = [
             link: ["http://www.energy.ca.gov/2007publications/CEC-500-2007-008/CEC-500-2007-008.PDF"],
             category: ["cloud-seeding"],
             tags: ["policy", "funding", "California"]
-        },
-        {
-            section: "Electromagnetic",
-            sectionid: "electromagnetic",
-            visible: false
         },
         {
             month: "May",
