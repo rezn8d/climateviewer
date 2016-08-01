@@ -1035,38 +1035,144 @@ var layers = {
     },
     satellites: {
         N: "Satellites",
-        sat: {
-            N: "Satellite Imagery",
+        terra: {
+            N: "MODIS Terra",
             icon: "fa-globe",
             '>': [
                 {
                     I: "MODIS_Terra_CorrectedReflectance_TrueColor",
                     T: 'nasa-gibs',
-                    S: "NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS)",
+                    F: "jpg",
+                    S: "NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
                     U: "https://earthdata.nasa.gov/",
-                    N: "MODIS Terra - Corrected Reflectance (True Color)"
+                    N: "Corrected Reflectance (True Color)"
                 },
                 {
                     I: "MODIS_Terra_CorrectedReflectance_Bands721",
                     T: 'nasa-gibs',
-                    S: "NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS)",
+                    F: "jpg",
+                    S: "NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
                     U: "https://earthdata.nasa.gov/",
-                    N: "MODIS Terra - Corrected Reflectance (Bands 7-2-1)"
+                    N: "Corrected Reflectance (Bands 7-2-1)"
                 },
                 {
                     I: "MODIS_Terra_CorrectedReflectance_Bands367",
                     T: 'nasa-gibs',
-                    S: "NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS)",
+                    F: "jpg",
+                    S: "NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
                     U: "https://earthdata.nasa.gov/",
-                    N: "MODIS Terra - Corrected Reflectance (Bands 3-6-7)"
+                    N: "Corrected Reflectance (Bands 3-6-7)"
+                },
+                {
+                    I: "MODIS_Terra_SurfaceReflectance_Bands143",
+                    T: 'nasa-gibs',
+                    F: "jpg",
+                    Fz: "8",
+                    S: "NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "Land Surface Reflectance (True Color)"
+                },
+                {
+                    I: "MODIS_Terra_SurfaceReflectance_Bands721",
+                    T: 'nasa-gibs',
+                    F: "jpg",
+                    Fz: "8",
+                    S: "NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "Land Surface Reflectance (Bands 7-2-1)"
                 },
                 {
                     I: "MODIS_Terra_SurfaceReflectance_Bands121",
                     T: 'nasa-gibs',
-                    S: "NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS)",
+                    F: "jpg",
+                    S: "NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
                     U: "https://earthdata.nasa.gov/",
-                    N: "MODIS Terra - Land Surface Reflectance (Bands 1-2-1)"
+                    N: "Land Surface Reflectance (Bands 1-2-1)"
+                }
+            ]
+        },
+        aqua: {
+            N: "MODIS Aqua",
+            icon: "fa-globe",
+            '>': [
+                {
+                    I: "MODIS_Aqua_CorrectedReflectance_TrueColor",
+                    T: 'nasa-gibs',
+                    F: "jpg",
+                    S: "NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "Corrected Reflectance (True Color)"
                 },
+                {
+                    I: "MODIS_Aqua_CorrectedReflectance_Bands721",
+                    T: 'nasa-gibs',
+                    F: "jpg",
+                    S: "NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "Corrected Reflectance (Bands 7-2-1)"
+                },
+                {
+                    I: "MODIS_Aqua_SurfaceReflectance_Bands143",
+                    T: 'nasa-gibs',
+                    F: "jpg",
+                    Fz: "8",
+                    S: "NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "Land Surface Reflectance (True Color)"
+                },
+                {
+                    I: "MODIS_Aqua_SurfaceReflectance_Bands721",
+                    T: 'nasa-gibs',
+                    F: "jpg",
+                    Fz: "8",
+                    S: "NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "Land Surface Reflectance (Bands 7-2-1)"
+                },
+                {
+                    I: "MODIS_Aqua_SurfaceReflectance_Bands121",
+                    T: 'nasa-gibs',
+                    F: "jpg",
+                    S: "NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "Land Surface Reflectance (Bands 1-2-1)"
+                },
+            ]
+        },
+        viirs: {
+            N: "VIIRS SNPP",
+            icon: "fa-globe",
+            '>': [
+                {
+                    I: "VIIRS_SNPP_CorrectedReflectance_TrueColor",
+                    T: 'nasa-gibs',
+                    F: "jpg",
+                    S: "Visible Infrared Imaging Radiometer Suite (VIIRS) Suomi National Polar-orbiting Partnership (SNPP).<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2015/11/24 --> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "Corrected Reflectance (True Color)"
+                },
+                {
+                    I: "VIIRS_SNPP_CorrectedReflectance_BandsM11-I2-I1",
+                    T: 'nasa-gibs',
+                    F: "jpg",
+                    S: "Visible Infrared Imaging Radiometer Suite (VIIRS) Suomi National Polar-orbiting Partnership (SNPP).<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2015/11/24 --> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "Corrected Reflectance (Bands M11-I2-I1)"
+                },
+                {
+                    I: "VIIRS_SNPP_CorrectedReflectance_BandsM3-I3-M11",
+                    T: 'nasa-gibs',
+                    F: "jpg",
+                    S: "Visible Infrared Imaging Radiometer Suite (VIIRS) Suomi National Polar-orbiting Partnership (SNPP).<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2015/11/24 --> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "Corrected Reflectance (Bands M3-I3-M11)"
+                },
+            ]
+        },
+        othersat: {
+            N: "Other Satellites",
+            icon: "fa-globe",
+            '>': [
                 {
                     P: true,
                     I: "kml-usnmsir",

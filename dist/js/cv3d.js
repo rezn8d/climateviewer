@@ -342,7 +342,7 @@ picker.on({
         var selectedDate = picker.get('select', 'yyyy-mm-dd');
         console.log(selectedDate);
         $('.nasa-gibs.active').each(function () {
-            loadGIBS($(this).attr('id'), selectedDate);
+            loadGIBS($(this).attr('id'), selectedDate, $(this).attr('data-format'), $(this).attr('data-zoom'));
         });
     }
 });
@@ -481,15 +481,16 @@ function loadMarkerSliders(src, layerId) {
 }
 */
 
-function loadGIBS(layerId, selectedDate) {
+function loadGIBS(layerId, selectedDate, format, zoomLevel) {
     removeImagery(layerId);
     var src = viewer.imageryLayers.addImageryProvider(new Cesium.WebMapTileServiceImageryProvider({
-        url: "//map1.vis.earthdata.nasa.gov/wmts-webmerc/wmts.cgi?TIME=" + selectedDate,
+        url: "http://gibs.earthdata.nasa.gov/wmts/epsg3857/best/wmts.cgi?TIME=" + selectedDate,
         layer: layerId,
         style: "",
-        format: "image/jpeg",
-        tileMatrixSetID: "GoogleMapsCompatible_Level9",
-        maximumLevel: 9,
+        format: format,
+        tileMatrixSetID: "GoogleMapsCompatible_Level" + zoomLevel,
+        minimumLevel: 0,
+        maximumLevel: zoomLevel,
         tileWidth: 256,
         tileHeight: 256,
         tilingScheme: new Cesium.WebMercatorTilingScheme()
@@ -519,7 +520,6 @@ function loadWmts(layerId, geoDataSrc, geoLayers) {
 
 function loadWms(layerId, geoDataSrc, geoLayers, noFeatures) {
     var src;
-
     if (noFeatures) {
       src = viewer.imageryLayers.addImageryProvider(new Cesium.WebMapServiceImageryProvider({
           url : geoDataSrc,
@@ -554,6 +554,7 @@ function loadOsmLayer(layerId, geoDataSrc) {
     activeLayers[layerId] = src;
     loadSliders(src, layerId);
 }
+
 function loadCartoDB(layerId, geoDataSrc) {
     var src = viewer.imageryLayers.addImageryProvider(new Cesium.UrlTemplateImageryProvider({
         url : geoDataSrc
@@ -1005,11 +1006,25 @@ function updateLayer(layerId, includeOnly) {
     markerLabel = l.ML,
     timeline = l.C,
     noList = l.Y,
+    format = l.F,
+    zoomLevel = l.Fz,
     proxy = l.P,
     noFeatures = l.X;
     var selectedDate = picker.get('select', 'yyyy-mm-dd');
     if (!includeOnly) var zoom = l.Z;
-
+    
+    if (zoomLevel) {
+        zoomLevel = zoomLevel;
+    } else {
+        zoomLevel = "9";
+    }
+    
+    if (format === "jpg") {
+        format = "image/jpeg";
+    } else {
+        format = "image/png";
+    }
+    
     if (noList) {
         noList = true;
     } else {
@@ -1023,7 +1038,7 @@ function updateLayer(layerId, includeOnly) {
         if (l.T === ("wms")) {
             loadWms(layerId, geoDataSrc, geoLayers, noFeatures);
         } else if (l.T === ("nasa-gibs")) {
-            loadGIBS(layerId, selectedDate);
+            loadGIBS(layerId, selectedDate, format, zoomLevel);
         } else if (l.T === ("wtms")) {
             loadWmts(layerId, geoDataSrc, geoLayers);
         } else if (l.T === ("cartodb-layer")) {
@@ -1111,14 +1126,35 @@ function addTree(parent/* nodes  */, lb /*target */, includeOnly) {
                 largeLayer = h.H,
                 newLayer = h.NL,
                 timeline = h.C,
+                format = h.F,
+                zoomLevel = h.Fz,
                 noList = h.Y,
                 layerButton, details, loadIcon, optIcon, treeIcon, sliderIcon, label;
                 
                 if (noList !== true) noList = false;
                 
-                console.log(noList);
+                if (zoomLevel) {
+                    zoomLevel = zoomLevel;
+                } else {
+                    zoomLevel = "9";
+                }
 
-                content = $('<div>').data('l', h).attr('id', h.I).addClass('lbw').addClass(h.T); //layer button wrapper
+                if (format === "jpg") {
+                    format = "image/jpeg";
+                } else {
+                    format = "image/png";
+                }
+                
+                //console.log(noList);
+                if (format) {
+                    content = $('<div>').data('l', h).attr({
+                        'id': h.I,
+                        'data-format': format,
+                        'data-zoom': zoomLevel
+                    }).addClass('lbw ' + h.T); //layer button wrapper
+                } else {
+                    content = $('<div>').data('l', h).attr('id', h.I).addClass('lbw ' + h.T); //layer button wrapper
+                }
                 layerButton = $('<div>').addClass('lb').appendTo(content); // layer button
                         //expand layer options
                 optIcon = $('<i>').addClass('fa fa-fw fa-folder-o').toggle(
@@ -1361,6 +1397,10 @@ if (allLayers.length > 0) {
         }
     }
     
+    if(!$('.cartodb-layer.active, .bing.active, .arcgis-base-layer.active, .base-layer.active').length > 0) {
+        $('.Bing_AERIAL_WITH_LABELS-load').click();
+    }
+
     // Load Layers
     for (var i = 0; i < allLayers.length; i++) {
         $('#' + allLayers[i]).detach().appendTo(shared).show();
@@ -1371,6 +1411,7 @@ if (allLayers.length > 0) {
     
 } else {
     initLayers();
+    $('.Bing_AERIAL_WITH_LABELS-load').click();
 }
 
 function shareLink() {
@@ -1626,6 +1667,7 @@ $(document).ready(function () {
         e.preventDefault();
         $('#welcomeModal').modal().on('shown.bs.modal', function () {
             $('#chat').html('<iframe src="http://tlk.io/cvnews" class="chat-iframe" style="height:600px"></iframe>');
+            $('#sharing-tab').trigger('click');
         }).on('hidden.bs.modal', function () { 
             $('#chat').html(''); 
             $('#tutorial iframe').remove();
@@ -1646,9 +1688,10 @@ $(document).ready(function () {
     }
     
     // LOAD DEFAULT BASE LAYER IF NO SHARED BASE LAYER
+    /*
     if(!$('.cartodb-layer.active, .bing.active, .arcgis-base-layer.active, .base-layer.active').length > 0) {
           $('.Bing_AERIAL_WITH_LABELS-load').click();
-    }
+    }*/
     $('[data-bind="foreach: imageryProviderViewModels"]').remove();
     
     $('.shareIncludes').on('click', function () {

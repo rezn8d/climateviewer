@@ -7,26 +7,26 @@ function loadLayers() {
     var lb = $('#timestrap'),
         ml = $('#milestones'),
         toggle = $('#filters');
-    
+
     function doLinks(link, linkList) {
         _.each(link, function (theLink) {
             linkList.append('<li role="presentation"><a href="' + theLink + '" title="' + theLink + '" target="_blank" rel="nofollow">' + theLink + '</a></li>');
         });
     }
-    
+
     function doTags(tag, tags) {
         _.each(tag, function (theTag) {
             $('<div class="tag"><span class="glyphicon glyphicon-tag" aria-hidden="true"></span> ' + theTag + '</div>').appendTo(tags);
         });
     }
-    
-    function doCats(cat,tags, wrapper) {
+
+    function doCats(cat, tags, wrapper) {
         _.each(l.category, function (categories) {
             tags.append('<div class="tag"><span class="glyphicon glyphicon-tag" aria-hidden="true"></span> ' + categories + '</div>');
             wrapper.addClass(categories);
         });
     }
-    
+
     function doImg(img, slider) {
         _.each(img, function (theImage) {
             var flickr = new RegExp("flickr.com");
@@ -37,13 +37,13 @@ function loadLayers() {
             }
         });
     }
-    
+
     function doVid(vid, slider) {
         _.each(vid, function (theVideo) {
             slider.append('<li><a title="View Media" class="video-link mfp-iframe" href="https://www.youtube.com/watch?v=' + theVideo + '"><div class="videoWrapper"><div class="youtube lazy" data-original="http://i.ytimg.com/vi/' + theVideo + '/sddefault.jpg" data-params="modestbranding=1&showinfo=0&controls=0&vq=hd720" style="width: 765px; height: 574px;"><div class="play"></div></div></div></a></li>');
         });
     }
-    
+
     for (var i = 0; i < layers.length; i++) {
         var l = layers[i];
         if (typeof l == "string") {
@@ -96,11 +96,11 @@ function loadLayers() {
                 }
             }
             var tags = $('<div class="tags"></div>').appendTo(details);
-            $('<div class="tag permalink"><a href="' + shareLink + '"><span class="glyphicon glyphicon-heart-empty" aria-hidden="true"></span> permalink</a></div>').appendTo(tags);
+            $('<div class="tag permalink"><a class="smooth-scroll" href="#' + encodedTitle + '"><span class="glyphicon glyphicon-heart-empty" aria-hidden="true"></span> permalink</a></div>').appendTo(tags);
 
             if (l.tags || l.category) {
                 if (l.tags) {
-                    doTags(l.tags,tags);
+                    doTags(l.tags, tags);
                 }
                 if (l.category) {
                     if (typeof l.category == "string") {
@@ -135,7 +135,6 @@ function loadLayers() {
                         doVid(l.video, slider);
                     }
                 }
-                //console.log(slider.children().length);
                 if (slider.children().length > 1) {
                     wrapper.unslider();
                 }
@@ -154,9 +153,10 @@ function loadLayers() {
     });
 
 }
+
 loadLayers();
 
-(function () {
+$(window).load(function () {
 
     var qsRegex;
     var buttonFilter;
@@ -177,33 +177,32 @@ loadLayers();
             return searchResult && buttonResult;
         }
     });
+    
     $('#filters button').click(function () {
         buttonFilter = $(this).attr('data-filter');
-        //console.log(buttonFilter);
         if (buttonFilter !== '*') {
             $('.year-panel').hide();
             $('#milestones .timestrap-control').hide();
         } else {
             $('.year-panel').show();
             $('#milestones .timestrap-control').show();
-       }
+        }
         $grid.isotope({
-            filter: buttonFilter +', .year-panel'
+            filter: buttonFilter + ', .year-panel'
         });
         if (!$(this).hasClass('active')) {
             $('#filters button').removeClass('active');
             $(this).addClass('active');
         }
         $('#goTimeline').trigger('click');
+        $(window).trigger('scroll');
     });
-
 
     // use value of search field to filter
     var $quicksearch = $('#quicksearch').keyup(debounce(function () {
         qsRegex = new RegExp($quicksearch.val(), 'gi');
         $grid.isotope();
     }));
-
 
     // debounce so filtering doesn't happen every millisecond
     function debounce(fn, threshold) {
@@ -220,17 +219,14 @@ loadLayers();
             setTimeout(delayed, threshold || 100);
         };
     }
-    $("img.lazy").lazyload({
+    
+    $("img.lazy, div.lazy").lazyload({
         effect: "fadeIn",
-        threshold : 1000
-    });
-    $("div.lazy").lazyload({
-        effect: "fadeIn",
-        threshold : 1000
+        threshold: 200
     });
 
     var $win = $(window),
-        $con = $('#container'),
+        $con = $('.grid'),
         $imgs = $("img.lazy");
 
     $con.isotope({
@@ -242,9 +238,6 @@ loadLayers();
     $imgs.lazyload({
         failure_limit: Math.max($imgs.length - 1, 0)
     });
-
-
-
 
     if ($(".container").width() > 768) {
         $(".links a").each(function (i, value) {
@@ -264,25 +257,7 @@ loadLayers();
         });
     }
 
-
-    var $root = $('html, body');
-
-    function smoothScroll() {
-        $('.smooth-scroll').click(function () {
-            var href = $.attr(this, 'href');
-            var header = $('.header-slider').height();
-            $root.animate({
-                scrollTop: ($(href).offset().top - header)
-            }, 500, function () {
-                window.location.hash = href;
-            });
-            return false;
-        });
-    }
-    smoothScroll();
-    
-    
-    /*
+/*
     $("#newest").hide();
 
     $("#newest").click(function (e) {
@@ -311,6 +286,7 @@ loadLayers();
         return false;
     });
 */
+    
     $(".timestrap-share-page").click(function (e) {
         e.preventDefault();
         if ($("#timestrap-share-panel").is(':visible')) {
@@ -336,12 +312,12 @@ loadLayers();
             $("#timestrap-share-panel").hide();
         }
     });
-    
+
     $("#make-backup-submit").click(function () {
         var target = $("#make-backup").val();
         window.open('http://web.archive.org/save/' + target);
     });
-    
+
     $("#view-backup-submit").click(function () {
         var target = $("#view-backup").val();
         window.open('http://web.archive.org/web/*/' + target);
@@ -352,7 +328,7 @@ loadLayers();
             $("#view-backup-submit").click();
         }
     });
-    
+
     $("#make-backup").keyup(function (event) {
         if (event.keyCode == 13) {
             $("#make-backup-submit").click();
@@ -372,8 +348,7 @@ loadLayers();
             height = t.data - height || 500;
 
         // popup position
-        var
-            px = Math.floor(((screen.availWidth || 1024) - width) / 2),
+        var px = Math.floor(((screen.availWidth || 1024) - width) / 2),
             py = Math.floor(((screen.availHeight || 700) - height) / 2);
 
         // open popup
@@ -388,8 +363,6 @@ loadLayers();
 
         return !!popup;
     });
-
-
 
     var entries = $('.panel').length;
     var videos = $('.video-link').length;
@@ -407,25 +380,25 @@ loadLayers();
             color: "#4DAF7C",
             highlight: "#55BC75",
             label: "Timeline Entries"
-      },
+        },
         {
             value: videos,
             color: "#EAC85D",
             highlight: "#f9d463",
             label: "Videos"
-      },
+        },
         {
             value: photos,
             color: "#E25331",
             highlight: "#f45e3d",
             label: "Photos"
-      },
+        },
         {
             value: references,
             color: "#1982D1",
             highlight: "#4BF",
             label: "Reference Links"
-      }
+        }
   ];
 
     // PIE CHART WIDGET
@@ -435,24 +408,18 @@ loadLayers();
         tooltipTemplate: "<%if (label){%><%=label%>: <%}%><%= value %>"
     });
 
-    /*    $(".youtube").each(function() {
-        // Based on the YouTube ID, we can easily find the thumbnail image
-        $(this).css('background-image', 'url(http://i.ytimg.com/vi/' + this.id + '/sddefault.jpg)');
-
-        // Overlay the Play icon to make it look like a video player
-        $(this).append($('<div/>', {'class': 'play'}));
-
-        $(document).delegate('#'+this.id, 'click', function() {
-            // Create an iFrame with autoplay set to true
-            var iframe_url = "https://www.youtube.com/embed/" + this.id + "?autoplay=1&autohide=1";
-            if ($(this).data('params')) iframe_url+='&'+$(this).data('params');
-
-            // The height and width of the iFrame should be the same as parent
-            var iframe = $('<iframe/>', {'frameborder': '0', 'src': iframe_url, 'width': $(this).width(), 'height': $(this).height() })
-
-            // Replace the YouTube thumbnail with YouTube HTML5 Player
-            $(this).replaceWith(iframe);
+    var $root = $('html, body');
+    function smoothScroll() {
+        $('.smooth-scroll').click(function () {
+            var href = $.attr(this, 'href');
+            $root.animate({
+                scrollTop: ($(href).offset().top - 50)
+            }, 500, function () {
+                window.location.hash = href;
+            });
+            return false;
         });
-    }); */
+    }
+    smoothScroll();
 
-}());
+});

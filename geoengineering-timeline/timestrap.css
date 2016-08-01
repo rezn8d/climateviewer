@@ -32,6 +32,20 @@ a {
     font-weight: 400;
     word-wrap: break-word;
 }
+a.btn.btn-see-through.btn-lg.smooth-scroll {
+    border: 1px solid rgba(255,255,255,0.5);
+    border-radius: 50% !important;
+    height: 32px;
+    width: 32px;
+    padding: 24px;
+}
+
+a.btn.btn-see-through.btn-lg.smooth-scroll i {
+    position: relative;
+    top: -13px;
+    left: -12px;
+    color: #FFF;
+}
 
 div.permalink a {
     font-weight: 700;
