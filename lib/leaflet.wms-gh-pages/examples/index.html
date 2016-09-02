@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>leaflet.wms Examples</title>
+    <script src="../lib/require.js" data-main="app"></script>
+    <link rel="stylesheet" type="text/css" href="../lib/leaflet.css">
+    <style>
+      body {
+          background-color: #eee;
+          font-family: sans-serif;
+      }
+      .leaflet-container {
+          background-color: #fff;
+          height: 400px;
+          margin: 1em;
+          border: 1px solid #999;
+      }
+    </style>
+  </head>
+  <body>
+    <h2><a href="https://github.com/heigeo/leaflet.wms">leaflet.wms</a></h2>
+    <iframe src="http://ghbtns.com/github-btn.html?user=heigeo&repo=leaflet.wms&type=watch&count=true"
+      allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
+    <iframe src="http://ghbtns.com/github-btn.html?user=heigeo&repo=leaflet.wms&type=fork&count=true"
+      allowtransparency="true" frameborder="0" scrolling="0" width="95" height="20"></iframe>
+      
+    <h3>Overlay ("Single-Tile"/Untiled Mode)</h3>
+    <p>Click the map to get information about the underlying data.</p>
+    <form>
+      <label for="range-overlay-map">Opacity</label>
+      <input id="range-overlay-map" type="range" min=0 max=1 step=0.1 value=1>
+    </form>
+    <div id="overlay-map"></div>
+    <h3>Tiled Layer</h3>
+    <p>Click the map to get information about the underlying data.</p>
+    <form>
+      <label for="range-tiled-map">Opacity</label>
+      <input id="range-tiled-map" type="range" min=0 max=1 step=0.1 value=1>
+    </form>
+    <div id="tiled-map"></div>
+  </body>
+</html>

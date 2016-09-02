@@ -56,23 +56,23 @@ $(window).resize(function () {
     resize();
 });
 
-
 var _xml = {
     _str2xml: function (strXML) {
+        var doc;
         if (window.ActiveXObject) {
-            var doc = new ActiveXObject('Microsoft.XMLDOM');
+            doc = new ActiveXObject('Microsoft.XMLDOM');
             doc.async = 'false';
             doc.loadXML(strXML);
         } else { // code for Mozilla, Firefox, Opera, etc.
             var parser = new DOMParser();
-            var doc = parser.parseFromString(strXML, 'text/xml');
+            doc = parser.parseFromString(strXML, 'text/xml');
         } // documentElement always represents the root node
         return doc;
     },
     _xml2string: function (xmlDom) {
         var strs = null;
         var doc = xmlDom.documentElement;
-        if (doc.xml == undefined) {
+        if (doc.xml === undefined) {
             strs = (new XMLSerializer()).serializeToString(xmlDom);
         } else strs = doc.xml;
         return strs;
@@ -86,7 +86,7 @@ var map = L.map('map', {
     worldCopyJump: true,
     inertia: false,
 });
-map.options.crs = L.CRS.EPSG3857;
+//map.options.crs = L.CRS.3857;
 
 new L.Control.GeoSearch({
     provider: new L.GeoSearch.Provider.OpenStreetMap()
@@ -120,7 +120,7 @@ date.setDate(date.getDate() - 1);
 var $input = $('#datepicker').pickadate({
     format: 'mmmm d, yyyy',
     formatSubmit: 'yyyy-mm-dd',
-    min: [2012, 4, 8],
+    min: [2002, 6, 1],
     max: today,
     container: '#datepicker-container',
     // editable: true,
@@ -161,7 +161,6 @@ function loading(layerId) {
 function loaded(layerId) {
     $('.' + layerId + '-load').removeClass('fa-spinner fa-spin loading').addClass('fa-check');
 }
-
 
 function loadError(layerId, geoDataSrc, error) {
     var target = $('#' + layerId);
@@ -244,10 +243,12 @@ function loadSliders(src, layerId, datePicker) {
 }
 
 function loadGIBS(layerId, selectedDate, format, zoomLevel) {
-    var template = "//map1{s}.vis.earthdata.nasa.gov/wmts-webmerc/" + "{layer}/default/{time}/{tileMatrixSet}/{z}/{y}/{x}.jpg";
+    var ext = format.substr(6, 4);
+    var template = "//map1{s}.vis.earthdata.nasa.gov/wmts-webmerc/" + "{layer}/default/{time}/{tileMatrixSet}/{z}/{y}/{x}." + ext;
 
     if (activeLayers[layerId]) removeImagery(layerId);
     var assetLayerGroup = new L.LayerGroup();
+    console.log('loadGIBS ' + format);
 
     var src = L.tileLayer(template, {
         layer: layerId,
@@ -267,7 +268,7 @@ function loadGIBS(layerId, selectedDate, format, zoomLevel) {
             "<a href='https://github.com/nasa-gibs/web-examples/blob/release/examples/leaflet/webmercator-epsg3857.js' target='_blank'>" +
             "View Source" +
             "</a>"
-    });
+    }).setZIndex('200');
 
     assetLayerGroup.addLayer(src);
     assetLayerGroup.addTo(map);
@@ -288,22 +289,27 @@ function loadWmts(layerId, geoDataSrc, geoLayers) {
         tileWidth: 256,
         tileHeight: 256,
         tilingScheme: new Cesium.WebMercatorTilingScheme()
-    }));
+    })).setZIndex('200');
     assetLayerGroup.addLayer(src);
     assetLayerGroup.addTo(map);
     activeLayers[layerId] = assetLayerGroup;
     loadSliders(src, layerId);
 }
 
-
 function loadWms(layerId, geoDataSrc, geoLayers) {
     var assetLayerGroup = new L.LayerGroup();
     var src = L.tileLayer.wms(geoDataSrc, {
         layers: geoLayers,
         format: 'image/png',
-        transparent: true
-            // TODO attribution: "Weather data © 2012 IEM Nexrad"
-    }).setZIndex("200");
+        transparent: true,
+        onEachFeature: function (feature, layer) {
+            if (feature.properties) {
+                console.log(feature.properties);
+            }
+        }
+        // TODO attribution: "Weather data © 2012 IEM Nexrad"
+    }).setZIndex('200');
+    
     assetLayerGroup.addLayer(src);
     assetLayerGroup.addTo(map);
     activeLayers[layerId] = assetLayerGroup;
@@ -317,7 +323,7 @@ function loadOsmLayer(layerId, geoDataSrc) {
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions" target="_blank">CartoDB</a>',
         subdomains: 'abcd',
         maxZoom: 19
-    });
+    }).setZIndex('1');
     baseLayerGroup.addLayer(src);
     baseLayerGroup.addTo(map);
     activeLayers[layerId] = baseLayerGroup;
@@ -330,7 +336,7 @@ function loadCartoDB(layerId, geoDataSrc) {
         zIndex: 1,
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="http://cartodb.com/attributions">CartoDB</a>',
         maxZoom: 19
-    });
+    }).setZIndex('1');
     baseLayerGroup.addLayer(src);
     baseLayerGroup.addTo(map);
     activeLayers[layerId] = baseLayerGroup;
@@ -359,37 +365,47 @@ function loadBingLayer(layerId, geoDataSrc) {
     loadSliders(src, layerId);
 }
 
-
-
-function loadArcGisLayer(layerId, geoDataSrc, geoLayers) {
+function loadArcGisLayer(layerId, geoDataSrc, geoLayers, format) {
     var baseLayerGroup = new L.LayerGroup();
-    var src = L.esri.dynamicMapLayer({
-        url: geoDataSrc,
-        layers: [geoLayers],
-        //from: new Date(startTimeInput.value),
-        //to: new Date(endTimeInput.value)
-        opacity: 1,
-        useCors: false
-    });
+        var src = L.esri.dynamicMapLayer({
+            url: geoDataSrc,
+            format: format,
+            layers: [geoLayers],
+            //transparent: true
+            //from: new Date(startTimeInput.value),
+            //to: new Date(endTimeInput.value)
+            //opacity: 1,
+            useCors: false,
+            subdomains: 'abcd',
+            maxZoom: 19
+        });
 
-    // TODO
+    // TODO 
     // http://esri.github.io/esri-leaflet/examples/customizing-popups.html
     src.bindPopup(function (error, featureCollection) {
-
         var feature = featureCollection.features[0];
-
-        //if (feature) console.log(feature.properties);
-
-        var title, content;
-
-        content = $('<p />');
-        title = '<h3>Details</h3>';
-
         if (error || featureCollection.features.length === 0) {
-
             return false;
-
         }
+        var fContent = $("#feature-content");
+        fContent.html('');
+        var featureDetails = $('<p/>').appendTo(fContent);
+
+        $.map(feature.properties, function (index, value) {
+            $('<strong>' + value + '</strong>&nbsp;&bull;&nbsp;<span>' + (isUrlValid(index) ? '<a href="' + index + '" target="_blank">' + index + '</a>' : index) + '</span><br>').appendTo(featureDetails);
+        });
+        
+        convertlink(fContent);
+
+
+        $("#featureModal").modal("show").modal({
+            onHidden: function () {
+                $('.null').remove();
+            }
+        });
+
+    }); // end bind popup
+
         /* else {
                        if (feature.properties.HAZARD_NAME) content.append(feature.properties.HAZARD_NAME + '<br>');
                        if (feature.properties.TYPE) content.append('Hazard Type: ' + feature.properties.TYPE + '<br>');
@@ -464,20 +480,6 @@ function loadArcGisLayer(layerId, geoDataSrc, geoLayers) {
                        if (feature.properties.URL) content.append('Link: <a href="' + feature.properties.URL + '" target="_blank">' + feature.properties.URL + '</a><br>');
                        if (feature.properties["SNC_URL"]) content.append('Link: <a href="' + feature.properties["SNC_URL"] + '" target="_blank">' + feature.properties["SNC_URL"] + '</a><br>');
                    } */
-        var fContent = $("#feature-content");
-        var featureDetails = $('<p/>').appendTo(fContent);
-
-        $.map(feature.properties, function (index, value) {
-            $('<strong>' + value + '</strong>&nbsp;&bull;&nbsp;<span>' + (isUrlValid(index) ? '<a href="' + index + '" target="_blank">' + index + '</a>' : index) + '</span><br>').appendTo(featureDetails);
-        });
-
-        $("#featureModal").modal("show").modal({
-            onHidden: function () {
-                $('.null').remove();
-            }
-        });
-
-    }); // end bind popup
 
     baseLayerGroup.addLayer(src);
     baseLayerGroup.addTo(map);
@@ -488,11 +490,10 @@ function loadArcGisLayer(layerId, geoDataSrc, geoLayers) {
 function loadArcGisBasemap(layerId, geoDataSrc) {
     var baseLayerGroup = new L.LayerGroup();
     var src = L.tileLayer(geoDataSrc + '/tile/{z}/{y}/{x}', {
-        zIndex: 2,
         attribution: 'Copyright:© 2013 ESRI, i-cubed, GeoEye',
         subdomains: 'abcd',
         maxZoom: 19
-    });
+    }).setZIndex('1');
     baseLayerGroup.addLayer(src);
     baseLayerGroup.addTo(map);
     activeLayers[layerId] = baseLayerGroup;
@@ -566,12 +567,11 @@ function loadKml(layerId, geoDataSrc, proxy, zoom) {
                         convertlink(details);
 
                         layer.on({
-                            click: function (e) {
-                                e.preventDefault;
+                            click: function(e) {
+                                //e.preventDefault;
                                 var fContent = $("#feature-content");
                                 fContent.html('<h3>' + title + '</h3>');
                                 fContent.append(details);
-
                                 $("#featureModal").modal("show");
                                 resize();
                             }
@@ -594,7 +594,6 @@ function loadKml(layerId, geoDataSrc, proxy, zoom) {
             }
         }
     });
-
 }
 
 function loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, zoom, noList) {
@@ -668,7 +667,7 @@ function loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, z
 
                         layer.on({
                             click: function (e) {
-                                e.preventDefault;
+                                //e.preventDefault;
                                 var fContent = $("#feature-content");
                                 fContent.html('<h3>' + title + '</h3>');
                                 fContent.append(details);
@@ -698,7 +697,7 @@ function loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, z
             $('.markers li').click(function () {
                 var lon = $(this).attr('data-lon');
                 var lat = $(this).attr('data-lat');
-                map.setView(new L.LatLng(lat, lon), 15);
+                map.setView(new L.LatLng(lat, lon), 13);
             });
         }
 
@@ -712,7 +711,7 @@ function loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, z
     }, function (error) {
         loadError(layerId, geoDataSrc, error);
     });
-};
+}
 
 function removeImagery(layerId) {
     var src = activeLayers[layerId];
@@ -722,21 +721,19 @@ function removeImagery(layerId) {
 
 // REMOVE LAYERS
 function disableLayer(l) {
-
     var layerId = l.I;
     var mlt = l.T;
-
     if (layerEnabled[l.I] === undefined) return;
-
+    var src;
     // Update Globe
-    if (mlt === ("nasa-gibs") || mlt === ("cartodb-layer") || mlt === ("wmts") || mlt === ("wms") || mlt === ("base-layer") || mlt === ("arcgis") || mlt === ("arcgis-layer") || mlt === ("arcgis-base-layer")) {
+    if (mlt === ("nasa-gibs") || mlt === ("cartodb-layer") || mlt === ("wmts") || mlt === ("wms") || mlt === ("base-layer") || mlt === ("arcgis-layer") || mlt === ("arcgis-base-layer")) {
         //removeImagery(layerId);
         $('.' + layerId + '-sliders').remove();
-        var src = activeLayers[layerId];
+        src = activeLayers[layerId];
         map.removeLayer(src);
         delete activeLayers[layerId];
     } else {
-        var src = activeLayers[layerId];
+        src = activeLayers[layerId];
         map.removeLayer(src);
         delete activeLayers[layerId];
     }
@@ -744,7 +741,6 @@ function disableLayer(l) {
         $('.' + layerId + '-tree').removeClass('active');
         $('.' + layerId + '-list').remove();
     }
-
     delete layerEnabled[layerId];
 }
 
@@ -766,10 +762,18 @@ function updateLayer(layerId) {
         noList = l.Y,
         format = l.F,
         zoomLevel = l.Fz,
-        proxy = l.P;
-    var selectedDate = picker.get('select', 'yyyy-mm-dd');
-    if (!includeOnly) var zoom = l.Z;
+        zoom = l.Z,
+        proxy = l.P,
+        selectedDate = picker.get('select', 'yyyy-mm-dd');
+    
+    if (!includeOnly) zoom = false;
 
+    if (geoLayers) {
+        geoLayers = geoLayers;
+    } else {
+        geoLayers = "0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,";
+    }
+    
     if (zoomLevel) {
         zoomLevel = zoomLevel;
     } else {
@@ -781,6 +785,7 @@ function updateLayer(layerId) {
     } else {
         format = "image/png";
     }
+   // console.log('updatelayer ' + format);
     
     if (noList) {
         noList = true;
@@ -796,16 +801,16 @@ function updateLayer(layerId) {
             loadWms(layerId, geoDataSrc, geoLayers);
         } else if (l.T === ("nasa-gibs")) {
             loadGIBS(layerId, selectedDate, format, zoomLevel);
-        } else if (l.T === ("wtms")) {
+        } else if (l.T === ("wmts")) {
             loadWmts(layerId, geoDataSrc, geoLayers);
         } else if (l.T === ("cartodb-layer")) {
             loadCartoDB(layerId, geoDataSrc);
         } else if (l.T === ("base-layer")) {
             loadOsmLayer(layerId, geoDataSrc);
-        } else if (l.T === ("arcgis") || l.T === ("arcgis-base-layer")) {
+        } else if (l.T === ("arcgis-base-layer")) {
             loadArcGisBasemap(layerId, geoDataSrc);
         } else if (l.T === ("arcgis-layer")) {
-            loadArcGisLayer(layerId, geoDataSrc, geoLayers);
+            loadArcGisLayer(layerId, geoDataSrc, geoLayers, format);
         } else if (l.T === ("geojson")) {
             loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, zoom, noList);
         } else if (l.T === ('kml')) {
@@ -815,16 +820,15 @@ function updateLayer(layerId) {
         } else {
             console.log(layerId + ' failed to load map type: ' + l.T);
         }
-        shareLink();
-        // if (timeline) toggleTimeline(true);
     }
 }
 
 function newFolderLabel(l, child, ic) {
+    var icon;
     if (ic) {
-        var icon = '<i class="fa fa-fw ' + ic + '"></i>'
+        icon = '<i class="fa fa-fw ' + ic + '"></i>';
     } else {
-        icon = ''
+        icon = '';
     }
     var menuToggle = $('<h2>').addClass('toggle').html(icon + l.N).click(function () {
         if (child.is(':visible')) {
@@ -837,7 +841,6 @@ function newFolderLabel(l, child, ic) {
     });
     return menuToggle;
 }
-
 
 function initDetails(layerId, layerType, details, source, sourceUrl, geoDataSrc) {
     var list = $('<div class="details ' + layerId + '-content" />').appendTo(details);
@@ -857,7 +860,7 @@ function initDetails(layerId, layerType, details, source, sourceUrl, geoDataSrc)
     if (layerType == ('base-layer')) {
         $('<div class="header"><i class="fa fa-fw fa-file-o"></i> Data Source</div><span>OpenStreetMap (OSM) Base Map</span>').appendTo(list);
     }
-    if (layerType == ('arcgis') || layerType == ('arcgis-layer')) {
+    if (layerType == ('arcgis') || layerType == ('arcgis-layer') || layerType == ('arcgis-base-layer')) {
         $('<div class="header"><i class="fa fa-fw fa-file-o"></i> Data Source</div><span>ArcGIS MapServer<br><a target="_blank" rel="nofollow" href="' + geoDataSrc + '/legend">Map Legend</a> &bull; <a target="_blank" rel="nofollow" href="' + geoDataSrc + '">MapServer Information</a></span>>').appendTo(list);
     }
     $('<div class="header"><i class="fa fa-share-square-o fa-fw"></i> Share This Layer</div><span>Use this url to share this layer: <a href="' + homeURL + 'index.html?layersOn=' + layerId + '" target="_self">Share Link</a><span><div class="header"><i class="fa fa-exclamation-triangle fa-fw"></i> Report Error</div><span>If you are experiencing problems loading this layer, or you would like to suggest corrections, comments, or concerns, please email me using this link: <a href="mailto:jim@climateviewer.com?subject=Climate Viewer broken link - ' + layerId + '&amp;body=Unfortunately this ( ' + geoDataSrc + ' ) URL is not working properly, please look into it. Sent from http://climateviewer.com/3D/" target="_self">Report Error</a></span>').appendTo(list);
@@ -885,7 +888,6 @@ function addTree(parent /* nodes  */ , lb /*target */ , includeOnly) {
                     sourceUrl = h.U,
                     largeLayer = h.H,
                     newLayer = h.NL,
-                    timeline = h.C,
                     format = h.F,
                     zoomLevel = h.Fz,
                     noList = h.Y,
@@ -920,7 +922,7 @@ function addTree(parent /* nodes  */ , lb /*target */ , includeOnly) {
                 //expand layer options
                 optIcon = $('<i>').addClass('fa fa-fw fa-folder-o').toggle(
                     function () {
-                        if (details.children().length == 0) {
+                        if (details.children().length === 0) {
                             initDetails(layerId, layerType, details, source, sourceUrl, geoDataSrc);
                         }
                         details.show();
@@ -956,7 +958,7 @@ function addTree(parent /* nodes  */ , lb /*target */ , includeOnly) {
                     }).appendTo(layerButton);
                 }
 
-                if (h.T === ("nasa-gibs") || h.T === ("cartodb-layer") || h.T === ("wmts") || h.T === ("wms") || h.T === ("base-layer") || h.T === ("arcgis") || h.T === ("arcgis-layer") || h.T === ("bing")) {
+                if (h.T === ("nasa-gibs") || h.T === ("cartodb-layer") || h.T === ("wmts") || h.T === ("wms") || h.T === ("base-layer") || h.T === ("arcgis") || h.T === ("arcgis-layer") || h.T === ("arcgis-base-layer") || h.T === ("bing")) {
                     sliderIcon = $('<i title="Expand Marker Tree" class="fa fa-fw fa-sliders toggle-list ' + layerId + '-tree"></i>');
                     sliderIcon.click(function () {
                         setTimeout(function () {
@@ -982,9 +984,8 @@ function addTree(parent /* nodes  */ , lb /*target */ , includeOnly) {
                                 }
                                 if (!label.hasClass('active')) label.addClass('active');
                                 content.addClass('active');
-                                if (timeline) toggleTimeline(true);
                                 if ((h.T === ('geojson')) && (noList === false)) treeIcon.show();
-                                if (h.T === ("nasa-gibs") || h.T === ("cartodb-layer") || h.T === ("wmts") || h.T === ("wms") || h.T === ("base-layer") || h.T === ("arcgis") || h.T === ("arcgis-layer") || h.T === ("bing")) {
+                                if (h.T === ("nasa-gibs") || h.T === ("cartodb-layer") || h.T === ("wmts") || h.T === ("wms") || h.T === ("base-layer") || h.T === ("arcgis") || h.T === ("arcgis-layer") || h.T === ("arcgis-base-layer") || h.T === ("bing")) {
                                     sliderIcon.show();
                                 }
                             }
@@ -998,7 +999,7 @@ function addTree(parent /* nodes  */ , lb /*target */ , includeOnly) {
                                 if (label.hasClass('active')) label.removeClass('active');
                                 content.removeClass('active');
                                 if ((h.T === ('geojson')) && (noList === false)) treeIcon.hide();
-                                if (h.T === ("nasa-gibs") || h.T === ("cartodb-layer") || h.T === ("wmts") || h.T === ("wms") || h.T === ("base-layer") || h.T === ("arcgis") || h.T === ("arcgis-layer") || h.T === ("bing")) {
+                                if (h.T === ("nasa-gibs") || h.T === ("cartodb-layer") || h.T === ("wmts") || h.T === ("wms") || h.T === ("base-layer") || h.T === ("arcgis") || h.T === ("arcgis-layer") || h.T === ("arcgis-base-layer") || h.T === ("bing")) {
                                     sliderIcon.hide();
                                     sliderIcon.removeClass('show-sliders');
                                 }
@@ -1030,7 +1031,7 @@ function addTree(parent /* nodes  */ , lb /*target */ , includeOnly) {
             } // end present
         }
 
-        if (content != null) {
+        if (content !== null) {
             lb.append(content);
 
             var ll = addTree(h.I, child, includeOnly);
@@ -1042,7 +1043,6 @@ function addTree(parent /* nodes  */ , lb /*target */ , includeOnly) {
     });
     return layers;
 }
-
 
 /* Build Sidebar */
 function initLayers(includeOnly) {
@@ -1063,11 +1063,7 @@ $('.do-video').one("click", function () {
     $('.do-video-div').append('<div class="videoWrapper"><iframe width="420" height="236" src="https://www.youtube-nocookie.com/embed/ZwFmez0ef6A" frameborder="0" allowfullscreen></iframe></div>');
 });
 
-
-
-
 // CHECK URL
-
 var initialLayers = (getURLParameter("layersOn") || '').split(',');
 var initialBaseLayers = (getURLParameter("baseLayers") || '').split(',');
 var disabledLayers = (getURLParameter("layersOff") || '').split(",");
@@ -1086,7 +1082,7 @@ if (allLayers.length > 0) {
     if (dateView !== start) {
         picker.set('select', dateView, {
             format: 'yyyy-mm-dd'
-        })
+        });
     }
     if (latView !== '40') {
         var includeOnly = true;
@@ -1107,10 +1103,6 @@ if (allLayers.length > 0) {
         }
     }
     
-    if(!$('.cartodb-layer.active, .bing.active, .arcgis-base-layer.active, .base-layer.active').length > 0) {
-        $('.Bing_AERIAL_WITH_LABELS-load').click();
-    }
-
     // Load Layers
     for (var i = 0; i < allLayers.length; i++) {
         $('#' + allLayers[i]).detach().appendTo(shared).show();
@@ -1118,7 +1110,7 @@ if (allLayers.length > 0) {
     for (var i = 0; i < initialLayers.length; i++) {
         $('.' + initialLayers[i] + '-load').click();
     }
-
+    
 } else {
     initLayers();
     $('.Bing_AERIAL_WITH_LABELS-load').click();
@@ -1129,11 +1121,12 @@ function shareLink() {
         baseLayers = "",
         shareLink = shareURL;
 
-    $('.geojson.active, .kml.active, .arcgis.active, .wms.active, .wtms.active, .nasa-gibs.active').each(function () {
+    $('.geojson.active, .kml.active, .arcgis-layer.active, .arcgis-layer.active, .wms.active, .wmts.active, .nasa-gibs.active').each(function () {
         var X = $(this);
         if (X.hasClass('active')) {
             var L = X.attr('id');
             layers += L + ',';
+            console.log(layers);
         }
     });
 
@@ -1144,28 +1137,30 @@ function shareLink() {
             baseLayers += L + ',';
         }
     });
-
+    
+    shareLink += 'index.html?';
 
     var lat = map.getCenter().lat;
     var lon = map.getCenter().lng;
     var zoom = map.getZoom();
-    var date = picker.get('select', 'yyyy-mm-dd');
 
-    shareLink += 'index.html?';
 
-    if (layers.length > 0)
+    if (layers.length > 0) {
         layers = layers.substring(0, layers.length - 1);
+        shareLink += 'layersOn=' + layers;
+    }
 
-    if (baseLayers.length > 0)
+    if (baseLayers.length > 0) {
         baseLayers = baseLayers.substring(0, baseLayers.length - 1);
+        shareLink += '&baseLayers=' + baseLayers;
+    }
 
-    shareLink += 'layersOn=' + layers;
-    shareLink += '&baseLayers=' + baseLayers;
     shareLink += '&lat=' + lat;
     shareLink += '&lon=' + lon;
     shareLink += '&zoom=' + zoom;
-    shareLink += '&date=' + date;
 
+    var date = picker.get('select', 'yyyy-mm-dd');
+    shareLink += '&date=' + date;
 
     var shareToggle = $('.share-all-layers');
     shareToggle.attr('href', shareLink).html(shareLink);
@@ -1193,8 +1188,6 @@ function shareLink() {
     bit_url(shareLink);
 }
 
-
-
 $(document).ready(function () {
     $(".youtube").each(function () {
         // Based on the YouTube ID, we can easily find the thumbnail image
@@ -1216,7 +1209,7 @@ $(document).ready(function () {
                 'src': iframe_url,
                 'width': $(this).width(),
                 'height': $(this).height()
-            })
+            });
 
             // Replace the YouTube thumbnail with YouTube HTML5 Player
             $(this).hide();
@@ -1237,7 +1230,7 @@ $(document).ready(function () {
     });
 
     $('.about-jim').click(function () {
-        window.location = 'http://climateviewer.com/rezn8d/';
+        window.location = 'https://climateviewer.com/rezn8d/';
     });
 
     $('.reset-view').click(function (e) {
@@ -1371,6 +1364,10 @@ $(document).ready(function () {
         "id": "search-input"
     }).prependTo($('.search form'));
 
+    // LOAD DEFAULT BASE LAYER IF NO SHARED BASE LAYER
+    if (!$('.cartodb-layer').hasClass("active") && !$('.bing').hasClass("active") && !$('.arcgis-base-layer').hasClass("active") && !$('.base-layer').hasClass("active")) {
+        $('.Bing_AERIAL_WITH_LABELS-load').click();
+    }
     $('.content-wrapper').show();
 
     resize();

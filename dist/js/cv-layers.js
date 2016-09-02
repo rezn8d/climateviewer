@@ -1,5 +1,5 @@
 /*
- LEGENED http://climateviewer.com/
+ LEGENED http://climateviewer.org/
  var layerId = l.I,
  format = l.F,
  geoDataSrc = l.G,
@@ -162,18 +162,20 @@ var layers = {
                 {
                     I: "EarthquakesNT",
                     T: 'arcgis-layer',
-                    G: "http://tmservices1.esri.com/arcgis/rest/services/LiveFeeds/EarthquakesNT/MapServer",
-                    S: "©2015 Esri, Earthquake data for the last 90 days from the USGS. In addition to web-based maps and html pages, USGS provides several alternative ways to obtain real-time earthquake lists. Earthquake information is extracted from a merged catalog of earthquakes located by the USGS and contributing networks. Earthquakes will be broadcast within a few minutes for California events, and within 30-minutes for worldwide events",
+                    G: "http://tmservices1.esri.com/arcgis/rest/services/LiveFeeds/USGS_Seismic_Data/MapServer",
+                    L: "9",
+                    S: "©2015 Esri, This service presents recent earthquake information from the USGS Prompt Assessment of Global Earthquakes for Response (PAGER) program. In addition to displaying earthquakes by magnitude, this service also presents earthquakes by impact. Impact is measured by population as well as models for economic and fatality loss. For more details, see: <a href='http://earthquake.usgs.gov/earthquakes/pager'>earthquake.usgs.gov/earthquakes/pager</a>.",
                     U: "http://www.cpc.ncep.noaa.gov/",
-                    N: "USGS - M3.0+ Earthquakes (Past 90 Days)"
+                    N: "USGS - M3.0+ Earthquakes (Past Week)"
                 },
                 {
                     I: "Earthquakes",
                     T: 'arcgis-layer',
-                    G: "http://tmservices1.esri.com/arcgis/rest/services/LiveFeeds/Earthquakes/MapServer",
-                    S: "©2015 Esri, Earthquake data for the last 90 days from the USGS. In addition to web-based maps and html pages, USGS provides several alternative ways to obtain real-time earthquake lists. Earthquake information is extracted from a merged catalog of earthquakes located by the USGS and contributing networks. Earthquakes will be broadcast within a few minutes for California events, and within 30-minutes for worldwide events",
+                    L: "10",
+                    G: "http://tmservices1.esri.com/arcgis/rest/services/LiveFeeds/USGS_Seismic_Data/MapServer",
+                    S: "©2015 Esri, This service presents recent earthquake information from the USGS Prompt Assessment of Global Earthquakes for Response (PAGER) program. In addition to displaying earthquakes by magnitude, this service also presents earthquakes by impact. Impact is measured by population as well as models for economic and fatality loss. For more details, see: <a href='http://earthquake.usgs.gov/earthquakes/pager'>earthquake.usgs.gov/earthquakes/pager</a>.",
                     U: "http://www.cpc.ncep.noaa.gov/",
-                    N: "USGS - All Earthquakes (Past 90 Days)"
+                    N: "USGS - All Earthquakes (Past Month)"
                 },
                 {
                     I: "kml-emsc",
@@ -269,25 +271,33 @@ var layers = {
                     N: "Smoke Forecast - NDGD"
                 },
                 {
-                    I: "nowcoast-wet-thunderstorm-fire",
-                    T: 'arcgis-layer',
-                    G: "http://nowcoast.noaa.gov/arcgis/rest/services/nowcoast/guidance_natlcenters_meteoceanhydro_outlooks_time/MapServer",
-                    L: "7,11",
+                    I: "nowcoast-wet-thunderstorm-ndfire",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/arcgis/services/nowcoast/guidance_natlcenters_meteoceanhydro_outlooks_time/MapServer/WMSServer",
+                    L: "1,2,3",
                     S: "This nowCOAST time-enabled map service provides maps of the latest NOAA/NWS Outlooks for Severe Thunderstorms (Convective Outlooks) and Critical Fire Weather for both Dry and Non-Dry Thunderstorms. These outlooks are issued by the NOAA/NWS/NCEP Storm Prediction Center (SPC) in Norman, Oklahoma. The colors used on the maps to indicate the locations and risk level of severe thunderstorms and critical fire weather conditions are the same as (or very close to) those used on SPC's outlook maps. To ensure the latest information is displayed, the maps of these outlooks are updated in this nowCOAST map service every half hour, but the underlying outlooks produced by SPC are usually issued only at 0100, 0600, 1300, 1630, 1730, and 2000 UTC However, amendments or more frequent updates will be issued as necessary.",
                     U: "http://www.nws.noaa.gov/ndgd/",
-                    N: "Thunderstorm Critical Fire Weather Outlook"
+                    N: "Non-Dry Thunderstorm Critical Fire Weather Outlook"
+                },
+                {
+                    I: "nowcoast-wet-thunderstorm-dfire",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/arcgis/services/nowcoast/guidance_natlcenters_meteoceanhydro_outlooks_time/MapServer/WMSServer",
+                    L: "5,6,7",
+                    S: "This nowCOAST time-enabled map service provides maps of the latest NOAA/NWS Outlooks for Severe Thunderstorms (Convective Outlooks) and Critical Fire Weather for both Dry and Non-Dry Thunderstorms. These outlooks are issued by the NOAA/NWS/NCEP Storm Prediction Center (SPC) in Norman, Oklahoma. The colors used on the maps to indicate the locations and risk level of severe thunderstorms and critical fire weather conditions are the same as (or very close to) those used on SPC's outlook maps. To ensure the latest information is displayed, the maps of these outlooks are updated in this nowCOAST map service every half hour, but the underlying outlooks produced by SPC are usually issued only at 0100, 0600, 1300, 1630, 1730, and 2000 UTC However, amendments or more frequent updates will be issued as necessary.",
+                    U: "http://www.nws.noaa.gov/ndgd/",
+                    N: "Dry Thunderstorm Critical Fire Weather Outlook"
                 }
             ]
         },
-        FEMA: {
+        /*FEMA: {
             N: "FEMA",
             icon: "fa-eye",
             '>': [
                 {
                     I: "wms-femad",
                     T: 'wms',
-                    G: "http://gis.fema.gov/SOAP//FEMA/DECs/MapServer/WMSServer",
-                    L: "0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25",
+                    G: "https://gis.fema.gov/SOAP//FEMA/DECs/MapServer/WMSServer",
                     S: "Federal Emergency Management Agency (FEMA)",
                     U: "http://gis.fema.gov/DataFeeds.html",
                     N: "FEMA Current Disaster Declarations"
@@ -320,7 +330,7 @@ var layers = {
                     N: "FEMA Hurricane Evacuation Routes"
                 }
             ]
-        },
+        },*/
         Report: {
             N: "CV Reports",
             icon: "fa-bullhorn",
@@ -469,6 +479,15 @@ var layers = {
             icon: "fa-bolt",
             '>': [
                 {
+                    I: "nowcoast-wet-thunderstorm-fire",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/arcgis/services/nowcoast/guidance_natlcenters_meteoceanhydro_outlooks_time/MapServer/WMSServer",
+                    L: "9,10,11",
+                    S: "This nowCOAST time-enabled map service provides maps of the latest NOAA/NWS Outlooks for Severe Thunderstorms (Convective Outlooks) and Critical Fire Weather for both Dry and Non-Dry Thunderstorms. These outlooks are issued by the NOAA/NWS/NCEP Storm Prediction Center (SPC) in Norman, Oklahoma. The colors used on the maps to indicate the locations and risk level of severe thunderstorms and critical fire weather conditions are the same as (or very close to) those used on SPC's outlook maps. To ensure the latest information is displayed, the maps of these outlooks are updated in this nowCOAST map service every half hour, but the underlying outlooks produced by SPC are usually issued only at 0100, 0600, 1300, 1630, 1730, and 2000 UTC However, amendments or more frequent updates will be issued as necessary.",
+                    U: "http://www.nws.noaa.gov/ndgd/",
+                    N: "Severe Thunderstorms Outlook"
+                },
+                {
                     I: "NOAA_storm_reports",
                     T: 'arcgis-layer',
                     G: "http://tmservices1.esri.com/arcgis/rest/services/LiveFeeds/NOAA_storm_reports/MapServer",
@@ -487,54 +506,46 @@ var layers = {
                 {
                     I: "Weather_Warnings_Watches_Advisories_Statements",
                     T: 'arcgis-layer',
-                    G: "http://tmservices1.esri.com/arcgis/rest/services/LiveFeeds/Weather_Warnings_Watches_Advisories_Statements/MapServer",
+                    G: "http://tmservices1.esri.com/arcgis/rest/services/LiveFeeds/NWS_Watches_Warnings_and_Advisories/MapServer",
                     S: "Weather Watches, Warnings, Advisories, and Statements are products of the National Weather Service (NWS). We automatically check these products for updates every 5 minutes from the NWS Public Alerts. The NWS XML Feed is parsed using the Aggregated Live Feeds methodology to take the returned information and serve the data through ArcGIS Server as a map service. ",
                     U: "http://alerts.weather.gov/",
                     N: "Warnings, Watches, Advisories - NOAA"
                 },
-
                 {
                     I: "nowcoast_wwa_meteoceanhydro_longduration_hazards_time",
-                    T: 'arcgis-layer',
-                    G: "http://nowcoast.noaa.gov/arcgis/rest/services/nowcoast/wwa_meteoceanhydro_longduration_hazards_time/MapServer",
+                    T: 'wms',
+                    L: "2,5,8,11,14,18,21,25,28,32,35,39,41",
+                    G: "http://nowcoast.noaa.gov/arcgis/services/nowcoast/wwa_meteoceanhydro_longduration_hazards_time/MapServer/WMSServer",
                     S: "This nowCOAST time-enabled map service provides maps depicting the geographic coverage of the latest NOAA/National Weather Service (NWS) WATCHES, WARNINGS, ADVISORIES, and STATEMENTS for long-duration hazardous weather, marine weather, hydrological, oceanographic, wildfire, air quality, and ecological conditions which may or are presently affecting inland, coastal, and maritime areas. A few examples include Gale Watch, Gale Warning, High Surf Advisory, High Wind Watch, Areal Flood Warning, Coastal Flood Watch, Winter Storm Warning, Wind Chill Advisory, Frost Advisory, Tropical Storm Watch, Red Flag Warning, Air Stagnation Warning, and Beach Hazards Statement. (A complete list is given in the Background Information section below.) The coverage areas of these products are usually defined by county or sub-county boundaries. The colors used to identify the different watches, advisories, warnings, and statements are the same colors used by the NWS on their map at weather.gov. The NWS products for long-duration hazardous conditions are updated in the nowCOAST map service approximately every 10 minutes.",
-                    U: "http://new.nowcoast.noaa.gov/help/#section=updateschedule",
-                    N: "Watches &amp; Warnings for Long-Duration Hazards"
+                    U: "http://nowcoast.noaa.gov/help/#section=updateschedule",
+                    N: "NOAA NWS Watches, Warnings, Advisories, and Statements for Long-Duration Hazards"
                 },
                 {
                     I: "nowcoast_wwa_meteoceanhydro_shortduration_hazards_warnings_time",
-                    T: 'arcgis-layer',
-                    G: "http://nowcoast.noaa.gov/arcgis/rest/services/nowcoast/wwa_meteoceanhydro_shortduration_hazards_warnings_time/MapServer",
+                    T: 'wms',
+                    L: "0,1,2,3,4",
+                    G: "http://nowcoast.noaa.gov/arcgis/services/nowcoast/wwa_meteoceanhydro_shortduration_hazards_warnings_time/MapServer/WMSServer",
                     S: "The nowCOAST time-enabled map service provides maps depicting the geographic coverage of the latest NOAA/National Weather Service (NWS) WARNINGS for short-duration hazards for inland, coastal, and maritime areas which are in progress, imminent, or has a very high probability of occurring. These hazards include severe thunderstorms (damaging winds, large hail), tornadoes, waterspouts, flash floods, and extreme winds associated with major land-falling hurricanes. Specifically, the layer includes the following warnings: Special Marine Warnings (winds of 34 knots, 3/4 inch diameter hail, waterspouts), Severe Thunderstorm Warnings (winds of 58 MPH or greater, large hail of 1 inch or greater in diameter), Tornado Warnings, Flash Flood Warnings, and Extreme Wind Warnings (sustained surface winds of 115 MPH or greater during major [Category 3 or higher]land-falling hurricane within one hour). The colors used to identify the different warnings are the same colors used by the NWS on their map at weather.gov. The map is updated in the nowCOAST map service every minute.",
-                    U: "http://new.nowcoast.noaa.gov/help/#section=updateschedule",
-                    N: "Warnings for Short-Duration Hazards"
+                    U: "http://nowcoast.noaa.gov/help/#section=updateschedule",
+                    N: "NOAA NWS Weather Warnings for Short-Duration Hazards in Inland, Coastal, and Maritime Areas"
                 },
                 {
                     I: "nowcoast_wwa_meteoceanhydro_shortduration_hazards_watches_time",
-                    T: 'arcgis-layer',
-                    G: "http://nowcoast.noaa.gov/arcgis/rest/services/nowcoast/wwa_meteoceanhydro_shortduration_hazards_watches_time/MapServer",
+                    T: 'wms',
+                    L: "0,1,2",
+                    G: "http://nowcoast.noaa.gov/arcgis/services/nowcoast/wwa_meteoceanhydro_shortduration_hazards_watches_time/MapServer/WMSServer",
                     S: "This nowCOAST time-enabled map service provides maps depicting the geographic coverage of the latest NOAA/National Weather Service (NWS) WATCHES for the following short-duration hazardous weather and hydrological events which may affect inland and coastal areas: severe thunderstorms (surface winds of 58 MPH (93 KM/H, 50 knots) or greater, large hail of 1 inch (2.5 cm) or greater in diameter, tornadoes, and flash floods. A watch indicates that the risk of hazardous weather or hydrologic event has increased significantly, but its occurrence, location, and/or timing is still uncertain. The geographic areas covered by Severe Thunderstorm, Tornado, and Flash Flood Watches are usually indicated by county or subdivided-county boundaries. The colors used to identify the different watches are the same colors used by the NWS on their map at weather.gov. The NWS watches are updated in the nowCOAST map service approximately every 10 minutes.",
-                    U: "http://new.nowcoast.noaa.gov/help/#section=updateschedule",
-                    N: "Watches for Short-Duration Hazards"
+                    U: "http://nowcoast.noaa.gov/help/#section=updateschedule",
+                    N: "NOAA NWS Watches for Short-Duration Hazards for Inland, Coastal, and Maritime Areas"
                 },
                 {
-                    X: true,
-                    I: "nowcoast-thunderstorm-outlook",
-                    T: 'arcgis-layer',
-                    G: "http://nowcoast.noaa.gov/arcgis/rest/services/nowcoast/guidance_natlcenters_meteoceanhydro_outlooks_time/MapServer",
-                    L: "3,7,11",
-                    S: "This nowCOAST time-enabled map service provides maps of the latest NOAA/NWS Outlooks for Severe Thunderstorms (Convective Outlooks) and Critical Fire Weather for both Dry and Non-Dry Thunderstorms. These outlooks are issued by the NOAA/NWS/NCEP Storm Prediction Center (SPC) in Norman, Oklahoma. The colors used on the maps to indicate the locations and risk level of severe thunderstorms and critical fire weather conditions are the same as (or very close to) those used on SPC's outlook maps. To ensure the latest information is displayed, the maps of these outlooks are updated in this nowCOAST map service every half hour, but the underlying outlooks produced by SPC are usually issued only at 0100, 0600, 1300, 1630, 1730, and 2000 UTC However, amendments or more frequent updates will be issued as necessary.",
-                    U: "http://www.nws.noaa.gov/ndgd/",
-                    N: "NOAA NWS NCEP Severe Thunderstorm Outlooks"
-                },
-                {
-                    X: true,
                     I: "nowcoast_sat_meteo_emulated_imagery_lightningstrikedensity_goes_time",
-                    T: 'arcgis-layer',
-                    G: "http://nowcoast.noaa.gov/arcgis/rest/services/nowcoast/sat_meteo_emulated_imagery_lightningstrikedensity_goes_time/MapServer",
+                    T: 'wms',
+                    L: "1,2,3",
+                    G: "http://nowcoast.noaa.gov/arcgis/services/nowcoast/sat_meteo_emulated_imagery_lightningstrikedensity_goes_time/MapServer/WMSServer",
                     S: "This nowCOAST time-enabled map service provides maps of experimental lightning strike density data from the NOAA/National Weather Service/NCEP's Ocean Prediction Center (OPC) which emulate (simulate) data from the future NOAA GOES-R Global Lightning Mapper (GLM). The purpose of this experimental product is to provide mariners and others with enhanced &ldquo;awareness of developing and transitory thunderstorm activity, to give users the ability to determine whether a cloud system is producing lightning and if that activity is increasing or decreasing...&rdquo; Lightning Strike Density, as opposed to display of individual strikes, highlights the location of lightning cores and trends of increasing and decreasing activity. The maps depict the density of lightning strikes during a 15 minute time period at an 8 km x 8 km spatial resolution. The lightning strike density maps cover the geographic area from 25 degrees South to 80 degrees North latitude and from 110 degrees East to 0 degrees West longitude. The map units are number of strikes per square km per minute multiplied by a scaling factor of 10^3. The strike density is color coded using a color scheme which allows the data to be easily seen when overlaid on GOES imagery and to distinguish values at low density values. The maps are updated on nowCOAST approximately every 15 minutes. The latest data depicted on the maps are approximately 12 minutes old (or older). The OPC lightning strike density product is still experimental and may not always be available. Given the spatial resolution and latency of the data, the data should NOT be used to activite your lightning safety plans. Always follow the safety rule: when you first hear thunder or see lightning in your area, activate your emergency plan. If outdoors, immediately seek shelter in a substantial building or a fully enclosed metal vehicle such as a car, truck or a van. Do not resume activities until 30 minutes after the last observed lightning or thunder.",
-                    U: "http://new.nowcoast.noaa.gov/help/#section=updateschedule",
-                    N: "Lightning Strike Density - GOES-R"
+                    U: "http://nowcoast.noaa.gov/help/#section=updateschedule",
+                    N: "NOAA NWS Emulated GOES-R Lightning Strike Density"
                 },
                 {
                     P: true,
@@ -577,10 +588,11 @@ var layers = {
                 {
                     X: true,
                     I: "nowcoast_radar_meteo_imagery_nexrad_time",
-                    T: 'arcgis-layer',
-                    G: "http://nowcoast.noaa.gov/arcgis/rest/services/nowcoast/radar_meteo_imagery_nexrad_time/MapServer",
+                    T: 'wms',
+                    L: '1',
+                    G: "http://nowcoast.noaa.gov/arcgis/services/nowcoast/radar_meteo_imagery_nexrad_time/MapServer/WMSServer",
                     S: "This nowCOAST time-enabled map service provides maps of NOAA/National Weather Service RIDGE2 mosaics of base reflectivity images across the Continental United States (CONUS) as well as Puerto Rico, Hawaii, Guam and Alaska with a 2 kilometer (1.25 mile) horizontal resolution. The mosaics are compiled by combining regional base reflectivity radar data obtained from 158 Weather Surveillance Radar 1988 Doppler (WSR-88D) also known as NEXt-generation RADar (NEXRAD) sites across the country operated by the NWS and the Dept. of Defense and also from data from Terminal Doppler Weather Radars (TDWR) at major airports. The colors on the map represent the strength of the energy reflected back toward the radar. The reflected intensities (echoes) are measured in dBZ (decibels of z). The color scale is very similar to the one used by the NWS RIDGE2 map viewer. The radar data itself is updated by the NWS every 10 minutes during non-precipitation mode, but every 4-6 minutes during precipitation mode. To ensure nowCOAST is displaying the most recent data possible, the latest mosaics are downloaded every 5 minutes. For more detailed information about the update schedule, see:",
-                    U: "http://nowcoast.noaa.gov/arcgis/rest/services/nowcoast/radar_meteo_imagery_nexrad_time/MapServer",
+                    U: "http://nowcoast.noaa.gov/arcgis/services/nowcoast/radar_meteo_imagery_nexrad_time/MapServer",
                     N: "NEXRAD Radar - RIDGE2 mosaics"
                 },
                 {
@@ -644,65 +656,57 @@ var layers = {
                 },
                 {
                     I: "obs_meteoceanhydro_insitu_pts_geolinks_weather",
-                    T: 'arcgis-layer',
-                    G: "http://new.nowcoast.noaa.gov/arcgis/rest/services/nowcoast/obs_meteoceanhydro_insitu_pts_geolinks/MapServer",
-                    L: "1",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/arcgis/services/nowcoast/obs_meteoceanhydro_insitu_pts_geolinks/MapServer/WMSServer",
+                    L: "7",
                     S: "Maps depicting locations of surface weather, oceanographic, river, water quality, and air quality observing stations, gages, and other types of observing platforms in the USA. These includes but not limited to observations from airports (ASOS, AWOS), coastal stations (C-MAN, NWLON, PORTS, NERRS), oil rigs, state mesonets, state air quality stations, state water quality stations, fixed buoys, drifting buoys, USGS river gages, weather stations, and water quality stations, voluntary observing ships, regional ocean observing systems and other networks (e.g. RAWS, Climate Reference Network) along with hyperlinks to web pages posting recent data from these observing platforms. It also provides maps of upper-air observations from radiosonde stations and hyperlinks to web pages posting recent data from these sounding stations.",
                     U: "http://www.ncdc.noaa.gov/oa/wdc/metar/",
                     N: "Surface Weather Observation Stations"
                 },
                 {
                     I: "obs_meteoceanhydro_insitu_pts_geolinks_ocean",
-                    T: 'arcgis-layer',
-                    G: "http://new.nowcoast.noaa.gov/arcgis/rest/services/nowcoast/obs_meteoceanhydro_insitu_pts_geolinks/MapServer",
-                    L: "4",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/arcgis/services/nowcoast/obs_meteoceanhydro_insitu_pts_geolinks/MapServer/WMSServer",
+                    L: "6",
                     S: "Maps depicting locations of surface weather, oceanographic, river, water quality, and air quality observing stations, gages, and other types of observing platforms in the USA. These includes but not limited to observations from airports (ASOS, AWOS), coastal stations (C-MAN, NWLON, PORTS, NERRS), oil rigs, state mesonets, state air quality stations, state water quality stations, fixed buoys, drifting buoys, USGS river gages, weather stations, and water quality stations, voluntary observing ships, regional ocean observing systems and other networks (e.g. RAWS, Climate Reference Network) along with hyperlinks to web pages posting recent data from these observing platforms. It also provides maps of upper-air observations from radiosonde stations and hyperlinks to web pages posting recent data from these sounding stations.",
                     U: "http://www.ncdc.noaa.gov/oa/wdc/metar/",
                     N: "Ocean/Estuary/Lake Observation Stations"
                 },
                 {
                     I: "obs_meteoceanhydro_insitu_pts_geolinks_river",
-                    T: 'arcgis-layer',
-                    G: "http://new.nowcoast.noaa.gov/arcgis/rest/services/nowcoast/obs_meteoceanhydro_insitu_pts_geolinks/MapServer",
-                    L: "7",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/arcgis/services/nowcoast/obs_meteoceanhydro_insitu_pts_geolinks/MapServer/WMSServer",
+                    L: "5",
                     S: "Maps depicting locations of surface weather, oceanographic, river, water quality, and air quality observing stations, gages, and other types of observing platforms in the USA. These includes but not limited to observations from airports (ASOS, AWOS), coastal stations (C-MAN, NWLON, PORTS, NERRS), oil rigs, state mesonets, state air quality stations, state water quality stations, fixed buoys, drifting buoys, USGS river gages, weather stations, and water quality stations, voluntary observing ships, regional ocean observing systems and other networks (e.g. RAWS, Climate Reference Network) along with hyperlinks to web pages posting recent data from these observing platforms. It also provides maps of upper-air observations from radiosonde stations and hyperlinks to web pages posting recent data from these sounding stations.",
                     U: "http://www.ncdc.noaa.gov/oa/wdc/metar/",
                     N: "River Observation Stations"
                 },
                 {
                     I: "obs_meteoceanhydro_insitu_pts_geolinks_water",
-                    T: 'arcgis-layer',
-                    G: "http://new.nowcoast.noaa.gov/arcgis/rest/services/nowcoast/obs_meteoceanhydro_insitu_pts_geolinks/MapServer",
-                    L: "10",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/arcgis/services/nowcoast/obs_meteoceanhydro_insitu_pts_geolinks/MapServer/WMSServer",
+                    L: "4",
                     S: "Maps depicting locations of surface weather, oceanographic, river, water quality, and air quality observing stations, gages, and other types of observing platforms in the USA. These includes but not limited to observations from airports (ASOS, AWOS), coastal stations (C-MAN, NWLON, PORTS, NERRS), oil rigs, state mesonets, state air quality stations, state water quality stations, fixed buoys, drifting buoys, USGS river gages, weather stations, and water quality stations, voluntary observing ships, regional ocean observing systems and other networks (e.g. RAWS, Climate Reference Network) along with hyperlinks to web pages posting recent data from these observing platforms. It also provides maps of upper-air observations from radiosonde stations and hyperlinks to web pages posting recent data from these sounding stations.",
                     U: "http://www.ncdc.noaa.gov/oa/wdc/metar/",
                     N: "Water Quality Observation Stations"
                 },
                 {
                     I: "obs_meteoceanhydro_insitu_pts_geolinks_air",
-                    T: 'arcgis-layer',
-                    G: "http://new.nowcoast.noaa.gov/arcgis/rest/services/nowcoast/obs_meteoceanhydro_insitu_pts_geolinks/MapServer",
-                    L: "13",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/arcgis/services/nowcoast/obs_meteoceanhydro_insitu_pts_geolinks/MapServer/WMSServer",
+                    L: "3",
                     S: "Maps depicting locations of surface weather, oceanographic, river, water quality, and air quality observing stations, gages, and other types of observing platforms in the USA. These includes but not limited to observations from airports (ASOS, AWOS), coastal stations (C-MAN, NWLON, PORTS, NERRS), oil rigs, state mesonets, state air quality stations, state water quality stations, fixed buoys, drifting buoys, USGS river gages, weather stations, and water quality stations, voluntary observing ships, regional ocean observing systems and other networks (e.g. RAWS, Climate Reference Network) along with hyperlinks to web pages posting recent data from these observing platforms. It also provides maps of upper-air observations from radiosonde stations and hyperlinks to web pages posting recent data from these sounding stations.",
                     U: "http://www.ncdc.noaa.gov/oa/wdc/metar/",
                     N: "Air Quality Observation Stations"
                 },
                 {
                     I: "obs_meteoceanhydro_insitu_pts_geolinks_radiosonde",
-                    T: 'arcgis-layer',
-                    G: "http://new.nowcoast.noaa.gov/arcgis/rest/services/nowcoast/obs_meteoceanhydro_insitu_pts_geolinks/MapServer",
-                    L: "16",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/arcgis/services/nowcoast/obs_meteoceanhydro_insitu_pts_geolinks/MapServer/WMSServer",
+                    L: "1",
                     S: "Maps depicting locations of surface weather, oceanographic, river, water quality, and air quality observing stations, gages, and other types of observing platforms in the USA. These includes but not limited to observations from airports (ASOS, AWOS), coastal stations (C-MAN, NWLON, PORTS, NERRS), oil rigs, state mesonets, state air quality stations, state water quality stations, fixed buoys, drifting buoys, USGS river gages, weather stations, and water quality stations, voluntary observing ships, regional ocean observing systems and other networks (e.g. RAWS, Climate Reference Network) along with hyperlinks to web pages posting recent data from these observing platforms. It also provides maps of upper-air observations from radiosonde stations and hyperlinks to web pages posting recent data from these sounding stations.",
                     U: "http://www.ncdc.noaa.gov/oa/wdc/metar/",
                     N: "Upper-Air Radiosonde (Atmospheric Soundings)"
-                },
-                {
-                    I: "obs_meteocean_insitu_sfc_time",
-                    T: 'arcgis-layer',
-                    G: "http://new.nowcoast.noaa.gov/arcgis/rest/services/nowcoast/obs_meteocean_insitu_sfc_time/MapServer",
-                    S: "This nowCOAST time-enabled map service provides map depicting the latest surface weather and marine weather observations at observing sites using the international station model. The station model is method for representing information collected at an observing station using symbols and numbers. The station model depicts current weather conditions, cloud cover, wind speed, wind direction, visibility, air temperature, dew point temperature, sea surface water temperature, significant wave height, air pressure adjusted to mean sea level, and the change in air pressure over the last 3 hours. The circle in the model is centered over the latitude and longitude coordinates of the station. The total cloud cover is expressed as a fraction of cloud covering the sky and is indicated by the amount of circle filled in. (Cloud cover is not presently displayed due to a problem with the source data. Present weather information is also not available for display at this time.) Wind speed and direction are represented by a wind barb whose line extends from the cover cloud circle towards the direction from which the wind is blowing. The short lines or flags coming off the end of the long line are called barbs. The barb indicates the wind speed in knots. Each normal barb represents 10 knots, while short barbs indicate 5 knots. A flag represents 50 knots. If there is no wind barb depicted, an outer circle around the cloud cover symbol indicates calm winds. The map of observations are updated in the nowCOAST map service approximately every 10 minutes. However, since the reporting frequency varies by network or station, the observation at a particular station may have not updated and may not update until after the next hour.",
-                    U: "http://new.nowcoast.noaa.gov/help/#section=updateschedule",
-                    N: "METAR Observations"
                 }
             ]
         },
@@ -710,32 +714,6 @@ var layers = {
             N: "Precipitation",
             icon: "fa-umbrella",
             ">": [
-                {
-                    I: "usdroughtoutlook",
-                    T: 'arcgis-layer',
-                    G: "http://gis.ncdc.noaa.gov/arcgis/rest/services/nidis/usdroughtoutlook/MapServer",
-                    S: "Climate Prediction Center (CPC)",
-                    U: "http://www.cpc.ncep.noaa.gov/",
-                    N: "US Drought Outlook"
-                },
-                {
-                    P: true,
-                    I: "kml-usdrought",
-                    T: 'kml',
-                    G: "http://torka.unl.edu:8080/dm/data/kml/current/usdm_current.kmz",
-                    S: "University of Nebraska-Lincoln, US. Drought Monitor",
-                    U: "http://droughtmonitor.unl.edu/",
-                    N: "US. Drought Monitor"
-                },
-                {
-                    I: "AHPS-StreamGauge",
-                    T: 'arcgis-layer',
-                    G: "http://tmservices1.esri.com/arcgis/rest/services/LiveFeeds/StreamGauge/MapServer",
-                    S: "NOAA Advanced Hydrologic Prediction Service (AHPS). Stream Gauge is a product of National Oceanic and Atmospheric Administration (NOAA). This gives us readings of stream gauges around the US, which depict the current water level in the measured areas.",
-                    U: "http://water.weather.gov/ahps/",
-                    N: "USGS - All Earthquakes (Past 90 Days)"
-                },
-
                 {
                     P: true,
                     I: "kml-usshour",
@@ -749,7 +727,7 @@ var layers = {
                     P: true,
                     I: "kml-usstfhour",
                     T: 'kml',
-                    G: "http://www.wpc.ncep.noaa.gov/kml/qpf/QPF24hr_Day1_main.kml",
+                    G: "http://www.wpc.ncep.noaa.gov/kml/qpf/QPF24hr_Day1_latest.kml",
                     S: "NOAA National Weather Service, Weather Prediction Center, HPC Quantitative Precipitation Forecasts (QPFs)",
                     U: "http://www.wpc.ncep.noaa.gov/",
                     N: "US. 24-hour Forecast"
@@ -767,10 +745,37 @@ var layers = {
                     P: true,
                     I: "kml-ussfdflood",
                     T: 'kml',
-                    G: "http://www.wpc.ncep.noaa.gov/kml/fop/fop.kml",
+                    G: "http://www.wpc.ncep.noaa.gov/kml/fop/fopbody.kml",
                     S: "NOAA National Weather Service, Weather Prediction Center, 5-Day Significant River Flood Outlook",
                     U: "http://www.wpc.ncep.noaa.gov/",
                     N: "US. Significant Flood Risk"
+                },
+                {
+                    P: true,
+                    I: "kml-trmmgf",
+                    T: 'kml',
+                    G: "http://trmm.gsfc.nasa.gov/trmm_rain/Events/trmm_google_hydro_model_b.kml",
+                    S: "NASA Tropical Rainfall Measuring Mission (TRMM). Updated 8 TIMES DAILY (Note: you must have Google Earth installed in order to be able to load these KML files.) ANALYSES USING MERGED SATELLITE RAINFALL (3B42)",
+                    U: "http://trmm.gsfc.nasa.gov/publications_dir/potential_flood_hydro.html",
+                    N: "Real-Time Global Flood Forecast"
+                },
+                {
+                    P: true,
+                    I: "kml-trmmgfd",
+                    T: 'kml',
+                    G: "http://trmm.gsfc.nasa.gov/trmm_rain/Events/trmm_google_24plusG5_hydro_model.kml",
+                    S: "NASA Tropical Rainfall Measuring Mission (TRMM). Updated 8 TIMES DAILY (Note: you must have Google Earth installed in order to be able to load these KML files.) ANALYSES USING MERGED SATELLITE RAINFALL (3B42)",
+                    U: "http://trmm.gsfc.nasa.gov/publications_dir/potential_flood_hydro.html",
+                    N: "24-hour Global Flood Forecast"
+                },
+                {
+                    P: true,
+                    I: "kml-trmmgff",
+                    T: 'kml',
+                    G: "http://trmm.gsfc.nasa.gov/trmm_rain/Events/trmm_google_G5_extended_hydro_model.kml",
+                    S: "NASA Tropical Rainfall Measuring Mission (TRMM)",
+                    U: "http://trmm.gsfc.nasa.gov/publications_dir/potential_flood_hydro.html",
+                    N: "5-day Global Flood Forecast"
                 },
                 {
                     P: true,
@@ -780,25 +785,15 @@ var layers = {
                     G: "http://water.weather.gov/ahps/worldfiles/ahps_national_fcst.kmz",
                     S: "NOAA National Weather Service, River Observations",
                     U: "http://water.weather.gov/ahps/",
-                    N: "US. River Flood Levels"
+                    N: "NWS - US. River Flood Levels"
                 },
                 {
-                    P: true,
-                    I: "kml-trmmgf",
-                    T: 'kml',
-                    G: "http://trmm.gsfc.nasa.gov/trmm_rain/Events/trmm_google_hydro_model_b.kml",
-                    S: "NASA Tropical Rainfall Measuring Mission (TRMM)",
-                    U: "http://trmm.gsfc.nasa.gov/publications_dir/potential_flood_hydro.html",
-                    N: "Global Flood Forecast"
-                },
-                {
-                    P: true,
-                    I: "kml-trmmgff",
-                    T: 'kml',
-                    G: "http://trmm.gsfc.nasa.gov/trmm_rain/Events/trmm_google_G5_extended_hydro_model.kml",
-                    S: "NASA Tropical Rainfall Measuring Mission (TRMM)",
-                    U: "http://trmm.gsfc.nasa.gov/publications_dir/potential_flood_hydro.html",
-                    N: "5-day Flood Forecast"
+                    I: "AHPS-StreamGauge",
+                    T: 'arcgis-layer',
+                    G: "http://tmservices1.esri.com/arcgis/rest/services/LiveFeeds/StreamGauge/MapServer",
+                    S: "Stream Gauge is a product of National Oceanic and Atmospheric Administration (NOAA). This gives us readings of stream gauges around the US, which depict the current water level in the measured areas. We gather this data from the NOAA shapefile source. These shape files are parsed using the Aggregated Live Feeds methodology to take the returned information and serve the data through ArcGIS Server as a map service. ",
+                    U: "http://water.weather.gov/ahps/",
+                    N: "NOAA - StreamGauge US. River Flood Levels"
                 },
                 {
                     P: true,
@@ -855,6 +850,23 @@ var layers = {
                     N: "30-day Anomaly Rainfall"
                 },
                 {
+                    I: "usdroughtoutlook",
+                    T: 'arcgis-layer',
+                    G: "http://gis.ncdc.noaa.gov/arcgis/rest/services/nidis/usdroughtoutlook/MapServer",
+                    S: "Climate Prediction Center (CPC)",
+                    U: "http://www.cpc.ncep.noaa.gov/",
+                    N: "US Drought Outlook"
+                },
+                {
+                    P: true,
+                    I: "kml-usdrought",
+                    T: 'kml',
+                    G: "http://torka.unl.edu:8080/dm/data/kml/current/usdm_current.kmz",
+                    S: "University of Nebraska-Lincoln, US. Drought Monitor",
+                    U: "http://droughtmonitor.unl.edu/",
+                    N: "US. Drought Monitor"
+                },
+                {
                     P: true,
                     I: "kml-eumetod",
                     T: 'kml',
@@ -897,78 +909,6 @@ var layers = {
             icon: "fa-cloud",
             '>': [
                 {
-                    I: "hc_nc_observed_track",
-                    T: 'arcgis-layer',
-                    G: "http://nowcoast.noaa.gov/arcgis/rest/services/nowcoast/wwa_meteocean_tropicalcyclones_trackintensityfcsts_time/MapServer",
-                    L: "8",
-                    S: "This nowCOAST time-enabled map service provides maps depicting the latest official NWS tropical cyclone forecast tracks and watches and warnings for all active systems in the Atlantic, Caribbean Sea, Gulf of Mexico, Eastern Pacific Ocean, and Central Pacific Ocean. The map layer displays the cyclone's present location, past locations (best track), maximum estimated sustained surface wind (MPH), wind gusts, mean sea level pressure (millibars), forecasts of the cyclone's surface positions, maximum sustained winds and gusts at 12, 24, 36, 48, 72, 96 and 120 hours, and uncertainty of the forecast track depicted as a cone. Best track information is available for all storms in the Atlantic, Caribbean Sea, Gulf of Mexico and Eastern Pacific Ocean but not for storms in the Central Pacific Ocean. The track forecasts are based on information from the NWS/National Hurricane Center (NHC) and NWS/Central Pacific Hurricane Center (CPHC) Tropical Cyclone Public Advisories. This map service is updated twice per hour in order to obtain and display the latest information from the regularly scheduled NHC tropical cyclone public advisories as well as any intermediate or special public advisories.",
-                    U: "http://new.nowcoast.noaa.gov/help/#section=updateschedule",
-                    N: "nowCOAST Observed Track"
-                },
-                {
-                    I: "hc_nc_observed_positions",
-                    T: 'arcgis-layer',
-                    G: "http://nowcoast.noaa.gov/arcgis/rest/services/nowcoast/wwa_meteocean_tropicalcyclones_trackintensityfcsts_time/MapServer",
-                    L: "7",
-                    S: "This nowCOAST time-enabled map service provides maps depicting the latest official NWS tropical cyclone forecast tracks and watches and warnings for all active systems in the Atlantic, Caribbean Sea, Gulf of Mexico, Eastern Pacific Ocean, and Central Pacific Ocean. The map layer displays the cyclone's present location, past locations (best track), maximum estimated sustained surface wind (MPH), wind gusts, mean sea level pressure (millibars), forecasts of the cyclone's surface positions, maximum sustained winds and gusts at 12, 24, 36, 48, 72, 96 and 120 hours, and uncertainty of the forecast track depicted as a cone. Best track information is available for all storms in the Atlantic, Caribbean Sea, Gulf of Mexico and Eastern Pacific Ocean but not for storms in the Central Pacific Ocean. The track forecasts are based on information from the NWS/National Hurricane Center (NHC) and NWS/Central Pacific Hurricane Center (CPHC) Tropical Cyclone Public Advisories. This map service is updated twice per hour in order to obtain and display the latest information from the regularly scheduled NHC tropical cyclone public advisories as well as any intermediate or special public advisories.",
-                    U: "http://new.nowcoast.noaa.gov/help/#section=updateschedule",
-                    N: "nowCOAST Observed Positions"
-                },
-                {
-                    I: "hc_nc_forecast_track",
-                    T: 'arcgis-layer',
-                    G: "http://nowcoast.noaa.gov/arcgis/rest/services/nowcoast/wwa_meteocean_tropicalcyclones_trackintensityfcsts_time/MapServer",
-                    L: "4",
-                    S: "This nowCOAST time-enabled map service provides maps depicting the latest official NWS tropical cyclone forecast tracks and watches and warnings for all active systems in the Atlantic, Caribbean Sea, Gulf of Mexico, Eastern Pacific Ocean, and Central Pacific Ocean. The map layer displays the cyclone's present location, past locations (best track), maximum estimated sustained surface wind (MPH), wind gusts, mean sea level pressure (millibars), forecasts of the cyclone's surface positions, maximum sustained winds and gusts at 12, 24, 36, 48, 72, 96 and 120 hours, and uncertainty of the forecast track depicted as a cone. Best track information is available for all storms in the Atlantic, Caribbean Sea, Gulf of Mexico and Eastern Pacific Ocean but not for storms in the Central Pacific Ocean. The track forecasts are based on information from the NWS/National Hurricane Center (NHC) and NWS/Central Pacific Hurricane Center (CPHC) Tropical Cyclone Public Advisories. This map service is updated twice per hour in order to obtain and display the latest information from the regularly scheduled NHC tropical cyclone public advisories as well as any intermediate or special public advisories.",
-                    U: "http://new.nowcoast.noaa.gov/help/#section=updateschedule",
-                    N: "nowCOAST Forecast Track"
-                },
-                {
-                    I: "hc_nc_forecast_positions",
-                    T: 'arcgis-layer',
-                    G: "http://nowcoast.noaa.gov/arcgis/rest/services/nowcoast/wwa_meteocean_tropicalcyclones_trackintensityfcsts_time/MapServer",
-                    L: "3",
-                    S: "This nowCOAST time-enabled map service provides maps depicting the latest official NWS tropical cyclone forecast tracks and watches and warnings for all active systems in the Atlantic, Caribbean Sea, Gulf of Mexico, Eastern Pacific Ocean, and Central Pacific Ocean. The map layer displays the cyclone's present location, past locations (best track), maximum estimated sustained surface wind (MPH), wind gusts, mean sea level pressure (millibars), forecasts of the cyclone's surface positions, maximum sustained winds and gusts at 12, 24, 36, 48, 72, 96 and 120 hours, and uncertainty of the forecast track depicted as a cone. Best track information is available for all storms in the Atlantic, Caribbean Sea, Gulf of Mexico and Eastern Pacific Ocean but not for storms in the Central Pacific Ocean. The track forecasts are based on information from the NWS/National Hurricane Center (NHC) and NWS/Central Pacific Hurricane Center (CPHC) Tropical Cyclone Public Advisories. This map service is updated twice per hour in order to obtain and display the latest information from the regularly scheduled NHC tropical cyclone public advisories as well as any intermediate or special public advisories.",
-                    U: "http://new.nowcoast.noaa.gov/help/#section=updateschedule",
-                    N: "nowCOAST Forecast Positions"
-                },
-                {
-                    I: "hc_nc_error_cone",
-                    T: 'arcgis-layer',
-                    G: "http://nowcoast.noaa.gov/arcgis/rest/services/nowcoast/wwa_meteocean_tropicalcyclones_trackintensityfcsts_time/MapServer",
-                    L: "5",
-                    S: "This nowCOAST time-enabled map service provides maps depicting the latest official NWS tropical cyclone forecast tracks and watches and warnings for all active systems in the Atlantic, Caribbean Sea, Gulf of Mexico, Eastern Pacific Ocean, and Central Pacific Ocean. The map layer displays the cyclone's present location, past locations (best track), maximum estimated sustained surface wind (MPH), wind gusts, mean sea level pressure (millibars), forecasts of the cyclone's surface positions, maximum sustained winds and gusts at 12, 24, 36, 48, 72, 96 and 120 hours, and uncertainty of the forecast track depicted as a cone. Best track information is available for all storms in the Atlantic, Caribbean Sea, Gulf of Mexico and Eastern Pacific Ocean but not for storms in the Central Pacific Ocean. The track forecasts are based on information from the NWS/National Hurricane Center (NHC) and NWS/Central Pacific Hurricane Center (CPHC) Tropical Cyclone Public Advisories. This map service is updated twice per hour in order to obtain and display the latest information from the regularly scheduled NHC tropical cyclone public advisories as well as any intermediate or special public advisories.",
-                    U: "http://new.nowcoast.noaa.gov/help/#section=updateschedule",
-                    N: "nowCOAST Cone of Error"
-                },
-                {
-                    I: "hc_nc_coast_watch_warn",
-                    T: 'arcgis-layer',
-                    G: "http://nowcoast.noaa.gov/arcgis/rest/services/nowcoast/wwa_meteocean_tropicalcyclones_trackintensityfcsts_time/MapServer",
-                    L: "2",
-                    S: "This nowCOAST time-enabled map service provides maps depicting the latest official NWS tropical cyclone forecast tracks and watches and warnings for all active systems in the Atlantic, Caribbean Sea, Gulf of Mexico, Eastern Pacific Ocean, and Central Pacific Ocean. The map layer displays the cyclone's present location, past locations (best track), maximum estimated sustained surface wind (MPH), wind gusts, mean sea level pressure (millibars), forecasts of the cyclone's surface positions, maximum sustained winds and gusts at 12, 24, 36, 48, 72, 96 and 120 hours, and uncertainty of the forecast track depicted as a cone. Best track information is available for all storms in the Atlantic, Caribbean Sea, Gulf of Mexico and Eastern Pacific Ocean but not for storms in the Central Pacific Ocean. The track forecasts are based on information from the NWS/National Hurricane Center (NHC) and NWS/Central Pacific Hurricane Center (CPHC) Tropical Cyclone Public Advisories. This map service is updated twice per hour in order to obtain and display the latest information from the regularly scheduled NHC tropical cyclone public advisories as well as any intermediate or special public advisories.",
-                    U: "http://new.nowcoast.noaa.gov/help/#section=updateschedule",
-                    N: "nowCOAST Watches and Warnings"
-                },
-                {
-                    I: "hc_nc_surface_winds",
-                    T: 'arcgis-layer',
-                    G: "http://nowcoast.noaa.gov/arcgis/rest/services/nowcoast/wwa_meteocean_tropicalcyclones_trackintensityfcsts_time/MapServer",
-                    L: "9",
-                    S: "This nowCOAST time-enabled map service provides maps depicting the latest official NWS tropical cyclone forecast tracks and watches and warnings for all active systems in the Atlantic, Caribbean Sea, Gulf of Mexico, Eastern Pacific Ocean, and Central Pacific Ocean. The map layer displays the cyclone's present location, past locations (best track), maximum estimated sustained surface wind (MPH), wind gusts, mean sea level pressure (millibars), forecasts of the cyclone's surface positions, maximum sustained winds and gusts at 12, 24, 36, 48, 72, 96 and 120 hours, and uncertainty of the forecast track depicted as a cone. Best track information is available for all storms in the Atlantic, Caribbean Sea, Gulf of Mexico and Eastern Pacific Ocean but not for storms in the Central Pacific Ocean. The track forecasts are based on information from the NWS/National Hurricane Center (NHC) and NWS/Central Pacific Hurricane Center (CPHC) Tropical Cyclone Public Advisories. This map service is updated twice per hour in order to obtain and display the latest information from the regularly scheduled NHC tropical cyclone public advisories as well as any intermediate or special public advisories.",
-                    U: "http://new.nowcoast.noaa.gov/help/#section=updateschedule",
-                    N: "nowCOAST Observed Surface Wind Swath"
-                },
-                {
-                    I: "hc_observed_track",
-                    T: 'arcgis-layer',
-                    G: "http://tmservices1.esri.com/arcgis/rest/services/LiveFeeds/Hurricane_Active/MapServer",
-                    L: "3",
-                    S: "NOAA NWS National Hurricane Center (NHC), Central Pacific Hurricane Center (CPHC), Joint Typhoon Warning Center (JTWC)<br><br>This product aids in the visualization of an NHC official track forecast, the forecast points are connected by black line segments., Joint Typhoon Warning Center (JTWC)<br><br>This product aids in the visualization of an NHC official track forecast, the forecast points are connected by black line segments. The track line(s) are not a forecast product, however, and because there are an infinite number of ways to connect a set of forecast points, the lines should not be interpreted as representing a specific forecast for the location of a tropical cyclone in between official forecast points. It is also important to remember that tropical cyclone track forecasts are subject to error, and that the effects of a tropical cyclone can span many hundreds of miles from the center.",
-                    U: "http://tmservices1.esri.com/arcgis/rest/services/LiveFeeds/Hurricane_Active/MapServer",
-                    N: "NOAA/USNO Observed Track"
-                },
-                {
                     I: "hc_past_position",
                     T: 'arcgis-layer',
                     G: "http://tmservices1.esri.com/arcgis/rest/services/LiveFeeds/Hurricane_Active/MapServer",
@@ -1005,6 +945,15 @@ var layers = {
                     N: "NOAA/USNO Cone of Error"
                 },
                 {
+                    I: "hc_observed_track",
+                    T: 'arcgis-layer',
+                    G: "http://tmservices1.esri.com/arcgis/rest/services/LiveFeeds/Hurricane_Active/MapServer",
+                    L: "3",
+                    S: "NOAA NWS National Hurricane Center (NHC), Central Pacific Hurricane Center (CPHC), Joint Typhoon Warning Center (JTWC)<br><br>This product aids in the visualization of an NHC official track forecast, the forecast points are connected by black line segments., Joint Typhoon Warning Center (JTWC)<br><br>This product aids in the visualization of an NHC official track forecast, the forecast points are connected by black line segments. The track line(s) are not a forecast product, however, and because there are an infinite number of ways to connect a set of forecast points, the lines should not be interpreted as representing a specific forecast for the location of a tropical cyclone in between official forecast points. It is also important to remember that tropical cyclone track forecasts are subject to error, and that the effects of a tropical cyclone can span many hundreds of miles from the center.",
+                    U: "http://tmservices1.esri.com/arcgis/rest/services/LiveFeeds/Hurricane_Active/MapServer",
+                    N: "NOAA/USNO Observed Track"
+                },
+                {
                     I: "hc_warn_watch",
                     T: 'arcgis-layer',
                     G: "http://tmservices1.esri.com/arcgis/rest/services/LiveFeeds/Hurricane_Active/MapServer",
@@ -1012,6 +961,69 @@ var layers = {
                     S: "NOAA NWS National Hurricane Center (NHC), Central Pacific Hurricane Center (CPHC), Joint Typhoon Warning Center (JTWC)<br><br>This product aids in the visualization of an NHC official track forecast, the forecast points are connected by black line segments., Joint Typhoon Warning Center (JTWC)<br><br>This product aids in the visualization of an NHC official track forecast, the forecast points are connected by black line segments. The track line(s) are not a forecast product, however, and because there are an infinite number of ways to connect a set of forecast points, the lines should not be interpreted as representing a specific forecast for the location of a tropical cyclone in between official forecast points. It is also important to remember that tropical cyclone track forecasts are subject to error, and that the effects of a tropical cyclone can span many hundreds of miles from the center.",
                     U: "http://tmservices1.esri.com/arcgis/rest/services/LiveFeeds/Hurricane_Active/MapServer",
                     N: "NOAA/USNO Watches and Warnings"
+                },
+                {
+                    I: "hc_nc_observed_track",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/arcgis/services/nowcoast/wwa_meteocean_tropicalcyclones_trackintensityfcsts_time/MapServer/WMSServer",
+                    L: "8",
+                    S: "This nowCOAST time-enabled map service provides maps depicting the latest official NWS tropical cyclone forecast tracks and watches and warnings for all active systems in the Atlantic, Caribbean Sea, Gulf of Mexico, Eastern Pacific Ocean, and Central Pacific Ocean. The map layer displays the cyclone's present location, past locations (best track), maximum estimated sustained surface wind (MPH), wind gusts, mean sea level pressure (millibars), forecasts of the cyclone's surface positions, maximum sustained winds and gusts at 12, 24, 36, 48, 72, 96 and 120 hours, and uncertainty of the forecast track depicted as a cone. Best track information is available for all storms in the Atlantic, Caribbean Sea, Gulf of Mexico and Eastern Pacific Ocean but not for storms in the Central Pacific Ocean. The track forecasts are based on information from the NWS/National Hurricane Center (NHC) and NWS/Central Pacific Hurricane Center (CPHC) Tropical Cyclone Public Advisories. This map service is updated twice per hour in order to obtain and display the latest information from the regularly scheduled NHC tropical cyclone public advisories as well as any intermediate or special public advisories.",
+                    U: "http://nowcoast.noaa.gov/help/#section=updateschedule",
+                    N: "nowCOAST Center Position Forecasts"
+                },
+                {
+                    I: "hc_nc_observed_positions",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/arcgis/services/nowcoast/wwa_meteocean_tropicalcyclones_trackintensityfcsts_time/MapServer/WMSServer",
+                    L: "7",
+                    S: "This nowCOAST time-enabled map service provides maps depicting the latest official NWS tropical cyclone forecast tracks and watches and warnings for all active systems in the Atlantic, Caribbean Sea, Gulf of Mexico, Eastern Pacific Ocean, and Central Pacific Ocean. The map layer displays the cyclone's present location, past locations (best track), maximum estimated sustained surface wind (MPH), wind gusts, mean sea level pressure (millibars), forecasts of the cyclone's surface positions, maximum sustained winds and gusts at 12, 24, 36, 48, 72, 96 and 120 hours, and uncertainty of the forecast track depicted as a cone. Best track information is available for all storms in the Atlantic, Caribbean Sea, Gulf of Mexico and Eastern Pacific Ocean but not for storms in the Central Pacific Ocean. The track forecasts are based on information from the NWS/National Hurricane Center (NHC) and NWS/Central Pacific Hurricane Center (CPHC) Tropical Cyclone Public Advisories. This map service is updated twice per hour in order to obtain and display the latest information from the regularly scheduled NHC tropical cyclone public advisories as well as any intermediate or special public advisories.",
+                    U: "http://nowcoast.noaa.gov/help/#section=updateschedule",
+                    N: "nowCOAST Track Line Forecasts"
+                },
+                {
+                    I: "hc_nc_forecast_track",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/arcgis/services/nowcoast/wwa_meteocean_tropicalcyclones_trackintensityfcsts_time/MapServer/WMSServer",
+                    L: "4",
+                    S: "This nowCOAST time-enabled map service provides maps depicting the latest official NWS tropical cyclone forecast tracks and watches and warnings for all active systems in the Atlantic, Caribbean Sea, Gulf of Mexico, Eastern Pacific Ocean, and Central Pacific Ocean. The map layer displays the cyclone's present location, past locations (best track), maximum estimated sustained surface wind (MPH), wind gusts, mean sea level pressure (millibars), forecasts of the cyclone's surface positions, maximum sustained winds and gusts at 12, 24, 36, 48, 72, 96 and 120 hours, and uncertainty of the forecast track depicted as a cone. Best track information is available for all storms in the Atlantic, Caribbean Sea, Gulf of Mexico and Eastern Pacific Ocean but not for storms in the Central Pacific Ocean. The track forecasts are based on information from the NWS/National Hurricane Center (NHC) and NWS/Central Pacific Hurricane Center (CPHC) Tropical Cyclone Public Advisories. This map service is updated twice per hour in order to obtain and display the latest information from the regularly scheduled NHC tropical cyclone public advisories as well as any intermediate or special public advisories.",
+                    U: "http://nowcoast.noaa.gov/help/#section=updateschedule",
+                    N: "nowCOAST Observed Center Positions"
+                },
+                {
+                    I: "hc_nc_forecast_positions",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/arcgis/services/nowcoast/wwa_meteocean_tropicalcyclones_trackintensityfcsts_time/MapServer/WMSServer",
+                    L: "3",
+                    S: "This nowCOAST time-enabled map service provides maps depicting the latest official NWS tropical cyclone forecast tracks and watches and warnings for all active systems in the Atlantic, Caribbean Sea, Gulf of Mexico, Eastern Pacific Ocean, and Central Pacific Ocean. The map layer displays the cyclone's present location, past locations (best track), maximum estimated sustained surface wind (MPH), wind gusts, mean sea level pressure (millibars), forecasts of the cyclone's surface positions, maximum sustained winds and gusts at 12, 24, 36, 48, 72, 96 and 120 hours, and uncertainty of the forecast track depicted as a cone. Best track information is available for all storms in the Atlantic, Caribbean Sea, Gulf of Mexico and Eastern Pacific Ocean but not for storms in the Central Pacific Ocean. The track forecasts are based on information from the NWS/National Hurricane Center (NHC) and NWS/Central Pacific Hurricane Center (CPHC) Tropical Cyclone Public Advisories. This map service is updated twice per hour in order to obtain and display the latest information from the regularly scheduled NHC tropical cyclone public advisories as well as any intermediate or special public advisories.",
+                    U: "http://nowcoast.noaa.gov/help/#section=updateschedule",
+                    N: "nowCOAST Observed Track Line"
+                },
+                {
+                    I: "hc_nc_error_cone",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/arcgis/services/nowcoast/wwa_meteocean_tropicalcyclones_trackintensityfcsts_time/MapServer/WMSServer",
+                    L: "2",
+                    S: "This nowCOAST time-enabled map service provides maps depicting the latest official NWS tropical cyclone forecast tracks and watches and warnings for all active systems in the Atlantic, Caribbean Sea, Gulf of Mexico, Eastern Pacific Ocean, and Central Pacific Ocean. The map layer displays the cyclone's present location, past locations (best track), maximum estimated sustained surface wind (MPH), wind gusts, mean sea level pressure (millibars), forecasts of the cyclone's surface positions, maximum sustained winds and gusts at 12, 24, 36, 48, 72, 96 and 120 hours, and uncertainty of the forecast track depicted as a cone. Best track information is available for all storms in the Atlantic, Caribbean Sea, Gulf of Mexico and Eastern Pacific Ocean but not for storms in the Central Pacific Ocean. The track forecasts are based on information from the NWS/National Hurricane Center (NHC) and NWS/Central Pacific Hurricane Center (CPHC) Tropical Cyclone Public Advisories. This map service is updated twice per hour in order to obtain and display the latest information from the regularly scheduled NHC tropical cyclone public advisories as well as any intermediate or special public advisories.",
+                    U: "http://nowcoast.noaa.gov/help/#section=updateschedule",
+                    N: "nowCOAST Observed Surface Wind Swath"
+                },
+                {
+                    I: "hc_nc_coast_watch_warn",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/arcgis/services/nowcoast/wwa_meteocean_tropicalcyclones_trackintensityfcsts_time/MapServer/WMSServer",
+                    L: "6",
+                    S: "This nowCOAST time-enabled map service provides maps depicting the latest official NWS tropical cyclone forecast tracks and watches and warnings for all active systems in the Atlantic, Caribbean Sea, Gulf of Mexico, Eastern Pacific Ocean, and Central Pacific Ocean. The map layer displays the cyclone's present location, past locations (best track), maximum estimated sustained surface wind (MPH), wind gusts, mean sea level pressure (millibars), forecasts of the cyclone's surface positions, maximum sustained winds and gusts at 12, 24, 36, 48, 72, 96 and 120 hours, and uncertainty of the forecast track depicted as a cone. Best track information is available for all storms in the Atlantic, Caribbean Sea, Gulf of Mexico and Eastern Pacific Ocean but not for storms in the Central Pacific Ocean. The track forecasts are based on information from the NWS/National Hurricane Center (NHC) and NWS/Central Pacific Hurricane Center (CPHC) Tropical Cyclone Public Advisories. This map service is updated twice per hour in order to obtain and display the latest information from the regularly scheduled NHC tropical cyclone public advisories as well as any intermediate or special public advisories.",
+                    U: "http://nowcoast.noaa.gov/help/#section=updateschedule",
+                    N: "nowCOAST Cone of Uncertainty for Track Forecasts"
+                },
+                {
+                    I: "hc_nc_surface_winds",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/arcgis/services/nowcoast/wwa_meteocean_tropicalcyclones_trackintensityfcsts_time/MapServer/WMSServer",
+                    L: "9",
+                    S: "This nowCOAST time-enabled map service provides maps depicting the latest official NWS tropical cyclone forecast tracks and watches and warnings for all active systems in the Atlantic, Caribbean Sea, Gulf of Mexico, Eastern Pacific Ocean, and Central Pacific Ocean. The map layer displays the cyclone's present location, past locations (best track), maximum estimated sustained surface wind (MPH), wind gusts, mean sea level pressure (millibars), forecasts of the cyclone's surface positions, maximum sustained winds and gusts at 12, 24, 36, 48, 72, 96 and 120 hours, and uncertainty of the forecast track depicted as a cone. Best track information is available for all storms in the Atlantic, Caribbean Sea, Gulf of Mexico and Eastern Pacific Ocean but not for storms in the Central Pacific Ocean. The track forecasts are based on information from the NWS/National Hurricane Center (NHC) and NWS/Central Pacific Hurricane Center (CPHC) Tropical Cyclone Public Advisories. This map service is updated twice per hour in order to obtain and display the latest information from the regularly scheduled NHC tropical cyclone public advisories as well as any intermediate or special public advisories.",
+                    U: "http://nowcoast.noaa.gov/help/#section=updateschedule",
+                    N: "nowCOAST Watches and Warnings for Coast"
                 },
                 {
                     I: "hc_historic_tracks",
@@ -1035,121 +1047,57 @@ var layers = {
     },
     satellites: {
         N: "Satellites",
-        terra: {
-            N: "MODIS Terra",
+        GIBScorrected: {
+            N: "Corrected Reflectance",
             icon: "fa-globe",
             '>': [
                 {
                     I: "MODIS_Terra_CorrectedReflectance_TrueColor",
                     T: 'nasa-gibs',
                     F: "jpg",
-                    S: "NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    S: "<a href='http://modis.gsfc.nasa.gov/about/specifications.php'>Moderate Resolution Imaging Spectroradiometer (MODIS) Terra</a>.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
                     U: "https://earthdata.nasa.gov/",
-                    N: "Corrected Reflectance (True Color)"
+                    N: "MODIS Terra (True Color)"
                 },
                 {
                     I: "MODIS_Terra_CorrectedReflectance_Bands721",
                     T: 'nasa-gibs',
                     F: "jpg",
-                    S: "NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    S: "<a href='http://modis.gsfc.nasa.gov/about/specifications.php'>Moderate Resolution Imaging Spectroradiometer (MODIS) Terra</a>.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
                     U: "https://earthdata.nasa.gov/",
-                    N: "Corrected Reflectance (Bands 7-2-1)"
+                    N: "MODIS Terra (Bands 7-2-1)"
                 },
                 {
                     I: "MODIS_Terra_CorrectedReflectance_Bands367",
                     T: 'nasa-gibs',
                     F: "jpg",
-                    S: "NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    S: "<a href='http://modis.gsfc.nasa.gov/about/specifications.php'>Moderate Resolution Imaging Spectroradiometer (MODIS) Terra</a>.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
                     U: "https://earthdata.nasa.gov/",
-                    N: "Corrected Reflectance (Bands 3-6-7)"
+                    N: "MODIS Terra (Bands 3-6-7)"
                 },
-                {
-                    I: "MODIS_Terra_SurfaceReflectance_Bands143",
-                    T: 'nasa-gibs',
-                    F: "jpg",
-                    Fz: "8",
-                    S: "NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
-                    U: "https://earthdata.nasa.gov/",
-                    N: "Land Surface Reflectance (True Color)"
-                },
-                {
-                    I: "MODIS_Terra_SurfaceReflectance_Bands721",
-                    T: 'nasa-gibs',
-                    F: "jpg",
-                    Fz: "8",
-                    S: "NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
-                    U: "https://earthdata.nasa.gov/",
-                    N: "Land Surface Reflectance (Bands 7-2-1)"
-                },
-                {
-                    I: "MODIS_Terra_SurfaceReflectance_Bands121",
-                    T: 'nasa-gibs',
-                    F: "jpg",
-                    S: "NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
-                    U: "https://earthdata.nasa.gov/",
-                    N: "Land Surface Reflectance (Bands 1-2-1)"
-                }
-            ]
-        },
-        aqua: {
-            N: "MODIS Aqua",
-            icon: "fa-globe",
-            '>': [
                 {
                     I: "MODIS_Aqua_CorrectedReflectance_TrueColor",
                     T: 'nasa-gibs',
                     F: "jpg",
-                    S: "NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    S: "<a href='http://modis.gsfc.nasa.gov/about/specifications.php'>Moderate Resolution Imaging Spectroradiometer (MODIS) Aqua</a><br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
                     U: "https://earthdata.nasa.gov/",
-                    N: "Corrected Reflectance (True Color)"
+                    N: "MODIS Aqua (True Color)"
                 },
                 {
                     I: "MODIS_Aqua_CorrectedReflectance_Bands721",
                     T: 'nasa-gibs',
                     F: "jpg",
-                    S: "NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    S: "<a href='http://modis.gsfc.nasa.gov/about/specifications.php'>Moderate Resolution Imaging Spectroradiometer (MODIS) Aqua</a><br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
                     U: "https://earthdata.nasa.gov/",
-                    N: "Corrected Reflectance (Bands 7-2-1)"
+                    N: "MODIS Aqua (Bands 7-2-1)"
                 },
-                {
-                    I: "MODIS_Aqua_SurfaceReflectance_Bands143",
-                    T: 'nasa-gibs',
-                    F: "jpg",
-                    Fz: "8",
-                    S: "NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
-                    U: "https://earthdata.nasa.gov/",
-                    N: "Land Surface Reflectance (True Color)"
-                },
-                {
-                    I: "MODIS_Aqua_SurfaceReflectance_Bands721",
-                    T: 'nasa-gibs',
-                    F: "jpg",
-                    Fz: "8",
-                    S: "NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
-                    U: "https://earthdata.nasa.gov/",
-                    N: "Land Surface Reflectance (Bands 7-2-1)"
-                },
-                {
-                    I: "MODIS_Aqua_SurfaceReflectance_Bands121",
-                    T: 'nasa-gibs',
-                    F: "jpg",
-                    S: "NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
-                    U: "https://earthdata.nasa.gov/",
-                    N: "Land Surface Reflectance (Bands 1-2-1)"
-                },
-            ]
-        },
-        viirs: {
-            N: "VIIRS SNPP",
-            icon: "fa-globe",
-            '>': [
                 {
                     I: "VIIRS_SNPP_CorrectedReflectance_TrueColor",
                     T: 'nasa-gibs',
                     F: "jpg",
                     S: "Visible Infrared Imaging Radiometer Suite (VIIRS) Suomi National Polar-orbiting Partnership (SNPP).<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2015/11/24 --> Present.",
                     U: "https://earthdata.nasa.gov/",
-                    N: "Corrected Reflectance (True Color)"
+                    N: "VIIRS SNPP (True Color)"
                 },
                 {
                     I: "VIIRS_SNPP_CorrectedReflectance_BandsM11-I2-I1",
@@ -1157,7 +1105,7 @@ var layers = {
                     F: "jpg",
                     S: "Visible Infrared Imaging Radiometer Suite (VIIRS) Suomi National Polar-orbiting Partnership (SNPP).<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2015/11/24 --> Present.",
                     U: "https://earthdata.nasa.gov/",
-                    N: "Corrected Reflectance (Bands M11-I2-I1)"
+                    N: "VIIRS SNPP (Bands M11-I2-I1)"
                 },
                 {
                     I: "VIIRS_SNPP_CorrectedReflectance_BandsM3-I3-M11",
@@ -1165,8 +1113,328 @@ var layers = {
                     F: "jpg",
                     S: "Visible Infrared Imaging Radiometer Suite (VIIRS) Suomi National Polar-orbiting Partnership (SNPP).<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2015/11/24 --> Present.",
                     U: "https://earthdata.nasa.gov/",
-                    N: "Corrected Reflectance (Bands M3-I3-M11)"
+                    N: "VIIRS SNPP (Bands M3-I3-M11)"
+                }
+            ]
+        },
+        GIBSland: {
+            N: "Land Surface Reflectance",
+            icon: "fa-globe",
+            '>': [
+                {
+                    I: "MODIS_Terra_SurfaceReflectance_Bands143",
+                    T: 'nasa-gibs',
+                    F: "jpg",
+                    Fz: "8",
+                    S: "<a href='http://modis.gsfc.nasa.gov/about/specifications.php'>Moderate Resolution Imaging Spectroradiometer (MODIS) Terra</a>.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "MODIS Terra (True Color)"
                 },
+                {
+                    I: "MODIS_Terra_SurfaceReflectance_Bands721",
+                    T: 'nasa-gibs',
+                    F: "jpg",
+                    Fz: "8",
+                    S: "<a href='http://modis.gsfc.nasa.gov/about/specifications.php'>Moderate Resolution Imaging Spectroradiometer (MODIS) Terra</a>.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "MODIS Terra (Bands 7-2-1)"
+                },
+                {
+                    I: "MODIS_Terra_SurfaceReflectance_Bands121",
+                    T: 'nasa-gibs',
+                    F: "jpg",
+                    S: "<a href='http://modis.gsfc.nasa.gov/about/specifications.php'>Moderate Resolution Imaging Spectroradiometer (MODIS) Terra</a>.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "MODIS Terra (Bands 1-2-1)"
+                },
+                {
+                    I: "MODIS_Aqua_SurfaceReflectance_Bands143",
+                    T: 'nasa-gibs',
+                    F: "jpg",
+                    Fz: "8",
+                    S: "<a href='http://modis.gsfc.nasa.gov/about/specifications.php'>Moderate Resolution Imaging Spectroradiometer (MODIS) Aqua</a><br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "MODIS Aqua (True Color)"
+                },
+                {
+                    I: "MODIS_Aqua_SurfaceReflectance_Bands721",
+                    T: 'nasa-gibs',
+                    F: "jpg",
+                    Fz: "8",
+                    S: "<a href='http://modis.gsfc.nasa.gov/about/specifications.php'>Moderate Resolution Imaging Spectroradiometer (MODIS) Aqua</a><br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "MODIS Aqua (Bands 7-2-1)"
+                },
+                {
+                    I: "MODIS_Aqua_SurfaceReflectance_Bands121",
+                    T: 'nasa-gibs',
+                    F: "jpg",
+                    S: "<a href='http://modis.gsfc.nasa.gov/about/specifications.php'>Moderate Resolution Imaging Spectroradiometer (MODIS) Aqua</a><br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "MODIS Aqua (Bands 1-2-1)"
+                }
+            ]
+        },
+        GIBSaerosol: {
+            N: "Aerosol Optical Depth",
+            icon: "fa-globe",
+            '>': [
+                {
+                    I: "MODIS_Terra_Aerosol",
+                    T: 'nasa-gibs',
+                    Fz: "6",
+                    S: "<a href='http://modis.gsfc.nasa.gov/about/specifications.php'>Moderate Resolution Imaging Spectroradiometer (MODIS) Terra</a>.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "MODIS Terra (Aerosol Optical Depth)"
+                },
+                {
+                    I: "MODIS_Aqua_Aerosol",
+                    T: 'nasa-gibs',
+                    Fz: "6",
+                    S: "<a href='http://modis.gsfc.nasa.gov/about/specifications.php'>Moderate Resolution Imaging Spectroradiometer (MODIS) Aqua</a><br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "MODIS Aqua (Aerosol Optical Depth)"
+                },
+                {
+                    I: "MODIS_Combined_Value_Added_AOD",
+                    T: 'nasa-gibs',
+                    Fz: "6",
+                    S: "<a href='http://modis.gsfc.nasa.gov/about/specifications.php'>Moderate Resolution Imaging Spectroradiometer (MODIS) Terra</a>/Aqua.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2013-01-31 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "MODIS Combined Value-Added Aerosol Optical Depth"
+                },
+                {
+                    I: "OMI_Aerosol_Index",
+                    T: 'nasa-gibs',
+                    Fz: "6",
+                    S: "Ozone Monitoring Instrument (OMI) Aura.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "OMI Aura (Aerosol Index)"
+                },
+                {
+                    I: "OMI_Aerosol_Optical_Depth",
+                    T: 'nasa-gibs',
+                    Fz: "6",
+                    S: "Ozone Monitoring Instrument (OMI) Aura.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "OMI Aura (Aerosol Optical Depth)"
+                },
+                {
+                    I: "OMI_Absorbing_Aerosol_Optical_Depth",
+                    T: 'nasa-gibs',
+                    Fz: "6",
+                    S: "Ozone Monitoring Instrument (OMI) Aura.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "OMI Aura (Absorbing Aerosol Optical Depth)"
+                }
+            ]
+        },
+        GIBSbrighttemp: {
+            N: "Brightness Temperature",
+            icon: "fa-globe",
+            '>': [
+                {
+                    I: "MODIS_Terra_Brightness_Temp_Band31_Day",
+                    T: 'nasa-gibs',
+                    Fz: "7",
+                    S: "<a href='http://modis.gsfc.nasa.gov/about/specifications.php'>Moderate Resolution Imaging Spectroradiometer (MODIS) Terra</a>.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "MODIS Terra - Brightness Temperature (Band 31, day)"
+                },
+                {
+                    I: "MODIS_Terra_Brightness_Temp_Band31_Night",
+                    T: 'nasa-gibs',
+                    Fz: "7",
+                    S: "<a href='http://modis.gsfc.nasa.gov/about/specifications.php'>Moderate Resolution Imaging Spectroradiometer (MODIS) Terra</a>.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "MODIS Terra - Brightness Temperature (Band 31, night)"
+                },
+                {
+                    I: "MODIS_Aqua_Brightness_Temp_Band31_Day",
+                    T: 'nasa-gibs',
+                    Fz: "7",
+                    S: "<a href='http://modis.gsfc.nasa.gov/about/specifications.php'>Moderate Resolution Imaging Spectroradiometer (MODIS) Aqua</a><br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "MODIS Aqua - Brightness Temperature (Band 31, day)"
+                },
+                {
+                    I: "MODIS_Aqua_Brightness_Temp_Band31_Night",
+                    T: 'nasa-gibs',
+                    Fz: "7",
+                    S: "<a href='http://modis.gsfc.nasa.gov/about/specifications.php'>Moderate Resolution Imaging Spectroradiometer (MODIS) Aqua</a>.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "MODIS Aqua - Brightness Temperature (Band 31, night)"
+                },
+                {
+                    I: "MLS_Temperature_46hPa_Day",
+                    T: 'nasa-gibs',
+                    Fz: "6",
+                    S: "<a href='http://mls.jpl.nasa.gov/index-eos-mls.php'>Microwave Limb Sounder (MLS) Aura</a>.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2013/05/09 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "MLS Aura - Temperature at 46 hPa (Day)"
+                },
+                {
+                    I: "MLS_Temperature_46hPa_Night",
+                    T: 'nasa-gibs',
+                    Fz: "6",
+                    S: "<a href='http://mls.jpl.nasa.gov/index-eos-mls.php'>Microwave Limb Sounder (MLS) Aura</a>.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2013/05/09 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "MLS Aura - Temperature at 46 hPa (Night)"
+                },
+                {
+                    I: "AMSRE_Brightness_Temp_89H_Day",
+                    T: 'nasa-gibs',
+                    Fz: "6",
+                    S: "<a href='https://nsidc.org/data/amsre'>Advanced Microwave Scanning Radiometer (AMSR-E) Aqua</a>.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2002/06/01 -> 2011/10/04.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "AMSR-E Aqua - Brightness Temperature 89Ghz Horizontal (Day)"
+                },
+                {
+                    I: "AMSRE_Brightness_Temp_89V_Day",
+                    T: 'nasa-gibs',
+                    Fz: "6",
+                    S: "<a href='https://nsidc.org/data/amsre'>Advanced Microwave Scanning Radiometer (AMSR-E) Aqua</a>.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2002/06/01 -> 2011/10/04.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "AMSR-E Aqua - Brightness Temperature 89Ghz Vertical (Day)"
+                },
+                {
+                    I: "AMSRE_Brightness_Temp_89H_Night",
+                    T: 'nasa-gibs',
+                    Fz: "6",
+                    S: "<a href='https://nsidc.org/data/amsre'>Advanced Microwave Scanning Radiometer (AMSR-E) Aqua</a>.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2002/06/01 -> 2011/10/04.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "AMSR-E Aqua - Brightness Temperature 89Ghz Horizontal (Night)"
+                },
+                {
+                    I: "AMSRE_Brightness_Temp_89V_Night",
+                    T: 'nasa-gibs',
+                    Fz: "6",
+                    S: "<a href='https://nsidc.org/data/amsre'>Advanced Microwave Scanning Radiometer (AMSR-E) Aqua</a>.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2002/06/01 -> 2011/10/04.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "AMSR-E Aqua - Brightness Temperature 89Ghz Vertical (Night)"
+                },
+                {
+                    I: "GMI_Brightness_Temp_Asc",
+                    T: 'nasa-gibs',
+                    Fz: "6",
+                    S: "<a href='https://pmm.nasa.gov/gpm/flight-project/gmi'>Global Precipitation Measurement (GPM) Microwave Imager (GMI)</a>.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2014/10/11 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "GPM GMI - Brightness Temperature (Ascending)"
+                },
+                {
+                    I: "GMI_Brightness_Temp_Dsc",
+                    T: 'nasa-gibs',
+                    Fz: "6",
+                    S: "<a href='https://pmm.nasa.gov/gpm/flight-project/gmi'>Global Precipitation Measurement (GPM) Microwave Imager (GMI)</a>.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2014/10/11 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "GPM GMI - Brightness Temperature (Descending)"
+                }
+            ]
+        },
+        GIBSco: {
+            N: "Carbon Monoxide",
+            icon: "fa-globe",
+            '>': [
+                {
+                    I: "MLS_CO_215hPa_Day",
+                    T: 'nasa-gibs',
+                    Fz: "6",
+                    S: "<a href='http://mls.jpl.nasa.gov/index-eos-mls.php'>Microwave Limb Sounder (MLS) Aura</a>.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2013/05/09 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "MLS Aura - Carbon Monoxide (CO) at 215 hPa (Day)"
+                },
+                {
+                    I: "MLS_CO_215hPa_Night",
+                    T: 'nasa-gibs',
+                    Fz: "6",
+                    S: "<a href='http://mls.jpl.nasa.gov/index-eos-mls.php'>Microwave Limb Sounder (MLS) Aura</a>.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2013/05/09 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "MLS Aura - Carbon Monoxide (CO) at 215 hPa (Night)"
+                },
+                {
+                    I: "AIRS_CO_Total_Column_Day",
+                    T: 'nasa-gibs',
+                    Fz: "6",
+                    S: "<a href='http://airs.jpl.nasa.gov/mission_and_instrument/instrument'>Atmospheric Infrared Sounder (AIRS) Aqua</a>.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2013-05-08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "AIRS Aqua - Carbon Monoxide (CO) Total Column (Day)"
+                },
+                {
+                    I: "AIRS_CO_Total_Column_Night",
+                    T: 'nasa-gibs',
+                    Fz: "6",
+                    S: "<a href='http://airs.jpl.nasa.gov/mission_and_instrument/instrument'>Atmospheric Infrared Sounder (AIRS) Aqua</a>.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2013-05-08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "AIRS Aqua - Carbon Monoxide (CO) Total Column (Night)"
+                }
+            ]
+        },
+        GIBScttemp: {
+            N: "Cloud Top Temperature",
+            icon: "fa-globe",
+            '>': [
+                {
+                    I: "MODIS_Terra_Cloud_Top_Temp_Day",
+                    T: 'nasa-gibs',
+                    Fz: "6",
+                    S: "<a href='http://modis.gsfc.nasa.gov/about/specifications.php'>Moderate Resolution Imaging Spectroradiometer (MODIS) Terra</a>.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "MODIS Terra - Cloud Top Temperature (day)"
+                },
+                {
+                    I: "MODIS_Terra_Cloud_Top_Temp_Night",
+                    T: 'nasa-gibs',
+                    Fz: "6",
+                    S: "<a href='http://modis.gsfc.nasa.gov/about/specifications.php'>Moderate Resolution Imaging Spectroradiometer (MODIS) Terra</a>.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "MODIS Terra - Cloud Top Temperature (night)"
+                },
+                {
+                    I: "MODIS_Aqua_Cloud_Top_Temp_Day",
+                    T: 'nasa-gibs',
+                    Fz: "6",
+                    S: "<a href='http://modis.gsfc.nasa.gov/about/specifications.php'>Moderate Resolution Imaging Spectroradiometer (MODIS) Terra</a>.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "MODIS Terra - Cloud Top Temperature (day)"
+                },
+                {
+                    I: "MODIS_Aqua_Cloud_Top_Temp_Night",
+                    T: 'nasa-gibs',
+                    Fz: "6",
+                    S: "<a href='http://modis.gsfc.nasa.gov/about/specifications.php'>Moderate Resolution Imaging Spectroradiometer (MODIS) Terra</a>.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "MODIS Terra - Cloud Top Temperature (night)"
+                },
+                {
+                    I: "OMI_Cloud_Pressure",
+                    T: 'nasa-gibs',
+                    Fz: "6",
+                    S: "Ozone Monitoring Instrument (OMI) Aura.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2012/05/08 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "OMI Aura - Cloud Pressure"
+                }
+            ]
+        },
+        GIBSdust: {
+            N: "Dust Score",
+            icon: "fa-globe",
+            '>': [
+                {
+                    I: "AIRS_Dust_Score_Ocean_Day",
+                    T: 'nasa-gibs',
+                    Fz: "6",
+                    S: "<a href='http://airs.jpl.nasa.gov/mission_and_instrument/instrument'>Atmospheric Infrared Sounder (AIRS) Aqua</a>.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2016/01/28 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "AIRS Aqua - Dust Score (Day)"
+                },
+                {
+                    I: "AIRS_Dust_Score_Ocean_Night",
+                    T: 'nasa-gibs',
+                    Fz: "6",
+                    S: "<a href='http://airs.jpl.nasa.gov/mission_and_instrument/instrument'>Atmospheric Infrared Sounder (AIRS) Aqua</a>.<br>NASA Earth Observing System Data and Information System (EOSDIS) Global Imagery Browse Service (GIBS).<br>Available Imagery: 2016/01/28 -> Present.",
+                    U: "https://earthdata.nasa.gov/",
+                    N: "AIRS Aqua - Dust Score (Night)"
+                }
             ]
         },
         othersat: {
@@ -1184,29 +1452,29 @@ var layers = {
                 },
                 {
                     I: "nowcoast_sat_meteo_imagery_goes_time_im",
-                    T: 'arcgis-layer',
-                    G: "http://nowcoast.noaa.gov/arcgis/rest/services/nowcoast/sat_meteo_imagery_goes_time/MapServer",
-                    L: "1,2,3",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/arcgis/services/nowcoast/sat_meteo_imagery_goes_time/MapServer/WMSServer",
+                    L: "0,1,2,3",
                     S: "This nowCOAST time-enabled map service provides maps depicting visible, infrared, and water vapor imagery composited from NOAA/NESDIS GOES-EAST and GOES-WEST. The horizontal resolutions of the IR, visible, and water vapor composite images are approximately 1km, 4km, and 4km, respectively. The visible and IR imagery depict the location of clouds. The water vapor imagery indicates the amount of water vapor contained in the mid to upper levels of the troposphere. The darker grays indicate drier air while the brighter grays/whites indicates more saturated air. The GOES composite imagers are updated in the nowCOAST map service every 30 minutes. ",
-                    U: "http://new.nowcoast.noaa.gov/help/#section=updateschedule",
+                    U: "http://nowcoast.noaa.gov/help/#section=updateschedule",
                     N: "GOES E+W - Visible"
                 },
                 {
                     I: "nowcoast_sat_meteo_imagery_goes_time_wv",
-                    T: 'arcgis-layer',
-                    G: "http://nowcoast.noaa.gov/arcgis/rest/services/nowcoast/sat_meteo_imagery_goes_time/MapServer",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/arcgis/services/nowcoast/sat_meteo_imagery_goes_time/MapServer/WMSServer",
                     L: "4,5,6,7",
                     S: "This nowCOAST time-enabled map service provides maps depicting visible, infrared, and water vapor imagery composited from NOAA/NESDIS GOES-EAST and GOES-WEST. The horizontal resolutions of the IR, visible, and water vapor composite images are approximately 1km, 4km, and 4km, respectively. The visible and IR imagery depict the location of clouds. The water vapor imagery indicates the amount of water vapor contained in the mid to upper levels of the troposphere. The darker grays indicate drier air while the brighter grays/whites indicates more saturated air. The GOES composite imagers are updated in the nowCOAST map service every 30 minutes. ",
-                    U: "http://new.nowcoast.noaa.gov/help/#section=updateschedule",
+                    U: "http://nowcoast.noaa.gov/help/#section=updateschedule",
                     N: "GOES E+W - Water Vapor"
                 },
                 {
                     I: "nowcoast_sat_meteo_imagery_goes_time_ir",
-                    T: 'arcgis-layer',
-                    G: "http://nowcoast.noaa.gov/arcgis/rest/services/nowcoast/sat_meteo_imagery_goes_time/MapServer",
+                    T: 'wms',
+                    G: "http://nowcoast.noaa.gov/arcgis/services/nowcoast/sat_meteo_imagery_goes_time/MapServer/WMSServer",
                     L: "8,9,10,11",
                     S: "This nowCOAST time-enabled map service provides maps depicting visible, infrared, and water vapor imagery composited from NOAA/NESDIS GOES-EAST and GOES-WEST. The horizontal resolutions of the IR, visible, and water vapor composite images are approximately 1km, 4km, and 4km, respectively. The visible and IR imagery depict the location of clouds. The water vapor imagery indicates the amount of water vapor contained in the mid to upper levels of the troposphere. The darker grays indicate drier air while the brighter grays/whites indicates more saturated air. The GOES composite imagers are updated in the nowCOAST map service every 30 minutes. ",
-                    U: "http://new.nowcoast.noaa.gov/help/#section=updateschedule",
+                    U: "http://nowcoast.noaa.gov/help/#section=updateschedule",
                     N: "GOES E+W - Longwave Infrared"
                 }
             ]
@@ -1513,7 +1781,7 @@ var layers = {
                     S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.<br>Based on the work of <a href='https://productforums.google.com/d/msg/gec-history-illustrated-moderated/DncXs6kPWXM/uM26F3CDq18J'>Wm. Robert Johnston and Lyle McElhaney</a>.",
                     U: "http://climateviewer.com/nuclear-reactor-map/",
                     N: "Nuclear Test Explosions",
-                    Y: true,
+                    Y: true
                 },
                 {
                     I: "radioactive-topten",
@@ -1633,7 +1901,7 @@ var layers = {
             '>': [
                 {
                     I: "toxmap-tri-all",
-                    T: 'arcgis',
+                    T: 'arcgis-layer',
                     G: "http://toxmap.nlm.nih.gov/arcgis/rest/services/toxmap5/facilities/MapServer",
                     L: "0",
                     S: "<a href='http://www.epa.gov/toxics-release-inventory-tri-program'>EPA TRI</a> is a resource for learning about toxic chemical releases and pollution prevention activities reported by industrial and federal facilities. TRI data support informed decision-making by communities, government agencies, industries, and others..",
@@ -1642,7 +1910,7 @@ var layers = {
                 },
                 {
                     I: "toxmap-superfund",
-                    T: 'arcgis',
+                    T: 'arcgis-layer',
                     G: "http://toxmap.nlm.nih.gov/arcgis/rest/services/toxmap5/superfund/MapServer",
                     L: "1",
                     S: "<a href='http://www.epa.gov/superfund'>EPA’s Superfund program</a> is responsible for cleaning up some of the nation’s most contaminated land and responding to environmental emergencies, oil spills and natural disasters. To protect public health and the environment, the Superfund program focuses on making a visible and lasting difference in communities, ensuring that people can live and work in healthy, vibrant places.",
@@ -1702,7 +1970,7 @@ var layers = {
             },
             {
                 I: "drone-nofly",
-                T: 'arcgis',
+                T: 'arcgis-layer',
                 X: true,
                 G: "http://tiles1.arcgis.com/tiles/nzS0F0zdNLvs7nc8/arcgis/rest/services/Drone_No_Fly_Zones_USA_story_map_Millitary_Parks/MapServer",
                 S: "This layer includes areas in the United States where drones are banned from flying: national parks and military installations. See the FAA's web site (http://www.faa.gov/uas) for details on current guidance and regulations for the various types of drones. For example, the guidance for hobbyists is particularly clear, and useful (http://www.faa.gov/uas/publications/model_aircraft_operators). If you know of additions / corrections, please email Jim Herries (jherries@esri.com).",
@@ -2023,7 +2291,7 @@ var layers = {
                 MI: "/img/icons/rf-warning.png",
                 S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.<br>Alpha RSDN-20, Beta Time Signal, LORAN-C, AWESOME VLF Network, Ground Wave Emergency Network (GWEN), and ELF transmission facilities.",
                 U: "http://climateviewer.com/haarp/",
-                N: "ELF and VLF Transmitters",
+                N: "ELF and VLF Transmitters"
             },
             {
                 I: "elf-vlf-ref",
@@ -2159,7 +2427,7 @@ var layers = {
                 S: "Created by <a href='http://climateviewer.com/rezn8d/'>Jim Lee</a>.",
                 U: "http://climateviewer.com/rezn8d/",
                 N: "Other Radars, Observatories, Telescope Arrays, Satellite Comm (OVERLAY)",
-                Y: true,
+                Y: true
             },
             {
                 H: true,
@@ -2335,6 +2603,14 @@ var layers = {
             N: "Ancient Ruins",
             icon: "fa-university",
             '>': [
+                {
+                    I: "pyramids",
+                    T: 'kml',
+                    G: "/layers/kml/3rdparty/other/Pyramids-FR-CV3D.kmz",
+                    S: "based on the film &quot;Revelations of the PyramIs&quot;",
+                    U: "http://www.youtube.com/watch?v=GhC6lhAD4xY",
+                    N: "Pyramids of the World"
+                },
                 {
                     P: true,
                     Z: true,
@@ -2942,48 +3218,6 @@ var layers = {
                 }
             ]
         },
-        economic: {
-            N: "Economic",
-            icon: "fa-money",
-            '>': [
-                {
-                    I: "native-american1",
-                    Z: true,
-                    T: 'kml',
-                    G: "/layers/kml/3rdparty/other/Indian-Lands.kmz",
-                    S: "This map layer shows Indian lands of the United States. Only areas of 640 acres or more are included. Federally-administered lands within a reservation are included for continuity; these may or may not be consIered part of the reservation and are simply described with their feature type and the administrating Federal agency. This is an updated version of the December 2005 map layer.",
-                    U: "http://nationalatlas.gov/atlasftp.html#indlanp",
-                    N: "Native American Lands 2005"
-                },
-                {
-                    I: "urban_areas_fill",
-                    T: 'wms',
-                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
-                    L: "urban_areas_fill",
-                    S: "NOAA Ocean Service's nowCOAST's Map Services - U.S. Urban Area Boundaries (color-filled polygons)",
-                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
-                    N: "U.S. Urban Areas"
-                },
-                {
-                    I: "eez",
-                    T: 'wms',
-                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
-                    L: "eez",
-                    S: "NOAA Ocean Service's nowCOAST's Map Services",
-                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
-                    N: "U.S. Exclusive Economic Zone Boundaries"
-                },
-                {
-                    I: "world_countries",
-                    T: 'wms',
-                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
-                    L: "world_countries",
-                    S: "NOAA Ocean Service's nowCOAST's Map Services",
-                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
-                    N: "World Country Boundaries"
-                }
-            ]
-        },
         MRMExplorers: {
             N: "Explorers",
             icon: "fa-compass",
@@ -3390,30 +3624,6 @@ var layers = {
                 }
             ]
         },
-        flight: {
-            N: "Flight",
-            icon: "fa-plane",
-            '>': [
-                {
-                    I: "us_runways",
-                    T: 'wms',
-                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
-                    L: "us_runways",
-                    S: "NOAA Ocean Service's nowCOAST's Map Services - Locations/Footprints of U.S. Airport Runways",
-                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
-                    N: "U.S. Airport Runways"
-                },
-                {
-                    I: "artcc",
-                    T: 'wms',
-                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
-                    L: "artcc",
-                    S: "NOAA Ocean Service's nowCOAST's Map Services - Air Route Traffic Control Centers - Areas of Responsibility",
-                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
-                    N: "Air Route Traffic Control Center Boundaries"
-                }
-            ]
-        },
         MRMFossils: {
             N: "Fossil Sites",
             icon: "fa-flask",
@@ -3467,74 +3677,6 @@ var layers = {
                     S: "Created by George Stiller of MyReadingMapped&trade;",
                     U: "http://stilltheman2.wix.com/myreadingmapped",
                     N: "Fossil Sites of North and South America (A Paleontology Primer)"
-                }
-            ]
-        },
-        geographic: {
-            N: "Geographic",
-            icon: "fa-globe",
-            '>': [
-                {
-                    I: "pyramids",
-                    T: 'kml',
-                    G: "/layers/kml/3rdparty/other/Pyramids-FR-CV3D.kmz",
-                    S: "based on the film &quot;Revelations of the PyramIs&quot;",
-                    U: "http://www.youtube.com/watch?v=GhC6lhAD4xY",
-                    N: "Pyramids of the World"
-                },
-                {
-                    I: "world_rivers",
-                    T: 'wms',
-                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
-                    L: "world_rivers",
-                    S: "NOAA Ocean Service's nowCOAST's Map Services",
-                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
-                    N: "World Rivers"
-                },
-                {
-                    I: "world_lakes",
-                    T: 'wms',
-                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
-                    L: "world_lakes",
-                    S: "NOAA Ocean Service's nowCOAST's Map Services",
-                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
-                    N: "World Lakes"
-                },
-                {
-                    I: "great_lakes",
-                    T: 'wms',
-                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
-                    L: "great_lakes",
-                    S: "NOAA Ocean Service's nowCOAST's Map Services",
-                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
-                    N: "World Great Lakes"
-                },
-                {
-                    I: "rivers",
-                    T: 'wms',
-                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
-                    L: "rivers",
-                    S: "NOAA Ocean Service's nowCOAST's Map Services",
-                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
-                    N: "U.S. Rivers"
-                },
-                {
-                    I: "lakes",
-                    T: 'wms',
-                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
-                    L: "lakes",
-                    S: "NOAA Ocean Service's nowCOAST's Map Services",
-                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
-                    N: "U.S. Lakes"
-                },
-                {
-                    I: "watersheds",
-                    T: 'wms',
-                    G: "http://nowcoast.noaa.gov/wms/com.esri.wms.Esrimap/obs",
-                    L: "watersheds",
-                    S: "NOAA Ocean Service's nowCOAST's Map Services",
-                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
-                    N: "U.S. Watershed Boundaries"
                 }
             ]
         },
@@ -3719,6 +3861,15 @@ var layers = {
             icon: "fa-gavel",
             '>': [
                 {
+                    I: "native-american1",
+                    Z: true,
+                    T: 'kml',
+                    G: "/layers/kml/3rdparty/other/Indian-Lands.kmz",
+                    S: "This map layer shows Indian lands of the United States. Only areas of 640 acres or more are included. Federally-administered lands within a reservation are included for continuity; these may or may not be consIered part of the reservation and are simply described with their feature type and the administrating Federal agency. This is an updated version of the December 2005 map layer.",
+                    U: "http://nationalatlas.gov/atlasftp.html#indlanp",
+                    N: "Native American Lands 2005"
+                },
+                {
                     Z: 'home',
                     I: "mrm-113",
                     T: 'geojson',
@@ -3863,9 +4014,27 @@ var layers = {
             ]
         },
         boats: {
-            N: "Marine Traffic",
-            icon: "fa-anchor",
+            N: "Flight / Marine Traffic",
+            icon: "fa-plane",
             '>': [
+                {
+                    I: "world_runways",
+                    T: 'wms',
+                    L: "1",
+                    G: "http://new.nowcoast.noaa.gov/arcgis/services/nowcoast/mapoverlays_transportation/MapServer/WMSServer",
+                    S: "NOAA Ocean Service's nowCOAST's Map Services - Locations/Footprints of U.S. Airport Runways",
+                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
+                    N: "World Major Airport Runways"
+                },
+                {
+                    I: "us_ports",
+                    T: 'wms',
+                    L: "0",
+                    G: "http://new.nowcoast.noaa.gov/arcgis/services/nowcoast/mapoverlays_transportation/MapServer/WMSServer",
+                    S: "NOAA Ocean Service's nowCOAST's Map Services - Locations/Footprints of U.S. Airport Runways",
+                    U: "http://nowcoast.noaa.gov/help/mapservices.shtml",
+                    N: "US Ports"
+                },
                 {
                     P: true,
                     I: "kml-noaabuoy",
@@ -4282,14 +4451,6 @@ var layers = {
                 S: "OpenStreetMap (OSM) is a collaborative project to create a free editable map of the world.",
                 U: "http://www.openstreetmap.org",
                 N: "OpenStreetMap (OSM)"
-            },
-            {
-                I: "bl-mq",
-                T: 'base-layer',
-                G: "//otile1-s.mqcdn.com/tiles/1.0.0/osm/",
-                S: "OpenStreetMap (OSM) is a collaborative project to create a free editable map of the world.",
-                U: "http://www.openstreetmap.org",
-                N: "MapQuest OpenStreetMap"
             }
         ]
     }

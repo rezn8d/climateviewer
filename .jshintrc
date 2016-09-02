@@ -2,7 +2,16 @@
     "globals": {
         "$": false,
         "_": false,
+        "L": false,
         "layers": false,
-        "window":false
+        "document":false,
+        "window":false,
+        "devicePixelRatio":false,
+        "nobjectsIn":false,
+        "console":false,
+        "Self":false,
+        "xTileCordinate":false,
+        "setTimeout":false,
+        "Cesium":false
     }
 }
