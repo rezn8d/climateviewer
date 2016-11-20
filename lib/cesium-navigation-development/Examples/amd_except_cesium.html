@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Cesium-Navigation Example (using AMD except Cesium)</title>
+	<script src="node_modules/cesium/Build/Cesium/Cesium.js"></script>
+    <script type="text/javascript" src="node_modules/requirejs/require.js"></script>
+    <script src="Source/SpirographPositionProperty.js"></script>
+    <script type="text/javascript">
+    require.config({
+        baseUrl : '.',
+        waitSeconds : 60
+    });
+    </script>
+  <style>
+      @import url(node_modules/cesium/Build/Cesium/Widgets/widgets.css);
+      html, body, #cesiumContainer {
+          width: 100%; height: 100%; margin: 0; padding: 0; overflow: hidden;
+      }
+  </style>
+</head>
+<body>
+<div id="cesiumContainer"></div>
+<script>
+// IMPORTANT: because the cesium navigation viewer mixin depends on Cesium be sure to load Cesium before the first attempt of using it
+require(['dist/standalone/viewerCesiumNavigationMixin.min'], function(viewerCesiumNavigationMixin) {
+    'use strict';
+	
+	// You can also access viewerCesiumNavigationMixin via
+	// Cesium.viewerCesiumNavigationMixin;
+
+	var cesiumViewer = new Cesium.Viewer('cesiumContainer');
+
+	// extend our view by the cesium navigation mixin
+	cesiumViewer.extend(viewerCesiumNavigationMixin, {});
+	// you can access the cesium navigation by cesiumViewer.cesiumNavigation or cesiumViewer.cesiumWidget.cesiumNavigation
+
+    function createSpirographEntity(url, longitude, latitude, height, radiusMedian, radiusSubCircle,
+                                    durationMedianCircle, durationSubCircle) {
+        var centerPosition = Cesium.Cartographic.fromDegrees(longitude, latitude, height);
+        var spirographPositionProperty = new Cesium.SpirographPositionProperty(centerPosition, radiusMedian, radiusSubCircle,
+                durationMedianCircle, durationSubCircle, cesiumViewer.scene.globe.ellipsoid);
+
+        cesiumViewer.entities.add({
+            name : url,
+            description: 'It is supposed to have a useful desciption here<br />but instead there is just a placeholder to get a larger info box',
+            position: spirographPositionProperty,
+            orientation: new Cesium.VelocityOrientationProperty(spirographPositionProperty, cesiumViewer.scene.globe.ellipsoid),
+            model : {
+                uri : url,
+                minimumPixelSize : 96
+            }
+        });
+    }
+
+    createSpirographEntity('models/Cesium_Air.glb', -100, 44, 10000.0,
+            Cesium.Math.toRadians(0.5), Cesium.Math.toRadians(2), 1e6, 2e5);
+    createSpirographEntity('models/Cesium_Ground.glb', -122, 45, 0,
+            Cesium.Math.toRadians(0.1), Cesium.Math.toRadians(1), 5e6, 7e5);
+});
+</script>
+
+  <script type="text/javascript">
+	// show info if accessed directly from disk
+	if (window.location.protocol === 'file:') {
+		document.body.innerHTML = "";
+		document.write('<p><b>This file must be hosted in a web server.</br>');
+		document.write('See our <a href="https://cesiumjs.org/tutorials/cesium-up-and-running/#setting-up-a-web-server">Getting Started</a> ');
+		document.write('tutorial for a step-by-step guide.</b></p>');
+	}
+  </script>
+</body>
+</html>

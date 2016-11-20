@@ -1,0 +1,37 @@
+{
+  "name": "markdown-it-sanitizer",
+  "main": "dist/markdown-it-sanitizer.js",
+  "version": "0.4.3",
+  "description": "sanitizer for markdown-it.",
+  "keywords": [
+    "markdown-it-plugin",
+    "markdown-it",
+    "markdown",
+    "sanitizer"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/svbergerem/markdown-it-sanitizer",
+  "ignore": [
+    "**/.*",
+    "benchmark",
+    "bower_components",
+    "coverage",
+    "demo",
+    "docs",
+    "lib",
+    "node_modules",
+    "support",
+    "test",
+    "Makefile",
+    "index*"
+  ],
+  "_release": "0.4.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.4.3",
+    "commit": "6efc1722b9f776d2b052a099323870ba1bc299ef"
+  },
+  "_source": "https://github.com/svbergerem/markdown-it-sanitizer.git",
+  "_target": "^0.4.1",
+  "_originalSource": "markdown-it-sanitizer"
+}

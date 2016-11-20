@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /.git/
-Disallow: /.idea/
-Sitemap: http://climateviewer.org/sitemap.xml

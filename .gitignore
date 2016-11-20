@@ -1,6 +1,7 @@
+.git/
 .idea/
-nginx/
-cesium-iframe-code.js
 old-layers.html
-layers/
-img/
+/layers/
+/img/
+dist/js/climateviewer-layers.min.js
+dist/js/climateviewer-layers.js

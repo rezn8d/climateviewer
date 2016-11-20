@@ -1,5 +1,5 @@
 ##About ClimateViewer
-Geographic Information System (GIS) + Activism = Maptivism
+Geographic Information System (GIS) Maps + Activism = Maptivism
 
 Real-time decentralized global propagation, notification, and analysis tools for the most comprehensive, cross-domain, uncensored environmental data-set ever assembled – ClimateViewer.
 
@@ -8,10 +8,7 @@ Discover how natural and artificial phenomena from past to present, underground 
 ClimateViewer features real-time atmospheric and geophysical monitoring with maps covering geoengineering, weather modification, climate change, pollution, privacy, exploration, migration, geosciences, architecture, green energy solutions, sunken ships, airplane crash sites and more.
 
 [Project Roadmap](http://climateviewer.org/)
-
-[Mobile Demo: Leaflet Version](http://climateviewer.org/mobile/)
-
-[3D Demo: Cesium Version](http://climateviewer.org/3D/)
+[Demo: 3D WebGL Cesium Version](http://climateviewer.org/3D/)
 
 ###Our Goals
 
@@ -21,7 +18,7 @@ We are diligently working to combine all three apps into one, add user accounts,
 
 With ClimateViewer, the world is at your finger tips!
 
-![ClimateViewer Black](http://climateviewer.org/img/CV3D-black.jpg)
+![ClimateViewer 3D](http://climateviewer.org/dist/img/climateviewer-3d.jpg)
 
 ###Monitor Your World
 
@@ -39,11 +36,5 @@ ClimateViewer puts the Change in Climate Change! Create teams to respond to seve
 
 Our internet has set us free. Open-source technology and You make this project possible. ClimateViewer gives power to the people: See a problem? Map it, Mark it, Make it Change. We are creating a new social media, giving you tools to create communities that help other people directly. Knowing is half the battle, and having a tool to fix it is priceless. ClimateViewer is that tool.
 
-![ClimateViewer Satellite Feeds](http://climateviewer.org/img/CV3D-satellites.jpg)
 
-![ClimateViewer Nuclear Meltdown](http://climateviewer.org/img/CV3D-meltdown.jpg)
-
-
-Contact [Jim Lee](http://climateviewer.com/rezn8d/) to contribute.
-
-IRC: #netention on Freenode
+Contact [Jim Lee](https://climateviewer.com/rezn8d/) to contribute.
