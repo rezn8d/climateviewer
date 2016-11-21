@@ -46,7 +46,7 @@ body {
     font-family: 'Open Sans', sans-serif !important;
     color: #111;
     background: #000;
-    overflow: hidden !important;
+    overflow: hidden;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
 }
@@ -989,7 +989,7 @@ div.cesium-baseLayerPicker-item {
 .cesium-baseLayerPicker-itemLabel {
     color:#DDD;
 }
-
+/*
 .cesium-baseLayerPicker-item .cesium-baseLayerPicker-itemIcon {
     -webkit-filter: grayscale(1);
     -webkit-filter: grayscale(100%);
@@ -1001,7 +1001,11 @@ div.cesium-baseLayerPicker-item {
     -moz-transition: all 250ms ease;
     -o-transition: all 250ms ease;
     transition: all 250ms ease;
+} */
+.cesium-baseLayerPicker-item .cesium-baseLayerPicker-itemIcon {
+    border-radius:0;
 }
+/*
 .cesium-baseLayerPicker-item:hover .cesium-baseLayerPicker-itemIcon,
 .cesium-baseLayerPicker-item:focus .cesium-baseLayerPicker-itemIcon {
     border: 2px solid rgba(25,130,209,1);
@@ -1009,6 +1013,12 @@ div.cesium-baseLayerPicker-item {
     outline-color: #1982D1;
     -webkit-filter: none;
     filter: none;
+} */
+.cesium-baseLayerPicker-item:hover .cesium-baseLayerPicker-itemIcon,
+.cesium-baseLayerPicker-item:focus .cesium-baseLayerPicker-itemIcon {
+    border: 2px solid rgba(25,130,209,1);
+    box-shadow: 0 0 5px #1982D1;
+    outline-color: #1982D1;
 }
 .cesium-baseLayerPicker-item:hover .cesium-baseLayerPicker-itemLabel,
 .cesium-baseLayerPicker-item:focus .cesium-baseLayerPicker-itemLabel {
@@ -1365,19 +1375,12 @@ iframe.cesium-infoBox-iframe {
         right: 10px;
         top: 50px;
     }
-    div.layer-menu-toggle {
-        top: 50px;
-        left: 10px;
-    }
     div.layer-menu-toggle i.fa-3x {
         font-size:32px;
     }
     div.layer-menu-toggle span {
         font-size:10px;
     }
-}
-
-@media screen and (max-width:420px) {
     div.logo img {
         width: 200px;
     }
@@ -1387,10 +1390,6 @@ iframe.cesium-infoBox-iframe {
     }
     div#options-menu {
         display: block;
-    }
-    div.control-sidebar {
-        width: 100%;
-        right: -100%;
     }
     ul.sidebar-window-controls li {
         padding: 5px;       
@@ -1426,6 +1425,13 @@ iframe.cesium-infoBox-iframe {
     li.options-button:first-child:nth-last-child(2),
     li.options-button:first-child:nth-last-child(2) ~ li {
         left: auto;
+    }
+}
+
+@media screen and (max-width:480px) {
+    div.control-sidebar {
+        width: 100%;
+        right: -100%;
     }
     .featherlight .featherlight-content {
         margin-left: 2%;

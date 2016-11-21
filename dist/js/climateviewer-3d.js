@@ -1,3 +1,5 @@
+/* jshint multistr: true, browser: true */
+/* globals $:false, Cesium:false, nobjectsIn:false, console:false, Self:false, layers:false, _:false */
 "use strict";
 
 // Set web root url
@@ -11,8 +13,8 @@ function resize() {
     var clientHeight = $(window).height(),
         clientWidth = $(window).width(),
         tiny = 420;
-    $('html').height(clientHeight);
-    $('body').height(clientHeight);
+    $('html').height(clientHeight).width(clientWidth);
+    $('body').height(clientHeight).width(clientWidth);
     $('#top').slimScroll({
         height: clientHeight - 30
     });
@@ -31,16 +33,15 @@ function resize() {
     }
 }
 
-$( window ).resize(function() {
+$(window).resize(function () {
     resize();
-    console.log('resized');
+    //console.log('resized');
 });
-$( window ).on( "orientationchange", function() {
+$(window).on("orientationchange", function () {
     resize();
-    console.log('orientation');
+    //console.log('orientation');
 });
-      
-$('.panel-toggle').click(function() {
+$('.panel-toggle').click(function () {
     var id = $(this).attr('id'),
         target = $('.' + id),
         icon = $(this).find('i');
@@ -53,7 +54,7 @@ $('.panel-toggle').click(function() {
         target.show();
         icon.removeClass('fa-chevron-right').addClass('fa-chevron-down');
     }
-})
+});
 
 var imageryViewModels = [];
 Cesium.BingMapsApi.defaultKey = 'AiQDjsWpddVOFEnVY6j4Jb0S0Hoy9QMa30rvbZT1A8qd0it10NkYAgvb5sa3OeLw';
@@ -84,8 +85,7 @@ imageryViewModels.push(new Cesium.ProviderViewModel({
 imageryViewModels.push(new Cesium.ProviderViewModel({
     name: 'Watercolor',
     iconUrl: Cesium.buildModuleUrl('Widgets/Images/ImageryProviders/stamenWatercolor.png'),
-    tooltip: 'Reminiscent of hand drawn maps, Stamen watercolor maps apply raster effect \
-area washes and organic edges over a paper texture to add warm pop to any map.\nhttp://maps.stamen.com',
+    tooltip: 'Reminiscent of hand drawn maps maps.stamen.com',
     creationFunction: function () {
         return new Cesium.UrlTemplateImageryProvider({
             url: 'http://tile.stamen.com/watercolor/{z}/{x}/{y}.jpg',
@@ -133,14 +133,7 @@ imageryViewModels.push(new Cesium.ProviderViewModel({
 imageryViewModels.push(new Cesium.ProviderViewModel({
     name: 'ESRI Aerial',
     iconUrl: Cesium.buildModuleUrl('Widgets/Images/ImageryProviders/esriWorldImagery.png'),
-    tooltip: '\
-World Imagery provides one meter or better satellite and aerial imagery in many parts of the world and lower resolution \
-satellite imagery worldwide.  The map includes NASA Blue Marble: Next Generation 500m resolution imagery at small scales \
-(above 1:1,000,000), i-cubed 15m eSAT imagery at medium-to-large scales (down to 1:70,000) for the world, and USGS 15m Landsat \
-imagery for Antarctica. The map features 0.3m resolution imagery in the continental United States and 0.6m resolution imagery in \
-parts of Western Europe from DigitalGlobe. In other parts of the world, 1 meter resolution imagery is available from GeoEye IKONOS, \
-i-cubed Nationwide Prime, Getmapping, AeroGRID, IGN Spain, and IGP Portugal.  Additionally, imagery at different resolutions has been \
-contributed by the GIS User Community.\nhttp://www.esri.com',
+    tooltip: 'World Imagery provides one meter or better satellite and aerial imagery in many parts of the world and lower resolution satellite imagery worldwide. www.esri.com',
     creationFunction: function () {
         return new Cesium.ArcGisMapServerImageryProvider({
             url: 'http://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer'
@@ -150,11 +143,7 @@ contributed by the GIS User Community.\nhttp://www.esri.com',
 imageryViewModels.push(new Cesium.ProviderViewModel({
     name: 'ESRI Street',
     iconUrl: Cesium.buildModuleUrl('Widgets/Images/ImageryProviders/esriWorldStreetMap.png'),
-    tooltip: '\
-This worldwide street map presents highway-level data for the world. Street-level data includes the United States; much of \
-Canada; Japan; most countries in Europe; Australia and New Zealand; India; parts of South America including Argentina, Brazil, \
-Chile, Colombia, and Venezuela; Ghana; and parts of southern Africa including Botswana, Lesotho, Namibia, South Africa, and Swaziland.\n\
-http://www.esri.com',
+    tooltip: 'Worldwide street map presents highway-level data for the world. www.esri.com',
     creationFunction: function () {
         return new Cesium.ArcGisMapServerImageryProvider({
             url: 'http://services.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer'
@@ -164,13 +153,7 @@ http://www.esri.com',
 imageryViewModels.push(new Cesium.ProviderViewModel({
     name: 'ESRI Ocean',
     iconUrl: 'dist/img/esri-ocean.jpg',
-    tooltip: '\
-This map is designed to be used as a base map by marine GIS professionals and as a reference map by anyone interested in ocean data. \
-The base map includes bathymetry, marine water body names, undersea feature names, and derived depth values in meters. Land features \
-include administrative boundaries, cities, inland waters, roads, overlaid on land cover and shaded relief imagery. The map was compiled \
-from a variety of best available sources from several data providers, including General Bathymetric Chart of the Oceans GEBCO_08 Grid, \
-IHO-IOC GEBCO Gazetteer of Undersea Feature Names, National Oceanic and Atmospheric Administration (NOAA), and National Geographic, \
-DeLorme, NAVTEQ, Geonames.org, and Esri, and various other contributors.',
+    tooltip: 'Includes bathymetry, marine water body names, undersea feature names, and derived depth values in meters.',
     creationFunction: function () {
         return new Cesium.ArcGisMapServerImageryProvider({
             url: 'http://services.arcgisonline.com/arcgis/rest/services/Ocean_Basemap/MapServer'
@@ -217,10 +200,7 @@ imageryViewModels.push(new Cesium.ProviderViewModel({
 imageryViewModels.push(new Cesium.ProviderViewModel({
     name: 'ESRI NatGeo',
     iconUrl: Cesium.buildModuleUrl('Widgets/Images/ImageryProviders/esriNationalGeographic.png'),
-    tooltip: '\
-This web map contains the National Geographic World Map service. This map service is designed to be used as a general reference map \
-for informational and educational purposes as well as a basemap by GIS professionals and other users for creating web maps and web \
-mapping applications.\nhttp://www.esri.com',
+    tooltip: 'National Geographic World Map service. www.esri.com',
     creationFunction: function () {
         return new Cesium.ArcGisMapServerImageryProvider({
             url: 'http://services.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/'
@@ -296,7 +276,7 @@ viewer = new Cesium.Viewer('cesiumContainer', {
     imageryProvider: false,
     baseLayerPicker: false,
     clock: clock,
-    terrainProvider: false,
+    terrainProvider: false
     //skyAtmosphere: false,
     //skyBox: false,
     //targetFrameRate: 60
@@ -340,8 +320,8 @@ function toggleTimeline(show) {
     } else {
         animationContainer.show();
         timelineContainer.addClass('show');
-        var startTime = Cesium.JulianDate.fromDate(new Date(Date.UTC(2012, 4, 8)));
-        var endTime = Cesium.JulianDate.now();
+        var startTime = Cesium.JulianDate.fromDate(new Date(Date.UTC(2012, 4, 8))),
+            endTime = Cesium.JulianDate.now();
         viewer.timeline.zoomTo(startTime, endTime);
         $('#toggle-timeline').addClass('active');
     }
@@ -425,7 +405,7 @@ function openPicker() {
     $('#datepicker').pickadate('picker').open();
 }
 */
-$('#distanceLegendDiv').before('<div class="legend-cap" title="Distance Legend"></div>').attr('title','Distance Legend');
+$('#distanceLegendDiv').before('<div class="legend-cap" title="Distance Legend"></div>').attr('title', 'Distance Legend');
 $('.distance-legend').addClass('noselect');
 $('#phone-home').on("click", function () {
     window.location = 'http://climateviewer.org/';
@@ -1742,7 +1722,7 @@ $('.cesium-geocoder-input').addClass('cesium-geocoder-input-wide');
 //$('[data-bind="foreach: imageryProviderViewModels"]').remove();
 
 function isEmpty( el ){
-  return !$.trim(el.html())
+  return !$.trim(el.html());
 }
 // TOGGLE DISPLAY OF ALL/ACTIVE (DISPLAYED ON GLOBE) MAP LAYERS
 $('#active-layers-toggle').toggle(
@@ -1754,7 +1734,7 @@ $('#active-layers-toggle').toggle(
         });
         $(this).html('<i class="fa fa-2x fa-eye-slash"></i> All');
         if (isEmpty($('#active-layers'))) {
-            $('#active-layers').html('<div class="cv-learn"><h3><i style="color:#F00" class="fa fa-fw fa-exclamation-triangle"></i> NO ACTIVE LAYERS SELECTED</h3><p style="text-align:left;">Try turning on a map layer by clicking the <i class="fa fa-fw fa-play"></i> icon.</p></div>')
+            $('#active-layers').html('<div class="cv-learn"><h3><i style="color:#F00" class="fa fa-fw fa-exclamation-triangle"></i> NO ACTIVE LAYERS SELECTED</h3><p style="text-align:left;">Try turning on a map layer by clicking the <i class="fa fa-fw fa-play"></i> icon.</p></div>');
         }
         $('.active-layers-label').show();
         $('#active-layers').show();

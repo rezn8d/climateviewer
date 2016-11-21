@@ -8,7 +8,10 @@ Discover how natural and artificial phenomena from past to present, underground 
 ClimateViewer features real-time atmospheric and geophysical monitoring with maps covering geoengineering, weather modification, climate change, pollution, privacy, exploration, migration, geosciences, architecture, green energy solutions, sunken ships, airplane crash sites and more.
 
 [Project Roadmap](http://climateviewer.org/)
-[Demo: 3D WebGL Cesium Version](http://climateviewer.org/3D/)
+
+##DEMO
+
+[ClimateViewer 3D (Cesium WebGL)](http://climateviewer.org/3D/)
 
 ###Our Goals
 
@@ -18,7 +21,7 @@ We are diligently working to combine all three apps into one, add user accounts,
 
 With ClimateViewer, the world is at your finger tips!
 
-![ClimateViewer 3D](http://climateviewer.org/dist/img/climateviewer-3d.jpg)
+![ClimateViewer 3D](https://climateviewer.files.wordpress.com/2016/11/climateviewer-3d.jpg)
 
 ###Monitor Your World
 
