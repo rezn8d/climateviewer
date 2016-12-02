@@ -1,15 +1,18 @@
-/*
+/* 
+    CLIMATEVIEWER 3D
+    http://climateviewer.org/3D/
+    https://github.com/rezn8d/climateviewer
+*/
 
+/* 
 SHADOW
     border: 1px solid rgba(25,130,209,1);
     border-color: rgba(25,130,209,1);
     box-shadow: 0 0 5px #1982D1;
     outline-color: #1982D1;
     background: #262b31;
-
-
-
 */
+
 .modal,
 .bitly,
 div.modal-content,

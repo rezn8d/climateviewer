@@ -1,14 +1,11 @@
 {
     "globals": {
         "$": false,
-        $: false,
-        jQuery:false,
         "_": false,
         "L": false,
         "layers": false,
         "document":false,
         "window":false,
-        window:false,
         "devicePixelRatio":false,
         "nobjectsIn":false,
         "console":false,
@@ -16,6 +13,5 @@
         "xTileCordinate":false,
         "setTimeout":false,
         "Cesium":false,
-        multistr: true
     }
 }

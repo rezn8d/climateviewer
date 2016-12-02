@@ -1,5 +1,12 @@
+/* 
+    CLIMATEVIEWER 3D
+    http://climateviewer.org/3D/
+    https://github.com/rezn8d/climateviewer
+*/
+
 /* jshint multistr: true, browser: true */
 /* globals $:false, Cesium:false, nobjectsIn:false, console:false, Self:false, layers:false, _:false */
+
 "use strict";
 
 // Set web root url
@@ -263,36 +270,43 @@ var now = Cesium.JulianDate.now();
 var clock = new Cesium.Clock({
     currentTime: now
 });
-var viewer;
+var viewer,
+    mode,
+    clientWidth = $(window).width(),
+    mobile = 1025;
 
-// If Mobile start in 2D scene mode for increased performance
+if (clientWidth < mobile) {
+    // START IN 2D MODE
+    mode = Cesium.SceneMode.SCENE2D;
+} else {
+    // START IN 3D MODE
+    mode = Cesium.SceneMode.SCENE3D;
+    $('#mode-2D').removeClass('active');
+    $('#mode-3D').addClass('active');
+}
 viewer = new Cesium.Viewer('cesiumContainer', {
     sceneModePicker: false,
     timeline: true,
     animation: true,
-    sceneMode: Cesium.SceneMode.SCENE3D,
+    sceneMode: mode,
     navigationHelpButton: false,
     navigationInstructionsInitiallyVisible: false,
     imageryProvider: false,
     baseLayerPicker: false,
     clock: clock,
     terrainProvider: false
-    //skyAtmosphere: false,
-    //skyBox: false,
-    //targetFrameRate: 60
 });
+viewer.extend(Cesium.viewerCesiumNavigationMixin, {});
 
 // viewer.resolutionScale = 1.0 / devicePixelRatio;  // performance fix for non-retina devices
 // viewer.scene.imageryLayers.removeAll();  // clear all layers
 // viewer.scene.globe.baseColor = Cesium.Color.BLACK;   // set globe black
 // new Cesium.GeographicProjection(ellipsoid)   // set EPSG4236
+// viewer.extend(Cesium.viewerPerformanceWatchdogMixin, {
+//    lowFrameRateMessage: 'Your screen is running very slowly. You should try our mobile app: climateviewer.org/mobile/?'
+// });
 
-viewer.extend(Cesium.viewerCesiumNavigationMixin, {});
-viewer.extend(Cesium.viewerPerformanceWatchdogMixin, {
-    lowFrameRateMessage: 'Your screen is running very slowly. You should try our mobile app: climateviewer.org/mobile/?'
-});
-
-// add baseLayerPicker 
+// add baseLayerPicker
 
 var baseLayerPicker = new Cesium.BaseLayerPicker('baseLayerPickerContainer', {
     globe: viewer.scene,
@@ -349,7 +363,7 @@ nobjectsIn(layers, function (x) {
 var date = new Date();
 date.setDate(date.getDate() - 1);
 var yesterday = Cesium.JulianDate.fromDate(date);
-var time = Cesium.JulianDate.toDate(yesterday);
+var startdate = Cesium.JulianDate.toDate(yesterday);
 
 var $input = $('#datepicker').pickadate({
     format: 'mmmm d, yyyy',
@@ -365,7 +379,7 @@ var $input = $('#datepicker').pickadate({
 });
 
 var picker = $input.pickadate('picker');
-picker.set('select', time);
+picker.set('select', startdate);
 picker.on({
     set: function () {
         var selectedDate = picker.get('select', 'yyyy-mm-dd');
@@ -385,8 +399,8 @@ var isoDate = function (isoDateTime) {
 var isoDateTime = clock.currentTime.toString();
 var time = "TIME=" + isoDate(isoDateTime);
 var onClockUpdate = _.throttle(function () {
-    var isoDateTime = clock.currentTime.toString(),
-        time = isoDate(isoDateTime);
+    isoDateTime = clock.currentTime.toString();
+    time = isoDate(isoDateTime);
     if (time !== previousTime) {
         previousTime = time;
         picker.set('select', time, {
@@ -525,21 +539,6 @@ function loadSliders(src, layerId) {
     loaded(layerId);
 }
 
-/*
-function loadMarkerSliders(src, layerId) {
-    var target = $('#' + layerId);
-    var details = $('.' + layerId + '-details');
-    var label = $('<div class="slider-group-label ' + layerId + '-sliders"><i class="options icon"></i> Layer Controls</div>').appendTo(target);
-    var sPanel = $('<div class="ui card ' + layerId + '-sliders layer-sliders" />').appendTo(target);
-    var content = $('<div class="content" />').appendTo(sPanel);
-    var list = $('<div class="ui divided list" />').appendTo(content); 
-
-    NSlider({ 'label': 'opacity', 'mod': 'alpha', 'src': src }).appendTo(list);
-
-    //src.gamma = 1;
-    if (details.is(':visible')) sPanel.show();
-}
-*/
 
 /*
 var gibs = gibs || {};
@@ -940,7 +939,7 @@ function modMRM(geoData) {
         } else {
             image = 'dist/img/icons/cv3d.png';
         }
-        
+
         billboard.image = image;
 
         billboard.scale = 4;
@@ -984,7 +983,6 @@ function loadGeoJson(layerId, geoDataSrc, markerLabel, markerScale, markerImg, z
         modMarkers(layerId, geoData, markerImg, markerScale, markerLabel, noList);
         viewer.dataSources.add(geoData);
         activeLayers[layerId] = geoData;
-        // TODO loadMarkerSliders(geoData, layerId);
         if (zoom) {
             if (zoom === true) {
                 viewer.flyTo(geoData);
@@ -1008,25 +1006,18 @@ function loadKml(layerId, geoDataSrc, proxy, zoom, markerImg, markerScale, marke
             },
             sourceUri: geoDataSrc
         }).then(function (geoData) {
-            if (markerMod) {
-                modMarkers(geoData, markerImg, markerScale, markerLabel);
-            }
-            if (layerId.indexOf("mrm-") >= 0) {
-                modMRM(geoData);
-                console.log('My Reading Mapped');
-            } else {
-                //markerMod = false;
-            }
+            if (markerMod) modMarkers(geoData, markerImg, markerScale, markerLabel);
+            //if (layerId.indexOf("mrm-") >= 0) modMRM(geoData);
 
             viewer.dataSources.add(geoData); // add to map
             activeLayers[layerId] = geoData; // store for removal
-            if (zoom) {
+            /* if (zoom) {
                 if (zoom === true) {
                     viewer.flyTo(geoData);
                 } else {
                     $('.cesium-home-button').trigger('click');
                 }
-            }
+            } */
             loaded(layerId);
         }, function (error) {
             loadError(layerId, geoDataSrc, error);
@@ -1038,13 +1029,13 @@ function loadKml(layerId, geoDataSrc, proxy, zoom, markerImg, markerScale, marke
             } // end markerMod
             viewer.dataSources.add(geoData);
             activeLayers[layerId] = geoData;
-            if (zoom) {
+            /* if (zoom) {
                 if (zoom === true) {
                     viewer.flyTo(geoData);
                 } else {
                     $('.cesium-home-button').trigger('click');
                 }
-            }
+            } */
             loaded(layerId);
         }, function (error) {
             loadError(layerId, geoDataSrc, error);
@@ -1110,7 +1101,7 @@ function updateLayer(layerId, includeOnly) {
     var selectedDate = picker.get('select', 'yyyy-mm-dd');
 
     if (!includeOnly) zoom = l.Z;
-    
+
     if (geoLayers) {
         geoLayers = geoLayers;
     } else {
@@ -1400,17 +1391,17 @@ function initLayers(includeOnly) {
 }
 
 // MAP MODE BUTTONS
-/*
-$('.mode-3D').click(function () {
+$('#mode-3D').click(function () {
     viewer.scene.morphTo3D();
-    $('.map-mode div.active').removeClass('active');
+    $('#mode-2D.active').removeClass('active');
     $(this).addClass('active');
 });
-$('.mode-2D').click(function () {
+$('#mode-2D').click(function () {
     viewer.scene.morphTo2D();
-    $('.map-mode div.active').removeClass('active');
+    $('#mode-3D.active').removeClass('active');
     $(this).addClass('active');
 });
+/*
 $('.mode-flat').click(function () {
     viewer.scene.morphToColumbusView();
     $('.map-mode div.active').removeClass('active');
@@ -1440,25 +1431,20 @@ if (baseLayer.length > 0) {
     $("div[id='" + baseLayerId + "']").trigger('click');
 }
 
+
 if (allLayers.length > 0) {
     // LOAD LAYERS FROM URL
     var latView = (getURLParameter("lat") || '-78.176832746519');
     var lonView = (getURLParameter("lon") || '31.300283760032368');
     var zoomView = (getURLParameter("zoom") || '26596280.257583864');
     var dateView = (getURLParameter("date") || time);
-    var modeView = (getURLParameter("mode") || '3D');
 
     if (dateView !== time) {
         picker.set('select', dateView, {
             format: 'yyyy-mm-dd'
         });
     }
-    /*
-    if (modeView) {
-        //console.log('.mode-' + modeView);
-        $('.mode-' + modeView).click();
-    }
-    */
+    
     if (latView !== '-78.176832746519') {
         var includeOnly = true;
         initLayers(includeOnly);
@@ -1469,12 +1455,15 @@ if (allLayers.length > 0) {
         initLayers();
     }
 
+    var modeView = (getURLParameter("mode") || '2D');
+    if (modeView !== '2D') {
+        console.log('.mode-' + modeView);
+        $('#mode-' + modeView).click();
+    }
+    
     var shared = $('<div class="folder" style="display: block;"></div>').prependTo('#map-layers');
     $('<h2 class="toggle active">Shared Layers</h2>').prependTo('#map-layers').show();
 
-    // Base Layer
-
-    
     // Load Layers
     for (var i = 0; i < allLayers.length; i++) {
         $('#' + allLayers[i]).detach().appendTo(shared).show();
@@ -1515,15 +1504,15 @@ function shareLink() {
             baseLayers += L + ',';
         }
     });
-*/    
-    
+*/
+
     shareLink += 'index.html?';
 
     if (layers.length > 0) {
         layers = layers.substring(0, layers.length - 1);
         shareLink += 'layersOn=' + layers;
     }
-    
+
     shareLink += '&baseLayer=' + $('.cesium-baseLayerPicker-selectedItem').prop('id');
 
 /*
@@ -1535,7 +1524,7 @@ function shareLink() {
     function disableView() {
         $('#includeView').prop('disabled', true).parent().prop('title', 'Not available in 2D or Flat Earth mode yet.');
     }
-    /*
+
     if ($('.mode-2D').hasClass('active')) {
         shareLink += '&mode=2D';
         disableView();
@@ -1562,34 +1551,39 @@ function shareLink() {
         shareLink += '&zoom=' + zoom;
         shareLink += '&mode=3D';
     }
-    */
+*/
+    // GET MAP MODE
+    if ($('#mode-2D').hasClass('active')) {
+        shareLink += '&mode=2D';
+    } else {
+        var scene = viewer.scene;
+        var camera = scene.camera;
+        var windowPosition = new Cesium.Cartesian2(viewer.container.clientWidth / 2, viewer.container.clientHeight / 2);
+        var pickRay = viewer.scene.camera.getPickRay(windowPosition);
+        var pickPosition = viewer.scene.globe.pick(pickRay, viewer.scene);
+        var pickPositionCartographic = viewer.scene.globe.ellipsoid.cartesianToCartographic(pickPosition);
+        var height = camera.positionCartographic.height;
+        var lat = pickPositionCartographic.longitude * (180 / Math.PI);
+        var lon = pickPositionCartographic.latitude * (180 / Math.PI);
+        var ll = lat.toFixed(5);
+        var ln = lon.toFixed(5);
+        var zoom = height.toFixed(2);
+
+        shareLink += '&lat=' + ll;
+        shareLink += '&lon=' + ln;
+        shareLink += '&zoom=' + zoom;
+        shareLink += '&mode=3D';
+    }
     
 
-    var scene = viewer.scene;
-    var camera = scene.camera;
-    var windowPosition = new Cesium.Cartesian2(viewer.container.clientWidth / 2, viewer.container.clientHeight / 2);
-    var pickRay = viewer.scene.camera.getPickRay(windowPosition);
-    var pickPosition = viewer.scene.globe.pick(pickRay, viewer.scene);
-    var pickPositionCartographic = viewer.scene.globe.ellipsoid.cartesianToCartographic(pickPosition);
-    var height = camera.positionCartographic.height;
-    var lat = pickPositionCartographic.longitude * (180 / Math.PI);
-    var lon = pickPositionCartographic.latitude * (180 / Math.PI);
-    var ll = lat.toFixed(5);
-    var ln = lon.toFixed(5);
-    var zoom = height.toFixed(2);
-
-    shareLink += '&lat=' + ll;
-    shareLink += '&lon=' + ln;
-    shareLink += '&zoom=' + zoom;
-    
     var date = picker.get('select', 'yyyy-mm-dd');
     shareLink += '&date=' + date;
 
     var shareToggle = $('.share-all-layers');
     shareToggle.attr('href', shareLink).html(shareLink);
 
-    
-    /* SHORTEN URL 
+
+    /* SHORTEN URL
     var encodeLink = encodeURIComponent(shareLink);
     console.log(shareLink);
     function bit_url(shareLink) {
@@ -1639,7 +1633,7 @@ function toggleSidebar() {
     if (!$('.control-sidebar').hasClass('control-sidebar-open')) {
         $('.control-sidebar, #cesiumContainer').addClass('control-sidebar-open');
         $('#open-menu').addClass('active');
-        
+
         $('.control-sidebar').height(clientHeight);
         if (clientWidth < tiny) {
             $('#cesiumContainer, .cesium-viewer, .control-sidebar').height(clientHeight).width(clientWidth);
@@ -1810,4 +1804,3 @@ $('style').remove();
 $('#cesiumContainer, #open-menu, .map-options').show();
 
 resize();
-    

@@ -8,7 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
     <meta name="HandheldFriendly" content="true" />
-    <meta name="application-name" content="ClimateViewer 3D v7.0" />
+    <meta name="application-name" content="ClimateViewer 3D v7.07" />
 
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
@@ -59,7 +59,7 @@
     <link type="text/css" rel="stylesheet" href="lib/font-awesome-4.7.0/css/font-awesome.min.css">
     <!-- <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
     <!-- CV style -->
-    <link type="text/css" rel="stylesheet" href="dist/css/climateviewer.min.css?v7.02">
+    <link type="text/css" rel="stylesheet" href="dist/css/climateviewer.min.css?v7.07">
 
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -97,9 +97,6 @@
             <li class="options-button" title="Chat With Us!" data-featherlight="#chat-modal">
                 <i class="fa fa-comments-o"></i>
             </li>
-            <li id="phone-home" class="options-button" title="Back Home">
-                <i class="fa fa-home"></i>
-            </li>
             <li id="about" class="options-button" title="Instructions">
                 <i class="fa fa-info-circle"></i>
             </li>
@@ -110,6 +107,14 @@
             </li>
             <li id="toggle-timeline" class="options-button" title="Toggle Timeline">
                 <i class="fa fa-clock-o"></i>
+            </li>
+        </ul>
+        <ul class="row">
+            <li id="mode-2D" class="options-button active" title="Switch to Flat Map">
+                <i class="fa fa-map-o"></i>
+            </li>
+            <li id="mode-3D" class="options-button" title="Switch to 3D Globe">
+                <i class="fa fa-globe"></i>
             </li>
         </ul>
     </div>
@@ -133,7 +138,7 @@
         <!-- Tab panes -->
         <div id="top" class="map-layers-window">
             <div class="search"></div>
-            <h1 class="cv-header">Climate<span>Viewer</span> 3D</h1>
+            <h1 id="phone-home" class="cv-header">Climate<span>Viewer</span> 3D</h1>
             <p class="instruct all-layers-label">Choose Category</p>
             <div id="map-layers" class="map-layers"></div>
             <p class="instruct active-layers-label">Active Layers</p>
@@ -360,7 +365,7 @@
     <!-- INSTALL REQUIRED, UNCOMMENT SKELETON FILE BELOW, REMOVE climateviewer-layers.min.js -->
     <!-- <script type="text/javascript" src="dist/js/climateviewer-layers-skeleton.min.js"></script> -->
     <script type="text/javascript" src="dist/js/climateviewer-layers.min.js?v7"></script>
-    <script type="text/javascript" src="dist/js/climateviewer-3d.min.js?v7.01"></script>
+    <script type="text/javascript" src="dist/js/climateviewer-3d.min.js?v7.07"></script>
 
 
     <script type="text/javascript">

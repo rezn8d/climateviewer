@@ -1,7 +1,7 @@
 .git/
 .idea/
-old-layers.html
 /layers/
 /img/
 dist/js/climateviewer-layers.min.js
 dist/js/climateviewer-layers.js
+dist/js/old-layers.txt
