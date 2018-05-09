@@ -238,7 +238,7 @@ var layers = {
                     "G": "http://cimss.ssec.wisc.edu/tropic2/real-time/atlantic/movies/kml/tiles/RT.atlantic.g8ir.tiles.kml",
                     "S": "CIMSS/SSEC University of Wisconsin-Madison",
                     "U": "http://tropic.ssec.wisc.edu/",
-                    "N": "North Atlantic Infrared - Unenchanced FULL"
+                    "N": "North Atlantic Infrared - Unenhanced FULL"
                 },
                 {
                     "I": "cimss-ir",
