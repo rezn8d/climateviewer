@@ -1,7 +1,11 @@
-.git/
-.idea/
-/layers/
-/img/
-dist/js/climateviewer-layers.min.js
+cgi-bin/
 dist/js/climateviewer-layers.js
-dist/js/old-layers.txt
+dist/js/climateviewer-layers.min.js
+layers/
+img/
+mobile/
+myreadingmapped/
+sitemap.xml
+robots.txt
+.htaccess
+error_log
