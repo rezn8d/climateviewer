@@ -7,7 +7,7 @@ Discover how natural and artificial phenomena from past to present, underground 
 
 ClimateViewer features real-time atmospheric and geophysical monitoring with maps covering geoengineering, weather modification, climate change, pollution, privacy, exploration, migration, geosciences, architecture, green energy solutions, sunken ships, airplane crash sites and more.
 
-[Demo:](http://climateviewer.org/)
+[ClimateViewer.org - See this repo live!](http://climateviewer.org/)
 
 ### Our Goals
 
