@@ -723,7 +723,7 @@ var layers = {
                     "T": "kml",
                     "R": [ -9.157, -22.066, 103.393,  77.548],
                     "M": true,
-                    "G": "http://climateviewer/layers/kml/2018/Ten-Most-Radioactive-Locations-On-Earth-CV3D.kmz",
+                    "G": "/dist/layers/kml/Ten-Most-Radioactive-Locations-On-Earth-CV3D.kmz",
                     "S": "Created by <a href='https://climateviewer.com/about/'>Jim Lee</a>.<a href='https://climateviewer.com/2013/11/24/10-most-radioactive-places-on-earth/'>climateviewer.com/2013/11/24/10-most-radioactive-places-on-earth/</a><br><br><img src='https://climateviewer.org/img/gallery/sellafield-plutonium-teeth1.jpg' alt='nuclear reactor map'>",
                     "U": "https://climateviewer.com/2013/11/24/10-most-radioactive-places-on-earth/",
                     "N": "Ten Most Radioactive Places on Earth"
@@ -733,7 +733,7 @@ var layers = {
                     "T": "kml",
                     "NC": true,
                     "R": [ -76.994, 39.821, -76.395, 40.371],
-                    "G": "http://climateviewer/layers/kml/pollution/nuclear/Three-Mile-Island-meltdown-Climate-Viewer-3D.kmz",
+                    "G": "/dist/layers/kml/Three-Mile-Island-meltdown-climateviewer-3d.kmz",
                     "S": "Created by <a href='https://climateviewer.com/about/'>Jim Lee</a>.<br><br><a href='http://en.wikipedia.org/wiki/Three_mile_island#Accident'>Partial melt-down and radioactive release</a> occurred on March 28, 1979 as a result of a loss of coolant systems.<br><br>Radiation Emissions and Cancer Inicidence Within 10 miles of the Three Mile Island nuclear accident, 1979. Source: <a href='http://web.archive.org/web/20150504222753/http://www.southernstudies.org/2009/04/investigation-revelations-about-three-mile-island-disaster-raise-doubts-over-nuclear-plant-s'>Investigation: Revelations about Three Mile Island disaster raise doubts over nuclear plant safety</a>",
                     "U": "https://climateviewer.com/nuclear-reactor-map/",
                     "N": "1979 Three Mile Island Fallout"
@@ -742,7 +742,7 @@ var layers = {
                     "I": "fuku-tsunami-seawater",
                     "T": "kml",
                     "R": [ 130, 15, 210, 45],
-                    "G": "http://climateviewer/layers/kml/3rdparty/pollution/nuclear/radioactive_seawater/part_51.kml",
+                    "G": "/dist/layers/kml/radioactive_seawater/part_51.kml",
                     "S": "Ocean scientists at ASR Limited have used the Japan tsunami as a research tool to push the limits of our modelling and research capabilities. We have focussed on three aspects of the Japan event: 1) Developing and fine tuning a real time tsunami assessment tool for vulnerable ports an harbours in New Zealand. 2) Tracking the transport and distribution of debris washed in to the ocean as it crosses the Pacific Ocean and 3) Modelling the distribution of radioactive seawater emanating from the stricken Fukushima nuclear power plant.",
                     "U": "http://web.archive.org/web/20160313073313/http://www.asrltd.com/japan/plume.php",
                     "N": "2011 Fukushima Radioactive Seawater (by March 2012)"
@@ -753,7 +753,7 @@ var layers = {
                     "H": true,
                     "C": true,
                     "R": [ 130, 15, 210, 45],
-                    "G": "http://climateviewer/layers/kml/2018/fukushima-radioactive-seawater-climateviewer-3d.kmz",
+                    "G": "/dist/layers/kml/fukushima-radioactive-seawater-climateviewer-3d.kmz",
                     "S": "Ocean scientists at ASR Limited have used the Japan tsunami as a research tool to push the limits of our modelling and research capabilities. We have focussed on three aspects of the Japan event: 1) Developing and fine tuning a real time tsunami assessment tool for vulnerable ports an harbours in New Zealand. 2) Tracking the transport and distribution of debris washed in to the ocean as it crosses the Pacific Ocean and 3) Modelling the distribution of radioactive seawater emanating from the stricken Fukushima nuclear power plant.",
                     "U": "http://web.archive.org/web/20160313073313/http://www.asrltd.com/japan/plume.php",
                     "N": "2011 Fukushima Radioactive Seawater (Animation)"
@@ -762,7 +762,7 @@ var layers = {
                     "I": "fuku-tsunami-debris",
                     "T": "kml",
                     "R": [ 130, 15, 210, 45],
-                    "G": "http://climateviewer/layers/kml/3rdparty/pollution/nuclear/tsunami_debris/part_51.kml",
+                    "G": "/dist/layers/kml/tsunami_debris/part_51.kml",
                     "S": "Ocean scientists at ASR Limited have used the Japan tsunami as a research tool to push the limits of our modelling and research capabilities. We have focussed on three aspects of the Japan event: 1) Developing and fine tuning a real time tsunami assessment tool for vulnerable ports an harbours in New Zealand. 2) Tracking the transport and distribution of debris washed in to the ocean as it crosses the Pacific Ocean and 3) Modelling the distribution of radioactive seawater emanating from the stricken Fukushima nuclear power plant.",
                     "U": "http://web.archive.org/web/20160507040547/http://www.asrltd.com/japan/debris.php",
                     "N": "2011 Fukushima Tsunami Debris (by March 2012)"
@@ -773,20 +773,10 @@ var layers = {
                     "H": true,
                     "C": true,
                     "R": [ 130, 15, 210, 45],
-                    "G": "http://climateviewer/layers/kml/3rdparty/pollution/nuclear/tsunami_debris/part_51.kml",
+                    "G": "/dist/layers/kml/fukushima-tsunami-debris-climateviewer-3d.kmz",
                     "S": "Ocean scientists at ASR Limited have used the Japan tsunami as a research tool to push the limits of our modelling and research capabilities. We have focussed on three aspects of the Japan event: 1) Developing and fine tuning a real time tsunami assessment tool for vulnerable ports an harbours in New Zealand. 2) Tracking the transport and distribution of debris washed in to the ocean as it crosses the Pacific Ocean and 3) Modelling the distribution of radioactive seawater emanating from the stricken Fukushima nuclear power plant.",
                     "U": "http://web.archive.org/web/20160507040547/http://www.asrltd.com/japan/debris.php",
                     "N": "2011 Fukushima Tsunami Debris (Animation)"
-                },
-                {
-                    "I": "fuku-tsunami",
-                    "Z": true,
-                    "NC": true,
-                    "T": "kml",
-                    "G": "http://climateviewer/layers/kml/2018/honshu_tsunami_2011-03-11.kmz",
-                    "S": "NOAA Center for Tsunami Research, Maximum amplitude plot for Google Earth (KMZ)",
-                    "U": "http://nctr.pmel.noaa.gov/honshu20110311/index.html",
-                    "N": "2011 Fukushima Tsunami Wave Height"
                 }
             ]
         }

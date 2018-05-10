@@ -10,9 +10,7 @@
 "use strict";
 
 // Set web root url
-//var shareURL = window.location.protocol + "//" + window.location.host + "/"; // DEV
 var shareURL = "http://climateviewer.org/"; // production
-// var proxyURL = 'http://climateviewer.org/proxy.php?'; // production
 var proxyURL = '/proxy.php?'; // dev
 
 function rgb2hex(rgb){
@@ -22,9 +20,6 @@ function rgb2hex(rgb){
   ("0" + parseInt(rgb[2],10).toString(16)).slice(-2) +
   ("0" + parseInt(rgb[3],10).toString(16)).slice(-2) : '';
 }
-
-
-
 
 // Check for mobile devices
 function resize() {
@@ -340,8 +335,8 @@ var animationContainer = $('.cesium-viewer-animationContainer');
 var timelineContainer = $('.cesium-viewer-timelineContainer');
 var credit = $('.cesium-viewer-bottom');
 
-animationContainer.hide();
-timelineContainer.hide();
+//animationContainer.hide();
+//timelineContainer.hide();
 //credit.hide();
 
 function toggleTimeline(show) {
@@ -356,9 +351,9 @@ function toggleTimeline(show) {
     } else {
         animationContainer.show();
         timelineContainer.addClass('show');
-        var startTime = Cesium.JulianDate.fromDate(new Date(Date.UTC(2012, 4, 8))),
-            endTime = Cesium.JulianDate.now();
-        viewer.timeline.zoomTo(startTime, endTime);
+        //var startTime = Cesium.JulianDate.fromDate(new Date(Date.UTC(2012, 4, 8))),
+        //    endTime = Cesium.JulianDate.now();
+        //viewer.timeline.zoomTo(startTime, endTime);
         $('#toggle-timeline').addClass('active');
     }
 }
