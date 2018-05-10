@@ -719,16 +719,6 @@ var layers = {
             "description": "<h3>Why should I care about Nuclear Reactors?</h3><blockquote>&ldquo;Electricity is but the fleeting byproduct from nuclear reactors. The actual product is forever deadly radioactive waste.&rdquo;</blockquote><p><p><strong>More Info<br>&bull; <a href='https://climateviewer.com/nuclear-reactor-map/'>climateviewer.com/nuclear-reactor-map/</a></p><a href='https://climateviewer.com/nuclear-reactor-map/'><img src='/dist/img/menu/nuclear-reactor-map.jpg' alt='Nuclear Reactor Map' ></a>",
             ">": [
                 {
-                    "I": "radioactive-topten",
-                    "T": "kml",
-                    "R": [ -9.157, -22.066, 103.393,  77.548],
-                    "M": true,
-                    "G": "/dist/layers/kml/Ten-Most-Radioactive-Locations-On-Earth-CV3D.kmz",
-                    "S": "Created by <a href='https://climateviewer.com/about/'>Jim Lee</a>.<a href='https://climateviewer.com/2013/11/24/10-most-radioactive-places-on-earth/'>climateviewer.com/2013/11/24/10-most-radioactive-places-on-earth/</a><br><br><img src='https://climateviewer.org/img/gallery/sellafield-plutonium-teeth1.jpg' alt='nuclear reactor map'>",
-                    "U": "https://climateviewer.com/2013/11/24/10-most-radioactive-places-on-earth/",
-                    "N": "Ten Most Radioactive Places on Earth"
-                },
-                {
                     "I": "tmi-fallout",
                     "T": "kml",
                     "NC": true,
@@ -742,7 +732,7 @@ var layers = {
                     "I": "fuku-tsunami-seawater",
                     "T": "kml",
                     "R": [ 130, 15, 210, 45],
-                    "G": "/dist/layers/kml/radioactive_seawater/part_51.kml",
+                    "G": "/dist/layers/kml/radioactive_seawater/part_51.kmz",
                     "S": "Ocean scientists at ASR Limited have used the Japan tsunami as a research tool to push the limits of our modelling and research capabilities. We have focussed on three aspects of the Japan event: 1) Developing and fine tuning a real time tsunami assessment tool for vulnerable ports an harbours in New Zealand. 2) Tracking the transport and distribution of debris washed in to the ocean as it crosses the Pacific Ocean and 3) Modelling the distribution of radioactive seawater emanating from the stricken Fukushima nuclear power plant.",
                     "U": "http://web.archive.org/web/20160313073313/http://www.asrltd.com/japan/plume.php",
                     "N": "2011 Fukushima Radioactive Seawater (by March 2012)"
@@ -762,7 +752,7 @@ var layers = {
                     "I": "fuku-tsunami-debris",
                     "T": "kml",
                     "R": [ 130, 15, 210, 45],
-                    "G": "/dist/layers/kml/tsunami_debris/part_51.kml",
+                    "G": "/dist/layers/kml/tsunami_debris/part_51.kmz",
                     "S": "Ocean scientists at ASR Limited have used the Japan tsunami as a research tool to push the limits of our modelling and research capabilities. We have focussed on three aspects of the Japan event: 1) Developing and fine tuning a real time tsunami assessment tool for vulnerable ports an harbours in New Zealand. 2) Tracking the transport and distribution of debris washed in to the ocean as it crosses the Pacific Ocean and 3) Modelling the distribution of radioactive seawater emanating from the stricken Fukushima nuclear power plant.",
                     "U": "http://web.archive.org/web/20160507040547/http://www.asrltd.com/japan/debris.php",
                     "N": "2011 Fukushima Tsunami Debris (by March 2012)"
